@@ -5,7 +5,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 <sub>🌐 Also on the web: [Chat apps on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="langchain-nextjs-template"></a>
-### 🥇 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
+### 🥇 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
 
 **Next.js routes for LangChain.js chat, agents, structured output and RAG.**
 
