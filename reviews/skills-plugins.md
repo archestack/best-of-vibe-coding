@@ -23,7 +23,7 @@ A collection of Markdown skill files for coding agents, split into engineering a
 <sub>no GPU · Needs Issue tracker (GitHub, GitLab or local files) · Models: Any model (per README) · [Repo](https://github.com/mattpocock/skills) · [🌐 Site ↗](https://skills.sh/mattpocock/skills)</sub>
 
 <a name="ecc"></a>
-### 🥈 [ecc](https://github.com/affaan-m/ecc) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 277k · MIT · Oct 2026</sub>
+### 🥈 [ecc](https://github.com/affaan-m/ecc) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 277k · MIT · Oct 2026</sub>
 
 **Skills, agents, hooks and rules that add a workflow to coding agents.**
 
@@ -167,7 +167,7 @@ Impeccable installs a single `/impeccable` skill with 24 commands (audit, critiq
 <sub>no GPU · Needs AI coding tool (Claude Code, Cursor, Codex, Gemini CLI, etc.) · [Repo](https://github.com/pbakaus/impeccable) · [▶️ Demo ↗](https://impeccable.style/cases/neo-mirai) · [📖 Docs ↗](https://impeccable.style/docs/hooks) · [🌐 Site ↗](https://impeccable.style)</sub>
 
 <a name="claude-mem"></a>
-### #&#8288;10 [claude-mem](https://github.com/thedotmack/claude-mem) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 99k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [claude-mem](https://github.com/thedotmack/claude-mem) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 100k · Apache-2.0 · Oct 2026</sub>
 
 **Persistent session memory plugin for Claude Code and other coding agents.**
 
@@ -239,7 +239,7 @@ CC Switch is a Tauri 2 desktop app for Windows, macOS and Linux that switches AP
 <sub>no GPU · Models: Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build · [Repo](https://github.com/farion1231/cc-switch) · [🌐 Site ↗](https://ccswitch.io)</sub>
 
 <a name="archify"></a>
-### #&#8288;14 [archify](https://github.com/tt-a1i/archify) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 82k · MIT · Oct 2026</sub>
+### #&#8288;14 [archify](https://github.com/tt-a1i/archify) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 82k · MIT · Oct 2026</sub>
 
 **Agent skill that turns descriptions or repos into interactive HTML diagrams.**
 
@@ -491,7 +491,7 @@ Taste Skill is a set of portable SKILL.md instruction files that tell coding age
 <sub>no GPU · Needs npx skills CLI, Codex, Cursor or Claude Code · [Repo](https://github.com/leonxlnx/taste-skill) · [🌐 Site ↗](https://tasteskill.dev)</sub>
 
 <a name="diagram-design"></a>
-### #&#8288;28 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 49k · MIT · Oct 2026</sub>
+### #&#8288;28 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · MIT · Oct 2026</sub>
 
 **Agent skill that generates editorial HTML/SVG diagrams in your site's style.**
 
