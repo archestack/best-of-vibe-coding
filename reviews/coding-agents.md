@@ -20,8 +20,26 @@ Runs an AI coding agent in the terminal with two built-in agents: build (full ac
 
 <sub>no GPU · [Repo](https://github.com/anomalyco/opencode) · [📖 Docs ↗](https://opencode.ai/docs) · [🌐 Site ↗](https://opencode.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opencode/)</sub>
 
+<a name="claw-code"></a>
+### 🥈 [claw-code](https://github.com/ultraworkers/claw-code) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 195k · MIT · Oct 2026</sub>
+
+**Rust CLI coding agent harness, built from source.**
+
+Claw Code is a Rust implementation of the `claw` CLI agent harness, with the workspace in `rust/` and commands such as `claw prompt`, an interactive session, and `claw doctor` as a health check. It authenticates with API keys (Anthropic, OpenAI, others), and the docs cover local OpenAI-compatible providers such as Ollama, llama.cpp and vLLM. The README describes the repo as an agent-managed exhibit and points users who want to run work to LazyCodex or Gajae-Code.
+
+- **+** Rust workspace builds to a single `claw` binary with a `doctor` check
+- **+** Supports local OpenAI-compatible backends: Ollama, llama.cpp, vLLM
+- **+** MIT license; PowerShell-first Windows install docs alongside Linux and macOS
+- **+** Mock parity harness and workspace test suite via `cargo test --workspace`
+- **−** Build from source only; `cargo install claw-code` installs a deprecated stub
+- **−** README says it is not the serious production project
+- **−** Claude subscription login unsupported; API key required
+- **−** No ACP/Zed daemon yet; `claw acp serve` only returns status
+
+<sub>Docker + Compose · Needs Rust toolchain (cargo), API key (Anthropic, OpenAI or compatible provider) · Models: Anthropic API, OpenAI API, OpenAI-compatible local servers (Ollama, llama.cpp, vLLM) · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claw-code/)</sub>
+
 <a name="orca"></a>
-### 🥈 [orca](https://github.com/stablyai/orca) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 91k · MIT · Oct 2026</sub>
+### 🥉 [orca](https://github.com/stablyai/orca) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 91k · MIT · Oct 2026</sub>
 
 **Desktop app that runs CLI coding agents in parallel git worktrees.**
 
@@ -39,7 +57,7 @@ Orca is a cross-platform desktop app (macOS, Windows, Linux) that runs several C
 <sub>no GPU · Needs git, CLI coding agent of your choice · [Repo](https://github.com/stablyai/orca) · [📖 Docs ↗](https://www.onorca.dev/docs/cli/overview) · [🌐 Site ↗](https://onorca.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orca/)</sub>
 
 <a name="oh-my-openagent"></a>
-### 🥉 [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · custom license · Oct 2026</sub>
+### #&#8288;4 [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · custom license · Oct 2026</sub>
 
 **Terminal coding agent that runs parallel sub-agents and keeps git-based memory.**
 
@@ -57,7 +75,7 @@ OmO ships a single `omo` command, a native binary built on senpi, the project's 
 <sub>Models: Claude, ChatGPT, Kimi, GLM · safety checks passed 7 of 10 · [Repo](https://github.com/code-yeongyu/oh-my-openagent) · [📖 Docs ↗](https://omo.dev/docs) · [🌐 Site ↗](https://omo.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-openagent/)</sub>
 
 <a name="open-swe"></a>
-### #&#8288;4 [Open SWE](https://github.com/langchain-ai/open-swe) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
+### #&#8288;5 [Open SWE](https://github.com/langchain-ai/open-swe) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
 
 **LangChain coding agent that plans, implements and reviews pull requests.**
 
@@ -73,24 +91,6 @@ LangGraph-based agent that investigates a repository, implements changes in a pe
 - **−** CLI mode executes commands locally as you, with no sandbox isolation
 
 <sub>no GPU · Docker + Compose · Needs LangSmith (default sandbox and tracing), GitHub App, Slack app (optional), model provider credentials · Models: configurable LLM providers · [Repo](https://github.com/langchain-ai/open-swe) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-swe/)</sub>
-
-<a name="claw-code"></a>
-### #&#8288;5 [claw-code](https://github.com/ultraworkers/claw-code) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 195k · MIT · Oct 2026</sub>
-
-**Rust CLI coding agent harness, built from source.**
-
-Claw Code is a Rust implementation of the `claw` CLI agent harness, with the workspace in `rust/` and commands such as `claw prompt`, an interactive session, and `claw doctor` as a health check. It authenticates with API keys (Anthropic, OpenAI, others), and the docs cover local OpenAI-compatible providers such as Ollama, llama.cpp and vLLM. The README describes the repo as an agent-managed exhibit and points users who want to run work to LazyCodex or Gajae-Code.
-
-- **+** Rust workspace builds to a single `claw` binary with a `doctor` check
-- **+** Supports local OpenAI-compatible backends: Ollama, llama.cpp, vLLM
-- **+** MIT license; PowerShell-first Windows install docs alongside Linux and macOS
-- **+** Mock parity harness and workspace test suite via `cargo test --workspace`
-- **−** Build from source only; `cargo install claw-code` installs a deprecated stub
-- **−** README says it is not the serious production project
-- **−** Claude subscription login unsupported; API key required
-- **−** No ACP/Zed daemon yet; `claw acp serve` only returns status
-
-<sub>Docker + Compose · Needs Rust toolchain (cargo), API key (Anthropic, OpenAI or compatible provider) · Models: Anthropic API, OpenAI API, OpenAI-compatible local servers (Ollama, llama.cpp, vLLM) · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claw-code/)</sub>
 
 <a name="gemini-cli"></a>
 ### #&#8288;6 [gemini-cli](https://github.com/google-gemini/gemini-cli) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 107k · Apache-2.0 · Oct 2026</sub>
@@ -255,7 +255,7 @@ Codex CLI is a coding agent from OpenAI that runs in the terminal on your machin
 <sub>no GPU · Needs ChatGPT account or OpenAI API key · Models: OpenAI models · [Repo](https://github.com/openai/codex) · [📖 Docs ↗](https://developers.openai.com/codex) · [🌐 Site ↗](https://chatgpt.com/codex) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex/)</sub>
 
 <a name="openchamber"></a>
-### #&#8288;15 [OpenChamber](https://github.com/openchamber/openchamber) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
+### #&#8288;15 [OpenChamber](https://github.com/openchamber/openchamber) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
 
 **Workspace for running and reviewing OpenCode coding agents across devices.**
 
