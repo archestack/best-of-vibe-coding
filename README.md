@@ -663,6 +663,6 @@ These lists, app stores and galleries (facts and links only, no text copied), pl
 
 Data (`data/`, this README, `reviews/`) is CC BY 4.0; see LICENSE-DATA. Code is MIT; see LICENSE. Project names and descriptions belong to their owners.
 
-<p align="center"><sub>Curated with care, powered by public GitHub data, funded by freelance gigs. Found a gem? Tips keep the servers happy, but rankings stay honest. 🚀<br>For freelance collabs or coffee-fueled conversations, say hello on <a href="https://www.linkedin.com/in/kenz-nguyen/">LinkedIn</a>.</sub></p>
+<p align="center"><sub>Curated with care, powered by public GitHub data, funded by freelance gigs. Found a gem? <a href="https://ko-fi.com/archestack">Tips</a> keep the servers happy, but rankings stay honest. 🚀<br>For freelance collabs or coffee-fueled conversations, say hello on <a href="https://www.linkedin.com/in/kenz-nguyen/">LinkedIn</a>.</sub></p>
 
 <p align="center"><sub>Made with ☕ by <a href="https://github.com/archestack">Archestack</a> · on the web at <a href="https://archestack.com/best-of-vibe-coding/">archestack.com</a> · see also <a href="https://github.com/archestack/best-of-ai">Best of Open-Source AI</a></sub></p>
