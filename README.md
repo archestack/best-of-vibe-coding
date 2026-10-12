@@ -75,6 +75,7 @@
 | Firebase | [supabase](reviews/backends.md#supabase) · [graphql-engine](reviews/backends.md#graphql-engine) |
 | Vercel | [dokploy](reviews/deploy.md#dokploy) · [dokku](reviews/deploy.md#dokku) |
 | Heroku | [dokploy](reviews/deploy.md#dokploy) · [dokku](reviews/deploy.md#dokku) |
+| Vapi | [agent-starter-react](reviews/voice-realtime.md#agent-starter-react) · [agent-starter-node](reviews/voice-realtime.md#agent-starter-node) · [agent-starter-python](reviews/voice-realtime.md#agent-starter-python) |
 
 ## 🔐 Starters with safe defaults
 
