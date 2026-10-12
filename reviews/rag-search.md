@@ -2,7 +2,7 @@
 
 Retrieval over your own documents or data, answer engines, and natural-language-to-SQL starters. Back to the [leaderboard](../README.md#-rag-and-search).
 
-<sub>🌐 Also on the web: [RAG and search on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="azure-search-openai-demo"></a>
 ### 🥇 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
@@ -164,7 +164,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;10 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (23) · Freshness: recent (71) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;10 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (22) · Freshness: recent (71) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

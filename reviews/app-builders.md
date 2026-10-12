@@ -2,7 +2,7 @@
 
 Prompt-to-app builders and platforms that run coding agents in sandboxes. Back to the [leaderboard](../README.md#%EF%B8%8F-app-builder-starters).
 
-<sub>🌐 Also on the web: [App builder starters on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [App builder starters on archestack.com](https://archestack.com/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
 
 <a name="ai-website-cloner-template"></a>
 ### 🥇 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Oct 2026</sub>
@@ -23,7 +23,7 @@ A Next.js 16 template (React 19, Tailwind CSS v4, shadcn/ui) that bundles a port
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0)</sub>
 
 <a name="jeecgboot"></a>
-### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Sep 2026</sub>
+### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
 
 **Java low-code platform with code generator and built-in AI app builder.**
 

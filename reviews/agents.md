@@ -2,7 +2,7 @@
 
 Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents, eve) meant to be extended. Back to the [leaderboard](../README.md#-agent-backends).
 
-<sub>🌐 Also on the web: [Agent backends on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/agents/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [Agent backends on archestack.com](https://archestack.com/best-of-vibe-coding/agents/), each project on its own page.</sub>
 
 <a name="eve-software-factory-template"></a>
 ### 🥇 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (46) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Sep 2026</sub>
@@ -59,7 +59,7 @@ A Nuxt app plus an eve agent runtime: Better Auth email login, web chat with thr
 <sub>TypeScript, eve, ai-sdk · Needs postgres, vercel-blob, vercel-connect · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template)</sub>
 
 <a name="google-adk-recipes"></a>
-### #&#8288;4 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (66) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (65) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
 
 **Runnable Agent Development Kit recipes, from single patterns to deployable agents.**
 
@@ -282,7 +282,7 @@ The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph th
 <sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (20) · Freshness: active (81) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 325 · MIT · May 2026</sub>
+### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (20) · Freshness: active (81) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
