@@ -2,7 +2,7 @@
 
 Voice agents, realtime speech-to-speech apps and their web, phone and native clients. Back to the [leaderboard](../README.md#%EF%B8%8F-voice-and-realtime).
 
-<sub>🌐 Also on the web: [Voice and realtime on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [Voice and realtime on archestack.com](https://archestack.com/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
 
 <a name="agent-starter-react"></a>
 ### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 950 · MIT · Sep 2026</sub>

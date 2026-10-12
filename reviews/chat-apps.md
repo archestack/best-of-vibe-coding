@@ -2,7 +2,7 @@
 
 Chat interfaces and single-feature text apps you fork as the base of a conversational product. Back to the [leaderboard](../README.md#-chat-apps).
 
-<sub>🌐 Also on the web: [Chat apps on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="langchain-nextjs-template"></a>
 ### 🥇 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
@@ -160,7 +160,7 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;10 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (38) · Freshness: recent (60) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Mar 2026</sub>
+### #&#8288;10 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (38) · Freshness: recent (60) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 884 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 

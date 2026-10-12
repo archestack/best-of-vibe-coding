@@ -2,7 +2,7 @@
 
 Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers. Back to the [leaderboard](../README.md#-coding-agents-and-assistants).
 
-<sub>🌐 Also on the web: [Coding agents and assistants on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/coding-agents/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [Coding agents and assistants on archestack.com](https://archestack.com/best-of-vibe-coding/coding-agents/), each project on its own page.</sub>
 
 <a name="opencode"></a>
 ### 🥇 [opencode](https://github.com/anomalyco/opencode) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 213k · MIT · Oct 2026</sub>
@@ -75,7 +75,7 @@ Codex CLI is a coding agent from OpenAI that runs in the terminal on your machin
 <sub>no GPU · Needs ChatGPT account or OpenAI API key · Models: OpenAI models · [Repo](https://github.com/openai/codex) · [📖 Docs ↗](https://developers.openai.com/codex) · [🌐 Site ↗](https://chatgpt.com/codex)</sub>
 
 <a name="oh-my-openagent"></a>
-### #&#8288;5 [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · custom license · Oct 2026</sub>
+### #&#8288;5 [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · custom license · Oct 2026</sub>
 
 **Terminal coding agent that runs parallel sub-agents and keeps git-based memory.**
 
@@ -111,7 +111,7 @@ Reasonix is a local coding agent that reads a project folder, edits files and ru
 <sub>no GPU · Needs Model provider API key, Go 1.25+ (build from source), Node 24+ and pnpm 10 (Studio build) · Models: DeepSeek (preset), OpenAI-compatible endpoints, MCP servers · [Repo](https://github.com/esengine/deepseek-reasonix) · [📖 Docs ↗](https://github.com/esengine/DeepSeek-Reasonix/blob/studio/docs/GUIDE.md) · [🌐 Site ↗](https://esengine.github.io/DeepSeek-Reasonix/)</sub>
 
 <a name="claw-code"></a>
-### #&#8288;7 [claw-code](https://github.com/ultraworkers/claw-code) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: patchy (50) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 195k · MIT · Oct 2026</sub>
+### #&#8288;7 [claw-code](https://github.com/ultraworkers/claw-code) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 195k · MIT · Oct 2026</sub>
 
 **Rust CLI coding agent harness, built from source.**
 
@@ -129,7 +129,7 @@ Claw Code is a Rust implementation of the `claw` CLI agent harness, with the wor
 <sub>Docker + Compose · Needs Rust toolchain (cargo), API key (Anthropic, OpenAI or compatible provider) · Models: Anthropic API, OpenAI API, OpenAI-compatible local servers (Ollama, llama.cpp, vLLM) · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md)</sub>
 
 <a name="gemini-cli"></a>
-### #&#8288;8 [gemini-cli](https://github.com/google-gemini/gemini-cli) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 107k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;8 [gemini-cli](https://github.com/google-gemini/gemini-cli) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 107k · Apache-2.0 · Oct 2026</sub>
 
 **Terminal coding agent that runs Gemini models with file, shell and MCP tools.**
 
@@ -291,7 +291,7 @@ A fork of Pi that runs as a terminal coding agent with a Rust core, shipping 31 
 <sub>no GPU · Docker · Needs bun >= 1.3.14 · Models: 60+ providers · [Repo](https://github.com/can1357/oh-my-pi) · [📖 Docs ↗](https://omp.sh/docs/tools) · [🌐 Site ↗](https://omp.sh)</sub>
 
 <a name="background-agents"></a>
-### #&#8288;17 [Background Agents](https://github.com/colemurray/background-agents) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (51) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Oct 2026</sub>
+### #&#8288;17 [Background Agents](https://github.com/colemurray/background-agents) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (52) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Oct 2026</sub>
 
 **Background coding agents on cloud sandboxes with Slack, GitHub and Linear triggers.**
 
@@ -363,7 +363,7 @@ Aider runs in the terminal and edits files in an existing codebase through chat 
 <sub>no GPU · Docker · Needs LLM provider API key or local model server · Models: Claude 3.7 Sonnet, DeepSeek R1 and V3, OpenAI o1, o3-mini, GPT-4o, local models · [Repo](https://github.com/aider-ai/aider) · [📖 Docs ↗](https://aider.chat/docs/install.html) · [🌐 Site ↗](https://aider.chat/)</sub>
 
 <a name="tabby"></a>
-### #&#8288;21 [Tabby](https://github.com/tabbyml/tabby) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (42) · Freshness: active (90) · Maintenance: weak (13) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · custom license · Jun 2026</sub>
+### #&#8288;21 [Tabby](https://github.com/tabbyml/tabby) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (42) · Freshness: active (90) · Maintenance: weak (12) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · custom license · Jun 2026</sub>
 
 **Self-hosted code completion and chat server for IDEs.**
 

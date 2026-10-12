@@ -2,10 +2,10 @@
 
 Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others. Back to the [leaderboard](../README.md#-skills-plugins-and-rules).
 
-<sub>🌐 Also on the web: [Skills, plugins and rules on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/skills-plugins/), each project on its own page.</sub>
+<sub>🌐 Also on the web: [Skills, plugins and rules on archestack.com](https://archestack.com/best-of-vibe-coding/skills-plugins/), each project on its own page.</sub>
 
 <a name="skills"></a>
-### 🥇 [skills](https://github.com/mattpocock/skills) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 286k · MIT · Oct 2026</sub>
+### 🥇 [skills](https://github.com/mattpocock/skills) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 287k · MIT · Oct 2026</sub>
 
 **Agent skills for planning, TDD, debugging and code review.**
 
@@ -148,8 +148,26 @@ A pack of 25 SKILL.md workflows covering spec, planning, build, test, review and
 
 <sub>no GPU · [Repo](https://github.com/addyosmani/agent-skills) · [📖 Docs ↗](https://github.com/addyosmani/agent-skills/blob/main/docs/getting-started.md)</sub>
 
+<a name="claude-mem"></a>
+### #&#8288;9 [claude-mem](https://github.com/thedotmack/claude-mem) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 100k · Apache-2.0 · Oct 2026</sub>
+
+**Persistent session memory plugin for Claude Code and other coding agents.**
+
+Claude-Mem captures tool-usage observations through Claude Code lifecycle hooks, summarizes them, and stores them in a local SQLite database with Chroma for hybrid semantic and keyword search. Past context is injected into new sessions, and agents can query it through three MCP tools (search, timeline, get_observations) that filter an index before fetching full details. It also installs for OpenCode, T3 Code, Antigravity CLI, OMP, Pi, DeepSeek Harness and OpenClaw.
+
+- **+** Local SQLite plus Chroma storage; worker exposes an HTTP API and web viewer
+- **+** Three-step MCP search (index, timeline, details) claims ~10x token savings
+- **+** One-command installer covers Claude Code, OpenCode, T3 Code, Pi, OpenClaw and others
+- **+** Privacy tags exclude marked content from storage; Apache-2.0 license
+- **−** Default installer prompts for claude-mem account sign-in; opt-out needs a flag or env var
+- **−** Free trial of hosted observer; afterwards memory uses your Anthropic plan unless you subscribe
+- **−** Needs Node 20+, Bun and uv, auto-installed if missing
+- **−** npm install -g claude-mem gives the SDK only, not the plugin hooks
+
+<sub>no GPU · Docker + Compose · Needs Node.js >=20, Bun, uv, SQLite, Chroma · Models: Anthropic plan, OpenRouter, Gemini, claude-mem observer · [Repo](https://github.com/thedotmack/claude-mem) · [📖 Docs ↗](https://docs.claude-mem.ai/)</sub>
+
 <a name="impeccable"></a>
-### #&#8288;9 [impeccable](https://github.com/pbakaus/impeccable) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 80k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [impeccable](https://github.com/pbakaus/impeccable) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 80k · Apache-2.0 · Oct 2026</sub>
 
 **Design skill and linter for AI coding agents' frontend output.**
 
@@ -167,7 +185,7 @@ Impeccable installs a single `/impeccable` skill with 24 commands (audit, critiq
 <sub>no GPU · Needs AI coding tool (Claude Code, Cursor, Codex, Gemini CLI, etc.) · [Repo](https://github.com/pbakaus/impeccable) · [▶️ Demo ↗](https://impeccable.style/cases/neo-mirai) · [📖 Docs ↗](https://impeccable.style/docs/hooks) · [🌐 Site ↗](https://impeccable.style)</sub>
 
 <a name="gstack"></a>
-### #&#8288;10 [gstack](https://github.com/garrytan/gstack) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 136k · MIT · Oct 2026</sub>
+### #&#8288;11 [gstack](https://github.com/garrytan/gstack) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 136k · MIT · Oct 2026</sub>
 
 **Slash-command skill pack that turns Claude Code into a role-based engineering team.**
 
@@ -183,24 +201,6 @@ gstack is a set of Markdown skills and helper tools, installed with a setup scri
 - **−** Outside reviews and design tools need Codex CLI or an OpenAI API key
 
 <sub>no GPU · Needs Claude Code, Git, Bun, Node.js (Windows only), Codex CLI (outside reviews), OpenAI API key (design binary) · Models: Claude (Opus 5.5), OpenAI Codex (GPT-6 Astra, GPT-6.1 Sol), gpt-5.5, gpt-image-2 · [Repo](https://github.com/garrytan/gstack)</sub>
-
-<a name="claude-mem"></a>
-### #&#8288;11 [claude-mem](https://github.com/thedotmack/claude-mem) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 100k · Apache-2.0 · Oct 2026</sub>
-
-**Persistent session memory plugin for Claude Code and other coding agents.**
-
-Claude-Mem captures tool-usage observations through Claude Code lifecycle hooks, summarizes them, and stores them in a local SQLite database with Chroma for hybrid semantic and keyword search. Past context is injected into new sessions, and agents can query it through three MCP tools (search, timeline, get_observations) that filter an index before fetching full details. It also installs for OpenCode, T3 Code, Antigravity CLI, OMP, Pi, DeepSeek Harness and OpenClaw.
-
-- **+** Local SQLite plus Chroma storage; worker exposes an HTTP API and web viewer
-- **+** Three-step MCP search (index, timeline, details) claims ~10x token savings
-- **+** One-command installer covers Claude Code, OpenCode, T3 Code, Pi, OpenClaw and others
-- **+** Privacy tags exclude marked content from storage; Apache-2.0 license
-- **−** Default installer prompts for claude-mem account sign-in; opt-out needs a flag or env var
-- **−** Free trial of hosted observer; afterwards memory uses your Anthropic plan unless you subscribe
-- **−** Needs Node 20+, Bun and uv, auto-installed if missing
-- **−** npm install -g claude-mem gives the SDK only, not the plugin hooks
-
-<sub>no GPU · Docker + Compose · Needs Node.js >=20, Bun, uv, SQLite, Chroma · Models: Anthropic plan, OpenRouter, Gemini, claude-mem observer · [Repo](https://github.com/thedotmack/claude-mem) · [📖 Docs ↗](https://docs.claude-mem.ai/)</sub>
 
 <a name="graphify"></a>
 ### #&#8288;12 [graphify](https://github.com/graphify-labs/graphify) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 126k · Apache-2.0 · Oct 2026</sub>
@@ -455,7 +455,7 @@ A documentation-first repository that catalogs Claude Code features (subagents, 
 <sub>no GPU · Needs Claude Code · Models: Claude · [Repo](https://github.com/shanraisshan/claude-code-best-practice) · [📖 Docs ↗](https://code.claude.com/docs)</sub>
 
 <a name="i-have-adhd"></a>
-### #&#8288;26 [i-have-adhd](https://github.com/ayghri/i-have-adhd) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 56k · MIT · Oct 2026</sub>
+### #&#8288;26 [i-have-adhd](https://github.com/ayghri/i-have-adhd) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 57k · MIT · Oct 2026</sub>
 
 **Skill that makes coding assistants answer with the next action first.**
 
@@ -491,7 +491,7 @@ A Markdown guide with 10 modules covering Claude Code slash commands, memory, sk
 <sub>no GPU · Needs Claude Code, Node.js (npx for MCP server examples) · Models: Claude · [Repo](https://github.com/luongnv89/claude-howto)</sub>
 
 <a name="diagram-design"></a>
-### #&#8288;28 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · MIT · Oct 2026</sub>
+### #&#8288;28 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 51k · MIT · Oct 2026</sub>
 
 **Agent skill that generates editorial HTML/SVG diagrams in your site's style.**
 
@@ -545,7 +545,7 @@ A Git repository that acts as the official plugin marketplace for Claude Code. P
 <sub>no GPU · Needs Claude Code · [Repo](https://github.com/anthropics/claude-plugins-official) · [📖 Docs ↗](https://code.claude.com/docs/en/plugins)</sub>
 
 <a name="codex-plugin-cc"></a>
-### #&#8288;31 [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (34) · Freshness: active (98) · Maintenance: weak (5) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;31 [codex-plugin-cc](https://github.com/openai/codex-plugin-cc) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (34) · Freshness: active (98) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · Apache-2.0 · Jul 2026</sub>
 
 **Claude Code plugin that runs Codex reviews and delegates tasks.**
 
