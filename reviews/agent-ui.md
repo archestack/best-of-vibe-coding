@@ -4,26 +4,8 @@ Frontends that render agent steps, tool calls, approvals or model-generated comp
 
 <sub>🌐 Also on the web: [Agent UI and generative UI on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/), each project on its own page.</sub>
 
-<a name="agent-chat-ui"></a>
-### 🥇 [agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: patchy (31) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
-
-**Next.js chat frontend for any LangGraph server with interrupts and artifacts.**
-
-A Next.js frontend that connects to any LangGraph server exposing a messages key: enter the deployment URL and assistant ID (or set them as env vars) and you get streaming chat, tool-call rendering, human-in-the-loop interrupts and an artifacts side panel. A built-in API passthrough route injects your LangSmith key server-side for production. For teams that have a LangGraph backend and need a UI today.
-
-- **+** Works against local and deployed LangGraph servers with no backend changes
-- **+** Hosted version at agentchat.vercel.app and an npx scaffold
-- **+** Message hiding and artifact rendering conventions are documented
-- **+** Tests included; committed within the last two days
-- **−** The passthrough proxy does not authenticate callers; README warns it exposes your deployment
-- **−** Production auth requires custom LangGraph authentication and code edits
-- **−** LangGraph SDK only; no AG-UI or AI SDK stream support
-- **−** No persistence of its own; threads live in the LangGraph server
-
-<sub>TypeScript, langgraph · Needs langgraph-server, langsmith-api-key-for-deployed-servers · env example file · [Repo](https://github.com/langchain-ai/agent-chat-ui) · [▶️ Demo ↗](https://agentchat.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-chat-ui/)</sub>
-
 <a name="opengenerativeui"></a>
-### 🥈 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: patchy (30) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Oct 2026</sub>
+### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: patchy (31) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with 3D models, charts, calculators and maps.**
 
@@ -39,6 +21,24 @@ Open Intelligent UI is a Next.js chat frontend backed by a Python Deep Agent (Fa
 - **−** No tagged release; no compose file
 
 <sub>TypeScript, OpenAI chat-latest, Jev jev-latest · Needs OpenAI API, Jev (Typesafe) API, USGS map tiles · Docker · env example file · [Repo](https://github.com/copilotkit/openintelligentui) · [📖 Docs ↗](https://github.com/CopilotKit/OpenIntelligentUI/blob/main/docs/README.md) · [🌐 Site ↗](https://copilotkit.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengenerativeui/)</sub>
+
+<a name="agent-chat-ui"></a>
+### 🥈 [agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: patchy (31) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+
+**Next.js chat frontend for any LangGraph server with interrupts and artifacts.**
+
+A Next.js frontend that connects to any LangGraph server exposing a messages key: enter the deployment URL and assistant ID (or set them as env vars) and you get streaming chat, tool-call rendering, human-in-the-loop interrupts and an artifacts side panel. A built-in API passthrough route injects your LangSmith key server-side for production. For teams that have a LangGraph backend and need a UI today.
+
+- **+** Works against local and deployed LangGraph servers with no backend changes
+- **+** Hosted version at agentchat.vercel.app and an npx scaffold
+- **+** Message hiding and artifact rendering conventions are documented
+- **+** Tests included; committed within the last two days
+- **−** The passthrough proxy does not authenticate callers; README warns it exposes your deployment
+- **−** Production auth requires custom LangGraph authentication and code edits
+- **−** LangGraph SDK only; no AG-UI or AI SDK stream support
+- **−** No persistence of its own; threads live in the LangGraph server
+
+<sub>TypeScript, langgraph · Needs langgraph-server, langsmith-api-key-for-deployed-servers · env example file · [Repo](https://github.com/langchain-ai/agent-chat-ui) · [▶️ Demo ↗](https://agentchat.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-chat-ui/)</sub>
 
 <a name="agno-agent-ui"></a>
 ### 🥉 [agent-ui](https://github.com/agno-agi/agent-ui) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: popular (51) · Freshness: recent (76) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · May 2026</sub>
