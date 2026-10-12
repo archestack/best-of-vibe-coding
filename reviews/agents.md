@@ -266,7 +266,7 @@ A CLI (uvx agent-starter-pack create) that generates a Google Cloud agent projec
 <sub>Python, google, google-adk, langgraph · Needs google-cloud-project, gcloud-sdk, terraform, make · [Repo](https://github.com/googlecloudplatform/agent-starter-pack) · [📖 Docs ↗](https://googlecloudplatform.github.io/agent-starter-pack/)</sub>
 
 <a name="new-langgraph-project"></a>
-### #&#8288;16 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 297 · MIT · Oct 2026</sub>
+### #&#8288;16 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: patchy (36) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 297 · MIT · Oct 2026</sub>
 
 **Blank Python LangGraph scaffold with config, tests and Studio support.**
 
