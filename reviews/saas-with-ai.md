@@ -5,7 +5,7 @@ Product boilerplates with auth, billing and a database wired in, with AI feature
 <sub>🌐 Also on the web: [SaaS boilerplates on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/saas-with-ai/), each project on its own page.</sub>
 
 <a name="ant-design-pro"></a>
-### 🥇 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (58) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
+### 🥇 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (59) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
 
 **React admin dashboard template built on Ant Design 6 and Umi Max.**
 
@@ -23,7 +23,7 @@ Ant Design Pro is a React 19 and TypeScript boilerplate for enterprise back-offi
 <sub>TypeScript · GitHub template · [Repo](https://github.com/ant-design/ant-design-pro) · [▶️ Demo ↗](https://preview.pro.ant.design) · [📖 Docs ↗](https://github.com/ant-design/ant-design-pro/blob/master/docs/cheatsheet.en-US.md)</sub>
 
 <a name="velobase-harness"></a>
-### 🥈 [velobase-harness](https://github.com/velobase/velobase-harness) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (68) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 609 · MIT · Sep 2026</sub>
+### 🥈 [velobase-harness](https://github.com/velobase/velobase-harness) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (68) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 610 · MIT · Sep 2026</sub>
 
 **Next.js AI SaaS base with credits, usage billing, workers and anti-abuse.**
 

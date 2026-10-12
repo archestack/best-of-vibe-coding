@@ -93,7 +93,7 @@ Independent Claude API starter projects in one repo, not one app: a customer sup
 <sub>TypeScript, anthropic · Needs anthropic-api-key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com)</sub>
 
 <a name="twitterbio"></a>
-### #&#8288;6 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (57) · Freshness: active (94) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jun 2026</sub>
+### #&#8288;6 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (57) · Freshness: active (93) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jun 2026</sub>
 
 **Single-form Next.js text generator streaming from Together AI.**
 
@@ -127,7 +127,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat)</sub>
 
 <a name="zola"></a>
-### #&#8288;8 [zola](https://github.com/ibelick/zola) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (52) · Freshness: quiet (22) · Maintenance: weak (0) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;8 [zola](https://github.com/ibelick/zola) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: popular (52) · Freshness: quiet (22) · Maintenance: weak (0) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
 
@@ -160,7 +160,7 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;10 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (38) · Freshness: recent (61) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Mar 2026</sub>
+### #&#8288;10 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (38) · Freshness: recent (60) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -175,7 +175,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (34) · Freshness: quiet (24) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 877 · MIT · Dec 2025</sub>
+### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (34) · Freshness: quiet (23) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 877 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

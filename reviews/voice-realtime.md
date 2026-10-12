@@ -5,7 +5,7 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 <sub>🌐 Also on the web: [Voice and realtime on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
 
 <a name="agent-starter-react"></a>
-### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 949 · MIT · Sep 2026</sub>
+### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 950 · MIT · Sep 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
@@ -248,7 +248,7 @@ A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC a
 <sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime)</sub>
 
 <a name="openai-fm"></a>
-### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: popular (70) · Freshness: quiet (20) · Maintenance: weak (8) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: popular (70) · Freshness: quiet (19) · Maintenance: weak (11) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 
@@ -266,7 +266,7 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm)</sub>
 
 <a name="live-api-web-console"></a>
-### #&#8288;16 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: popular (67) · Freshness: quiet (1) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
+### #&#8288;16 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: popular (66) · Freshness: quiet (1) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
 
 **React console for streaming audio and video to the Gemini Live API.**
 
