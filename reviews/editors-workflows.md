@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="plate-playground-template"></a>
-### 🥇 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: fair (55) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 241 · MIT · Oct 2026</sub>
+### 🥇 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: fair (56) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 241 · MIT · Oct 2026</sub>
 
 **Next.js rich-text editor template on Plate with AI commands.**
 
@@ -19,7 +19,7 @@ Next.js 16 template with the Plate editor, shadcn/ui and the Plate AI kit (insta
 - **−** README is short; features are documented on platejs.org
 - **−** No tests; requires bun
 
-<sub>Python, Vercel AI Gateway via AI SDK · Needs UploadThing token, Vercel AI Gateway key (user-supplied) · GitHub template · env example file · [Repo](https://github.com/udecode/plate-playground-template) · [📖 Docs ↗](https://platejs.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate-playground-template/)</sub>
+<sub>TypeScript, Vercel AI Gateway via AI SDK · Needs UploadThing token, Vercel AI Gateway key (user-supplied) · GitHub template · env example file · [Repo](https://github.com/udecode/plate-playground-template) · [📖 Docs ↗](https://platejs.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate-playground-template/)</sub>
 
 <a name="nuxt-ui-editor"></a>
 ### 🥈 [editor](https://github.com/nuxt-ui-templates/editor) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 171 · MIT · Oct 2026</sub>

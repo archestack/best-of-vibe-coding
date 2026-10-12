@@ -41,7 +41,7 @@ ECC installs a set of 68 agents, 293 skills, 94 legacy command shims, hooks, rul
 <sub>no GPU · Docker + Compose · Needs Node.js 18+, Git, Claude Code 2.1+ (for plugin setup) · safety checks passed 10 of 10 · [Repo](https://github.com/affaan-m/ecc) · [🌐 Site ↗](https://ecc.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ecc/)</sub>
 
 <a name="ponytail"></a>
-### 🥉 [ponytail](https://github.com/dietrichgebert/ponytail) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 162k · MIT · Oct 2026</sub>
+### 🥉 [ponytail](https://github.com/dietrichgebert/ponytail) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 162k · MIT · Oct 2026</sub>
 
 **Prompt skill that makes coding agents write less, safer code.**
 
@@ -292,26 +292,8 @@ RTK is a single Rust binary that rewrites shell commands such as git status, car
 
 <sub>no GPU · Needs ripgrep (some filters, Windows) · safety checks passed 8 of 9 · [Repo](https://github.com/rtk-ai/rtk) · [📖 Docs ↗](https://www.rtk-ai.app/guide/troubleshooting) · [🌐 Site ↗](https://www.rtk-ai.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rtk/)</sub>
 
-<a name="openspec"></a>
-### #&#8288;17 [openspec](https://github.com/fission-ai/openspec) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 72k · MIT · Oct 2026</sub>
-
-**Spec-driven workflow CLI that guides AI coding assistants through plan, apply and archive.**
-
-OpenSpec is a Node.js CLI that adds an `openspec/` folder to a repo and installs slash commands (such as /opsx:propose, /opsx:apply, /opsx:archive) into 30+ AI coding tools. Each change gets a folder with proposal.md, specs, design.md and tasks.md in plain Markdown, which the human reviews before code is written. A beta Stores feature keeps specs and changes in a separate shared repo for cross-repo work.
-
-- **+** Specs and changes are plain Markdown in the repo, versioned with git
-- **+** Works with 30+ AI coding tools through generated slash commands
-- **+** Install via npm or Homebrew; no server or database needed
-- **+** Designed for existing codebases, with an adoption guide for brownfield projects
-- **−** Needs Node.js 20.19.0 or higher
-- **−** Stores (cross-repo shared planning) are still in beta
-- **−** Collects anonymous usage telemetry by default; opt-out via config or env var
-- **−** Command syntax differs per tool, e.g. /opsx-propose, @opsx-propose, $openspec-propose
-
-<sub>no GPU · Needs Node.js 20.19.0+, an AI coding assistant · Models: Codex 5.5 and Opus 4.7 recommended; works with 30+ AI coding tools · safety checks passed 8 of 9 · [Repo](https://github.com/fission-ai/openspec) · [📖 Docs ↗](https://github.com/Fission-AI/OpenSpec/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openspec/)</sub>
-
 <a name="oh-my-claudecode"></a>
-### #&#8288;18 [oh-my-claudecode](https://github.com/yeachan-heo/oh-my-claudecode) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Oct 2026</sub>
+### #&#8288;17 [oh-my-claudecode](https://github.com/yeachan-heo/oh-my-claudecode) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Oct 2026</sub>
 
 **Multi-agent orchestration plugin for Claude Code with staged team pipelines.**
 
@@ -327,6 +309,24 @@ oh-my-claudecode adds skills, slash commands and an `omc` CLI to Claude Code. It
 - **−** npm install prints a deprecated `prebuild-install` warning
 
 <sub>no GPU · Needs Claude Code, tmux, Node.js/npm, codex/gemini/agy/grok/cursor-agent CLIs (optional) · Models: Claude, Codex, Gemini, Antigravity, Grok · safety checks passed 9 of 10 · [Repo](https://github.com/yeachan-heo/oh-my-claudecode) · [📖 Docs ↗](https://yeachan-heo.github.io/oh-my-claudecode-website/docs/) · [🌐 Site ↗](https://yeachan-heo.github.io/oh-my-claudecode-website) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-claudecode/)</sub>
+
+<a name="openspec"></a>
+### #&#8288;18 [openspec](https://github.com/fission-ai/openspec) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 72k · MIT · Oct 2026</sub>
+
+**Spec-driven workflow CLI that guides AI coding assistants through plan, apply and archive.**
+
+OpenSpec is a Node.js CLI that adds an `openspec/` folder to a repo and installs slash commands (such as /opsx:propose, /opsx:apply, /opsx:archive) into 30+ AI coding tools. Each change gets a folder with proposal.md, specs, design.md and tasks.md in plain Markdown, which the human reviews before code is written. A beta Stores feature keeps specs and changes in a separate shared repo for cross-repo work.
+
+- **+** Specs and changes are plain Markdown in the repo, versioned with git
+- **+** Works with 30+ AI coding tools through generated slash commands
+- **+** Install via npm or Homebrew; no server or database needed
+- **+** Designed for existing codebases, with an adoption guide for brownfield projects
+- **−** Needs Node.js 20.19.0 or higher
+- **−** Stores (cross-repo shared planning) are still in beta
+- **−** Collects anonymous usage telemetry by default; opt-out via config or env var
+- **−** Command syntax differs per tool, e.g. /opsx-propose, @opsx-propose, $openspec-propose
+
+<sub>no GPU · Needs Node.js 20.19.0+, an AI coding assistant · Models: Codex 5.5 and Opus 4.7 recommended; works with 30+ AI coding tools · safety checks passed 8 of 9 · [Repo](https://github.com/fission-ai/openspec) · [📖 Docs ↗](https://github.com/Fission-AI/OpenSpec/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openspec/)</sub>
 
 <a name="agentic-awesome-skills"></a>
 ### #&#8288;19 [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · MIT · Oct 2026</sub>
@@ -383,7 +383,7 @@ Taste Skill is a set of portable SKILL.md instruction files that tell coding age
 <sub>no GPU · Needs npx skills CLI, Codex, Cursor or Claude Code · safety checks passed 7 of 8 · [Repo](https://github.com/leonxlnx/taste-skill) · [🌐 Site ↗](https://tasteskill.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/taste-skill/)</sub>
 
 <a name="agency-agents"></a>
-### #&#8288;22 [agency-agents](https://github.com/msitarzewski/agency-agents) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 159k · MIT · Oct 2026</sub>
+### #&#8288;22 [agency-agents](https://github.com/msitarzewski/agency-agents) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 160k · MIT · Oct 2026</sub>
 
 **Markdown agent persona files for Claude Code, Cursor, Codex and other coding tools.**
 
@@ -491,7 +491,7 @@ A Markdown guide with 10 modules covering Claude Code slash commands, memory, sk
 <sub>no GPU · Needs Claude Code, Node.js (npx for MCP server examples) · Models: Claude · safety checks passed 9 of 9 · [Repo](https://github.com/luongnv89/claude-howto) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-howto/)</sub>
 
 <a name="diagram-design"></a>
-### #&#8288;28 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · MIT · Oct 2026</sub>
+### #&#8288;28 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 53k · MIT · Oct 2026</sub>
 
 **Agent skill that generates editorial HTML/SVG diagrams in your site's style.**
 

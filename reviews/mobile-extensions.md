@@ -5,7 +5,7 @@ Native, cross-platform mobile and browser-extension starters with AI features bu
 <sub>🌐 Also on the web: [Mobile and browser extensions on archestack.com](https://archestack.com/best-of-vibe-coding/mobile-extensions/), each project on its own page.</sub>
 
 <a name="react-native-ai"></a>
-### 🥇 [react-native-ai](https://github.com/dabit3/react-native-ai) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: weak (11) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
+### 🥇 [react-native-ai](https://github.com/dabit3/react-native-ai) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: weak (7) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
 
 **Expo chat and image app with an Express proxy for multiple LLMs.**
 
