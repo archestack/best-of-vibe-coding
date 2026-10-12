@@ -58,26 +58,8 @@ A native C executable that parses repositories with tree-sitter (162 languages) 
 
 <sub>no GPU · Models: nomic-embed-code (bundled, int8, 768d) · port 9749 · [Repo](https://github.com/deusdata/codebase-memory-mcp) · [📖 Docs ↗](https://github.com/DeusData/codebase-memory-mcp/blob/main/docs/CONFIGURATION.md)</sub>
 
-<a name="context7"></a>
-### #&#8288;4 [context7](https://github.com/upstash/context7) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
-
-**Fetches current, version-specific library docs into coding agent prompts.**
-
-Context7 looks up documentation and code examples for a named library and version, then returns them to the coding agent as context. It runs as an MCP server with two tools (resolve-library-id, query-docs) or as a ctx7 CLI plus skill. Setup is one command, npx ctx7 setup, which handles OAuth and API key generation. The hosted service at mcp.context7.com does the retrieval.
-
-- **+** Two modes: MCP server, or ctx7 CLI with an installed skill
-- **+** Library IDs like /vercel/next.js skip matching; version can be named in the prompt
-- **+** npx ctx7 setup configures Cursor, Claude Code or opencode
-- **+** Also ships a TypeScript SDK and Vercel AI SDK tools
-- **−** API backend, parsing and crawling engines are private; repo has only the MCP server
-- **−** Relies on the hosted service at mcp.context7.com; local run is a separate guide
-- **−** Free API key recommended for higher rate limits; exact limits unknown
-- **−** Docs are community-contributed; accuracy and security are not guaranteed
-
-<sub>no GPU · Needs Node.js 18+, Context7 hosted API · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com)</sub>
-
 <a name="github-mcp-server"></a>
-### #&#8288;5 [github-mcp-server](https://github.com/github/github-mcp-server) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Oct 2026</sub>
+### #&#8288;4 [github-mcp-server](https://github.com/github/github-mcp-server) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Oct 2026</sub>
 
 **MCP server exposing GitHub repos, issues, PRs and Actions to AI tools.**
 
@@ -93,6 +75,24 @@ Official GitHub MCP server, written in Go, that lets MCP hosts read code, manage
 - **−** Only talks to GitHub; no other forges or providers
 
 <sub>no GPU · Docker · Needs GitHub API, Docker (optional) · [Repo](https://github.com/github/github-mcp-server) · [📖 Docs ↗](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md)</sub>
+
+<a name="context7"></a>
+### #&#8288;5 [context7](https://github.com/upstash/context7) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
+
+**Fetches current, version-specific library docs into coding agent prompts.**
+
+Context7 looks up documentation and code examples for a named library and version, then returns them to the coding agent as context. It runs as an MCP server with two tools (resolve-library-id, query-docs) or as a ctx7 CLI plus skill. Setup is one command, npx ctx7 setup, which handles OAuth and API key generation. The hosted service at mcp.context7.com does the retrieval.
+
+- **+** Two modes: MCP server, or ctx7 CLI with an installed skill
+- **+** Library IDs like /vercel/next.js skip matching; version can be named in the prompt
+- **+** npx ctx7 setup configures Cursor, Claude Code or opencode
+- **+** Also ships a TypeScript SDK and Vercel AI SDK tools
+- **−** API backend, parsing and crawling engines are private; repo has only the MCP server
+- **−** Relies on the hosted service at mcp.context7.com; local run is a separate guide
+- **−** Free API key recommended for higher rate limits; exact limits unknown
+- **−** Docs are community-contributed; accuracy and security are not guaranteed
+
+<sub>no GPU · Needs Node.js 18+, Context7 hosted API · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com)</sub>
 
 <a name="cli-anything"></a>
 ### #&#8288;6 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Sep 2026</sub>
