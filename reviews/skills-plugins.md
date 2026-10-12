@@ -5,7 +5,7 @@ Add-ons that make coding agents better: skills, plugins, rules, hooks and memory
 <sub>🌐 Also on the web: [Skills, plugins and rules on archestack.com](https://archestack.com/best-of-vibe-coding/skills-plugins/), each project on its own page.</sub>
 
 <a name="skills"></a>
-### 🥇 [skills](https://github.com/mattpocock/skills) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 287k · MIT · Oct 2026</sub>
+### 🥇 [skills](https://github.com/mattpocock/skills) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 288k · MIT · Oct 2026</sub>
 
 **Agent skills for planning, TDD, debugging and code review.**
 
@@ -167,7 +167,7 @@ Claude-Mem captures tool-usage observations through Claude Code lifecycle hooks,
 <sub>no GPU · Docker + Compose · Needs Node.js >=20, Bun, uv, SQLite, Chroma · Models: Anthropic plan, OpenRouter, Gemini, claude-mem observer · [Repo](https://github.com/thedotmack/claude-mem) · [📖 Docs ↗](https://docs.claude-mem.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-mem/)</sub>
 
 <a name="impeccable"></a>
-### #&#8288;10 [impeccable](https://github.com/pbakaus/impeccable) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 80k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [impeccable](https://github.com/pbakaus/impeccable) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 80k · Apache-2.0 · Oct 2026</sub>
 
 **Design skill and linter for AI coding agents' frontend output.**
 
@@ -257,7 +257,7 @@ Archify is an agent skill, installed with `npx skills add tt-a1i/archify -g`, th
 <sub>no GPU · Needs Node.js (npx), AI coding agent (Cursor, Claude Code, Codex CLI or OpenCode) · [Repo](https://github.com/tt-a1i/archify) · [▶️ Demo ↗](https://archify.si/gallery.html) · [📖 Docs ↗](https://archify.si/guide.html) · [🌐 Site ↗](https://archify.si) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/archify/)</sub>
 
 <a name="ruflo"></a>
-### #&#8288;15 [ruflo](https://github.com/ruvnet/ruflo) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 74k · MIT · Oct 2026</sub>
+### #&#8288;15 [ruflo](https://github.com/ruvnet/ruflo) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 74k · MIT · Oct 2026</sub>
 
 **Agent harness that adds swarms, memory and MCP tools to Claude Code and Codex.**
 
@@ -275,7 +275,7 @@ Ruflo wraps Claude Code and Codex with 100+ specialized agents, swarm coordinati
 <sub>Needs Claude Code 2.1.287 or later (for plugins), Node.js/npm (npx) · Models: Claude Code, Codex, Ollama (via ruflo-ruvllm plugin) · [Repo](https://github.com/ruvnet/ruflo) · [📖 Docs ↗](https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md) · [🌐 Site ↗](https://ruvnet.github.io/ruflo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ruflo/)</sub>
 
 <a name="rtk"></a>
-### #&#8288;16 [rtk](https://github.com/rtk-ai/rtk) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 83k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;16 [rtk](https://github.com/rtk-ai/rtk) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 83k · Apache-2.0 · Oct 2026</sub>
 
 **CLI proxy that compresses shell command output before your coding agent reads it.**
 
@@ -329,7 +329,7 @@ oh-my-claudecode adds skills, slash commands and an `omc` CLI to Claude Code. It
 <sub>no GPU · Needs Claude Code, tmux, Node.js/npm, codex/gemini/agy/grok/cursor-agent CLIs (optional) · Models: Claude, Codex, Gemini, Antigravity, Grok · [Repo](https://github.com/yeachan-heo/oh-my-claudecode) · [📖 Docs ↗](https://yeachan-heo.github.io/oh-my-claudecode-website/docs/) · [🌐 Site ↗](https://yeachan-heo.github.io/oh-my-claudecode-website) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-claudecode/)</sub>
 
 <a name="agentic-awesome-skills"></a>
-### #&#8288;19 [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 47k · MIT · Oct 2026</sub>
+### #&#8288;19 [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · MIT · Oct 2026</sub>
 
 **Library of 2,671+ SKILL.md playbooks for coding agents, with a local MCP selector.**
 
