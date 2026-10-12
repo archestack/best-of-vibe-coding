@@ -125,7 +125,7 @@
 
 ## 💬 Chat apps
 
-Chat interfaces and single-feature text apps you fork as the base of a conversational product. <sub>12 ranked · [📝 all reviews](reviews/chat-apps.md)</sub>
+Chat interfaces and single-feature text apps you fork as the base of a conversational product. <sub>12 ranked · [📝 all reviews](reviews/chat-apps.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/)</sub>
 
 **langchain-nextjs-template leads with 63**, ahead of chatbot (54) and chat (52).
 
@@ -156,7 +156,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 
 ## 📚 RAG and search
 
-Retrieval over your own documents or data, answer engines, and natural-language-to-SQL starters. <sub>12 ranked · [📝 all reviews](reviews/rag-search.md)</sub>
+Retrieval over your own documents or data, answer engines, and natural-language-to-SQL starters. <sub>12 ranked · [📝 all reviews](reviews/rag-search.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/)</sub>
 
 **azure-search-openai-demo leads with 56**, ahead of rag-postgres-openai-python (51) and llm-app (48).
 
@@ -187,7 +187,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 
 ## 🧩 Agent backends
 
-Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents, eve) meant to be extended. <sub>18 ranked · [📝 all reviews](reviews/agents.md)</sub>
+Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents, eve) meant to be extended. <sub>18 ranked · [📝 all reviews](reviews/agents.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/agents/)</sub>
 
 **eve-software-factory-template leads with 65**, ahead of marketing-team-eve-template (59) and personal-agent-template (57).
 
@@ -218,7 +218,7 @@ Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Age
 
 ## 🖥️ Agent UI and generative UI
 
-Frontends that render agent steps, tool calls, approvals or model-generated components. <sub>6 ranked · [📝 all reviews](reviews/agent-ui.md)</sub>
+Frontends that render agent steps, tool calls, approvals or model-generated components. <sub>6 ranked · [📝 all reviews](reviews/agent-ui.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/)</sub>
 
 **agent-chat-ui leads with 45**, ahead of OpenGenerativeUI (45) and agent-ui (40).
 
@@ -243,7 +243,7 @@ Frontends that render agent steps, tool calls, approvals or model-generated comp
 
 ## 🎙️ Voice and realtime
 
-Voice agents, realtime speech-to-speech apps and their web, phone and native clients. <sub>16 ranked · [📝 all reviews](reviews/voice-realtime.md)</sub>
+Voice agents, realtime speech-to-speech apps and their web, phone and native clients. <sub>16 ranked · [📝 all reviews](reviews/voice-realtime.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/voice-realtime/)</sub>
 
 **agent-starter-react leads with 51**, ahead of agent-starter-python (50) and agent-starter-node (50).
 
@@ -274,7 +274,7 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 
 ## 🔌 MCP servers and chat-host apps
 
-Templates for building MCP servers and apps that run inside chat hosts such as ChatGPT. <sub>5 ranked · [📝 all reviews](reviews/mcp-apps.md)</sub>
+Templates for building MCP servers and apps that run inside chat hosts such as ChatGPT. <sub>5 ranked · [📝 all reviews](reviews/mcp-apps.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/mcp-apps/)</sub>
 
 **mcp-typescript-template leads with 60**, ahead of template-mcp-server (47) and mcp-for-next.js (41).
 
@@ -298,7 +298,7 @@ Templates for building MCP servers and apps that run inside chat hosts such as C
 
 ## 💳 SaaS boilerplates
 
-Product boilerplates with auth, billing and a database wired in, with AI features built in or ready to add. <sub>7 ranked · [📝 all reviews](reviews/saas-with-ai.md)</sub>
+Product boilerplates with auth, billing and a database wired in, with AI features built in or ready to add. <sub>7 ranked · [📝 all reviews](reviews/saas-with-ai.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/saas-with-ai/)</sub>
 
 **ant-design-pro leads with 68**, ahead of velobase-harness (56) and hackathon-starter (52).
 
@@ -324,7 +324,7 @@ Product boilerplates with auth, billing and a database wired in, with AI feature
 
 ## 🏗️ App builder starters
 
-Prompt-to-app builders and platforms that run coding agents in sandboxes. <sub>7 ranked · [📝 all reviews](reviews/app-builders.md)</sub>
+Prompt-to-app builders and platforms that run coding agents in sandboxes. <sub>7 ranked · [📝 all reviews](reviews/app-builders.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/app-builders/)</sub>
 
 **ai-website-cloner-template leads with 77**, ahead of jeecgboot (63) and llamacoder (48).
 
@@ -350,7 +350,7 @@ Prompt-to-app builders and platforms that run coding agents in sandboxes. <sub>7
 
 ## ✏️ AI editors and workflow canvases
 
-Rich-text editors with AI commands and node-based canvases for chaining model calls. <sub>4 ranked · [📝 all reviews](reviews/editors-workflows.md)</sub>
+Rich-text editors with AI commands and node-based canvases for chaining model calls. <sub>4 ranked · [📝 all reviews](reviews/editors-workflows.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/)</sub>
 
 **plate-playground-template leads with 54**, ahead of editor (50) and workflow-builder-template (36).
 
@@ -373,7 +373,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 
 ## ☁️ Cloud reference architectures
 
-Vendor reference apps and infrastructure-as-code for running AI apps on Azure or Google Cloud. <sub>7 ranked · [📝 all reviews](reviews/cloud-reference.md)</sub>
+Vendor reference apps and infrastructure-as-code for running AI apps on Azure or Google Cloud. <sub>7 ranked · [📝 all reviews](reviews/cloud-reference.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/cloud-reference/)</sub>
 
 **agent-landing-zone leads with 64**, ahead of fullstack-solution-template-for-agentcore (44) and azurechat (42).
 
@@ -399,7 +399,7 @@ Vendor reference apps and infrastructure-as-code for running AI apps on Azure or
 
 ## ⚙️ AI API backends
 
-Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API. <sub>6 ranked · [📝 all reviews](reviews/api-backends.md)</sub>
+Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API. <sub>6 ranked · [📝 all reviews](reviews/api-backends.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/api-backends/)</sub>
 
 **agent-service-toolkit leads with 70**, ahead of fastapi-langgraph-agent-production-ready-template (55) and full-stack-ai-agent-template (55).
 
@@ -424,7 +424,7 @@ Backend service templates (FastAPI, Express, Hono) that expose models or agents 
 
 ## 📱 Mobile and browser extensions
 
-Native, cross-platform mobile and browser-extension starters with AI features built in. <sub>2 ranked · [📝 all reviews](reviews/mobile-extensions.md)</sub>
+Native, cross-platform mobile and browser-extension starters with AI features built in. <sub>2 ranked · [📝 all reviews](reviews/mobile-extensions.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/mobile-extensions/)</sub>
 
 **react-native-ai leads with 51**, ahead of extro (37).
 
@@ -447,7 +447,7 @@ Native, cross-platform mobile and browser-extension starters with AI features bu
 
 ## 🤖 Coding agents and assistants
 
-Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers. <sub>21 ranked · [📝 all reviews](reviews/coding-agents.md)</sub>
+Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers. <sub>21 ranked · [📝 all reviews](reviews/coding-agents.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/coding-agents/)</sub>
 
 **opencode leads with 78**, ahead of orca (75) and oh-my-openagent (75).
 
@@ -478,7 +478,7 @@ Agents and assistants that read your repo, write code and run commands: CLIs, ID
 
 ## 🧩 Skills, plugins and rules
 
-Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others. <sub>31 ranked · [📝 all reviews](reviews/skills-plugins.md)</sub>
+Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others. <sub>31 ranked · [📝 all reviews](reviews/skills-plugins.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/skills-plugins/)</sub>
 
 **skills leads with 94**, ahead of ecc (93) and superpowers (89).
 
@@ -511,7 +511,7 @@ Add-ons that make coding agents better: skills, plugins, rules, hooks and memory
 
 ## 🔌 MCP servers for developers
 
-MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databases and code navigation. <sub>6 ranked · [📝 all reviews](reviews/dev-mcp.md)</sub>
+MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databases and code navigation. <sub>6 ranked · [📝 all reviews](reviews/dev-mcp.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/dev-mcp/)</sub>
 
 **codegraph leads with 80**, ahead of chrome-devtools-mcp (64) and codebase-memory-mcp (62).
 
@@ -538,7 +538,7 @@ MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databa
 
 ## 🧪 Code review and testing
 
-AI tools that review pull requests, write tests or find bugs, run in your CI or on your machine. <sub>1 ranked · [📝 all reviews](reviews/code-review.md)</sub>
+AI tools that review pull requests, write tests or find bugs, run in your CI or on your machine. <sub>1 ranked · [📝 all reviews](reviews/code-review.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/code-review/)</sub>
 
 **open-code-review leads with 78**.
 
@@ -558,7 +558,7 @@ AI tools that review pull requests, write tests or find bugs, run in your CI or 
 
 ## 🎨 Design to code
 
-Tools that turn screenshots, mockups or visual edits into working front-end code. <sub>2 ranked · [📝 all reviews](reviews/design-to-code.md)</sub>
+Tools that turn screenshots, mockups or visual edits into working front-end code. <sub>2 ranked · [📝 all reviews](reviews/design-to-code.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/design-to-code/)</sub>
 
 **screenshot-to-code leads with 65**, ahead of Onlook (53).
 
@@ -581,7 +581,7 @@ Tools that turn screenshots, mockups or visual edits into working front-end code
 
 ## 🗄️ Backends and databases
 
-Open-source backends you ship apps on: auth, database, storage and APIs in one, self-hosted or managed. <sub>2 ranked · [📝 all reviews](reviews/backends.md)</sub>
+Open-source backends you ship apps on: auth, database, storage and APIs in one, self-hosted or managed. <sub>2 ranked · [📝 all reviews](reviews/backends.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/backends/)</sub>
 
 **supabase leads with 73**, ahead of graphql-engine (55).
 
@@ -602,7 +602,7 @@ Open-source backends you ship apps on: auth, database, storage and APIs in one, 
 
 ## 🚀 Deploy and hosting
 
-Self-hosted platforms that deploy and run your apps from Git or Docker on your own servers. <sub>2 ranked · [📝 all reviews](reviews/deploy.md)</sub>
+Self-hosted platforms that deploy and run your apps from Git or Docker on your own servers. <sub>2 ranked · [📝 all reviews](reviews/deploy.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/deploy/)</sub>
 
 **dokploy leads with 85**, ahead of dokku (65).
 

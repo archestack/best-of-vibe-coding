@@ -20,7 +20,7 @@ CodeGraph indexes a project into a local graph of symbols, call edges and depend
 - **−** No Docker or compose setup; install is via curl/PowerShell script or npm
 - **−** Hosted CodeGraph platform is a waitlist product, separate from this repo
 
-<sub>no GPU · [Repo](https://github.com/colbymchenry/codegraph) · [📖 Docs ↗](https://colbymchenry.github.io/codegraph/) · [🌐 Site ↗](https://getcodegraph.com)</sub>
+<sub>no GPU · [Repo](https://github.com/colbymchenry/codegraph) · [📖 Docs ↗](https://colbymchenry.github.io/codegraph/) · [🌐 Site ↗](https://getcodegraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codegraph/)</sub>
 
 <a name="chrome-devtools-mcp"></a>
 ### 🥈 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (80) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 53k · Apache-2.0 · Oct 2026</sub>
@@ -38,7 +38,7 @@ chrome-devtools-mcp is an MCP server that gives coding agents such as Claude, Cu
 - **−** Officially supports only Chrome and Chrome for Testing
 - **−** Exposes all browser content to the connected MCP client
 
-<sub>no GPU · Needs Node.js LTS, npm, Google Chrome (current stable) · [Repo](https://github.com/chromedevtools/chrome-devtools-mcp) · [📖 Docs ↗](https://github.com/chromedevtools/chrome-devtools-mcp/blob/main/docs/tool-reference.md)</sub>
+<sub>no GPU · Needs Node.js LTS, npm, Google Chrome (current stable) · [Repo](https://github.com/chromedevtools/chrome-devtools-mcp) · [📖 Docs ↗](https://github.com/chromedevtools/chrome-devtools-mcp/blob/main/docs/tool-reference.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chrome-devtools-mcp/)</sub>
 
 <a name="codebase-memory-mcp"></a>
 ### 🥉 [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Oct 2026</sub>
@@ -56,7 +56,7 @@ A native C executable that parses repositories with tree-sitter (162 languages) 
 - **−** All active processes must share the exact same build and cache root
 - **−** Watcher covers only git projects opened in MCP sessions, by default
 
-<sub>no GPU · Models: nomic-embed-code (bundled, int8, 768d) · port 9749 · [Repo](https://github.com/deusdata/codebase-memory-mcp) · [📖 Docs ↗](https://github.com/DeusData/codebase-memory-mcp/blob/main/docs/CONFIGURATION.md)</sub>
+<sub>no GPU · Models: nomic-embed-code (bundled, int8, 768d) · port 9749 · [Repo](https://github.com/deusdata/codebase-memory-mcp) · [📖 Docs ↗](https://github.com/DeusData/codebase-memory-mcp/blob/main/docs/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codebase-memory-mcp/)</sub>
 
 <a name="github-mcp-server"></a>
 ### #&#8288;4 [github-mcp-server](https://github.com/github/github-mcp-server) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Oct 2026</sub>
@@ -74,7 +74,7 @@ Official GitHub MCP server, written in Go, that lets MCP hosts read code, manage
 - **−** Local Docker OAuth needs a fixed callback port (8085) published to loopback
 - **−** Only talks to GitHub; no other forges or providers
 
-<sub>no GPU · Docker · Needs GitHub API, Docker (optional) · [Repo](https://github.com/github/github-mcp-server) · [📖 Docs ↗](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md)</sub>
+<sub>no GPU · Docker · Needs GitHub API, Docker (optional) · [Repo](https://github.com/github/github-mcp-server) · [📖 Docs ↗](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/github-mcp-server/)</sub>
 
 <a name="context7"></a>
 ### #&#8288;5 [context7](https://github.com/upstash/context7) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
@@ -92,7 +92,7 @@ Context7 looks up documentation and code examples for a named library and versio
 - **−** Free API key recommended for higher rate limits; exact limits unknown
 - **−** Docs are community-contributed; accuracy and security are not guaranteed
 
-<sub>no GPU · Needs Node.js 18+, Context7 hosted API · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com)</sub>
+<sub>no GPU · Needs Node.js 18+, Context7 hosted API · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context7/)</sub>
 
 <a name="cli-anything"></a>
 ### #&#8288;6 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Sep 2026</sub>
@@ -110,6 +110,6 @@ CLI-Anything runs a 7-phase generator inside a coding agent such as Claude Code,
 - **−** Harness quality is per-CLI and community-contributed; test depth differs between harnesses
 - **−** Windows use with Claude Code needs Git for Windows or WSL for bash and cygpath
 
-<sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/)</sub>
+<sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-anything/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
