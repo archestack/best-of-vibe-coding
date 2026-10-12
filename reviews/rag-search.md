@@ -164,7 +164,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;10 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (11) · Freshness: active (85) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 250 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (11) · Freshness: active (85) · Maintenance: patchy (49) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 250 · Apache-2.0 · Oct 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
