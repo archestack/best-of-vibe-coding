@@ -95,7 +95,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 44
+    score: 46
   - id: fullstack-solution-template-for-agentcore
     repo: awslabs/fullstack-solution-template-for-agentcore
     name: fullstack-solution-template-for-agentcore
@@ -143,7 +143,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 44
+    score: 46
   - id: openai-realtime-solar-system
     repo: openai/openai-realtime-solar-system
     name: openai-realtime-solar-system
@@ -187,7 +187,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 23
+    score: 21
   - id: azure-ai-travel-agents
     repo: azure-samples/azure-ai-travel-agents
     name: azure-ai-travel-agents
@@ -287,7 +287,7 @@ entries:
       has_compose: true
       is_template: false
       language: Bicep
-    score: 33
+    score: 32
   - id: claude-managed-agents
     repo: cloudflare/claude-managed-agents
     name: claude-managed-agents
@@ -336,7 +336,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 26
+    score: 24
   - id: openai-realtime-meeting-assistant
     repo: openai/openai-realtime-meeting-assistant
     name: openai-realtime-meeting-assistant
@@ -382,7 +382,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 25
+    score: 23
   - id: openai-chat-vision-quickstart
     repo: azure-samples/openai-chat-vision-quickstart
     name: openai-chat-vision-quickstart
@@ -515,7 +515,7 @@ entries:
     audience: Developers using coding agents who want a enforced plan, TDD and review workflow
     confidence: 0.8
     facts:
-      stars: 298094
+      stars: 298101
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-10
@@ -523,7 +523,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 89
+    score: 88
   - id: skills
     repo: mattpocock/skills
     name: skills
@@ -558,7 +558,7 @@ entries:
     audience: Engineers using Claude Code, Codex, Copilot or Gemini CLI on real codebases
     confidence: 0.9
     facts:
-      stars: 287620
+      stars: 287631
       license: MIT
       last_commit: 2026-10-09
       last_release: 2026-10-04
@@ -602,7 +602,7 @@ entries:
     audience: Developers using Claude Code or Codex who want preset workflows
     confidence: 0.8
     facts:
-      stars: 277727
+      stars: 277733
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-01
@@ -647,7 +647,7 @@ entries:
     audience: Rust-comfortable developers inspecting or building a CLI coding agent harness
     confidence: 0.8
     facts:
-      stars: 194966
+      stars: 194965
       license: MIT
       last_commit: 2026-10-11
       last_release: null
@@ -655,7 +655,7 @@ entries:
       has_compose: true
       is_template: false
       language: Rust
-    score: 68
+    score: 67
   - id: ponytail
     repo: dietrichgebert/ponytail
     name: ponytail
@@ -688,7 +688,7 @@ entries:
     audience: Developers using AI coding agents who want smaller, tested diffs
     confidence: 0.8
     facts:
-      stars: 161718
+      stars: 161723
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-08
@@ -696,7 +696,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 89
+    score: 90
   - id: agency-agents
     repo: msitarzewski/agency-agents
     name: agency-agents
@@ -729,7 +729,7 @@ entries:
     audience: Developers who want ready-made agent roles in Claude Code, Cursor or Codex
     confidence: 0.8
     facts:
-      stars: 159388
+      stars: 159391
       license: MIT
       last_commit: 2026-10-07
       last_release: null
@@ -737,7 +737,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 74
+    score: 71
   - id: cc-switch
     repo: farion1231/cc-switch
     name: cc-switch
@@ -780,7 +780,7 @@ entries:
     audience: Developers who use several AI coding CLIs and switch API providers often
     confidence: 0.8
     facts:
-      stars: 143262
+      stars: 143260
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-12
@@ -788,7 +788,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 82
+    score: 83
   - id: spec-kit
     repo: github/spec-kit
     name: spec-kit
@@ -824,7 +824,7 @@ entries:
     audience: Developers who want structured, repeatable workflows from their coding agent
     confidence: 0.9
     facts:
-      stars: 140956
+      stars: 140957
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -832,7 +832,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 87
+    score: 88
   - id: gstack
     repo: garrytan/gstack
     name: gstack
@@ -875,7 +875,7 @@ entries:
     audience: Claude Code users wanting structured review, QA and release workflows
     confidence: 0.8
     facts:
-      stars: 136121
+      stars: 136122
       license: MIT
       last_commit: 2026-10-12
       last_release: null
@@ -883,7 +883,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 84
+    score: 82
   - id: ui-ux-pro-max-skill
     repo: nextlevelbuilder/ui-ux-pro-max-skill
     name: ui-ux-pro-max-skill
@@ -918,7 +918,7 @@ entries:
     audience: Developers using AI coding assistants who want consistent UI design output
     confidence: 0.85
     facts:
-      stars: 135101
+      stars: 135103
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-08-13
@@ -960,7 +960,7 @@ entries:
     audience: Developers who want a terminal coding agent tied to OpenAI
     confidence: 0.8
     facts:
-      stars: 128815
+      stars: 128818
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -1009,7 +1009,7 @@ entries:
     audience: Developers using AI coding assistants on large or unfamiliar codebases
     confidence: 0.82
     facts:
-      stars: 125806
+      stars: 125811
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-12
@@ -1104,7 +1104,7 @@ entries:
     audience: Heavy Claude Code or Codex users trying to cut token spend
     confidence: 0.8
     facts:
-      stars: 111199
+      stars: 111200
       license: Apache-2.0
       last_commit: 2026-10-08
       last_release: 2026-10-08
@@ -1112,7 +1112,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 89
+    score: 90
   - id: gemini-cli
     repo: google-gemini/gemini-cli
     name: gemini-cli
@@ -1156,7 +1156,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: agent-skills
     repo: addyosmani/agent-skills
     name: agent-skills
@@ -1189,7 +1189,7 @@ entries:
     audience: Developers who want repeatable, gated workflows from AI coding agents
     confidence: 0.8
     facts:
-      stars: 105471
+      stars: 105476
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-03
@@ -1239,7 +1239,7 @@ entries:
     audience: Claude Code users who want context carried across sessions
     confidence: 0.85
     facts:
-      stars: 100021
+      stars: 100024
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -1247,7 +1247,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 85
+    score: 86
   - id: taste-skill
     repo: leonxlnx/taste-skill
     name: taste-skill
@@ -1282,7 +1282,7 @@ entries:
     audience: Developers using AI coding agents who want less generic-looking frontends
     confidence: 0.85
     facts:
-      stars: 95059
+      stars: 95061
       license: MIT
       last_commit: 2026-10-11
       last_release: null
@@ -1325,7 +1325,7 @@ entries:
     audience: Developers running several CLI coding agents in parallel on one repo
     confidence: 0.85
     facts:
-      stars: 90511
+      stars: 90517
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-10
@@ -1333,7 +1333,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: understand-anything
     repo: egonex-ai/understand-anything
     name: understand-anything
@@ -1379,7 +1379,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 71
+    score: 68
   - id: rtk
     repo: rtk-ai/rtk
     name: rtk
@@ -1498,7 +1498,7 @@ entries:
     audience: Developers using AI coding agents who want better frontend design output
     confidence: 0.85
     facts:
-      stars: 80201
+      stars: 80206
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -1506,7 +1506,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 85
+    score: 86
   - id: ruflo
     repo: ruvnet/ruflo
     name: ruflo
@@ -1593,7 +1593,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 80
+    score: 81
   - id: openspec
     repo: fission-ai/openspec
     name: openspec
@@ -1629,7 +1629,7 @@ entries:
     audience: Developers who want written specs agreed with their AI coding agent
     confidence: 0.85
     facts:
-      stars: 71727
+      stars: 71728
       license: MIT
       last_commit: 2026-10-06
       last_release: 2026-10-06
@@ -1637,7 +1637,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 77
+    score: 79
   - id: cline
     repo: cline/cline
     name: cline
@@ -1739,7 +1739,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: openinterpreter
     repo: openinterpreter/openinterpreter
     name: openinterpreter
@@ -1785,7 +1785,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 72
+    score: 74
   - id: claude-code-best-practice
     repo: shanraisshan/claude-code-best-practice
     name: claude-code-best-practice
@@ -1820,7 +1820,7 @@ entries:
     audience: Engineers learning Claude Code configuration and agentic workflows
     confidence: 0.8
     facts:
-      stars: 67449
+      stars: 67452
       license: MIT
       last_commit: 2026-10-12
       last_release: null
@@ -1828,7 +1828,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 69
+    score: 67
   - id: warp
     repo: warpdotdev/warp
     name: warp
@@ -1873,7 +1873,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 59
+    score: 58
   - id: context7
     repo: upstash/context7
     name: context7
@@ -1908,7 +1908,7 @@ entries:
     audience: Developers using AI coding agents who need current library docs
     confidence: 0.85
     facts:
-      stars: 62935
+      stars: 62936
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -1916,7 +1916,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 57
+    score: 60
   - id: i-have-adhd
     repo: ayghri/i-have-adhd
     name: i-have-adhd
@@ -1948,7 +1948,7 @@ entries:
     audience: Coding-assistant users who want terse, action-first replies
     confidence: 0.8
     facts:
-      stars: 56652
+      stars: 56654
       license: MIT
       last_commit: 2026-10-11
       last_release: null
@@ -1956,7 +1956,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 67
+    score: 66
   - id: chrome-devtools-mcp
     repo: chromedevtools/chrome-devtools-mcp
     name: chrome-devtools-mcp
@@ -1991,7 +1991,7 @@ entries:
     audience: Developers who want their coding agent to debug and test pages in Chrome
     confidence: 0.9
     facts:
-      stars: 53355
+      stars: 53354
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-09-23
@@ -1999,7 +1999,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 65
   - id: cli-anything
     repo: hkuds/cli-anything
     name: cli-anything
@@ -2035,7 +2035,7 @@ entries:
     audience: Engineers giving coding agents scripted control of GUI and desktop apps
     confidence: 0.8
     facts:
-      stars: 51986
+      stars: 51988
       license: Apache-2.0
       last_commit: 2026-09-22
       last_release: 2026-06-25
@@ -2088,7 +2088,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 43
+    score: 41
   - id: jeecgboot
     repo: jeecgboot/jeecgboot
     name: jeecgboot
@@ -2139,7 +2139,7 @@ entries:
       has_compose: true
       is_template: false
       language: Java
-    score: 63
+    score: 66
   - id: diagram-design
     repo: cathrynlavery/diagram-design
     name: diagram-design
@@ -2172,7 +2172,7 @@ entries:
     audience: Developers and writers who want branded diagrams from an AI coding agent
     confidence: 0.8
     facts:
-      stars: 52195
+      stars: 52213
       license: MIT
       last_commit: 2026-10-12
       last_release: null
@@ -2222,7 +2222,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 75
+    score: 78
   - id: codebase-memory-mcp
     repo: deusdata/codebase-memory-mcp
     name: codebase-memory-mcp
@@ -2256,7 +2256,7 @@ entries:
     audience: Developers giving coding agents structural code search over local repos
     confidence: 0.85
     facts:
-      stars: 46427
+      stars: 46428
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-09-15
@@ -2264,7 +2264,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 62
+    score: 63
   - id: open-code-review
     repo: alibaba/open-code-review
     name: open-code-review
@@ -2301,7 +2301,7 @@ entries:
     audience: Teams adding LLM code review to local workflows or CI pipelines
     confidence: 0.9
     facts:
-      stars: 46477
+      stars: 46479
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-08
@@ -2309,7 +2309,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 78
+    score: 79
   - id: herdr
     repo: herdrdev/herdr
     name: herdr
@@ -2342,7 +2342,7 @@ entries:
     audience: Developers running several coding agents locally or over SSH
     confidence: 0.8
     facts:
-      stars: 43602
+      stars: 43605
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-09-29
@@ -2350,7 +2350,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 72
+    score: 74
   - id: claude-howto
     repo: luongnv89/claude-howto
     name: claude-howto
@@ -2394,7 +2394,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 67
+    score: 66
   - id: codewhale
     repo: codewhale-hq/codewhale
     name: codewhale
@@ -2440,7 +2440,7 @@ entries:
     audience: Developers wanting a model-agnostic terminal coding agent
     confidence: 0.85
     facts:
-      stars: 41074
+      stars: 41073
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-08
@@ -2448,7 +2448,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 71
+    score: 73
   - id: agents
     repo: wshobson/agents
     name: agents
@@ -2489,7 +2489,7 @@ entries:
     audience: Developers using AI coding CLIs who want ready-made agents and skills
     confidence: 0.9
     facts:
-      stars: 40473
+      stars: 40475
       license: MIT
       last_commit: 2026-10-04
       last_release: null
@@ -2548,7 +2548,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 77
+    score: 80
   - id: ant-design-pro
     repo: ant-design/ant-design-pro
     name: ant-design-pro
@@ -2665,7 +2665,7 @@ entries:
     audience: Claude Code users and plugin authors looking for or publishing plugins
     confidence: 0.85
     facts:
-      stars: 37731
+      stars: 37734
       license: Apache-2.0
       last_commit: 2026-10-11
       last_release: null
@@ -2673,7 +2673,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 54
+    score: 53
   - id: ai-website-cloner-template
     repo: jcodesmore/ai-website-cloner-template
     name: ai-website-cloner-template
@@ -2720,7 +2720,7 @@ entries:
       has_compose: true
       is_template: true
       language: TypeScript
-    score: 77
+    score: 78
   - id: continue
     repo: continuedev/continue
     name: continue
@@ -2761,7 +2761,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 52
+    score: 51
   - id: deepseek-reasonix
     repo: esengine/deepseek-reasonix
     name: deepseek-reasonix
@@ -2808,7 +2808,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 70
+    score: 72
   - id: hackathon-starter
     repo: sahat/hackathon-starter
     name: hackathon-starter
@@ -2900,7 +2900,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 66
   - id: book-to-skill
     repo: virgiliojr94/book-to-skill
     name: book-to-skill
@@ -2940,7 +2940,7 @@ entries:
     audience: Developers who want technical books or docs queryable from their coding agent
     confidence: 0.8
     facts:
-      stars: 34645
+      stars: 34646
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-08-10
@@ -2948,7 +2948,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 74
+    score: 77
   - id: codex-plugin-cc
     repo: openai/codex-plugin-cc
     name: codex-plugin-cc
@@ -2986,7 +2986,7 @@ entries:
     audience: Claude Code users who want Codex reviews and task delegation
     confidence: 0.9
     facts:
-      stars: 34123
+      stars: 34126
       license: Apache-2.0
       last_commit: 2026-07-08
       last_release: 2026-07-08
@@ -2994,7 +2994,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 45
+    score: 41
   - id: github-mcp-server
     repo: github/github-mcp-server
     name: github-mcp-server
@@ -3037,7 +3037,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 59
+    score: 61
   - id: claude-code-templates
     repo: davila7/claude-code-templates
     name: claude-code-templates
@@ -3073,7 +3073,7 @@ entries:
     audience: Claude Code users who want ready-made agents, hooks and MCP setups
     confidence: 0.85
     facts:
-      stars: 32581
+      stars: 32580
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -3081,7 +3081,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 63
+    score: 64
   - id: dokku
     repo: dokku/dokku
     name: dokku
@@ -3123,7 +3123,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 65
+    score: 67
   - id: graphql-engine
     repo: hasura/graphql-engine
     name: graphql-engine
@@ -3168,7 +3168,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 55
+    score: 57
   - id: vercel-chatbot
     repo: vercel/chatbot
     name: chatbot
@@ -3217,7 +3217,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 54
+    score: 51
   - id: claude-quickstarts
     repo: anthropics/claude-quickstarts
     name: claude-quickstarts
@@ -3252,7 +3252,7 @@ entries:
     audience: Developers copying one Claude pattern into their own app
     confidence: 0.8
     facts:
-      stars: 17920
+      stars: 17921
       license: MIT
       last_commit: 2026-10-07
       last_release: null
@@ -3260,7 +3260,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 48
+    score: 47
   - id: langchain-nextjs-template
     repo: langchain-ai/langchain-nextjs-template
     name: langchain-nextjs-template
@@ -3308,7 +3308,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 63
+    score: 61
   - id: twitterbio
     repo: nutlope/twitterbio
     name: twitterbio
@@ -3348,7 +3348,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 42
   - id: zola
     repo: ibelick/zola
     name: zola
@@ -3398,7 +3398,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 32
+    score: 30
   - id: gemini-chatbot
     repo: vercel-labs/gemini-chatbot
     name: gemini-chatbot
@@ -3443,7 +3443,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 50
+    score: 47
   - id: openai-chatkit-starter-app
     repo: openai/openai-chatkit-starter-app
     name: openai-chatkit-starter-app
@@ -3483,7 +3483,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 23
+    score: 21
   - id: openai-responses-starter-app
     repo: openai/openai-responses-starter-app
     name: openai-responses-starter-app
@@ -3526,7 +3526,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 23
+    score: 22
   - id: openai-chatkit-advanced-samples
     repo: openai/openai-chatkit-advanced-samples
     name: openai-chatkit-advanced-samples
@@ -3569,7 +3569,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 31
+    score: 30
   - id: ai-chat
     repo: pushpak1300/ai-chat
     name: ai-chat
@@ -3622,7 +3622,7 @@ entries:
       has_compose: false
       is_template: true
       language: PHP
-    score: 36
+    score: 33
   - id: nuxt-ui-chat
     repo: nuxt-ui-templates/chat
     name: chat
@@ -3670,7 +3670,7 @@ entries:
       has_compose: false
       is_template: true
       language: Vue
-    score: 52
+    score: 51
   - id: langgraph-fullstack-python
     repo: langchain-ai/langgraph-fullstack-python
     name: langgraph-fullstack-python
@@ -3716,7 +3716,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 15
+    score: 14
   - id: llm-app
     repo: pathwaycom/llm-app
     name: llm-app
@@ -3763,7 +3763,7 @@ entries:
       has_compose: false
       is_template: false
       language: Jupyter Notebook
-    score: 48
+    score: 47
   - id: azure-search-openai-demo
     repo: azure-samples/azure-search-openai-demo
     name: azure-search-openai-demo
@@ -3811,7 +3811,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 56
+    score: 59
   - id: chat-langchain
     repo: langchain-ai/chat-langchain
     name: chat-langchain
@@ -3908,7 +3908,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 41
+    score: 38
   - id: nextjs-openai-doc-search
     repo: supabase-community/nextjs-openai-doc-search
     name: nextjs-openai-doc-search
@@ -3952,7 +3952,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 40
+    score: 37
   - id: rag-postgres-openai-python
     repo: azure-samples/rag-postgres-openai-python
     name: rag-postgres-openai-python
@@ -4049,7 +4049,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 39
+    score: 38
   - id: natural-language-postgres
     repo: vercel-labs/natural-language-postgres
     name: natural-language-postgres
@@ -4092,7 +4092,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 32
+    score: 30
   - id: azure-search-openai-javascript
     repo: azure-samples/azure-search-openai-javascript
     name: azure-search-openai-javascript
@@ -4139,7 +4139,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 41
+    score: 39
   - id: ai-starter-kit
     repo: sambanova/ai-starter-kit
     name: ai-starter-kit
@@ -4184,7 +4184,7 @@ entries:
       has_compose: false
       is_template: false
       language: Jupyter Notebook
-    score: 30
+    score: 31
   - id: openai-support-agent-demo
     repo: openai/openai-support-agent-demo
     name: openai-support-agent-demo
@@ -4226,7 +4226,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 7
+    score: 6
   - id: ai-town
     repo: a16z-infra/ai-town
     name: ai-town
@@ -4265,7 +4265,7 @@ entries:
     audience: Teams building multi-agent simulations or games in TypeScript
     confidence: 0.85
     facts:
-      stars: 10624
+      stars: 10625
       license: MIT
       last_commit: 2026-08-26
       last_release: null
@@ -4273,7 +4273,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 52
+    score: 51
   - id: google-adk-recipes
     repo: google/adk-recipes
     name: adk-recipes
@@ -4317,7 +4317,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 53
+    score: 54
   - id: openai-cs-agents-demo
     repo: openai/openai-cs-agents-demo
     name: openai-cs-agents-demo
@@ -4361,7 +4361,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 21
+    score: 20
   - id: agent-starter-pack
     repo: googlecloudplatform/agent-starter-pack
     name: agent-starter-pack
@@ -4408,7 +4408,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 35
+    score: 33
   - id: openai-cua-sample-app
     repo: openai/openai-cua-sample-app
     name: openai-cua-sample-app
@@ -4497,7 +4497,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 43
+    score: 44
   - id: opentag
     repo: copilotkit/opentag
     name: OpenTag
@@ -4546,7 +4546,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 47
+    score: 49
   - id: eve-software-factory-template
     repo: vercel-labs/eve-software-factory-template
     name: eve-software-factory-template
@@ -4593,7 +4593,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 65
+    score: 63
   - id: knowledge-agent-template
     repo: vercel-labs/knowledge-agent-template
     name: knowledge-agent-template
@@ -4640,7 +4640,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 48
+    score: 45
   - id: react-agent
     repo: langchain-ai/react-agent
     name: react-agent
@@ -4684,7 +4684,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 47
+    score: 46
   - id: personal-agent-template
     repo: vercel-labs/personal-agent-template
     name: personal-agent-template
@@ -4729,7 +4729,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 57
+    score: 54
   - id: marketing-team-eve-template
     repo: vercel-labs/marketing-team-eve-template
     name: marketing-team-eve-template
@@ -4779,7 +4779,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 59
+    score: 57
   - id: new-langgraph-project
     repo: langchain-ai/new-langgraph-project
     name: new-langgraph-project
@@ -4907,7 +4907,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 42
+    score: 43
   - id: new-langgraphjs-project
     repo: langchain-ai/new-langgraphjs-project
     name: new-langgraphjs-project
@@ -4947,7 +4947,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 41
+    score: 42
   - id: agent-chat-ui
     repo: langchain-ai/agent-chat-ui
     name: agent-chat-ui
@@ -4990,7 +4990,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 44
   - id: agno-agent-ui
     repo: agno-agi/agent-ui
     name: agent-ui
@@ -5031,7 +5031,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 40
+    score: 37
   - id: opengenerativeui
     repo: copilotkit/openintelligentui
     name: OpenGenerativeUI
@@ -5068,7 +5068,7 @@ entries:
     audience: Frontend and agent developers prototyping generative UI chat apps
     confidence: 0.8
     facts:
-      stars: 2842
+      stars: 2843
       license: MIT
       last_commit: 2026-10-09
       last_release: null
@@ -5076,7 +5076,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 44
   - id: stockbot-on-groq
     repo: bklieger-groq/stockbot-on-groq
     name: stockbot-on-groq
@@ -5118,7 +5118,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 24
+    score: 22
   - id: openai-structured-outputs-samples
     repo: openai/openai-structured-outputs-samples
     name: openai-structured-outputs-samples
@@ -5159,7 +5159,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 11
+    score: 10
   - id: assistant-ui-stockbroker
     repo: assistant-ui/assistant-ui-stockbroker
     name: assistant-ui-stockbroker
@@ -5205,7 +5205,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 13
+    score: 12
   - id: open-saas
     repo: wasp-lang/open-saas
     name: open-saas
@@ -5252,7 +5252,7 @@ entries:
       has_compose: false
       is_template: false
       language: MDX
-    score: 47
+    score: 48
   - id: ai-fullstack-saas-boilerplate
     repo: alan345/ai-fullstack-saas-boilerplate
     name: AI-Fullstack-SaaS-Boilerplate
@@ -5296,7 +5296,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 36
+    score: 37
   - id: velobase-harness
     repo: velobase/velobase-harness
     name: velobase-harness
@@ -5347,7 +5347,7 @@ entries:
       has_compose: true
       is_template: true
       language: TypeScript
-    score: 56
+    score: 57
   - id: next-ai-starter
     repo: kleneway/next-ai-starter
     name: next-ai-starter
@@ -5395,7 +5395,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 28
+    score: 26
   - id: lastsaas
     repo: jonradoff/lastsaas
     name: lastsaas
@@ -5440,7 +5440,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 24
+    score: 22
   - id: openai-realtime-agents
     repo: openai/openai-realtime-agents
     name: openai-realtime-agents
@@ -5484,7 +5484,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 23
   - id: live-api-web-console
     repo: google-gemini/live-api-web-console
     name: live-api-web-console
@@ -5525,7 +5525,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 15
+    score: 14
   - id: agent-starter-react
     repo: livekit-examples/agent-starter-react
     name: agent-starter-react
@@ -5566,7 +5566,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 51
+    score: 50
   - id: elevenlabs-examples
     repo: elevenlabs/examples
     name: examples
@@ -5609,7 +5609,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 36
+    score: 35
   - id: voice-ui-kit
     repo: pipecat-ai/voice-ui-kit
     name: voice-ui-kit
@@ -5651,7 +5651,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 47
   - id: pipecat-examples
     repo: pipecat-ai/pipecat-examples
     name: pipecat-examples
@@ -5693,7 +5693,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 41
+    score: 42
   - id: agent-starter-python
     repo: livekit-examples/agent-starter-python
     name: agent-starter-python
@@ -5736,7 +5736,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 50
+    score: 48
   - id: agent-starter-node
     repo: livekit-examples/agent-starter-node
     name: agent-starter-node
@@ -5779,7 +5779,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 50
+    score: 49
   - id: agent-starter-android
     repo: livekit-examples/agent-starter-android
     name: agent-starter-android
@@ -5821,7 +5821,7 @@ entries:
       has_compose: false
       is_template: true
       language: Kotlin
-    score: 41
+    score: 40
   - id: agent-starter-swift
     repo: livekit-examples/agent-starter-swift
     name: agent-starter-swift
@@ -5909,7 +5909,7 @@ entries:
       has_compose: false
       is_template: true
       language: Dart
-    score: 40
+    score: 39
   - id: agent-starter-embed
     repo: livekit-examples/agent-starter-embed
     name: agent-starter-embed
@@ -5950,7 +5950,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 35
+    score: 33
   - id: agent-starter-react-native
     repo: livekit-examples/agent-starter-react-native
     name: agent-starter-react-native
@@ -5992,7 +5992,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 36
+    score: 35
   - id: openai-apps-sdk-examples
     repo: openai/openai-apps-sdk-examples
     name: openai-apps-sdk-examples
@@ -6037,7 +6037,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 32
+    score: 30
   - id: mcp-for-next-js
     repo: vercel-labs/mcp-for-next.js
     name: mcp-for-next.js
@@ -6120,7 +6120,7 @@ entries:
       has_compose: false
       is_template: true
       language: Go
-    score: 24
+    score: 23
   - id: template-mcp-server
     repo: redhat-data-and-ai/template-mcp-server
     name: template-mcp-server
@@ -6163,7 +6163,7 @@ entries:
       has_compose: true
       is_template: true
       language: Python
-    score: 47
+    score: 46
   - id: mcp-typescript-template
     repo: nickytonline/mcp-typescript-template
     name: mcp-typescript-template
@@ -6203,7 +6203,7 @@ entries:
       has_compose: true
       is_template: true
       language: TypeScript
-    score: 60
+    score: 63
   - id: llamacoder
     repo: nutlope/llamacoder
     name: llamacoder
@@ -6248,7 +6248,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 48
+    score: 47
   - id: fragments
     repo: e2b-dev/fragments
     name: fragments
@@ -6350,7 +6350,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 42
   - id: vibesdk
     repo: cloudflare/vibesdk
     name: vibesdk
@@ -6396,7 +6396,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 43
+    score: 44
   - id: coding-agent-template
     repo: vercel-labs/coding-agent-template
     name: coding-agent-template
@@ -6448,7 +6448,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 38
+    score: 35
   - id: workflow-builder-template
     repo: vercel-labs/workflow-builder-template
     name: workflow-builder-template
@@ -6492,7 +6492,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 36
+    score: 33
   - id: tersa
     repo: vercel-labs/tersa
     name: tersa
@@ -6534,7 +6534,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 23
   - id: plate-playground-template
     repo: udecode/plate-playground-template
     name: plate-playground-template
@@ -6620,7 +6620,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 50
+    score: 49
   - id: azurechat
     repo: microsoft/azurechat
     name: azurechat
@@ -6665,7 +6665,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 42
+    score: 40
   - id: azure-agent-landing-zone
     repo: azure/agent-landing-zone
     name: agent-landing-zone
@@ -6711,7 +6711,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 64
+    score: 67
   - id: openai-chat-app-quickstart
     repo: azure-samples/openai-chat-app-quickstart
     name: openai-chat-app-quickstart
@@ -6755,7 +6755,7 @@ entries:
       has_compose: true
       is_template: true
       language: Bicep
-    score: 40
+    score: 38
   - id: agent-service-toolkit
     repo: joshuac215/agent-service-toolkit
     name: agent-service-toolkit
@@ -6802,7 +6802,7 @@ entries:
       has_compose: true
       is_template: true
       language: Python
-    score: 70
+    score: 69
   - id: fastapi-langgraph-agent-production-ready-template
     repo: wassim249/fastapi-langgraph-agent-production-ready-template
     name: fastapi-langgraph-agent-production-ready-template
@@ -6899,7 +6899,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 58
   - id: nodejs-api-boilerplate
     repo: vyancharuk/nodejs-api-boilerplate
     name: nodejs-api-boilerplate
@@ -6947,7 +6947,7 @@ entries:
       has_compose: true
       is_template: true
       language: TypeScript
-    score: 31
+    score: 29
   - id: generative-ai-project-template
     repo: aminedjeghri/generative-ai-project-template
     name: generative-ai-project-template
@@ -7034,7 +7034,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 28
+    score: 26
   - id: react-native-ai
     repo: dabit3/react-native-ai
     name: react-native-ai
@@ -7082,7 +7082,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 51
+    score: 48
   - id: extro
     repo: turbostarter/extro
     name: extro
@@ -7126,7 +7126,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 37
+    score: 36
   - id: opencode
     repo: anomalyco/opencode
     name: opencode
@@ -7156,7 +7156,7 @@ entries:
     audience: Developers wanting an open terminal coding agent
     confidence: 0.65
     facts:
-      stars: 212905
+      stars: 212908
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-11
@@ -7164,7 +7164,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 78
+    score: 79
   - id: openhands
     repo: openhands/openhands
     name: OpenHands
@@ -7208,7 +7208,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: screenshot-to-code
     repo: abi/screenshot-to-code
     name: screenshot-to-code
@@ -7258,7 +7258,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 65
+    score: 63
   - id: tabby
     repo: tabbyml/tabby
     name: Tabby
@@ -7305,7 +7305,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 48
+    score: 45
   - id: onlook
     repo: onlook-dev/onlook
     name: Onlook
@@ -7352,7 +7352,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 53
+    score: 50
   - id: archon
     repo: coleam00/archon
     name: Archon
@@ -7399,7 +7399,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: openchamber
     repo: openchamber/openchamber
     name: OpenChamber
@@ -7441,7 +7441,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 68
+    score: 70
   - id: open-swe
     repo: langchain-ai/open-swe
     name: Open SWE
@@ -7486,7 +7486,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 73
+    score: 75
   - id: background-agents
     repo: colemurray/background-agents
     name: Background Agents
@@ -7536,4 +7536,4 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 64
+    score: 63

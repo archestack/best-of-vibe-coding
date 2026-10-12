@@ -5,7 +5,7 @@ Templates for building MCP servers and apps that run inside chat hosts such as C
 <sub>🌐 Also on the web: [MCP servers and chat-host apps on archestack.com](https://archestack.com/best-of-vibe-coding/mcp-apps/), each project on its own page.</sub>
 
 <a name="mcp-typescript-template"></a>
-### 🥇 [mcp-typescript-template](https://github.com/nickytonline/mcp-typescript-template) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 58 · MIT · Oct 2026</sub>
+### 🥇 [mcp-typescript-template](https://github.com/nickytonline/mcp-typescript-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 58 · MIT · Oct 2026</sub>
 
 **Express and Effect template for a stateless remote MCP server.**
 
@@ -22,7 +22,7 @@ TypeScript 7 project serving a stateless MCP endpoint at /mcp on port 3000 via E
 <sub>TypeScript, MCP TypeScript SDK (@modelcontextprotocol/server) · GitHub template · Docker · [Repo](https://github.com/nickytonline/mcp-typescript-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-typescript-template/)</sub>
 
 <a name="template-mcp-server"></a>
-### 🥈 [template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 66 · Apache-2.0 · Aug 2026</sub>
+### 🥈 [template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 66 · Apache-2.0 · Aug 2026</sub>
 
 **Python FastMCP server template with OAuth, OpenShift manifests and CI.**
 
@@ -57,7 +57,7 @@ Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server t
 <sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
 
 <a name="openai-apps-sdk-examples"></a>
-### #&#8288;4 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: popular (72) · Freshness: recent (67) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
+### #&#8288;4 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (72) · Freshness: recent (67) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
 
 **Example MCP servers and widgets for ChatGPT apps on the Apps SDK.**
 
@@ -75,7 +75,7 @@ pnpm workspace with React widget sources, a Vite build that emits hashed HTML/JS
 <sub>TypeScript, OpenAI Apps SDK, MCP TypeScript SDK, MCP Python SDK · Needs ChatGPT developer mode, ngrok or a public host for testing · [Repo](https://github.com/openai/openai-apps-sdk-examples) · [📖 Docs ↗](https://developers.openai.com/apps-sdk) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-apps-sdk-examples/)</sub>
 
 <a name="mcp-forge"></a>
-### #&#8288;5 [mcp-forge](https://github.com/achetronic/mcp-forge) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (27) · Freshness: slowing (34) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 98 · Apache-2.0 · Jan 2026</sub>
+### #&#8288;5 [mcp-forge](https://github.com/achetronic/mcp-forge) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (27) · Freshness: slowing (34) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 98 · Apache-2.0 · Jan 2026</sub>
 
 **Go MCP server template with OAuth discovery and JWT validation.**
 
