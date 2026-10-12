@@ -515,7 +515,7 @@ entries:
     audience: Developers using coding agents who want a enforced plan, TDD and review workflow
     confidence: 0.8
     facts:
-      stars: 297987
+      stars: 297989
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-10
@@ -558,7 +558,7 @@ entries:
     audience: Engineers using Claude Code, Codex, Copilot or Gemini CLI on real codebases
     confidence: 0.9
     facts:
-      stars: 287210
+      stars: 287220
       license: MIT
       last_commit: 2026-10-09
       last_release: 2026-10-04
@@ -602,7 +602,7 @@ entries:
     audience: Developers using Claude Code or Codex who want preset workflows
     confidence: 0.8
     facts:
-      stars: 277565
+      stars: 277568
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-01
@@ -688,7 +688,7 @@ entries:
     audience: Developers using AI coding agents who want smaller, tested diffs
     confidence: 0.8
     facts:
-      stars: 161520
+      stars: 161528
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-08
@@ -729,7 +729,7 @@ entries:
     audience: Developers who want ready-made agent roles in Claude Code, Cursor or Codex
     confidence: 0.8
     facts:
-      stars: 159286
+      stars: 159287
       license: MIT
       last_commit: 2026-10-07
       last_release: null
@@ -780,7 +780,7 @@ entries:
     audience: Developers who use several AI coding CLIs and switch API providers often
     confidence: 0.8
     facts:
-      stars: 143182
+      stars: 143186
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-11
@@ -826,7 +826,7 @@ entries:
     facts:
       stars: 140919
       license: MIT
-      last_commit: 2026-10-10
+      last_commit: 2026-10-12
       last_release: 2026-10-09
       has_docker: false
       has_compose: false
@@ -875,7 +875,7 @@ entries:
     audience: Claude Code users wanting structured review, QA and release workflows
     confidence: 0.8
     facts:
-      stars: 136089
+      stars: 136090
       license: MIT
       last_commit: 2026-10-12
       last_release: null
@@ -918,7 +918,7 @@ entries:
     audience: Developers using AI coding assistants who want consistent UI design output
     confidence: 0.85
     facts:
-      stars: 135023
+      stars: 135029
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-08-13
@@ -1009,7 +1009,7 @@ entries:
     audience: Developers using AI coding assistants on large or unfamiliar codebases
     confidence: 0.82
     facts:
-      stars: 125720
+      stars: 125722
       license: Apache-2.0
       last_commit: 2026-10-11
       last_release: 2026-10-11
@@ -1104,7 +1104,7 @@ entries:
     audience: Heavy Claude Code or Codex users trying to cut token spend
     confidence: 0.8
     facts:
-      stars: 111147
+      stars: 111148
       license: Apache-2.0
       last_commit: 2026-10-08
       last_release: 2026-10-08
@@ -1148,7 +1148,7 @@ entries:
     audience: Developers who want a Gemini-backed coding agent in the terminal or CI
     confidence: 0.9
     facts:
-      stars: 107297
+      stars: 107296
       license: Apache-2.0
       last_commit: 2026-10-09
       last_release: 2026-10-06
@@ -1189,7 +1189,7 @@ entries:
     audience: Developers who want repeatable, gated workflows from AI coding agents
     confidence: 0.8
     facts:
-      stars: 105310
+      stars: 105314
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-03
@@ -1239,7 +1239,7 @@ entries:
     audience: Claude Code users who want context carried across sessions
     confidence: 0.85
     facts:
-      stars: 99938
+      stars: 99940
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-09
@@ -1282,7 +1282,7 @@ entries:
     audience: Developers using AI coding agents who want less generic-looking frontends
     confidence: 0.85
     facts:
-      stars: 94953
+      stars: 94955
       license: MIT
       last_commit: 2026-10-11
       last_release: null
@@ -1325,7 +1325,7 @@ entries:
     audience: Developers running several CLI coding agents in parallel on one repo
     confidence: 0.85
     facts:
-      stars: 90283
+      stars: 90286
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-10
@@ -1371,7 +1371,7 @@ entries:
     audience: Engineers onboarding to large codebases using AI coding assistants
     confidence: 0.8
     facts:
-      stars: 86012
+      stars: 86013
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-07-10
@@ -1456,7 +1456,7 @@ entries:
     audience: Developers who use coding agents and want shareable architecture diagrams
     confidence: 0.85
     facts:
-      stars: 82362
+      stars: 82364
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-09-28
@@ -1544,7 +1544,7 @@ entries:
     audience: Claude Code or Codex users wanting multi-agent swarms and persistent memory
     confidence: 0.7
     facts:
-      stars: 74399
+      stars: 74398
       license: MIT
       last_commit: 2026-10-11
       last_release: 2026-10-11
@@ -1629,7 +1629,7 @@ entries:
     audience: Developers who want written specs agreed with their AI coding agent
     confidence: 0.85
     facts:
-      stars: 71704
+      stars: 71706
       license: MIT
       last_commit: 2026-10-06
       last_release: 2026-10-06
@@ -1686,7 +1686,7 @@ entries:
     audience: Developers wanting an approval-gated coding agent in their IDE, terminal or CI
     confidence: 0.85
     facts:
-      stars: 70206
+      stars: 70207
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-08
@@ -1948,7 +1948,7 @@ entries:
     audience: Coding-assistant users who want terse, action-first replies
     confidence: 0.8
     facts:
-      stars: 56608
+      stars: 56610
       license: MIT
       last_commit: 2026-10-11
       last_release: null
@@ -2131,7 +2131,7 @@ entries:
     audience: Java teams building enterprise admin systems with optional AI features
     confidence: 0.8
     facts:
-      stars: 48185
+      stars: 48186
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-08-27
@@ -2172,7 +2172,7 @@ entries:
     audience: Developers and writers who want branded diagrams from an AI coding agent
     confidence: 0.8
     facts:
-      stars: 51678
+      stars: 51697
       license: MIT
       last_commit: 2026-10-10
       last_release: null
@@ -2301,7 +2301,7 @@ entries:
     audience: Teams adding LLM code review to local workflows or CI pipelines
     confidence: 0.9
     facts:
-      stars: 46400
+      stars: 46401
       license: Apache-2.0
       last_commit: 2026-10-12
       last_release: 2026-10-08
@@ -2342,7 +2342,7 @@ entries:
     audience: Developers running several coding agents locally or over SSH
     confidence: 0.8
     facts:
-      stars: 43523
+      stars: 43524
       license: Apache-2.0
       last_commit: 2026-10-11
       last_release: 2026-09-29
@@ -2712,7 +2712,7 @@ entries:
     audience: Developers rebuilding a site they own as a Next.js app with a coding agent
     confidence: 0.85
     facts:
-      stars: 36611
+      stars: 36612
       license: MIT
       last_commit: 2026-10-05
       last_release: 2026-10-05
@@ -2940,7 +2940,7 @@ entries:
     audience: Developers who want technical books or docs queryable from their coding agent
     confidence: 0.8
     facts:
-      stars: 34621
+      stars: 34624
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-08-10
@@ -5068,7 +5068,7 @@ entries:
     audience: Frontend and agent developers prototyping generative UI chat apps
     confidence: 0.8
     facts:
-      stars: 2803
+      stars: 2804
       license: MIT
       last_commit: 2026-10-09
       last_release: null
@@ -7200,7 +7200,7 @@ entries:
     audience: Developers self-hosting coding agents and automating GitHub or Slack workflows
     confidence: 0.85
     facts:
-      stars: 90689
+      stars: 90690
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-08
@@ -7433,7 +7433,7 @@ entries:
     audience: Developers running AI coding agents who want multi-device review and control
     confidence: 0.8
     facts:
-      stars: 11471
+      stars: 11472
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-08
