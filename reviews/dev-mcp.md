@@ -95,7 +95,7 @@ Context7 looks up documentation and code examples for a named library and versio
 <sub>no GPU · Needs Node.js 18+, Context7 hosted API · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context7/)</sub>
 
 <a name="cli-anything"></a>
-### #&#8288;6 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;6 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Sep 2026</sub>
 
 **Generates command-line wrappers so AI agents can drive desktop and backend software.**
 
