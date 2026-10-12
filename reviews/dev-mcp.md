@@ -5,7 +5,7 @@ MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databa
 <sub>🌐 Also on the web: [MCP servers for developers on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/dev-mcp/), each project on its own page.</sub>
 
 <a name="codegraph"></a>
-### 🥇 [codegraph](https://github.com/colbymchenry/codegraph) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 74k · MIT · Oct 2026</sub>
+### 🥇 [codegraph](https://github.com/colbymchenry/codegraph) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 74k · MIT · Oct 2026</sub>
 
 **Local code knowledge graph served to coding agents over MCP.**
 

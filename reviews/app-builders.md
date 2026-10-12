@@ -5,7 +5,7 @@ Prompt-to-app builders and platforms that run coding agents in sandboxes. Back t
 <sub>🌐 Also on the web: [App builder starters on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
 
 <a name="ai-website-cloner-template"></a>
-### 🥇 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Oct 2026</sub>
+### 🥇 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Oct 2026</sub>
 
 **Next.js template with an agent skill that rebuilds a website from its URL.**
 
@@ -59,7 +59,7 @@ Next.js App Router app with Tailwind that sends a prompt to Llama 3.1 405B on To
 <sub>TypeScript, Together AI (Llama 3.1 405B) · Needs Together AI API key, PostgreSQL (Neon), S3 bucket for screenshots, Braintrust (optional) · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;4 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (42) · Freshness: active (86) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Jun 2026</sub>
+### #&#8288;4 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (42) · Freshness: active (85) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 

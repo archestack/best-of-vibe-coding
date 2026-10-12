@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.github.io](https://archestack.github.io/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="azure-search-openai-demo"></a>
-### 🥇 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
+### 🥇 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
 
 **Azure RAG chat reference on AI Search and Azure OpenAI.**
 
@@ -95,7 +95,7 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;6 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (61) · Freshness: recent (73) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;6 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (61) · Freshness: recent (72) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -198,7 +198,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;12 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [7](../README.md#-how-we-rank "Score 7/100. Adoption: niche (5) · Freshness: quiet (24) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 203 · MIT · Dec 2025</sub>
+### #&#8288;12 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [7](../README.md#-how-we-rank "Score 7/100. Adoption: niche (5) · Freshness: quiet (23) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 203 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 

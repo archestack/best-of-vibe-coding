@@ -23,7 +23,7 @@ A Next.js frontend that connects to any LangGraph server exposing a messages key
 <sub>TypeScript, langgraph · Needs langgraph-server, langsmith-api-key-for-deployed-servers · env example file · [Repo](https://github.com/langchain-ai/agent-chat-ui) · [▶️ Demo ↗](https://agentchat.vercel.app)</sub>
 
 <a name="opengenerativeui"></a>
-### 🥈 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: patchy (30) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
+### 🥈 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: patchy (30) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with 3D models, charts, calculators and maps.**
 
@@ -92,7 +92,7 @@ A Turborepo with a Next.js 16 frontend on assistant-ui and a LangGraph.js backen
 <sub>TypeScript, openai, langgraph, assistant-ui · Needs openai-api-key, financial-datasets-api-key, tavily-api-key · [Repo](https://github.com/assistant-ui/assistant-ui-stockbroker)</sub>
 
 <a name="openai-structured-outputs-samples"></a>
-### #&#8288;6 [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) <sub>score [11](../README.md#-how-we-rank "Score 11/100. Adoption: niche (25) · Freshness: quiet (24) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 685 · MIT · Dec 2025</sub>
+### #&#8288;6 [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) <sub>score [11](../README.md#-how-we-rank "Score 11/100. Adoption: niche (25) · Freshness: quiet (23) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 685 · MIT · Dec 2025</sub>
 
 **Three Next.js samples driving UI from schema-constrained OpenAI outputs.**
 
