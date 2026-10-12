@@ -346,26 +346,8 @@ A repository of installable SKILL.md instruction files for coding agents, plus A
 
 <sub>no GPU · Needs Node.js/npm · [Repo](https://github.com/sickn33/agentic-awesome-skills) · [▶️ Demo ↗](https://aaskills.tech/workbench) · [📖 Docs ↗](https://github.com/sickn33/agentic-awesome-skills/blob/v19.2.0/docs/users/aas-core.md) · [🌐 Site ↗](https://aaskills.tech/)</sub>
 
-<a name="book-to-skill"></a>
-### #&#8288;20 [book-to-skill](https://github.com/virgiliojr94/book-to-skill) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 35k · MIT · Oct 2026</sub>
-
-**Converts books and document folders into on-demand skills for coding agents.**
-
-A Python extractor turns PDF, EPUB, DOCX, Markdown, HTML, RTF or MOBI files into clean text, and the host agent follows SKILL.md to generate a skill. The output is a core SKILL.md, per-chapter files, a glossary, patterns and a cheatsheet, written to ~/.agents/skills/<slug>/. Works with hosts that read the Agent Skills format, including Claude Code, Copilot CLI, Amp, Hermes Agent, OpenCode and OpenClaw.
-
-- **+** Chapter files load on demand; SKILL.md is about 4,000 tokens
-- **+** Reads PDF, EPUB, DOCX, HTML, RTF, MOBI, Markdown and plain text
-- **+** One skill folder is discovered by several agent hosts
-- **+** Reports 24x-51x fewer tokens than putting the book in context
-- **−** Scanned PDFs need OCR first (e.g. ocrmypdf); extraction stops otherwise
-- **−** MOBI/AZW input requires Calibre's ebook-convert, installed separately
-- **−** Skill generation is done by the host agent's model, so quality varies
-- **−** Sharing skills made from copyrighted books may infringe the rights holder
-
-<sub>no GPU · Needs Python 3, pdftotext (poppler), docling, ebooklib, beautifulsoup4, Calibre ebook-convert, ocrmypdf · [Repo](https://github.com/virgiliojr94/book-to-skill) · [📖 Docs ↗](https://github.com/virgiliojr94/book-to-skill/blob/main/docs/usage.md)</sub>
-
 <a name="agency-agents"></a>
-### #&#8288;21 [agency-agents](https://github.com/msitarzewski/agency-agents) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 159k · MIT · Oct 2026</sub>
+### #&#8288;20 [agency-agents](https://github.com/msitarzewski/agency-agents) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 159k · MIT · Oct 2026</sub>
 
 **Markdown agent persona files for Claude Code, Cursor, Codex and other coding tools.**
 
@@ -381,6 +363,24 @@ A repository of role-specific agent definitions written as Markdown files and gr
 - **−** Effectiveness claims like 'battle-tested' are not backed by benchmarks in the README
 
 <sub>no GPU · [Repo](https://github.com/msitarzewski/agency-agents) · [🌐 Site ↗](https://agencyagents.app)</sub>
+
+<a name="book-to-skill"></a>
+### #&#8288;21 [book-to-skill](https://github.com/virgiliojr94/book-to-skill) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 35k · MIT · Oct 2026</sub>
+
+**Converts books and document folders into on-demand skills for coding agents.**
+
+A Python extractor turns PDF, EPUB, DOCX, Markdown, HTML, RTF or MOBI files into clean text, and the host agent follows SKILL.md to generate a skill. The output is a core SKILL.md, per-chapter files, a glossary, patterns and a cheatsheet, written to ~/.agents/skills/<slug>/. Works with hosts that read the Agent Skills format, including Claude Code, Copilot CLI, Amp, Hermes Agent, OpenCode and OpenClaw.
+
+- **+** Chapter files load on demand; SKILL.md is about 4,000 tokens
+- **+** Reads PDF, EPUB, DOCX, HTML, RTF, MOBI, Markdown and plain text
+- **+** One skill folder is discovered by several agent hosts
+- **+** Reports 24x-51x fewer tokens than putting the book in context
+- **−** Scanned PDFs need OCR first (e.g. ocrmypdf); extraction stops otherwise
+- **−** MOBI/AZW input requires Calibre's ebook-convert, installed separately
+- **−** Skill generation is done by the host agent's model, so quality varies
+- **−** Sharing skills made from copyrighted books may infringe the rights holder
+
+<sub>no GPU · Needs Python 3, pdftotext (poppler), docling, ebooklib, beautifulsoup4, Calibre ebook-convert, ocrmypdf · [Repo](https://github.com/virgiliojr94/book-to-skill) · [📖 Docs ↗](https://github.com/virgiliojr94/book-to-skill/blob/main/docs/usage.md)</sub>
 
 <a name="taste-skill"></a>
 ### #&#8288;22 [taste-skill](https://github.com/leonxlnx/taste-skill) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 95k · MIT · Oct 2026</sub>
@@ -401,7 +401,7 @@ Taste Skill is a set of portable SKILL.md instruction files that tell coding age
 <sub>no GPU · Needs npx skills CLI, Codex, Cursor or Claude Code · [Repo](https://github.com/leonxlnx/taste-skill) · [🌐 Site ↗](https://tasteskill.dev)</sub>
 
 <a name="understand-anything"></a>
-### #&#8288;23 [understand-anything](https://github.com/egonex-ai/understand-anything) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 86k · MIT · Oct 2026</sub>
+### #&#8288;23 [understand-anything](https://github.com/egonex-ai/understand-anything) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 86k · MIT · Oct 2026</sub>
 
 **Plugin that builds an explorable knowledge graph of a codebase.**
 
