@@ -5,7 +5,7 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 <sub>🌐 Also on the web: [Voice and realtime on archestack.com](https://archestack.com/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
 
 <a name="agent-starter-react"></a>
-### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 951 · MIT · Sep 2026</sub>
+### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 952 · MIT · Sep 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
