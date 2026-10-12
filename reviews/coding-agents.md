@@ -54,7 +54,7 @@ OmO ships a single `omo` command, a native binary built on senpi, the project's 
 - **−** Computer use is documented as experimental
 - **−** Hardware needs and supported model list are not stated in the README
 
-<sub>Models: Claude, ChatGPT, Kimi, GLM · [Repo](https://github.com/code-yeongyu/oh-my-openagent) · [📖 Docs ↗](https://omo.dev/docs) · [🌐 Site ↗](https://omo.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-openagent/)</sub>
+<sub>Models: Claude, ChatGPT, Kimi, GLM · safety checks passed 7 of 10 · [Repo](https://github.com/code-yeongyu/oh-my-openagent) · [📖 Docs ↗](https://omo.dev/docs) · [🌐 Site ↗](https://omo.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-openagent/)</sub>
 
 <a name="open-swe"></a>
 ### #&#8288;4 [Open SWE](https://github.com/langchain-ai/open-swe) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
@@ -288,7 +288,7 @@ A fork of Pi that runs as a terminal coding agent with a Rust core, shipping 31 
 - **−** Pull request vouch policy is a trial and may return
 - **−** Benchmark claims come from the author's own blog post
 
-<sub>no GPU · Docker · Needs bun >= 1.3.14 · Models: 60+ providers · [Repo](https://github.com/can1357/oh-my-pi) · [📖 Docs ↗](https://omp.sh/docs/tools) · [🌐 Site ↗](https://omp.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-pi/)</sub>
+<sub>no GPU · Docker · Needs bun >= 1.3.14 · Models: 60+ providers · safety checks passed 10 of 13 · [Repo](https://github.com/can1357/oh-my-pi) · [📖 Docs ↗](https://omp.sh/docs/tools) · [🌐 Site ↗](https://omp.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-pi/)</sub>
 
 <a name="background-agents"></a>
 ### #&#8288;17 [Background Agents](https://github.com/colemurray/background-agents) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (52) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Oct 2026</sub>
