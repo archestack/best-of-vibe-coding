@@ -5,7 +5,7 @@ Prompt-to-app builders and platforms that run coding agents in sandboxes. Back t
 <sub>🌐 Also on the web: [App builder starters on archestack.com](https://archestack.com/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
 
 <a name="ai-website-cloner-template"></a>
-### 🥇 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Oct 2026</sub>
+### 🥇 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Oct 2026</sub>
 
 **Next.js template with an agent skill that rebuilds a website from its URL.**
 
@@ -23,7 +23,7 @@ A Next.js 16 template (React 19, Tailwind CSS v4, shadcn/ui) that bundles a port
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="jeecgboot"></a>
-### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
 
 **Java low-code platform with code generator and built-in AI app builder.**
 
@@ -41,7 +41,7 @@ JeecgBoot is a Spring Boot 4 and Vue3 platform for building enterprise systems s
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, Nacos (microservice mode), MinIO or Aliyun OSS (optional) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
 
 <a name="llamacoder"></a>
-### 🥉 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Sep 2026</sub>
+### 🥉 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Sep 2026</sub>
 
 **Open-source Claude Artifacts clone generating React apps with Llama.**
 
@@ -59,7 +59,7 @@ Next.js App Router app with Tailwind that sends a prompt to Llama 3.1 405B on To
 <sub>TypeScript, Together AI (Llama 3.1 405B) · Needs Together AI API key, PostgreSQL (Neon), S3 bucket for screenshots, Braintrust (optional) · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;4 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (34) · Freshness: active (94) · Maintenance: fair (56) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
+### #&#8288;4 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (29) · Freshness: active (94) · Maintenance: fair (58) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -77,7 +77,7 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;5 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (42) · Freshness: active (85) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Jun 2026</sub>
+### #&#8288;5 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (37) · Freshness: active (85) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
@@ -93,8 +93,26 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
+<a name="open-lovable"></a>
+### #&#8288;6 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: weak (15) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
+
+**Chat-driven React app builder that clones sites via Firecrawl and runs code in sandboxes.**
+
+Next.js app where you describe a React app in chat and an LLM generates and edits the code inside a remote sandbox (Vercel Sandbox by default, or E2B). It uses the Firecrawl API to scrape existing sites as reference material. The LLM can be Gemini, Anthropic, OpenAI or Groq, with optional Morph for faster edit application.
+
+- **+** Supports four LLM providers: Gemini, Anthropic, OpenAI and Groq, chosen via env keys
+- **+** Sandbox backend is switchable between Vercel Sandbox and E2B with one variable
+- **+** Setup is clone, install, set .env.local, run pnpm dev on port 3000
+- **+** MIT licensed
+- **−** Requires a Firecrawl API key; it is listed as required
+- **−** Needs a Vercel or E2B account for sandboxes; no local sandbox option documented
+- **−** Described as an example app; no docs on deployment, auth or persistence
+- **−** No Dockerfile or compose file, and no tagged releases
+
+<sub>TypeScript, Gemini, Anthropic, OpenAI, Groq · Needs Firecrawl API, Vercel Sandbox or E2B, Morph (optional) · env example file · [Repo](https://github.com/firecrawl/open-lovable) · [🌐 Site ↗](https://firecrawl.dev/?ref=open-lovable-github) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-lovable/)</sub>
+
 <a name="fragments"></a>
-### #&#8288;6 [fragments](https://github.com/e2b-dev/fragments) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (41) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;7 [fragments](https://github.com/e2b-dev/fragments) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (39) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
 
 **Open-source Claude Artifacts alternative that runs AI-generated apps in sandboxes.**
 
@@ -112,7 +130,7 @@ Next.js 14 app that takes a chat prompt, has an LLM generate code, and runs it i
 <sub>TypeScript, OpenAI, Anthropic, Google AI, Google Vertex · Needs E2B API key, LLM provider API key, Supabase (optional, auth), Vercel/Upstash KV (optional), PostHog (optional), Morph API key (optional) · env example file · [Repo](https://github.com/e2b-dev/fragments) · [▶️ Demo ↗](https://fragments.e2b.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fragments/)</sub>
 
 <a name="coding-agent-template"></a>
-### #&#8288;7 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (21) · Freshness: slowing (44) · Maintenance: weak (0) · Easy to run: easy (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;8 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (18) · Freshness: slowing (44) · Maintenance: weak (0) · Easy to run: easy (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
 
 **Run Claude Code, Codex and other coding CLIs in Vercel Sandbox.**
 

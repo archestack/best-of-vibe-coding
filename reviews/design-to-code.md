@@ -5,7 +5,7 @@ Tools that turn screenshots, mockups or visual edits into working front-end code
 <sub>🌐 Also on the web: [Design to code on archestack.com](https://archestack.com/best-of-vibe-coding/design-to-code/), each project on its own page.</sub>
 
 <a name="screenshot-to-code"></a>
-### 🥇 [screenshot-to-code](https://github.com/abi/screenshot-to-code) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 80k · MIT · Oct 2026</sub>
+### 🥇 [screenshot-to-code](https://github.com/abi/screenshot-to-code) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 80k · MIT · Oct 2026</sub>
 
 **Turns screenshots and mockups into Tailwind, React or Vue code.**
 
@@ -23,7 +23,7 @@ Takes a screenshot, mockup, Figma export or screen recording and generates HTML 
 <sub>no GPU · Compose · Needs OpenAI, Anthropic or Gemini API key, Replicate API key (optional), Playwright Chromium (optional preview) · Models: Gemini 3 Flash Preview, Gemini 3.1 Pro Preview, GPT-5.5, GPT-5.4 Mini, Claude Opus 4.6/4.8 · port 5173 · [Repo](https://github.com/abi/screenshot-to-code) · [▶️ Demo ↗](https://screenshottocode.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/screenshot-to-code/)</sub>
 
 <a name="onlook"></a>
-### 🥈 [Onlook](https://github.com/onlook-dev/onlook) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (30) · Freshness: recent (77) · Maintenance: weak (11) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · Apache-2.0 · Jul 2026</sub>
+### 🥈 [Onlook](https://github.com/onlook-dev/onlook) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (27) · Freshness: recent (77) · Maintenance: weak (11) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · Apache-2.0 · Jul 2026</sub>
 
 **Visual editor that edits Next.js and Tailwind apps with AI.**
 

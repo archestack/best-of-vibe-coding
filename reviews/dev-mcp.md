@@ -5,7 +5,7 @@ MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databa
 <sub>🌐 Also on the web: [MCP servers for developers on archestack.com](https://archestack.com/best-of-vibe-coding/dev-mcp/), each project on its own page.</sub>
 
 <a name="codegraph"></a>
-### 🥇 [codegraph](https://github.com/colbymchenry/codegraph) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 74k · MIT · Oct 2026</sub>
+### 🥇 [codegraph](https://github.com/colbymchenry/codegraph) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 74k · MIT · Oct 2026</sub>
 
 **Local code knowledge graph served to coding agents over MCP.**
 
@@ -20,10 +20,10 @@ CodeGraph indexes a project into a local graph of symbols, call edges and depend
 - **−** No Docker or compose setup; install is via curl/PowerShell script or npm
 - **−** Hosted CodeGraph platform is a waitlist product, separate from this repo
 
-<sub>no GPU · safety checks passed 10 of 13 · [Repo](https://github.com/colbymchenry/codegraph) · [📖 Docs ↗](https://colbymchenry.github.io/codegraph/) · [🌐 Site ↗](https://getcodegraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codegraph/)</sub>
+<sub>no GPU · safety checks passed 11 of 13 · [Repo](https://github.com/colbymchenry/codegraph) · [📖 Docs ↗](https://colbymchenry.github.io/codegraph/) · [🌐 Site ↗](https://getcodegraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codegraph/)</sub>
 
 <a name="chrome-devtools-mcp"></a>
-### 🥈 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 53k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 53k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets coding agents drive and debug a live Chrome.**
 
@@ -41,7 +41,7 @@ chrome-devtools-mcp is an MCP server that gives coding agents such as Claude, Cu
 <sub>no GPU · Needs Node.js LTS, npm, Google Chrome (current stable) · safety checks passed 14 of 14 · [Repo](https://github.com/chromedevtools/chrome-devtools-mcp) · [📖 Docs ↗](https://github.com/chromedevtools/chrome-devtools-mcp/blob/main/docs/tool-reference.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chrome-devtools-mcp/)</sub>
 
 <a name="codebase-memory-mcp"></a>
-### 🥉 [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Oct 2026</sub>
+### 🥉 [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Oct 2026</sub>
 
 **MCP server that indexes codebases into a queryable knowledge graph.**
 
@@ -59,7 +59,7 @@ A native C executable that parses repositories with tree-sitter (162 languages) 
 <sub>no GPU · Models: nomic-embed-code (bundled, int8, 768d) · port 9749 · safety checks passed 10 of 13 · [Repo](https://github.com/deusdata/codebase-memory-mcp) · [📖 Docs ↗](https://github.com/DeusData/codebase-memory-mcp/blob/main/docs/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codebase-memory-mcp/)</sub>
 
 <a name="github-mcp-server"></a>
-### #&#8288;4 [github-mcp-server](https://github.com/github/github-mcp-server) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Oct 2026</sub>
+### #&#8288;4 [github-mcp-server](https://github.com/github/github-mcp-server) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Oct 2026</sub>
 
 **MCP server exposing GitHub repos, issues, PRs and Actions to AI tools.**
 
@@ -76,8 +76,44 @@ Official GitHub MCP server, written in Go, that lets MCP hosts read code, manage
 
 <sub>no GPU · Docker · Needs GitHub API, Docker (optional) · safety checks passed 10 of 11 · [Repo](https://github.com/github/github-mcp-server) · [📖 Docs ↗](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/github-mcp-server/)</sub>
 
+<a name="serena"></a>
+### #&#8288;5 [serena](https://github.com/oraios/serena) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · custom license · Oct 2026</sub>
+
+**MCP server giving coding agents symbol-level code search, editing and refactoring.**
+
+Serena is an MCP server that gives a coding agent IDE-style tools: find symbol, find references, replace symbol body, rename, and a memory system. It uses language servers (over 40 languages) by default, or a paid JetBrains plugin that adds move, inline, type hierarchy and a debugger. It plugs into MCP clients such as Claude Code, Codex, Cursor and VSCode.
+
+- **+** Symbol-level retrieval and editing instead of line numbers or text search
+- **+** Language server backend is free and covers over 40 languages
+- **+** Works with any MCP client, launched by command or run in HTTP mode
+- **+** Layered YAML configuration: global, per-project, per-client contexts and modes
+- **−** Move, inline, type hierarchy and debugging need the paid JetBrains plugin
+- **−** Language server rename covers symbols only; some languages need extra installs
+- **−** Application is GPL-3.0-or-later; only the SolidLSP component is MIT
+- **−** Contributions require accepting a CLA
+
+<sub>Docker + Compose · Needs uv, language servers (per language), JetBrains IDE plugin (optional, paid) · Models: Any LLM through MCP clients (Claude Code, Codex, Gemini-CLI, OpenCode, Cursor, VSCode, Claude Desktop) · [Repo](https://github.com/oraios/serena) · [📖 Docs ↗](https://oraios.github.io/serena/02-usage/000_intro.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serena/)</sub>
+
+<a name="code-review-graph"></a>
+### #&#8288;6 [code-review-graph](https://github.com/tirth8205/code-review-graph) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Sep 2026</sub>
+
+**Local Tree-sitter code graph served over MCP so agents read only affected files.**
+
+Parses a repository with Tree-sitter into a SQLite graph of functions, classes, imports, calls, inheritance and tests, then serves blast-radius and review context to AI coding tools over MCP. A single install command detects and configures about 16 tools, including Claude Code, Cursor, Codex, Windsurf and Zed. It also ships a GitHub Action that posts risk-scored PR comments, and updates the graph incrementally by SHA-256 hash.
+
+- **+** One install command configures about 16 coding tools; uninstall leaves other config intact
+- **+** Incremental re-parse by SHA-256; two-file edit on a ~3,000-file repo took about 2.5 s
+- **+** Covers 30+ languages and notebooks, plus custom languages via languages.toml
+- **+** Pinned-SHA benchmarks with a reproduction recipe; median 63x token reduction across 6 repos
+- **−** Impact recall of 1.0 is circular, since ground truth comes from the same graph
+- **−** Graph context can exceed a plain file read for small single-file edits
+- **−** Search ranking needs work; Express queries can return no hits
+- **−** Flow detection is strongest for Python and PHP/Laravel; JavaScript and Go are weaker
+
+<sub>no GPU · Needs Python 3.10+, Tree-sitter, SQLite · Models: sentence-transformers (all-MiniLM-L6-v2), Google Gemini, MiniMax, Voyage AI, OpenAI-compatible endpoints · [Repo](https://github.com/tirth8205/code-review-graph) · [🌐 Site ↗](https://code-review-graph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-review-graph/)</sub>
+
 <a name="context7"></a>
-### #&#8288;5 [context7](https://github.com/upstash/context7) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
+### #&#8288;7 [context7](https://github.com/upstash/context7) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
 
 **Fetches current, version-specific library docs into coding agent prompts.**
 
@@ -92,10 +128,10 @@ Context7 looks up documentation and code examples for a named library and versio
 - **−** Free API key recommended for higher rate limits; exact limits unknown
 - **−** Docs are community-contributed; accuracy and security are not guaranteed
 
-<sub>no GPU · Needs Node.js 18+, Context7 hosted API · safety checks passed 12 of 14 · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context7/)</sub>
+<sub>no GPU · Needs Node.js 18+, Context7 hosted API · safety checks passed 13 of 14 · [Repo](https://github.com/upstash/context7) · [📖 Docs ↗](https://context7.com/docs/clients/cli) · [🌐 Site ↗](https://context7.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context7/)</sub>
 
 <a name="cli-anything"></a>
-### #&#8288;6 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;8 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Sep 2026</sub>
 
 **Generates command-line wrappers so AI agents can drive desktop and backend software.**
 
@@ -111,5 +147,23 @@ CLI-Anything runs a 7-phase generator inside a coding agent such as Claude Code,
 - **−** Windows use with Claude Code needs Git for Windows or WSL for bash and cygpath
 
 <sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · safety checks passed 7 of 10 · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-anything/)</sub>
+
+<a name="claude-task-master"></a>
+### #&#8288;9 [claude-task-master](https://github.com/eyaltoledano/claude-task-master) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (29) · Freshness: recent (78) · Maintenance: weak (4) · Easy to run: some setup (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · custom license · Apr 2026</sub>
+
+**Task manager that turns a PRD into tasks for AI coding agents.**
+
+Task Master runs as an MCP server or CLI (task-master) and parses a PRD into structured tasks with dependencies, subtasks, tags and a research command. Editors such as Cursor, Windsurf, VS Code and Q CLI, plus Claude Code, call it to plan and pick the next task. It needs a provider API key (Anthropic, OpenAI, Gemini, Perplexity, xAI, OpenRouter and others) or the Claude Code or Codex CLI.
+
+- **+** Works as an MCP server or CLI, installed with npx or npm
+- **+** Separate main, research and fallback models across many providers
+- **+** Claude Code and Codex CLI usable without an API key
+- **+** TASK_MASTER_TOOLS limits loaded tools to 7, 15 or all 36
+- **−** MIT with Commons Clause: no selling it or offering it as a hosted service
+- **−** Default loads all 36 tools, about 21,000 tokens of context
+- **−** Task quality depends on writing a detailed PRD first
+- **−** AI commands need a provider API key or a Claude Code/Codex CLI login
+
+<sub>no GPU · Needs Node.js, npm, AI provider API key or Claude Code/Codex CLI · Models: Anthropic, OpenAI, Google Gemini, Perplexity, xAI · [Repo](https://github.com/eyaltoledano/claude-task-master) · [📖 Docs ↗](https://tryhamster.com/docs/taskmaster) · [🌐 Site ↗](https://tryhamster.com/product/taskmaster) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-task-master/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
