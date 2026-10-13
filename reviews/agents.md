@@ -249,7 +249,7 @@ The TypeScript counterpart of the blank LangGraph template: src/agent/graph.ts k
 <sub>TypeScript, langgraph · Needs langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/new-langgraphjs-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraphjs-project/)</sub>
 
 <a name="agent-starter-pack"></a>
-### #&#8288;15 [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (68) · Freshness: active (86) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · Apache-2.0 · May 2026</sub>
+### #&#8288;15 [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (68) · Freshness: active (85) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · Apache-2.0 · May 2026</sub>
 
 **Google Cloud agent scaffolder with Terraform, CI/CD and evals; now maintenance-only.**
 
@@ -282,7 +282,7 @@ The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph th
 <sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (21) · Freshness: active (81) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · May 2026</sub>
+### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (21) · Freshness: active (80) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
@@ -300,7 +300,7 @@ A Cloudflare Workers control plane that receives Claude Managed Agents webhooks 
 <sub>TypeScript, Claude (Anthropic) · Needs Cloudflare Workers Paid plan, Cloudflare D1, Cloudflare KV, Cloudflare R2, Durable Objects, Anthropic API, Docker (terminal deploy) · Docker · [Repo](https://github.com/cloudflare/claude-managed-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-managed-agents/)</sub>
 
 <a name="openai-cs-agents-demo"></a>
-### #&#8288;18 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: popular (71) · Freshness: quiet (22) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
+### #&#8288;18 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: popular (71) · Freshness: quiet (21) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
 
 **Airline support multi-agent demo with visible handoffs and guardrails.**
 
