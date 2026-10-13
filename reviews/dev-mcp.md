@@ -77,7 +77,7 @@ Official GitHub MCP server, written in Go, that lets MCP hosts read code, manage
 <sub>no GPU · Docker · Needs GitHub API, Docker (optional) · safety checks passed 10 of 11 · [Repo](https://github.com/github/github-mcp-server) · [📖 Docs ↗](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/github-mcp-server/)</sub>
 
 <a name="context7"></a>
-### #&#8288;5 [context7](https://github.com/upstash/context7) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
+### #&#8288;5 [context7](https://github.com/upstash/context7) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
 
 **Fetches current, version-specific library docs into coding agent prompts.**
 
