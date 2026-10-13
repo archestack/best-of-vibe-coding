@@ -41,7 +41,7 @@ ECC installs a set of 68 agents, 293 skills, 94 legacy command shims, hooks, rul
 <sub>no GPU · Docker + Compose · Needs Node.js 18+, Git, Claude Code 2.1+ (for plugin setup) · safety checks passed 10 of 10 · [Repo](https://github.com/affaan-m/ecc) · [🌐 Site ↗](https://ecc.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ecc/)</sub>
 
 <a name="ponytail"></a>
-### 🥉 [ponytail](https://github.com/dietrichgebert/ponytail) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 162k · MIT · Oct 2026</sub>
+### 🥉 [ponytail](https://github.com/dietrichgebert/ponytail) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 162k · MIT · Oct 2026</sub>
 
 **Prompt skill that makes coding agents write less, safer code.**
 
@@ -95,7 +95,7 @@ Superpowers is a set of composable skills plus a session-start bootstrap that ma
 <sub>no GPU · safety checks passed 8 of 8 · [Repo](https://github.com/obra/superpowers) · [🌐 Site ↗](https://primeradiant.com/superpowers/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/superpowers/)</sub>
 
 <a name="spec-kit"></a>
-### #&#8288;6 [spec-kit](https://github.com/github/spec-kit) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 141k · MIT · Oct 2026</sub>
+### #&#8288;6 [spec-kit](https://github.com/github/spec-kit) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 141k · MIT · Oct 2026</sub>
 
 **CLI and agent skills for spec-driven development, bug fixing and idea assessment.**
 
@@ -292,26 +292,8 @@ RTK is a single Rust binary that rewrites shell commands such as git status, car
 
 <sub>no GPU · Needs ripgrep (some filters, Windows) · safety checks passed 8 of 9 · [Repo](https://github.com/rtk-ai/rtk) · [📖 Docs ↗](https://www.rtk-ai.app/guide/troubleshooting) · [🌐 Site ↗](https://www.rtk-ai.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rtk/)</sub>
 
-<a name="oh-my-claudecode"></a>
-### #&#8288;17 [oh-my-claudecode](https://github.com/yeachan-heo/oh-my-claudecode) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Oct 2026</sub>
-
-**Multi-agent orchestration plugin for Claude Code with staged team pipelines.**
-
-oh-my-claudecode adds skills, slash commands and an `omc` CLI to Claude Code. It runs in-session workflows such as /autopilot, /ralph, /deep-interview and a staged /team pipeline (plan, PRD, exec, verify, fix). The CLI can also start tmux panes running Codex, Gemini, Antigravity, Grok, Cursor or Claude workers.
-
-- **+** Installs as a Claude Code marketplace plugin or via npm (`oh-my-claude-sisyphus`)
-- **+** `omc team` spawns tmux workers for Codex, Gemini, Antigravity, Grok, Cursor and Claude
-- **+** Autopilot stage profiles are configurable in `.claude/omc.jsonc`
-- **+** MIT license; exports TypeScript helpers such as `createOmcSession()`
-- **−** Slash-command workflows need an active Claude Code session; not usable in CI
-- **−** Named autopilot profiles require Linux with `flock`
-- **−** Native team mode needs an experimental Claude Code env flag
-- **−** npm install prints a deprecated `prebuild-install` warning
-
-<sub>no GPU · Needs Claude Code, tmux, Node.js/npm, codex/gemini/agy/grok/cursor-agent CLIs (optional) · Models: Claude, Codex, Gemini, Antigravity, Grok · safety checks passed 9 of 10 · [Repo](https://github.com/yeachan-heo/oh-my-claudecode) · [📖 Docs ↗](https://yeachan-heo.github.io/oh-my-claudecode-website/docs/) · [🌐 Site ↗](https://yeachan-heo.github.io/oh-my-claudecode-website) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-claudecode/)</sub>
-
 <a name="openspec"></a>
-### #&#8288;18 [openspec](https://github.com/fission-ai/openspec) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 72k · MIT · Oct 2026</sub>
+### #&#8288;17 [openspec](https://github.com/fission-ai/openspec) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 72k · MIT · Oct 2026</sub>
 
 **Spec-driven workflow CLI that guides AI coding assistants through plan, apply and archive.**
 
@@ -327,6 +309,24 @@ OpenSpec is a Node.js CLI that adds an `openspec/` folder to a repo and installs
 - **−** Command syntax differs per tool, e.g. /opsx-propose, @opsx-propose, $openspec-propose
 
 <sub>no GPU · Needs Node.js 20.19.0+, an AI coding assistant · Models: Codex 5.5 and Opus 4.7 recommended; works with 30+ AI coding tools · safety checks passed 8 of 9 · [Repo](https://github.com/fission-ai/openspec) · [📖 Docs ↗](https://github.com/Fission-AI/OpenSpec/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openspec/)</sub>
+
+<a name="oh-my-claudecode"></a>
+### #&#8288;18 [oh-my-claudecode](https://github.com/yeachan-heo/oh-my-claudecode) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Oct 2026</sub>
+
+**Multi-agent orchestration plugin for Claude Code with staged team pipelines.**
+
+oh-my-claudecode adds skills, slash commands and an `omc` CLI to Claude Code. It runs in-session workflows such as /autopilot, /ralph, /deep-interview and a staged /team pipeline (plan, PRD, exec, verify, fix). The CLI can also start tmux panes running Codex, Gemini, Antigravity, Grok, Cursor or Claude workers.
+
+- **+** Installs as a Claude Code marketplace plugin or via npm (`oh-my-claude-sisyphus`)
+- **+** `omc team` spawns tmux workers for Codex, Gemini, Antigravity, Grok, Cursor and Claude
+- **+** Autopilot stage profiles are configurable in `.claude/omc.jsonc`
+- **+** MIT license; exports TypeScript helpers such as `createOmcSession()`
+- **−** Slash-command workflows need an active Claude Code session; not usable in CI
+- **−** Named autopilot profiles require Linux with `flock`
+- **−** Native team mode needs an experimental Claude Code env flag
+- **−** npm install prints a deprecated `prebuild-install` warning
+
+<sub>no GPU · Needs Claude Code, tmux, Node.js/npm, codex/gemini/agy/grok/cursor-agent CLIs (optional) · Models: Claude, Codex, Gemini, Antigravity, Grok · safety checks passed 9 of 10 · [Repo](https://github.com/yeachan-heo/oh-my-claudecode) · [📖 Docs ↗](https://yeachan-heo.github.io/oh-my-claudecode-website/docs/) · [🌐 Site ↗](https://yeachan-heo.github.io/oh-my-claudecode-website) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-claudecode/)</sub>
 
 <a name="agentic-awesome-skills"></a>
 ### #&#8288;19 [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · MIT · Oct 2026</sub>
