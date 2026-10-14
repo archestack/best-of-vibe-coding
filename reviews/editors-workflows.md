@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="plate-playground-template"></a>
-### 🥇 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (56) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 241 · MIT · Oct 2026</sub>
+### 🥇 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: fair (56) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 241 · MIT · Oct 2026</sub>
 
 **Next.js rich-text editor template on Plate with AI commands.**
 
@@ -40,7 +40,7 @@ Nuxt template on the Nuxt UI Editor component and TipTap: headings, tables, slas
 <sub>TypeScript, Vercel AI Gateway via AI SDK useCompletion · Needs Vercel AI Gateway key (optional), Blob storage: Vercel Blob, R2 or S3 (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="workflow-builder-template"></a>
-### 🥉 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (66) · Freshness: slowing (33) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
+### 🥉 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: popular (64) · Freshness: slowing (33) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
 
 **Visual AI workflow builder on Workflow DevKit with real integrations.**
 
@@ -58,7 +58,7 @@ Next.js 16 app with a React Flow canvas, Monaco editor, Better Auth, Drizzle on 
 <sub>TypeScript, Vercel AI Gateway (OpenAI GPT-5) · Needs PostgreSQL, Vercel AI Gateway API key, integration API keys (Resend, Linear, Slack, Stripe and others) · GitHub template · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/workflow-builder-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/workflow-builder-template/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;4 [tersa](https://github.com/vercel-labs/tersa) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (48) · Freshness: recent (58) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;4 [tersa](https://github.com/vercel-labs/tersa) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: known (46) · Freshness: recent (58) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 
