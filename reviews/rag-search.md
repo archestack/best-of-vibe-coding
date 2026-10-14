@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="azure-search-openai-demo"></a>
-### 🥇 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
+### 🥇 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
 
 **Azure RAG chat reference on AI Search and Azure OpenAI.**
 
@@ -147,7 +147,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;9 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (50) · Freshness: recent (77) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;9 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (50) · Freshness: recent (76) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
@@ -164,7 +164,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;10 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (10) · Freshness: active (85) · Maintenance: patchy (49) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 250 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (10) · Freshness: active (85) · Maintenance: patchy (49) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 249 · Apache-2.0 · Oct 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -181,7 +181,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;11 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (21) · Freshness: recent (71) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 325 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;11 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (21) · Freshness: recent (70) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 325 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

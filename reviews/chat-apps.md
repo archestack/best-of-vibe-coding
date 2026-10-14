@@ -58,7 +58,7 @@ A Nuxt app on Nuxt UI and the AI SDK: streaming replies with reasoning, three mo
 <sub>Vue, ai-gateway, ai-sdk, anthropic, google · Needs ai-gateway-api-key, github-oauth-app, sqlite-or-turso · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="claude-quickstarts"></a>
-### #&#8288;4 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Oct 2026</sub>
+### #&#8288;4 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Oct 2026</sub>
 
 **Independent Claude API starter projects, one folder per pattern.**
 
@@ -109,7 +109,7 @@ A one-page Next.js app: a form builds a prompt, sends it to Together AI and stre
 <sub>TypeScript, together · Needs together-api-key · env example file · [Repo](https://github.com/nutlope/twitterbio) · [▶️ Demo ↗](https://www.twitterbio.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/twitterbio/)</sub>
 
 <a name="ai-chat"></a>
-### #&#8288;7 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (18) · Freshness: active (92) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
+### #&#8288;7 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (18) · Freshness: active (91) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
 
 **Laravel 12 chat starter streaming replies through Prism to eight providers.**
 
@@ -175,7 +175,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (32) · Freshness: quiet (23) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 877 · MIT · Dec 2025</sub>
+### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (32) · Freshness: quiet (23) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 878 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

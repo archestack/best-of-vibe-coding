@@ -112,7 +112,7 @@ Next.js app where you describe a React app in chat and an LLM generates and edit
 <sub>TypeScript, Gemini, Anthropic, OpenAI, Groq · Needs Firecrawl API, Vercel Sandbox or E2B, Morph (optional) · env example file · [Repo](https://github.com/firecrawl/open-lovable) · [🌐 Site ↗](https://firecrawl.dev/?ref=open-lovable-github) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-lovable/)</sub>
 
 <a name="fragments"></a>
-### #&#8288;7 [fragments](https://github.com/e2b-dev/fragments) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (39) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;7 [fragments](https://github.com/e2b-dev/fragments) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
 
 **Open-source Claude Artifacts alternative that runs AI-generated apps in sandboxes.**
 

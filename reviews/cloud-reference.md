@@ -23,7 +23,7 @@ Agent Landing Zone is an azd and Bicep template that provisions a Zero-Trust Azu
 <sub>Python · Needs Azure, Microsoft Foundry, Azure OpenAI, Azure AI Search, Azure Developer CLI · GitHub template · [Repo](https://github.com/azure/agent-landing-zone) · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-agent-landing-zone/)</sub>
 
 <a name="fullstack-solution-template-for-agentcore"></a>
-### 🥈 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 597 · Apache-2.0 · Oct 2026</sub>
+### 🥈 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 598 · Apache-2.0 · Oct 2026</sub>
 
 **React frontend and AgentCore backend starter, deployed to AWS with CDK or Terraform.**
 

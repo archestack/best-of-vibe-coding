@@ -23,7 +23,7 @@ Claw Code is a Rust implementation of the `claw` command-line coding agent, buil
 <sub>no GPU · Docker + Compose · Needs Rust toolchain (cargo), LLM API key · Models: Anthropic API, OpenAI-compatible APIs, Ollama, llama.cpp, vLLM · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claw-code/)</sub>
 
 <a name="opencode"></a>
-### 🥈 [opencode](https://github.com/anomalyco/opencode) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 213k · MIT · Oct 2026</sub>
+### 🥈 [opencode](https://github.com/anomalyco/opencode) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 213k · MIT · Oct 2026</sub>
 
 **Terminal coding agent with build and plan modes, plus a desktop app.**
 
@@ -41,7 +41,7 @@ OpenCode is an AI coding agent that runs in the terminal and as a beta desktop a
 <sub>[Repo](https://github.com/anomalyco/opencode) · [📖 Docs ↗](https://opencode.ai/docs) · [🌐 Site ↗](https://opencode.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opencode/)</sub>
 
 <a name="orca"></a>
-### 🥉 [orca](https://github.com/stablyai/orca) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 91k · MIT · Oct 2026</sub>
+### 🥉 [orca](https://github.com/stablyai/orca) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 92k · MIT · Oct 2026</sub>
 
 **Desktop app that runs CLI coding agents in parallel git worktrees.**
 
@@ -131,7 +131,7 @@ Gemini CLI is a TypeScript terminal agent, installed from npm, Homebrew, MacPort
 <sub>no GPU · Docker · Needs Node.js, Gemini API, Google account login or Vertex AI · Models: Gemini 3, Gemini 2.5 Flash · [Repo](https://github.com/google-gemini/gemini-cli) · [📖 Docs ↗](https://geminicli.com/docs/) · [🌐 Site ↗](https://geminicli.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-cli/)</sub>
 
 <a name="openhands"></a>
-### #&#8288;8 [OpenHands](https://github.com/openhands/openhands) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 91k · MIT · Oct 2026</sub>
+### #&#8288;8 [OpenHands](https://github.com/openhands/openhands) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 91k · MIT · Oct 2026</sub>
 
 **Web control center for running coding agents and scheduled automations.**
 
@@ -149,7 +149,7 @@ Agent Canvas is a web frontend that starts and manages conversations with coding
 <sub>Docker · Needs Node.js 24+, uv, Docker (optional) · Models: Any LLM (via LLM profiles) · port 8000 · [Repo](https://github.com/openhands/openhands) · [📖 Docs ↗](https://docs.openhands.dev/openhands/usage/agent-canvas/backends) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openhands/)</sub>
 
 <a name="codewhale"></a>
-### #&#8288;9 [codewhale](https://github.com/codewhale-hq/codewhale) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · MIT · Oct 2026</sub>
+### #&#8288;9 [codewhale](https://github.com/codewhale-hq/codewhale) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · MIT · Oct 2026</sub>
 
 **Terminal coding agent that works with hosted or local models.**
 
@@ -202,8 +202,26 @@ LangGraph-based agent that investigates a repository, implements changes in a pe
 
 <sub>no GPU · Docker + Compose · Needs LangSmith (default sandbox and tracing), GitHub App, Slack app (optional), model provider credentials · Models: configurable LLM providers · [Repo](https://github.com/langchain-ai/open-swe) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-swe/)</sub>
 
+<a name="cline"></a>
+### #&#8288;12 [cline](https://github.com/cline/cline) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · Apache-2.0 · Oct 2026</sub>
+
+**Coding agent for VS Code, JetBrains, terminal and desktop.**
+
+Cline is a coding agent that reads a project, edits files across it, and runs shell commands while watching the output. It ships as a VS Code extension, JetBrains plugin, CLI with headless mode, macOS/Windows desktop app, and a Node.js SDK. Edits and commands need approval by default, with Plan and Act modes, checkpoints, and optional auto-approve.
+
+- **+** Same agent engine across VS Code, JetBrains, CLI, desktop app and SDK
+- **+** Works with Anthropic, OpenAI, Gemini, Bedrock, Vertex, OpenRouter, Ollama and LM Studio
+- **+** Headless CLI accepts piped input and emits JSON for CI/CD scripts
+- **+** Supports MCP servers, SDK plugins, cron-scheduled agents and multi-agent teams
+- **−** JetBrains plugin source is not open-sourced
+- **−** VS Code extension code is still migrating to the new layout
+- **−** Hosted model providers need your own API keys; local models via Ollama or LM Studio
+- **−** Diff review and checkpoints are described only for VS Code and JetBrains
+
+<sub>Needs Node.js, VS Code or JetBrains IDE (for extensions), LLM provider API key or local model server · Models: Anthropic, OpenAI, Google Gemini, OpenRouter, Vercel AI Gateway · [Repo](https://github.com/cline/cline) · [📖 Docs ↗](https://docs.cline.bot) · [🌐 Site ↗](https://cline.bot) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cline/)</sub>
+
 <a name="archon"></a>
-### #&#8288;12 [Archon](https://github.com/coleam00/archon) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
+### #&#8288;13 [Archon](https://github.com/coleam00/archon) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
 
 **YAML workflow engine that runs coding agents in isolated worktrees.**
 
@@ -221,7 +239,7 @@ Defines development processes (plan, implement, validate, review, PR) as YAML wo
 <sub>no GPU · Docker + Compose · Needs Bun, Claude Code (or Codex or Pi), GitHub CLI, SQLite or PostgreSQL · Models: Claude Code, Codex, Pi · [Repo](https://github.com/coleam00/archon) · [📖 Docs ↗](https://archon.diy/docs/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/archon/)</sub>
 
 <a name="codex"></a>
-### #&#8288;13 [codex](https://github.com/openai/codex) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 129k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;14 [codex](https://github.com/openai/codex) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 129k · Apache-2.0 · Oct 2026</sub>
 
 **OpenAI's terminal coding agent that runs locally.**
 
@@ -237,24 +255,6 @@ Codex CLI is a coding agent from OpenAI that runs in the terminal on your machin
 - **−** Install scripts fetch from OpenAI-hosted release URLs by default
 
 <sub>no GPU · Needs ChatGPT account or OpenAI API key · Models: OpenAI models · [Repo](https://github.com/openai/codex) · [📖 Docs ↗](https://developers.openai.com/codex) · [🌐 Site ↗](https://chatgpt.com/codex) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex/)</sub>
-
-<a name="cline"></a>
-### #&#8288;14 [cline](https://github.com/cline/cline) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: some setup (33) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · Apache-2.0 · Oct 2026</sub>
-
-**Coding agent for VS Code, JetBrains, terminal and desktop.**
-
-Cline is a coding agent that reads a project, edits files across it, and runs shell commands while watching the output. It ships as a VS Code extension, JetBrains plugin, CLI with headless mode, macOS/Windows desktop app, and a Node.js SDK. Edits and commands need approval by default, with Plan and Act modes, checkpoints, and optional auto-approve.
-
-- **+** Same agent engine across VS Code, JetBrains, CLI, desktop app and SDK
-- **+** Works with Anthropic, OpenAI, Gemini, Bedrock, Vertex, OpenRouter, Ollama and LM Studio
-- **+** Headless CLI accepts piped input and emits JSON for CI/CD scripts
-- **+** Supports MCP servers, SDK plugins, cron-scheduled agents and multi-agent teams
-- **−** JetBrains plugin source is not open-sourced
-- **−** VS Code extension code is still migrating to the new layout
-- **−** Hosted model providers need your own API keys; local models via Ollama or LM Studio
-- **−** Diff review and checkpoints are described only for VS Code and JetBrains
-
-<sub>Needs Node.js, VS Code or JetBrains IDE (for extensions), LLM provider API key or local model server · Models: Anthropic, OpenAI, Google Gemini, OpenRouter, Vercel AI Gateway · [Repo](https://github.com/cline/cline) · [📖 Docs ↗](https://docs.cline.bot) · [🌐 Site ↗](https://cline.bot) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cline/)</sub>
 
 <a name="cmux"></a>
 ### #&#8288;15 [cmux](https://github.com/manaflow-ai/cmux) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · custom license · Oct 2026</sub>
@@ -311,7 +311,7 @@ A fork of Pi that runs as a terminal coding agent with a Rust core, shipping 31 
 <sub>no GPU · Docker · Needs bun >= 1.3.14 · Models: 60+ providers · safety checks passed 11 of 13 · [Repo](https://github.com/can1357/oh-my-pi) · [📖 Docs ↗](https://omp.sh/docs/tools) · [🌐 Site ↗](https://omp.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-pi/)</sub>
 
 <a name="t3code"></a>
-### #&#8288;18 [t3code](https://github.com/pingdotgg/t3code) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · MIT · Oct 2026</sub>
+### #&#8288;18 [t3code](https://github.com/pingdotgg/t3code) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · MIT · Oct 2026</sub>
 
 **Desktop, web and mobile front end for controlling local coding agent CLIs.**
 
@@ -419,7 +419,7 @@ Runs coding sessions in cloud sandboxes coordinated by a Cloudflare Workers cont
 <sub>no GPU · Compose · Needs Cloudflare Workers, Durable Objects and D1, Sandbox provider (Modal, Daytona, E2B, OpenComputer or Vercel Sandbox), GitHub App, Slack and Linear apps (optional) · Models: Anthropic Claude (API key or subscription), OpenAI Codex via ChatGPT subscription, xAI Grok via SuperGrok, OpenCode Zen and Go, Z.AI Coding Plan · [Repo](https://github.com/colemurray/background-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/background-agents/)</sub>
 
 <a name="vibe-kanban"></a>
-### #&#8288;24 [vibe-kanban](https://github.com/bloopai/vibe-kanban) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (46) · Freshness: active (100) · Maintenance: weak (27) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;24 [vibe-kanban](https://github.com/bloopai/vibe-kanban) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (46) · Freshness: active (100) · Maintenance: weak (29) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Sep 2026</sub>
 
 **Kanban board that runs coding agents in per-issue git workspaces.**
 
@@ -473,7 +473,7 @@ Continue is a coding agent distributed as an npm CLI, a VS Code extension (Marke
 <sub>[Repo](https://github.com/continuedev/continue) · [📖 Docs ↗](https://docs.continue.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/continue/)</sub>
 
 <a name="grok-build"></a>
-### #&#8288;27 [grok-build](https://github.com/xai-org/grok-build) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;27 [grok-build](https://github.com/xai-org/grok-build) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · Apache-2.0 · Sep 2026</sub>
 
 **Terminal coding agent from SpaceXAI with a full-screen TUI, written in Rust.**
 

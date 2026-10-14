@@ -23,7 +23,7 @@ An eve pipeline named Foreman: label an issue factory, @mention it, or delegate 
 <sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="marketing-team-eve-template"></a>
-### 🥈 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: weak (28) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 450 · MIT · Aug 2026</sub>
+### 🥈 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: weak (28) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 451 · MIT · Aug 2026</sub>
 
 **eve lead agent delegating to five marketing specialists with approval gates.**
 
@@ -59,7 +59,7 @@ A Nuxt app plus an eve agent runtime: Better Auth email login, web chat with thr
 <sub>TypeScript, eve, ai-sdk · Needs postgres, vercel-blob, vercel-connect · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/personal-agent-template/)</sub>
 
 <a name="google-adk-recipes"></a>
-### #&#8288;4 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: fair (65) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: fair (64) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
 
 **Runnable Agent Development Kit recipes, from single patterns to deployable agents.**
 
@@ -77,7 +77,7 @@ A recipe collection for Google's Agent Development Kit: core/ holds single-patte
 <sub>Python, google, google-adk · Needs google-adk, google-api-key-or-vertex-ai · [Repo](https://github.com/google/adk-recipes) · [📖 Docs ↗](https://adk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-adk-recipes/)</sub>
 
 <a name="ai-town"></a>
-### #&#8288;5 [ai-town](https://github.com/a16z-infra/ai-town) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: patchy (36) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Aug 2026</sub>
+### #&#8288;5 [ai-town](https://github.com/a16z-infra/ai-town) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Aug 2026</sub>
 
 **Generative-agents town simulation on Convex with Ollama by default.**
 
@@ -233,7 +233,7 @@ Four TypeScript files: agent.ts builds a LangChain createAgent, tools.ts defines
 <sub>TypeScript, langchain, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent-js/)</sub>
 
 <a name="new-langgraphjs-project"></a>
-### #&#8288;14 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 75 · MIT · Oct 2026</sub>
+### #&#8288;14 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76 · MIT · Oct 2026</sub>
 
 **Empty TypeScript LangGraph.js scaffold with message history and tests.**
 
@@ -282,7 +282,7 @@ The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph th
 <sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (20) · Freshness: active (80) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · May 2026</sub>
+### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (20) · Freshness: active (80) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 328 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
