@@ -41,7 +41,7 @@ ECC installs a plan, test, implement, review, verify workflow into coding agents
 <sub>no GPU · Docker + Compose · Needs Node.js 18+, Git, Claude Code 2.1+ (for plugin setup) · Models: Claude Code, Codex, Kimi Code, Cursor, OpenCode · safety checks passed 10 of 10 · [Repo](https://github.com/affaan-m/ecc) · [🌐 Site ↗](https://ecc.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ecc/)</sub>
 
 <a name="caveman"></a>
-### 🥉 [caveman](https://github.com/juliusbrussee/caveman) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 111k · Apache-2.0 · Oct 2026</sub>
+### 🥉 [caveman](https://github.com/juliusbrussee/caveman) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 112k · Apache-2.0 · Oct 2026</sub>
 
 **Proxy and skill that cut token use in coding agents.**
 
@@ -149,7 +149,7 @@ A set of 25 SKILL.md workflows covering spec, plan, build, test, review and ship
 <sub>no GPU · Needs Node.js (npx), An AI coding agent such as Claude Code, Codex or Gemini CLI · safety checks passed 8 of 9 · [Repo](https://github.com/addyosmani/agent-skills) · [📖 Docs ↗](https://github.com/addyosmani/agent-skills/blob/main/docs/getting-started.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-skills/)</sub>
 
 <a name="claude-mem"></a>
-### #&#8288;9 [claude-mem](https://github.com/thedotmack/claude-mem) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 100k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;9 [claude-mem](https://github.com/thedotmack/claude-mem) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 101k · Apache-2.0 · Oct 2026</sub>
 
 **Persistent cross-session memory plugin for Claude Code and other coding agents.**
 
@@ -401,7 +401,7 @@ Repomix reads a local or remote Git repository and writes a single file, XML by 
 <sub>no GPU · Docker · Needs Node.js · Models: Model-agnostic: output is a file for Claude, ChatGPT, Gemini, Llama, Grok and others · [Repo](https://github.com/yamadashy/repomix) · [▶️ Demo ↗](https://repomix.com) · [🌐 Site ↗](https://repomix.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/repomix/)</sub>
 
 <a name="claude-hud"></a>
-### #&#8288;23 [claude-hud](https://github.com/jarrodwatts/claude-hud) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · MIT · Oct 2026</sub>
+### #&#8288;23 [claude-hud](https://github.com/jarrodwatts/claude-hud) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
 
 **Status line plugin for Claude Code showing context, usage limits and todos.**
 
@@ -599,7 +599,7 @@ A catalog of Claude Code components (agents, slash commands, settings, hooks, MC
 <sub>no GPU · Needs Node.js/npx, Claude Code, Cloudflare Tunnel (optional, for remote chat monitor) · safety checks passed 5 of 10 · [Repo](https://github.com/davila7/claude-code-templates) · [📖 Docs ↗](https://docs.aitmpl.com) · [🌐 Site ↗](https://aitmpl.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-templates/)</sub>
 
 <a name="diagram-design"></a>
-### #&#8288;34 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 54k · MIT · Oct 2026</sub>
+### #&#8288;34 [diagram-design](https://github.com/cathrynlavery/diagram-design) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · MIT · Oct 2026</sub>
 
 **Agent skill that generates editorial HTML/SVG diagrams in your site's style.**
 
@@ -707,7 +707,7 @@ DESIGN.md defines a file format with YAML front matter for design tokens (colors
 <sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/google-labs-code/design.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/design-md/)</sub>
 
 <a name="hallmark"></a>
-### #&#8288;40 [hallmark](https://github.com/nutlope/hallmark) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (43) · Freshness: active (100) · Maintenance: weak (19) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · MIT · Aug 2026</sub>
+### #&#8288;40 [hallmark](https://github.com/nutlope/hallmark) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (43) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · MIT · Aug 2026</sub>
 
 **Design skill that steers coding agents away from generic AI-looking UI.**
 
