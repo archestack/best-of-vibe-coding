@@ -5,7 +5,7 @@ Self-hosted platforms that deploy and run your apps from Git or Docker on your o
 <sub>🌐 Also on the web: [Deploy and hosting on archestack.com](https://archestack.com/best-of-vibe-coding/deploy/), each project on its own page.</sub>
 
 <a name="dokploy"></a>
-### 🥇 [dokploy](https://github.com/dokploy/dokploy) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: very easy (83) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 38k · custom license · Oct 2026</sub>
+### 🥇 [dokploy](https://github.com/dokploy/dokploy) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: very easy (83) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 38k · custom license · Oct 2026</sub>
 
 **Self-hosted PaaS for deploying apps and databases on your own servers.**
 
@@ -23,7 +23,7 @@ Dokploy deploys applications (Node.js, PHP, Python, Go, Ruby and others) and Doc
 <sub>no GPU · Docker · Needs Docker, Docker Swarm, Traefik · [Repo](https://github.com/dokploy/dokploy) · [📖 Docs ↗](https://docs.dokploy.com) · [🌐 Site ↗](https://dokploy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dokploy/)</sub>
 
 <a name="dokku"></a>
-### 🥈 [dokku](https://github.com/dokku/dokku) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Oct 2026</sub>
+### 🥈 [dokku](https://github.com/dokku/dokku) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Oct 2026</sub>
 
 **Self-hosted mini-Heroku PaaS that deploys apps with git push.**
 

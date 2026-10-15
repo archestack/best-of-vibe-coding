@@ -4,8 +4,26 @@ Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Age
 
 <sub>🌐 Also on the web: [Agent backends on archestack.com](https://archestack.com/best-of-vibe-coding/agents/), each project on its own page.</sub>
 
+<a name="deepseek-harness"></a>
+### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 250k · MIT · Oct 2026</sub>
+
+**Plugin-based agent harness from DeepSeek with a local Web UI.**
+
+DeepSeek Harness (`dsh`) is a TypeScript agent harness built on the Cordis plugin framework, where every component is a plugin. It runs via `npx @deepseek-ai/dsh web` or from a source checkout with pnpm, and serves a Web UI at 127.0.0.1:3080 by default. It is a developer preview, and the README warns of compatibility-breaking changes.
+
+- **+** Starts with one npx command; no Docker or database mentioned
+- **+** Everything-is-a-plugin design on Cordis, with a dsh-plugin topic for discovery
+- **+** MIT license, documentation site and third-party license notices
+- **+** Web UI binds to 127.0.0.1 by default; --no-open skips the browser
+- **−** Developer preview; README warns of compatibility-breaking changes
+- **−** No tagged release published
+- **−** README does not list supported models, providers or system requirements
+- **−** Safety notice must be read before running; its contents are not in the README
+
+<sub>TypeScript · Needs Node.js, pnpm (source build) · [Repo](https://github.com/deepseek-ai/deepseek-harness) · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-harness/)</sub>
+
 <a name="eve-software-factory-template"></a>
-### 🥇 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Sep 2026</sub>
+### 🥈 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Sep 2026</sub>
 
 **eve pipeline that turns GitHub or Linear issues into reviewed draft PRs.**
 
@@ -23,7 +41,7 @@ An eve pipeline named Foreman: label an issue factory, @mention it, or delegate 
 <sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="marketing-team-eve-template"></a>
-### 🥈 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: weak (28) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 452 · MIT · Aug 2026</sub>
+### 🥉 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: weak (28) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 453 · MIT · Aug 2026</sub>
 
 **eve lead agent delegating to five marketing specialists with approval gates.**
 
@@ -41,7 +59,7 @@ An eve project where a lead agent briefs one of five specialists (product market
 <sub>TypeScript, eve, ai-gateway, ai-sdk · Needs vercel-connect, notion, resend, slack, typefully-api-key, vercel-blob, ai-gateway · GitHub template · [Repo](https://github.com/vercel-labs/marketing-team-eve-template) · [📖 Docs ↗](https://vercel.com/kb/guide/marketing-team-eve) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/marketing-team-eve-template/)</sub>
 
 <a name="personal-agent-template"></a>
-### 🥉 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: weak (11) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 476 · MIT · Sep 2026</sub>
+### #&#8288;4 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: weak (11) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 475 · MIT · Sep 2026</sub>
 
 **eve and Nuxt personal agent with Slack, GitHub, Linear and per-user memory.**
 
@@ -59,7 +77,7 @@ A Nuxt app plus an eve agent runtime: Better Auth email login, web chat with thr
 <sub>TypeScript, eve, ai-sdk · Needs postgres, vercel-blob, vercel-connect · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/personal-agent-template/)</sub>
 
 <a name="google-adk-recipes"></a>
-### #&#8288;4 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (64) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;5 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (64) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
 
 **Runnable Agent Development Kit recipes, from single patterns to deployable agents.**
 
@@ -77,7 +95,7 @@ A recipe collection for Google's Agent Development Kit: core/ holds single-patte
 <sub>Python, google, google-adk · Needs google-adk, google-api-key-or-vertex-ai · [Repo](https://github.com/google/adk-recipes) · [📖 Docs ↗](https://adk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-adk-recipes/)</sub>
 
 <a name="ai-town"></a>
-### #&#8288;5 [ai-town](https://github.com/a16z-infra/ai-town) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Aug 2026</sub>
+### #&#8288;6 [ai-town](https://github.com/a16z-infra/ai-town) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: weak (30) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Aug 2026</sub>
 
 **Generative-agents town simulation on Convex with Ollama by default.**
 
@@ -95,7 +113,7 @@ A deployable version of the Generative Agents paper: pixel-art characters on a P
 <sub>TypeScript, ollama, openai, together, openai-compatible · Needs convex, ollama-or-openai-compatible-api, replicate-optional · Docker · sign-in: Clerk · [Repo](https://github.com/a16z-infra/ai-town) · [▶️ Demo ↗](https://www.convex.dev/ai-town) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-town/)</sub>
 
 <a name="opentag"></a>
-### #&#8288;6 [OpenTag](https://github.com/copilotkit/opentag) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (46) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Oct 2026</sub>
+### #&#8288;7 [OpenTag](https://github.com/copilotkit/opentag) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Oct 2026</sub>
 
 **Slack and Teams knowledge agent on LangGraph and CopilotKit Channels.**
 
@@ -113,7 +131,7 @@ A deployable Slack and Teams agent in two services: a Node runtime (CopilotRunti
 <sub>Python, openai, langgraph, ag-ui, copilotkit · Needs copilotkit-intelligence-account, openai-api-key, slack-workspace, uv · Docker · env example file · [Repo](https://github.com/copilotkit/opentag) · [📖 Docs ↗](https://docs.copilotkit.ai/channels) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opentag/)</sub>
 
 <a name="react-agent"></a>
-### #&#8288;7 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: known (35) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 854 · MIT · Oct 2026</sub>
+### #&#8288;8 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (32) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 854 · MIT · Oct 2026</sub>
 
 **Minimal Python LangGraph ReAct agent with Tavily, ready for Studio.**
 
@@ -129,7 +147,7 @@ A single-graph Python template: a ReAct loop in src/react_agent/graph.py that re
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent/)</sub>
 
 <a name="knowledge-agent-template"></a>
-### #&#8288;8 [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (39) · Freshness: active (100) · Maintenance: weak (13) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Sep 2026</sub>
+### #&#8288;9 [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (35) · Freshness: active (100) · Maintenance: weak (13) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Sep 2026</sub>
 
 **Nuxt knowledge agent that greps a synced snapshot repo instead of embedding.**
 
@@ -147,7 +165,7 @@ A Nuxt monorepo where the agent answers by running grep, find and cat inside a p
 <sub>TypeScript, ai-gateway, ai-sdk · Needs vercel-sandbox, vercel-workflow, ai-gateway-api-key, github-app · [Repo](https://github.com/vercel-labs/knowledge-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/knowledge-agent-template/)</sub>
 
 <a name="azure-ai-travel-agents"></a>
-### #&#8288;9 [azure-ai-travel-agents](https://github.com/azure-samples/azure-ai-travel-agents) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: hard (17) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 482 · MIT · Sep 2026</sub>
+### #&#8288;10 [azure-ai-travel-agents](https://github.com/azure-samples/azure-ai-travel-agents) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: hard (17) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 482 · MIT · Sep 2026</sub>
 
 **Travel-agency multi-agent sample using MCP servers in four languages.**
 
@@ -165,7 +183,7 @@ Reference app where agents extract customer preferences, recommend destinations 
 <sub>TypeScript, Phi4 14B (Docker Model Runner), Azure OpenAI, Microsoft Foundry · Needs Docker, Docker Model Runner, Node.js 22+, Azure Container Apps, Azure OpenAI or Microsoft Foundry · [Repo](https://github.com/azure-samples/azure-ai-travel-agents) · [📖 Docs ↗](https://github.com/Azure-Samples/azure-ai-travel-agents/blob/main/docs/advanced-setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-ai-travel-agents/)</sub>
 
 <a name="data-enrichment"></a>
-### #&#8288;10 [data-enrichment](https://github.com/langchain-ai/data-enrichment) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 258 · MIT · Oct 2026</sub>
+### #&#8288;11 [data-enrichment](https://github.com/langchain-ai/data-enrichment) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 258 · MIT · Oct 2026</sub>
 
 **LangGraph agent that researches the web to fill your JSON schema.**
 
@@ -181,8 +199,24 @@ A Python LangGraph graph that takes a research topic and a JSON extraction_schem
 
 <sub>Jupyter Notebook, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/data-enrichment) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/data-enrichment/)</sub>
 
+<a name="react-agent-js"></a>
+### #&#8288;12 [react-agent-js](https://github.com/langchain-ai/react-agent-js) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Oct 2026</sub>
+
+**TypeScript createAgent starter with example tools and middleware hooks.**
+
+Four TypeScript files: agent.ts builds a LangChain createAgent, tools.ts defines calculator, time, weather and knowledge-search tools, prompts.ts holds the system prompt and index.ts is a CLI runner. Middleware for summarization and human-in-the-loop is shown but not wired, the model is a string like anthropic:claude-sonnet-4-5-20250929, and it opens in LangSmith Studio. For TypeScript developers starting a LangChain v1 agent.
+
+- **+** Tool definition pattern with Zod is the one you will reuse
+- **+** Shows summarization and human-in-the-loop middleware in code
+- **+** Model switch is a single string
+- **−** Example tools are stubs; no real integrations
+- **−** No tests, no UI, no persistence
+- **−** Seed shows 117 stars; small community
+
+<sub>TypeScript, langchain, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent-js/)</sub>
+
 <a name="openai-cua-sample-app"></a>
-### #&#8288;11 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: patchy (46) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Sep 2026</sub>
+### #&#8288;13 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (46) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Sep 2026</sub>
 
 **Computer-use agent loops for Playwright browsers and PyAutoGUI desktops.**
 
@@ -199,7 +233,7 @@ Two agent loops on the OpenAI Responses API where the model writes code against 
 <sub>TypeScript, openai · Needs openai-api-key, playwright-chromium, uv · env example file · [Repo](https://github.com/openai/openai-cua-sample-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cua-sample-app/)</sub>
 
 <a name="cloudflare-agents-starter"></a>
-### #&#8288;12 [agents-starter](https://github.com/cloudflare/agents-starter) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (50) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
+### #&#8288;14 [agents-starter](https://github.com/cloudflare/agents-starter) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
 
 **Cloudflare Agents SDK chat starter with Durable Object state and scheduling.**
 
@@ -216,24 +250,8 @@ A chat agent on Cloudflare Workers using the Agents SDK AIChatAgent class: strea
 
 <sub>TypeScript, workers-ai, ai-sdk, openai, anthropic · Needs cloudflare-account, wrangler · [Repo](https://github.com/cloudflare/agents-starter) · [📖 Docs ↗](https://developers.cloudflare.com/agents/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cloudflare-agents-starter/)</sub>
 
-<a name="react-agent-js"></a>
-### #&#8288;13 [react-agent-js](https://github.com/langchain-ai/react-agent-js) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Oct 2026</sub>
-
-**TypeScript createAgent starter with example tools and middleware hooks.**
-
-Four TypeScript files: agent.ts builds a LangChain createAgent, tools.ts defines calculator, time, weather and knowledge-search tools, prompts.ts holds the system prompt and index.ts is a CLI runner. Middleware for summarization and human-in-the-loop is shown but not wired, the model is a string like anthropic:claude-sonnet-4-5-20250929, and it opens in LangSmith Studio. For TypeScript developers starting a LangChain v1 agent.
-
-- **+** Tool definition pattern with Zod is the one you will reuse
-- **+** Shows summarization and human-in-the-loop middleware in code
-- **+** Model switch is a single string
-- **−** Example tools are stubs; no real integrations
-- **−** No tests, no UI, no persistence
-- **−** Seed shows 117 stars; small community
-
-<sub>TypeScript, langchain, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent-js/)</sub>
-
 <a name="new-langgraphjs-project"></a>
-### #&#8288;14 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76 · MIT · Oct 2026</sub>
+### #&#8288;15 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76 · MIT · Oct 2026</sub>
 
 **Empty TypeScript LangGraph.js scaffold with message history and tests.**
 
@@ -249,7 +267,7 @@ The TypeScript counterpart of the blank LangGraph template: src/agent/graph.ts k
 <sub>TypeScript, langgraph · Needs langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/new-langgraphjs-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraphjs-project/)</sub>
 
 <a name="new-langgraph-project"></a>
-### #&#8288;15 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 297 · MIT · Oct 2026</sub>
+### #&#8288;16 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 297 · MIT · Oct 2026</sub>
 
 **Blank Python LangGraph scaffold with config, tests and Studio support.**
 
@@ -265,7 +283,7 @@ The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph th
 <sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
 
 <a name="agent-starter-pack"></a>
-### #&#8288;16 [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (62) · Freshness: active (85) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · Apache-2.0 · May 2026</sub>
+### #&#8288;17 [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (56) · Freshness: active (85) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · Apache-2.0 · May 2026</sub>
 
 **Google Cloud agent scaffolder with Terraform, CI/CD and evals; now maintenance-only.**
 
@@ -282,7 +300,7 @@ A CLI (uvx agent-starter-pack create) that generates a Google Cloud agent projec
 <sub>Python, google, google-adk, langgraph · Needs google-cloud-project, gcloud-sdk, terraform, make · [Repo](https://github.com/googlecloudplatform/agent-starter-pack) · [📖 Docs ↗](https://googlecloudplatform.github.io/agent-starter-pack/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-pack/)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;17 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (19) · Freshness: active (80) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 328 · MIT · May 2026</sub>
+### #&#8288;18 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (17) · Freshness: recent (80) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 328 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
@@ -300,7 +318,7 @@ A Cloudflare Workers control plane that receives Claude Managed Agents webhooks 
 <sub>TypeScript, Claude (Anthropic) · Needs Cloudflare Workers Paid plan, Cloudflare D1, Cloudflare KV, Cloudflare R2, Durable Objects, Anthropic API, Docker (terminal deploy) · Docker · [Repo](https://github.com/cloudflare/claude-managed-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-managed-agents/)</sub>
 
 <a name="openai-cs-agents-demo"></a>
-### #&#8288;18 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (65) · Freshness: quiet (21) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
+### #&#8288;19 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: popular (59) · Freshness: quiet (21) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
 
 **Airline support multi-agent demo with visible handoffs and guardrails.**
 

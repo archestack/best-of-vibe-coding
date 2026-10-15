@@ -5,7 +5,7 @@ Code editors with AI built in, open source and runnable on your own machine. Bac
 <sub>🌐 Also on the web: [Editors and IDEs on archestack.com](https://archestack.com/best-of-vibe-coding/editors/), each project on its own page.</sub>
 
 <a name="avante-nvim"></a>
-### 🥇 [avante.nvim](https://github.com/avante-corp/avante.nvim) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Oct 2026</sub>
+### 🥇 [avante.nvim](https://github.com/avante-corp/avante.nvim) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Oct 2026</sub>
 
 **Neovim plugin that adds Cursor-style AI chat and code edits inside the editor.**
 

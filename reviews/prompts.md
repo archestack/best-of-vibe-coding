@@ -5,7 +5,7 @@ Collections of prompts, system prompts and agent instructions to learn from or r
 <sub>🌐 Also on the web: [Prompts and system prompts on archestack.com](https://archestack.com/best-of-vibe-coding/prompts/), each project on its own page.</sub>
 
 <a name="agents-md"></a>
-### 🥇 [agents.md](https://github.com/agentsmd/agents.md) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · MIT · Sep 2026</sub>
+### 🥇 [agents.md](https://github.com/agentsmd/agents.md) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · MIT · Sep 2026</sub>
 
 **Open Markdown format for giving coding agents project instructions.**
 
