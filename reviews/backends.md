@@ -5,7 +5,7 @@ Open-source backends you ship apps on: auth, database, storage and APIs in one, 
 <sub>🌐 Also on the web: [Backends and databases on archestack.com](https://archestack.com/best-of-vibe-coding/backends/), each project on its own page.</sub>
 
 <a name="appwrite"></a>
-### 🥇 [appwrite](https://github.com/appwrite/appwrite) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: very easy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 58k · BSD-3-Clause · Oct 2026</sub>
+### 🥇 [appwrite](https://github.com/appwrite/appwrite) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: very easy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 58k · BSD-3-Clause · Oct 2026</sub>
 
 **Self-hostable backend with auth, databases, storage, functions, messaging and hosting.**
 
@@ -23,7 +23,7 @@ Appwrite is a backend platform that bundles Auth, Databases, Storage, Functions,
 <sub>no GPU · Docker + Compose · Needs Docker · port 20080 · [Repo](https://github.com/appwrite/appwrite) · [▶️ Demo ↗](https://cloud.appwrite.io) · [📖 Docs ↗](https://appwrite.io/docs) · [🌐 Site ↗](https://appwrite.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appwrite/)</sub>
 
 <a name="supabase"></a>
-### 🥈 [supabase](https://github.com/supabase/supabase) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 112k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [supabase](https://github.com/supabase/supabase) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 112k · Apache-2.0 · Oct 2026</sub>
 
 **Postgres backend with auth, storage, realtime and edge functions.**
 
@@ -39,44 +39,8 @@ Supabase bundles a Postgres database with generated REST and GraphQL APIs, JWT-b
 
 <sub>no GPU · Compose · Needs PostgreSQL, S3-compatible storage, Envoy · [Repo](https://github.com/supabase/supabase) · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase/)</sub>
 
-<a name="parse-server"></a>
-### 🥉 [parse-server](https://github.com/parse-community/parse-server) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (47) · Freshness: active (100) · Maintenance: fair (78) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
-
-**Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL.**
-
-Parse Server is a self-hosted backend that runs on Node.js, either standalone via the parse-server CLI or mounted on an Express app. It exposes REST and GraphQL APIs backed by MongoDB or PostgreSQL (with PostGIS), and adds Cloud Code, Live Query, push notifications, file adapters and per-key access scopes. Official Parse SDKs cover the major client platforms.
-
-- **+** Runs standalone or embedded in an existing Express app
-- **+** Supports both MongoDB (7, 8) and PostgreSQL (16-18) with PostGIS
-- **+** Includes Cloud Code, Live Query, GraphQL, push and pluggable file storage adapters
-- **+** Fine-grained access scopes: master, read-only master, session and maintenance keys
-- **−** No built-in admin UI in this repo; a separate dashboard project is needed
-- **−** Requires you to provision and operate your own MongoDB or PostgreSQL
-- **−** Docker image must be built from the repo; README shows no prebuilt image or compose file
-- **−** Node.js version support is tied to specific majors and shifts with each release
-
-<sub>no GPU · Docker · Needs Node.js 20, 22 or 24, MongoDB 7/8 or PostgreSQL 16-18 with PostGIS · port 1337 · [Repo](https://github.com/parse-community/parse-server) · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/parse-server/)</sub>
-
-<a name="graphql-engine"></a>
-### #&#8288;4 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>
-
-**GraphQL API layer over Postgres, MongoDB, ClickHouse and SQL Server.**
-
-Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, ClickHouse and MS SQL Server through a single GraphQL endpoint. Custom business logic can be added with TypeScript, Python and Go connector SDKs. The repo is a mono-repo holding the V3 engine (which powers Hasura DDN) and the stable V2 engine, with all data connectors open source.
-
-- **+** Supports PostgreSQL, MongoDB, ClickHouse and MS SQL Server as data sources
-- **+** Connector SDKs in TypeScript, Python and Go for custom logic
-- **+** Core engines and data connectors are Apache-2.0 licensed
-- **+** V2 remains available as the current stable version
-- **−** Large mono-repo with long history; README recommends shallow or sparse clones
-- **−** V2 and V3 are separate codebases with separate docs
-- **−** V3 is documented around the hosted Hasura DDN workflow
-- **−** README lists no RAM, port or AI model details
-
-<sub>no GPU · Compose · Needs PostgreSQL, MongoDB, ClickHouse, MS SQL Server · [Repo](https://github.com/hasura/graphql-engine) · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-engine/)</sub>
-
 <a name="spacetimedb"></a>
-### #&#8288;5 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
+### 🥉 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
 
 **Relational database that runs your app logic as modules and syncs clients live.**
 
@@ -93,8 +57,44 @@ SpacetimeDB is a relational database that doubles as the application server. You
 
 <sub>no GPU · Docker + Compose · port 3000 · [Repo](https://github.com/clockworklabs/spacetimedb) · [📖 Docs ↗](https://spacetimedb.com/docs) · [🌐 Site ↗](https://spacetimedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spacetimedb/)</sub>
 
+<a name="prest"></a>
+### #&#8288;4 [prest](https://github.com/prest/prest) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (80) · Easy to run: very easy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Oct 2026</sub>
+
+**REST and read-only MCP API generated from a PostgreSQL or MySQL database.**
+
+pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or MySQL (8.0.19+) database as REST endpoints at /{database}/{schema}/{table}, with auth, ACL and custom SQL routes. It also serves a read-only MCP endpoint so AI clients can query the same data. It can serve several databases from a registry or an allow-list.
+
+- **+** Generates CRUD REST routes straight from an existing Postgres or MySQL schema
+- **+** Custom SQL query scripts support bound parameters via sqlVal, sqlList and ident helpers
+- **+** Serves multiple databases via a [[databases]] registry or pg.allowed_databases
+- **+** Built-in read-only MCP endpoint, plus auth and ACL configuration
+- **−** Only PostgreSQL and MySQL; MariaDB, TiDB and Aurora MySQL are roadmap items
+- **−** Interpolated query-script values are screened and rejected if they contain quotes or SQL keywords
+- **−** MySQL support is newer (v2.5.0) and with prepare = false interpolates placeholders
+- **−** MCP endpoint is read-only, so AI clients cannot write through it
+
+<sub>no GPU · Docker + Compose · Needs PostgreSQL 9.5+ or MySQL 8.0.19+ · [Repo](https://github.com/prest/prest) · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prest/)</sub>
+
+<a name="parse-server"></a>
+### #&#8288;5 [parse-server](https://github.com/parse-community/parse-server) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (78) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
+
+**Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL.**
+
+Parse Server is a self-hosted backend that runs on Node.js, either standalone via the parse-server CLI or mounted on an Express app. It exposes REST and GraphQL APIs backed by MongoDB or PostgreSQL (with PostGIS), and adds Cloud Code, Live Query, push notifications, file adapters and per-key access scopes. Official Parse SDKs cover the major client platforms.
+
+- **+** Runs standalone or embedded in an existing Express app
+- **+** Supports both MongoDB (7, 8) and PostgreSQL (16-18) with PostGIS
+- **+** Includes Cloud Code, Live Query, GraphQL, push and pluggable file storage adapters
+- **+** Fine-grained access scopes: master, read-only master, session and maintenance keys
+- **−** No built-in admin UI in this repo; a separate dashboard project is needed
+- **−** Requires you to provision and operate your own MongoDB or PostgreSQL
+- **−** Docker image must be built from the repo; README shows no prebuilt image or compose file
+- **−** Node.js version support is tied to specific majors and shifts with each release
+
+<sub>no GPU · Docker · Needs Node.js 20, 22 or 24, MongoDB 7/8 or PostgreSQL 16-18 with PostGIS · port 1337 · [Repo](https://github.com/parse-community/parse-server) · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/parse-server/)</sub>
+
 <a name="insforge"></a>
-### #&#8288;6 [insforge](https://github.com/insforge/insforge) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: easy (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;6 [insforge](https://github.com/insforge/insforge) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: easy (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
 
 **Postgres-based backend platform that coding agents operate through an MCP server.**
 
@@ -111,26 +111,44 @@ InsForge bundles Postgres, auth, S3-compatible storage, edge functions, an OpenA
 
 <sub>no GPU · Docker + Compose · Needs Docker with Compose v2, Postgres, S3-compatible store (optional) · Models: OpenAI-compatible gateway across multiple LLM providers · port 7130 · [Repo](https://github.com/insforge/insforge) · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/insforge/)</sub>
 
-<a name="payload"></a>
-### #&#8288;7 [payload](https://github.com/payloadcms/payload) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: hard (0) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 45k · MIT · Oct 2026</sub>
+<a name="nocobase"></a>
+### #&#8288;7 [nocobase](https://github.com/nocobase/nocobase) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
 
-**Next.js-native headless CMS and app framework with a React admin panel.**
+**No-code platform for building business systems, with a CLI for coding agents.**
 
-Payload installs into an existing Next.js /app folder and provides a TypeScript headless CMS with auth, versions and drafts, localization, and a customizable React admin. Server components can query the database directly without REST or GraphQL. The README lists website and ecommerce templates plus one-click deploys to Vercel (Neon, Vercel Blob) and Cloudflare (Workers, R2, D1).
+NocoBase is a plugin-based platform for building business applications through a WYSIWYG interface, with data models, permissions, workflows and audit logs built in. It also ships a CLI (`nb`) and skills so coding agents such as Claude Code, Codex and Cursor can create data models, pages and workflows. It includes AI employees with role-based permissions, and exposes MCP and HTTP APIs for external agents.
 
-- **+** Installs inside an existing Next.js /app folder, so frontend and backend share one codebase
-- **+** Auth, versions and drafts, localization, and field-level access control are built in
-- **+** Generates TypeScript types for your data; hooks exist at document and field level
-- **+** One-click deploy to Vercel (Neon, Blob) or Cloudflare (Workers, R2, D1)
-- **−** README does not mention built-in AI features; it is a general CMS
-- **−** Tied to Next.js and TypeScript for its native setup
-- **−** Supported databases and minimum resources are not stated in the README
-- **−** v2 to v3 required a migration guide, so older projects need upgrade work
+- **+** Data stays in standard relational databases, separate from the UI
+- **+** Permissions, workflows and audit logs are built-in modules, not generated code
+- **+** Agents and people edit the same data models, pages and workflows
+- **+** Microkernel design: features are added as official or custom plugins
+- **−** License is reported as NOASSERTION; terms need checking before commercial use
+- **−** README gives no RAM, database or port requirements
+- **−** README does not list which LLM providers the AI employees support
+- **−** Extending beyond the no-code UI requires learning its plugin architecture
 
-<sub>no GPU · Needs Next.js, Database (Neon Postgres or Cloudflare D1 in one-click deploys) · [Repo](https://github.com/payloadcms/payload) · [📖 Docs ↗](https://payloadcms.com/docs/getting-started/what-is-payload) · [🌐 Site ↗](https://payloadcms.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/payload/)</sub>
+<sub>Docker + Compose · Compose runs MySQL, PostgreSQL · [Repo](https://github.com/nocobase/nocobase) · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocobase/)</sub>
+
+<a name="graphql-engine"></a>
+### #&#8288;8 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>
+
+**GraphQL API layer over Postgres, MongoDB, ClickHouse and SQL Server.**
+
+Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, ClickHouse and MS SQL Server through a single GraphQL endpoint. Custom business logic can be added with TypeScript, Python and Go connector SDKs. The repo is a mono-repo holding the V3 engine (which powers Hasura DDN) and the stable V2 engine, with all data connectors open source.
+
+- **+** Supports PostgreSQL, MongoDB, ClickHouse and MS SQL Server as data sources
+- **+** Connector SDKs in TypeScript, Python and Go for custom logic
+- **+** Core engines and data connectors are Apache-2.0 licensed
+- **+** V2 remains available as the current stable version
+- **−** Large mono-repo with long history; README recommends shallow or sparse clones
+- **−** V2 and V3 are separate codebases with separate docs
+- **−** V3 is documented around the hosted Hasura DDN workflow
+- **−** README lists no RAM, port or AI model details
+
+<sub>no GPU · Compose · Needs PostgreSQL, MongoDB, ClickHouse, MS SQL Server · [Repo](https://github.com/hasura/graphql-engine) · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-engine/)</sub>
 
 <a name="convex-backend"></a>
-### #&#8288;8 [convex-backend](https://github.com/get-convex/convex-backend) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: fair (71) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Oct 2026</sub>
+### #&#8288;9 [convex-backend](https://github.com/get-convex/convex-backend) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (71) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Oct 2026</sub>
 
 **Reactive database with TypeScript server functions and client libraries.**
 
@@ -147,8 +165,26 @@ Convex is a reactive database where queries and mutations are written as TypeScr
 
 <sub>no GPU · Needs Postgres, MySQL or SQLite (optional, self-hosted) · [Repo](https://github.com/get-convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
 
+<a name="payload"></a>
+### #&#8288;10 [payload](https://github.com/payloadcms/payload) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: hard (0) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 45k · MIT · Oct 2026</sub>
+
+**Next.js-native headless CMS and app framework with a React admin panel.**
+
+Payload installs into an existing Next.js /app folder and provides a TypeScript headless CMS with auth, versions and drafts, localization, and a customizable React admin. Server components can query the database directly without REST or GraphQL. The README lists website and ecommerce templates plus one-click deploys to Vercel (Neon, Vercel Blob) and Cloudflare (Workers, R2, D1).
+
+- **+** Installs inside an existing Next.js /app folder, so frontend and backend share one codebase
+- **+** Auth, versions and drafts, localization, and field-level access control are built in
+- **+** Generates TypeScript types for your data; hooks exist at document and field level
+- **+** One-click deploy to Vercel (Neon, Blob) or Cloudflare (Workers, R2, D1)
+- **−** README does not mention built-in AI features; it is a general CMS
+- **−** Tied to Next.js and TypeScript for its native setup
+- **−** Supported databases and minimum resources are not stated in the README
+- **−** v2 to v3 required a migration guide, so older projects need upgrade work
+
+<sub>no GPU · Needs Next.js, Database (Neon Postgres or Cloudflare D1 in one-click deploys) · [Repo](https://github.com/payloadcms/payload) · [📖 Docs ↗](https://payloadcms.com/docs/getting-started/what-is-payload) · [🌐 Site ↗](https://payloadcms.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/payload/)</sub>
+
 <a name="apijson"></a>
-### #&#8288;9 [apijson](https://github.com/apijson/apijson) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Oct 2026</sub>
+### #&#8288;11 [apijson](https://github.com/apijson/apijson) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Oct 2026</sub>
 
 **Java ORM that exposes CRUD APIs over JSON requests without per-endpoint code.**
 
@@ -164,5 +200,23 @@ APIJSON is a Java library and JSON-based protocol. Clients send a JSON describin
 - **−** Not AI-specific; it is a general ORM and API protocol
 
 <sub>no GPU · Needs Java 1.8+, A supported database (e.g. MySQL 5.7+, PostgreSQL 9.5+) · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
+
+<a name="butterbase"></a>
+### #&#8288;12 [butterbase](https://github.com/butterbase-ai/butterbase) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (12) · Freshness: active (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · Apache-2.0 · Oct 2026</sub>
+
+**Backend-as-a-service with per-app Postgres, functions, RAG and an MCP server.**
+
+Butterbase is a backend-as-a-service that gives each app its own Postgres database with row-level security and auto-generated REST. It adds auth, S3/R2 file storage, Deno serverless functions, realtime, a KV store, an AI gateway, RAG and graph-spec agents, all exposed as MCP tools at /mcp. The runtime data plane is self-hostable through Docker Compose; the managed cloud adds billing, multi-region orchestration and upstream AI router adapters.
+
+- **+** Real Postgres per app with RLS, migrations and auto-generated REST, no proprietary datastore
+- **+** Every capability is exposed as MCP tools over HTTP at /mcp or stdio via npx @butterbase/mcp
+- **+** Apache-2.0 data plane with no feature-gated community edition, per the README
+- **+** Includes functions, realtime, KV, RAG, Durable Objects and agents in one stack
+- **−** Self-host AI gateway has no upstream router adapters; you must implement RouterAdapter yourself
+- **−** Multi-region orchestration, billing and dashboards are private to the managed offering
+- **−** `butterbase clone` for templates requires an account at butterbase.ai
+- **−** Setup needs submodules, manual migrations and a dev-user seed; README calls the OSS distribution young
+
+<sub>no GPU · Compose · Needs Docker, Node 22+, PostgreSQL, Redis, S3/R2 (LocalStack locally), Deno, Cloudflare Workers (build-runner, dispatch-worker) · port 4000 · [Repo](https://github.com/butterbase-ai/butterbase) · [🌐 Site ↗](https://butterbase.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/butterbase/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>

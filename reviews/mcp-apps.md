@@ -7,23 +7,23 @@ Templates for building MCP servers and apps that run inside chat hosts such as C
 <a name="mcp-typescript-template"></a>
 ### 🥇 [mcp-typescript-template](https://github.com/nickytonline/mcp-typescript-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 58 · MIT · Oct 2026</sub>
 
-**TypeScript template for remote MCP servers using Express and Effect.**
+**TypeScript starter for remote MCP servers over HTTP with Express and Effect.**
 
-A degit-able starter for a stateless remote MCP server built on the MCP TypeScript SDK, Express and Vite. It ships two example tools (echo and elicit_echo) with typed input and output schemas via Effect, plus an example Agent Skill published through the MCP Skills extension. Includes tests, ESLint, Prettier, a Dockerfile and a compose file with a health check.
+A degit-able template for building stateless, remote MCP servers on Node 24.11+ using the MCP TypeScript SDK, Express and Effect. It ships two example tools (echo and elicit_echo) with typed input and output schemas, plus an example Agent Skill published through the MCP Skills extension. Build, test, lint and format run through the Vite+ vp CLI.
 
-- **+** Stateless HTTP transport per the MCP 2026-07-28 spec, with SDK fallback for older clients
-- **+** Effect Schema adapted to MCP Standard Schema; tools declare outputSchema and structuredContent
-- **+** Integration tests with in-memory client/server plus HTTP boundary tests
-- **+** Example elicitation tool and a bundled skill served via skills/list and skills/get
-- **−** Tool code is written in Effect style, bridged to the SDK with runMcpEffect
-- **−** Only toy tools (echo, elicit_echo); no auth or persistence example
-- **−** Needs TypeScript 7 plus a TypeScript 6 alias for typescript-eslint
-- **−** Targets newer MCP spec revisions; Skills extension needs client support
+- **+** Example tools cover structured output, annotations and MCP elicitation with accept/decline/cancel handling
+- **+** Stateless per-request server following the MCP 2026-07-28 spec, with fallback for older clients
+- **+** Includes Dockerfile, compose file with health check, and in-memory client/server integration tests
+- **+** Bundles an example Agent Skill served via skills/list, skills/get and resources/read
+- **−** Requires Node.js 24.11 or newer; Vite+ does not run on earlier Node 24 releases
+- **−** Tool code is written in Effect, which adds a learning curve for teams not using it
+- **−** HTTP transport only; the README mentions no stdio transport
+- **−** No auth or database included; only two toy example tools
 
-<sub>TypeScript · Needs Node.js, npm · GitHub template · Docker · [Repo](https://github.com/nickytonline/mcp-typescript-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-typescript-template/)</sub>
+<sub>TypeScript · Needs Node.js 24.11+, Express, Effect, @modelcontextprotocol/server, Vite+ · GitHub template · Docker · [Repo](https://github.com/nickytonline/mcp-typescript-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-typescript-template/)</sub>
 
 <a name="mcp-use"></a>
-### 🥈 [mcp-use](https://github.com/mcp-use/mcp-use) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
+### 🥈 [mcp-use](https://github.com/mcp-use/mcp-use) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
 
 **TypeScript framework for building MCP servers with React Views and an Inspector.**
 
@@ -59,7 +59,7 @@ Python 3.12+ package on FastMCP and FastAPI with HTTP, SSE and streamable-HTTP t
 <sub>Python, FastMCP, MCP Python SDK · Needs PostgreSQL (OAuth token storage) · GitHub template · Docker · env example file · [Repo](https://github.com/redhat-data-and-ai/template-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/template-mcp-server/)</sub>
 
 <a name="mcp-for-next-js"></a>
-### #&#8288;4 [mcp-for-next.js](https://github.com/vercel-labs/mcp-for-next.js) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (36) · Freshness: active (100) · Maintenance: patchy (44) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 373 · MIT · Jul 2026</sub>
+### #&#8288;4 [mcp-for-next.js](https://github.com/vercel-labs/mcp-for-next.js) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (44) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 373 · MIT · Jul 2026</sub>
 
 **Stateless MCP server route for a Next.js App Router app.**
 
@@ -76,7 +76,7 @@ Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server t
 <sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
 
 <a name="openai-apps-sdk-examples"></a>
-### #&#8288;5 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: popular (54) · Freshness: recent (66) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
+### #&#8288;5 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (49) · Freshness: recent (66) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
 
 **Example MCP servers and widgets for ChatGPT apps on the Apps SDK.**
 
