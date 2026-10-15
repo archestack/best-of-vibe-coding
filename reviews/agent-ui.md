@@ -5,7 +5,7 @@ Frontends that render agent steps, tool calls, approvals or model-generated comp
 <sub>🌐 Also on the web: [Agent UI and generative UI on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/), each project on its own page.</sub>
 
 <a name="opengenerativeui"></a>
-### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (49) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with generated interactive UI, charts, maps and tools.**
 

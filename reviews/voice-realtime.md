@@ -39,7 +39,7 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="agent-starter-node"></a>
-### 🥉 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 114 · MIT · Oct 2026</sub>
+### 🥉 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 114 · MIT · Oct 2026</sub>
 
 **Node.js voice AI agent starter for LiveKit Agents with turn detection.**
 
@@ -57,7 +57,7 @@ A TypeScript template for a voice AI assistant built on LiveKit Agents for Node.
 <sub>TypeScript, LiveKit Inference (Gemma 4 31B, Fish Audio S2.1 Pro), OpenAI, Cartesia, Deepgram · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm, Node.js · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="agent-starter-python"></a>
-### #&#8288;4 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: weak (25) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 266 · MIT · Oct 2026</sub>
+### #&#8288;4 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: weak (26) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 266 · MIT · Oct 2026</sub>
 
 **Python voice AI agent starter for LiveKit Agents.**
 
@@ -75,7 +75,7 @@ A Python template for a voice assistant built on LiveKit Agents and LiveKit Clou
 <sub>Python, Gemma 4 31B (LiveKit Inference), Fish Audio S2.1 Pro TTS, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
 
 <a name="pipecat-examples"></a>
-### #&#8288;5 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 395 · BSD-2-Clause · Sep 2026</sub>
+### #&#8288;5 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 396 · BSD-2-Clause · Oct 2026</sub>
 
 **Runnable Pipecat voice agent examples for phone, web and deployment.**
 

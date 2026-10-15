@@ -59,7 +59,7 @@ Dyad is a local, open-source prompt-to-app builder, positioned as an alternative
 <sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
 
 <a name="e2b"></a>
-### #&#8288;4 [e2b](https://github.com/e2b-dev/e2b) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [e2b](https://github.com/e2b-dev/e2b) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Oct 2026</sub>
 
 **SDKs for running AI-generated code in isolated cloud sandboxes.**
 
@@ -77,7 +77,7 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
 <a name="monkeycode"></a>
-### #&#8288;5 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (69) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;5 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (69) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · AGPL-3.0 · Oct 2026</sub>
 
 **AI development platform that runs coding tasks in server-side environments.**
 
@@ -95,7 +95,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="llamacoder"></a>
-### #&#8288;6 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Sep 2026</sub>
+### #&#8288;6 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Oct 2026</sub>
 
 **Open-source Claude Artifacts clone generating React apps with Llama.**
 
@@ -113,7 +113,7 @@ Next.js App Router app with Tailwind that sends a prompt to Llama 3.1 405B on To
 <sub>TypeScript, Together AI (Llama 3.1 405B) · Needs Together AI API key, PostgreSQL (Neon), S3 bucket for screenshots, Braintrust (optional) · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;7 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (35) · Freshness: active (94) · Maintenance: fair (58) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
+### #&#8288;7 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (34) · Freshness: active (94) · Maintenance: fair (58) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -201,26 +201,8 @@ Next.js 15 app with Drizzle on Postgres that lets signed-in users (GitHub or Ver
 
 <sub>TypeScript, Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Cursor CLI · Needs PostgreSQL (Neon), Vercel Sandbox credentials, GitHub or Vercel OAuth app, agent API keys (Anthropic, OpenAI, Cursor, Gemini, AI Gateway) · GitHub template · [Repo](https://github.com/vercel-labs/coding-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-agent-template/)</sub>
 
-<a name="claudable"></a>
-### #&#8288;12 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (18) · Freshness: slowing (46) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
-
-**Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
-
-Claudable is a Next.js web app that wraps locally installed coding-agent CLIs (Claude Code, Codex CLI, Cursor CLI, Qwen Code, Z.AI GLM-4.6) behind a prompt-to-app interface with live preview. It generates Next.js code with Tailwind and shadcn/ui, and connects to GitHub, Vercel and Supabase using tokens you enter in settings. State is stored in a local SQLite file, and an Electron desktop build is available.
-
-- **+** Supports five agent CLIs, so you reuse an existing Claude, ChatGPT or Cursor login
-- **+** Local SQLite database at data/cc.db, no separate database server needed
-- **+** Built-in GitHub, Vercel and Supabase integrations for deploy and Postgres
-- **+** Electron packaging scripts for macOS, Windows and Linux
-- **−** Requires a separately installed and logged-in agent CLI, which may carry its own subscription cost
-- **−** No Docker or compose files; setup is clone, npm install and npm run dev
-- **−** Native MCP, checkpoints and subagents are listed as upcoming, not shipped
-- **−** Last tagged release is 2025-08-30; README references the opactorai/Claudable repo
-
-<sub>TypeScript, Claude Code (Claude Opus 4.6), Codex CLI (GPT-5), Cursor CLI, Qwen Code (Qwen3-Coder) · Needs Node.js 18+, Git, Claude Code, Codex CLI, Cursor CLI, Qwen Code or Z.AI GLM agent, SQLite, GitHub, Vercel, Supabase · [Repo](https://github.com/anymorph-ai/claudable) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claudable/)</sub>
-
 <a name="chef"></a>
-### #&#8288;13 [chef](https://github.com/get-convex/chef) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (24) · Freshness: slowing (50) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;12 [chef](https://github.com/get-convex/chef) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (24) · Freshness: slowing (50) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
@@ -236,5 +218,23 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 - **−** Must be opened at 127.0.0.1; localhost does not work; no Docker setup provided
 
 <sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/get-convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
+
+<a name="claudable"></a>
+### #&#8288;13 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: niche (18) · Freshness: slowing (46) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
+
+**Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
+
+Claudable is a Next.js web app that wraps locally installed coding-agent CLIs (Claude Code, Codex CLI, Cursor CLI, Qwen Code, Z.AI GLM-4.6) behind a prompt-to-app interface with live preview. It generates Next.js code with Tailwind and shadcn/ui, and connects to GitHub, Vercel and Supabase using tokens you enter in settings. State is stored in a local SQLite file, and an Electron desktop build is available.
+
+- **+** Supports five agent CLIs, so you reuse an existing Claude, ChatGPT or Cursor login
+- **+** Local SQLite database at data/cc.db, no separate database server needed
+- **+** Built-in GitHub, Vercel and Supabase integrations for deploy and Postgres
+- **+** Electron packaging scripts for macOS, Windows and Linux
+- **−** Requires a separately installed and logged-in agent CLI, which may carry its own subscription cost
+- **−** No Docker or compose files; setup is clone, npm install and npm run dev
+- **−** Native MCP, checkpoints and subagents are listed as upcoming, not shipped
+- **−** Last tagged release is 2025-08-30; README references the opactorai/Claudable repo
+
+<sub>TypeScript, Claude Code (Claude Opus 4.6), Codex CLI (GPT-5), Cursor CLI, Qwen Code (Qwen3-Coder) · Needs Node.js 18+, Git, Claude Code, Codex CLI, Cursor CLI, Qwen Code or Z.AI GLM agent, SQLite, GitHub, Vercel, Supabase · [Repo](https://github.com/anymorph-ai/claudable) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claudable/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
