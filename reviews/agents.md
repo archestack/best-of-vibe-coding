@@ -95,7 +95,7 @@ An eve project where a lead agent briefs one of five specialists (product market
 <sub>TypeScript, eve, ai-gateway, ai-sdk · Needs vercel-connect, notion, resend, slack, typefully-api-key, vercel-blob, ai-gateway · GitHub template · [Repo](https://github.com/vercel-labs/marketing-team-eve-template) · [📖 Docs ↗](https://vercel.com/kb/guide/marketing-team-eve) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/marketing-team-eve-template/)</sub>
 
 <a name="google-adk-recipes"></a>
-### #&#8288;6 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (64) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;6 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (63) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Oct 2026</sub>
 
 **Runnable Agent Development Kit recipes, from single patterns to deployable agents.**
 
@@ -184,26 +184,8 @@ A deployable Slack and Teams agent in two services: a Node runtime (CopilotRunti
 
 <sub>Python, openai, langgraph, ag-ui, copilotkit · Needs copilotkit-intelligence-account, openai-api-key, slack-workspace, uv · Docker · env example file · [Repo](https://github.com/copilotkit/opentag) · [📖 Docs ↗](https://docs.copilotkit.ai/channels) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opentag/)</sub>
 
-<a name="ms-agent"></a>
-### #&#8288;11 [ms-agent](https://github.com/modelscope/ms-agent) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (46) · Freshness: active (98) · Maintenance: patchy (44) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Sep 2026</sub>
-
-**Python agent framework with CLI, TUI and WebUI, skills, sub-agents and MCP.**
-
-MS-Agent is a Python SDK and harness for long-running agents. It handles planning, permissions, context compression, project memory and cron jobs, and supports sub-agents, sequential or DAG workflows, Agent Skills and MCP tools. The same agent logic runs from a CLI, a terminal UI or a browser WebUI, and the repo ships example apps for deep research, code generation and video generation.
-
-- **+** One Python SDK drives CLI, TUI and WebUI, so agent logic is reused across interfaces
-- **+** Context compaction, project memory and cron scheduling target long-running tasks
-- **+** Supports MCP, ACP/A2A, Agent Skills and DAG or sequential multi-agent workflows
-- **+** Bundled apps: deep research, Code Genesis, FinResearch, Singularity Cinema
-- **−** WebUI must be installed from source; needs Python 3.12+, Node.js 22.22.0+, pnpm and uv
-- **−** No Docker or compose files detected in the repo
-- **−** Default provider is ModelScope and needs an API key from its token page
-- **−** README is dominated by a long news log; the many bundled apps make scope broad
-
-<sub>Python, ModelScope, multiple model providers, Anthropic API format, multimodal input (image, video) · Needs Python 3.12+ (WebUI), Node.js 22.22.0+, pnpm 10.17.1, uv 0.5+, LLM provider API key (ModelScope by default) · Docker · env example file · [Repo](https://github.com/modelscope/ms-agent) · [▶️ Demo ↗](https://modelscope.cn/mcp/playground) · [📖 Docs ↗](https://ms-agent-en.readthedocs.io) · [🌐 Site ↗](https://modelscope.github.io/ms-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ms-agent/)</sub>
-
 <a name="react-agent"></a>
-### #&#8288;12 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 854 · MIT · Oct 2026</sub>
+### #&#8288;11 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 854 · MIT · Oct 2026</sub>
 
 **Minimal Python LangGraph ReAct agent with Tavily, ready for Studio.**
 
@@ -219,7 +201,7 @@ A single-graph Python template: a ReAct loop in src/react_agent/graph.py that re
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent/)</sub>
 
 <a name="data-enrichment"></a>
-### #&#8288;13 [data-enrichment](https://github.com/langchain-ai/data-enrichment) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 258 · MIT · Oct 2026</sub>
+### #&#8288;12 [data-enrichment](https://github.com/langchain-ai/data-enrichment) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 258 · MIT · Oct 2026</sub>
 
 **LangGraph agent that researches the web to fill your JSON schema.**
 
@@ -234,6 +216,24 @@ A Python LangGraph graph that takes a research topic and a JSON extraction_schem
 - **−** No UI beyond Studio
 
 <sub>Jupyter Notebook, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/data-enrichment) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/data-enrichment/)</sub>
+
+<a name="ms-agent"></a>
+### #&#8288;13 [ms-agent](https://github.com/modelscope/ms-agent) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (46) · Freshness: active (98) · Maintenance: patchy (44) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Sep 2026</sub>
+
+**Python agent framework with CLI, TUI and WebUI, skills, sub-agents and MCP.**
+
+MS-Agent is a Python SDK and harness for long-running agents. It handles planning, permissions, context compression, project memory and cron jobs, and supports sub-agents, sequential or DAG workflows, Agent Skills and MCP tools. The same agent logic runs from a CLI, a terminal UI or a browser WebUI, and the repo ships example apps for deep research, code generation and video generation.
+
+- **+** One Python SDK drives CLI, TUI and WebUI, so agent logic is reused across interfaces
+- **+** Context compaction, project memory and cron scheduling target long-running tasks
+- **+** Supports MCP, ACP/A2A, Agent Skills and DAG or sequential multi-agent workflows
+- **+** Bundled apps: deep research, Code Genesis, FinResearch, Singularity Cinema
+- **−** WebUI must be installed from source; needs Python 3.12+, Node.js 22.22.0+, pnpm and uv
+- **−** No Docker or compose files detected in the repo
+- **−** Default provider is ModelScope and needs an API key from its token page
+- **−** README is dominated by a long news log; the many bundled apps make scope broad
+
+<sub>Python, ModelScope, multiple model providers, Anthropic API format, multimodal input (image, video) · Needs Python 3.12+ (WebUI), Node.js 22.22.0+, pnpm 10.17.1, uv 0.5+, LLM provider API key (ModelScope by default) · Docker · env example file · [Repo](https://github.com/modelscope/ms-agent) · [▶️ Demo ↗](https://modelscope.cn/mcp/playground) · [📖 Docs ↗](https://ms-agent-en.readthedocs.io) · [🌐 Site ↗](https://modelscope.github.io/ms-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ms-agent/)</sub>
 
 <a name="knowledge-agent-template"></a>
 ### #&#8288;14 [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: weak (13) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Sep 2026</sub>
@@ -372,7 +372,7 @@ The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph th
 <sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;22 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (13) · Freshness: recent (80) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 328 · MIT · May 2026</sub>
+### #&#8288;22 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (13) · Freshness: recent (79) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 328 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
@@ -390,7 +390,7 @@ A Cloudflare Workers control plane that receives Claude Managed Agents webhooks 
 <sub>TypeScript, Claude (Anthropic) · Needs Cloudflare Workers Paid plan, Cloudflare D1, Cloudflare KV, Cloudflare R2, Durable Objects, Anthropic API, Docker (terminal deploy) · Docker · [Repo](https://github.com/cloudflare/claude-managed-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-managed-agents/)</sub>
 
 <a name="openai-cs-agents-demo"></a>
-### #&#8288;23 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (62) · Freshness: quiet (21) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
+### #&#8288;23 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (62) · Freshness: quiet (20) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
 
 **Airline support multi-agent demo with visible handoffs and guardrails.**
 

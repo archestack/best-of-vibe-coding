@@ -23,7 +23,7 @@ Claw Code is a Rust implementation of the `claw` command-line coding agent, buil
 <sub>no GPU · Docker + Compose · Needs Rust toolchain (cargo), LLM API key · Models: Anthropic API, OpenAI-compatible APIs, Ollama, llama.cpp, vLLM · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claw-code/)</sub>
 
 <a name="archon"></a>
-### 🥈 [Archon](https://github.com/coleam00/archon) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
+### 🥈 [Archon](https://github.com/coleam00/archon) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
 
 **YAML workflow engine that runs AI coding agents through fixed dev steps.**
 
@@ -131,7 +131,7 @@ Open Interpreter is a Rust fork of OpenAI's Codex that runs as a terminal coding
 <sub>Needs agent-browser, trycua · Models: OpenAI-compatible Chat Completions providers, Kimi K3, DeepSeek, Z.AI GLM · [Repo](https://github.com/openinterpreter/openinterpreter) · [📖 Docs ↗](https://www.openinterpreter.com/docs/terminal) · [🌐 Site ↗](https://www.openinterpreter.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openinterpreter/)</sub>
 
 <a name="goose"></a>
-### #&#8288;8 [goose](https://github.com/aaif-goose/goose) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;8 [goose](https://github.com/aaif-goose/goose) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · Apache-2.0 · Oct 2026</sub>
 
 **Rust AI agent with desktop app, CLI and API, extended through MCP.**
 
@@ -203,7 +203,7 @@ Reasonix is a Go coding agent that reads a project folder, edits files and runs 
 <sub>no GPU · Needs Model provider API key, Go 1.25+ (build from source), Node 24+ and pnpm 10 (build Studio) · Models: DeepSeek, OpenAI-compatible endpoints, MCP servers · [Repo](https://github.com/esengine/deepseek-reasonix) · [📖 Docs ↗](https://github.com/esengine/DeepSeek-Reasonix/blob/studio/docs/GUIDE.md) · [🌐 Site ↗](https://esengine.github.io/DeepSeek-Reasonix/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-reasonix/)</sub>
 
 <a name="orca"></a>
-### #&#8288;12 [orca](https://github.com/stablyai/orca) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 93k · MIT · Oct 2026</sub>
+### #&#8288;12 [orca](https://github.com/stablyai/orca) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 94k · MIT · Oct 2026</sub>
 
 **Desktop app that runs CLI coding agents in parallel git worktrees.**
 
@@ -275,7 +275,7 @@ Agent Canvas is a web frontend that starts conversations with coding agents and 
 <sub>no GPU · Docker · Needs Node.js 24+, uv, Docker (optional) · Models: Any LLM (LLM profiles), OpenHands, Claude Code, Codex, Gemini CLI · port 8000 · [Repo](https://github.com/openhands/openhands) · [📖 Docs ↗](https://docs.openhands.dev/openhands/usage/agent-canvas/backends) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openhands/)</sub>
 
 <a name="cline"></a>
-### #&#8288;16 [cline](https://github.com/cline/cline) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (79) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;16 [cline](https://github.com/cline/cline) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 70k · Apache-2.0 · Oct 2026</sub>
 
 **Coding agent for VS Code, JetBrains, terminal and desktop.**
 
@@ -292,26 +292,8 @@ Cline is a coding agent that reads a project, edits files across it, and runs sh
 
 <sub>Needs Node.js, VS Code or JetBrains IDE (for extensions), LLM provider API key or local model server · Models: Anthropic, OpenAI, Google Gemini, OpenRouter, Vercel AI Gateway · [Repo](https://github.com/cline/cline) · [📖 Docs ↗](https://docs.cline.bot) · [🌐 Site ↗](https://cline.bot) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cline/)</sub>
 
-<a name="cmux"></a>
-### #&#8288;17 [cmux](https://github.com/manaflow-ai/cmux) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · custom license · Oct 2026</sub>
-
-**Native macOS terminal with vertical tabs and agent notifications.**
-
-cmux is a Swift/AppKit macOS terminal built on libghostty that reads your existing Ghostty config. It adds a sidebar showing git branch, PR status, working directory and ports per workspace, plus notification rings driven by OSC 9/99/777 sequences or `cmux notify` from agent hooks. It also has an in-app scriptable browser, SSH workspaces, and a CLI and Unix socket API.
-
-- **+** Native Swift/AppKit app, not Electron; libghostty rendering and reads existing Ghostty config
-- **+** Works with any agent that runs in a terminal; hooks for Claude Code, Codex, OpenCode and others
-- **+** Everything scriptable through CLI and Unix socket, including browser automation and split panes
-- **+** Session restore of layout, scrollback and supported agent sessions via `cmux hooks setup`
-- **−** macOS only; no Linux or Windows build
-- **−** License detected as NOASSERTION; README says GPL, so check terms
-- **−** Does not checkpoint live processes; needs opt-in tmux or zellij for detach/reattach
-- **−** iOS companion is beta, with early access tied to the Founders Edition
-
-<sub>Needs libghostty, Sparkle (auto-update) · Models: Claude Code, Codex, OpenCode, Gemini CLI, Amp · [Repo](https://github.com/manaflow-ai/cmux) · [▶️ Demo ↗](https://www.youtube.com/watch?v=i-WxO5YUTOs) · [📖 Docs ↗](https://cmux.com/docs/getting-started) · [🌐 Site ↗](https://cmux.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cmux/)</sub>
-
 <a name="paseo"></a>
-### #&#8288;18 [paseo](https://github.com/getpaseo/paseo) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · custom license · Oct 2026</sub>
+### #&#8288;17 [paseo](https://github.com/getpaseo/paseo) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · custom license · Oct 2026</sub>
 
 **Desktop, mobile and CLI client that runs many coding agents in parallel worktrees.**
 
@@ -329,7 +311,7 @@ Paseo runs a local daemon that manages Claude Code, Codex, Copilot, OpenCode, Pi
 <sub>no GPU · Docker + Compose · Needs Agent CLI (Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity or Muse Code), Node.js/npm for CLI install, Git · Models: Claude Code, Codex, GitHub Copilot, OpenCode, Pi · port 6767 · [Repo](https://github.com/getpaseo/paseo) · [📖 Docs ↗](https://paseo.sh/docs) · [🌐 Site ↗](https://paseo.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paseo/)</sub>
 
 <a name="superplane"></a>
-### #&#8288;19 [superplane](https://github.com/superplanehq/superplane) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · custom license · Oct 2026</sub>
+### #&#8288;18 [superplane](https://github.com/superplanehq/superplane) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · custom license · Oct 2026</sub>
 
 **Workflow engine that sends backlog issues to coding agents and returns reviewed PRs.**
 
@@ -347,7 +329,7 @@ SuperPlane coordinates coding agents, source control, CI, review and approvals a
 <sub>Docker + Compose · Needs Docker, GitHub or GitLab, coding agent provider (Claude, Cursor, OpenAI) · Models: Claude, Cursor, OpenAI, OpenRouter, Perplexity · [Repo](https://github.com/superplanehq/superplane) · [📖 Docs ↗](https://docs.superplane.com/) · [🌐 Site ↗](https://superplane.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/superplane/)</sub>
 
 <a name="openclaude"></a>
-### #&#8288;20 [openclaude](https://github.com/twigpine/openclaude) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · custom license · Oct 2026</sub>
+### #&#8288;19 [openclaude](https://github.com/twigpine/openclaude) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · custom license · Oct 2026</sub>
 
 **Terminal coding-agent CLI that works with cloud and local LLM providers.**
 
@@ -365,7 +347,7 @@ OpenClaude is a Node.js terminal coding agent with bash, file edit, grep, glob, 
 <sub>GPU optional · Docker · Needs Node.js >=22, ripgrep, LLM provider API key or local Ollama · Models: OpenAI-compatible, Gemini, GitHub Models, Codex, Ollama · [Repo](https://github.com/twigpine/openclaude) · [🌐 Site ↗](https://twigpine.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openclaude/)</sub>
 
 <a name="prime-agent"></a>
-### #&#8288;21 [prime-agent](https://github.com/primeintellect-ai/prime-agent) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Oct 2026</sub>
+### #&#8288;20 [prime-agent](https://github.com/primeintellect-ai/prime-agent) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Oct 2026</sub>
 
 **Terminal coding and research agent built around a persistent Python REPL.**
 
@@ -383,7 +365,7 @@ Prime Agent is a Rust-based terminal agent for coding and long-running research 
 <sub>Needs subscription or API-key model provider · [Repo](https://github.com/primeintellect-ai/prime-agent) · [🌐 Site ↗](https://primeintellect.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prime-agent/)</sub>
 
 <a name="agent-orchestrator"></a>
-### #&#8288;22 [agent-orchestrator](https://github.com/orchestratorinc/agent-orchestrator) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;21 [agent-orchestrator](https://github.com/orchestratorinc/agent-orchestrator) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
 
 **Desktop app that runs parallel coding agents in git worktrees with a Kanban view.**
 
@@ -401,7 +383,7 @@ Orchestrator.inc is a local desktop app with a background daemon that runs multi
 <sub>no GPU · Needs Git, Agent CLIs (Claude Code, Codex, etc.) · Models: Claude Code, Codex, Cursor, opencode, Aider · [Repo](https://github.com/orchestratorinc/agent-orchestrator) · [📖 Docs ↗](https://docs.orchestrator.inc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-orchestrator/)</sub>
 
 <a name="openchamber"></a>
-### #&#8288;23 [OpenChamber](https://github.com/openchamber/openchamber) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Oct 2026</sub>
+### #&#8288;22 [OpenChamber](https://github.com/openchamber/openchamber) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Oct 2026</sub>
 
 **Workspace for running and reviewing OpenCode agent sessions across devices.**
 
@@ -419,7 +401,7 @@ OpenChamber is a front end for the OpenCode CLI that starts coding-agent session
 <sub>no GPU · Docker + Compose · Needs OpenCode CLI, Node.js 24.14+ · Models: Providers configured in OpenCode · [Repo](https://github.com/openchamber/openchamber) · [📖 Docs ↗](https://github.com/openchamber/openchamber/blob/main/packages/docs/content/docs/quickstart.mdx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openchamber/)</sub>
 
 <a name="oh-my-pi"></a>
-### #&#8288;24 [oh-my-pi](https://github.com/can1357/oh-my-pi) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Oct 2026</sub>
+### #&#8288;23 [oh-my-pi](https://github.com/can1357/oh-my-pi) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Oct 2026</sub>
 
 **Terminal coding agent with LSP, debugger, subagents and hashline edits built in.**
 
@@ -437,7 +419,7 @@ oh-my-pi (omp) is a fork of Pi: a terminal coding agent written in TypeScript wi
 <sub>no GPU · Docker · Needs Bun >= 1.3.14 (or prebuilt binary), LLM provider API access, Language servers and debug adapters optional · Models: 60+ providers, OpenAI Codex, Gemini, Grok, MiniMax · safety checks passed 13 of 16 · [Repo](https://github.com/can1357/oh-my-pi) · [📖 Docs ↗](https://github.com/can1357/oh-my-pi/blob/main/docs/lsp-config.md) · [🌐 Site ↗](https://omp.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-pi/)</sub>
 
 <a name="kilocode"></a>
-### #&#8288;25 [kilocode](https://github.com/kilo-org/kilocode) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · MIT · Oct 2026</sub>
+### #&#8288;24 [kilocode](https://github.com/kilo-org/kilocode) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · MIT · Oct 2026</sub>
 
 **Coding agent for VS Code, JetBrains and the terminal.**
 
@@ -455,7 +437,7 @@ Kilo Code is a coding agent that edits code across files from natural language. 
 <sub>no GPU · Needs Kilo account or model provider, VS Code, JetBrains IDE or terminal · Models: 500+ models via Kilo, GPT, Claude, Gemini, Grok · [Repo](https://github.com/kilo-org/kilocode) · [📖 Docs ↗](https://kilo.ai/docs) · [🌐 Site ↗](https://kilo.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kilocode/)</sub>
 
 <a name="jcode"></a>
-### #&#8288;26 [jcode](https://github.com/1jehuang/jcode) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Oct 2026</sub>
+### #&#8288;25 [jcode](https://github.com/1jehuang/jcode) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Oct 2026</sub>
 
 **Rust terminal coding agent with a shared daemon for multi-agent swarms.**
 
@@ -473,7 +455,7 @@ jcode is a Rust coding agent for the terminal that runs multiple sessions agains
 <sub>no GPU · Needs Firefox Agent Bridge (optional, for browser tool) · Models: Claude (OAuth), OpenAI Codex (OAuth), Other providers listed in docs · [Repo](https://github.com/1jehuang/jcode) · [📖 Docs ↗](https://jcode.sh/docs) · [🌐 Site ↗](https://jcode.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jcode/)</sub>
 
 <a name="codex"></a>
-### #&#8288;27 [codex](https://github.com/openai/codex) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 129k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;26 [codex](https://github.com/openai/codex) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 129k · Apache-2.0 · Oct 2026</sub>
 
 **OpenAI's terminal coding agent that runs locally.**
 
@@ -490,26 +472,8 @@ Codex CLI is a coding agent from OpenAI that runs in the terminal on your machin
 
 <sub>no GPU · Needs ChatGPT account or OpenAI API key · Models: OpenAI models · [Repo](https://github.com/openai/codex) · [📖 Docs ↗](https://developers.openai.com/codex) · [🌐 Site ↗](https://chatgpt.com/codex) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex/)</sub>
 
-<a name="symphony"></a>
-### #&#8288;28 [symphony](https://github.com/openai/symphony) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Sep 2026</sub>
-
-**Spec and Elixir reference for agents that pick up Linear tasks and open PRs.**
-
-Symphony watches a Linear board for work and spawns isolated agent runs for each task. Agents report proof of work such as CI status, PR review feedback, complexity analysis and walkthrough videos, and land the PR once accepted. The repo ships a language-agnostic SPEC.md and an experimental Elixir reference implementation.
-
-- **+** Language-agnostic SPEC.md lets you implement it in any language
-- **+** Each task runs as an isolated, autonomous implementation run
-- **+** Agents attach proof of work: CI status, review feedback, walkthrough videos
-- **+** Apache-2.0 licensed reference implementation in Elixir
-- **−** Described as a low-key engineering preview for trusted environments only
-- **−** Reference implementation is experimental
-- **−** Expects codebases that have already adopted harness engineering
-- **−** RAM, ports and model support are not stated in the main README
-
-<sub>Needs Linear, Codex · Models: Codex · [Repo](https://github.com/openai/symphony) · [▶️ Demo ↗](https://player.vimeo.com/video/1186371009?h=5626e4b899) · [📖 Docs ↗](https://github.com/openai/symphony/blob/main/SPEC.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/symphony/)</sub>
-
 <a name="crush"></a>
-### #&#8288;29 [crush](https://github.com/charmbracelet/crush) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (76) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · custom license · Oct 2026</sub>
+### #&#8288;27 [crush](https://github.com/charmbracelet/crush) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (76) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · custom license · Oct 2026</sub>
 
 **Terminal coding agent with multi-provider LLMs, LSP context and MCP support.**
 
@@ -527,7 +491,7 @@ Crush is a Go terminal UI coding agent that keeps per-project sessions and lets 
 <sub>no GPU · Needs LLM provider API key or local model server (e.g. Ollama), Optional LSP servers (e.g. gopls), Optional MCP servers · Models: Anthropic, OpenAI, Google Gemini, Amazon Bedrock, Azure OpenAI · [Repo](https://github.com/charmbracelet/crush) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/crush/)</sub>
 
 <a name="qwen-code"></a>
-### #&#8288;30 [qwen-code](https://github.com/qwenlm/qwen-code) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;28 [qwen-code](https://github.com/qwenlm/qwen-code) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Oct 2026</sub>
 
 **Terminal coding agent for Qwen and other models, with IDE, desktop and chat clients.**
 
@@ -544,8 +508,44 @@ Qwen Code is a Node.js CLI coding agent, started with `qwen`, that reads a repos
 
 <sub>no GPU · Docker · Needs Node.js 22+ (npm install), LLM provider API key or local model server · Models: Qwen, OpenAI, Anthropic, Gemini, Ollama · [Repo](https://github.com/qwenlm/qwen-code) · [📖 Docs ↗](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qwen-code/)</sub>
 
+<a name="cmux"></a>
+### #&#8288;29 [cmux](https://github.com/manaflow-ai/cmux) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · custom license · Oct 2026</sub>
+
+**Native macOS terminal with vertical tabs and agent notifications.**
+
+cmux is a Swift/AppKit macOS terminal built on libghostty that reads your existing Ghostty config. It adds a sidebar showing git branch, PR status, working directory and ports per workspace, plus notification rings driven by OSC 9/99/777 sequences or `cmux notify` from agent hooks. It also has an in-app scriptable browser, SSH workspaces, and a CLI and Unix socket API.
+
+- **+** Native Swift/AppKit app, not Electron; libghostty rendering and reads existing Ghostty config
+- **+** Works with any agent that runs in a terminal; hooks for Claude Code, Codex, OpenCode and others
+- **+** Everything scriptable through CLI and Unix socket, including browser automation and split panes
+- **+** Session restore of layout, scrollback and supported agent sessions via `cmux hooks setup`
+- **−** macOS only; no Linux or Windows build
+- **−** License detected as NOASSERTION; README says GPL, so check terms
+- **−** Does not checkpoint live processes; needs opt-in tmux or zellij for detach/reattach
+- **−** iOS companion is beta, with early access tied to the Founders Edition
+
+<sub>Needs libghostty, Sparkle (auto-update) · Models: Claude Code, Codex, OpenCode, Gemini CLI, Amp · [Repo](https://github.com/manaflow-ai/cmux) · [▶️ Demo ↗](https://www.youtube.com/watch?v=i-WxO5YUTOs) · [📖 Docs ↗](https://cmux.com/docs/getting-started) · [🌐 Site ↗](https://cmux.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cmux/)</sub>
+
+<a name="symphony"></a>
+### #&#8288;30 [symphony](https://github.com/openai/symphony) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Sep 2026</sub>
+
+**Spec and Elixir reference for agents that pick up Linear tasks and open PRs.**
+
+Symphony watches a Linear board for work and spawns isolated agent runs for each task. Agents report proof of work such as CI status, PR review feedback, complexity analysis and walkthrough videos, and land the PR once accepted. The repo ships a language-agnostic SPEC.md and an experimental Elixir reference implementation.
+
+- **+** Language-agnostic SPEC.md lets you implement it in any language
+- **+** Each task runs as an isolated, autonomous implementation run
+- **+** Agents attach proof of work: CI status, review feedback, walkthrough videos
+- **+** Apache-2.0 licensed reference implementation in Elixir
+- **−** Described as a low-key engineering preview for trusted environments only
+- **−** Reference implementation is experimental
+- **−** Expects codebases that have already adopted harness engineering
+- **−** RAM, ports and model support are not stated in the main README
+
+<sub>Needs Linear, Codex · Models: Codex · [Repo](https://github.com/openai/symphony) · [▶️ Demo ↗](https://player.vimeo.com/video/1186371009?h=5626e4b899) · [📖 Docs ↗](https://github.com/openai/symphony/blob/main/SPEC.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/symphony/)</sub>
+
 <a name="claudian"></a>
-### #&#8288;31 [claudian](https://github.com/yishentu/claudian) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Oct 2026</sub>
+### #&#8288;31 [claudian](https://github.com/yishentu/claudian) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Oct 2026</sub>
 
 **Obsidian plugin that runs coding agents like Claude Code in your vault.**
 
@@ -940,8 +940,26 @@ CodePilot is an Electron and Next.js desktop app that runs chat and coding sessi
 
 <sub>no GPU · Needs Claude Code CLI (optional, for file editing and terminal), Node.js 18+ (build from source), Provider API keys · Models: Anthropic, OpenRouter, AWS Bedrock, Google Vertex AI, Ollama · port 3000 · [Repo](https://github.com/op7418/codepilot) · [📖 Docs ↗](https://www.codepilot.sh/docs) · [🌐 Site ↗](https://www.codepilot.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codepilot/)</sub>
 
+<a name="gptme"></a>
+### #&#8288;53 [gptme](https://github.com/gptme/gptme) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Oct 2026</sub>
+
+**Terminal-based AI agent that runs shell, Python, browser and file tools.**
+
+gptme is a Python CLI agent that executes shell commands and Python, edits files with patch tools, browses via Playwright and reads images. It works with Anthropic, OpenAI, Google, DeepSeek, OpenRouter, or local models through Ollama and OpenAI-compatible servers. It also ships a Textual TUI, a web UI with REST server, an MCP client and server, ACP support for Zed and JetBrains, and a scaffold for scheduled autonomous agents.
+
+- **+** Provider-agnostic: hosted APIs, OpenRouter, or local Ollama, LM Studio, vLLM and llama.cpp
+- **+** Acts as MCP client and server, and as an ACP agent in Zed and JetBrains
+- **+** Plugins, skills, hooks and lessons extend behavior without forking
+- **+** Runs headless via gptme service init with systemd timers for scheduled agents
+- **−** Executes shell and Python locally; sandboxing (Docker, Wasmtime) is a separate option
+- **−** RAG tool needs the separate gptme-rag package
+- **−** Large surface area (TUI, web UI, server, desktop app) spread across several repos
+- **−** Hosted gptme.ai cloud service exists; its terms and limits are unknown from the README
+
+<sub>GPU optional · Compose · Needs Playwright (browser tool), Docker or Wasmtime (optional sandboxing), gptme-rag (optional, rag tool) · Models: Anthropic, OpenAI, Google Gemini, SpaceXAI Grok, DeepSeek · [Repo](https://github.com/gptme/gptme) · [▶️ Demo ↗](https://chat.gptme.org) · [📖 Docs ↗](https://gptme.org/docs/) · [🌐 Site ↗](https://gptme.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gptme/)</sub>
+
 <a name="warp"></a>
-### #&#8288;53 [warp](https://github.com/warpdotdev/warp) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: patchy (44) · Easy to run: some setup (33) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 65k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;54 [warp](https://github.com/warpdotdev/warp) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: patchy (44) · Easy to run: some setup (33) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 65k · AGPL-3.0 · Oct 2026</sub>
 
 **Terminal-based development environment with a built-in coding agent.**
 
@@ -959,7 +977,7 @@ Warp is a Rust client that started as a terminal and now includes a built-in cod
 <sub>Docker · Models: GPT models, Claude Code, Codex, Gemini CLI · [Repo](https://github.com/warpdotdev/warp) · [▶️ Demo ↗](https://build.warp.dev) · [📖 Docs ↗](https://docs.warp.dev) · [🌐 Site ↗](https://www.warp.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/warp/)</sub>
 
 <a name="hapi"></a>
-### #&#8288;54 [hapi](https://github.com/tiann/hapi) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;55 [hapi](https://github.com/tiann/hapi) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · AGPL-3.0 · Oct 2026</sub>
 
 **Remote control for coding agent CLI sessions from phone or web.**
 
@@ -977,7 +995,7 @@ HAPI wraps official coding agent CLIs (Claude Code, Codex, Cursor Agent, OpenCod
 <sub>no GPU · Needs Bun 1.4.0 (build from source), Agent CLIs (Claude Code, Codex, etc.), Cloudflare Tunnel or Tailscale (optional) · Models: Claude Code, Codex, Cursor Agent, Grok Build, OpenCode · [Repo](https://github.com/tiann/hapi) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hapi/)</sub>
 
 <a name="codeg"></a>
-### #&#8288;55 [codeg](https://github.com/spacering-net/codeg) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;56 [codeg](https://github.com/spacering-net/codeg) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · Apache-2.0 · Oct 2026</sub>
 
 **Workspace that runs Claude Code, Codex, Gemini CLI and other agents in one UI.**
 
@@ -995,7 +1013,7 @@ Codeg is a Rust-based workspace that talks to coding agents over the Agent Clien
 <sub>no GPU · Docker + Compose · Needs Agent CLIs such as Claude Code or Codex, Git · Models: Claude Code, Codex, Gemini CLI, OpenClaw, OpenCode · [Repo](https://github.com/spacering-net/codeg) · [📖 Docs ↗](https://docs.codeg.app) · [🌐 Site ↗](https://docs.codeg.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codeg/)</sub>
 
 <a name="maestro"></a>
-### #&#8288;56 [maestro](https://github.com/runmaestro/maestro) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;57 [maestro](https://github.com/runmaestro/maestro) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · AGPL-3.0 · Oct 2026</sub>
 
 **Desktop app for running many coding agents in parallel with unattended playbooks.**
 
@@ -1013,7 +1031,7 @@ Maestro is a cross-platform desktop app that wraps CLI coding agents (Claude Cod
 <sub>no GPU · Needs Claude Code, Codex, OpenCode or another supported agent CLI, Git (optional), Cloudflare tunnel (optional, remote access) · Models: Claude Code, OpenAI Codex, OpenCode, Factory Droid, Copilot-CLI (beta) · [Repo](https://github.com/runmaestro/maestro) · [📖 Docs ↗](https://docs.runmaestro.ai) · [🌐 Site ↗](https://runmaestro.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/maestro/)</sub>
 
 <a name="agent-of-empires"></a>
-### #&#8288;57 [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
+### #&#8288;58 [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **Session manager that runs AI coding agents in parallel tmux sessions.**
 
@@ -1031,7 +1049,7 @@ Agent of Empires (aoe) is a Rust session manager for AI coding agents on Linux a
 <sub>no GPU · Docker · Needs tmux, Docker (optional, for sandboxing) · [Repo](https://github.com/agent-of-empires/agent-of-empires) · [📖 Docs ↗](https://www.agent-of-empires.com/docs/quick-start/) · [🌐 Site ↗](https://www.agent-of-empires.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-of-empires/)</sub>
 
 <a name="gastown"></a>
-### #&#8288;58 [gastown](https://github.com/gastownhall/gastown) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Jul 2026</sub>
+### #&#8288;59 [gastown](https://github.com/gastownhall/gastown) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Jul 2026</sub>
 
 **Orchestrates many coding agents across git repos with persistent work state.**
 
@@ -1049,7 +1067,7 @@ Gas Town is a Go CLI (gt) that manages a workspace of git repositories ("rigs") 
 <sub>no GPU · Docker + Compose · Needs Git 2.20+, Go 1.26.2+, Beads (bd) 0.57.0+, Dolt, tmux 3.0+, sqlite3, Claude Code CLI or another agent runtime · Models: Claude Code, GitHub Copilot, Codex, Gemini, Cursor · port 8080 · [Repo](https://github.com/gastownhall/gastown) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gastown/)</sub>
 
 <a name="code-graph-rag"></a>
-### #&#8288;59 [code-graph-rag](https://github.com/vitali87/code-graph-rag) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Oct 2026</sub>
+### #&#8288;60 [code-graph-rag](https://github.com/vitali87/code-graph-rag) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Oct 2026</sub>
 
 **Tree-sitter code knowledge graph you query and edit in plain English.**
 
@@ -1067,7 +1085,7 @@ Parses a multi-language repository with Tree-sitter into a knowledge graph store
 <sub>Docker · Needs Python 3.12+, ripgrep, Memgraph (optional), Neo4j (optional), Qdrant (optional) · [Repo](https://github.com/vitali87/code-graph-rag) · [📖 Docs ↗](https://docs.code-graph-rag.com) · [🌐 Site ↗](https://code-graph-rag.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-graph-rag/)</sub>
 
 <a name="mistral-vibe"></a>
-### #&#8288;60 [mistral-vibe](https://github.com/mistralai/mistral-vibe) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (78) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;61 [mistral-vibe](https://github.com/mistralai/mistral-vibe) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (78) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Oct 2026</sub>
 
 **Terminal coding agent from Mistral with file, shell and subagent tools.**
 
@@ -1085,7 +1103,7 @@ Mistral Vibe is a Python CLI that lets Mistral models read, edit and search a co
 <sub>no GPU · Needs Python 3.12+, Mistral API key, uv (Windows install) · Models: Mistral models, Mistral Medium 3.5 (vision) · [Repo](https://github.com/mistralai/mistral-vibe) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mistral-vibe/)</sub>
 
 <a name="background-agents"></a>
-### #&#8288;61 [Background Agents](https://github.com/colemurray/background-agents) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: fair (53) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
+### #&#8288;62 [Background Agents](https://github.com/colemurray/background-agents) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: fair (53) · Easy to run: easy (67) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **Background coding agents on cloud sandboxes with Slack, GitHub and Linear triggers.**
 
@@ -1101,24 +1119,6 @@ Runs coding sessions in cloud sandboxes coordinated by a Cloudflare Workers cont
 - **−** Cached credentials can persist in snapshots; grant removal does not revoke tokens
 
 <sub>no GPU · Compose · Needs Cloudflare Workers, Durable Objects and D1, Sandbox provider (Modal, Daytona, E2B, OpenComputer or Vercel Sandbox), GitHub App, Slack and Linear apps (optional) · Models: Anthropic Claude (API key or subscription), OpenAI Codex via ChatGPT subscription, xAI Grok via SuperGrok, OpenCode Zen and Go, Z.AI Coding Plan · [Repo](https://github.com/colemurray/background-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/background-agents/)</sub>
-
-<a name="gptme"></a>
-### #&#8288;62 [gptme](https://github.com/gptme/gptme) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Oct 2026</sub>
-
-**Terminal-based AI agent that runs shell, Python, browser and file tools.**
-
-gptme is a Python CLI agent that executes shell commands and Python, edits files with patch tools, browses via Playwright and reads images. It works with Anthropic, OpenAI, Google, DeepSeek, OpenRouter, or local models through Ollama and OpenAI-compatible servers. It also ships a Textual TUI, a web UI with REST server, an MCP client and server, ACP support for Zed and JetBrains, and a scaffold for scheduled autonomous agents.
-
-- **+** Provider-agnostic: hosted APIs, OpenRouter, or local Ollama, LM Studio, vLLM and llama.cpp
-- **+** Acts as MCP client and server, and as an ACP agent in Zed and JetBrains
-- **+** Plugins, skills, hooks and lessons extend behavior without forking
-- **+** Runs headless via gptme service init with systemd timers for scheduled agents
-- **−** Executes shell and Python locally; sandboxing (Docker, Wasmtime) is a separate option
-- **−** RAG tool needs the separate gptme-rag package
-- **−** Large surface area (TUI, web UI, server, desktop app) spread across several repos
-- **−** Hosted gptme.ai cloud service exists; its terms and limits are unknown from the README
-
-<sub>GPU optional · Compose · Needs Playwright (browser tool), Docker or Wasmtime (optional sandboxing), gptme-rag (optional, rag tool) · Models: Anthropic, OpenAI, Google Gemini, SpaceXAI Grok, DeepSeek · [Repo](https://github.com/gptme/gptme) · [▶️ Demo ↗](https://chat.gptme.org) · [📖 Docs ↗](https://gptme.org/docs/) · [🌐 Site ↗](https://gptme.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gptme/)</sub>
 
 <a name="continue"></a>
 ### #&#8288;63 [continue](https://github.com/continuedev/continue) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: patchy (36) · Easy to run: some setup (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · Apache-2.0 · Jul 2026</sub>
@@ -1301,7 +1301,7 @@ Electron-style desktop app that runs a coding agent against your local projects.
 <sub>no GPU · Needs omnirush.ai account, gh CLI (for pull request workflows), GTK runtime libraries (AppImage/tar.gz on Linux) · Models: GPT 6 Astra, GPT 6.1 Sol, OpenAI (own key), Anthropic (own key) · [Repo](https://github.com/omnirush-ai/omnirush-gui) · [🌐 Site ↗](https://omnirush.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/omnirush-gui/)</sub>
 
 <a name="tabby"></a>
-### #&#8288;73 [Tabby](https://github.com/tabbyml/tabby) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (81) · Freshness: active (89) · Maintenance: weak (12) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · custom license · Jun 2026</sub>
+### #&#8288;73 [Tabby](https://github.com/tabbyml/tabby) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (81) · Freshness: active (88) · Maintenance: weak (12) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · custom license · Jun 2026</sub>
 
 **Self-hosted code completion and chat server for IDEs.**
 
@@ -1373,7 +1373,7 @@ opcode is a Tauri 2 desktop app (React frontend, Rust backend, SQLite) that sits
 <sub>RAM ≥ 4 GB · no GPU · Needs Claude Code CLI, Rust 1.70+, Bun, Git · Models: Claude · [Repo](https://github.com/winfunc/opcode) · [🌐 Site ↗](https://asterisk.so/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opcode/)</sub>
 
 <a name="firstmate"></a>
-### #&#8288;77 [firstmate](https://github.com/kunchenguid/firstmate) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (48) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.0k · MIT · Oct 2026</sub>
+### #&#8288;77 [firstmate](https://github.com/kunchenguid/firstmate) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (48) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.0k · MIT · Oct 2026</sub>
 
 **Agent distro that lets one chat agent dispatch parallel coding agents in git worktrees.**
 
@@ -1391,7 +1391,7 @@ firstmate is a cloned repo of AGENTS.md instructions, bundled skills and shell h
 <sub>no GPU · Needs git, GitHub CLI (gh), tmux (default backend), treehouse, a supported agent harness (Claude Code, Grok, Pi, Codex, OpenCode, Cursor Agent CLI) · Models: Claude Code, Grok, Pi, Oh My Pi, Codex · [Repo](https://github.com/kunchenguid/firstmate) · [📖 Docs ↗](https://github.com/kunchenguid/firstmate/blob/main/docs/architecture.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/firstmate/)</sub>
 
 <a name="aider"></a>
-### #&#8288;78 [aider](https://github.com/aider-ai/aider) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: widely used (88) · Freshness: recent (65) · Maintenance: weak (18) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · Apache-2.0 · May 2026</sub>
+### #&#8288;78 [aider](https://github.com/aider-ai/aider) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: widely used (88) · Freshness: recent (64) · Maintenance: weak (18) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · Apache-2.0 · May 2026</sub>
 
 **Terminal pair-programming tool that edits your git repo with LLMs.**
 
@@ -1499,7 +1499,7 @@ Toad is a Python terminal UI that front-ends coding agents such as Claude, Gemin
 <sub>no GPU · Needs uv, Python 3.14, xclip (Linux clipboard), a coding agent supporting ACP · Models: Claude, Gemini, Codex, OpenHands · [Repo](https://github.com/batrachianai/toad) · [🌐 Site ↗](https://willmcgugan.github.io/toad-released/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/toad/)</sub>
 
 <a name="copilotforxcode"></a>
-### #&#8288;84 [copilotforxcode](https://github.com/intitni/copilotforxcode) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (44) · Freshness: recent (53) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · MIT · Feb 2026</sub>
+### #&#8288;84 [copilotforxcode](https://github.com/intitni/copilotforxcode) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (44) · Freshness: recent (52) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · MIT · Feb 2026</sub>
 
 **Xcode source editor extension adding Copilot, Codeium and ChatGPT-based chat and edits.**
 
@@ -1517,7 +1517,7 @@ A macOS app and Xcode Source Editor Extension that adds code suggestions from Gi
 <sub>no GPU · Needs Xcode, macOS, Node (for GitHub Copilot language server), GitHub Copilot, Codeium or OpenAI account · Models: GitHub Copilot, Codeium, OpenAI, other LLMs · [Repo](https://github.com/intitni/copilotforxcode) · [📖 Docs ↗](https://copilotforxcode.intii.com/wiki) · [🌐 Site ↗](https://copilotforxcode.intii.com/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/copilotforxcode/)</sub>
 
 <a name="aiac"></a>
-### #&#8288;85 [aiac](https://github.com/gofireflyio/aiac) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (17) · Freshness: slowing (41) · Maintenance: weak (0) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;85 [aiac](https://github.com/gofireflyio/aiac) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (17) · Freshness: slowing (40) · Maintenance: weak (0) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Mar 2026</sub>
 
 **CLI that generates Terraform, Dockerfiles, k8s manifests and queries from prompts.**
 

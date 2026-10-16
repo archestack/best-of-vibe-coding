@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · Apache-2.0 · Oct 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · Apache-2.0 · Oct 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -182,7 +182,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;11 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (7) · Freshness: active (85) · Maintenance: patchy (48) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 249 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;11 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (7) · Freshness: active (84) · Maintenance: patchy (48) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 249 · Apache-2.0 · Oct 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -199,7 +199,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;12 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (16) · Freshness: recent (70) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 325 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;12 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (16) · Freshness: recent (69) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 325 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

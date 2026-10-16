@@ -5,7 +5,7 @@ Frontends that render agent steps, tool calls, approvals or model-generated comp
 <sub>🌐 Also on the web: [Agent UI and generative UI on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/), each project on its own page.</sub>
 
 <a name="opengenerativeui"></a>
-### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with generated interactive UI, charts, maps and tools.**
 
@@ -23,7 +23,7 @@ A Next.js and CopilotKit chat frontend backed by a Python Deep Agent (FastAPI). 
 <sub>TypeScript, OpenAI chat-latest, jev-latest · Needs OpenAI API, Jev router (TYPESAFE_API_KEY), Node.js 22+, pnpm 9+, Python 3.12+, uv · Docker · env example file · [Repo](https://github.com/copilotkit/openintelligentui) · [📖 Docs ↗](https://github.com/CopilotKit/OpenIntelligentUI/blob/main/docs/README.md) · [🌐 Site ↗](https://copilotkit.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengenerativeui/)</sub>
 
 <a name="agent-chat-ui"></a>
-### 🥈 [agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (31) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+### 🥈 [agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (31) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
 
 **Next.js chat frontend for any LangGraph server with interrupts and artifacts.**
 
@@ -41,7 +41,7 @@ A Next.js frontend that connects to any LangGraph server exposing a messages key
 <sub>TypeScript, langgraph · Needs langgraph-server, langsmith-api-key-for-deployed-servers · env example file · [Repo](https://github.com/langchain-ai/agent-chat-ui) · [▶️ Demo ↗](https://agentchat.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-chat-ui/)</sub>
 
 <a name="agno-agent-ui"></a>
-### 🥉 [agent-ui](https://github.com/agno-agi/agent-ui) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: known (38) · Freshness: recent (75) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · May 2026</sub>
+### 🥉 [agent-ui](https://github.com/agno-agi/agent-ui) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: known (38) · Freshness: recent (74) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · May 2026</sub>
 
 **Next.js chat frontend for Agno AgentOS with tool calls and reasoning.**
 
@@ -75,7 +75,7 @@ A Next.js chatbot forked from the Vercel AI Chatbot template where Llama 3 70B o
 <sub>TypeScript, groq, ai-sdk · Needs groq-api-key · env example file · [Repo](https://github.com/bklieger-groq/stockbot-on-groq) · [▶️ Demo ↗](https://groq-stockbot.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stockbot-on-groq/)</sub>
 
 <a name="assistant-ui-stockbroker"></a>
-### #&#8288;5 [assistant-ui-stockbroker](https://github.com/assistant-ui/assistant-ui-stockbroker) <sub>score [10](../README.md#-how-we-rank "Score 10/100. Adoption: niche (3) · Freshness: slowing (46) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 282 · MIT · Feb 2026</sub>
+### #&#8288;5 [assistant-ui-stockbroker](https://github.com/assistant-ui/assistant-ui-stockbroker) <sub>score [10](../README.md#-how-we-rank "Score 10/100. Adoption: niche (3) · Freshness: slowing (45) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 282 · MIT · Feb 2026</sub>
 
 **assistant-ui frontend and LangGraph.js stockbroker agent with approval steps.**
 
