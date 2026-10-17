@@ -203,7 +203,7 @@ Reasonix is a Go coding agent that reads a project folder, edits files and runs 
 <sub>no GPU · Needs Model provider API key, Go 1.25+ (build from source), Node 24+ and pnpm 10 (build Studio) · Models: DeepSeek, OpenAI-compatible endpoints, MCP servers · [Repo](https://github.com/esengine/deepseek-reasonix) · [📖 Docs ↗](https://github.com/esengine/DeepSeek-Reasonix/blob/studio/docs/GUIDE.md) · [🌐 Site ↗](https://esengine.github.io/DeepSeek-Reasonix/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-reasonix/)</sub>
 
 <a name="orca"></a>
-### #&#8288;12 [orca](https://github.com/stablyai/orca) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 95k · MIT · Oct 2026</sub>
+### #&#8288;12 [orca](https://github.com/stablyai/orca) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 95k · MIT · Oct 2026</sub>
 
 **Desktop app that runs CLI coding agents in parallel git worktrees.**
 
@@ -887,7 +887,7 @@ Electron desktop app that runs terminal agent CLIs (Claude Code, Codex, Gemini C
 <sub>GPU optional · Needs Agent CLIs (claude, codex, etc.), git, uv, Node, MemPalace · Models: Claude Code, OpenAI Codex, Gemini CLI, Antigravity, Grok · [Repo](https://github.com/harnessmd/munder-difflin) · [🌐 Site ↗](https://harnessmd.com/download) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/munder-difflin/)</sub>
 
 <a name="openrig"></a>
-### #&#8288;50 [openrig](https://github.com/mvschwarz/openrig) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;50 [openrig](https://github.com/mvschwarz/openrig) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.6k · Apache-2.0 · Oct 2026</sub>
 
 **Define and run a persistent team of Claude Code and Codex agents from YAML.**
 
@@ -959,7 +959,7 @@ Warp is a Rust client that started as a terminal and now includes a built-in cod
 <sub>Docker · Models: GPT models, Claude Code, Codex, Gemini CLI · [Repo](https://github.com/warpdotdev/warp) · [▶️ Demo ↗](https://build.warp.dev) · [📖 Docs ↗](https://docs.warp.dev) · [🌐 Site ↗](https://www.warp.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/warp/)</sub>
 
 <a name="openevolve"></a>
-### #&#8288;54 [openevolve](https://github.com/algorithmicsuperintelligence/openevolve) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (74) · Easy to run: easy (50) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.6k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;54 [openevolve](https://github.com/algorithmicsuperintelligence/openevolve) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (74) · Easy to run: easy (50) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.6k · Apache-2.0 · Oct 2026</sub>
 
 **Evolves programs with LLM mutations, scored by your own evaluator.**
 
@@ -1283,7 +1283,7 @@ mini-swe-agent is a minimal software engineering agent from the SWE-bench and SW
 <sub>no GPU · Needs Python, LLM provider API (litellm, openrouter or portkey) · Models: litellm, openrouter, portkey, /completion and /response endpoints · [Repo](https://github.com/swe-agent/mini-swe-agent) · [📖 Docs ↗](https://mini-swe-agent.com/latest/quickstart/) · [🌐 Site ↗](https://mini-swe-agent.com/latest/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mini-swe-agent/)</sub>
 
 <a name="omnirush-gui"></a>
-### #&#8288;72 [omnirush-gui](https://github.com/omnirush-ai/omnirush-gui) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · custom license · Oct 2026</sub>
+### #&#8288;72 [omnirush-gui](https://github.com/omnirush-ai/omnirush-gui) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · custom license · Oct 2026</sub>
 
 **Desktop coding agent app for macOS and Linux with a model picker.**
 
@@ -1445,7 +1445,7 @@ SWE-agent lets a language model such as GPT-4o or Claude Sonnet 4 autonomously u
 <sub>no GPU · Models: GPT-4o, Claude Sonnet 4, Claude 3.7 · [Repo](https://github.com/swe-agent/swe-agent) · [📖 Docs ↗](https://swe-agent.com/latest/) · [🌐 Site ↗](https://swe-agent.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/swe-agent/)</sub>
 
 <a name="grok-cli"></a>
-### #&#8288;81 [grok-cli](https://github.com/superagent-ai/grok-cli) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (14) · Freshness: active (83) · Maintenance: weak (0) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · MIT · May 2026</sub>
+### #&#8288;81 [grok-cli](https://github.com/superagent-ai/grok-cli) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (13) · Freshness: active (83) · Maintenance: weak (0) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · MIT · May 2026</sub>
 
 **Terminal coding agent for the xAI Grok API with sub-agents and Telegram control.**
 

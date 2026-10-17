@@ -218,7 +218,7 @@ A Python LangGraph graph that takes a research topic and a JSON extraction_schem
 <sub>Jupyter Notebook, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/data-enrichment) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/data-enrichment/)</sub>
 
 <a name="ms-agent"></a>
-### #&#8288;13 [ms-agent](https://github.com/modelscope/ms-agent) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (46) · Freshness: active (98) · Maintenance: patchy (44) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;13 [ms-agent](https://github.com/modelscope/ms-agent) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (46) · Freshness: active (98) · Maintenance: patchy (43) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Sep 2026</sub>
 
 **Python agent framework with CLI, TUI and WebUI, skills, sub-agents and MCP.**
 

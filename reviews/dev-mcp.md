@@ -77,7 +77,7 @@ Serena is an MCP server that exposes IDE-style tools to coding agents: find symb
 <sub>no GPU · Docker + Compose · Needs uv, language servers (per language), JetBrains IDE plugin (optional, paid) · Models: any MCP-capable client/LLM · safety checks passed 11 of 13 · [Repo](https://github.com/oraios/serena) · [📖 Docs ↗](https://oraios.github.io/serena/02-usage/000_intro.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serena/)</sub>
 
 <a name="chrome-devtools-mcp"></a>
-### #&#8288;5 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 54k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;5 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 54k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets coding agents drive and debug a live Chrome.**
 
@@ -221,7 +221,7 @@ AOS is a Rust CLI and runtime that gives agents such as Claude, Codex and Grok a
 <sub>no GPU · Needs Astrid runtime (bundled), Pinentry (Linux approval prompts) · Models: Claude, Codex, Grok · [Repo](https://github.com/unicity-aos/aos-ce) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aos-ce/)</sub>
 
 <a name="ivanmurzak-unity-mcp"></a>
-### #&#8288;13 [unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;13 [unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · Apache-2.0 · Oct 2026</sub>
 
 **Unity Editor and runtime plugin exposing 70+ MCP tools to coding agents.**
 
@@ -347,7 +347,7 @@ DevSpace is a Node-based MCP server that exposes selected local project folders 
 <sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📖 Docs ↗](https://github.com/Waishnav/devspace/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
 
 <a name="google-workspace-mcp"></a>
-### #&#8288;20 [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
+### #&#8288;20 [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **MCP server exposing Gmail, Drive, Calendar, Docs, Sheets and more to AI clients.**
 
@@ -365,7 +365,7 @@ Python MCP server with 120+ tools across twelve Google Workspace services, inclu
 <sub>no GPU · Docker + Compose · Needs Google Cloud project with OAuth client, Google Workspace APIs, Valkey/Redis (optional) · port 8000 · [Repo](https://github.com/taylorwilsdon/google_workspace_mcp) · [📖 Docs ↗](https://workspacemcp.com/docs) · [🌐 Site ↗](https://workspacemcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-workspace-mcp/)</sub>
 
 <a name="code2prompt"></a>
-### #&#8288;21 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (37) · Freshness: active (89) · Maintenance: fair (54) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Sep 2026</sub>
+### #&#8288;21 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (37) · Freshness: active (89) · Maintenance: fair (53) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Sep 2026</sub>
 
 **Rust CLI that packs a codebase into one formatted LLM prompt.**
 

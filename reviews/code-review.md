@@ -95,7 +95,7 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="deepsec"></a>
-### #&#8288;6 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;6 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · Apache-2.0 · Sep 2026</sub>
 
 **Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
 
