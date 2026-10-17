@@ -5,7 +5,7 @@ Frontends that render agent steps, tool calls, approvals or model-generated comp
 <sub>🌐 Also on the web: [Agent UI and generative UI on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/), each project on its own page.</sub>
 
 <a name="opengenerativeui"></a>
-### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with generated interactive UI, charts, maps and tools.**
 
@@ -92,7 +92,7 @@ A Turborepo with a Next.js 16 frontend on assistant-ui and a LangGraph.js backen
 <sub>TypeScript, openai, langgraph, assistant-ui · Needs openai-api-key, financial-datasets-api-key, tavily-api-key · [Repo](https://github.com/assistant-ui/assistant-ui-stockbroker) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/assistant-ui-stockbroker/)</sub>
 
 <a name="openai-structured-outputs-samples"></a>
-### #&#8288;6 [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (16) · Freshness: quiet (22) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 685 · MIT · Dec 2025</sub>
+### #&#8288;6 [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (16) · Freshness: quiet (21) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 685 · MIT · Dec 2025</sub>
 
 **Three Next.js samples driving UI from schema-constrained OpenAI outputs.**
 

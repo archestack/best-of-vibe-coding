@@ -23,7 +23,7 @@ A Next.js 16 template (React 19, Tailwind CSS v4, shadcn/ui) that bundles a port
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="jeecgboot"></a>
-### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
 
 **Java low-code platform with code generator and built-in AI app builder.**
 
@@ -41,7 +41,7 @@ JeecgBoot is a Spring Boot 4 and Vue3 platform for building enterprise systems s
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, Nacos (microservice mode), MinIO or Aliyun OSS (optional) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
 
 <a name="dyad"></a>
-### 🥉 [dyad](https://github.com/dyad-sh/dyad) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: hard (17) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Oct 2026</sub>
+### 🥉 [dyad](https://github.com/dyad-sh/dyad) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: hard (17) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Oct 2026</sub>
 
 **Desktop app that builds apps from prompts on your own machine.**
 
@@ -95,7 +95,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="llamacoder"></a>
-### #&#8288;6 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Oct 2026</sub>
+### #&#8288;6 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Oct 2026</sub>
 
 **Open-source Claude Artifacts clone generating React apps with Llama.**
 
@@ -202,7 +202,7 @@ Next.js 15 app with Drizzle on Postgres that lets signed-in users (GitHub or Ver
 <sub>TypeScript, Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Cursor CLI · Needs PostgreSQL (Neon), Vercel Sandbox credentials, GitHub or Vercel OAuth app, agent API keys (Anthropic, OpenAI, Cursor, Gemini, AI Gateway) · GitHub template · [Repo](https://github.com/vercel-labs/coding-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-agent-template/)</sub>
 
 <a name="chef"></a>
-### #&#8288;12 [chef](https://github.com/get-convex/chef) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (24) · Freshness: slowing (49) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;12 [chef](https://github.com/convex/chef) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (24) · Freshness: slowing (49) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
@@ -217,7 +217,7 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 - **−** Locked to Convex as the backend; no other database or backend option
 - **−** Must be opened at 127.0.0.1; localhost does not work; no Docker setup provided
 
-<sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/get-convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
+<sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
 
 <a name="claudable"></a>
 ### #&#8288;13 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: niche (18) · Freshness: slowing (46) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>

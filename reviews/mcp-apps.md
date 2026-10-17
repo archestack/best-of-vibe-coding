@@ -76,7 +76,7 @@ Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server t
 <sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
 
 <a name="openai-apps-sdk-examples"></a>
-### #&#8288;5 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (49) · Freshness: recent (66) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
+### #&#8288;5 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (49) · Freshness: recent (65) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
 
 **Example MCP servers and widgets for ChatGPT apps on the Apps SDK.**
 

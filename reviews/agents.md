@@ -5,7 +5,7 @@ Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Age
 <sub>🌐 Also on the web: [Agent backends on archestack.com](https://archestack.com/best-of-vibe-coding/agents/), each project on its own page.</sub>
 
 <a name="deepseek-harness"></a>
-### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 250k · MIT · Oct 2026</sub>
+### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 251k · MIT · Oct 2026</sub>
 
 **Plugin-based agent harness from DeepSeek with a local Web UI.**
 
@@ -339,7 +339,7 @@ A chat agent on Cloudflare Workers using the Agents SDK AIChatAgent class: strea
 <sub>TypeScript, workers-ai, ai-sdk, openai, anthropic · Needs cloudflare-account, wrangler · [Repo](https://github.com/cloudflare/agents-starter) · [📖 Docs ↗](https://developers.cloudflare.com/agents/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cloudflare-agents-starter/)</sub>
 
 <a name="agent-starter-pack"></a>
-### #&#8288;20 [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (60) · Freshness: active (85) · Maintenance: weak (17) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · Apache-2.0 · May 2026</sub>
+### #&#8288;20 [agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: popular (60) · Freshness: active (84) · Maintenance: weak (17) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · Apache-2.0 · May 2026</sub>
 
 **Google Cloud agent scaffolder with Terraform, CI/CD and evals; now maintenance-only.**
 

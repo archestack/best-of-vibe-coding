@@ -58,7 +58,7 @@ SpacetimeDB is a relational database that doubles as the application server. You
 <sub>no GPU · Docker + Compose · port 3000 · [Repo](https://github.com/clockworklabs/spacetimedb) · [📖 Docs ↗](https://spacetimedb.com/docs) · [🌐 Site ↗](https://spacetimedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spacetimedb/)</sub>
 
 <a name="prest"></a>
-### #&#8288;4 [prest](https://github.com/prest/prest) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (80) · Easy to run: very easy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Oct 2026</sub>
+### #&#8288;4 [prest](https://github.com/prest/prest) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: very easy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Oct 2026</sub>
 
 **REST and read-only MCP API generated from a PostgreSQL or MySQL database.**
 
@@ -148,7 +148,7 @@ Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, Cli
 <sub>no GPU · Compose · Needs PostgreSQL, MongoDB, ClickHouse, MS SQL Server · [Repo](https://github.com/hasura/graphql-engine) · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-engine/)</sub>
 
 <a name="convex-backend"></a>
-### #&#8288;9 [convex-backend](https://github.com/get-convex/convex-backend) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (71) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Oct 2026</sub>
+### #&#8288;9 [convex-backend](https://github.com/convex/convex-backend) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (71) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Oct 2026</sub>
 
 **Reactive database with TypeScript server functions and client libraries.**
 
@@ -163,7 +163,7 @@ Convex is a reactive database where queries and mutations are written as TypeScr
 - **−** Less tested on Windows than on Linux and Mac
 - **−** License is not identified as a standard SPDX license (NOASSERTION)
 
-<sub>no GPU · Needs Postgres, MySQL or SQLite (optional, self-hosted) · [Repo](https://github.com/get-convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
+<sub>no GPU · Needs Postgres, MySQL or SQLite (optional, self-hosted) · [Repo](https://github.com/convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
 
 <a name="payload"></a>
 ### #&#8288;10 [payload](https://github.com/payloadcms/payload) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: hard (0) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 45k · MIT · Oct 2026</sub>
