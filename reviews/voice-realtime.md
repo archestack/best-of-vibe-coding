@@ -5,7 +5,7 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 <sub>🌐 Also on the web: [Voice and realtime on archestack.com](https://archestack.com/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
 
 <a name="agent-starter-react"></a>
-### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (46) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 952 · MIT · Sep 2026</sub>
+### 🥇 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (46) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 954 · MIT · Sep 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
@@ -160,7 +160,7 @@ Expo project on the LiveKit React Native SDK and its Expo config plugin, run on 
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;10 [examples](https://github.com/elevenlabs/examples) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (42) · Freshness: recent (70) · Maintenance: weak (20) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 629 · MIT · Oct 2026</sub>
+### #&#8288;10 [examples](https://github.com/elevenlabs/examples) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (42) · Freshness: recent (70) · Maintenance: weak (20) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 630 · MIT · Oct 2026</sub>
 
 **Prompt-generated ElevenLabs examples for speech, music and voice agents.**
 

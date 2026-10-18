@@ -58,7 +58,7 @@ A Nuxt app on Nuxt UI and the AI SDK: streaming replies with reasoning, three mo
 <sub>Vue, ai-gateway, ai-sdk, anthropic, google · Needs ai-gateway-api-key, github-oauth-app, sqlite-or-turso · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="claude-quickstarts"></a>
-### #&#8288;4 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Oct 2026</sub>
+### #&#8288;4 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Oct 2026</sub>
 
 **Independent Claude API starter projects, one folder per pattern.**
 

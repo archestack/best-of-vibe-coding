@@ -166,7 +166,7 @@ Convex is a reactive database where queries and mutations are written as TypeScr
 <sub>no GPU · Needs Postgres, MySQL or SQLite (optional, self-hosted) · [Repo](https://github.com/convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
 
 <a name="payload"></a>
-### #&#8288;10 [payload](https://github.com/payloadcms/payload) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: hard (0) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 45k · MIT · Oct 2026</sub>
+### #&#8288;10 [payload](https://github.com/payloadcms/payload) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (76) · Easy to run: hard (0) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 45k · MIT · Oct 2026</sub>
 
 **Next.js-native headless CMS and app framework with a React admin panel.**
 
