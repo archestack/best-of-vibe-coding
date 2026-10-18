@@ -5,7 +5,7 @@ Frontends that render agent steps, tool calls, approvals or model-generated comp
 <sub>🌐 Also on the web: [Agent UI and generative UI on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/), each project on its own page.</sub>
 
 <a name="opengenerativeui"></a>
-### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Oct 2026</sub>
+### 🥇 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with generated interactive UI, charts, maps and tools.**
 
@@ -41,7 +41,7 @@ A Next.js frontend that connects to any LangGraph server exposing a messages key
 <sub>TypeScript, langgraph · Needs langgraph-server, langsmith-api-key-for-deployed-servers · env example file · [Repo](https://github.com/langchain-ai/agent-chat-ui) · [▶️ Demo ↗](https://agentchat.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-chat-ui/)</sub>
 
 <a name="agno-agent-ui"></a>
-### 🥉 [agent-ui](https://github.com/agno-agi/agent-ui) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: known (38) · Freshness: recent (74) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · May 2026</sub>
+### 🥉 [agent-ui](https://github.com/agno-agi/agent-ui) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (38) · Freshness: recent (73) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · May 2026</sub>
 
 **Next.js chat frontend for Agno AgentOS with tool calls and reasoning.**
 
@@ -58,7 +58,7 @@ A Next.js and shadcn/ui chat interface that connects to a running Agno AgentOS i
 <sub>TypeScript, agno · Needs agno-agentos · GitHub template · [Repo](https://github.com/agno-agi/agent-ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agno-agent-ui/)</sub>
 
 <a name="stockbot-on-groq"></a>
-### #&#8288;4 [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (28) · Freshness: quiet (19) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;4 [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (28) · Freshness: quiet (19) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Groq chatbot answering with TradingView widgets via AI SDK generative UI.**
 

@@ -131,7 +131,7 @@ Full-stack admin framework with a Gin and GORM backend and a Vue 3 and Element P
 <sub>Go · Needs MySQL or MariaDB 5.7+, Redis, Go >= 1.22, Node > 18.16.0 · Docker · [Repo](https://github.com/flipped-aurora/gin-vue-admin) · [▶️ Demo ↗](http://demo.gin-vue-admin.com) · [📖 Docs ↗](https://www.gin-vue-admin.com) · [🌐 Site ↗](https://www.gin-vue-admin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gin-vue-admin/)</sub>
 
 <a name="open-saas"></a>
-### #&#8288;8 [open-saas](https://github.com/wasp-lang/open-saas) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (73) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Oct 2026</sub>
+### #&#8288;8 [open-saas](https://github.com/wasp-lang/open-saas) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Oct 2026</sub>
 
 **Wasp SaaS template with auth, three payment providers, OpenAI demo app.**
 
@@ -221,7 +221,7 @@ A Go backend with a React frontend served from the same binary: multi-tenant acc
 <sub>Go, mcp · Needs mongodb, stripe, resend · Docker · env example file · [Repo](https://github.com/jonradoff/lastsaas) · [🌐 Site ↗](https://metavert.io/lastsaas) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lastsaas/)</sub>
 
 <a name="wave"></a>
-### #&#8288;13 [wave](https://github.com/thedevdojo/wave) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (37) · Freshness: recent (79) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · May 2026</sub>
+### #&#8288;13 [wave](https://github.com/thedevdojo/wave) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (37) · Freshness: recent (78) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · May 2026</sub>
 
 **Laravel SaaS framework with auth, billing, roles, blog and themes.**
 
@@ -239,7 +239,7 @@ Wave is a Laravel-based SaaS framework that ships the common product pieces: aut
 <sub>CSS · Needs PHP, Laravel · env example file · [Repo](https://github.com/thedevdojo/wave) · [▶️ Demo ↗](https://devdojo.com/wave/demo) · [📖 Docs ↗](https://devdojo.com/wave/docs) · [🌐 Site ↗](https://devdojo.com/wave) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wave/)</sub>
 
 <a name="saas-starter-kit"></a>
-### #&#8288;14 [saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (29) · Freshness: recent (52) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · Apache-2.0 · May 2026</sub>
+### #&#8288;14 [saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (29) · Freshness: recent (51) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · Apache-2.0 · May 2026</sub>
 
 **Next.js SaaS boilerplate with teams, SAML SSO, SCIM and audit logs.**
 
