@@ -92,10 +92,10 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 - **−** Security, privacy and i18n categories are thin (22, 5 and 5 rules)
 - **−** MCP tool discovery can be lazy in some clients; the prompt must name the server
 
-<sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
+<sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 12 of 13 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="deepsec"></a>
-### #&#8288;6 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;6 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · Apache-2.0 · Sep 2026</sub>
 
 **Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
 
@@ -131,7 +131,7 @@ Probot-based GitHub app that reviews pull requests with OpenAI-compatible models
 <sub>no GPU · Docker · Needs GitHub App or GitHub Actions, OpenAI-compatible API, Azure OpenAI or GitHub Models, Node.js, pm2 (self-hosting) · Models: OpenAI GPT models, Azure OpenAI deployments, GitHub Models · [Repo](https://github.com/anc95/chatgpt-codereview) · [▶️ Demo ↗](https://github.com/apps/cr-gpt) · [📖 Docs ↗](https://github.com/marketplace/actions/chatgpt-codereviewer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-codereview/)</sub>
 
 <a name="claude-code-security-review"></a>
-### #&#8288;8 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: niche (26) · Freshness: slowing (42) · Maintenance: weak (2) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Feb 2026</sub>
+### #&#8288;8 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: niche (26) · Freshness: slowing (42) · Maintenance: weak (3) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Feb 2026</sub>
 
 **GitHub Action that has Claude review pull request diffs for security issues.**
 

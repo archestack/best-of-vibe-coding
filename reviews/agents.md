@@ -5,7 +5,7 @@ Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Age
 <sub>🌐 Also on the web: [Agent backends on archestack.com](https://archestack.com/best-of-vibe-coding/agents/), each project on its own page.</sub>
 
 <a name="deepseek-harness"></a>
-### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 252k · MIT · Oct 2026</sub>
+### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 253k · MIT · Oct 2026</sub>
 
 **Plugin-based agent harness from DeepSeek with a local Web UI.**
 
