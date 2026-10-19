@@ -6,28 +6,20 @@ Every entry is written from the project README and checked facts: tagline, summa
 
 ## Pages
 
-- [Leaderboard](https://github.com/archestack/best-of-vibe-coding/blob/main/README.md): all 421 projects in 21 categories, ranked, one table per category
+- [Leaderboard](https://github.com/archestack/best-of-vibe-coding/blob/main/README.md): all 421 projects in 13 categories, ranked, one table per category
 - [Chat apps reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/chat-apps.md): Chat interfaces and single-feature text apps you fork as the base of a conversational product. 12 projects.
 - [RAG and search reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/rag-search.md): Retrieval over your own documents or data, answer engines, and natural-language-to-SQL starters. 13 projects.
-- [Agent backends reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/agents.md): Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents, eve) meant to be extended. 23 projects.
-- [Agent UI and generative UI reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/agent-ui.md): Frontends that render agent steps, tool calls, approvals or model-generated components. 6 projects.
+- [Agent and MCP starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/agents.md): Agent backends and UIs to fork (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents) and templates for MCP servers and chat-host apps. 35 projects.
 - [Voice and realtime reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/voice-realtime.md): Voice agents, realtime speech-to-speech apps and their web, phone and native clients. 16 projects.
-- [MCP servers and chat-host apps reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/mcp-apps.md): Templates for building MCP servers and apps that run inside chat hosts such as ChatGPT. 6 projects.
-- [SaaS boilerplates reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/saas-with-ai.md): Product boilerplates with auth, billing and a database wired in, with AI features built in or ready to add. 16 projects.
+- [SaaS and app starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/saas-with-ai.md): Product boilerplates with auth, billing and a database wired in and AI built in, plus mobile and browser-extension starters. 18 projects.
 - [App builder starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/app-builders.md): Prompt-to-app builders and platforms that run coding agents in sandboxes. 13 projects.
 - [AI editors and workflow canvases reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/editors-workflows.md): Rich-text editors with AI commands and node-based canvases for chaining model calls. 4 projects.
-- [Cloud reference architectures reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/cloud-reference.md): Vendor reference apps and infrastructure-as-code for running AI apps on Azure or Google Cloud. 7 projects.
-- [AI API backends reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/api-backends.md): Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API. 7 projects.
-- [Mobile and browser extensions reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/mobile-extensions.md): Native, cross-platform mobile and browser-extension starters with AI features built in. 2 projects.
-- [Coding agents and assistants reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/coding-agents.md): Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers. 87 projects.
-- [Editors and IDEs reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/editors.md): Code editors with AI built in, open source and runnable on your own machine. 3 projects.
-- [Skills, plugins and rules reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/skills-plugins.md): Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others. 149 projects.
+- [Backend and cloud templates reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/cloud-reference.md): Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API, and vendor reference apps for Azure or Google Cloud. 14 projects.
+- [Coding agents and AI editors reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/coding-agents.md): Agents, assistants and editors that read your repo, write code and run commands, including tools that turn designs and screenshots into code. 93 projects.
+- [Skills, plugins and prompts reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/skills-plugins.md): Add-ons that make coding agents better (skills, plugins, rules, hooks, memory) and prompt collections to learn from or reuse. 150 projects.
 - [MCP servers for developers reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/dev-mcp.md): MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databases and code navigation. 31 projects.
 - [Code review and testing reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/code-review.md): AI tools that review pull requests, write tests or find bugs, run in your CI or on your machine. 8 projects.
-- [Design to code reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/design-to-code.md): Tools that turn screenshots, mockups or visual edits into working front-end code. 3 projects.
-- [Prompts and system prompts reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/prompts.md): Collections of prompts, system prompts and agent instructions to learn from or reuse. 1 projects.
-- [Backends and databases reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/backends.md): Open-source backends you ship apps on: auth, database, storage and APIs in one, self-hosted or managed. 12 projects.
-- [Deploy and hosting reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/deploy.md): Self-hosted platforms that deploy and run your apps from Git or Docker on your own servers. 2 projects.
+- [Backends, databases and hosting reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/backends.md): Open-source backends you ship apps on (auth, database, storage, APIs) and self-hosted platforms that deploy them from Git or Docker. 14 projects.
 
 ## Data
 
