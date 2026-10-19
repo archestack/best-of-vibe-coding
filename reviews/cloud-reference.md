@@ -95,7 +95,7 @@ Deploys a RAG chat app on AWS with one `sh deploy.sh` wizard that runs `cdk depl
 <sub>Python, Claude Sonnet 4.6, Claude Opus 4.6, Amazon Titan Embed Text V2 · Needs AWS account, Amazon Bedrock, OpenSearch Serverless NextGen, Bedrock AgentCore, Amazon Cognito, CloudFront, S3, Docker, AWS CDK CLI · Docker · [Repo](https://github.com/aws-samples/serverless-rag-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-rag-demo/)</sub>
 
 <a name="get-started-with-ai-agents"></a>
-### #&#8288;6 [get-started-with-ai-agents](https://github.com/azure-samples/get-started-with-ai-agents) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: weak (13) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 375 · MIT · Oct 2026</sub>
+### #&#8288;6 [get-started-with-ai-agents](https://github.com/azure-samples/get-started-with-ai-agents) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: weak (13) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 376 · MIT · Oct 2026</sub>
 
 **Azure azd template for a Foundry agent chat app with file search.**
 
