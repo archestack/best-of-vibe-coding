@@ -1,11 +1,11 @@
 <p align="center"><img src="https://github.com/archestack.png" width="96" alt="Archestack" /></p>
 <h1 align="center">Best of Vibe Coding</h1>
 <h3 align="center">Vibe coding, ranked. 🏆</h3>
-<p align="center">Starters to fork, agents that write the code, the skills and MCP servers that make them better, and the stack you ship on. No fluff, and paid never moves a rank.</p>
+<p align="center">Coding agents, skills, starters and the stack you ship on. Paid never moves a rank.</p>
 <p align="center">
   <img alt="projects" src="https://img.shields.io/badge/421_projects-ff6b6b?style=for-the-badge" />
   <img alt="stars" src="https://img.shields.io/badge/9.5M_stars_combined-ffd166?style=for-the-badge" />
-  <img alt="categories" src="https://img.shields.io/badge/21_categories-5ac4bf?style=for-the-badge" />
+  <img alt="categories" src="https://img.shields.io/badge/13_categories-5ac4bf?style=for-the-badge" />
   <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--19-8ac926?style=for-the-badge" />
 </p>
 
@@ -23,22 +23,22 @@
 
 ## 🔥 Top 10 right now
 
-<sub>421 projects ranked in 21 categories · data from 2026-10-19 · re-ranked twice a day</sub>
+<sub>421 projects ranked in 13 categories · data from 2026-10-19 · re-ranked twice a day</sub>
 
 <sub>**How to read it:** rank 🥇🥈🥉 then #&#8288;4, #&#8288;5… (equal scores: more stars first) · score out of 100 sets the order: hover it to see what it is made of, or read [how we rank](#-how-we-rank) · click a project name for its review · ↗ opens another site (Cmd/Ctrl-click for a new tab)</sub>
 
 | Rank | Project | Score | Category | Stars |
 |:-:|---|:-:|---|--:|
-| 🥇 | **[caveman](reviews/skills-plugins.md#caveman "Review: strengths, weaknesses, specs")**<br><sub>Cuts token use in coding agents with terse replies and compressed inputs</sub><br><sub>🐳 Docker · Apache-2.0 · [▶️ Demo ↗](https://caveman.so/demo) · [📖 Docs ↗](https://docs.caveman.so) · [🌐 Site ↗](https://caveman.so)</sub> | [95](#-how-we-rank "Score 95/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 114k |
-| 🥈 | **[impeccable](reviews/skills-plugins.md#impeccable "Review: strengths, weaknesses, specs")**<br><sub>Design skill with 24 commands and a detector for AI-generated frontends</sub><br><sub>Apache-2.0 · [▶️ Demo ↗](https://impeccable.style/cases/neo-mirai) · [📖 Docs ↗](https://impeccable.style) · [🌐 Site ↗](https://impeccable.style)</sub> | [95](#-how-we-rank "Score 95/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 83k |
-| 🥉 | **[skills](reviews/skills-plugins.md#skills "Review: strengths, weaknesses, specs")**<br><sub>Agent skills for planning, TDD, debugging and code review</sub><br><sub>MIT · [🌐 Site ↗](https://skills.sh/mattpocock/skills)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 297k |
-| #&#8288;4 | **[ecc](reviews/skills-plugins.md#ecc "Review: strengths, weaknesses, specs")**<br><sub>Agents, skills, hooks and rules bundle for Claude Code, Codex and other harnesses</sub><br><sub>🐳 Docker · MIT · [🌐 Site ↗](https://ecc.tools)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 284k |
-| #&#8288;5 | **[appwrite](reviews/backends.md#appwrite "Review: strengths, weaknesses, specs")**<br><sub>Self-hostable backend with auth, databases, storage, functions, messaging and hosting</sub><br><sub>🐳 Docker · BSD-3-Clause · [▶️ Demo ↗](https://cloud.appwrite.io) · [📖 Docs ↗](https://appwrite.io/docs) · [🌐 Site ↗](https://appwrite.io)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: very easy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🗄️ [Backends and databases](#%EF%B8%8F-backends-and-databases) | 58k |
-| #&#8288;6 | **[ponytail](reviews/skills-plugins.md#ponytail "Review: strengths, weaknesses, specs")**<br><sub>Skill prompt that makes coding agents write less code and add tests</sub><br><sub>MIT · [🌐 Site ↗](https://ponytail.dev/stories)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 167k |
-| #&#8288;7 | **[ui-ux-pro-max-skill](reviews/skills-plugins.md#ui-ux-pro-max-skill "Review: strengths, weaknesses, specs")**<br><sub>Design-system skill that gives coding agents searchable UI styles, palettes and fonts</sub><br><sub>MIT · [🌐 Site ↗](https://uupm.cc)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 137k |
-| #&#8288;8 | **[claude-mem](reviews/skills-plugins.md#claude-mem "Review: strengths, weaknesses, specs")**<br><sub>Persistent cross-session memory plugin for Claude Code and other coding agents</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://docs.claude-mem.ai/) · [🌐 Site ↗](https://docs.claude-mem.ai/)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 102k |
-| #&#8288;9 | **[oh-my-claudecode](reviews/skills-plugins.md#oh-my-claudecode "Review: strengths, weaknesses, specs")**<br><sub>Multi-agent orchestration plugin and CLI for Claude Code</sub><br><sub>MIT · [📖 Docs ↗](https://yeachan-heo.github.io/oh-my-claudecode-website/docs/) · [🌐 Site ↗](https://yeachan-heo.github.io/oh-my-claudecode-website)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 40k |
-| #&#8288;10 | **[spec-kit](reviews/skills-plugins.md#spec-kit "Review: strengths, weaknesses, specs")**<br><sub>CLI and agent skills for spec-driven development, bug fixing and idea assessment</sub><br><sub>MIT · [📖 Docs ↗](https://github.github.io/spec-kit/)</sub> | [91](#-how-we-rank "Score 91/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) | 142k |
+| 🥇 | **[caveman](reviews/skills-plugins.md#caveman "Review: strengths, weaknesses, specs")**<br><sub>Cuts token use in coding agents with terse replies and compressed inputs</sub><br><sub>🐳 Docker · Apache-2.0 · [▶️ Demo ↗](https://caveman.so/demo) · [📖 Docs ↗](https://docs.caveman.so) · [🌐 Site ↗](https://caveman.so)</sub> | [95](#-how-we-rank "Score 95/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 114k |
+| 🥈 | **[impeccable](reviews/skills-plugins.md#impeccable "Review: strengths, weaknesses, specs")**<br><sub>Design skill with 24 commands and a detector for AI-generated frontends</sub><br><sub>Apache-2.0 · [▶️ Demo ↗](https://impeccable.style/cases/neo-mirai) · [📖 Docs ↗](https://impeccable.style) · [🌐 Site ↗](https://impeccable.style)</sub> | [95](#-how-we-rank "Score 95/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 83k |
+| 🥉 | **[skills](reviews/skills-plugins.md#skills "Review: strengths, weaknesses, specs")**<br><sub>Agent skills for planning, TDD, debugging and code review</sub><br><sub>MIT · [🌐 Site ↗](https://skills.sh/mattpocock/skills)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 297k |
+| #&#8288;4 | **[ecc](reviews/skills-plugins.md#ecc "Review: strengths, weaknesses, specs")**<br><sub>Agents, skills, hooks and rules bundle for Claude Code, Codex and other harnesses</sub><br><sub>🐳 Docker · MIT · [🌐 Site ↗](https://ecc.tools)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 284k |
+| #&#8288;5 | **[appwrite](reviews/backends.md#appwrite "Review: strengths, weaknesses, specs")**<br><sub>Self-hostable backend with auth, databases, storage, functions, messaging and hosting</sub><br><sub>🐳 Docker · BSD-3-Clause · [▶️ Demo ↗](https://cloud.appwrite.io) · [📖 Docs ↗](https://appwrite.io/docs) · [🌐 Site ↗](https://appwrite.io)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: very easy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🗄️ [Backends, databases and hosting](#%EF%B8%8F-backends-databases-and-hosting) | 58k |
+| #&#8288;6 | **[ponytail](reviews/skills-plugins.md#ponytail "Review: strengths, weaknesses, specs")**<br><sub>Skill prompt that makes coding agents write less code and add tests</sub><br><sub>MIT · [🌐 Site ↗](https://ponytail.dev/stories)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 167k |
+| #&#8288;7 | **[ui-ux-pro-max-skill](reviews/skills-plugins.md#ui-ux-pro-max-skill "Review: strengths, weaknesses, specs")**<br><sub>Design-system skill that gives coding agents searchable UI styles, palettes and fonts</sub><br><sub>MIT · [🌐 Site ↗](https://uupm.cc)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 137k |
+| #&#8288;8 | **[claude-mem](reviews/skills-plugins.md#claude-mem "Review: strengths, weaknesses, specs")**<br><sub>Persistent cross-session memory plugin for Claude Code and other coding agents</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://docs.claude-mem.ai/) · [🌐 Site ↗](https://docs.claude-mem.ai/)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 102k |
+| #&#8288;9 | **[oh-my-claudecode](reviews/skills-plugins.md#oh-my-claudecode "Review: strengths, weaknesses, specs")**<br><sub>Multi-agent orchestration plugin and CLI for Claude Code</sub><br><sub>MIT · [📖 Docs ↗](https://yeachan-heo.github.io/oh-my-claudecode-website/docs/) · [🌐 Site ↗](https://yeachan-heo.github.io/oh-my-claudecode-website)</sub> | [92](#-how-we-rank "Score 92/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 40k |
+| #&#8288;10 | **[spec-kit](reviews/skills-plugins.md#spec-kit "Review: strengths, weaknesses, specs")**<br><sub>CLI and agent skills for spec-driven development, bug fixing and idea assessment</sub><br><sub>MIT · [📖 Docs ↗](https://github.github.io/spec-kit/)</sub> | [91](#-how-we-rank "Score 91/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) | 142k |
 
 <sub>Ordered by score: adoption, freshness, how easy it is to run, and a few more signals as we measure them ([how we rank](#-how-we-rank)).</sub>
 
@@ -48,25 +48,25 @@
 
 | Project | Stars this week | Rank |
 |---|--:|---|
-| [anatomy](reviews/skills-plugins.md#anatomy) | +11,957 (+267%) | #&#8288;67 in Skills, plugins and rules |
-| [skills](reviews/skills-plugins.md#skills) | +9,808 (+3.4%) | 🥉 in Skills, plugins and rules |
-| [diagram-design](reviews/skills-plugins.md#diagram-design) | +6,832 (+13%) | #&#8288;52 in Skills, plugins and rules |
-| [orca](reviews/coding-agents.md#orca) | +6,811 (+7.5%) | #&#8288;12 in Coding agents and assistants |
-| [ecc](reviews/skills-plugins.md#ecc) | +6,268 (+2.3%) | #&#8288;4 in Skills, plugins and rules |
+| [anatomy](reviews/skills-plugins.md#anatomy) | +11,957 (+267%) | #&#8288;67 in Skills, plugins and prompts |
+| [skills](reviews/skills-plugins.md#skills) | +9,808 (+3.4%) | 🥉 in Skills, plugins and prompts |
+| [diagram-design](reviews/skills-plugins.md#diagram-design) | +6,832 (+13%) | #&#8288;52 in Skills, plugins and prompts |
+| [orca](reviews/coding-agents.md#orca) | +6,811 (+7.5%) | #&#8288;11 in Coding agents and AI editors |
+| [ecc](reviews/skills-plugins.md#ecc) | +6,268 (+2.3%) | #&#8288;4 in Skills, plugins and prompts |
 
 ## ⚡ Pick by vibe
 
 - 💬 *Ship a chat app this weekend* → [Chat apps](#-chat-apps)
 - 📚 *RAG over my data, with citations* → [RAG and search](#-rag-and-search)
-- 🧩 *An agent backend I can extend* → [Agent backends](#-agent-backends)
+- 🧩 *An agent backend I can extend* → [Agent and MCP starters](#-agent-and-mcp-starters)
 - 🎙️ *A voice agent that talks back* → [Voice and realtime](#%EF%B8%8F-voice-and-realtime)
-- 💳 *SaaS with auth and billing, ready for AI* → [SaaS boilerplates](#-saas-boilerplates)
-- 🤖 *An agent that writes the code for me* → [Coding agents and assistants](#-coding-agents-and-assistants)
-- 🧩 *Make Claude Code or Cursor better* → [Skills, plugins and rules](#-skills-plugins-and-rules)
+- 💳 *SaaS with auth and billing, ready for AI* → [SaaS and app starters](#-saas-and-app-starters)
+- 🤖 *An agent that writes the code for me* → [Coding agents and AI editors](#-coding-agents-and-ai-editors)
+- 🧩 *Make Claude Code or Cursor better* → [Skills, plugins and prompts](#-skills-plugins-and-prompts)
 - 🔌 *Give my coding agent docs, a browser, GitHub* → [MCP servers for developers](#-mcp-servers-for-developers)
-- 🎨 *Turn a screenshot into a working page* → [Design to code](#-design-to-code)
-- 🗄️ *Auth, database and storage in one* → [Backends and databases](#%EF%B8%8F-backends-and-databases)
-- 🚀 *Deploy it on my own server* → [Deploy and hosting](#-deploy-and-hosting)
+- 🎨 *Turn a screenshot into a working page* → [Coding agents and AI editors](#-coding-agents-and-ai-editors)
+- 🗄️ *Auth, database and storage in one* → [Backends, databases and hosting](#%EF%B8%8F-backends-databases-and-hosting)
+- 🚀 *Deploy it on my own server* → [Backends, databases and hosting](#%EF%B8%8F-backends-databases-and-hosting)
 
 ## 🔓 Open-source alternatives to …
 
@@ -79,14 +79,14 @@
 | Claude Code | [claw-code](reviews/coding-agents.md#claw-code) · [Archon](reviews/coding-agents.md#archon) · [Open SWE](reviews/coding-agents.md#open-swe) |
 | Devin | [claw-code](reviews/coding-agents.md#claw-code) · [Archon](reviews/coding-agents.md#archon) · [Open SWE](reviews/coding-agents.md#open-swe) |
 | Tabnine | [claw-code](reviews/coding-agents.md#claw-code) · [Archon](reviews/coding-agents.md#archon) · [Open SWE](reviews/coding-agents.md#open-swe) |
-| Lovable | [Onlook](reviews/design-to-code.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
-| v0 | [Onlook](reviews/design-to-code.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
-| Bolt.new | [Onlook](reviews/design-to-code.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
-| Replit | [Onlook](reviews/design-to-code.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
+| Lovable | [Onlook](reviews/coding-agents.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
+| v0 | [Onlook](reviews/coding-agents.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
+| Bolt.new | [Onlook](reviews/coding-agents.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
+| Replit | [Onlook](reviews/coding-agents.md#onlook) ✋ · [ai-website-cloner-template](reviews/app-builders.md#ai-website-cloner-template) · [jeecgboot](reviews/app-builders.md#jeecgboot) |
 | CodeRabbit | [open-code-review](reviews/code-review.md#open-code-review) · [no-mistakes](reviews/code-review.md#no-mistakes) · [pr-agent](reviews/code-review.md#pr-agent) |
-| Firebase | [appwrite](reviews/backends.md#appwrite) · [supabase](reviews/backends.md#supabase) · [spacetimedb](reviews/backends.md#spacetimedb) |
-| Vercel | [dokploy](reviews/deploy.md#dokploy) · [dokku](reviews/deploy.md#dokku) |
-| Heroku | [dokploy](reviews/deploy.md#dokploy) · [dokku](reviews/deploy.md#dokku) |
+| Firebase | [appwrite](reviews/backends.md#appwrite) · [dokploy](reviews/backends.md#dokploy) · [dokku](reviews/backends.md#dokku) |
+| Vercel | [appwrite](reviews/backends.md#appwrite) · [dokploy](reviews/backends.md#dokploy) · [dokku](reviews/backends.md#dokku) |
+| Heroku | [appwrite](reviews/backends.md#appwrite) · [dokploy](reviews/backends.md#dokploy) · [dokku](reviews/backends.md#dokku) |
 | Vapi | [agent-starter-react](reviews/voice-realtime.md#agent-starter-react) · [voice-ui-kit](reviews/voice-realtime.md#voice-ui-kit) · [agent-starter-node](reviews/voice-realtime.md#agent-starter-node) |
 | ShipFast | [next-js-boilerplate](reviews/saas-with-ai.md#next-js-boilerplate) · [dotnet-starter-kit](reviews/saas-with-ai.md#dotnet-starter-kit) · [react-starter-kit](reviews/saas-with-ai.md#react-starter-kit) |
 
@@ -96,15 +96,15 @@
 
 | Starter | Sign-in | Category |
 |---|---|---|
-| [hackathon-starter](reviews/saas-with-ai.md#hackathon-starter) | Passport | 💳 [SaaS boilerplates](#-saas-boilerplates) |
-| [velobase-harness](reviews/saas-with-ai.md#velobase-harness) | Auth.js | 💳 [SaaS boilerplates](#-saas-boilerplates) |
+| [hackathon-starter](reviews/saas-with-ai.md#hackathon-starter) | Passport | 💳 [SaaS and app starters](#-saas-and-app-starters) |
+| [velobase-harness](reviews/saas-with-ai.md#velobase-harness) | Auth.js | 💳 [SaaS and app starters](#-saas-and-app-starters) |
 | [chatbot](reviews/chat-apps.md#vercel-chatbot) | Auth.js | 💬 [Chat apps](#-chat-apps) |
-| [personal-agent-template](reviews/agents.md#personal-agent-template) | Better Auth | 🧩 [Agent backends](#-agent-backends) |
+| [personal-agent-template](reviews/agents.md#personal-agent-template) | Better Auth | 🧩 [Agent and MCP starters](#-agent-and-mcp-starters) |
 | [gemini-chatbot](reviews/chat-apps.md#gemini-chatbot) | Auth.js | 💬 [Chat apps](#-chat-apps) |
 | [SupabaseAuthWithSSR](reviews/rag-search.md#supabaseauthwithssr) | Supabase Auth | 📚 [RAG and search](#-rag-and-search) |
-| [saas-starter-kit](reviews/saas-with-ai.md#saas-starter-kit) | Auth.js | 💳 [SaaS boilerplates](#-saas-boilerplates) |
+| [saas-starter-kit](reviews/saas-with-ai.md#saas-starter-kit) | Auth.js | 💳 [SaaS and app starters](#-saas-and-app-starters) |
 | [zola](reviews/chat-apps.md#zola) | Supabase Auth | 💬 [Chat apps](#-chat-apps) |
-| [next-ai-starter](reviews/saas-with-ai.md#next-ai-starter) | Auth.js | 💳 [SaaS boilerplates](#-saas-boilerplates) |
+| [next-ai-starter](reviews/saas-with-ai.md#next-ai-starter) | Auth.js | 💳 [SaaS and app starters](#-saas-and-app-starters) |
 
 ## 🗂️ All categories
 
@@ -112,31 +112,23 @@
 
 - 💬 [Chat apps](#-chat-apps) · 12
 - 📚 [RAG and search](#-rag-and-search) · 13
-- 🧩 [Agent backends](#-agent-backends) · 23
-- 🖥️ [Agent UI and generative UI](#%EF%B8%8F-agent-ui-and-generative-ui) · 6
+- 🧩 [Agent and MCP starters](#-agent-and-mcp-starters) · 35
 - 🎙️ [Voice and realtime](#%EF%B8%8F-voice-and-realtime) · 16
-- 🔌 [MCP servers and chat-host apps](#-mcp-servers-and-chat-host-apps) · 6
-- 💳 [SaaS boilerplates](#-saas-boilerplates) · 16
+- 💳 [SaaS and app starters](#-saas-and-app-starters) · 18
 - 🏗️ [App builder starters](#%EF%B8%8F-app-builder-starters) · 13
 - ✏️ [AI editors and workflow canvases](#%EF%B8%8F-ai-editors-and-workflow-canvases) · 4
-- ☁️ [Cloud reference architectures](#%EF%B8%8F-cloud-reference-architectures) · 7
-- ⚙️ [AI API backends](#%EF%B8%8F-ai-api-backends) · 7
-- 📱 [Mobile and browser extensions](#-mobile-and-browser-extensions) · 2
+- ☁️ [Backend and cloud templates](#%EF%B8%8F-backend-and-cloud-templates) · 14
 
 **🛠️ Code with AI**
 
-- 🤖 [Coding agents and assistants](#-coding-agents-and-assistants) · 87
-- ⌨️ [Editors and IDEs](#%EF%B8%8F-editors-and-ides) · 3
-- 🧩 [Skills, plugins and rules](#-skills-plugins-and-rules) · 149
+- 🤖 [Coding agents and AI editors](#-coding-agents-and-ai-editors) · 93
+- 🧩 [Skills, plugins and prompts](#-skills-plugins-and-prompts) · 150
 - 🔌 [MCP servers for developers](#-mcp-servers-for-developers) · 31
 - 🧪 [Code review and testing](#-code-review-and-testing) · 8
-- 🎨 [Design to code](#-design-to-code) · 3
-- 📜 [Prompts and system prompts](#-prompts-and-system-prompts) · 1
 
 **🚀 Ship it**
 
-- 🗄️ [Backends and databases](#%EF%B8%8F-backends-and-databases) · 12
-- 🚀 [Deploy and hosting](#-deploy-and-hosting) · 2
+- 🗄️ [Backends, databases and hosting](#%EF%B8%8F-backends-databases-and-hosting) · 14
 
 # 🧱 Starters
 
@@ -202,57 +194,32 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 
 <p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
 
-## 🧩 Agent backends
+## 🧩 Agent and MCP starters
 
-Agent templates and scaffolds (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents, eve) meant to be extended. <sub>23 ranked · [📝 all reviews](reviews/agents.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/agents/)</sub>
+Agent backends and UIs to fork (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents) and templates for MCP servers and chat-host apps. <sub>35 ranked · [📝 all reviews](reviews/agents.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/agents/)</sub>
 
-**deepseek-harness leads with 70**, ahead of docker-agent (59) and eve-software-factory-template (59).
+**deepseek-harness leads with 70**, ahead of mcp-typescript-template (63) and docker-agent (60).
 
 | Rank | Project | Score | Stars |
 |:-:|---|:-:|--:|
 | 🥇 | **[deepseek-harness](reviews/agents.md#deepseek-harness "Review: strengths, weaknesses, specs")**<br><sub>Plugin-based agent harness from DeepSeek with a local Web UI</sub><br><sub>TypeScript · MIT · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/)</sub> | [70](#-how-we-rank "Score 70/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 254k |
-| 🥈 | **[docker-agent](reviews/agents.md#docker-agent "Review: strengths, weaknesses, specs")**<br><sub>Docker CLI plugin that runs multi-agent teams defined in YAML</sub><br><sub>Go · 🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://docker.github.io/docker-agent/)</sub> | [59](#-how-we-rank "Score 59/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 4.6k |
-| 🥉 | **[eve-software-factory-template](reviews/agents.md#eve-software-factory-template "Review: strengths, weaknesses, specs")**<br><sub>eve pipeline that turns GitHub or Linear issues into reviewed draft PRs</sub><br><sub>TypeScript · GitHub template · MIT · [📖 Docs ↗](https://ask-foreman.dev/docs)</sub> | [59](#-how-we-rank "Score 59/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 1.2k |
-| #&#8288;4 | **[computer](reviews/agents.md#computer "Review: strengths, weaknesses, specs")**<br><sub>Durable Object virtual filesystem with container, shell and JavaScript runtimes for agents</sub><br><sub>TypeScript · MIT</sub> | [58](#-how-we-rank "Score 58/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 9.6k |
-| #&#8288;5 | **[marketing-team-eve-template](reviews/agents.md#marketing-team-eve-template "Review: strengths, weaknesses, specs")**<br><sub>eve lead agent delegating to five marketing specialists with approval gates</sub><br><sub>TypeScript · GitHub template · MIT · [📖 Docs ↗](https://vercel.com/kb/guide/marketing-team-eve)</sub> | [55](#-how-we-rank "Score 55/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (28) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 455 |
-| #&#8288;6 | **[adk-recipes](reviews/agents.md#google-adk-recipes "Review: strengths, weaknesses, specs")**<br><sub>Runnable Agent Development Kit recipes, from single patterns to deployable agents</sub><br><sub>Python · Apache-2.0 · [📖 Docs ↗](https://adk.dev)</sub> | [53](#-how-we-rank "Score 53/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (63) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 10k |
-| #&#8288;7 | **[personal-agent-template](reviews/agents.md#personal-agent-template "Review: strengths, weaknesses, specs")**<br><sub>eve and Nuxt personal agent with Slack, GitHub, Linear and per-user memory</sub><br><sub>TypeScript · GitHub template · MIT · 🔐 safe defaults</sub> | [52](#-how-we-rank "Score 52/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: weak (11) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 475 |
-| #&#8288;8 | **[frontieragent](reviews/agents.md#frontieragent "Review: strengths, weaknesses, specs")**<br><sub>Terminal agent runtime with single-agent and parallel sub-agent research workflows</sub><br><sub>Python · 🐳 Docker · Apache-2.0 · [🌐 Site ↗](https://www.apodex.com/)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 5.3k |
-| #&#8288;9 | **[ai-town](reviews/agents.md#ai-town "Review: strengths, weaknesses, specs")**<br><sub>Generative-agents town simulation on Convex with Ollama by default</sub><br><sub>TypeScript · 🐳 Docker · MIT · [▶️ Demo ↗](https://www.convex.dev/ai-town)</sub> | [49](#-how-we-rank "Score 49/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: weak (30) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 11k |
-| #&#8288;10 | **[OpenTag](reviews/agents.md#opentag "Review: strengths, weaknesses, specs")**<br><sub>Slack and Teams knowledge agent on LangGraph and CopilotKit Channels</sub><br><sub>Python · 🐳 Docker · MIT · [📖 Docs ↗](https://docs.copilotkit.ai/channels)</sub> | [45](#-how-we-rank "Score 45/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 1.3k |
+| 🥈 | **[mcp-typescript-template](reviews/agents.md#mcp-typescript-template "Review: strengths, weaknesses, specs")**<br><sub>TypeScript starter for remote MCP servers over HTTP with Express and Effect</sub><br><sub>TypeScript · GitHub template · 🐳 Docker · MIT</sub> | [63](#-how-we-rank "Score 63/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 58 |
+| 🥉 | **[docker-agent](reviews/agents.md#docker-agent "Review: strengths, weaknesses, specs")**<br><sub>Docker CLI plugin that runs multi-agent teams defined in YAML</sub><br><sub>Go · 🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://docker.github.io/docker-agent/)</sub> | [60](#-how-we-rank "Score 60/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 4.6k |
+| #&#8288;4 | **[eve-software-factory-template](reviews/agents.md#eve-software-factory-template "Review: strengths, weaknesses, specs")**<br><sub>eve pipeline that turns GitHub or Linear issues into reviewed draft PRs</sub><br><sub>TypeScript · GitHub template · MIT · [📖 Docs ↗](https://ask-foreman.dev/docs)</sub> | [59](#-how-we-rank "Score 59/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 1.2k |
+| #&#8288;5 | **[mcp-use](reviews/agents.md#mcp-use "Review: strengths, weaknesses, specs")**<br><sub>TypeScript framework for building MCP servers with React Views and an Inspector</sub><br><sub>TypeScript · MIT · [▶️ Demo ↗](https://inspector.mcp-use.com/inspector) · [📖 Docs ↗](https://docs.mcp-use.com/v2/typescript/getting-started/welcome) · [🌐 Site ↗](https://mcp-use.com)</sub> | [58](#-how-we-rank "Score 58/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 11k |
+| #&#8288;6 | **[computer](reviews/agents.md#computer "Review: strengths, weaknesses, specs")**<br><sub>Durable Object virtual filesystem with container, shell and JavaScript runtimes for agents</sub><br><sub>TypeScript · MIT</sub> | [58](#-how-we-rank "Score 58/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 9.6k |
+| #&#8288;7 | **[marketing-team-eve-template](reviews/agents.md#marketing-team-eve-template "Review: strengths, weaknesses, specs")**<br><sub>eve lead agent delegating to five marketing specialists with approval gates</sub><br><sub>TypeScript · GitHub template · MIT · [📖 Docs ↗](https://vercel.com/kb/guide/marketing-team-eve)</sub> | [56](#-how-we-rank "Score 56/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (28) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 455 |
+| #&#8288;8 | **[adk-recipes](reviews/agents.md#google-adk-recipes "Review: strengths, weaknesses, specs")**<br><sub>Runnable Agent Development Kit recipes, from single patterns to deployable agents</sub><br><sub>Python · Apache-2.0 · [📖 Docs ↗](https://adk.dev)</sub> | [53](#-how-we-rank "Score 53/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (63) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 10k |
+| #&#8288;9 | **[personal-agent-template](reviews/agents.md#personal-agent-template "Review: strengths, weaknesses, specs")**<br><sub>eve and Nuxt personal agent with Slack, GitHub, Linear and per-user memory</sub><br><sub>TypeScript · GitHub template · MIT · 🔐 safe defaults</sub> | [52](#-how-we-rank "Score 52/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: weak (11) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 475 |
+| #&#8288;10 | **[frontieragent](reviews/agents.md#frontieragent "Review: strengths, weaknesses, specs")**<br><sub>Terminal agent runtime with single-agent and parallel sub-agent research workflows</sub><br><sub>Python · 🐳 Docker · Apache-2.0 · [🌐 Site ↗](https://www.apodex.com/)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 5.3k |
 
-<sub>Top 10 of 23. [See all 23, ranked, with reviews →](reviews/agents.md)</sub>
+<sub>Top 10 of 35. [See all 35, ranked, with reviews →](reviews/agents.md)</sub>
 
 <details><summary>💡 How to choose</summary>
 
 - Choose the framework you want to live with; templates are thin and the framework is the real dependency.
 - Check where state lives (Durable Objects, Postgres, a managed platform) and whether that fits your hosting.
 - Favor templates that ship tests or an eval hook so agent changes can be checked.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
-## 🖥️ Agent UI and generative UI
-
-Frontends that render agent steps, tool calls, approvals or model-generated components. <sub>6 ranked · [📝 all reviews](reviews/agent-ui.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/agent-ui/)</sub>
-
-**OpenGenerativeUI leads with 44**, ahead of agent-chat-ui (39) and agent-ui (33).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[OpenGenerativeUI](reviews/agent-ui.md#opengenerativeui "Review: strengths, weaknesses, specs")**<br><sub>Chat interface that answers with generated interactive UI, charts, maps and tools</sub><br><sub>TypeScript · 🐳 Docker · MIT · [📖 Docs ↗](https://github.com/CopilotKit/OpenIntelligentUI/blob/main/docs/README.md) · [🌐 Site ↗](https://copilotkit.ai)</sub> | [44](#-how-we-rank "Score 44/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") | 3.5k |
-| 🥈 | **[agent-chat-ui](reviews/agent-ui.md#agent-chat-ui "Review: strengths, weaknesses, specs")**<br><sub>Next.js chat frontend for any LangGraph server with interrupts and artifacts</sub><br><sub>TypeScript · MIT · [▶️ Demo ↗](https://agentchat.vercel.app)</sub> | [39](#-how-we-rank "Score 39/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (31) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 3.2k |
-| 🥉 | **[agent-ui](reviews/agent-ui.md#agno-agent-ui "Review: strengths, weaknesses, specs")**<br><sub>Next.js chat frontend for Agno AgentOS with tool calls and reasoning</sub><br><sub>TypeScript · GitHub template · MIT</sub> | [33](#-how-we-rank "Score 33/100. Adoption: known (38) · Freshness: recent (73) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 1.9k |
-| #&#8288;4 | **[stockbot-on-groq](reviews/agent-ui.md#stockbot-on-groq "Review: strengths, weaknesses, specs")**<br><sub>Groq chatbot answering with TradingView widgets via AI SDK generative UI</sub><br><sub>TypeScript · Apache-2.0 · [▶️ Demo ↗](https://groq-stockbot.vercel.app/)</sub> | [19](#-how-we-rank "Score 19/100. Adoption: niche (28) · Freshness: quiet (18) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 1.5k |
-| #&#8288;5 | **[assistant-ui-stockbroker](reviews/agent-ui.md#assistant-ui-stockbroker "Review: strengths, weaknesses, specs")**<br><sub>assistant-ui frontend and LangGraph.js stockbroker agent with approval steps</sub><br><sub>TypeScript · MIT</sub> | [10](#-how-we-rank "Score 10/100. Adoption: niche (3) · Freshness: slowing (44) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 282 |
-| #&#8288;6 | **[openai-structured-outputs-samples](reviews/agent-ui.md#openai-structured-outputs-samples "Review: strengths, weaknesses, specs")**<br><sub>Three Next.js samples driving UI from schema-constrained OpenAI outputs</sub><br><sub>TypeScript · MIT</sub> | [8](#-how-we-rank "Score 8/100. Adoption: niche (16) · Freshness: quiet (21) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 686 |
-
-<details><summary>💡 How to choose</summary>
-
-- Confirm the UI speaks your backend's protocol (LangGraph SDK, AG-UI, AI SDK streams).
-- Check human-in-the-loop support if your agent needs approvals.
-- Generative UI that renders model HTML needs sandboxing; prefer starters that isolate it.
 
 </details>
 
@@ -289,51 +256,26 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 
 <p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
 
-## 🔌 MCP servers and chat-host apps
+## 💳 SaaS and app starters
 
-Templates for building MCP servers and apps that run inside chat hosts such as ChatGPT. <sub>6 ranked · [📝 all reviews](reviews/mcp-apps.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/mcp-apps/)</sub>
+Product boilerplates with auth, billing and a database wired in and AI built in, plus mobile and browser-extension starters. <sub>18 ranked · [📝 all reviews](reviews/saas-with-ai.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/saas-with-ai/)</sub>
 
-**mcp-typescript-template leads with 63**, ahead of mcp-use (59) and template-mcp-server (46).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[mcp-typescript-template](reviews/mcp-apps.md#mcp-typescript-template "Review: strengths, weaknesses, specs")**<br><sub>TypeScript starter for remote MCP servers over HTTP with Express and Effect</sub><br><sub>TypeScript · GitHub template · 🐳 Docker · MIT</sub> | [63](#-how-we-rank "Score 63/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 58 |
-| 🥈 | **[mcp-use](reviews/mcp-apps.md#mcp-use "Review: strengths, weaknesses, specs")**<br><sub>TypeScript framework for building MCP servers with React Views and an Inspector</sub><br><sub>TypeScript · MIT · [▶️ Demo ↗](https://inspector.mcp-use.com/inspector) · [📖 Docs ↗](https://docs.mcp-use.com/v2/typescript/getting-started/welcome) · [🌐 Site ↗](https://mcp-use.com)</sub> | [59](#-how-we-rank "Score 59/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 11k |
-| 🥉 | **[template-mcp-server](reviews/mcp-apps.md#template-mcp-server "Review: strengths, weaknesses, specs")**<br><sub>Python FastMCP server template with OAuth, OpenShift manifests and CI</sub><br><sub>Python · GitHub template · 🐳 Docker · Apache-2.0</sub> | [46](#-how-we-rank "Score 46/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: patchy (37) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 66 |
-| #&#8288;4 | **[mcp-for-next.js](reviews/mcp-apps.md#mcp-for-next-js "Review: strengths, weaknesses, specs")**<br><sub>Stateless MCP server route for a Next.js App Router app</sub><br><sub>JavaScript · MIT · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)</sub> | [38](#-how-we-rank "Score 38/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (44) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 373 |
-| #&#8288;5 | **[openai-apps-sdk-examples](reviews/mcp-apps.md#openai-apps-sdk-examples "Review: strengths, weaknesses, specs")**<br><sub>Example MCP servers and widgets for ChatGPT apps on the Apps SDK</sub><br><sub>TypeScript · MIT · [📖 Docs ↗](https://developers.openai.com/apps-sdk)</sub> | [25](#-how-we-rank "Score 25/100. Adoption: known (49) · Freshness: recent (65) · Maintenance: weak (1) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 2.4k |
-| #&#8288;6 | **[mcp-forge](reviews/mcp-apps.md#mcp-forge "Review: strengths, weaknesses, specs")**<br><sub>Go MCP server template with OAuth discovery and JWT validation</sub><br><sub>Go · GitHub template · 🐳 Docker · Apache-2.0</sub> | [21](#-how-we-rank "Score 21/100. Adoption: niche (21) · Freshness: slowing (31) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 98 |
-
-<details><summary>💡 How to choose</summary>
-
-- Decide stdio vs remote HTTP early; remote servers need auth (OAuth) from day one.
-- Pick the language of the system you are exposing, not the language of the client.
-- Check the protocol version the template targets; transports have changed more than once.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
-## 💳 SaaS boilerplates
-
-Product boilerplates with auth, billing and a database wired in, with AI features built in or ready to add. <sub>16 ranked · [📝 all reviews](reviews/saas-with-ai.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/saas-with-ai/)</sub>
-
-**ant-design-pro leads with 70**, ahead of next-js-boilerplate (68) and dotnet-starter-kit (66).
+**ant-design-pro leads with 70**, ahead of next-js-boilerplate (68) and dotnet-starter-kit (67).
 
 | Rank | Project | Score | Stars |
 |:-:|---|:-:|--:|
 | 🥇 | **[ant-design-pro](reviews/saas-with-ai.md#ant-design-pro "Review: strengths, weaknesses, specs")**<br><sub>React admin dashboard template built on Ant Design 6 and Umi Max</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://preview.pro.ant.design) · [📖 Docs ↗](https://github.com/ant-design/ant-design-pro/blob/master/docs/cheatsheet.en-US.md)</sub> | [70](#-how-we-rank "Score 70/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (59) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 39k |
-| 🥈 | **[next-js-boilerplate](reviews/saas-with-ai.md#next-js-boilerplate "Review: strengths, weaknesses, specs")**<br><sub>Next.js 16 starter with Clerk auth, Drizzle ORM, Tailwind 4 and tooling</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://demo.nextjs-boilerplate.com) · [🌐 Site ↗](https://nextjs-boilerplate.com/pro-saas-starter-kit)</sub> | [68](#-how-we-rank "Score 68/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 13k |
-| 🥉 | **[dotnet-starter-kit](reviews/saas-with-ai.md#dotnet-starter-kit "Review: strengths, weaknesses, specs")**<br><sub>.NET 10 multi-tenant SaaS starter with two React 19 front-ends</sub><br><sub>C# · GitHub template · 🐳 Docker · MIT · [📖 Docs ↗](https://fullstackhero.net/docs/getting-started/introduction/) · [🌐 Site ↗](https://fullstackhero.net)</sub> | [66](#-how-we-rank "Score 66/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (56) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 6.8k |
-| #&#8288;4 | **[react-starter-kit](reviews/saas-with-ai.md#react-starter-kit "Review: strengths, weaknesses, specs")**<br><sub>Full-stack SaaS monorepo template on React 19, tRPC and Cloudflare Workers</sub><br><sub>TypeScript · GitHub template · MIT · [📖 Docs ↗](https://reactstarter.com/getting-started/) · [🌐 Site ↗](https://reactstarter.com/)</sub> | [60](#-how-we-rank "Score 60/100. Adoption: popular (77) · Freshness: recent (70) · Maintenance: fair (60) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 24k |
+| 🥈 | **[next-js-boilerplate](reviews/saas-with-ai.md#next-js-boilerplate "Review: strengths, weaknesses, specs")**<br><sub>Next.js 16 starter with Clerk auth, Drizzle ORM, Tailwind 4 and tooling</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://demo.nextjs-boilerplate.com) · [🌐 Site ↗](https://nextjs-boilerplate.com/pro-saas-starter-kit)</sub> | [68](#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 13k |
+| 🥉 | **[dotnet-starter-kit](reviews/saas-with-ai.md#dotnet-starter-kit "Review: strengths, weaknesses, specs")**<br><sub>.NET 10 multi-tenant SaaS starter with two React 19 front-ends</sub><br><sub>C# · GitHub template · 🐳 Docker · MIT · [📖 Docs ↗](https://fullstackhero.net/docs/getting-started/introduction/) · [🌐 Site ↗](https://fullstackhero.net)</sub> | [67](#-how-we-rank "Score 67/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (56) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 6.8k |
+| #&#8288;4 | **[react-starter-kit](reviews/saas-with-ai.md#react-starter-kit "Review: strengths, weaknesses, specs")**<br><sub>Full-stack SaaS monorepo template on React 19, tRPC and Cloudflare Workers</sub><br><sub>TypeScript · GitHub template · MIT · [📖 Docs ↗](https://reactstarter.com/getting-started/) · [🌐 Site ↗](https://reactstarter.com/)</sub> | [60](#-how-we-rank "Score 60/100. Adoption: popular (78) · Freshness: recent (70) · Maintenance: fair (60) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 24k |
 | #&#8288;5 | **[hackathon-starter](reviews/saas-with-ai.md#hackathon-starter "Review: strengths, weaknesses, specs")**<br><sub>Node.js and Express boilerplate with auth, API examples and AI samples</sub><br><sub>JavaScript · MIT · 🔐 safe defaults · [▶️ Demo ↗](https://hackathon-starter-1.ydftech.com)</sub> | [55](#-how-we-rank "Score 55/100. Adoption: widely used (89) · Freshness: active (94) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 35k |
-| #&#8288;6 | **[velobase-harness](reviews/saas-with-ai.md#velobase-harness "Review: strengths, weaknesses, specs")**<br><sub>Next.js AI SaaS base with credits, usage billing, workers and anti-abuse</sub><br><sub>TypeScript · GitHub template · 🐳 Docker · MIT · 🔐 safe defaults</sub> | [55](#-how-we-rank "Score 55/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 613 |
-| #&#8288;7 | **[gin-vue-admin](reviews/saas-with-ai.md#gin-vue-admin "Review: strengths, weaknesses, specs")**<br><sub>Go and Vue 3 admin platform with RBAC and a CRUD code generator</sub><br><sub>Go · 🐳 Docker · Apache-2.0 · [▶️ Demo ↗](http://demo.gin-vue-admin.com) · [📖 Docs ↗](https://www.gin-vue-admin.com) · [🌐 Site ↗](https://www.gin-vue-admin.com)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 25k |
-| #&#8288;8 | **[open-saas](reviews/saas-with-ai.md#open-saas "Review: strengths, weaknesses, specs")**<br><sub>Wasp SaaS template with auth, three payment providers, OpenAI demo app</sub><br><sub>MDX · MIT · [▶️ Demo ↗](https://opensaas.sh) · [📖 Docs ↗](https://docs.opensaas.sh)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 16k |
-| #&#8288;9 | **[saas-boilerplate](reviews/saas-with-ai.md#saas-boilerplate "Review: strengths, weaknesses, specs")**<br><sub>Next.js SaaS starter with Clerk auth, teams, roles and Drizzle ORM</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://react-saas.com) · [🌐 Site ↗](https://react-saas.com)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: known (46) · Freshness: active (100) · Maintenance: patchy (47) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 7.5k |
-| #&#8288;10 | **[next-forge](reviews/saas-with-ai.md#next-forge "Review: strengths, weaknesses, specs")**<br><sub>Turborepo monorepo template for SaaS apps built on Next.js</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://demo.next-forge.com) · [📖 Docs ↗](https://www.next-forge.com/docs) · [🌐 Site ↗](https://www.next-forge.com)</sub> | [38](#-how-we-rank "Score 38/100. Adoption: popular (50) · Freshness: active (84) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 7.7k |
+| #&#8288;6 | **[velobase-harness](reviews/saas-with-ai.md#velobase-harness "Review: strengths, weaknesses, specs")**<br><sub>Next.js AI SaaS base with credits, usage billing, workers and anti-abuse</sub><br><sub>TypeScript · GitHub template · 🐳 Docker · MIT · 🔐 safe defaults</sub> | [55](#-how-we-rank "Score 55/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 613 |
+| #&#8288;7 | **[open-saas](reviews/saas-with-ai.md#open-saas "Review: strengths, weaknesses, specs")**<br><sub>Wasp SaaS template with auth, three payment providers, OpenAI demo app</sub><br><sub>MDX · MIT · [▶️ Demo ↗](https://opensaas.sh) · [📖 Docs ↗](https://docs.opensaas.sh)</sub> | [52](#-how-we-rank "Score 52/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 16k |
+| #&#8288;8 | **[gin-vue-admin](reviews/saas-with-ai.md#gin-vue-admin "Review: strengths, weaknesses, specs")**<br><sub>Go and Vue 3 admin platform with RBAC and a CRUD code generator</sub><br><sub>Go · 🐳 Docker · Apache-2.0 · [▶️ Demo ↗](http://demo.gin-vue-admin.com) · [📖 Docs ↗](https://www.gin-vue-admin.com) · [🌐 Site ↗](https://www.gin-vue-admin.com)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 25k |
+| #&#8288;9 | **[saas-boilerplate](reviews/saas-with-ai.md#saas-boilerplate "Review: strengths, weaknesses, specs")**<br><sub>Next.js SaaS starter with Clerk auth, teams, roles and Drizzle ORM</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://react-saas.com) · [🌐 Site ↗](https://react-saas.com)</sub> | [51](#-how-we-rank "Score 51/100. Adoption: known (49) · Freshness: active (100) · Maintenance: patchy (47) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 7.5k |
+| #&#8288;10 | **[next-forge](reviews/saas-with-ai.md#next-forge "Review: strengths, weaknesses, specs")**<br><sub>Turborepo monorepo template for SaaS apps built on Next.js</sub><br><sub>TypeScript · GitHub template · MIT · [▶️ Demo ↗](https://demo.next-forge.com) · [📖 Docs ↗](https://www.next-forge.com/docs) · [🌐 Site ↗](https://www.next-forge.com)</sub> | [39](#-how-we-rank "Score 39/100. Adoption: popular (53) · Freshness: active (84) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 7.7k |
 
-<sub>Top 10 of 16. [See all 16, ranked, with reviews →](reviews/saas-with-ai.md)</sub>
+<sub>Top 10 of 18. [See all 18, ranked, with reviews →](reviews/saas-with-ai.md)</sub>
 
 <details><summary>💡 How to choose</summary>
 
@@ -399,21 +341,26 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 
 <p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
 
-## ☁️ Cloud reference architectures
+## ☁️ Backend and cloud templates
 
-Vendor reference apps and infrastructure-as-code for running AI apps on Azure or Google Cloud. <sub>7 ranked · [📝 all reviews](reviews/cloud-reference.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/cloud-reference/)</sub>
+Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API, and vendor reference apps for Azure or Google Cloud. <sub>14 ranked · [📝 all reviews](reviews/cloud-reference.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/cloud-reference/)</sub>
 
-**agent-landing-zone leads with 64**, ahead of fullstack-solution-template-for-agentcore (44) and azurechat (37).
+**agent-service-toolkit leads with 66**, ahead of agent-landing-zone (62) and full-stack-ai-agent-template (57).
 
 | Rank | Project | Score | Stars |
 |:-:|---|:-:|--:|
-| 🥇 | **[agent-landing-zone](reviews/cloud-reference.md#azure-agent-landing-zone "Review: strengths, weaknesses, specs")**<br><sub>Azure infrastructure templates for deploying enterprise agent apps on Microsoft Foundry</sub><br><sub>Python · GitHub template · MIT · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/)</sub> | [64](#-how-we-rank "Score 64/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 1.2k |
-| 🥈 | **[fullstack-solution-template-for-agentcore](reviews/cloud-reference.md#fullstack-solution-template-for-agentcore "Review: strengths, weaknesses, specs")**<br><sub>React frontend and AgentCore backend starter, deployed to AWS with CDK or Terraform</sub><br><sub>Python · 🐳 Docker · Apache-2.0</sub> | [44](#-how-we-rank "Score 44/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 599 |
-| 🥉 | **[azurechat](reviews/cloud-reference.md#azurechat "Review: strengths, weaknesses, specs")**<br><sub>Private enterprise chat on Azure OpenAI with document chat and personas</sub><br><sub>TypeScript · MIT</sub> | [37](#-how-we-rank "Score 37/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (16) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 1.4k |
-| #&#8288;4 | **[openai-chat-app-quickstart](reviews/cloud-reference.md#openai-chat-app-quickstart "Review: strengths, weaknesses, specs")**<br><sub>Minimal Quart chat app on Azure OpenAI with managed identity</sub><br><sub>Bicep · GitHub template · 🐳 Docker · MIT · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app?tabs=github-codespaces)</sub> | [37](#-how-we-rank "Score 37/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (10) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 254 |
-| #&#8288;5 | **[serverless-rag-demo](reviews/cloud-reference.md#serverless-rag-demo "Review: strengths, weaknesses, specs")**<br><sub>AWS CDK sample for document RAG chat and multi-agent workflows on Bedrock</sub><br><sub>Python · 🐳 Docker · MIT-0</sub> | [32](#-how-we-rank "Score 32/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: weak (26) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 223 |
-| #&#8288;6 | **[get-started-with-ai-agents](reviews/cloud-reference.md#get-started-with-ai-agents "Review: strengths, weaknesses, specs")**<br><sub>Azure azd template for a Foundry agent chat app with file search</sub><br><sub>Bicep · 🐳 Docker · MIT</sub> | [30](#-how-we-rank "Score 30/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: weak (13) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 376 |
-| #&#8288;7 | **[openai-chat-vision-quickstart](reviews/cloud-reference.md#openai-chat-vision-quickstart "Review: strengths, weaknesses, specs")**<br><sub>Quart chat app that answers questions about uploaded images via Azure OpenAI</sub><br><sub>Jupyter Notebook · 🐳 Docker · MIT · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-app-chat-vision?tabs=github-codespaces)</sub> | [28](#-how-we-rank "Score 28/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: weak (20) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 224 |
+| 🥇 | **[agent-service-toolkit](reviews/cloud-reference.md#agent-service-toolkit "Review: strengths, weaknesses, specs")**<br><sub>LangGraph agents served by FastAPI with a Streamlit chat client</sub><br><sub>Python · GitHub template · 🐳 Docker · MIT · [▶️ Demo ↗](https://agent-service-toolkit.streamlit.app/)</sub> | [66](#-how-we-rank "Score 66/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (63) · Easy to run: easy (50) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") | 4.5k |
+| 🥈 | **[agent-landing-zone](reviews/cloud-reference.md#azure-agent-landing-zone "Review: strengths, weaknesses, specs")**<br><sub>Azure infrastructure templates for deploying enterprise agent apps on Microsoft Foundry</sub><br><sub>Python · GitHub template · MIT · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/)</sub> | [62](#-how-we-rank "Score 62/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 1.2k |
+| 🥉 | **[full-stack-ai-agent-template](reviews/cloud-reference.md#full-stack-ai-agent-template "Review: strengths, weaknesses, specs")**<br><sub>Project generator for FastAPI and Next.js apps with agents and RAG</sub><br><sub>Python · MIT · [📖 Docs ↗](https://vstorm-co.github.io/full-stack-ai-agent-template/)</sub> | [57](#-how-we-rank "Score 57/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 2.0k |
+| #&#8288;4 | **[fastapi-langgraph-agent-production-ready-template](reviews/cloud-reference.md#fastapi-langgraph-agent-production-ready-template "Review: strengths, weaknesses, specs")**<br><sub>FastAPI service for a LangGraph agent with auth, memory and tracing</sub><br><sub>Python · 🐳 Docker · MIT</sub> | [55](#-how-we-rank "Score 55/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: hard (17) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 2.7k |
+| #&#8288;5 | **[monid](reviews/cloud-reference.md#monid "Review: strengths, weaknesses, specs")**<br><sub>Declarative connector framework behind a metered catalog of agent tool APIs</sub><br><sub>TypeScript · MIT · [📖 Docs ↗](https://docs.monid.ai) · [🌐 Site ↗](https://monid.ai)</sub> | [50](#-how-we-rank "Score 50/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 5.2k |
+| #&#8288;6 | **[generative-ai-project-template](reviews/cloud-reference.md#generative-ai-project-template "Review: strengths, weaknesses, specs")**<br><sub>uv workspace with FastAPI, NiceGUI, LiteLLM and Promptfoo evals</sub><br><sub>Python · GitHub template · 🐳 Docker · MIT</sub> | [50](#-how-we-rank "Score 50/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 118 |
+| #&#8288;7 | **[fullstack-solution-template-for-agentcore](reviews/cloud-reference.md#fullstack-solution-template-for-agentcore "Review: strengths, weaknesses, specs")**<br><sub>React frontend and AgentCore backend starter, deployed to AWS with CDK or Terraform</sub><br><sub>Python · 🐳 Docker · Apache-2.0</sub> | [43](#-how-we-rank "Score 43/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 599 |
+| #&#8288;8 | **[openai-chat-app-quickstart](reviews/cloud-reference.md#openai-chat-app-quickstart "Review: strengths, weaknesses, specs")**<br><sub>Minimal Quart chat app on Azure OpenAI with managed identity</sub><br><sub>Bicep · GitHub template · 🐳 Docker · MIT · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app?tabs=github-codespaces)</sub> | [38](#-how-we-rank "Score 38/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (10) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 254 |
+| #&#8288;9 | **[serverless-rag-demo](reviews/cloud-reference.md#serverless-rag-demo "Review: strengths, weaknesses, specs")**<br><sub>AWS CDK sample for document RAG chat and multi-agent workflows on Bedrock</sub><br><sub>Python · 🐳 Docker · MIT-0</sub> | [35](#-how-we-rank "Score 35/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (26) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 223 |
+| #&#8288;10 | **[azurechat](reviews/cloud-reference.md#azurechat "Review: strengths, weaknesses, specs")**<br><sub>Private enterprise chat on Azure OpenAI with document chat and personas</sub><br><sub>TypeScript · MIT</sub> | [34](#-how-we-rank "Score 34/100. Adoption: known (42) · Freshness: active (100) · Maintenance: weak (16) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 1.4k |
+
+<sub>Top 10 of 14. [See all 14, ranked, with reviews →](reviews/cloud-reference.md)</sub>
 
 <details><summary>💡 How to choose</summary>
 
@@ -425,58 +372,11 @@ Vendor reference apps and infrastructure-as-code for running AI apps on Azure or
 
 <p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
 
-## ⚙️ AI API backends
-
-Backend service templates (FastAPI, Express, Hono) that expose models or agents over an API. <sub>7 ranked · [📝 all reviews](reviews/api-backends.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/api-backends/)</sub>
-
-**agent-service-toolkit leads with 65**, ahead of full-stack-ai-agent-template (54) and fastapi-langgraph-agent-production-ready-template (53).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[agent-service-toolkit](reviews/api-backends.md#agent-service-toolkit "Review: strengths, weaknesses, specs")**<br><sub>LangGraph agents served by FastAPI with a Streamlit chat client</sub><br><sub>Python · GitHub template · 🐳 Docker · MIT · [▶️ Demo ↗](https://agent-service-toolkit.streamlit.app/)</sub> | [65](#-how-we-rank "Score 65/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (63) · Easy to run: easy (50) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") | 4.5k |
-| 🥈 | **[full-stack-ai-agent-template](reviews/api-backends.md#full-stack-ai-agent-template "Review: strengths, weaknesses, specs")**<br><sub>Project generator for FastAPI and Next.js apps with agents and RAG</sub><br><sub>Python · MIT · [📖 Docs ↗](https://vstorm-co.github.io/full-stack-ai-agent-template/)</sub> | [54](#-how-we-rank "Score 54/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 2.0k |
-| 🥉 | **[fastapi-langgraph-agent-production-ready-template](reviews/api-backends.md#fastapi-langgraph-agent-production-ready-template "Review: strengths, weaknesses, specs")**<br><sub>FastAPI service for a LangGraph agent with auth, memory and tracing</sub><br><sub>Python · 🐳 Docker · MIT</sub> | [53](#-how-we-rank "Score 53/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: hard (17) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 2.7k |
-| #&#8288;4 | **[generative-ai-project-template](reviews/api-backends.md#generative-ai-project-template "Review: strengths, weaknesses, specs")**<br><sub>uv workspace with FastAPI, NiceGUI, LiteLLM and Promptfoo evals</sub><br><sub>Python · GitHub template · 🐳 Docker · MIT</sub> | [51](#-how-we-rank "Score 51/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 118 |
-| #&#8288;5 | **[monid](reviews/api-backends.md#monid "Review: strengths, weaknesses, specs")**<br><sub>Declarative connector framework behind a metered catalog of agent tool APIs</sub><br><sub>TypeScript · MIT · [📖 Docs ↗](https://docs.monid.ai) · [🌐 Site ↗](https://monid.ai)</sub> | [50](#-how-we-rank "Score 50/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 5.2k |
-| #&#8288;6 | **[nodejs-api-boilerplate](reviews/api-backends.md#nodejs-api-boilerplate "Review: strengths, weaknesses, specs")**<br><sub>Express TypeScript CRUD API template with an LLM module generator</sub><br><sub>TypeScript · GitHub template · 🐳 Docker · MIT</sub> | [27](#-how-we-rank "Score 27/100. Adoption: niche (18) · Freshness: recent (64) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 164 |
-| #&#8288;7 | **[genai-api](reviews/api-backends.md#genai-api "Review: strengths, weaknesses, specs")**<br><sub>Hono API on Cloudflare Workers proxying Gemini with bearer auth</sub><br><sub>TypeScript · GitHub template · Apache-2.0</sub> | [25](#-how-we-rank "Score 25/100. Adoption: niche (1) · Freshness: recent (61) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 111 |
-
-<details><summary>💡 How to choose</summary>
-
-- Check auth, rate limiting and tracing; these are what separate a template from a demo.
-- Prefer templates with Docker and tests if the service will run in production.
-- Make sure the model layer is swappable (LiteLLM, provider adapters) if you expect to change vendors.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
-## 📱 Mobile and browser extensions
-
-Native, cross-platform mobile and browser-extension starters with AI features built in. <sub>2 ranked · [📝 all reviews](reviews/mobile-extensions.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/mobile-extensions/)</sub>
-
-**react-native-ai leads with 43**, ahead of extro (34).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[react-native-ai](reviews/mobile-extensions.md#react-native-ai "Review: strengths, weaknesses, specs")**<br><sub>Expo chat and image app with an Express proxy for multiple LLMs</sub><br><sub>TypeScript · GitHub template · MIT</sub> | [43](#-how-we-rank "Score 43/100. Adoption: popular (57) · Freshness: active (97) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 1.3k |
-| 🥈 | **[extro](reviews/mobile-extensions.md#extro "Review: strengths, weaknesses, specs")**<br><sub>WXT and React browser extension starter with Supabase auth and AI</sub><br><sub>TypeScript · GitHub template · MIT</sub> | [34](#-how-we-rank "Score 34/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (10) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 413 |
-
-<details><summary>💡 How to choose</summary>
-
-- Keep API keys off the device; prefer starters with a server proxy.
-- Check platform coverage (iOS, Android, web, Chrome/Firefox) against your targets.
-- On-device or browser built-in models change quickly; verify the APIs used are still current.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
 # 🛠️ Code with AI
 
-## 🤖 Coding agents and assistants
+## 🤖 Coding agents and AI editors
 
-Agents and assistants that read your repo, write code and run commands: CLIs, IDE extensions and self-hosted servers. <sub>87 ranked · [📝 all reviews](reviews/coding-agents.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/coding-agents/)</sub>
+Agents, assistants and editors that read your repo, write code and run commands, including tools that turn designs and screenshots into code. <sub>93 ranked · [📝 all reviews](reviews/coding-agents.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/coding-agents/)</sub>
 
 **claw-code leads with 83**, ahead of Archon (82) and Open SWE (80).
 
@@ -488,12 +388,12 @@ Agents and assistants that read your repo, write code and run commands: CLIs, ID
 | #&#8288;4 | **[opencode](reviews/coding-agents.md#opencode "Review: strengths, weaknesses, specs")**<br><sub>Terminal coding agent with build and plan modes, plus a desktop app</sub><br><sub>MIT · [📖 Docs ↗](https://opencode.ai/docs) · [🌐 Site ↗](https://opencode.ai)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 217k |
 | #&#8288;5 | **[pi](reviews/coding-agents.md#pi "Review: strengths, weaknesses, specs")**<br><sub>Terminal coding agent with extensions, skills, and an SDK</sub><br><sub>MIT · [📖 Docs ↗](https://pi.dev/docs/latest) · [🌐 Site ↗](https://pi.dev)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 116k |
 | #&#8288;6 | **[oh-my-openagent](reviews/coding-agents.md#oh-my-openagent "Review: strengths, weaknesses, specs")**<br><sub>Terminal coding agent with multi-model orchestration and git-backed memory</sub><br><sub>custom license · [📖 Docs ↗](https://omo.dev/docs) · [🌐 Site ↗](https://omo.dev)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 70k |
-| #&#8288;7 | **[openinterpreter](reviews/coding-agents.md#openinterpreter "Review: strengths, weaknesses, specs")**<br><sub>Terminal coding agent, a Codex fork tuned for low-cost models</sub><br><sub>Apache-2.0 · [📖 Docs ↗](https://www.openinterpreter.com/docs/terminal) · [🌐 Site ↗](https://www.openinterpreter.com)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 69k |
-| #&#8288;8 | **[goose](reviews/coding-agents.md#goose "Review: strengths, weaknesses, specs")**<br><sub>Rust AI agent with desktop app, CLI and API, extended through MCP</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://goose-docs.ai/docs/category/getting-started)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 55k |
-| #&#8288;9 | **[herdr](reviews/coding-agents.md#herdr "Review: strengths, weaknesses, specs")**<br><sub>Terminal multiplexer that keeps coding agents running and shows which are blocked</sub><br><sub>Apache-2.0 · [📖 Docs ↗](https://herdr.dev/docs/) · [🌐 Site ↗](https://herdr.dev)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 45k |
-| #&#8288;10 | **[codewhale](reviews/coding-agents.md#codewhale "Review: strengths, weaknesses, specs")**<br><sub>Terminal coding agent in Rust that works with hosted or local models</sub><br><sub>🐳 Docker · MIT · GPU optional · [📖 Docs ↗](https://github.com/codewhale-hq/codewhale/blob/main/docs/README.md) · [🌐 Site ↗](https://codewhale.net)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 41k |
+| #&#8288;7 | **[goose](reviews/coding-agents.md#goose "Review: strengths, weaknesses, specs")**<br><sub>Rust AI agent with desktop app, CLI and API, extended through MCP</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://goose-docs.ai/docs/category/getting-started)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 55k |
+| #&#8288;8 | **[herdr](reviews/coding-agents.md#herdr "Review: strengths, weaknesses, specs")**<br><sub>Terminal multiplexer that keeps coding agents running and shows which are blocked</sub><br><sub>Apache-2.0 · [📖 Docs ↗](https://herdr.dev/docs/) · [🌐 Site ↗](https://herdr.dev)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 45k |
+| #&#8288;9 | **[codewhale](reviews/coding-agents.md#codewhale "Review: strengths, weaknesses, specs")**<br><sub>Terminal coding agent in Rust that works with hosted or local models</sub><br><sub>🐳 Docker · MIT · GPU optional · [📖 Docs ↗](https://github.com/codewhale-hq/codewhale/blob/main/docs/README.md) · [🌐 Site ↗](https://codewhale.net)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 41k |
+| #&#8288;10 | **[deepseek-reasonix](reviews/coding-agents.md#deepseek-reasonix "Review: strengths, weaknesses, specs")**<br><sub>Coding agent for terminal, desktop, browser and VS Code, with DeepSeek preset</sub><br><sub>MIT · [📖 Docs ↗](https://github.com/esengine/DeepSeek-Reasonix/blob/studio/docs/GUIDE.md) · [🌐 Site ↗](https://esengine.github.io/DeepSeek-Reasonix/)</sub> | [79](#-how-we-rank "Score 79/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 36k |
 
-<sub>Top 10 of 87. [See all 87, ranked, with reviews →](reviews/coding-agents.md)</sub>
+<sub>Top 10 of 93. [See all 93, ranked, with reviews →](reviews/coding-agents.md)</sub>
 
 <details><summary>💡 How to choose</summary>
 
@@ -505,31 +405,9 @@ Agents and assistants that read your repo, write code and run commands: CLIs, ID
 
 <p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
 
-## ⌨️ Editors and IDEs
+## 🧩 Skills, plugins and prompts
 
-Code editors with AI built in, open source and runnable on your own machine. <sub>3 ranked · [📝 all reviews](reviews/editors.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/editors/)</sub>
-
-**avante.nvim leads with 72**, ahead of terax-ai (68) and bb (62).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[avante.nvim](reviews/editors.md#avante-nvim "Review: strengths, weaknesses, specs")**<br><sub>Neovim plugin that adds Cursor-style AI chat and code edits inside the editor</sub><br><sub>Apache-2.0</sub> | [72](#-how-we-rank "Score 72/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 18k |
-| 🥈 | **[terax-ai](reviews/editors.md#terax-ai "Review: strengths, weaknesses, specs")**<br><sub>Terminal-first desktop workspace with editor, git panel and agentic AI side-panel</sub><br><sub>Apache-2.0 · GPU optional · [📖 Docs ↗](https://terax.app/docs) · [🌐 Site ↗](https://terax.app)</sub> | [68](#-how-we-rank "Score 68/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 9.3k |
-| 🥉 | **[bb](reviews/editors.md#bb "Review: strengths, weaknesses, specs")**<br><sub>Agentic IDE with desktop app, web app, CLI and HTTP API</sub><br><sub>MIT · [📖 Docs ↗](https://github.com/get-bb/bb/blob/main/docs/configuration.md)</sub> | [62](#-how-we-rank "Score 62/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 4.5k |
-
-<details><summary>💡 How to choose</summary>
-
-- Check whether you can bring your own model or must use the editor's service.
-- See how it handles VS Code extensions, if at all.
-- Look at platform support and speed on large repos.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
-## 🧩 Skills, plugins and rules
-
-Add-ons that make coding agents better: skills, plugins, rules, hooks and memory for Claude Code, Codex, Cursor and others. <sub>149 ranked · [📝 all reviews](reviews/skills-plugins.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/skills-plugins/)</sub>
+Add-ons that make coding agents better (skills, plugins, rules, hooks, memory) and prompt collections to learn from or reuse. <sub>150 ranked · [📝 all reviews](reviews/skills-plugins.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/skills-plugins/)</sub>
 
 **caveman leads with 95**, ahead of impeccable (95) and skills (94).
 
@@ -548,7 +426,7 @@ Add-ons that make coding agents better: skills, plugins, rules, hooks and memory
 
 <sub>🧭 Go deeper: [Skillselion ↗](https://skillselion.com) indexes skills and plugin marketplaces by installs.</sub>
 
-<sub>Top 10 of 149. [See all 149, ranked, with reviews →](reviews/skills-plugins.md)</sub>
+<sub>Top 10 of 150. [See all 150, ranked, with reviews →](reviews/skills-plugins.md)</sub>
 
 <details><summary>💡 How to choose</summary>
 
@@ -620,97 +498,34 @@ AI tools that review pull requests, write tests or find bugs, run in your CI or 
 
 <p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
 
-## 🎨 Design to code
-
-Tools that turn screenshots, mockups or visual edits into working front-end code. <sub>3 ranked · [📝 all reviews](reviews/design-to-code.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/design-to-code/)</sub>
-
-**screenshot-to-code leads with 64**, ahead of Onlook (57) and m3e-canvas (46).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[screenshot-to-code](reviews/design-to-code.md#screenshot-to-code "Review: strengths, weaknesses, specs")**<br><sub>Turns screenshots and mockups into Tailwind, React or Vue code</sub><br><sub>🐳 Docker · MIT · [▶️ Demo ↗](https://screenshottocode.com/)</sub> | [64](#-how-we-rank "Score 64/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 80k |
-| 🥈 | **[Onlook](reviews/design-to-code.md#onlook "Review: strengths, weaknesses, specs")**<br><sub>Visual editor that edits Next.js and Tailwind apps with AI</sub><br><sub>🐳 Docker · Apache-2.0 · [▶️ Demo ↗](https://onlook.com) · [📖 Docs ↗](https://docs.onlook.com)</sub> | [57](#-how-we-rank "Score 57/100. Adoption: popular (63) · Freshness: recent (77) · Maintenance: weak (12) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 27k |
-| 🥉 | **[m3e-canvas](reviews/design-to-code.md#m3e-canvas "Review: strengths, weaknesses, specs")**<br><sub>Browser canvas for sketching linked Material 3 screens and exporting an AI prompt</sub><br><sub>MIT · [▶️ Demo ↗](https://lnkiai.github.io/m3e-canvas/)</sub> | [46](#-how-we-rank "Score 46/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: fair (62) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 9.5k |
-
-<details><summary>💡 How to choose</summary>
-
-- Check the output stack (React, Tailwind, Vue) against yours.
-- Try it on your own design, not the demo; layout accuracy varies a lot.
-- See whether you can edit the result visually or only regenerate it.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
-## 📜 Prompts and system prompts
-
-Collections of prompts, system prompts and agent instructions to learn from or reuse. <sub>1 ranked · [📝 all reviews](reviews/prompts.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/prompts/)</sub>
-
-**agents.md leads with 64**.
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[agents.md](reviews/prompts.md#agents-md "Review: strengths, weaknesses, specs")**<br><sub>Open Markdown format for giving coding agents project instructions</sub><br><sub>MIT · [🌐 Site ↗](https://agents.md)</sub> | [64](#-how-we-rank "Score 64/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 25k |
-
-<details><summary>💡 How to choose</summary>
-
-- Check the license before reusing text in a product.
-- Prefer collections that say where each prompt came from and when.
-- Use them to learn patterns; copied prompts rarely fit your app as-is.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
 # 🚀 Ship it
 
-## 🗄️ Backends and databases
+## 🗄️ Backends, databases and hosting
 
-Open-source backends you ship apps on: auth, database, storage and APIs in one, self-hosted or managed. <sub>12 ranked · [📝 all reviews](reviews/backends.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/backends/)</sub>
+Open-source backends you ship apps on (auth, database, storage, APIs) and self-hosted platforms that deploy them from Git or Docker. <sub>14 ranked · [📝 all reviews](reviews/backends.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/backends/)</sub>
 
-**appwrite leads with 94**, ahead of supabase (74) and spacetimedb (73).
+**appwrite leads with 94**, ahead of dokploy (85) and dokku (76).
 
 | Rank | Project | Score | Stars |
 |:-:|---|:-:|--:|
 | 🥇 | **[appwrite](reviews/backends.md#appwrite "Review: strengths, weaknesses, specs")**<br><sub>Self-hostable backend with auth, databases, storage, functions, messaging and hosting</sub><br><sub>🐳 Docker · BSD-3-Clause · [▶️ Demo ↗](https://cloud.appwrite.io) · [📖 Docs ↗](https://appwrite.io/docs) · [🌐 Site ↗](https://appwrite.io)</sub> | [94](#-how-we-rank "Score 94/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: very easy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 58k |
-| 🥈 | **[supabase](reviews/backends.md#supabase "Review: strengths, weaknesses, specs")**<br><sub>Postgres backend with auth, storage, realtime and edge functions</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com)</sub> | [74](#-how-we-rank "Score 74/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 112k |
-| 🥉 | **[spacetimedb](reviews/backends.md#spacetimedb "Review: strengths, weaknesses, specs")**<br><sub>Relational database that runs your app logic as modules and syncs clients live</sub><br><sub>🐳 Docker · custom license · [📖 Docs ↗](https://spacetimedb.com/docs) · [🌐 Site ↗](https://spacetimedb.com)</sub> | [73](#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 25k |
-| #&#8288;4 | **[prest](reviews/backends.md#prest "Review: strengths, weaknesses, specs")**<br><sub>REST and read-only MCP API generated from a PostgreSQL or MySQL database</sub><br><sub>🐳 Docker · MIT · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/)</sub> | [71](#-how-we-rank "Score 71/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (78) · Easy to run: very easy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 4.6k |
-| #&#8288;5 | **[parse-server](reviews/backends.md#parse-server "Review: strengths, weaknesses, specs")**<br><sub>Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org)</sub> | [70](#-how-we-rank "Score 70/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (77) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 21k |
-| #&#8288;6 | **[insforge](reviews/backends.md#insforge "Review: strengths, weaknesses, specs")**<br><sub>Postgres-based backend platform that coding agents operate through an MCP server</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev)</sub> | [69](#-how-we-rank "Score 69/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") | 13k |
-| #&#8288;7 | **[nocobase](reviews/backends.md#nocobase "Review: strengths, weaknesses, specs")**<br><sub>No-code platform for building business systems, with a CLI for coding agents</sub><br><sub>🐳 Docker · custom license · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/)</sub> | [68](#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 25k |
-| #&#8288;8 | **[graphql-engine](reviews/backends.md#graphql-engine "Review: strengths, weaknesses, specs")**<br><sub>GraphQL API layer over Postgres, MongoDB, ClickHouse and SQL Server</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/)</sub> | [67](#-how-we-rank "Score 67/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 32k |
-| #&#8288;9 | **[convex-backend](reviews/backends.md#convex-backend "Review: strengths, weaknesses, specs")**<br><sub>Reactive database with TypeScript server functions and client libraries</sub><br><sub>custom license · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev)</sub> | [60](#-how-we-rank "Score 60/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (71) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 13k |
-| #&#8288;10 | **[payload](reviews/backends.md#payload "Review: strengths, weaknesses, specs")**<br><sub>Next.js-native headless CMS and app framework with a React admin panel</sub><br><sub>MIT · [📖 Docs ↗](https://payloadcms.com/docs/getting-started/what-is-payload) · [🌐 Site ↗](https://payloadcms.com)</sub> | [59](#-how-we-rank "Score 59/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (75) · Easy to run: hard (0) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") | 45k |
+| 🥈 | **[dokploy](reviews/backends.md#dokploy "Review: strengths, weaknesses, specs")**<br><sub>Self-hosted PaaS for deploying apps and databases across Docker Swarm nodes</sub><br><sub>🐳 Docker · custom license · [▶️ Demo ↗](https://app.dokploy.com) · [📖 Docs ↗](https://docs.dokploy.com) · [🌐 Site ↗](https://dokploy.com)</sub> | [85](#-how-we-rank "Score 85/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: very easy (83) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") | 38k |
+| 🥉 | **[dokku](reviews/backends.md#dokku "Review: strengths, weaknesses, specs")**<br><sub>Self-hosted mini-Heroku PaaS that deploys apps with git push</sub><br><sub>🐳 Docker · MIT · [📖 Docs ↗](https://dokku.com/docs/getting-started/installation/) · [🌐 Site ↗](https://dokku.com)</sub> | [76](#-how-we-rank "Score 76/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 32k |
+| #&#8288;4 | **[supabase](reviews/backends.md#supabase "Review: strengths, weaknesses, specs")**<br><sub>Postgres backend with auth, storage, realtime and edge functions</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com)</sub> | [74](#-how-we-rank "Score 74/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 112k |
+| #&#8288;5 | **[spacetimedb](reviews/backends.md#spacetimedb "Review: strengths, weaknesses, specs")**<br><sub>Relational database that runs your app logic as modules and syncs clients live</sub><br><sub>🐳 Docker · custom license · [📖 Docs ↗](https://spacetimedb.com/docs) · [🌐 Site ↗](https://spacetimedb.com)</sub> | [72](#-how-we-rank "Score 72/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 25k |
+| #&#8288;6 | **[prest](reviews/backends.md#prest "Review: strengths, weaknesses, specs")**<br><sub>REST and read-only MCP API generated from a PostgreSQL or MySQL database</sub><br><sub>🐳 Docker · MIT · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/)</sub> | [71](#-how-we-rank "Score 71/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: fair (78) · Easy to run: very easy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 4.6k |
+| #&#8288;7 | **[parse-server](reviews/backends.md#parse-server "Review: strengths, weaknesses, specs")**<br><sub>Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org)</sub> | [69](#-how-we-rank "Score 69/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (77) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 21k |
+| #&#8288;8 | **[insforge](reviews/backends.md#insforge "Review: strengths, weaknesses, specs")**<br><sub>Postgres-based backend platform that coding agents operate through an MCP server</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev)</sub> | [68](#-how-we-rank "Score 68/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") | 13k |
+| #&#8288;9 | **[nocobase](reviews/backends.md#nocobase "Review: strengths, weaknesses, specs")**<br><sub>No-code platform for building business systems, with a CLI for coding agents</sub><br><sub>🐳 Docker · custom license · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/)</sub> | [67](#-how-we-rank "Score 67/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 25k |
+| #&#8288;10 | **[graphql-engine](reviews/backends.md#graphql-engine "Review: strengths, weaknesses, specs")**<br><sub>GraphQL API layer over Postgres, MongoDB, ClickHouse and SQL Server</sub><br><sub>🐳 Docker · Apache-2.0 · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/)</sub> | [66](#-how-we-rank "Score 66/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") | 32k |
 
-<sub>Top 10 of 12. [See all 12, ranked, with reviews →](reviews/backends.md)</sub>
+<sub>Top 10 of 14. [See all 14, ranked, with reviews →](reviews/backends.md)</sub>
 
 <details><summary>💡 How to choose</summary>
 
 - Check what you get self-hosted versus only in the managed cloud.
 - See how it handles auth, row-level security and file storage.
 - Look at the client SDKs for your stack.
-
-</details>
-
-<p align="right"><a href="#%EF%B8%8F-all-categories">↑ categories</a></p>
-
-## 🚀 Deploy and hosting
-
-Self-hosted platforms that deploy and run your apps from Git or Docker on your own servers. <sub>2 ranked · [📝 all reviews](reviews/deploy.md) · [🌐 on archestack.com](https://archestack.com/best-of-vibe-coding/deploy/)</sub>
-
-**dokploy leads with 87**, ahead of dokku (69).
-
-| Rank | Project | Score | Stars |
-|:-:|---|:-:|--:|
-| 🥇 | **[dokploy](reviews/deploy.md#dokploy "Review: strengths, weaknesses, specs")**<br><sub>Self-hosted PaaS for deploying apps and databases across Docker Swarm nodes</sub><br><sub>🐳 Docker · custom license · [▶️ Demo ↗](https://app.dokploy.com) · [📖 Docs ↗](https://docs.dokploy.com) · [🌐 Site ↗](https://dokploy.com)</sub> | [87](#-how-we-rank "Score 87/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: very easy (83) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") | 38k |
-| 🥈 | **[dokku](reviews/deploy.md#dokku "Review: strengths, weaknesses, specs")**<br><sub>Self-hosted mini-Heroku PaaS that deploys apps with git push</sub><br><sub>🐳 Docker · MIT · [📖 Docs ↗](https://dokku.com/docs/getting-started/installation/) · [🌐 Site ↗](https://dokku.com)</sub> | [69](#-how-we-rank "Score 69/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 32k |
-
-<details><summary>💡 How to choose</summary>
-
-- Check what it deploys: Docker images, compose, buildpacks or static sites.
-- See how it handles databases, backups and SSL out of the box.
-- Look at multi-server support if you plan to grow past one box.
 
 </details>
 

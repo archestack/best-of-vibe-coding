@@ -18,24 +18,16 @@ body:
         - chat-apps
         - rag-search
         - agents
-        - agent-ui
         - voice-realtime
-        - mcp-apps
         - saas-with-ai
         - app-builders
         - editors-workflows
         - cloud-reference
-        - api-backends
-        - mobile-extensions
         - coding-agents
-        - editors
         - skills-plugins
         - dev-mcp
         - code-review
-        - design-to-code
-        - prompts
         - backends
-        - deploy
         - not sure
     validations:
       required: true

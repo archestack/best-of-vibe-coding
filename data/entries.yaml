@@ -143,7 +143,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 44
+    score: 43
   - id: openai-realtime-solar-system
     repo: openai/openai-realtime-solar-system
     name: openai-realtime-solar-system
@@ -152,7 +152,7 @@ entries:
     summary: A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC and lets you control a Spline 3D solar system by voice. The model calls functions to focus planets, show moons, draw bar or pie charts, fetch the ISS position and switch to an orbit view. Tools, instructions and voice are defined in lib/config.ts, and the scene URL in components/scene.tsx.
     categories:
       - voice-realtime
-      - agent-ui
+      - agents
     strengths:
       - Working example of Realtime API function calls driving UI and Spline animations
       - "Small codebase: tools and prompt in lib/config.ts, scene hooks in components/scene.tsx"
@@ -429,7 +429,7 @@ entries:
       has_compose: true
       is_template: false
       language: Jupyter Notebook
-    score: 28
+    score: 30
   - id: serverless-rag-demo
     repo: aws-samples/serverless-rag-demo
     name: serverless-rag-demo
@@ -482,7 +482,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 35
   - id: superpowers
     repo: obra/superpowers
     name: superpowers
@@ -914,7 +914,7 @@ entries:
     summary: An agent skill that runs a local Python search script (BM25 ranking, standard library only) over CSV datasets of UI styles, color palettes, font pairings, landing patterns and UX guidelines. Given a product description, it applies 192 industry reasoning rules and outputs a design system with pattern, style, colors, typography, anti-patterns and a checklist. An npm CLI installs it for Claude Code, Cursor, Windsurf, Codex CLI, Gemini CLI and about 20 other assistants.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - Scripts use only the Python standard library and make no network calls
       - One CLI (uipro init --ai) installs to over 20 assistants, per project or globally
@@ -1287,7 +1287,7 @@ entries:
     summary: A set of Agent Skills for Codex, Cursor and Claude Code that direct an agent to design public-facing pages. The default skill picks one of three art directions dealt from 20, finds credited open-license photos, builds the page, then checks it in a real browser at three widths and revises up to three rounds. Other skills cover redesigns, image-to-code and fixed visual styles.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - "Framework-agnostic: rules cover design, so React, Vue, Svelte and plain HTML all work"
       - Needs no API keys; scripts run on Node 22+ with Chrome, Edge or Chromium
@@ -1334,7 +1334,6 @@ entries:
     summary: Orca is a desktop app for macOS, Windows and Linux that runs CLI coding agents such as Claude Code, Codex and OpenCode side by side, each in its own git worktree. It bundles terminal splits, a VS Code-style editor, an embedded browser, GitHub and Linear task views, diff annotation and SSH remote worktrees. A mobile companion app and an `orca` CLI let you monitor and script agents.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Works with any agent that runs in a terminal; dozens are listed
       - Each task gets an isolated git worktree, so parallel runs do not collide
@@ -1517,7 +1516,7 @@ entries:
     summary: Impeccable installs a single /impeccable skill into AI coding tools, with 24 commands such as audit, critique, polish, typeset and live browser variant iteration. It writes PRODUCT.md and DESIGN.md for project context, and ships 59 deterministic detector rules that run in a CLI and browser extension without an LLM or API key. Hooks flag common AI design tells on UI file edits in supported harnesses.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - "Supports many harnesses: Claude Code, Cursor, Codex, Gemini CLI, Copilot, Grok Build, Hermes"
       - 59 deterministic detector rules run without an LLM or API key
@@ -1699,7 +1698,6 @@ entries:
     summary: Cline is a coding agent that reads a project, edits files across it, and runs shell commands while watching the output. It ships as a VS Code extension, JetBrains plugin, CLI with headless mode, macOS/Windows desktop app, and a Node.js SDK. Edits and commands need approval by default, with Plan and Act modes, checkpoints, and optional auto-approve.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Same agent engine across VS Code, JetBrains, CLI, desktop app and SDK
       - Works with Anthropic, OpenAI, Gemini, Bedrock, Vertex, OpenRouter, Ollama and LM Studio
@@ -1839,7 +1837,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 79
+    score: 78
   - id: claude-code-best-practice
     repo: shanraisshan/claude-code-best-practice
     name: claude-code-best-practice
@@ -1891,7 +1889,6 @@ entries:
     summary: Warp is a Rust client that started as a terminal and now includes a built-in coding agent. It can also run third-party CLI agents such as Claude Code, Codex and Gemini CLI. The client source is public, and the repository is itself maintained partly by automated agents (Warp Factories).
     categories:
       - coding-agents
-      - editors
     strengths:
       - Runs its own agent or external CLI agents (Claude Code, Codex, Gemini CLI)
       - Client source is public; build with ./script/bootstrap and ./script/run
@@ -2203,7 +2200,7 @@ entries:
     summary: An Agent Skill that has a coding agent write one self-contained HTML file with inline SVG for a requested diagram. It covers 45 diagram types, each in minimal light, minimal dark and full-editorial variants, and can pull a site's palette and fonts so later diagrams match. It also imports Mermaid, draw.io and Excalidraw files and exports to SVG or PNG.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - Output is one HTML file with inline SVG; no build step, JavaScript or external images
       - 45 diagram types, each in light, dark and editorial variants
@@ -2377,7 +2374,6 @@ entries:
     summary: herdr is a Rust terminal multiplexer for running several coding agents such as Claude Code, Codex, Cursor and opencode. A background server keeps panes alive when the client detaches or SSH drops, and each pane is marked working, blocked or idle. Agents can also drive it through a CLI and socket API, and saved SSH machines appear in the same window.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Panes keep running in a background server after detach or SSH disconnect
       - Per-pane working, blocked or idle status across local and saved SSH machines
@@ -2658,7 +2654,7 @@ entries:
     tagline: Self-hosted PaaS for deploying apps and databases across Docker Swarm nodes
     summary: Dokploy is a self-hostable platform-as-a-service that deploys applications, Docker Compose stacks and databases (MySQL, PostgreSQL, MongoDB, MariaDB, libsql, Redis) to your own servers. It uses Traefik for routing, Docker Swarm for multi-node scaling, and offers one-click open-source templates, database backups to external storage, and a CLI and API. It has no AI-specific features, so it fits as deployment infrastructure for apps built elsewhere.
     categories:
-      - deploy
+      - backends
     strengths:
       - Installs on a VPS with a single curl script
       - Native Docker Compose and Docker Swarm multi-node support
@@ -2693,7 +2689,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 87
+    score: 85
   - id: claude-plugins-official
     repo: anthropics/claude-plugins-official
     name: claude-plugins-official
@@ -2791,7 +2787,6 @@ entries:
     summary: Continue is a coding agent distributed as an npm CLI, a VS Code extension (Marketplace and OpenVSX) and a JetBrains plugin. The repository is read-only and no longer actively maintained; the final 2.0.0 release removed anonymous telemetry and authentication. The README does not list supported models or providers and points to docs.continue.dev for configuration.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Ships as CLI, VS Code extension and JetBrains plugin from one codebase
       - Final 2.0.0 release removed anonymous telemetry and authentication
@@ -2832,7 +2827,6 @@ entries:
     summary: "Reasonix is a Go coding agent that reads a project folder, edits files and runs commands and tests, showing each step. Models are set in reasonix.toml: a DeepSeek preset is built in and any OpenAI-compatible endpoint is a config entry. It ships as the Studio desktop app, a CLI/TUI, a local web UI (`reasonix web`), and a VS Code extension or ACP connection for other editors."
     categories:
       - coding-agents
-      - editors
     strengths:
       - Any OpenAI-compatible provider is a config entry; DeepSeek ships as a preset
       - Permission levels and plan mode; forbid rules always apply
@@ -3074,7 +3068,7 @@ entries:
     summary: Official GitHub MCP server, written in Go, that lets MCP hosts read code, manage issues and pull requests, inspect Actions runs and review security alerts. It runs either as a GitHub-hosted remote endpoint (api.githubcopilot.com/mcp/) or locally over stdio via the ghcr.io Docker image or a binary built with go build. Authentication is OAuth or a personal access token.
     categories:
       - dev-mcp
-      - mcp-apps
+      - agents
     strengths:
       - Hosted remote endpoint needs no local install; local Docker image and Go build also available
       - Supports OAuth login or PAT; PAT takes precedence when set
@@ -3160,7 +3154,7 @@ entries:
     tagline: Self-hosted mini-Heroku PaaS that deploys apps with git push
     summary: Dokku is a small Platform-as-a-Service that runs on a single Ubuntu or Debian VM and builds and runs applications in Docker containers. Applications are deployed over SSH, and the server is managed through the `dokku` command line, including domains and SSH keys. The README describes it as a Docker-powered mini-Heroku and does not mention any AI features.
     categories:
-      - deploy
+      - backends
     strengths:
       - Installs on a single VM with one bootstrap script
       - Supports Ubuntu 22.04/24.04/26.04 and Debian 11+ on amd64 and arm64
@@ -3194,7 +3188,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 69
+    score: 76
   - id: graphql-engine
     repo: hasura/graphql-engine
     name: graphql-engine
@@ -3203,7 +3197,7 @@ entries:
     summary: Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, ClickHouse and MS SQL Server through a single GraphQL endpoint. Custom business logic can be added with TypeScript, Python and Go connector SDKs. The repo is a mono-repo holding the V3 engine (which powers Hasura DDN) and the stable V2 engine, with all data connectors open source.
     categories:
       - backends
-      - api-backends
+      - cloud-reference
     strengths:
       - Supports PostgreSQL, MongoDB, ClickHouse and MS SQL Server as data sources
       - Connector SDKs in TypeScript, Python and Go for custom logic
@@ -3239,7 +3233,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 67
+    score: 66
   - id: vercel-labs-skills
     repo: vercel-labs/skills
     name: skills
@@ -3431,7 +3425,7 @@ entries:
     summary: "Hallmark is a skill for Claude Code, Cursor and Codex that picks a page macrostructure for a brief, applies one of twenty-one themes, and runs fifty-seven slop-test gates plus a self-critique before returning output. It has four verbs: build (default), audit, redesign and study, which extracts design traits from a screenshot or URL. Output is self-contained HTML and CSS."
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - Works across Claude Code, Cursor and Codex from one SKILL.md plus references
       - Audit verb scores existing code and returns a punch list without editing
@@ -3765,7 +3759,6 @@ entries:
     summary: DESIGN.md defines a file format with YAML front matter for design tokens (colors, typography, rounded, spacing, components) and markdown prose for rationale. The TypeScript CLI, run with npx, lints files for broken token references and WCAG contrast, diffs two versions, and exports tokens to Tailwind v3/v4 and W3C DTCG. The format is at version alpha.
     categories:
       - skills-plugins
-      - prompts
     strengths:
       - Lint output is structured JSON with a non-zero exit code on errors, usable in CI
       - Eleven lint rules cover broken refs, WCAG AA contrast, section order and typos
@@ -4582,7 +4575,7 @@ entries:
     tagline: Open Markdown format for giving coding agents project instructions
     summary: AGENTS.md is a specification for a plain Markdown file kept in a repo that holds dev environment, testing and PR instructions for AI coding agents. The repository also contains the Next.js site served at agents.md, which explains the format and lists examples. It has no runtime or agent code.
     categories:
-      - prompts
+      - skills-plugins
     strengths:
       - Plain Markdown, no tooling, schema or dependencies required
       - One predictable file location for agent instructions, separate from the human README
@@ -4615,7 +4608,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 59
   - id: happy
     repo: slopus/happy
     name: happy
@@ -4924,7 +4917,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 70
+    score: 69
   - id: agency-agents-zh
     repo: jnmetacode/agency-agents-zh
     name: agency-agents-zh
@@ -4933,7 +4926,6 @@ entries:
     summary: "Markdown agent definitions across 20 departments (executive, engineering, design, marketing, and others), each with a persona, workflow and deliverables. It is a Chinese community edition of msitarzewski/agency-agents: 213 translated roles plus China-market originals such as Xiaohongshu, Douyin, WeChat, Feishu and DingTalk. Shell scripts convert and install the files into 20 tools, including Claude Code, Cursor, Copilot, Codex CLI and Gemini CLI."
     categories:
       - skills-plugins
-      - prompts
     strengths:
       - Install script targets 20 tools, including Claude Code, Cursor, Copilot, Codex CLI, Aider and Gemini CLI
       - Roles define persona, workflow and deliverables, not one-line prompts
@@ -5163,7 +5155,7 @@ entries:
     summary: APIJSON is a Java library and JSON-based protocol. Clients send a JSON describing the tables and fields they want, and the server maps it to SQL and returns JSON in the same shape, so backend developers write no per-endpoint CRUD code. It covers reads, writes, fuzzy search and remote function calls, and ships with API docs and test tooling (APIAuto).
     categories:
       - backends
-      - api-backends
+      - cloud-reference
     strengths:
       - One JSON request can query several related tables, replacing multiple endpoint calls
       - "Many data sources listed: MySQL, PostgreSQL, Oracle, SQL Server, ClickHouse, Redis, Kafka, Elasticsearch"
@@ -5197,7 +5189,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 52
+    score: 51
   - id: gastown
     repo: gastownhall/gastown
     name: gastown
@@ -5313,7 +5305,6 @@ entries:
     tagline: Neovim plugin that adds Cursor-style AI chat and code edits inside the editor
     summary: avante.nvim is a Lua Neovim plugin with a Rust-built component. It opens a chat sidebar that answers questions about the current file and applies suggested changes to source files. It supports an agentic mode with tools, ACP agents such as codex and gemini, and many model providers. A per-project avante.md file supplies instructions.
     categories:
-      - editors
       - coding-agents
     strengths:
       - Runs inside Neovim; suggested changes can be applied to files with one command
@@ -5363,7 +5354,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 72
+    score: 68
   - id: img2threejs
     repo: img2threejs/img2threejs
     name: img2threejs
@@ -5372,7 +5363,7 @@ entries:
     summary: img2threejs is a skill for Claude Code, Codex and OpenCode that takes one reference image and generates a TypeScript THREE.Group factory recreating the object from primitives, procedural shaders and generated geometry. It runs a staged pipeline from blockout to optimization, with vision review and Python gate scripts, and outputs pivots, sockets and colliders for animation. A CLI installs it into detected agent hosts.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - "Output is code only: no mesh files or downloaded assets, so models are small and editable"
       - Generated models include pivots, sockets and colliders for animation
@@ -5422,7 +5413,7 @@ entries:
     summary: opencodex is a local proxy that translates Codex's Responses API into the protocol a chosen provider speaks, covering streaming, tool calls, reasoning tokens and images. It also fronts Claude Code, Claude Desktop and Grok Build, with 40+ built-in providers or any OpenAI-compatible endpoint. A web dashboard on port 10100 configures providers, combos with failover, and a ChatGPT account pool with quota-aware routing.
     categories:
       - skills-plugins
-      - api-backends
+      - cloud-reference
     strengths:
       - 40+ built-in providers plus any OpenAI-compatible endpoint, including Ollama for local models
       - Combos give one virtual model id with failover or weighted round-robin across providers
@@ -5922,7 +5913,7 @@ entries:
       has_compose: true
       is_template: false
       language: Rust
-    score: 73
+    score: 72
   - id: gin-vue-admin
     repo: flipped-aurora/gin-vue-admin
     name: gin-vue-admin
@@ -5975,7 +5966,7 @@ entries:
     summary: A skill for Claude Code, Cursor, Codex and other skills-compatible agents, installed with `npx skills add alchaincyf/huashu-design`. It produces single-file HTML prototypes, HTML slide decks exportable to editable PPTX, timeline animations exported as MP4/GIF, infographics and 5-dimension design reviews. It adds a brand-asset protocol and a library of 60 HTML-native styles.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - "Works across skills-compatible agents: Claude Code, Cursor, Codex, OpenClaw, Hermes"
       - Exports HTML decks to PPTX with real editable text boxes via html2pptx.js
@@ -6431,7 +6422,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 20
+    score: 21
   - id: figma-context-mcp
     repo: glips/figma-context-mcp
     name: figma-context-mcp
@@ -6440,7 +6431,7 @@ entries:
     summary: Framelink MCP for Figma (npm package figma-developer-mcp) is an MCP server that fetches file, frame or group data from the Figma API. It trims the response to layout and styling information before passing it to the model, so the agent builds from structured data instead of screenshots. It runs via npx over stdio and needs a Figma personal access token.
     categories:
       - dev-mcp
-      - design-to-code
+      - coding-agents
     strengths:
       - Starts with one npx command; no install or build step needed
       - Trims Figma API responses to layout and styling to reduce model context
@@ -6717,7 +6708,7 @@ entries:
     summary: E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and run shell commands inside them. Companion packages add a Code Interpreter (runCode/run_code) and a Desktop SDK for mouse, keyboard and screenshot control. The runtime can be self-hosted with Terraform on AWS, GCP, Azure or a generic Linux machine; the hosted service needs an API key.
     categories:
       - app-builders
-      - api-backends
+      - cloud-reference
     strengths:
       - Official JavaScript/TypeScript and Python SDKs with a matching sandbox API
       - Separate Code Interpreter and Desktop SDKs cover code execution and computer use
@@ -6988,7 +6979,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 69
+    score: 68
   - id: agent-orchestrator
     repo: orchestratorinc/agent-orchestrator
     name: agent-orchestrator
@@ -7125,7 +7116,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 60
+    score: 59
   - id: claude-context
     repo: zilliztech/claude-context
     name: claude-context
@@ -7329,7 +7320,6 @@ entries:
     summary: Vim and Neovim plugin that shows GitHub Copilot completions inline as you type, built from comments and method names. Suggestions are accepted with Tab. It needs Node.js and an active Copilot subscription, including the Free tier, and is set up with `:Copilot setup`.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Works in both Vim (9.0.0185 or newer) and Neovim
       - Installs with any plugin manager or a plain git clone into the pack directory
@@ -7652,7 +7642,7 @@ entries:
     tagline: TypeScript framework for building MCP servers with React Views and an Inspector
     summary: mcp-use is a TypeScript v2 framework, built on the official MCP TypeScript SDK, for writing MCP servers with Zod-typed tools. It binds React Views to tools so they render as interactive apps in hosts such as ChatGPT and Claude. It ships a dev Inspector, a headless client CLI, a View screenshot command, tunneling, and a deploy command targeting Manufact.
     categories:
-      - mcp-apps
+      - agents
       - dev-mcp
     strengths:
       - Zod schemas flow from tool input and output into React View props
@@ -7689,7 +7679,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 59
+    score: 58
   - id: omnigent
     repo: omnigent-ai/omnigent
     name: omnigent
@@ -8127,7 +8117,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 61
+    score: 60
   - id: mcp
     repo: awslabs/mcp
     name: mcp
@@ -8270,7 +8260,6 @@ entries:
     summary: Atlas is a Tauri desktop app (Rust backend) that runs Claude Code, Codex, its own native agent and ACP-registry agents side by side on one codebase. It records each session locally in SQLite and links commits to the session that produced them as checkpoints. A shared on-device memory index feeds context to every agent, so switching agents mid-task keeps the history.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Checkpoints link commits to prompts, tool calls and file changes, and survive amend and rebase
       - Shared memory lets Claude Code and Codex see each other's decisions, using on-device embeddings
@@ -8365,7 +8354,6 @@ entries:
     tagline: Terminal-first desktop workspace with editor, git panel and agentic AI side-panel
     summary: Terax is a desktop app built on Tauri 2, Rust and React 19 that combines a PTY terminal, CodeMirror editor, file explorer, git graph and web preview. Its AI side-panel runs agents with approval-gated bash and file edits against your own API keys or local Ollama, LM Studio and MLX models. About 7-8 MB on disk, with no telemetry or account.
     categories:
-      - editors
       - coding-agents
     strengths:
       - Many BYOK providers plus Ollama, LM Studio and MLX for local models
@@ -8414,7 +8402,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 67
   - id: plannotator
     repo: backnotprop/plannotator
     name: plannotator
@@ -8687,7 +8675,7 @@ entries:
     tagline: Browser canvas for sketching linked Material 3 screens and exporting an AI prompt
     summary: M3E Canvas is a static Next.js app where you drag Material 3 Expressive parts onto phone or desktop screens, link them with tap and swipe transitions, and preview the flow. The design is exported as a prompt in Japanese, English, Chinese or Korean, targeting Android or web, to paste into a coding tool such as Claude Code, Codex, Gemini CLI or Cursor. State is kept in localStorage; there is no backend.
     categories:
-      - design-to-code
+      - coding-agents
     strengths:
       - "No backend: static export, designs saved in browser localStorage"
       - Tap and swipe navigation with transitions, plus a clickable preview
@@ -8725,7 +8713,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 50
   - id: no-mistakes
     repo: kunchenguid/no-mistakes
     name: no-mistakes
@@ -8831,7 +8819,7 @@ entries:
     summary: Electron desktop app that runs terminal agent CLIs (Claude Code, Codex, Gemini CLI, Grok, Kimi, Qwen, OpenCode, Crush, Copilot, Cursor, custom commands) in node-pty sessions. An orchestrator agent routes work between them through file-based mailboxes and shared markdown memory, shown as avatars on a Pixi.js office floor. Adds approval gates, a circuit breaker, per-agent budgets, a Monaco editor with git views and local dictation.
     categories:
       - coding-agents
-      - agent-ui
+      - agents
     strengths:
       - Wraps 12 named agent CLIs plus custom commands, using your existing subscriptions
       - Per-agent markdown memory, mailboxes and optional git worktrees to avoid branch collisions
@@ -8882,7 +8870,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 63
   - id: claude-squad
     repo: smtg-ai/claude-squad
     name: claude-squad
@@ -8984,7 +8972,7 @@ entries:
     summary: A set of Agent Skills grouped into three plugins (stitch-design, stitch-build, stitch-utilities) for Google Stitch. They generate and edit screens, extract DESIGN.md and static HTML from code, and convert Stitch designs to React, React Native, Vite dashboards and Remotion videos. Install via Codex marketplace, `npx plugins` for Claude Code and Cursor, or manual copy for OpenCode; all skills need the Stitch MCP server.
     categories:
       - skills-plugins
-      - design-to-code
+      - coding-agents
     strengths:
       - "Covers both directions: code to Stitch design and Stitch screens to React or React Native"
       - Plugin install for Codex, Claude Code and Cursor; skills follow the Agent Skills standard
@@ -9197,7 +9185,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 54
   - id: superpowers-zh
     repo: jnmetacode/superpowers-zh
     name: superpowers-zh
@@ -9248,7 +9236,6 @@ entries:
     summary: A macOS app and Xcode Source Editor Extension that adds code suggestions from GitHub Copilot or Codeium, a chat panel, and a prompt-to-code modification window inside Xcode. A background service app does the work and reads Xcode state through the Accessibility API. Custom commands with template arguments such as {{selected_code}} extend chat and modification.
     categories:
       - coding-agents
-      - editors
     strengths:
       - "Works inside Xcode itself: suggestions, chat panel and code modification from one extension"
       - "Suggestion providers: GitHub Copilot or Codeium; chat uses OpenAI or other configurable models"
@@ -9701,7 +9688,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 38
+    score: 39
   - id: forgecode
     repo: tailcallhq/forgecode
     name: forgecode
@@ -10162,7 +10149,7 @@ entries:
     summary: "Connects an AI agent to Figma through three parts: a TypeScript MCP server, a WebSocket relay, and a Figma plugin. The agent joins a channel and calls tools to read document and node info, create frames and text, set auto-layout and styles, replace text in bulk, and export nodes as images. It also ships MCP prompts for design, text replacement and annotation workflows."
     categories:
       - dev-mcp
-      - design-to-code
+      - coding-agents
     strengths:
       - "Broad tool set: about 40 tools covering reading, creation, auto layout, styling and components"
       - Bulk text replacement and instance override propagation cut repetitive edits
@@ -10442,7 +10429,7 @@ entries:
       has_compose: true
       is_template: true
       language: C#
-    score: 66
+    score: 67
   - id: nocobase
     repo: nocobase/nocobase
     name: nocobase
@@ -10483,7 +10470,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 68
+    score: 67
   - id: n8n-mcp
     repo: czlonkowski/n8n-mcp
     name: n8n-mcp
@@ -10583,7 +10570,6 @@ entries:
     summary: Prompt Master is a Claude skill that takes a plain request and returns a single copyable prompt tailored to a target tool such as Cursor, Claude Code, Midjourney or Stable Diffusion. It detects the target, extracts nine intent dimensions, asks at most three clarifying questions, picks one of 13 templates, and can prepend a Memory Block of prior decisions. Install by uploading the ZIP in claude.ai or cloning into ~/.claude/skills.
     categories:
       - skills-plugins
-      - prompts
     strengths:
       - Profiles for 30+ named tools, plus a four-question fallback for unlisted tools
       - 13 prompt templates selected automatically, with a one-line strategy note per output
@@ -11090,7 +11076,6 @@ entries:
     summary: A library of Codex custom agent files in .toml format, grouped into 13 categories such as core development, language specialists, infrastructure, quality and security, and data and AI. You copy the files you want into ~/.codex/agents/ or .codex/agents/. Each file sets a model, reasoning effort, sandbox mode and instruction text. Codex does not spawn them automatically, so you delegate in prompts.
     categories:
       - skills-plugins
-      - prompts
     strengths:
       - Plain .toml files installed by copying into ~/.codex/agents/ or .codex/agents/
       - Each agent sets model, reasoning effort and sandbox mode (read-only or workspace-write)
@@ -11709,7 +11694,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 66
+    score: 65
   - id: swiftui-agent-skill
     repo: twostraws/swiftui-agent-skill
     name: swiftui-agent-skill
@@ -12219,7 +12204,7 @@ entries:
     summary: HAPI wraps official coding agent CLIs (Claude Code, Codex, Cursor Agent, OpenCode, Copilot and others) and runs a hub, so you can watch, approve and continue the same sessions from native iOS/Android apps, a web/PWA client or a Telegram Mini App. Sessions move between local terminal and remote without a restart. The hub can use an E2E encrypted relay, Cloudflare Tunnel or Tailscale.
     categories:
       - coding-agents
-      - agent-ui
+      - agents
     strengths:
       - Wraps the official CLIs of ten agents instead of replacing them
       - Approve agent requests from a phone; web terminal and file browser included
@@ -12454,7 +12439,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 66
+    score: 65
   - id: obsidian-mind
     repo: breferrari/obsidian-mind
     name: obsidian-mind
@@ -12599,7 +12584,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 27
+    score: 28
   - id: monkeycode
     repo: chaitin/monkeycode
     name: monkeycode
@@ -12930,7 +12915,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 59
+    score: 60
   - id: chatgpt-codereview
     repo: anc95/chatgpt-codereview
     name: chatgpt-codereview
@@ -13127,7 +13112,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 42
+    score: 43
   - id: ivanmurzak-unity-mcp
     repo: ivanmurzak/unity-mcp
     name: unity-mcp
@@ -13286,7 +13271,6 @@ entries:
     tagline: Agentic IDE with desktop app, web app, CLI and HTTP API
     summary: bb is an agentic IDE written in TypeScript that runs work in threads you can follow live, steer, or hand off to another agent. It is driven through an Electron desktop app, a web UI on port 38886, a `bb` CLI or an HTTP API, and it uses the provider CLI you have already authenticated. It is marked as in active development, with workflows still changing.
     categories:
-      - editors
       - coding-agents
     strengths:
       - Same functionality across desktop app, web app, CLI and HTTP API
@@ -13324,7 +13308,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 62
+    score: 64
   - id: xerj
     repo: xerj-org/xerj
     name: xerj
@@ -13526,7 +13510,7 @@ entries:
     tagline: Declarative connector framework behind a metered catalog of agent tool APIs
     summary: Monid is the connector layer for a hosted service that gives agents one base URL and key for 2,000+ tools across 72+ providers. Each provider and endpoint is a TypeScript definition (defineProvider, defineEndpoint) with zod input schemas, and the engine meters usage per call from the raw response. The repo lets you run connectors locally with your own vendor keys and add new ones by pull request.
     categories:
-      - api-backends
+      - cloud-reference
     strengths:
       - "Declarative connectors: no per-provider client or execution path, so coding agents can write them"
       - "Usage model per endpoint: flat, per result, or per unit, settled on the raw response"
@@ -13754,7 +13738,6 @@ entries:
     summary: Codeg is a Rust-based workspace that talks to coding agents over the Agent Client Protocol and renders each as a structured conversation with tool cards, live diffs and permission prompts. It imports and searches session history that agent CLIs keep on disk, and runs queued to-dos unattended in separate git worktrees. It ships as a desktop app, a self-hosted server or Docker container, and iOS and Android clients.
     categories:
       - coding-agents
-      - editors
     strengths:
       - Fifteen agents built in, including Claude Code, Codex, Gemini CLI and Cursor; other ACP agents can be added
       - Imports and searches agent session history on disk, and lets one agent read another's session
@@ -13974,7 +13957,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 63
   - id: avdlee-swiftui-agent-skill
     repo: avdlee/swiftui-agent-skill
     name: swiftui-agent-skill
@@ -14026,7 +14009,7 @@ entries:
     summary: Butterbase is a backend-as-a-service that gives each app its own Postgres database with row-level security and auto-generated REST. It adds auth, S3/R2 file storage, Deno serverless functions, realtime, a KV store, an AI gateway, RAG and graph-spec agents, all exposed as MCP tools at /mcp. The runtime data plane is self-hostable through Docker Compose; the managed cloud adds billing, multi-region orchestration and upstream AI router adapters.
     categories:
       - backends
-      - mcp-apps
+      - agents
     strengths:
       - Real Postgres per app with RLS, migrations and auto-generated REST, no proprietary datastore
       - Every capability is exposed as MCP tools over HTTP at /mcp or stdio via npx @butterbase/mcp
@@ -14788,7 +14771,7 @@ entries:
     summary: A Python server (proxy/server.py) runs open models with Apple MLX and answers Claude Code in the Anthropic Messages API format, with streaming. It converts Gemma, Qwen and Llama-style tool calls into Claude Code tool calls, repairs malformed tool JSON, and reuses the prompt cache between turns. setup.sh picks a model based on the Mac's memory and creates a Desktop launcher.
     categories:
       - skills-plugins
-      - api-backends
+      - cloud-reference
     strengths:
       - Speaks the Anthropic API directly, with no LiteLLM or OpenAI translation layer
       - setup.sh picks a model by RAM, from Hermes 4 14B at 16 GB to Qwen 3.8 27B at 96 GB
@@ -15337,7 +15320,7 @@ entries:
     summary: "An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js App Router, AI SDK streaming with tool calls, NextAuth.js login, chat history in Vercel Postgres through Drizzle, and file storage on Vercel Blob. The default model is gemini-1.5-pro; the AI SDK lets you switch to OpenAI, Anthropic or Cohere. For teams on Google models who want the Vercel chat stack."
     categories:
       - chat-apps
-      - agent-ui
+      - agents
     strengths:
       - Auth, Postgres history and Blob uploads already wired
       - "Two env vars to deploy: AUTH_SECRET and GOOGLE_GENERATIVE_AI_API_KEY"
@@ -16123,7 +16106,7 @@ entries:
     summary: A Next.js demo on the OpenAI Responses API with two chat views, one for the customer and one for the human agent. The model drafts replies from a file-search knowledge base, proposes tool calls like cancel_order for the agent to confirm and auto-runs non-sensitive ones like get_order_history; a /init_vs route creates the vector store and functions are placeholders. For teams prototyping agent-assist for support staff.
     categories:
       - rag-search
-      - agent-ui
+      - agents
     strengths:
       - "Human-in-the-loop pattern is concrete: suggested reply, suggested action, auto-run tiers"
       - Knowledge base, prompts, tools and demo data each live in one config file
@@ -16256,7 +16239,6 @@ entries:
     summary: A Python backend on the OpenAI Agents SDK that routes airline support requests between six agents (triage, flight info, booking, seats, FAQ, refunds) with relevance and jailbreak guardrails, plus a Next.js UI on ChatKit that shows each handoff and guardrail trip as it happens. Data is mock itineraries, tools are in-process functions, and there is no auth or persistence. For teams evaluating the Agents SDK handoff pattern.
     categories:
       - agents
-      - agent-ui
     strengths:
       - Orchestration view makes handoffs and guardrail trips visible per message
       - Six agents and two guardrails in one readable backend
@@ -16291,7 +16273,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 17
+    score: 18
   - id: agent-starter-pack
     repo: googlecloudplatform/agent-starter-pack
     name: agent-starter-pack
@@ -16338,7 +16320,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 34
+    score: 35
   - id: openai-cua-sample-app
     repo: openai/openai-cua-sample-app
     name: openai-cua-sample-app
@@ -16427,7 +16409,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 40
+    score: 39
   - id: opentag
     repo: copilotkit/opentag
     name: OpenTag
@@ -16614,7 +16596,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 43
+    score: 44
   - id: personal-agent-template
     repo: vercel-labs/personal-agent-template
     name: personal-agent-template
@@ -16709,7 +16691,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 55
+    score: 56
   - id: new-langgraph-project
     repo: langchain-ai/new-langgraph-project
     name: new-langgraph-project
@@ -16749,7 +16731,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 31
+    score: 32
   - id: data-enrichment
     repo: langchain-ai/data-enrichment
     name: data-enrichment
@@ -16794,7 +16776,7 @@ entries:
       has_compose: false
       is_template: true
       language: Jupyter Notebook
-    score: 43
+    score: 44
   - id: react-agent-js
     repo: langchain-ai/react-agent-js
     name: react-agent-js
@@ -16837,7 +16819,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 42
+    score: 43
   - id: new-langgraphjs-project
     repo: langchain-ai/new-langgraphjs-project
     name: new-langgraphjs-project
@@ -16885,7 +16867,7 @@ entries:
     tagline: Next.js chat frontend for any LangGraph server with interrupts and artifacts
     summary: "A Next.js frontend that connects to any LangGraph server exposing a messages key: enter the deployment URL and assistant ID (or set them as env vars) and you get streaming chat, tool-call rendering, human-in-the-loop interrupts and an artifacts side panel. A built-in API passthrough route injects your LangSmith key server-side for production. For teams that have a LangGraph backend and need a UI today."
     categories:
-      - agent-ui
+      - agents
     strengths:
       - Works against local and deployed LangGraph servers with no backend changes
       - Hosted version at agentchat.vercel.app and an npx scaffold
@@ -16920,7 +16902,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 39
+    score: 37
   - id: agno-agent-ui
     repo: agno-agi/agent-ui
     name: agent-ui
@@ -16928,7 +16910,7 @@ entries:
     tagline: Next.js chat frontend for Agno AgentOS with tool calls and reasoning
     summary: A Next.js and shadcn/ui chat interface that connects to a running Agno AgentOS instance (default localhost:7777) and renders streamed replies, tool calls with results, reasoning steps, references and image, video or audio content. Auth is a bearer token set via NEXT_PUBLIC_OS_SECURITY_KEY or the sidebar; the main branch targets Agno v2 and a v1 branch remains. For Agno users who need a frontend without writing one.
     categories:
-      - agent-ui
+      - agents
     strengths:
       - Scaffolds with npx create-agent-ui; endpoint and token editable in the UI
       - Renders reasoning steps, references and multimodal outputs, not only text
@@ -16969,7 +16951,7 @@ entries:
     tagline: Chat interface that answers with generated interactive UI, charts, maps and tools
     summary: A Next.js and CopilotKit chat frontend backed by a Python Deep Agent (FastAPI). For each turn the agent returns text, a native component, or custom HTML/CSS/JS streamed into a sandboxed iframe. A router model (Jev) picks A2UI for basic tables and Open Generative UI for charts, diagrams, calculators and maps. It is meant to be cloned and adapted rather than used as-is.
     categories:
-      - agent-ui
+      - agents
     strengths:
       - Generated UI runs in an isolated iframe with a validated host bridge for follow-ups
       - Visitors can supply their own keys, held in browser memory only, not storage
@@ -17009,7 +16991,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 44
+    score: 41
   - id: stockbot-on-groq
     repo: bklieger-groq/stockbot-on-groq
     name: stockbot-on-groq
@@ -17017,7 +16999,7 @@ entries:
     tagline: Groq chatbot answering with TradingView widgets via AI SDK generative UI
     summary: "A Next.js chatbot forked from the Vercel AI Chatbot template where Llama 3 70B on Groq picks a tool and the UI renders a TradingView widget: price charts, financials, news, market overview, screeners, heatmaps and trending lists. Two sequential model calls produce the tool choice and the reply, one secret (GROQ_API_KEY) runs it, and there is no auth or persistence. For developers who want a worked example of tool-driven generative UI."
     categories:
-      - agent-ui
+      - agents
     strengths:
       - Nine widget types show the tool-to-component mapping end to end
       - Hosted demo at groq-stockbot.vercel.app
@@ -17051,7 +17033,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 19
+    score: 21
   - id: openai-structured-outputs-samples
     repo: openai/openai-structured-outputs-samples
     name: openai-structured-outputs-samples
@@ -17059,7 +17041,7 @@ entries:
     tagline: Three Next.js samples driving UI from schema-constrained OpenAI outputs
     summary: "Three small Next.js apps, each with its own README: resume extraction renders structured fields from a model response, generative UI builds components from a JSON-schema output, and conversational assistant combines multi-turn chat, tool calling and generative UI in one flow. All rely on OpenAI Structured Outputs so responses always match the schema. For developers deciding how to bind model JSON to React components."
     categories:
-      - agent-ui
+      - agents
     strengths:
       - Conversational assistant sample is a reasonable base for a schema-driven assistant
       - Each sample is independent; copy one folder
@@ -17092,7 +17074,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 8
+    score: 10
   - id: assistant-ui-stockbroker
     repo: assistant-ui/assistant-ui-stockbroker
     name: assistant-ui-stockbroker
@@ -17100,7 +17082,6 @@ entries:
     tagline: assistant-ui frontend and LangGraph.js stockbroker agent with approval steps
     summary: A Turborepo with a Next.js 16 frontend on assistant-ui and a LangGraph.js backend defining a stockbroker graph that calls GPT-4o, Financial Datasets and Tavily, with human-in-the-loop approval before trades. The frontend proxies to the LangGraph dev server (port 2024) with an optional LangSmith key, three API keys are needed, and there is no auth beyond LangGraph threads. For teams pairing assistant-ui with LangGraph.js.
     categories:
-      - agent-ui
       - agents
     strengths:
       - Shows assistant-ui wired to a LangGraph.js graph with interrupts
@@ -17138,7 +17119,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 10
+    score: 12
   - id: open-saas
     repo: wasp-lang/open-saas
     name: open-saas
@@ -17185,7 +17166,7 @@ entries:
       has_compose: false
       is_template: false
       language: MDX
-    score: 51
+    score: 52
   - id: ai-fullstack-saas-boilerplate
     repo: alan345/ai-fullstack-saas-boilerplate
     name: AI-Fullstack-SaaS-Boilerplate
@@ -17229,7 +17210,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 32
+    score: 33
   - id: velobase-harness
     repo: velobase/velobase-harness
     name: velobase-harness
@@ -17328,7 +17309,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 23
+    score: 24
   - id: lastsaas
     repo: jonradoff/lastsaas
     name: lastsaas
@@ -17337,7 +17318,7 @@ entries:
     summary: "A Go backend with a React frontend served from the same binary: multi-tenant accounts with owner, admin and user roles, JWT with refresh rotation, OAuth, magic links and TOTP, Stripe subscriptions, per-seat pricing, trials and credit bundles, white-label branding, scoped API keys, 19 signed outgoing webhooks, analytics and health monitoring on MongoDB. The AI part is a stdio MCP server exposing 32 read-only admin tools. For founders who want a Go SaaS base an agent can query."
     categories:
       - saas-with-ai
-      - mcp-apps
+      - agents
     strengths:
       - Credit buckets, entitlement middleware and billing enforcement are implemented
       - Outgoing webhooks with HMAC signing and delivery tracking; scoped API keys
@@ -17551,7 +17532,7 @@ entries:
     summary: "pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate."
     categories:
       - voice-realtime
-      - agent-ui
+      - agents
     strengths:
       - Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
       - Daily and SmallWebRTC transports supported
@@ -17733,7 +17714,7 @@ entries:
     summary: "Android Studio project on the LiveKit Android SDK giving you a simple voice interface to a LiveKit agent, scaffolded with lk app create. It connects to the public LiveKit homepage agent by default; to reach your own agent you set a development token server id in TokenExt.kt. Client only: the agent and a production token server are yours to build."
     categories:
       - voice-realtime
-      - mobile-extensions
+      - saas-with-ai
     strengths:
       - Kotlin and Jetpack Compose on the official LiveKit Android SDK
       - Works immediately against the public LiveKit homepage agent
@@ -17775,7 +17756,7 @@ entries:
     summary: Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share input, transcriptions and avatar rendering, built on the SDK's Session and LocalMedia observables with preconnect audio buffering on by default. Targets iOS, iPadOS, macOS and visionOS. Set AgentToConnect.current to a development token server id for your own agent, then swap in an EndpointTokenSource for production.
     categories:
       - voice-realtime
-      - mobile-extensions
+      - saas-with-ai
     strengths:
       - Voice, text, video and screen-share input toggled per feature in code
       - Preconnect audio buffer makes connects feel instant
@@ -17819,7 +17800,7 @@ entries:
     summary: Flutter project on the LiveKit Flutter SDK with voice, text and optional camera or screen-share input, transcriptions and agent video rendering, built around livekit_client.Session with preconnect audio buffering. Targets iOS, macOS, Android and web. Set LIVEKIT_TOKEN_SERVER_ID in assets/.env for development, then swap in an EndpointTokenSource in app_ctrl.dart before shipping.
     categories:
       - voice-realtime
-      - mobile-extensions
+      - saas-with-ai
     strengths:
       - Covers iOS, macOS, Android and web from one Flutter codebase
       - Voice, text, video and screen share input wired
@@ -17904,7 +17885,7 @@ entries:
     summary: Expo project on the LiveKit React Native SDK and its Expo config plugin, run on Android and iOS with npx expo run, giving a simple voice interface to a LiveKit agent. It connects to the public LiveKit homepage agent by default; set tokenServerId in hooks/useConnection.tsx for your own agent, then switch to TokenSource.endpoint before shipping. Client only.
     categories:
       - voice-realtime
-      - mobile-extensions
+      - saas-with-ai
     strengths:
       - Expo plugin handles the native LiveKit setup for iOS and Android
       - Token source is one line to swap for a real endpoint
@@ -17945,7 +17926,7 @@ entries:
     tagline: Example MCP servers and widgets for ChatGPT apps on the Apps SDK
     summary: pnpm workspace with React widget sources, a Vite build that emits hashed HTML/JS/CSS bundles served on port 4444, and paired MCP servers in Node and Python (Pizzaz, kitchen-sink-lite, solar system, shopping cart, an OAuth-gated example). Widgets use the window.openai host API and _meta.ui.resourceUri to render inside ChatGPT. For developers building ChatGPT apps; test via developer mode and an ngrok tunnel.
     categories:
-      - mcp-apps
+      - agents
     strengths:
       - Node and Python MCP servers for the same widgets
       - kitchen-sink-lite covers the full window.openai host API surface
@@ -17982,7 +17963,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 23
   - id: mcp-for-next-js
     repo: vercel-labs/mcp-for-next.js
     name: mcp-for-next.js
@@ -17990,7 +17971,7 @@ entries:
     tagline: Stateless MCP server route for a Next.js App Router app
     summary: Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server through mcp-handler 2 and the MCP TypeScript SDK v2, serving the 2026-07-28 protocol natively with a compatibility layer for 2025-era Streamable HTTP clients. Includes a sample client script that lists tools and calls echo. For teams adding an MCP endpoint to an existing Next.js app on Vercel; no auth is wired.
     categories:
-      - mcp-apps
+      - agents
     strengths:
       - Stateless Streamable HTTP; no Redis or session store required
       - Current 2026-07-28 protocol plus 2025 Streamable HTTP compatibility
@@ -18023,7 +18004,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 38
+    score: 34
   - id: mcp-forge
     repo: achetronic/mcp-forge
     name: mcp-forge
@@ -18031,7 +18012,7 @@ entries:
     tagline: Go MCP server template with OAuth discovery and JWT validation
     summary: Go 1.24+ template on mcp-go that runs as an HTTP or stdio MCP server from a YAML config, with RFC 8414 and 9728 OAuth discovery endpoints and JWT validation either delegated to a proxy like Istio or done locally via JWKS and CEL claim rules. Ships a Dockerfile, Helm chart, GitHub Actions and example configs for Claude Web, OpenAI and local clients through mcp-remote. You add tools under internal/tools.
     categories:
-      - mcp-apps
+      - agents
     strengths:
       - OAuth discovery endpoints and JWT middleware for remote clients like Claude Web
       - Helm chart, Dockerfile and CI workflows included
@@ -18065,7 +18046,7 @@ entries:
       has_compose: false
       is_template: true
       language: Go
-    score: 21
+    score: 17
   - id: template-mcp-server
     repo: redhat-data-and-ai/template-mcp-server
     name: template-mcp-server
@@ -18073,7 +18054,7 @@ entries:
     tagline: Python FastMCP server template with OAuth, OpenShift manifests and CI
     summary: Python 3.12+ package on FastMCP and FastAPI with HTTP, SSE and streamable-HTTP transports on port 5001, a /health endpoint, Pydantic settings, structlog JSON logs, optional SSL and OAuth with PostgreSQL token storage. Ships three example tools, a UBI Containerfile, compose.yaml, OpenShift manifests, CI for tests, lint, security and releases. For teams standardizing MCP servers on Red Hat tooling.
     categories:
-      - mcp-apps
+      - agents
     strengths:
       - HTTP, SSE and streamable-HTTP transports selectable by env var
       - OAuth with PostgreSQL token storage and a documented auth guide
@@ -18108,7 +18089,7 @@ entries:
       has_compose: true
       is_template: true
       language: Python
-    score: 46
+    score: 44
   - id: mcp-typescript-template
     repo: nickytonline/mcp-typescript-template
     name: mcp-typescript-template
@@ -18116,7 +18097,7 @@ entries:
     tagline: TypeScript starter for remote MCP servers over HTTP with Express and Effect
     summary: A degit-able template for building stateless, remote MCP servers on Node 24.11+ using the MCP TypeScript SDK, Express and Effect. It ships two example tools (echo and elicit_echo) with typed input and output schemas, plus an example Agent Skill published through the MCP Skills extension. Build, test, lint and format run through the Vite+ vp CLI.
     categories:
-      - mcp-apps
+      - agents
     strengths:
       - Example tools cover structured output, annotations and MCP elicitation with accept/decline/cancel handling
       - Stateless per-request server following the MCP 2026-07-28 spec, with fallback for older clients
@@ -18615,7 +18596,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 37
+    score: 34
   - id: azure-agent-landing-zone
     repo: azure/agent-landing-zone
     name: agent-landing-zone
@@ -18661,7 +18642,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 64
+    score: 62
   - id: openai-chat-app-quickstart
     repo: azure-samples/openai-chat-app-quickstart
     name: openai-chat-app-quickstart
@@ -18705,7 +18686,7 @@ entries:
       has_compose: true
       is_template: true
       language: Bicep
-    score: 37
+    score: 38
   - id: agent-service-toolkit
     repo: joshuac215/agent-service-toolkit
     name: agent-service-toolkit
@@ -18713,7 +18694,7 @@ entries:
     tagline: LangGraph agents served by FastAPI with a Streamlit chat client
     summary: Python service where LangGraph v1 agents (interrupt, Command, Store) are served by FastAPI with streaming and non-streaming endpoints, AG-UI support, per-agent URL paths, /threads history and a Postgres checkpointer via docker compose. Includes an AgentClient, a Streamlit chat UI with voice, LangSmith feedback, Groq moderation, a ChromaDB RAG agent, unit, integration and smoke tests. Needs at least one LLM API key.
     categories:
-      - api-backends
+      - cloud-reference
       - agents
     strengths:
       - AG-UI endpoint for CopilotKit-style frontends alongside the REST API
@@ -18752,7 +18733,7 @@ entries:
       has_compose: true
       is_template: true
       language: Python
-    score: 65
+    score: 66
   - id: fastapi-langgraph-agent-production-ready-template
     repo: wassim249/fastapi-langgraph-agent-production-ready-template
     name: fastapi-langgraph-agent-production-ready-template
@@ -18760,7 +18741,7 @@ entries:
     tagline: FastAPI service for a LangGraph agent with auth, memory and tracing
     summary: FastAPI backend with a stateful LangGraph agent (Postgres checkpointing, tool calling, human-in-the-loop), mem0 long-term memory on pgvector, JWT auth and sessions, slowapi rate limiting, Alembic migrations, optional Valkey/Redis cache, Langfuse tracing, Prometheus and Grafana, and evals. make docker-up starts the API on port 8000 with PostgreSQL. OpenAI only via ChatOpenAI; any OpenAI-compatible base URL works.
     categories:
-      - api-backends
+      - cloud-reference
       - agents
     strengths:
       - JWT sessions, rate limiting and structured per-request logging included
@@ -18798,7 +18779,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 53
+    score: 55
   - id: full-stack-ai-agent-template
     repo: vstorm-co/full-stack-ai-agent-template
     name: full-stack-ai-agent-template
@@ -18806,7 +18787,7 @@ entries:
     tagline: Project generator for FastAPI and Next.js apps with agents and RAG
     summary: CLI (pip install fastapi-fullstack) scaffolding a FastAPI backend and Next.js frontend via a wizard or presets, with Pydantic AI, Pydantic Deep Agents, LangChain, LangGraph or DeepAgents, RAG on Milvus, Qdrant, pgvector or Chroma, WebSocket chat, JWT, OAuth, admin, teams, Stripe billing, Celery, Docker and K8s. make bootstrap starts Postgres, migrations and a seeded admin; projects can pull template upgrades later.
     categories:
-      - api-backends
+      - cloud-reference
       - agents
     strengths:
       - Wizard and presets pick framework, vector store, auth and billing per project
@@ -18849,7 +18830,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 54
+    score: 57
   - id: nodejs-api-boilerplate
     repo: vyancharuk/nodejs-api-boilerplate
     name: nodejs-api-boilerplate
@@ -18857,7 +18838,7 @@ entries:
     tagline: Express TypeScript CRUD API template with an LLM module generator
     summary: Express and TypeScript REST API with vertical-slice modules, Zod validation, InversifyJS DI, Knex transactions, ioredis caching, winston trace IDs, node-cron, S3 uploads and Supertest e2e tests, run via docker compose on port 8080. The llm-codegen folder runs three LLM micro-agents (Developer, Troubleshooter, TestsFixer) that generate a new CRUD module, migration, seeds and passing tests from a text description.
     categories:
-      - api-backends
+      - cloud-reference
     strengths:
       - Codegen loop compiles and runs e2e tests until they pass
       - Supports OpenAI, Anthropic, DeepSeek and OpenRouter keys for generation
@@ -18897,7 +18878,7 @@ entries:
       has_compose: true
       is_template: true
       language: TypeScript
-    score: 27
+    score: 25
   - id: generative-ai-project-template
     repo: aminedjeghri/generative-ai-project-template
     name: generative-ai-project-template
@@ -18905,7 +18886,7 @@ entries:
     tagline: uv workspace with FastAPI, NiceGUI, LiteLLM and Promptfoo evals
     summary: Python 3.12 uv workspace with a FastAPI backend (port 8000) and NiceGUI frontend (port 8080) for chat, information extraction and RAG over documents, with models served locally by Ollama or through any LiteLLM provider. Ships Makefiles for install, run, test, Docker (CPU and CUDA compose), pre-commit with ruff and detect-secrets, pytest, Promptfoo and Ragas evals, GitHub Actions, Renovate and an mkdocs site.
     categories:
-      - api-backends
+      - cloud-reference
     strengths:
       - LiteLLM naming lets you switch between Ollama and cloud models by env
       - Promptfoo and Ragas evaluation wired into the template
@@ -18940,7 +18921,7 @@ entries:
       has_compose: true
       is_template: true
       language: Python
-    score: 51
+    score: 50
   - id: genai-api
     repo: louisbrulenaudet/genai-api
     name: genai-api
@@ -18948,7 +18929,7 @@ entries:
     tagline: Hono API on Cloudflare Workers proxying Gemini with bearer auth
     summary: Hono TypeScript worker exposing POST /completion that forwards OpenAI-style messages (text and data-URL images) to Gemini 2.0 and 2.5 Flash models through Cloudflare AI Gateway, validated with Zod and returned as plain text. Secured by a BEARER_TOKEN secret, with an optional X-API-Key header to pass a provider key per request; deployed with make deploy. Built for Apple Shortcuts; local dev on port 8788.
     categories:
-      - api-backends
+      - cloud-reference
     strengths:
       - Bearer-token auth and Zod validation on the single endpoint
       - Requests route through Cloudflare AI Gateway for caching and logs
@@ -18992,7 +18973,7 @@ entries:
     tagline: Expo chat and image app with an Express proxy for multiple LLMs
     summary: "Scaffolded with npx rn-ai: an Expo React Native app with streaming chat and image screens plus an Express server that proxies to OpenAI, Anthropic, Gemini, Z.ai GLM 5.2 and Moonshot Kimi K2.7, with Gemini image generation. Keys stay in server/.env; five themes ship and models are added by editing constants.ts and a server route. For teams starting a mobile AI assistant with keys off the device."
     categories:
-      - mobile-extensions
+      - saas-with-ai
       - chat-apps
     strengths:
       - Server proxy keeps API keys off the device and leaves room for auth
@@ -19032,7 +19013,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 43
+    score: 34
   - id: extro
     repo: turbostarter/extro
     name: extro
@@ -19040,7 +19021,7 @@ entries:
     tagline: WXT and React browser extension starter with Supabase auth and AI
     summary: Bun-based WXT project for Chrome (MV3) and Firefox (MV2) with every entrypoint (popup, side panel, devtools, new tab, options, content) preconfigured, Supabase OAuth shared across pages, storage, messaging, i18n, OpenPanel analytics, shadcn/ui, Biome, unit tests and a publish workflow. Native AI integration is marked experimental. For teams shipping a React extension with accounts; billing is marked coming soon.
     categories:
-      - mobile-extensions
+      - saas-with-ai
     strengths:
       - All extension entrypoints wired, including side panel and devtools
       - Auth session and storage shared between popup, content and options pages
@@ -19076,7 +19057,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 34
+    score: 35
   - id: opencode
     repo: anomalyco/opencode
     name: opencode
@@ -19175,7 +19156,7 @@ entries:
     tagline: Turns screenshots and mockups into Tailwind, React or Vue code
     summary: Takes a screenshot, mockup, Figma export or screen recording and generates HTML with Tailwind or CSS, React, Vue, Bootstrap or Ionic code using Gemini 3, GPT-5.5 or Claude Opus models, with Replicate for image generation and background removal. Runs as a React/Vite frontend on port 5173 and a FastAPI backend on 7001, or via docker-compose. For developers prototyping UIs from designs.
     categories:
-      - design-to-code
+      - coding-agents
     strengths:
       - Six output stacks including React, Vue, Bootstrap and Ionic with Tailwind
       - Video mode turns a screen recording into a working prototype (needs Gemini)
@@ -19217,7 +19198,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 64
+    score: 63
   - id: tabby
     repo: tabbyml/tabby
     name: Tabby
@@ -19272,7 +19253,7 @@ entries:
     tagline: Visual editor that edits Next.js and Tailwind apps with AI
     summary: Browser-based editor that loads a Next.js and Tailwind project into a web container, renders it in an iframe and maps DOM elements back to source so you can drag, restyle and edit visually or through an AI chat. Built on Next.js, tRPC, Supabase, Drizzle and the Vercel AI SDK with OpenRouter for models and CodeSandbox for sandboxes. For designers and front-end developers working on Next.js codebases.
     categories:
-      - design-to-code
+      - coding-agents
     strengths:
       - Edits map directly to code; right-click any element to open its source location
       - Branching, checkpoints and a real-time code editor beside the visual canvas
@@ -19311,7 +19292,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 57
+    score: 59
   - id: archon
     repo: coleam00/archon
     name: Archon
