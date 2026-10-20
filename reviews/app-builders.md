@@ -23,7 +23,7 @@ A Next.js 16 template (React 19, Tailwind CSS v4, shadcn/ui) that bundles a port
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="jeecgboot"></a>
-### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (99) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
 
 **Java low-code platform with code generator and built-in AI app builder.**
 
@@ -76,26 +76,8 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
-<a name="monkeycode"></a>
-### #&#8288;5 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (69) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · AGPL-3.0 · Oct 2026</sub>
-
-**AI development platform that runs coding tasks in server-side environments.**
-
-MonkeyCode is a web platform where AI agents carry out development tasks inside server-side environments, with build, test and preview done remotely. It adds model management, task management, requirement/SPEC management and automated PR/MR review for engineering teams. It can be used online or installed inside a private network with an install script.
-
-- **+** Runs tasks in server-side dev environments, no local setup needed
-- **+** Integrates GLM, Kimi, MiniMax, Qwen and DeepSeek, switchable per task
-- **+** Includes requirement/SPEC management, team collaboration and PR/MR review
-- **+** Private deployment possible; source is auditable under AGPL-3.0
-- **−** No local IDE, local CLI or code completion, per its own comparison table
-- **−** Self-hosting needs a dev environment host of at least 8C/16 GB/100 GB
-- **−** Install is a curl-piped script; no Docker or Compose files detected
-- **−** AGPL-3.0 adds source-disclosure obligations for network use
-
-<sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
-
 <a name="llamacoder"></a>
-### #&#8288;6 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Oct 2026</sub>
+### #&#8288;5 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Oct 2026</sub>
 
 **Open-source Claude Artifacts clone generating React apps with Llama.**
 
@@ -113,7 +95,7 @@ Next.js App Router app with Tailwind that sends a prompt to Llama 3.1 405B on To
 <sub>TypeScript, Together AI (Llama 3.1 405B) · Needs Together AI API key, PostgreSQL (Neon), S3 bucket for screenshots, Braintrust (optional) · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;7 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (34) · Freshness: active (94) · Maintenance: fair (58) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
+### #&#8288;6 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (34) · Freshness: active (94) · Maintenance: fair (58) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -129,6 +111,24 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 - **−** Long setup guide with several API token permissions to get right
 
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
+
+<a name="monkeycode"></a>
+### #&#8288;7 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (52) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · AGPL-3.0 · Oct 2026</sub>
+
+**AI development platform that runs coding tasks in server-side environments.**
+
+MonkeyCode is a web platform where AI agents carry out development tasks inside server-side environments, with build, test and preview done remotely. It adds model management, task management, requirement/SPEC management and automated PR/MR review for engineering teams. It can be used online or installed inside a private network with an install script.
+
+- **+** Runs tasks in server-side dev environments, no local setup needed
+- **+** Integrates GLM, Kimi, MiniMax, Qwen and DeepSeek, switchable per task
+- **+** Includes requirement/SPEC management, team collaboration and PR/MR review
+- **+** Private deployment possible; source is auditable under AGPL-3.0
+- **−** No local IDE, local CLI or code completion, per its own comparison table
+- **−** Self-hosting needs a dev environment host of at least 8C/16 GB/100 GB
+- **−** Install is a curl-piped script; no Docker or Compose files detected
+- **−** AGPL-3.0 adds source-disclosure obligations for network use
+
+<sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="open-lovable"></a>
 ### #&#8288;8 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: weak (16) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
@@ -149,7 +149,7 @@ Next.js app where you describe a React app in chat and an LLM generates and edit
 <sub>TypeScript, Gemini, Anthropic, OpenAI, Groq · Needs Firecrawl API, Vercel Sandbox or E2B, Morph (optional) · env example file · [Repo](https://github.com/firecrawl/open-lovable) · [🌐 Site ↗](https://firecrawl.dev/?ref=open-lovable-github) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-lovable/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;9 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (39) · Freshness: active (83) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Jun 2026</sub>
+### #&#8288;9 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (39) · Freshness: active (83) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
