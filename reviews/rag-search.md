@@ -77,7 +77,7 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
 <a name="chat-langchain"></a>
-### #&#8288;5 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Oct 2026</sub>
+### #&#8288;5 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Oct 2026</sub>
 
 **LangChain docs assistant as a Managed Deep Agent with Next.js UI.**
 
