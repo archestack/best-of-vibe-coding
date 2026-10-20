@@ -40,26 +40,8 @@ A degit-able template for building stateless, remote MCP servers on Node 24.11+ 
 
 <sub>TypeScript · Needs Node.js 24.11+, Express, Effect, @modelcontextprotocol/server, Vite+ · GitHub template · Docker · [Repo](https://github.com/nickytonline/mcp-typescript-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-typescript-template/)</sub>
 
-<a name="mcp-use"></a>
-### 🥉 [mcp-use](https://github.com/mcp-use/mcp-use) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
-
-**TypeScript framework for building MCP servers with React Views and an Inspector.**
-
-mcp-use is a TypeScript v2 framework, built on the official MCP TypeScript SDK, for writing MCP servers with Zod-typed tools. It binds React Views to tools so they render as interactive apps in hosts such as ChatGPT and Claude. It ships a dev Inspector, a headless client CLI, a View screenshot command, tunneling, and a deploy command targeting Manufact.
-
-- **+** Zod schemas flow from tool input and output into React View props
-- **+** Inspector served at /mcp/inspector in dev; headless CLI can call tools and screenshot Views
-- **+** Built-in tunnel (mcp-use dev --tunnel) for testing in ChatGPT and Claude before deploy
-- **+** MIT licensed, with a self-hosting guide alongside the hosted option
-- **−** v2 is a breaking change from v1; a migration guide is needed
-- **−** Benchmark and comparison figures are the project's own, not independent
-- **−** One-command npm run deploy targets the vendor's Manufact platform
-- **−** Example apps live in separate repos, not in the main package
-
-<sub>TypeScript · Needs Node.js, npm, React, Zod · safety checks passed 14 of 18 · [Repo](https://github.com/mcp-use/mcp-use) · [▶️ Demo ↗](https://inspector.mcp-use.com/inspector) · [📖 Docs ↗](https://docs.mcp-use.com/v2/typescript/getting-started/welcome) · [🌐 Site ↗](https://mcp-use.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-use/)</sub>
-
 <a name="docker-agent"></a>
-### #&#8288;4 [docker-agent](https://github.com/docker/docker-agent) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Oct 2026</sub>
+### 🥉 [docker-agent](https://github.com/docker/docker-agent) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Oct 2026</sub>
 
 **Docker CLI plugin that runs multi-agent teams defined in YAML.**
 
@@ -75,6 +57,24 @@ docker-agent is a Go CLI plugin (`docker agent run agent.yaml`) that runs agents
 - **−** RAM and hardware requirements are not documented in the README
 
 <sub>Go, OpenAI, Anthropic, Gemini, AWS Bedrock · Needs Docker CLI (plugin), LLM provider API key or Docker Model Runner, MCP servers (optional), OCI registry (optional) · Docker · [Repo](https://github.com/docker/docker-agent) · [📖 Docs ↗](https://docker.github.io/docker-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-agent/)</sub>
+
+<a name="mcp-use"></a>
+### #&#8288;4 [mcp-use](https://github.com/mcp-use/mcp-use) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
+
+**TypeScript framework for building MCP servers with React Views and an Inspector.**
+
+mcp-use is a TypeScript v2 framework, built on the official MCP TypeScript SDK, for writing MCP servers with Zod-typed tools. It binds React Views to tools so they render as interactive apps in hosts such as ChatGPT and Claude. It ships a dev Inspector, a headless client CLI, a View screenshot command, tunneling, and a deploy command targeting Manufact.
+
+- **+** Zod schemas flow from tool input and output into React View props
+- **+** Inspector served at /mcp/inspector in dev; headless CLI can call tools and screenshot Views
+- **+** Built-in tunnel (mcp-use dev --tunnel) for testing in ChatGPT and Claude before deploy
+- **+** MIT licensed, with a self-hosting guide alongside the hosted option
+- **−** v2 is a breaking change from v1; a migration guide is needed
+- **−** Benchmark and comparison figures are the project's own, not independent
+- **−** One-command npm run deploy targets the vendor's Manufact platform
+- **−** Example apps live in separate repos, not in the main package
+
+<sub>TypeScript · Needs Node.js, npm, React, Zod · safety checks passed 14 of 18 · [Repo](https://github.com/mcp-use/mcp-use) · [▶️ Demo ↗](https://inspector.mcp-use.com/inspector) · [📖 Docs ↗](https://docs.mcp-use.com/v2/typescript/getting-started/welcome) · [🌐 Site ↗](https://mcp-use.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-use/)</sub>
 
 <a name="eve-software-factory-template"></a>
 ### #&#8288;5 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (35) · Easy to run: easy (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Sep 2026</sub>
@@ -167,7 +167,7 @@ A Nuxt app plus an eve agent runtime: Better Auth email login, web chat with thr
 <sub>TypeScript, eve, ai-sdk · Needs postgres, vercel-blob, vercel-connect · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/personal-agent-template/)</sub>
 
 <a name="frontieragent"></a>
-### #&#8288;10 [frontieragent](https://github.com/apodexai/frontieragent) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [frontieragent](https://github.com/apodexai/frontieragent) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (61) · Easy to run: hard (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Oct 2026</sub>
 
 **Terminal agent runtime with single-agent and parallel sub-agent research workflows.**
 

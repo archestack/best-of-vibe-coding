@@ -77,7 +77,7 @@ Serena is an MCP server that exposes IDE-style tools to coding agents: find symb
 <sub>no GPU · Docker + Compose · Needs uv, language servers (per language), JetBrains IDE plugin (optional, paid) · Models: any MCP-capable client/LLM · safety checks passed 12 of 14 · [Repo](https://github.com/oraios/serena) · [📖 Docs ↗](https://oraios.github.io/serena/02-usage/000_intro.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serena/)</sub>
 
 <a name="chrome-devtools-mcp"></a>
-### #&#8288;5 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 54k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;5 [chrome-devtools-mcp](https://github.com/chromedevtools/chrome-devtools-mcp) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 54k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets coding agents drive and debug a live Chrome.**
 
@@ -238,26 +238,8 @@ Unity package that runs an MCP server connected to the Unity Editor, so agents s
 
 <sub>Needs Unity Editor, Node.js and npm (for unity-mcp-cli), Docker (optional, for hosting the MCP server) · Models: Claude, Codex, Cursor, GitHub Copilot, Gemini · [Repo](https://github.com/ivanmurzak/unity-mcp) · [📖 Docs ↗](https://ai-game.dev/docs/tools) · [🌐 Site ↗](https://ai-game.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ivanmurzak-unity-mcp/)</sub>
 
-<a name="linkedin-mcp-server"></a>
-### #&#8288;14 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Oct 2026</sub>
-
-**MCP server that lets agents read and act on LinkedIn via your browser session.**
-
-Python MCP server that drives a Patchright Chromium browser logged in as you. It exposes 20 tools for LinkedIn profiles, companies, jobs, posts, feed and messaging. It runs over stdio by default or streamable HTTP (127.0.0.1:8000/mcp), and can import an existing session from a local Chromium-based browser.
-
-- **+** 20 tools covering profiles, company data, job search, feed, post search and messaging
-- **+** Reuses a signed-in session from Chrome, Brave, Edge, Arc and other Chromium browsers
-- **+** Runs over stdio or streamable HTTP; installs with a single uvx config entry
-- **+** Tool calls are serialized across processes to protect the shared browser session
-- **−** Browser automation depends on LinkedIn page structure; README relies on @latest auto-updates
-- **−** Not affiliated with LinkedIn; automating a personal account may conflict with its terms
-- **−** Chrome 127+ app-bound (v20) cookies cannot be imported; manual login needed
-- **−** Session auto-import and inline login are skipped in Docker and non-loopback HTTP binds
-
-<sub>no GPU · Docker + Compose · Needs uv, Patchright Chromium, LinkedIn account · port 8000 · [Repo](https://github.com/stickerdaniel/linkedin-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/linkedin-mcp-server/)</sub>
-
 <a name="mobile-mcp"></a>
-### #&#8288;15 [mobile-mcp](https://github.com/mobile-next/mobile-mcp) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;14 [mobile-mcp](https://github.com/mobile-next/mobile-mcp) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets agents drive iOS and Android devices and simulators.**
 
@@ -275,7 +257,7 @@ Mobile MCP exposes tools for tapping, swiping, typing, app install/launch, scree
 <sub>no GPU · Docker · Needs Node.js v20+, Xcode command line tools, Android Platform Tools (adb) · Models: Any MCP-compatible client · [Repo](https://github.com/mobile-next/mobile-mcp) · [📖 Docs ↗](https://github.com/mobile-next/mobile-mcp/wiki) · [🌐 Site ↗](https://mobilenext.ai/cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mobile-mcp/)</sub>
 
 <a name="dev-browser"></a>
-### #&#8288;16 [dev-browser](https://github.com/sawyerhood/dev-browser) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Oct 2026</sub>
+### #&#8288;15 [dev-browser](https://github.com/sawyerhood/dev-browser) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Oct 2026</sub>
 
 **CLI that lets coding agents drive Chrome with short Puppeteer scripts.**
 
@@ -291,6 +273,24 @@ dev-browser runs JavaScript scripts against a persistent Chrome instance through
 - **−** Scripts sharing a named page can still interleave
 
 <sub>no GPU · Needs Chrome or Chromium · [Repo](https://github.com/sawyerhood/dev-browser) · [▶️ Demo ↗](https://github.com/user-attachments/assets/c6cf7fb9-b1dc-46ed-93b9-6e7240990c53) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dev-browser/)</sub>
+
+<a name="linkedin-mcp-server"></a>
+### #&#8288;16 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Oct 2026</sub>
+
+**MCP server that lets agents read and act on LinkedIn via your browser session.**
+
+Python MCP server that drives a Patchright Chromium browser logged in as you. It exposes 20 tools for LinkedIn profiles, companies, jobs, posts, feed and messaging. It runs over stdio by default or streamable HTTP (127.0.0.1:8000/mcp), and can import an existing session from a local Chromium-based browser.
+
+- **+** 20 tools covering profiles, company data, job search, feed, post search and messaging
+- **+** Reuses a signed-in session from Chrome, Brave, Edge, Arc and other Chromium browsers
+- **+** Runs over stdio or streamable HTTP; installs with a single uvx config entry
+- **+** Tool calls are serialized across processes to protect the shared browser session
+- **−** Browser automation depends on LinkedIn page structure; README relies on @latest auto-updates
+- **−** Not affiliated with LinkedIn; automating a personal account may conflict with its terms
+- **−** Chrome 127+ app-bound (v20) cookies cannot be imported; manual login needed
+- **−** Session auto-import and inline login are skipped in Docker and non-loopback HTTP binds
+
+<sub>no GPU · Docker + Compose · Needs uv, Patchright Chromium, LinkedIn account · port 8000 · [Repo](https://github.com/stickerdaniel/linkedin-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/linkedin-mcp-server/)</sub>
 
 <a name="repowise"></a>
 ### #&#8288;17 [repowise](https://github.com/repowise-dev/repowise) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.9k · AGPL-3.0 · Oct 2026</sub>
@@ -347,7 +347,7 @@ DevSpace is a Node-based MCP server that exposes selected local project folders 
 <sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📖 Docs ↗](https://github.com/Waishnav/devspace/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
 
 <a name="google-workspace-mcp"></a>
-### #&#8288;20 [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
+### #&#8288;20 [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **MCP server exposing Gmail, Drive, Calendar, Docs, Sheets and more to AI clients.**
 
@@ -383,7 +383,7 @@ code2prompt walks a directory, filters files with glob patterns and .gitignore r
 <sub>no GPU · [Repo](https://github.com/mufeedvh/code2prompt) · [📖 Docs ↗](https://code2prompt.dev/docs/welcome/) · [🌐 Site ↗](https://code2prompt.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code2prompt/)</sub>
 
 <a name="artemis"></a>
-### #&#8288;22 [artemis](https://github.com/google/artemis) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (39) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;22 [artemis](https://github.com/google/artemis) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Sep 2026</sub>
 
 **Drives real Android phones from natural language via CLI, web console, SDK or MCP.**
 
@@ -400,26 +400,8 @@ ARTEMIS runs a multimodal agent that operates an Android device or emulator over
 
 <sub>Docker · Needs ADB, scrcpy, FFmpeg, uv, Python 3.12+, Android device or emulator with USB debugging · Models: Gemini, Claude, GPT-4o, Qwen-VL · port 8000 · safety checks passed 12 of 17 · [Repo](https://github.com/google/artemis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/artemis/)</sub>
 
-<a name="mcp"></a>
-### #&#8288;23 [mcp](https://github.com/awslabs/mcp) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · Apache-2.0 · Oct 2026</sub>
-
-**AWS-maintained MCP servers for docs, IaC, containers, databases and cost tools.**
-
-A collection of MCP servers from AWS Labs that give coding agents and chat clients access to AWS documentation, CloudFormation/CDK guidance, EKS and serverless tooling, databases, and cost and operations data. The local servers are Python packages launched with uvx over stdio; two remote servers (AWS MCP Server in preview, AWS Knowledge) are hosted by AWS. The README says Agent Toolkit for AWS is the successor and the most useful projects here will move there.
-
-- **+** Many servers in one repo: docs, IaC, EKS, databases, cost, healthcare and more
-- **+** One-click install links for Kiro, Cursor and VS Code, plus config examples for Cline, Windsurf, Claude Code
-- **+** Hosted AWS Knowledge server needs no local install; AWS MCP Server adds IAM and CloudTrail logging
-- **+** Apache-2.0, published by AWS Labs with active commits and recent releases
-- **−** Local servers support stdio only; SSE was removed May 2025 and Streamable HTTP is not yet supported
-- **−** README names Agent Toolkit for AWS as successor; projects here may move
-- **−** Most servers need AWS credentials and the right IAM permissions
-- **−** Some servers are deprecated, such as the Cloud Control API server
-
-<sub>no GPU · Needs uvx, AWS credentials, MCP client · [Repo](https://github.com/awslabs/mcp) · [📖 Docs ↗](https://docs.aws.amazon.com/aws-mcp/latest/userguide/what-is-mcp-server.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp/)</sub>
-
 <a name="cursor-talk-to-figma-mcp"></a>
-### #&#8288;24 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
+### #&#8288;23 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
 
 **MCP server that lets Cursor or Claude Code read and edit Figma files.**
 
@@ -435,6 +417,24 @@ Connects an AI agent to Figma through three parts: a TypeScript MCP server, a We
 - **−** No tagged releases; setup docs focus on Cursor, with Claude Code only mentioned
 
 <sub>no GPU · Docker · Needs Bun, Figma, WebSocket server (bun socket), Figma plugin · Models: Cursor, Claude Code · [Repo](https://github.com/grab/cursor-talk-to-figma-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cursor-talk-to-figma-mcp/)</sub>
+
+<a name="mcp"></a>
+### #&#8288;24 [mcp](https://github.com/awslabs/mcp) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · Apache-2.0 · Oct 2026</sub>
+
+**AWS-maintained MCP servers for docs, IaC, containers, databases and cost tools.**
+
+A collection of MCP servers from AWS Labs that give coding agents and chat clients access to AWS documentation, CloudFormation/CDK guidance, EKS and serverless tooling, databases, and cost and operations data. The local servers are Python packages launched with uvx over stdio; two remote servers (AWS MCP Server in preview, AWS Knowledge) are hosted by AWS. The README says Agent Toolkit for AWS is the successor and the most useful projects here will move there.
+
+- **+** Many servers in one repo: docs, IaC, EKS, databases, cost, healthcare and more
+- **+** One-click install links for Kiro, Cursor and VS Code, plus config examples for Cline, Windsurf, Claude Code
+- **+** Hosted AWS Knowledge server needs no local install; AWS MCP Server adds IAM and CloudTrail logging
+- **+** Apache-2.0, published by AWS Labs with active commits and recent releases
+- **−** Local servers support stdio only; SSE was removed May 2025 and Streamable HTTP is not yet supported
+- **−** README names Agent Toolkit for AWS as successor; projects here may move
+- **−** Most servers need AWS credentials and the right IAM permissions
+- **−** Some servers are deprecated, such as the Cloud Control API server
+
+<sub>no GPU · Needs uvx, AWS credentials, MCP client · [Repo](https://github.com/awslabs/mcp) · [📖 Docs ↗](https://docs.aws.amazon.com/aws-mcp/latest/userguide/what-is-mcp-server.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp/)</sub>
 
 <a name="magic-mcp"></a>
 ### #&#8288;25 [magic-mcp](https://github.com/21st-dev/magic-mcp) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (68) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · ISC · Sep 2026</sub>
@@ -455,7 +455,7 @@ Formerly the Magic MCP server, this package is now a stdio proxy that forwards M
 <sub>no GPU · Docker · Needs 21st.dev API key, hosted 21st MCP server (21st.dev/api/mcp), Node.js/npx · [Repo](https://github.com/21st-dev/magic-mcp) · [📖 Docs ↗](https://21st.dev/mcp) · [🌐 Site ↗](https://21st.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/magic-mcp/)</sub>
 
 <a name="cli-anything"></a>
-### #&#8288;26 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (41) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;26 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (42) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · Apache-2.0 · Sep 2026</sub>
 
 **Generates command-line wrappers so AI agents can drive desktop and backend software.**
 

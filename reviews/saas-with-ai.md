@@ -5,7 +5,7 @@ Product boilerplates with auth, billing and a database wired in and AI built in,
 <sub>🌐 Also on the web: [SaaS and app starters on archestack.com](https://archestack.com/best-of-vibe-coding/saas-with-ai/), each project on its own page.</sub>
 
 <a name="ant-design-pro"></a>
-### 🥇 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (59) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
+### 🥇 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: some setup (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
 
 **React admin dashboard template built on Ant Design 6 and Umi Max.**
 

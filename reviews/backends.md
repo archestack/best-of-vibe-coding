@@ -76,7 +76,7 @@ Supabase bundles a Postgres database with generated REST and GraphQL APIs, JWT-b
 <sub>no GPU · Compose · Needs PostgreSQL, S3-compatible storage, Envoy · [Repo](https://github.com/supabase/supabase) · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase/)</sub>
 
 <a name="spacetimedb"></a>
-### #&#8288;5 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
+### #&#8288;5 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
 
 **Relational database that runs your app logic as modules and syncs clients live.**
 
@@ -129,26 +129,8 @@ Parse Server is a self-hosted backend that runs on Node.js, either standalone vi
 
 <sub>no GPU · Docker · Needs Node.js 20, 22 or 24, MongoDB 7/8 or PostgreSQL 16-18 with PostGIS · port 1337 · [Repo](https://github.com/parse-community/parse-server) · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/parse-server/)</sub>
 
-<a name="insforge"></a>
-### #&#8288;8 [insforge](https://github.com/insforge/insforge) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
-
-**Postgres-based backend platform that coding agents operate through an MCP server.**
-
-InsForge bundles Postgres, auth, S3-compatible storage, edge functions, an OpenAI-compatible model gateway and site deployment behind an MCP server. Coding agents read docs, schemas and logs, and run migrations, deploy functions and create buckets as tools. Self-hosting uses Docker Compose with generated secrets; a hosted cloud edition also exists.
-
-- **+** Covers auth, Postgres, storage, edge functions and model gateway in one stack
-- **+** MCP server exposes schemas, logs and config so agents can verify their own work
-- **+** Setup script generates JWT, encryption and database secrets into a mode 600 .env
-- **+** Storage can use local disk, bundled MinIO or RustFS, or any S3-compatible store
-- **−** CLI + Skills interface is cloud only; self-hosted gets the MCP server only
-- **−** Compute (long-running containers) is in private preview
-- **−** Resource requirements such as RAM are not documented in the README
-- **−** Running several instances needs manual per-project names and port overrides
-
-<sub>no GPU · Docker + Compose · Needs Docker with Compose v2, Postgres, S3-compatible store (optional) · Models: OpenAI-compatible gateway across multiple LLM providers · port 7130 · [Repo](https://github.com/insforge/insforge) · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/insforge/)</sub>
-
 <a name="nocobase"></a>
-### #&#8288;9 [nocobase](https://github.com/nocobase/nocobase) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
+### #&#8288;8 [nocobase](https://github.com/nocobase/nocobase) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
 
 **No-code platform for building business systems, with a CLI for coding agents.**
 
@@ -164,6 +146,24 @@ NocoBase is a plugin-based platform for building business applications through a
 - **−** Extending beyond the no-code UI requires learning its plugin architecture
 
 <sub>Docker + Compose · Compose runs MySQL, PostgreSQL · [Repo](https://github.com/nocobase/nocobase) · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocobase/)</sub>
+
+<a name="insforge"></a>
+### #&#8288;9 [insforge](https://github.com/insforge/insforge) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: easy (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
+
+**Postgres-based backend platform that coding agents operate through an MCP server.**
+
+InsForge bundles Postgres, auth, S3-compatible storage, edge functions, an OpenAI-compatible model gateway and site deployment behind an MCP server. Coding agents read docs, schemas and logs, and run migrations, deploy functions and create buckets as tools. Self-hosting uses Docker Compose with generated secrets; a hosted cloud edition also exists.
+
+- **+** Covers auth, Postgres, storage, edge functions and model gateway in one stack
+- **+** MCP server exposes schemas, logs and config so agents can verify their own work
+- **+** Setup script generates JWT, encryption and database secrets into a mode 600 .env
+- **+** Storage can use local disk, bundled MinIO or RustFS, or any S3-compatible store
+- **−** CLI + Skills interface is cloud only; self-hosted gets the MCP server only
+- **−** Compute (long-running containers) is in private preview
+- **−** Resource requirements such as RAM are not documented in the README
+- **−** Running several instances needs manual per-project names and port overrides
+
+<sub>no GPU · Docker + Compose · Needs Docker with Compose v2, Postgres, S3-compatible store (optional) · Models: OpenAI-compatible gateway across multiple LLM providers · port 7130 · [Repo](https://github.com/insforge/insforge) · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/insforge/)</sub>
 
 <a name="graphql-engine"></a>
 ### #&#8288;10 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>

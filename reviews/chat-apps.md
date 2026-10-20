@@ -40,7 +40,7 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
 
 <a name="nuxt-ui-chat"></a>
-### 🥉 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: patchy (32) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 379 · MIT · Oct 2026</sub>
+### 🥉 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 379 · MIT · Oct 2026</sub>
 
 **Nuxt UI chat template with GitHub login, SQLite history and AI Gateway.**
 
@@ -175,7 +175,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (24) · Freshness: quiet (20) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 878 · MIT · Dec 2025</sub>
+### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (24) · Freshness: quiet (20) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 879 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 
