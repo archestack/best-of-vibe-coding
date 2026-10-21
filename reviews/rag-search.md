@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (96) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Oct 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: hard (17) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -59,7 +59,7 @@ The canonical Azure RAG sample: a Python (Quart) backend and React frontend answ
 <sub>Python, azure-openai · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-document-intelligence, azure-blob-storage · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;4 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 507 · MIT · Oct 2026</sub>
+### #&#8288;4 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 508 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
@@ -77,7 +77,7 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
 <a name="chat-langchain"></a>
-### #&#8288;5 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (50) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Oct 2026</sub>
+### #&#8288;5 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (49) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Oct 2026</sub>
 
 **LangChain docs assistant as a Managed Deep Agent with Next.js UI.**
 
@@ -199,7 +199,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;12 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (16) · Freshness: recent (68) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;12 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (16) · Freshness: recent (68) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
