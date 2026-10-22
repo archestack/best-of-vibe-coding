@@ -238,7 +238,7 @@ Convex is a reactive database where queries and mutations are written as TypeScr
 <sub>no GPU · Needs Postgres, MySQL or SQLite (optional, self-hosted) · [Repo](https://github.com/convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
 
 <a name="nhost"></a>
-### #&#8288;14 [nhost](https://github.com/nhost/nhost) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: some setup (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Oct 2026</sub>
+### #&#8288;14 [nhost](https://github.com/nhost/nhost) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: some setup (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Oct 2026</sub>
 
 **Open-source Firebase alternative on Postgres, Hasura GraphQL, auth and storage.**
 
@@ -310,7 +310,7 @@ APIJSON is a Java library and JSON-based protocol. Clients send a JSON describin
 <sub>no GPU · Needs Java 1.8+, A supported database (e.g. MySQL 5.7+, PostgreSQL 9.5+) · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
 
 <a name="serverpod"></a>
-### #&#8288;18 [serverpod](https://github.com/serverpod/serverpod) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Oct 2026</sub>
+### #&#8288;18 [serverpod](https://github.com/serverpod/serverpod) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (57) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Oct 2026</sub>
 
 **Dart backend for Flutter apps with generated client code and ORM.**
 
@@ -382,7 +382,7 @@ Nitric is a Go-based CLI and framework where you declare APIs, buckets, queues, 
 <sub>no GPU · Needs Pulumi or Terraform (deployment), AWS, GCP or Azure account (deployment) · [Repo](https://github.com/nitrictech/nitric) · [📖 Docs ↗](https://nitric.io/docs) · [🌐 Site ↗](https://nitric.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nitric/)</sub>
 
 <a name="fusio"></a>
-### #&#8288;22 [fusio](https://github.com/apioo/fusio) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: fair (69) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;22 [fusio](https://github.com/apioo/fusio) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: fair (71) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Oct 2026</sub>
 
 **PHP API gateway and management platform with developer portal and MCP support.**
 
@@ -399,26 +399,8 @@ Fusio is a self-hosted PHP backend that exposes databases and custom actions (PH
 
 <sub>no GPU · Needs MySQL, PostgreSQL or SQLite, Nginx or Apache (production), Ollama, OpenAI or Gemini (optional, AI agent) · Models: Ollama, ChatGPT, Gemini · port 8080 · [Repo](https://github.com/apioo/fusio) · [▶️ Demo ↗](https://demo.fusio-project.org) · [📖 Docs ↗](https://docs.fusio-project.org/) · [🌐 Site ↗](https://www.fusio-project.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fusio/)</sub>
 
-<a name="classic-jazz"></a>
-### #&#8288;23 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
-
-**Local-first synced database with auth and permissions, now legacy.**
-
-Classic Jazz is the first-generation Jazz database. It syncs data, files and LLM streams across frontend, containers, serverless functions and Jazz Cloud, exposed as reactive local JSON-like state. It includes auth, orgs, permissions, edit history, encryption and offline support. The README recommends Jazz v2 for new projects, so this repo is the legacy line.
-
-- **+** Auth, orgs, permissions, edit history and encryption built into the data layer
-- **+** Offline support and multiplayer sync with reactive local state
-- **+** Self-host or use hosted Jazz Cloud
-- **+** MIT licensed, TypeScript codebase
-- **−** README recommends Jazz v2 for new projects; this is the legacy version
-- **−** README gives no install steps, ports or hardware requirements
-- **−** Self-hosting setup and Jazz Cloud pricing are not described in the README
-- **−** Requires adopting Jazz's own data model rather than SQL
-
-<sub>no GPU · [Repo](https://github.com/garden-co/classic-jazz) · [📖 Docs ↗](https://classic.jazz.tools/docs) · [🌐 Site ↗](https://classic.jazz.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/classic-jazz/)</sub>
-
 <a name="go-backend-clean-architecture"></a>
-### #&#8288;24 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: known (44) · Freshness: slowing (39) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;23 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: known (44) · Freshness: slowing (39) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Feb 2026</sub>
 
 **Go REST API template with Gin, MongoDB and JWT auth in layers.**
 
@@ -434,6 +416,24 @@ A Go backend template organized into router, controller, usecase, repository and
 - **−** No tagged releases
 
 <sub>no GPU · Docker + Compose · Needs MongoDB, Go, Docker (optional) · port 8080 · [Repo](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) · [📖 Docs ↗](https://documenter.getpostman.com/view/391588/2s8Z75S9xy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-backend-clean-architecture/)</sub>
+
+<a name="classic-jazz"></a>
+### #&#8288;24 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+
+**Local-first synced database with auth and permissions, now legacy.**
+
+Classic Jazz is the first-generation Jazz database. It syncs data, files and LLM streams across frontend, containers, serverless functions and Jazz Cloud, exposed as reactive local JSON-like state. It includes auth, orgs, permissions, edit history, encryption and offline support. The README recommends Jazz v2 for new projects, so this repo is the legacy line.
+
+- **+** Auth, orgs, permissions, edit history and encryption built into the data layer
+- **+** Offline support and multiplayer sync with reactive local state
+- **+** Self-host or use hosted Jazz Cloud
+- **+** MIT licensed, TypeScript codebase
+- **−** README recommends Jazz v2 for new projects; this is the legacy version
+- **−** README gives no install steps, ports or hardware requirements
+- **−** Self-hosting setup and Jazz Cloud pricing are not described in the README
+- **−** Requires adopting Jazz's own data model rather than SQL
+
+<sub>no GPU · [Repo](https://github.com/garden-co/classic-jazz) · [📖 Docs ↗](https://classic.jazz.tools/docs) · [🌐 Site ↗](https://classic.jazz.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/classic-jazz/)</sub>
 
 <a name="1backend"></a>
 ### #&#8288;25 [1backend](https://github.com/1backend/1backend) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (14) · Freshness: recent (69) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>

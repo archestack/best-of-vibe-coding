@@ -59,7 +59,7 @@ Dyad is a local, open-source prompt-to-app builder, positioned as an alternative
 <sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
 
 <a name="e2b"></a>
-### #&#8288;4 [e2b](https://github.com/e2b-dev/e2b) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (81) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [e2b](https://github.com/e2b-dev/e2b) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (82) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Oct 2026</sub>
 
 **SDKs for running AI-generated code in isolated cloud sandboxes.**
 
@@ -95,7 +95,7 @@ Next.js App Router app with Tailwind that sends a prompt to Llama 3.1 405B on To
 <sub>TypeScript, Together AI (Llama 3.1 405B) · Needs Together AI API key, PostgreSQL (Neon), S3 bucket for screenshots, Braintrust (optional) · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;6 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: known (42) · Freshness: active (94) · Maintenance: fair (56) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Sep 2026</sub>
+### #&#8288;6 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: known (42) · Freshness: active (94) · Maintenance: fair (56) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Oct 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -202,7 +202,7 @@ Next.js 15 app with Drizzle on Postgres that lets signed-in users (GitHub or Ver
 <sub>TypeScript, Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Cursor CLI · Needs PostgreSQL (Neon), Vercel Sandbox credentials, GitHub or Vercel OAuth app, agent API keys (Anthropic, OpenAI, Cursor, Gemini, AI Gateway) · GitHub template · [Repo](https://github.com/vercel-labs/coding-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-agent-template/)</sub>
 
 <a name="chef"></a>
-### #&#8288;12 [chef](https://github.com/convex/chef) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: known (32) · Freshness: slowing (48) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;12 [chef](https://github.com/convex/chef) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: known (32) · Freshness: slowing (47) · Maintenance: weak (0) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
