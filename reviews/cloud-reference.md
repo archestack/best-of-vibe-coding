@@ -95,7 +95,7 @@ A Python backend template that wires a stateful LangGraph agent into FastAPI wit
 <sub>Python, OpenAI, Anthropic, Ollama, Google GenAI · Needs PostgreSQL, pgvector, Langfuse (optional), Valkey/Redis (optional), Prometheus and Grafana (optional) · Docker · env example file · [Repo](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastapi-langgraph-agent-production-ready-template/)</sub>
 
 <a name="monid"></a>
-### #&#8288;6 [monid](https://github.com/monid-ai/monid) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
+### #&#8288;6 [monid](https://github.com/monid-ai/monid) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · Oct 2026</sub>
 
 **Declarative connector framework behind a metered catalog of agent tool APIs.**
 
@@ -148,8 +148,26 @@ A minimal repository template for Node.js 24 projects using TypeScript 6 with st
 
 <sub>TypeScript · Needs Node.js 24, npm, Mise (recommended) · GitHub template · [Repo](https://github.com/jsynowiec/node-typescript-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/node-typescript-boilerplate/)</sub>
 
+<a name="fastcrud"></a>
+### #&#8288;9 [fastcrud](https://github.com/benavlabs/fastcrud) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (72) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
+
+**Async CRUD methods and auto-generated endpoints for FastAPI and SQLAlchemy 2.0.**
+
+FastCRUD is a Python library that adds async CRUD operations on SQLAlchemy 2.0 models and a crud_router helper that generates FastAPI endpoints from a model and Pydantic schemas. It supports joins with auto-detected conditions, dynamic filtering and sorting, and offset and cursor pagination. It also ships a bundled agent skill that coding tools can load through library-skills.
+
+- **+** crud_router generates endpoints from a model plus create and update schemas
+- **+** Offset and cursor pagination built in, with auto-detected join conditions
+- **+** Can be used inside hand-written FastAPI routes via FastCRUD(Model)
+- **+** Bundled agent skill covers N+1 avoidance and when to use raw SQLAlchemy
+- **−** Aggregates, CTEs, GROUP BY projections and bulk writes need raw SQLAlchemy
+- **−** Requires Python 3.10+, SQLAlchemy 2.0.21+ and Pydantic 2.4.1+
+- **−** Non-native column types such as sqlalchemy-utils may raise NotImplementedError
+- **−** Library only: no auth, billing or frontend included
+
+<sub>Python · Needs FastAPI, SQLAlchemy >=2.0.21, Pydantic >=2.4.1, SQLAlchemy-Utils (optional) · [Repo](https://github.com/benavlabs/fastcrud) · [📖 Docs ↗](https://benavlabs.github.io/fastcrud/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastcrud/)</sub>
+
 <a name="fullstack-solution-template-for-agentcore"></a>
-### #&#8288;9 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 599 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 599 · Apache-2.0 · Oct 2026</sub>
 
 **React frontend and AgentCore backend starter, deployed to AWS with CDK or Terraform.**
 
@@ -167,7 +185,7 @@ A forkable starter that deploys a React/TypeScript chat frontend on Amplify Host
 <sub>Python, Amazon Bedrock · Needs AWS account, Amazon Bedrock AgentCore, Amazon Cognito, AWS Amplify Hosting, AWS Lambda, API Gateway · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
 
 <a name="nunu"></a>
-### #&#8288;10 [nunu](https://github.com/go-nunu/nunu) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
+### #&#8288;11 [nunu](https://github.com/go-nunu/nunu) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: patchy (38) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
 
 **Go CLI that scaffolds layered Gin and Gorm projects with Wire injection.**
 
@@ -183,24 +201,6 @@ Nunu is a Go CLI that generates a project from a template repo (basic, advanced 
 - **−** Templates are pulled from Git repos at creation time, so network access is needed
 
 <sub>Go · Needs Go 1.25.8+, Git, MySQL 5.7+ (optional), Redis (optional), Docker (optional) · [Repo](https://github.com/go-nunu/nunu) · [📖 Docs ↗](https://github.com/go-nunu/nunu/blob/main/docs/en/guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nunu/)</sub>
-
-<a name="fastcrud"></a>
-### #&#8288;11 [fastcrud](https://github.com/benavlabs/fastcrud) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (35) · Freshness: active (100) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
-
-**Async CRUD methods and auto-generated endpoints for FastAPI and SQLAlchemy 2.0.**
-
-FastCRUD is a Python library that adds async CRUD operations on SQLAlchemy 2.0 models and a crud_router helper that generates FastAPI endpoints from a model and Pydantic schemas. It supports joins with auto-detected conditions, dynamic filtering and sorting, and offset and cursor pagination. It also ships a bundled agent skill that coding tools can load through library-skills.
-
-- **+** crud_router generates endpoints from a model plus create and update schemas
-- **+** Offset and cursor pagination built in, with auto-detected join conditions
-- **+** Can be used inside hand-written FastAPI routes via FastCRUD(Model)
-- **+** Bundled agent skill covers N+1 avoidance and when to use raw SQLAlchemy
-- **−** Aggregates, CTEs, GROUP BY projections and bulk writes need raw SQLAlchemy
-- **−** Requires Python 3.10+, SQLAlchemy 2.0.21+ and Pydantic 2.4.1+
-- **−** Non-native column types such as sqlalchemy-utils may raise NotImplementedError
-- **−** Library only: no auth, billing or frontend included
-
-<sub>Python · Needs FastAPI, SQLAlchemy >=2.0.21, Pydantic >=2.4.1, SQLAlchemy-Utils (optional) · [Repo](https://github.com/benavlabs/fastcrud) · [📖 Docs ↗](https://benavlabs.github.io/fastcrud/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastcrud/)</sub>
 
 <a name="openai-chat-app-quickstart"></a>
 ### #&#8288;12 [openai-chat-app-quickstart](https://github.com/azure-samples/openai-chat-app-quickstart) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (10) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 254 · MIT · Sep 2026</sub>

@@ -5,7 +5,7 @@ MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databa
 <sub>🌐 Also on the web: [MCP servers for developers on archestack.com](https://archestack.com/best-of-vibe-coding/dev-mcp/), each project on its own page.</sub>
 
 <a name="gitnexus"></a>
-### 🥇 [gitnexus](https://github.com/abhigyanpatwari/gitnexus) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: very easy (83) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · custom license · Oct 2026</sub>
+### 🥇 [gitnexus](https://github.com/abhigyanpatwari/gitnexus) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: very easy (83) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · custom license · Oct 2026</sub>
 
 **Code knowledge graph exposed to coding agents through MCP tools.**
 
@@ -23,7 +23,7 @@ GitNexus indexes a repository with Tree-sitter into a LadybugDB graph of depende
 <sub>GPU optional · Docker + Compose · Needs Node.js, LadybugDB, Tree-sitter · Models: Claude Code, Cursor, Codex, Antigravity, Windsurf · safety checks passed 12 of 18 · [Repo](https://github.com/abhigyanpatwari/gitnexus) · [▶️ Demo ↗](https://gitnexus.vercel.app) · [🌐 Site ↗](https://gitnexus.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gitnexus/)</sub>
 
 <a name="codegraph"></a>
-### 🥈 [codegraph](https://github.com/colbymchenry/codegraph) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · MIT · Oct 2026</sub>
+### 🥈 [codegraph](https://github.com/colbymchenry/codegraph) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (91) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · MIT · Oct 2026</sub>
 
 **Local code knowledge graph that coding agents query over MCP.**
 
@@ -59,7 +59,7 @@ n8n-MCP is a TypeScript MCP server that gives AI assistants searchable access to
 <sub>no GPU · Docker + Compose · Needs n8n instance (optional, for management tools), n8n API key · [Repo](https://github.com/czlonkowski/n8n-mcp) · [▶️ Demo ↗](https://dashboard.n8n-mcp.com) · [📖 Docs ↗](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/SELF_HOSTING.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/n8n-mcp/)</sub>
 
 <a name="serena"></a>
-### #&#8288;4 [serena](https://github.com/oraios/serena) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · custom license · Oct 2026</sub>
+### #&#8288;4 [serena](https://github.com/oraios/serena) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · custom license · Oct 2026</sub>
 
 **MCP server giving coding agents symbol-level code search, editing and refactoring.**
 
@@ -275,7 +275,7 @@ A Ghidra extension (Java) plus a Python MCP bridge that exposes 209 tools for de
 <sub>no GPU · Docker + Compose · Needs Ghidra 12.1.4, Java 21, Python 3.10+, uv · port 8089 · [Repo](https://github.com/bethington/ghidra-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ghidra-mcp/)</sub>
 
 <a name="ivanmurzak-unity-mcp"></a>
-### #&#8288;16 [unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;16 [unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (85) · Easy to run: easy (50) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · Apache-2.0 · Oct 2026</sub>
 
 **Unity Editor and runtime plugin exposing 70+ MCP tools to coding agents.**
 
@@ -311,7 +311,7 @@ Python MCP server that drives a Patchright Chromium browser logged in as you. It
 <sub>no GPU · Docker + Compose · Needs uv, Patchright Chromium, LinkedIn account · port 8000 · [Repo](https://github.com/stickerdaniel/linkedin-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/linkedin-mcp-server/)</sub>
 
 <a name="arxiv-mcp-server"></a>
-### #&#8288;18 [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: easy (50) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;18 [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: easy (50) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server for searching, reading and citing arXiv papers by section.**
 
@@ -329,7 +329,7 @@ A local MCP server, run over stdio via `uvx arxiv-mcp-server`, that exposes 19 t
 <sub>no GPU · Docker · Needs uv, arXiv API, Semantic Scholar API, Python 3.11 · port 8080 · [Repo](https://github.com/blazickjp/arxiv-mcp-server) · [🌐 Site ↗](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.blazickjp%2Farxiv-mcp-server/versions/latest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/arxiv-mcp-server/)</sub>
 
 <a name="webcodex"></a>
-### #&#8288;19 [webcodex](https://github.com/yyjeqhc/webcodex) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;19 [webcodex](https://github.com/yyjeqhc/webcodex) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · Apache-2.0 · Oct 2026</sub>
 
 **Self-hosted MCP runtime that lets ChatGPT or Claude work in your local repos.**
 
@@ -437,7 +437,7 @@ Mobile MCP exposes tools for tapping, swiping, typing, app install/launch, scree
 <sub>no GPU · Docker · Needs Node.js v20+, Xcode command line tools, Android Platform Tools (adb) · Models: Any MCP-compatible client · [Repo](https://github.com/mobile-next/mobile-mcp) · [📖 Docs ↗](https://github.com/mobile-next/mobile-mcp/wiki) · [🌐 Site ↗](https://mobilenext.ai/cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mobile-mcp/)</sub>
 
 <a name="repowise"></a>
-### #&#8288;25 [repowise](https://github.com/repowise-dev/repowise) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (93) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.9k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;25 [repowise](https://github.com/repowise-dev/repowise) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (92) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.9k · AGPL-3.0 · Oct 2026</sub>
 
 **Local codebase index answering call-graph, risk and dead-code questions for agents.**
 
@@ -509,7 +509,7 @@ cocoindex-code indexes a repository into AST-based chunks and answers natural-la
 <sub>GPU optional · Docker + Compose · Needs CocoIndex, Python (pipx or uv), LiteLLM cloud embedding provider (slim variant), Docker (optional) · Models: sentence-transformers (local), Snowflake/snowflake-arctic-embed-xs, LiteLLM: OpenAI, Voyage, Gemini, Ollama · [Repo](https://github.com/cocoindex-io/cocoindex-code) · [📖 Docs ↗](https://cocoindex.io/docs/getting_started/quickstart) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cocoindex-code/)</sub>
 
 <a name="context7"></a>
-### #&#8288;29 [context7](https://github.com/upstash/context7) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (97) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
+### #&#8288;29 [context7](https://github.com/upstash/context7) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (98) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MIT · Oct 2026</sub>
 
 **MCP server and CLI that feed current library docs to coding agents.**
 
@@ -616,26 +616,8 @@ Gortex indexes repositories with tree-sitter (257 languages/grammars) into a per
 
 <sub>no GPU · Models: llama.cpp, Anthropic, OpenAI, Ollama, Gemini · [Repo](https://github.com/zzet/gortex) · [📖 Docs ↗](https://github.com/zzet/gortex/blob/main/docs/onboarding.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gortex/)</sub>
 
-<a name="typescript-sdk"></a>
-### #&#8288;35 [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Oct 2026</sub>
-
-**Official TypeScript SDK for building MCP servers and clients.**
-
-Split npm packages, @modelcontextprotocol/server and @modelcontextprotocol/client, implementing the 2026-07-28 MCP spec on Node.js, Bun and Deno. The server side covers tools, resources, prompts, Streamable HTTP, stdio and auth helpers; the client side covers transports and OAuth helpers. Optional thin adapters exist for Node HTTP, Express, Fastify and Hono.
-
-- **+** Reference SDK maintained in the modelcontextprotocol organization, tracking the 2026-07-28 spec
-- **+** Runs on Node.js, Bun and Deno
-- **+** Tool and prompt schemas use Standard Schema: Zod v4, Valibot, ArkType
-- **+** Separate Express, Fastify, Hono and Node HTTP adapter packages
-- **−** v2 is a breaking change from v1; migration guide required
-- **−** v1.x stays on a separate branch with its own package name and docs
-- **−** Library only: no ready-made servers, so you write the tool logic
-- **−** License is mixed: Apache-2.0 for new contributions, MIT for existing code
-
-<sub>no GPU · Needs Node.js, Bun or Deno, zod or another Standard Schema library · [Repo](https://github.com/modelcontextprotocol/typescript-sdk) · [📖 Docs ↗](https://ts.sdk.modelcontextprotocol.io/v2/) · [🌐 Site ↗](https://modelcontextprotocol.io/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/typescript-sdk/)</sub>
-
 <a name="ida-pro-mcp"></a>
-### #&#8288;36 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (74) · Freshness: active (83) · Maintenance: fair (58) · Easy to run: some setup (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Sep 2026</sub>
+### #&#8288;35 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (74) · Freshness: active (83) · Maintenance: fair (58) · Easy to run: some setup (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Sep 2026</sub>
 
 **MCP server that lets LLM clients decompile and annotate binaries in IDA Pro.**
 
@@ -653,7 +635,7 @@ Exposes IDA Pro to MCP clients as tools for decompiling, disassembling, cross-re
 <sub>no GPU · Needs IDA Pro 8.3+ (9 recommended), idalib, uv, Python 3.11+ · port 13337 · [Repo](https://github.com/mrexodia/ida-pro-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ida-pro-mcp/)</sub>
 
 <a name="code2prompt"></a>
-### #&#8288;37 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (61) · Freshness: active (89) · Maintenance: patchy (48) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Sep 2026</sub>
+### #&#8288;36 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (61) · Freshness: active (89) · Maintenance: patchy (48) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Sep 2026</sub>
 
 **Rust CLI that packs a codebase into one formatted LLM prompt.**
 
@@ -670,8 +652,26 @@ code2prompt walks a directory, filters files with glob patterns and .gitignore r
 
 <sub>no GPU · [Repo](https://github.com/mufeedvh/code2prompt) · [📖 Docs ↗](https://code2prompt.dev/docs/welcome/) · [🌐 Site ↗](https://code2prompt.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code2prompt/)</sub>
 
+<a name="stealth-browser-mcp"></a>
+### #&#8288;37 [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (36) · Freshness: active (94) · Maintenance: fair (67) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+
+**MCP server that drives real Chrome via nodriver to get past anti-bot checks.**
+
+Python MCP server built on FastMCP, nodriver and the Chrome DevTools Protocol that lets an AI agent control a real Chrome, Chromium or Edge instance. It exposes 101 tools for navigation, element interaction, network inspection, element cloning, cookies and CDP execution. Sections can be disabled, down to a 21-tool core, and it runs over stdio or HTTP with an optional bearer token.
+
+- **+** Modular: full 101 tools, 21-tool --minimal mode, or per-section --disable-* flags
+- **+** Network inspection and restricted Python hooks to intercept, block, redirect or modify requests
+- **+** Element cloning extracts CSS, DOM structure, events, animations and assets via CDP
+- **+** Runs over stdio or HTTP; HTTP supports a bearer token via environment variable
+- **−** Anti-bot results vary by site, region, browser and detector version, per the README
+- **−** Exposes CDP, page JS, cookies and interception; README says to trust only local clients
+- **−** Needs a local Chrome, Chromium or Edge install and a Python 3.10+ venv
+- **−** README carries a paid sponsor placement for a proxy provider
+
+<sub>no GPU · Docker · Needs Python 3.10+, Chrome, Chromium or Edge, nodriver, FastMCP · port 8000 · [Repo](https://github.com/vibheksoni/stealth-browser-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stealth-browser-mcp/)</sub>
+
 <a name="gitlab-mcp"></a>
-### #&#8288;38 [gitlab-mcp](https://github.com/zereight/gitlab-mcp) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Oct 2026</sub>
+### #&#8288;38 [gitlab-mcp](https://github.com/zereight/gitlab-mcp) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: easy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Oct 2026</sub>
 
 **MCP server exposing GitLab projects, merge requests, issues and pipelines to agents.**
 
@@ -688,23 +688,23 @@ TypeScript MCP server that wraps the GitLab API with 276 tools covering projects
 
 <sub>no GPU · Docker + Compose · Needs GitLab instance, Node.js >=18.17, GitLab personal access token or OAuth · [Repo](https://github.com/zereight/gitlab-mcp) · [📖 Docs ↗](https://zereight.github.io/gitlab-mcp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gitlab-mcp/)</sub>
 
-<a name="stealth-browser-mcp"></a>
-### #&#8288;39 [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (35) · Freshness: active (94) · Maintenance: fair (67) · Easy to run: easy (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
+<a name="typescript-sdk"></a>
+### #&#8288;39 [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: hard (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Oct 2026</sub>
 
-**MCP server that drives real Chrome via nodriver to get past anti-bot checks.**
+**Official TypeScript SDK for building MCP servers and clients.**
 
-Python MCP server built on FastMCP, nodriver and the Chrome DevTools Protocol that lets an AI agent control a real Chrome, Chromium or Edge instance. It exposes 101 tools for navigation, element interaction, network inspection, element cloning, cookies and CDP execution. Sections can be disabled, down to a 21-tool core, and it runs over stdio or HTTP with an optional bearer token.
+Split npm packages, @modelcontextprotocol/server and @modelcontextprotocol/client, implementing the 2026-07-28 MCP spec on Node.js, Bun and Deno. The server side covers tools, resources, prompts, Streamable HTTP, stdio and auth helpers; the client side covers transports and OAuth helpers. Optional thin adapters exist for Node HTTP, Express, Fastify and Hono.
 
-- **+** Modular: full 101 tools, 21-tool --minimal mode, or per-section --disable-* flags
-- **+** Network inspection and restricted Python hooks to intercept, block, redirect or modify requests
-- **+** Element cloning extracts CSS, DOM structure, events, animations and assets via CDP
-- **+** Runs over stdio or HTTP; HTTP supports a bearer token via environment variable
-- **−** Anti-bot results vary by site, region, browser and detector version, per the README
-- **−** Exposes CDP, page JS, cookies and interception; README says to trust only local clients
-- **−** Needs a local Chrome, Chromium or Edge install and a Python 3.10+ venv
-- **−** README carries a paid sponsor placement for a proxy provider
+- **+** Reference SDK maintained in the modelcontextprotocol organization, tracking the 2026-07-28 spec
+- **+** Runs on Node.js, Bun and Deno
+- **+** Tool and prompt schemas use Standard Schema: Zod v4, Valibot, ArkType
+- **+** Separate Express, Fastify, Hono and Node HTTP adapter packages
+- **−** v2 is a breaking change from v1; migration guide required
+- **−** v1.x stays on a separate branch with its own package name and docs
+- **−** Library only: no ready-made servers, so you write the tool logic
+- **−** License is mixed: Apache-2.0 for new contributions, MIT for existing code
 
-<sub>no GPU · Docker · Needs Python 3.10+, Chrome, Chromium or Edge, nodriver, FastMCP · port 8000 · [Repo](https://github.com/vibheksoni/stealth-browser-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stealth-browser-mcp/)</sub>
+<sub>no GPU · Needs Node.js, Bun or Deno, zod or another Standard Schema library · [Repo](https://github.com/modelcontextprotocol/typescript-sdk) · [📖 Docs ↗](https://ts.sdk.modelcontextprotocol.io/v2/) · [🌐 Site ↗](https://modelcontextprotocol.io/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/typescript-sdk/)</sub>
 
 <a name="cursor-talk-to-figma-mcp"></a>
 ### #&#8288;40 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
@@ -725,7 +725,7 @@ Connects an AI agent to Figma through three parts: a TypeScript MCP server, a We
 <sub>no GPU · Docker · Needs Bun, Figma, WebSocket server (bun socket), Figma plugin · Models: Cursor, Claude Code · [Repo](https://github.com/grab/cursor-talk-to-figma-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cursor-talk-to-figma-mcp/)</sub>
 
 <a name="magic-mcp"></a>
-### #&#8288;41 [magic-mcp](https://github.com/21st-dev/magic-mcp) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (68) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · ISC · Sep 2026</sub>
+### #&#8288;41 [magic-mcp](https://github.com/21st-dev/magic-mcp) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (67) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · ISC · Sep 2026</sub>
 
 **MCP proxy that gives coding agents 21st.dev UI component search and generation.**
 
@@ -743,7 +743,7 @@ Formerly the Magic MCP server, this package is now a stdio proxy that forwards M
 <sub>no GPU · Docker · Needs 21st.dev API key, hosted 21st MCP server (21st.dev/api/mcp), Node.js/npx · [Repo](https://github.com/21st-dev/magic-mcp) · [📖 Docs ↗](https://21st.dev/mcp) · [🌐 Site ↗](https://21st.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/magic-mcp/)</sub>
 
 <a name="artemis"></a>
-### #&#8288;42 [artemis](https://github.com/google/artemis) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: patchy (40) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;42 [artemis](https://github.com/google/artemis) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: patchy (39) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Sep 2026</sub>
 
 **Drives real Android phones from natural language via CLI, web console, SDK or MCP.**
 
@@ -797,7 +797,7 @@ A collection of MCP servers from AWS Labs that give coding agents and chat clien
 <sub>no GPU · Needs uvx, AWS credentials, MCP client · [Repo](https://github.com/awslabs/mcp) · [📖 Docs ↗](https://docs.aws.amazon.com/aws-mcp/latest/userguide/what-is-mcp-server.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp/)</sub>
 
 <a name="lanhu-mcp"></a>
-### #&#8288;45 [lanhu-mcp](https://github.com/dsphper/lanhu-mcp) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
+### #&#8288;45 [lanhu-mcp](https://github.com/dsphper/lanhu-mcp) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (90) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
 
 **MCP server that feeds Lanhu requirement docs and designs to coding agents.**
 
@@ -833,7 +833,7 @@ CodexPro is a Node.js MCP server that connects a ChatGPT session to repositories
 <sub>no GPU · Needs Node.js 20+, ChatGPT account with custom MCP plugins, HTTPS tunnel (Cloudflare, ngrok or Tailscale Funnel) · Models: ChatGPT · [Repo](https://github.com/rebel0789/codexpro) · [📖 Docs ↗](https://rebel0789.github.io/codexpro/) · [🌐 Site ↗](https://rebel0789.github.io/codexpro/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codexpro/)</sub>
 
 <a name="mcp-server-kubernetes"></a>
-### #&#8288;47 [mcp-server-kubernetes](https://github.com/flux159/mcp-server-kubernetes) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (6) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
+### #&#8288;47 [mcp-server-kubernetes](https://github.com/flux159/mcp-server-kubernetes) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (86) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
 
 **MCP server that lets coding agents manage Kubernetes clusters via kubectl and Helm.**
 
@@ -959,7 +959,7 @@ A set of remote MCP servers hosted under *.mcp.cloudflare.com that let MCP clien
 <sub>no GPU · Needs Cloudflare account, Cloudflare API token · [Repo](https://github.com/cloudflare/mcp-server-cloudflare) · [▶️ Demo ↗](https://playground.ai.cloudflare.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-cloudflare/)</sub>
 
 <a name="supabase-mcp"></a>
-### #&#8288;54 [mcp](https://github.com/supabase/mcp) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;54 [mcp](https://github.com/supabase/mcp) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (80) · Easy to run: hard (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets AI assistants manage and query Supabase projects.**
 
@@ -1085,7 +1085,7 @@ jshookmcp is a TypeScript MCP server exposing 735 tools across 36 domains: Chrom
 <sub>no GPU · Needs Node.js 22.22.2+, pnpm 10.x (build from source), ONNX (optional), Z3 (optional), Binaryen (optional), Camoufox (optional), Playwright (optional) · port 3000 · [Repo](https://github.com/vmoranv/jshookmcp) · [📖 Docs ↗](https://vmoranv.github.io/jshookmcp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jshookmcp/)</sub>
 
 <a name="mcp-unity"></a>
-### #&#8288;61 [mcp-unity](https://github.com/codergamester/mcp-unity) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: healthy (83) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;61 [mcp-unity](https://github.com/codergamester/mcp-unity) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: fair (69) · Easy to run: hard (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **MCP server that lets coding agents drive the Unity Editor.**
 
@@ -1157,7 +1157,7 @@ Markdownify is a TypeScript MCP server that wraps Microsoft's markitdown to turn
 <sub>no GPU · Docker · Needs bun, Python, markitdown, repomix · [Repo](https://github.com/zcaceres/markdownify-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/markdownify-mcp/)</sub>
 
 <a name="nitrostack"></a>
-### #&#8288;65 [nitrostack](https://github.com/nitrocloudofficial/nitrostack) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: patchy (39) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;65 [nitrostack](https://github.com/nitrocloudofficial/nitrostack) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: patchy (39) · Easy to run: hard (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
 
 **TypeScript framework for building MCP servers with decorators and DI.**
 
