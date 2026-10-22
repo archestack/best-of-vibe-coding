@@ -22,26 +22,8 @@ Open Code Review is a Go CLI (`ocr`) that reads a Git diff, groups related files
 
 <sub>no GPU · Needs Git >= 2.41, LLM provider API · Models: configurable LLM providers, custom providers · [Repo](https://github.com/alibaba/open-code-review) · [📖 Docs ↗](https://open-codereview.ai/docs) · [🌐 Site ↗](https://open-codereview.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-code-review/)</sub>
 
-<a name="react-doctor"></a>
-### 🥈 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (95) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Oct 2026</sub>
-
-**CLI that scans React codebases for state, performance, security and accessibility issues.**
-
-React Doctor runs deterministic checks over a React project and reports issues in state and effects, performance, architecture, security, accessibility and maintainability. It covers Next.js, Vite, Astro, TanStack, React Native and Expo. It also installs as a skill for coding agents, runs on pull requests in CI, and can record a Chrome DevTools performance trace of a running app.
-
-- **+** Runs with one npx command from the project root, no setup needed
-- **+** Deterministic rules rather than LLM-generated findings
-- **+** Agent skill installer supports Claude Code, Cursor, Codex and OpenCode
-- **+** Rules configurable in doctor.config.ts; CI installer reports issues each PR introduces
-- **−** React-only; no support for other frameworks beyond the listed React stacks
-- **−** CLI collects crash reports and anonymous usage data unless opted out
-- **−** Runtime trace scan needs a running app and a Chrome DevTools trace
-- **−** README does not list the number of rules or their names
-
-<sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
-
 <a name="hunk"></a>
-### 🥉 [hunk](https://github.com/modem-dev/hunk) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.7k · MIT · Oct 2026</sub>
+### 🥈 [hunk](https://github.com/modem-dev/hunk) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (87) · Easy to run: easy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.7k · MIT · Oct 2026</sub>
 
 **Terminal diff viewer for reviewing code changes, with inline agent notes.**
 
@@ -57,6 +39,24 @@ Hunk is an interactive terminal diff viewer built on OpenTUI and Pierre diffs. I
 - **−** Extension API is experimental and may break between minor releases
 
 <sub>no GPU · Needs Git (recommended), Node.js 22+ (npm install only), GH_TOKEN or GITHUB_TOKEN (private repos) · [Repo](https://github.com/modem-dev/hunk) · [📖 Docs ↗](https://hunk.dev/docs/) · [🌐 Site ↗](https://hunk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hunk/)</sub>
+
+<a name="react-doctor"></a>
+### 🥉 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (94) · Easy to run: some setup (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Oct 2026</sub>
+
+**CLI that scans React codebases for state, performance, security and accessibility issues.**
+
+React Doctor runs deterministic checks over a React project and reports issues in state and effects, performance, architecture, security, accessibility and maintainability. It covers Next.js, Vite, Astro, TanStack, React Native and Expo. It also installs as a skill for coding agents, runs on pull requests in CI, and can record a Chrome DevTools performance trace of a running app.
+
+- **+** Runs with one npx command from the project root, no setup needed
+- **+** Deterministic rules rather than LLM-generated findings
+- **+** Agent skill installer supports Claude Code, Cursor, Codex and OpenCode
+- **+** Rules configurable in doctor.config.ts; CI installer reports issues each PR introduces
+- **−** React-only; no support for other frameworks beyond the listed React stacks
+- **−** CLI collects crash reports and anonymous usage data unless opted out
+- **−** Runtime trace scan needs a running app and a Chrome DevTools trace
+- **−** README does not list the number of rules or their names
+
+<sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
 
 <a name="no-mistakes"></a>
 ### #&#8288;4 [no-mistakes](https://github.com/kunchenguid/no-mistakes) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (84) · Easy to run: easy (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Oct 2026</sub>
@@ -203,7 +203,7 @@ Mantis is a set of agent skills plus a Google ADK reference harness that runs a 
 <sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
 
 <a name="shippie"></a>
-### #&#8288;12 [shippie](https://github.com/mattzcarey/shippie) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (25) · Freshness: active (95) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+### #&#8288;12 [shippie](https://github.com/mattzcarey/shippie) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (25) · Freshness: active (94) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
 
 **Code-review agent that comments on pull requests and staged diffs.**
 
