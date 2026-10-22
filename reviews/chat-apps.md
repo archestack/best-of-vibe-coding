@@ -5,7 +5,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 <sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="langchain-nextjs-template"></a>
-### 🥇 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
+### 🥇 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: patchy (33) · Easy to run: easy (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
 
 **Next.js routes for LangChain.js chat, agents, structured output and RAG.**
 
@@ -175,7 +175,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (22) · Freshness: quiet (20) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 880 · MIT · Dec 2025</sub>
+### #&#8288;11 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (22) · Freshness: quiet (20) · Maintenance: weak (0) · Easy to run: some setup (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 881 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

@@ -41,7 +41,7 @@ JeecgBoot is a Spring Boot 4 and Vue3 platform for building enterprise systems s
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, Nacos (microservice mode), MinIO or Aliyun OSS (optional) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
 
 <a name="dyad"></a>
-### 🥉 [dyad](https://github.com/dyad-sh/dyad) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (88) · Easy to run: hard (17) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Oct 2026</sub>
+### 🥉 [dyad](https://github.com/dyad-sh/dyad) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (89) · Easy to run: hard (17) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Oct 2026</sub>
 
 **Desktop app that builds apps from prompts on your own machine.**
 
