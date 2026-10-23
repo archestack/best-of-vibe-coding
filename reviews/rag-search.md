@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -22,26 +22,8 @@ XERJ is a single Rust binary that speaks the Elasticsearch API. `xerj autoindex 
 
 <sub>Rust, lexical embedder (default, offline), neural embedder (opt-in, ~90 MB download), Jev reranker (optional, external service) · [Repo](https://github.com/xerj-org/xerj) · [▶️ Demo ↗](https://xerj.org/playground/) · [📖 Docs ↗](https://xerj.org/docs/recipes/) · [🌐 Site ↗](https://xerj.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xerj/)</sub>
 
-<a name="llm-app"></a>
-### 🥈 [llm-app](https://github.com/pathwaycom/serviette) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 59k · MIT · Oct 2026</sub>
-
-**YAML-configured RAG server that keeps a vector database synced with a document folder.**
-
-serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint, FTP/SFTP/WebDAV), parses and embeds documents with Pathway, and writes them to one of 8 vector databases. A separate stateless server hosts a web chat UI on / and a REST API under /api/v1 on port 8989, answering with cited sources. Edits and deletions in the source become upserts and deletes in the store within seconds.
-
-- **+** Edits, additions and deletions propagate to the vector store as real upserts and deletes
-- **+** 8 backends: DuckDB (default, embedded), pgvector, Qdrant, Milvus, ChromaDB, Weaviate, Pinecone, MongoDB Atlas
-- **+** Indexer and server are separate processes sharing only the database; server scales horizontally
-- **+** Published benchmarks: 50 GB of text indexed at 14.65 GiB peak PSS, plus FRAMES retrieval results
-- **−** Requires a Pathway license key, free but obtained via GitHub or LinkedIn sign-in
-- **−** No conversation memory or user accounts; answers one question at a time
-- **−** Default DuckDB backend is single-writer, so it suits laptops and demos only
-- **−** Local embeddings pull in PyTorch (about 0.8 GB for the CPU build)
-
-<sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
-
 <a name="azure-search-openai-demo"></a>
-### 🥉 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
+### 🥈 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
 
 **Azure RAG chat reference on AI Search and Azure OpenAI.**
 
@@ -58,8 +40,26 @@ The canonical Azure RAG sample: a Python (Quart) backend and React frontend answ
 
 <sub>Python, azure-openai · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-document-intelligence, azure-blob-storage · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
+<a name="llm-app"></a>
+### 🥉 [llm-app](https://github.com/pathwaycom/serviette) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 59k · MIT · Oct 2026</sub>
+
+**YAML-configured RAG server that keeps a vector database synced with a document folder.**
+
+serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint, FTP/SFTP/WebDAV), parses and embeds documents with Pathway, and writes them to one of 8 vector databases. A separate stateless server hosts a web chat UI on / and a REST API under /api/v1 on port 8989, answering with cited sources. Edits and deletions in the source become upserts and deletes in the store within seconds.
+
+- **+** Edits, additions and deletions propagate to the vector store as real upserts and deletes
+- **+** 8 backends: DuckDB (default, embedded), pgvector, Qdrant, Milvus, ChromaDB, Weaviate, Pinecone, MongoDB Atlas
+- **+** Indexer and server are separate processes sharing only the database; server scales horizontally
+- **+** Published benchmarks: 50 GB of text indexed at 14.65 GiB peak PSS, plus FRAMES retrieval results
+- **−** Requires a Pathway license key, free but obtained via GitHub or LinkedIn sign-in
+- **−** No conversation memory or user accounts; answers one question at a time
+- **−** Default DuckDB backend is single-writer, so it suits laptops and demos only
+- **−** Local embeddings pull in PyTorch (about 0.8 GB for the CPU build)
+
+<sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
+
 <a name="chat-langchain"></a>
-### #&#8288;4 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Oct 2026</sub>
+### #&#8288;4 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Oct 2026</sub>
 
 **LangChain docs Q&A agent with a Next.js chat frontend.**
 
@@ -147,25 +147,8 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
-<a name="azure-search-openai-javascript"></a>
-### #&#8288;9 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 323 · MIT · Sep 2026</sub>
-
-**TypeScript RAG on Azure AI Search with separate indexer and search services.**
-
-The Node.js counterpart of the Azure RAG sample: a search API, an indexer service and a web app that answer chat and Q&A questions over your documents with citations, using Azure AI Search and Azure OpenAI through LangChain.js. azd up provisions Container Apps for the backend and a Static Web App for the frontend, and the search API speaks the AI chat HTTP protocol so the Python backend can replace it. For TypeScript teams on Azure.
-
-- **+** Indexer, search API and web app are separate services with their own deploys
-- **+** Search API follows the AI chat HTTP protocol; the backend is swappable
-- **+** Tests included; Codespaces and dev container configs
-- **−** Cannot run locally until azd up has provisioned Azure resources
-- **−** No authentication shipped; Entra setup is a linked tutorial
-- **−** Azure OpenAI and Azure AI Search only
-- **−** Less active than the Python sample (seed stars 322 vs 7776)
-
-<sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
-
 <a name="llm-answer-engine"></a>
-### #&#8288;10 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (59) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;9 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (61) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -181,8 +164,25 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
+<a name="azure-search-openai-javascript"></a>
+### #&#8288;10 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 323 · MIT · Sep 2026</sub>
+
+**TypeScript RAG on Azure AI Search with separate indexer and search services.**
+
+The Node.js counterpart of the Azure RAG sample: a search API, an indexer service and a web app that answer chat and Q&A questions over your documents with citations, using Azure AI Search and Azure OpenAI through LangChain.js. azd up provisions Container Apps for the backend and a Static Web App for the frontend, and the search API speaks the AI chat HTTP protocol so the Python backend can replace it. For TypeScript teams on Azure.
+
+- **+** Indexer, search API and web app are separate services with their own deploys
+- **+** Search API follows the AI chat HTTP protocol; the backend is swappable
+- **+** Tests included; Codespaces and dev container configs
+- **−** Cannot run locally until azd up has provisioned Azure resources
+- **−** No authentication shipped; Entra setup is a linked tutorial
+- **−** Azure OpenAI and Azure AI Search only
+- **−** Less active than the Python sample (seed stars 322 vs 7776)
+
+<sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
+
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;11 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (36) · Freshness: recent (73) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;11 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: known (39) · Freshness: recent (73) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
