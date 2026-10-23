@@ -59,7 +59,7 @@ PR-Agent runs as a GitHub Action, CLI, Docker image or webhook service and posts
 <sub>no GPU · Docker + Compose · Needs LLM API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
 
 <a name="e2e"></a>
-### #&#8288;4 [e2e](https://github.com/tester-army/e2e) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
 
 **AI-driven end-to-end testing framework for web and mobile apps.**
 
@@ -131,7 +131,7 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 13 of 14 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="pr-lens"></a>
-### #&#8288;8 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Oct 2026</sub>
+### #&#8288;8 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Oct 2026</sub>
 
 **Posts animated architecture and data-flow diagrams as pull request comments.**
 
@@ -149,7 +149,7 @@ PR Lens reads a pull request diff with an LLM and posts a comment containing ani
 <sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
 
 <a name="deepsec"></a>
-### #&#8288;9 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;9 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · Apache-2.0 · Sep 2026</sub>
 
 **Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
 
@@ -167,7 +167,7 @@ deepsec runs regex matchers to find candidate sites in a repository, then has AI
 <sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
 
 <a name="mantis"></a>
-### #&#8288;10 [mantis](https://github.com/google/mantis) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;10 [mantis](https://github.com/google/mantis) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
 
 **Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
 
@@ -185,7 +185,7 @@ Mantis is a set of agent skills plus a Google ADK reference harness that runs a 
 <sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
 
 <a name="chatgpt-codereview"></a>
-### #&#8288;11 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (41) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
+### #&#8288;11 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (41) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
 
 **GitHub bot and Action that reviews pull request diffs with an LLM.**
 
@@ -203,7 +203,7 @@ Probot-based GitHub app that reviews pull requests with OpenAI-compatible models
 <sub>no GPU · Docker · Needs GitHub App or GitHub Actions, OpenAI-compatible API, Azure OpenAI or GitHub Models, Node.js, pm2 (self-hosting) · Models: OpenAI GPT models, Azure OpenAI deployments, GitHub Models · [Repo](https://github.com/anc95/chatgpt-codereview) · [▶️ Demo ↗](https://github.com/apps/cr-gpt) · [📖 Docs ↗](https://github.com/marketplace/actions/chatgpt-codereviewer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-codereview/)</sub>
 
 <a name="shippie"></a>
-### #&#8288;12 [shippie](https://github.com/mattzcarey/shippie) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (27) · Freshness: active (94) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+### #&#8288;12 [shippie](https://github.com/mattzcarey/shippie) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (24) · Freshness: active (94) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
 
 **Code-review agent that comments on pull requests and staged diffs.**
 
@@ -257,7 +257,7 @@ A GitHub Action that installs and runs Gemini CLI inside workflows. Prebuilt wor
 <sub>no GPU · Needs GitHub Actions, Gemini CLI, Gemini API key or Google Cloud (Vertex AI / Code Assist) · Models: Gemini · [Repo](https://github.com/google-github-actions/run-gemini-cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/run-gemini-cli/)</sub>
 
 <a name="claude-code-security-review"></a>
-### #&#8288;15 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (49) · Freshness: slowing (41) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Feb 2026</sub>
+### #&#8288;15 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (49) · Freshness: slowing (40) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Feb 2026</sub>
 
 **GitHub Action that has Claude review pull request diffs for security issues.**
 

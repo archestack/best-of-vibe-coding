@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -165,7 +165,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;10 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (59) · Freshness: recent (69) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;10 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (59) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -199,7 +199,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;12 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (15) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;12 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (15) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
@@ -216,7 +216,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;13 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (1) · Freshness: quiet (20) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 204 · MIT · Dec 2025</sub>
+### #&#8288;13 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (1) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 205 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 

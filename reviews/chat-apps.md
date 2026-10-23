@@ -76,7 +76,7 @@ A Nuxt app on Nuxt UI and the AI SDK: streaming replies with reasoning, three mo
 <sub>Vue, ai-gateway, ai-sdk, anthropic, google · Needs ai-gateway-api-key, github-oauth-app, sqlite-or-turso · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="twitterbio"></a>
-### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (44) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jun 2026</sub>
+### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (44) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jun 2026</sub>
 
 **Single-form Next.js text generator streaming from Together AI.**
 
@@ -143,7 +143,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;9 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (27) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 886 · MIT · Mar 2026</sub>
+### #&#8288;9 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (27) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 886 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -175,7 +175,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="zola"></a>
-### #&#8288;11 [zola](https://github.com/ibelick/zola) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: known (37) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;11 [zola](https://github.com/ibelick/zola) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: known (37) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
 
@@ -192,7 +192,7 @@ A Next.js chat interface on the AI SDK that talks to OpenAI, Mistral, Anthropic,
 <sub>TypeScript, ai-sdk, openai, anthropic, google · Needs supabase, ollama, provider-api-keys · Docker · env example file · sign-in: Supabase Auth · [Repo](https://github.com/ibelick/zola) · [▶️ Demo ↗](https://zola.chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zola/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [12](../README.md#-how-we-rank "Score 12/100. Adoption: niche (22) · Freshness: quiet (20) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 881 · MIT · Dec 2025</sub>
+### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [12](../README.md#-how-we-rank "Score 12/100. Adoption: niche (22) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 881 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 
