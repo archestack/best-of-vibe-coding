@@ -23,7 +23,7 @@ A GitHub template for a full-stack web app: a FastAPI backend using SQLModel and
 <sub>TypeScript · Needs PostgreSQL, Docker Compose, Traefik, Mailpit · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/fastapi/full-stack-fastapi-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/full-stack-fastapi-template/)</sub>
 
 <a name="full-stack-ai-agent-template"></a>
-### 🥈 [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### 🥈 [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **Project generator for FastAPI and Next.js apps with agents and RAG.**
 
@@ -41,7 +41,7 @@ CLI (pip install fastapi-fullstack) scaffolding a FastAPI backend and Next.js fr
 <sub>Python, Pydantic AI, Pydantic Deep Agents, LangChain, LangGraph · Needs PostgreSQL, Redis (optional), Milvus, Qdrant, pgvector or ChromaDB (RAG), Stripe (billing), LLM provider API key · [Repo](https://github.com/vstorm-co/full-stack-ai-agent-template) · [📖 Docs ↗](https://vstorm-co.github.io/full-stack-ai-agent-template/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/full-stack-ai-agent-template/)</sub>
 
 <a name="agent-service-toolkit"></a>
-### 🥉 [agent-service-toolkit](https://github.com/joshuac215/agent-service-toolkit) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Oct 2026</sub>
+### 🥉 [agent-service-toolkit](https://github.com/joshuac215/agent-service-toolkit) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Oct 2026</sub>
 
 **LangGraph agents served by FastAPI with a Streamlit chat client.**
 
@@ -59,7 +59,7 @@ Python service where LangGraph v1 agents (interrupt, Command, Store) are served 
 <sub>Python, LangChain providers: OpenAI, Anthropic, Google, Ollama, VertexAI, vLLM/SGLang, AG-UI protocol · Needs LLM API key (OpenAI, Anthropic, Google, Groq, Ollama or others), PostgreSQL (compose), LangSmith (optional), ChromaDB (RAG agent) · GitHub template · Docker · env example file · [Repo](https://github.com/joshuac215/agent-service-toolkit) · [▶️ Demo ↗](https://agent-service-toolkit.streamlit.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-service-toolkit/)</sub>
 
 <a name="monid"></a>
-### #&#8288;4 [monid](https://github.com/monid-ai/monid) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Oct 2026</sub>
+### #&#8288;4 [monid](https://github.com/monid-ai/monid) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · MIT · Oct 2026</sub>
 
 **Declarative connector framework behind a metered catalog of agent tool APIs.**
 
@@ -76,26 +76,8 @@ Monid is the connector layer for a hosted service that gives agents one base URL
 
 <sub>TypeScript · Needs Deno 2.x, Vendor API keys per provider · [Repo](https://github.com/monid-ai/monid) · [📖 Docs ↗](https://docs.monid.ai) · [🌐 Site ↗](https://monid.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monid/)</sub>
 
-<a name="azure-agent-landing-zone"></a>
-### #&#8288;5 [agent-landing-zone](https://github.com/azure/agent-landing-zone) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
-
-**Azure Bicep landing zone for deploying enterprise agent apps on Microsoft Foundry.**
-
-Infrastructure-as-code template, deployed with Azure Developer CLI, that provisions a Zero-Trust network foundation on Azure for agent applications running on Microsoft Foundry. It can deploy the full stack with a default UI, orchestrator and optional ingestion component, infrastructure only, or a custom app on the same foundation. It is the renamed GPT-RAG project.
-
-- **+** Three deploy paths: full stack, infrastructure only, or your own application
-- **+** Zero-Trust network architecture with IaC-first deployment via azd
-- **+** Component versions pinned in manifest.json for each release
-- **+** Default UI, orchestrator and ingestion live in separate repos, so they can be swapped
-- **−** Azure-only; requires Microsoft Foundry and an Azure subscription
-- **−** README is a landing page; setup details live on an external docs site
-- **−** No Docker or compose setup for local runs
-- **−** Sizing, cost and RAM requirements are unknown from the README
-
-<sub>Python, Azure OpenAI · Needs Azure subscription, Microsoft Foundry, Azure OpenAI, Azure AI Search, Azure Developer CLI · GitHub template · [Repo](https://github.com/azure/agent-landing-zone) · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-agent-landing-zone/)</sub>
-
 <a name="fastapi-langgraph-agent-production-ready-template"></a>
-### #&#8288;6 [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
+### #&#8288;5 [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
 
 **FastAPI backend template for LangGraph agents with memory, auth and tracing.**
 
@@ -112,8 +94,26 @@ A Python backend template that wires a stateful LangGraph agent into FastAPI wit
 
 <sub>Python, OpenAI, Anthropic, Ollama, Google GenAI · Needs PostgreSQL, pgvector, Langfuse (optional), Valkey/Redis (optional), Prometheus and Grafana (optional) · Docker · env example file · [Repo](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastapi-langgraph-agent-production-ready-template/)</sub>
 
+<a name="azure-agent-landing-zone"></a>
+### #&#8288;6 [agent-landing-zone](https://github.com/azure/agent-landing-zone) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
+
+**Azure Bicep landing zone for deploying enterprise agent apps on Microsoft Foundry.**
+
+Infrastructure-as-code template, deployed with Azure Developer CLI, that provisions a Zero-Trust network foundation on Azure for agent applications running on Microsoft Foundry. It can deploy the full stack with a default UI, orchestrator and optional ingestion component, infrastructure only, or a custom app on the same foundation. It is the renamed GPT-RAG project.
+
+- **+** Three deploy paths: full stack, infrastructure only, or your own application
+- **+** Zero-Trust network architecture with IaC-first deployment via azd
+- **+** Component versions pinned in manifest.json for each release
+- **+** Default UI, orchestrator and ingestion live in separate repos, so they can be swapped
+- **−** Azure-only; requires Microsoft Foundry and an Azure subscription
+- **−** README is a landing page; setup details live on an external docs site
+- **−** No Docker or compose setup for local runs
+- **−** Sizing, cost and RAM requirements are unknown from the README
+
+<sub>Python, Azure OpenAI · Needs Azure subscription, Microsoft Foundry, Azure OpenAI, Azure AI Search, Azure Developer CLI · GitHub template · [Repo](https://github.com/azure/agent-landing-zone) · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-agent-landing-zone/)</sub>
+
 <a name="fastcrud"></a>
-### #&#8288;7 [fastcrud](https://github.com/benavlabs/fastcrud) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
+### #&#8288;7 [fastcrud](https://github.com/benavlabs/fastcrud) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
 
 **Async CRUD methods and auto-generated endpoints for FastAPI and SQLAlchemy 2.0.**
 
@@ -130,26 +130,8 @@ FastCRUD is a Python library that adds async CRUD operations on SQLAlchemy 2.0 m
 
 <sub>Python · Needs FastAPI, SQLAlchemy >=2.0.21, Pydantic >=2.4.1, SQLAlchemy-Utils (optional) · [Repo](https://github.com/benavlabs/fastcrud) · [📖 Docs ↗](https://benavlabs.github.io/fastcrud/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastcrud/)</sub>
 
-<a name="fullstack-solution-template-for-agentcore"></a>
-### #&#8288;8 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 599 · Apache-2.0 · Oct 2026</sub>
-
-**React frontend and AgentCore backend starter, deployed to AWS with CDK or Terraform.**
-
-A forkable starter that deploys a React/TypeScript chat frontend on Amplify Hosting, authenticated through Cognito, in front of an Amazon Bedrock AgentCore backend. The baseline is a multi-turn agent with a Lambda text-analysis tool behind AgentCore Gateway and the AgentCore Code Interpreter. Agent patterns exist for Strands and LangGraph, and the repo includes steering docs meant to be fed to coding assistants.
-
-- **+** Deploys with CDK or Terraform; Cognito JWT auth and Cedar policies on Gateway are included
-- **+** Agent patterns for both Strands and LangGraph under patterns/
-- **+** Frontend uses React, Vite, Tailwind and shadcn components
-- **+** Extensive docs for memory, streaming, sessions, observability and swapping out Cognito
-- **−** Requires AWS and Amazon Bedrock AgentCore; no other backend is supported
-- **−** README calls it a proof-of-value, not production-ready
-- **−** Baseline is only a simple chat agent with two tools
-- **−** No tagged releases
-
-<sub>Python, Amazon Bedrock · Needs AWS account, Amazon Bedrock AgentCore, Amazon Cognito, AWS Amplify Hosting, AWS Lambda, API Gateway · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
-
 <a name="nunu"></a>
-### #&#8288;9 [nunu](https://github.com/go-nunu/nunu) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
+### #&#8288;8 [nunu](https://github.com/go-nunu/nunu) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
 
 **Go CLI that scaffolds layered Gin and Gorm projects with Wire injection.**
 
@@ -166,8 +148,26 @@ Nunu is a Go CLI that generates a project from a template repo (basic, advanced 
 
 <sub>Go · Needs Go 1.25.8+, Git, MySQL 5.7+ (optional), Redis (optional), Docker (optional) · [Repo](https://github.com/go-nunu/nunu) · [📖 Docs ↗](https://github.com/go-nunu/nunu/blob/main/docs/en/guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nunu/)</sub>
 
+<a name="fullstack-solution-template-for-agentcore"></a>
+### #&#8288;9 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 599 · Apache-2.0 · Oct 2026</sub>
+
+**React frontend and AgentCore backend starter, deployed to AWS with CDK or Terraform.**
+
+A forkable starter that deploys a React/TypeScript chat frontend on Amplify Hosting, authenticated through Cognito, in front of an Amazon Bedrock AgentCore backend. The baseline is a multi-turn agent with a Lambda text-analysis tool behind AgentCore Gateway and the AgentCore Code Interpreter. Agent patterns exist for Strands and LangGraph, and the repo includes steering docs meant to be fed to coding assistants.
+
+- **+** Deploys with CDK or Terraform; Cognito JWT auth and Cedar policies on Gateway are included
+- **+** Agent patterns for both Strands and LangGraph under patterns/
+- **+** Frontend uses React, Vite, Tailwind and shadcn components
+- **+** Extensive docs for memory, streaming, sessions, observability and swapping out Cognito
+- **−** Requires AWS and Amazon Bedrock AgentCore; no other backend is supported
+- **−** README calls it a proof-of-value, not production-ready
+- **−** Baseline is only a simple chat agent with two tools
+- **−** No tagged releases
+
+<sub>Python, Amazon Bedrock · Needs AWS account, Amazon Bedrock AgentCore, Amazon Cognito, AWS Amplify Hosting, AWS Lambda, API Gateway · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
+
 <a name="node-typescript-boilerplate"></a>
-### #&#8288;10 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (59) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Jun 2026</sub>
+### #&#8288;10 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (61) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Jun 2026</sub>
 
 **Framework-free Node.js TypeScript starter with Vitest, ESLint and CI.**
 
@@ -293,7 +293,7 @@ Python Quart backend using the openai package with a plain HTML/JS frontend that
 <sub>Bicep, Azure OpenAI (openai package) · Needs Azure subscription with Azure OpenAI access, azd CLI · GitHub template · env example file · [Repo](https://github.com/azure-samples/openai-chat-app-quickstart) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app?tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chat-app-quickstart/)</sub>
 
 <a name="nodejs-api-boilerplate"></a>
-### #&#8288;17 [nodejs-api-boilerplate](https://github.com/vyancharuk/nodejs-api-boilerplate) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (7) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 164 · MIT · Apr 2026</sub>
+### #&#8288;17 [nodejs-api-boilerplate](https://github.com/vyancharuk/nodejs-api-boilerplate) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (7) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 165 · MIT · Apr 2026</sub>
 
 **Express TypeScript CRUD API template with an LLM module generator.**
 
