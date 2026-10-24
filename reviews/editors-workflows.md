@@ -40,7 +40,7 @@ Nuxt template on the Nuxt UI Editor component and TipTap: headings, tables, slas
 <sub>TypeScript, Vercel AI Gateway via AI SDK useCompletion · Needs Vercel AI Gateway key (optional), Blob storage: Vercel Blob, R2 or S3 (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="workflow-builder-template"></a>
-### 🥉 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (54) · Freshness: quiet (30) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
+### 🥉 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (54) · Freshness: quiet (29) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
 
 **Visual AI workflow builder on Workflow DevKit with real integrations.**
 

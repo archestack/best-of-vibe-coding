@@ -5,7 +5,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 <sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="claude-quickstarts"></a>
-### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Oct 2026</sub>
+### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Oct 2026</sub>
 
 **Independent Claude API starter projects, one folder per pattern.**
 
@@ -23,7 +23,7 @@ Independent Claude API starter projects in one repo, not one app: a customer sup
 <sub>TypeScript, anthropic · Needs anthropic-api-key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="vercel-chatbot"></a>
-### 🥈 [chatbot](https://github.com/vercel/chatbot) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (91) · Freshness: active (94) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Jul 2026</sub>
+### 🥈 [chatbot](https://github.com/vercel/chatbot) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (91) · Freshness: active (93) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Jul 2026</sub>
 
 **Next.js chat template with Auth.js, Postgres history and AI Gateway models.**
 
@@ -57,8 +57,41 @@ Five Next.js API routes that each show one LangChain.js pattern: plain chat, Zod
 
 <sub>TypeScript, openai, langchain, langgraph, ai-sdk · Needs openai-api-key, supabase, tavily-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/langchain-nextjs-template) · [▶️ Demo ↗](https://langchain-nextjs-template.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchain-nextjs-template/)</sub>
 
+<a name="twitterbio"></a>
+### #&#8288;4 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (46) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
+
+**Single-form Next.js text generator streaming from Together AI.**
+
+A one-page Next.js app: a form builds a prompt, sends it to Together AI and streams the reply back, with two open models wired (Qwen 3.5 9B with thinking off, GPT OSS 20B with a reasoning indicator). Nothing else is included: no auth, no database, no tests. For developers who want the smallest prompt-to-text starter to grow from.
+
+- **+** One env var (TOGETHER_API_KEY) and it runs
+- **+** Shows streaming for both a direct model and a reasoning model
+- **+** Deployed live example at twitterbio.io
+- **−** No auth, database, rate limiting or tests
+- **−** Tied to Together AI; no provider layer
+- **−** Single feature; most of a product is still to build
+
+<sub>TypeScript, together · Needs together-api-key · env example file · [Repo](https://github.com/nutlope/twitterbio) · [▶️ Demo ↗](https://www.twitterbio.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/twitterbio/)</sub>
+
+<a name="gemini-chatbot"></a>
+### #&#8288;5 [gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (32) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Oct 2026</sub>
+
+**Next.js chatbot template defaulting to Gemini with NextAuth and Postgres.**
+
+An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js App Router, AI SDK streaming with tool calls, NextAuth.js login, chat history in Vercel Postgres through Drizzle, and file storage on Vercel Blob. The default model is gemini-1.5-pro; the AI SDK lets you switch to OpenAI, Anthropic or Cohere. For teams on Google models who want the Vercel chat stack.
+
+- **+** Auth, Postgres history and Blob uploads already wired
+- **+** Two env vars to deploy: AUTH_SECRET and GOOGLE_GENERATIVE_AI_API_KEY
+- **+** Deployed demo at gemini.vercel.ai
+- **−** Default model gemini-1.5-pro is dated; update before shipping
+- **−** Tied to Vercel Postgres and Blob; self-hosting means swapping both
+- **−** No tests, no Docker
+- **−** vercel/chatbot is the maintained successor for most uses
+
+<sub>TypeScript, google, ai-sdk · Needs postgres, vercel-blob, google-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel-labs/gemini-chatbot) · [▶️ Demo ↗](https://gemini.vercel.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-chatbot/)</sub>
+
 <a name="nuxt-ui-chat"></a>
-### #&#8288;4 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 378 · MIT · Oct 2026</sub>
+### #&#8288;6 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 378 · MIT · Oct 2026</sub>
 
 **Nuxt UI chat template with GitHub login, SQLite history and AI Gateway.**
 
@@ -75,24 +108,8 @@ A Nuxt app on Nuxt UI and the AI SDK: streaming replies with reasoning, three mo
 
 <sub>Vue, ai-gateway, ai-sdk, anthropic, google · Needs ai-gateway-api-key, github-oauth-app, sqlite-or-turso · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
-<a name="twitterbio"></a>
-### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (46) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jun 2026</sub>
-
-**Single-form Next.js text generator streaming from Together AI.**
-
-A one-page Next.js app: a form builds a prompt, sends it to Together AI and streams the reply back, with two open models wired (Qwen 3.5 9B with thinking off, GPT OSS 20B with a reasoning indicator). Nothing else is included: no auth, no database, no tests. For developers who want the smallest prompt-to-text starter to grow from.
-
-- **+** One env var (TOGETHER_API_KEY) and it runs
-- **+** Shows streaming for both a direct model and a reasoning model
-- **+** Deployed live example at twitterbio.io
-- **−** No auth, database, rate limiting or tests
-- **−** Tied to Together AI; no provider layer
-- **−** Single feature; most of a product is still to build
-
-<sub>TypeScript, together · Needs together-api-key · env example file · [Repo](https://github.com/nutlope/twitterbio) · [▶️ Demo ↗](https://www.twitterbio.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/twitterbio/)</sub>
-
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;6 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 664 · MIT · Aug 2026</sub>
+### #&#8288;7 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 664 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -107,25 +124,8 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
 
-<a name="gemini-chatbot"></a>
-### #&#8288;7 [gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (32) · Freshness: recent (79) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · May 2026</sub>
-
-**Next.js chatbot template defaulting to Gemini with NextAuth and Postgres.**
-
-An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js App Router, AI SDK streaming with tool calls, NextAuth.js login, chat history in Vercel Postgres through Drizzle, and file storage on Vercel Blob. The default model is gemini-1.5-pro; the AI SDK lets you switch to OpenAI, Anthropic or Cohere. For teams on Google models who want the Vercel chat stack.
-
-- **+** Auth, Postgres history and Blob uploads already wired
-- **+** Two env vars to deploy: AUTH_SECRET and GOOGLE_GENERATIVE_AI_API_KEY
-- **+** Deployed demo at gemini.vercel.ai
-- **−** Default model gemini-1.5-pro is dated; update before shipping
-- **−** Tied to Vercel Postgres and Blob; self-hosting means swapping both
-- **−** No tests, no Docker
-- **−** vercel/chatbot is the maintained successor for most uses
-
-<sub>TypeScript, google, ai-sdk · Needs postgres, vercel-blob, google-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel-labs/gemini-chatbot) · [▶️ Demo ↗](https://gemini.vercel.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-chatbot/)</sub>
-
 <a name="ai-chat"></a>
-### #&#8288;8 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (11) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
+### #&#8288;8 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (11) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 382 · MIT · Jun 2026</sub>
 
 **Laravel 12 chat starter streaming replies through Prism to eight providers.**
 
@@ -158,7 +158,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
 <a name="langgraph-fullstack-python"></a>
-### #&#8288;10 [langgraph-fullstack-python](https://github.com/langchain-ai/langgraph-fullstack-python) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (1) · Freshness: recent (58) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 157 · MIT · Mar 2026</sub>
+### #&#8288;10 [langgraph-fullstack-python](https://github.com/langchain-ai/langgraph-fullstack-python) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (1) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 157 · MIT · Mar 2026</sub>
 
 **LangGraph ReAct agent and FastHTML chat UI in one deployment.**
 
@@ -175,7 +175,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="zola"></a>
-### #&#8288;11 [zola](https://github.com/ibelick/zola) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: known (39) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;11 [zola](https://github.com/ibelick/zola) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: known (39) · Freshness: quiet (17) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
 
