@@ -58,7 +58,7 @@ Next.js 16 app with a React Flow canvas, Monaco editor, Better Auth, Drizzle on 
 <sub>TypeScript, Vercel AI Gateway (OpenAI GPT-5) · Needs PostgreSQL, Vercel AI Gateway API key, integration API keys (Resend, Linear, Slack, Stripe and others) · GitHub template · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/workflow-builder-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/workflow-builder-template/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;4 [tersa](https://github.com/vercel-labs/tersa) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: known (37) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;4 [tersa](https://github.com/vercel-labs/tersa) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: known (37) · Freshness: recent (54) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 

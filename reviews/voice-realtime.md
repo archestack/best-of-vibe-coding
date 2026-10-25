@@ -230,26 +230,8 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
-<a name="openai-fm"></a>
-### #&#8288;14 [openai-fm](https://github.com/openai/openai-fm) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (67) · Freshness: quiet (15) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
-
-**Next.js demo app for trying OpenAI text-to-speech models.**
-
-OpenAI.fm is the source for the openai.fm demo, a web interface for generating speech through the OpenAI Speech API. It is a Next.js app that needs an OpenAI API key; an optional Postgres database enables a sharing feature. It is a demo reference rather than a general-purpose starter.
-
-- **+** Official OpenAI reference for calling the Speech API from Next.js
-- **+** Runs with only an API key; no database needed for core use
-- **+** MIT license
-- **+** Live hosted demo at openai.fm
-- **−** Tied to the OpenAI API; no other TTS providers
-- **−** No Dockerfile or compose file in the README
-- **−** Sharing feature requires a hosted Postgres database
-- **−** Maintainers say they may not review all issues or PRs
-
-<sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
-
 <a name="openai-realtime-solar-system"></a>
-### #&#8288;15 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 514 · MIT · Mar 2026</sub>
+### #&#8288;14 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 514 · MIT · Mar 2026</sub>
 
 **Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
 
@@ -266,8 +248,26 @@ A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC a
 
 <sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
 
+<a name="openai-fm"></a>
+### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (67) · Freshness: quiet (15) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+
+**Next.js demo app for trying OpenAI text-to-speech models.**
+
+OpenAI.fm is the source for the openai.fm demo, a web interface for generating speech through the OpenAI Speech API. It is a Next.js app that needs an OpenAI API key; an optional Postgres database enables a sharing feature. It is a demo reference rather than a general-purpose starter.
+
+- **+** Official OpenAI reference for calling the Speech API from Next.js
+- **+** Runs with only an API key; no database needed for core use
+- **+** MIT license
+- **+** Live hosted demo at openai.fm
+- **−** Tied to the OpenAI API; no other TTS providers
+- **−** No Dockerfile or compose file in the README
+- **−** Sharing feature requires a hosted Postgres database
+- **−** Maintainers say they may not review all issues or PRs
+
+<sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
+
 <a name="live-api-web-console"></a>
-### #&#8288;16 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (62) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
+### #&#8288;16 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (61) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
 
 **React console for streaming audio and video to the Gemini Live API.**
 
