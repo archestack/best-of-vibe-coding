@@ -166,26 +166,8 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
-<a name="mantis"></a>
-### #&#8288;10 [mantis](https://github.com/google/mantis) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
-
-**Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
-
-Mantis is a set of agent skills plus a Google ADK reference harness that runs a security review pipeline over a file or repository: threat model, hypotheses, research, triage, reproduction, patching and severity calibration. It also includes a GitHub Action for pull request scans, which is untested. The README labels it demonstration-only and says to run it only in isolated environments.
-
-- **+** Covers the full loop: threat model, research, dedup, triage, reproduction, patch with adversarial check
-- **+** Severity calibration rubric aims to limit inflated critical findings
-- **+** Run options: --focus, --exclude, --max-tokens cap, --parallel, exportable knowledge base
-- **+** Skills are separate from the harness, so they can be ported to other frameworks
-- **−** README states it is for demonstration, not production use
-- **−** Pull request GitHub Action has not been run end-to-end on a live project
-- **−** Executes model-generated code; user must provide strong isolation
-- **−** Findings need manual expert verification; hallucinated results are possible
-
-<sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
-
 <a name="deepsec"></a>
-### #&#8288;11 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.3k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;10 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.3k · Apache-2.0 · Sep 2026</sub>
 
 **Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
 
@@ -201,6 +183,24 @@ deepsec runs regex matchers to find candidate sites in a repository, then has AI
 - **−** No tagged release; installed via npx
 
 <sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
+
+<a name="mantis"></a>
+### #&#8288;11 [mantis](https://github.com/google/mantis) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
+
+**Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
+
+Mantis is a set of agent skills plus a Google ADK reference harness that runs a security review pipeline over a file or repository: threat model, hypotheses, research, triage, reproduction, patching and severity calibration. It also includes a GitHub Action for pull request scans, which is untested. The README labels it demonstration-only and says to run it only in isolated environments.
+
+- **+** Covers the full loop: threat model, research, dedup, triage, reproduction, patch with adversarial check
+- **+** Severity calibration rubric aims to limit inflated critical findings
+- **+** Run options: --focus, --exclude, --max-tokens cap, --parallel, exportable knowledge base
+- **+** Skills are separate from the harness, so they can be ported to other frameworks
+- **−** README states it is for demonstration, not production use
+- **−** Pull request GitHub Action has not been run end-to-end on a live project
+- **−** Executes model-generated code; user must provide strong isolation
+- **−** Findings need manual expert verification; hallucinated results are possible
+
+<sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
 
 <a name="kodus-ai"></a>
 ### #&#8288;12 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · custom license · Oct 2026</sub>
@@ -311,7 +311,7 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
 
 <a name="run-gemini-cli"></a>
-### #&#8288;18 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;18 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
 
 **GitHub Action that runs Gemini CLI for PR review, issue triage and @-mention tasks.**
 

@@ -143,7 +143,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;9 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (26) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 887 · MIT · Mar 2026</sub>
+### #&#8288;9 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (26) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 886 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
