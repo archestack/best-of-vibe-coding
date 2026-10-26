@@ -58,7 +58,7 @@ PocketBase is a Go backend that ships as one executable with an embedded SQLite 
 <sub>no GPU · [Repo](https://github.com/pocketbase/pocketbase) · [📖 Docs ↗](https://pocketbase.io/docs) · [🌐 Site ↗](https://pocketbase.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pocketbase/)</sub>
 
 <a name="dokploy"></a>
-### #&#8288;4 [dokploy](https://github.com/dokploy/dokploy) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 38k · custom license · Oct 2026</sub>
+### #&#8288;4 [dokploy](https://github.com/dokploy/dokploy) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 38k · custom license · Oct 2026</sub>
 
 **Self-hosted PaaS for deploying apps and databases across Docker Swarm nodes.**
 
@@ -166,7 +166,7 @@ Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, Cli
 <sub>no GPU · Compose · Needs PostgreSQL, MongoDB, ClickHouse, MS SQL Server · [Repo](https://github.com/hasura/graphql-engine) · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-engine/)</sub>
 
 <a name="falkordb"></a>
-### #&#8288;10 [falkordb](https://github.com/falkordb/falkordb) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · custom license · Oct 2026</sub>
+### #&#8288;10 [falkordb](https://github.com/falkordb/falkordb) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · custom license · Oct 2026</sub>
 
 **Property graph database on Redis with OpenCypher and sparse-matrix queries.**
 
@@ -184,7 +184,7 @@ FalkorDB is a property graph database built as a Redis module in Rust. It stores
 <sub>no GPU · Needs Redis, GraphBLAS, LAGraph, RediSearch · port 3000 · [Repo](https://github.com/falkordb/falkordb) · [📖 Docs ↗](https://docs.falkordb.com/) · [🌐 Site ↗](https://www.falkordb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/falkordb/)</sub>
 
 <a name="apijson"></a>
-### #&#8288;11 [apijson](https://github.com/apijson/apijson) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Oct 2026</sub>
+### #&#8288;11 [apijson](https://github.com/apijson/apijson) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Oct 2026</sub>
 
 **Java ORM that exposes CRUD APIs over JSON requests without per-endpoint code.**
 
@@ -202,7 +202,7 @@ APIJSON is a Java library and JSON-based protocol. Clients send a JSON describin
 <sub>no GPU · Needs Java 1.8+, A supported database (e.g. MySQL 5.7+, PostgreSQL 9.5+) · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
 
 <a name="parse-server"></a>
-### #&#8288;12 [parse-server](https://github.com/parse-community/parse-server) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;12 [parse-server](https://github.com/parse-community/parse-server) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
 
 **Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL.**
 
@@ -346,7 +346,7 @@ pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or My
 <sub>no GPU · Docker + Compose · Needs PostgreSQL 9.5+ or MySQL 8.0.19+ · [Repo](https://github.com/prest/prest) · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prest/)</sub>
 
 <a name="omnigraph"></a>
-### #&#8288;20 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Oct 2026</sub>
+### #&#8288;20 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
 
 **Graph database on object storage with branching, typed schemas and hybrid retrieval.**
 

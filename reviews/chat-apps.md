@@ -125,7 +125,7 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
 
 <a name="ai-chat"></a>
-### #&#8288;8 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (11) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 382 · MIT · Jun 2026</sub>
+### #&#8288;8 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (11) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 382 · MIT · Jun 2026</sub>
 
 **Laravel 12 chat starter streaming replies through Prism to eight providers.**
 
@@ -143,7 +143,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;9 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (26) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 886 · MIT · Mar 2026</sub>
+### #&#8288;9 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (26) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 886 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -192,7 +192,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [12](../README.md#-how-we-rank "Score 12/100. Adoption: niche (22) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 881 · MIT · Dec 2025</sub>
+### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [12](../README.md#-how-we-rank "Score 12/100. Adoption: niche (22) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 881 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

@@ -22,7 +22,7 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="pipecat-examples"></a>
-### 🥈 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 401 · BSD-2-Clause · Oct 2026</sub>
+### 🥈 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 401 · BSD-2-Clause · Oct 2026</sub>
 
 **Runnable Pipecat voice agent examples for phone, web and deployment.**
 
@@ -213,7 +213,7 @@ Next.js project that builds an embed-popup.js script and an iframe page so a web
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
 
 <a name="openai-realtime-meeting-assistant"></a>
-### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 275 · MIT · May 2026</sub>
+### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 276 · MIT · May 2026</sub>
 
 **Voice-operated shared Kanban board using the OpenAI Realtime API.**
 
@@ -231,7 +231,7 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
 <a name="openai-realtime-solar-system"></a>
-### #&#8288;14 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 514 · MIT · Mar 2026</sub>
+### #&#8288;14 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 513 · MIT · Mar 2026</sub>
 
 **Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
 
@@ -249,7 +249,7 @@ A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC a
 <sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
 
 <a name="openai-fm"></a>
-### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (67) · Freshness: quiet (15) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (67) · Freshness: quiet (14) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 

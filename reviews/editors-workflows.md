@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="plate-playground-template"></a>
-### 🥇 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 242 · MIT · Oct 2026</sub>
+### 🥇 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 242 · MIT · Oct 2026</sub>
 
 **Next.js rich-text editor template on Plate with AI commands.**
 

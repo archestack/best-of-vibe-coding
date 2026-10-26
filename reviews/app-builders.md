@@ -166,7 +166,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;10 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (51) · Freshness: active (81) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
+### #&#8288;10 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (51) · Freshness: active (80) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
