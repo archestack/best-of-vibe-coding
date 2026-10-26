@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-10-25
+updated_at: 2026-10-26
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -179,7 +179,7 @@ entries:
     audience: Developers learning Realtime API function calling with WebRTC
     confidence: 0.9
     facts:
-      stars: 514
+      stars: 513
       license: MIT
       last_commit: 2026-03-04
       last_release: null
@@ -279,7 +279,7 @@ entries:
     audience: Azure developers who want a deployable Foundry agent reference app
     confidence: 0.85
     facts:
-      stars: 376
+      stars: 377
       license: MIT
       last_commit: 2026-10-08
       last_release: null
@@ -328,7 +328,7 @@ entries:
     audience: Teams running Claude Managed Agents who want a self-managed Cloudflare setup
     confidence: 0.85
     facts:
-      stars: 330
+      stars: 331
       license: MIT
       last_commit: 2026-05-22
       last_release: null
@@ -374,7 +374,7 @@ entries:
     audience: Developers prototyping voice-driven tools on the OpenAI Realtime API
     confidence: 0.9
     facts:
-      stars: 275
+      stars: 276
       license: MIT
       last_commit: 2026-05-11
       last_release: null
@@ -517,7 +517,7 @@ entries:
     audience: Developers who want a structured plan-and-TDD workflow from their coding agent
     confidence: 0.85
     facts:
-      stars: 304752
+      stars: 305062
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-21
@@ -560,7 +560,7 @@ entries:
     audience: Engineers using Claude Code, Codex, Copilot or Gemini CLI on real codebases
     confidence: 0.9
     facts:
-      stars: 302739
+      stars: 303264
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-04
@@ -613,15 +613,15 @@ entries:
     audience: Developers running Claude Code or Codex who want a preset agent workflow
     confidence: 0.85
     facts:
-      stars: 288315
+      stars: 288893
       license: MIT
-      last_commit: 2026-10-20
+      last_commit: 2026-10-25
       last_release: 2026-10-01
       has_docker: true
       has_compose: true
       is_template: false
       language: JavaScript
-    score: 93
+    score: 94
   - id: claw-code
     repo: ultraworkers/claw-code
     name: claw-code
@@ -660,7 +660,7 @@ entries:
     audience: Developers who want to inspect or build a Rust CLI coding agent
     confidence: 0.8
     facts:
-      stars: 195064
+      stars: 194984
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -711,7 +711,7 @@ entries:
     audience: Developers using AI coding agents who want smaller diffs and built-in review
     confidence: 0.85
     facts:
-      stars: 175728
+      stars: 176215
       license: MIT
       last_commit: 2026-10-18
       last_release: 2026-10-16
@@ -762,7 +762,7 @@ entries:
     audience: Developers wanting ready-made specialist agent prompts for coding assistants
     confidence: 0.85
     facts:
-      stars: 163797
+      stars: 164012
       license: MIT
       last_commit: 2026-10-25
       last_release: null
@@ -813,9 +813,9 @@ entries:
     audience: Developers who use several coding CLIs and switch between API providers
     confidence: 0.8
     facts:
-      stars: 148450
+      stars: 148605
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-24
       has_docker: false
       has_compose: false
@@ -857,7 +857,7 @@ entries:
     audience: Developers who want a structured spec-first workflow in their coding agent
     confidence: 0.8
     facts:
-      stars: 142777
+      stars: 142876
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-22
@@ -908,15 +908,15 @@ entries:
     audience: Claude Code users wanting structured planning, review, QA and release workflows
     confidence: 0.8
     facts:
-      stars: 137598
+      stars: 137711
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: null
       has_docker: false
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 86
+    score: 85
   - id: ui-ux-pro-max-skill
     repo: nextlevelbuilder/ui-ux-pro-max-skill
     name: ui-ux-pro-max-skill
@@ -951,7 +951,7 @@ entries:
     audience: Developers using AI coding assistants who want consistent UI/UX output
     confidence: 0.85
     facts:
-      stars: 140076
+      stars: 140399
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-08-13
@@ -993,7 +993,7 @@ entries:
     audience: Developers who want a terminal coding agent tied to OpenAI
     confidence: 0.8
     facts:
-      stars: 130839
+      stars: 130884
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -1042,7 +1042,7 @@ entries:
     audience: Developers using AI coding assistants on large or unfamiliar codebases
     confidence: 0.85
     facts:
-      stars: 134636
+      stars: 135285
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -1085,9 +1085,9 @@ entries:
     audience: Developers needing a Postgres backend with auth, storage and vectors
     confidence: 0.85
     facts:
-      stars: 113903
+      stars: 113932
       license: Apache-2.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-08-07
       has_docker: false
       has_compose: true
@@ -1135,7 +1135,7 @@ entries:
     audience: Developers paying for Claude Code, Codex or similar agents who want lower spend
     confidence: 0.85
     facts:
-      stars: 114882
+      stars: 115057
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-13
@@ -1178,7 +1178,7 @@ entries:
     audience: Developers who want a Gemini-backed coding agent in the terminal or in scripts
     confidence: 0.9
     facts:
-      stars: 108308
+      stars: 108386
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-20
@@ -1222,7 +1222,7 @@ entries:
     audience: Engineers who want coding agents to follow a consistent spec-to-ship workflow
     confidence: 0.9
     facts:
-      stars: 110297
+      stars: 110520
       license: MIT
       last_commit: 2026-10-13
       last_release: 2026-10-13
@@ -1272,7 +1272,7 @@ entries:
     audience: Claude Code users who want session memory that persists across runs
     confidence: 0.85
     facts:
-      stars: 102923
+      stars: 103126
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -1316,7 +1316,7 @@ entries:
     audience: Developers using Claude Code, Codex or similar agents to build front ends
     confidence: 0.9
     facts:
-      stars: 102166
+      stars: 102505
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -1324,7 +1324,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 89
+    score: 88
   - id: orca
     repo: stablyai/orca
     name: orca
@@ -1366,9 +1366,9 @@ entries:
     audience: Developers running several CLI coding agents in parallel on one repo
     confidence: 0.85
     facts:
-      stars: 105201
+      stars: 105867
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -1412,7 +1412,7 @@ entries:
     audience: Engineers onboarding to large codebases or LLM wikis using AI coding agents
     confidence: 0.85
     facts:
-      stars: 88128
+      stars: 88258
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-07-10
@@ -1453,10 +1453,10 @@ entries:
     audience: Developers using coding agents who want smaller shell output in context
     confidence: 0.85
     facts:
-      stars: 84501
+      stars: 84541
       license: Apache-2.0
-      last_commit: 2026-10-23
-      last_release: 2026-10-14
+      last_commit: 2026-10-25
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -1496,7 +1496,7 @@ entries:
     audience: Developers using coding agents who want shareable architecture diagrams
     confidence: 0.85
     facts:
-      stars: 88892
+      stars: 89202
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-19
@@ -1540,9 +1540,9 @@ entries:
     audience: Developers using AI coding agents who want better frontend design output
     confidence: 0.85
     facts:
-      stars: 86760
+      stars: 87740
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: false
       has_compose: false
@@ -1586,7 +1586,7 @@ entries:
     audience: Claude Code and Codex users who want swarms, memory and hooks on top
     confidence: 0.7
     facts:
-      stars: 79117
+      stars: 79289
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -1636,7 +1636,7 @@ entries:
     audience: Developers who want faster, cheaper code navigation for AI coding agents
     confidence: 0.85
     facts:
-      stars: 75245
+      stars: 75316
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-03
@@ -1680,7 +1680,7 @@ entries:
     audience: Developers using AI coding assistants who want written specs before code
     confidence: 0.85
     facts:
-      stars: 72933
+      stars: 72962
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -1688,7 +1688,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 89
+    score: 88
   - id: cline
     repo: cline/cline
     name: cline
@@ -1735,9 +1735,9 @@ entries:
     audience: Developers who want an open-source coding agent in their IDE, terminal or CI
     confidence: 0.9
     facts:
-      stars: 70839
+      stars: 70841
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-26
       last_release: 2026-10-17
       has_docker: false
       has_compose: false
@@ -1781,9 +1781,9 @@ entries:
     audience: Developers wanting a terminal coding agent that mixes model providers
     confidence: 0.8
     facts:
-      stars: 70326
+      stars: 70332
       license: NOASSERTION
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -1827,7 +1827,7 @@ entries:
     audience: Developers wanting a terminal coding agent on cheaper non-OpenAI models
     confidence: 0.85
     facts:
-      stars: 68667
+      stars: 68671
       license: Apache-2.0
       last_commit: 2026-10-11
       last_release: 2026-10-07
@@ -1870,7 +1870,7 @@ entries:
     audience: Developers learning to configure Claude Code agents, skills and hooks
     confidence: 0.8
     facts:
-      stars: 67992
+      stars: 68078
       license: MIT
       last_commit: 2026-10-25
       last_release: null
@@ -1914,7 +1914,7 @@ entries:
     audience: Developers who want an agent-capable terminal and may contribute to it
     confidence: 0.7
     facts:
-      stars: 65686
+      stars: 65697
       license: AGPL-3.0
       last_commit: 2026-10-22
       last_release: 2026-06-03
@@ -1958,7 +1958,7 @@ entries:
     audience: Developers using AI coding agents who want current library docs in context
     confidence: 0.85
     facts:
-      stars: 63630
+      stars: 63675
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -1999,7 +1999,7 @@ entries:
     audience: Coding-assistant users who want terse, action-first, numbered replies
     confidence: 0.85
     facts:
-      stars: 58638
+      stars: 58729
       license: MIT
       last_commit: 2026-10-11
       last_release: 2026-10-19
@@ -2042,7 +2042,7 @@ entries:
     audience: Developers giving coding agents browser debugging and automation tools
     confidence: 0.85
     facts:
-      stars: 54099
+      stars: 54144
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-22
@@ -2086,7 +2086,7 @@ entries:
     audience: Engineers giving coding agents scripted control of GUI and desktop apps
     confidence: 0.8
     facts:
-      stars: 56914
+      stars: 57125
       license: Apache-2.0
       last_commit: 2026-09-22
       last_release: 2026-06-25
@@ -2131,7 +2131,7 @@ entries:
     audience: Developers who want LLM edits inside a git repo from the terminal
     confidence: 0.85
     facts:
-      stars: 49744
+      stars: 49752
       license: Apache-2.0
       last_commit: 2026-05-22
       last_release: 2025-08-09
@@ -2182,7 +2182,7 @@ entries:
     audience: Java teams building enterprise admin systems with optional AI features
     confidence: 0.8
     facts:
-      stars: 48278
+      stars: 48279
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-08-27
@@ -2226,9 +2226,9 @@ entries:
     audience: Developers who want on-brand, publishable diagrams from their coding agent
     confidence: 0.85
     facts:
-      stars: 60838
+      stars: 61066
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: false
@@ -2269,7 +2269,7 @@ entries:
     audience: Users of Claude Code, Codex, Cursor or Gemini CLI who want reusable skills
     confidence: 0.88
     facts:
-      stars: 48471
+      stars: 48503
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -2277,7 +2277,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 91
+    score: 90
   - id: codebase-memory-mcp
     repo: deusdata/codebase-memory-mcp
     name: codebase-memory-mcp
@@ -2311,9 +2311,9 @@ entries:
     audience: Developers giving Claude Code, Codex or other agents a local code graph
     confidence: 0.8
     facts:
-      stars: 47434
+      stars: 47475
       license: MIT
-      last_commit: 2026-10-22
+      last_commit: 2026-10-26
       last_release: 2026-10-16
       has_docker: false
       has_compose: false
@@ -2356,7 +2356,7 @@ entries:
     audience: Teams adding LLM code review to local workflows or CI pipelines
     confidence: 0.9
     facts:
-      stars: 48223
+      stars: 48267
       license: Apache-2.0
       last_commit: 2026-10-20
       last_release: 2026-10-22
@@ -2396,7 +2396,7 @@ entries:
     audience: Developers running several coding agents locally or over SSH
     confidence: 0.8
     facts:
-      stars: 45745
+      stars: 45858
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-14
@@ -2442,7 +2442,7 @@ entries:
     audience: Developers learning Claude Code who want ready-to-copy configs
     confidence: 0.85
     facts:
-      stars: 44792
+      stars: 45058
       license: MIT
       last_commit: 2026-10-20
       last_release: 2026-06-02
@@ -2497,9 +2497,9 @@ entries:
     audience: Developers who want a model-agnostic terminal coding agent with audit trails
     confidence: 0.85
     facts:
-      stars: 41115
+      stars: 41120
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-24
       has_docker: true
       has_compose: false
@@ -2547,7 +2547,7 @@ entries:
     audience: Developers using AI coding CLIs who want ready-made agents and skills
     confidence: 0.9
     facts:
-      stars: 41661
+      stars: 41711
       license: MIT
       last_commit: 2026-10-17
       last_release: null
@@ -2598,10 +2598,10 @@ entries:
     audience: Claude Code users who want multi-agent workflows and mixed-CLI workers
     confidence: 0.85
     facts:
-      stars: 40240
+      stars: 40265
       license: MIT
-      last_commit: 2026-10-24
-      last_release: 2026-10-24
+      last_commit: 2026-10-25
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -2638,7 +2638,7 @@ entries:
     audience: React teams building enterprise admin UIs on Ant Design
     confidence: 0.8
     facts:
-      stars: 38893
+      stars: 38896
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-08-17
@@ -2681,9 +2681,9 @@ entries:
     audience: Self-hosters who want a Vercel or Heroku-style deploy workflow on their own VPS
     confidence: 0.8
     facts:
-      stars: 38009
+      stars: 38023
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-22
       has_docker: true
       has_compose: false
@@ -2723,7 +2723,7 @@ entries:
     audience: Claude Code users and plugin authors looking for or publishing plugins
     confidence: 0.85
     facts:
-      stars: 44425
+      stars: 44570
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: null
@@ -2770,7 +2770,7 @@ entries:
     audience: Developers rebuilding a site they own as a Next.js app with a coding agent
     confidence: 0.85
     facts:
-      stars: 37342
+      stars: 37377
       license: MIT
       last_commit: 2026-10-05
       last_release: 2026-10-05
@@ -2810,7 +2810,7 @@ entries:
     audience: Developers wanting a forkable open-source coding agent for VS Code or terminal
     confidence: 0.8
     facts:
-      stars: 36315
+      stars: 36324
       license: Apache-2.0
       last_commit: 2026-07-21
       last_release: 2026-06-19
@@ -2856,10 +2856,10 @@ entries:
     audience: Developers wanting a self-run coding agent with their choice of model provider
     confidence: 0.85
     facts:
-      stars: 35958
+      stars: 35964
       license: MIT
-      last_commit: 2026-10-25
-      last_release: 2026-10-24
+      last_commit: 2026-10-26
+      last_release: 2026-10-26
       has_docker: false
       has_compose: false
       is_template: false
@@ -2905,7 +2905,7 @@ entries:
     audience: Developers starting a Node.js web app with auth and API integrations
     confidence: 0.8
     facts:
-      stars: 35256
+      stars: 35257
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-02-09
@@ -2913,7 +2913,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 78
+    score: 77
   - id: oh-my-pi
     repo: can1357/oh-my-pi
     name: oh-my-pi
@@ -2954,7 +2954,7 @@ entries:
     audience: Developers who want a terminal coding agent with IDE-level tooling
     confidence: 0.8
     facts:
-      stars: 36509
+      stars: 36598
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-10-21
@@ -3005,7 +3005,7 @@ entries:
     audience: Developers who want agents to answer from technical books or internal docs
     confidence: 0.85
     facts:
-      stars: 36013
+      stars: 36088
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-08-10
@@ -3051,7 +3051,7 @@ entries:
     audience: Claude Code users who want Codex reviews and task delegation
     confidence: 0.9
     facts:
-      stars: 34544
+      stars: 34572
       license: Apache-2.0
       last_commit: 2026-07-08
       last_release: 2026-07-08
@@ -3095,7 +3095,7 @@ entries:
     audience: Developers connecting coding agents or AI hosts to GitHub
     confidence: 0.9
     facts:
-      stars: 33938
+      stars: 33947
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-10-21
@@ -3139,7 +3139,7 @@ entries:
     audience: Claude Code users who want ready-made agents, hooks, MCPs and skills
     confidence: 0.85
     facts:
-      stars: 32884
+      stars: 32895
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-09
@@ -3181,7 +3181,7 @@ entries:
     audience: Self-hosters wanting a Heroku-style git-push deploy on one VM
     confidence: 0.85
     facts:
-      stars: 32202
+      stars: 32201
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -3268,7 +3268,7 @@ entries:
     audience: Developers managing skills across multiple coding agents
     confidence: 0.9
     facts:
-      stars: 36450
+      stars: 36558
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-19
@@ -3317,7 +3317,7 @@ entries:
     audience: Developers using AI coding assistants on large repos who want less token use
     confidence: 0.8
     facts:
-      stars: 32380
+      stars: 32382
       license: MIT
       last_commit: 2026-10-15
       last_release: 2026-09-18
@@ -3325,7 +3325,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 89
+    score: 88
   - id: frontend-slides
     repo: zarazhangrui/frontend-slides
     name: frontend-slides
@@ -3364,7 +3364,7 @@ entries:
     audience: Claude Code users who need web slide decks without writing CSS or JS
     confidence: 0.85
     facts:
-      stars: 31239
+      stars: 31285
       license: MIT
       last_commit: 2026-06-23
       last_release: 2026-05-26
@@ -3408,7 +3408,7 @@ entries:
     audience: Developers who want their coding agent to navigate and refactor large codebases
     confidence: 0.9
     facts:
-      stars: 30691
+      stars: 30712
       license: NOASSERTION
       last_commit: 2026-10-20
       last_release: 2026-10-19
@@ -3456,7 +3456,7 @@ entries:
     audience: Developers using AI coding agents to build polished landing pages and sites
     confidence: 0.9
     facts:
-      stars: 32629
+      stars: 33858
       license: MIT
       last_commit: 2026-10-22
       last_release: null
@@ -3499,7 +3499,7 @@ entries:
     audience: Developers feeding whole codebases into LLM chats or agents
     confidence: 0.6
     facts:
-      stars: 29014
+      stars: 29025
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-09-21
@@ -3546,7 +3546,7 @@ entries:
     audience: Developers who want a self-run prompt-to-React app builder to study or fork
     confidence: 0.85
     facts:
-      stars: 28798
+      stars: 28797
       license: MIT
       last_commit: 2026-10-09
       last_release: null
@@ -3597,9 +3597,9 @@ entries:
     audience: Developers who want a terminal coding agent that works with many LLM providers
     confidence: 0.85
     facts:
-      stars: 28801
+      stars: 28814
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: false
       has_compose: false
@@ -3643,10 +3643,10 @@ entries:
     audience: Claude Code users who want live context and rate-limit visibility
     confidence: 0.85
     facts:
-      stars: 28856
+      stars: 28879
       license: MIT
-      last_commit: 2026-10-24
-      last_release: 2026-10-24
+      last_commit: 2026-10-26
+      last_release: 2026-10-26
       has_docker: false
       has_compose: false
       is_template: false
@@ -3691,9 +3691,9 @@ entries:
     audience: Developers wanting an open-source terminal coding agent for many providers
     confidence: 0.9
     facts:
-      stars: 28707
+      stars: 28715
       license: Apache-2.0
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-24
       has_docker: true
       has_compose: false
@@ -3744,7 +3744,7 @@ entries:
     audience: Developers who run several CLI coding agents in parallel and review their diffs
     confidence: 0.85
     facts:
-      stars: 28447
+      stars: 28455
       license: Apache-2.0
       last_commit: 2026-09-19
       last_release: 2026-04-24
@@ -3786,7 +3786,7 @@ entries:
     audience: Teams giving coding agents a machine-readable design system to follow
     confidence: 0.72
     facts:
-      stars: 28522
+      stars: 28528
       license: Apache-2.0
       last_commit: 2026-10-16
       last_release: 2026-07-27
@@ -3794,7 +3794,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 59
   - id: claude-task-master
     repo: eyaltoledano/claude-task-master
     name: claude-task-master
@@ -3842,7 +3842,7 @@ entries:
     audience: Developers using Cursor, Claude Code or similar agents on multi-step projects
     confidence: 0.8
     facts:
-      stars: 28274
+      stars: 28276
       license: NOASSERTION
       last_commit: 2026-04-23
       last_release: 2026-03-31
@@ -3883,9 +3883,9 @@ entries:
     audience: Mac developers running several terminal coding agents in parallel
     confidence: 0.8
     facts:
-      stars: 28393
+      stars: 28471
       license: NOASSERTION
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-16
       has_docker: false
       has_compose: false
@@ -3925,7 +3925,7 @@ entries:
     audience: Users of Claude Code, Codex, Cursor or similar agents wanting ready-made skills
     confidence: 0.85
     facts:
-      stars: 28675
+      stars: 28721
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -3967,7 +3967,7 @@ entries:
     audience: Developers running coding agents who need persistent, shared task tracking
     confidence: 0.7
     facts:
-      stars: 28191
+      stars: 28208
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -4011,7 +4011,7 @@ entries:
     audience: Teams wanting to delegate tracked tickets to coding agents
     confidence: 0.7
     facts:
-      stars: 27810
+      stars: 27814
       license: Apache-2.0
       last_commit: 2026-09-15
       last_release: 2026-09-15
@@ -4059,7 +4059,7 @@ entries:
     audience: Developers who want an open-source coding agent in their IDE or CLI
     confidence: 0.9
     facts:
-      stars: 27743
+      stars: 27753
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -4102,7 +4102,7 @@ entries:
     audience: Developers using coding agents on long tasks that lose context
     confidence: 0.85
     facts:
-      stars: 27634
+      stars: 27644
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -4145,7 +4145,7 @@ entries:
     audience: Developers who want a terminal coding agent for local, CI or editor use
     confidence: 0.88
     facts:
-      stars: 27537
+      stars: 27543
       license: Apache-2.0
       last_commit: 2026-09-29
       last_release: null
@@ -4191,7 +4191,7 @@ entries:
     audience: Security engineers and developers auditing code with a coding agent
     confidence: 0.85
     facts:
-      stars: 45443
+      stars: 46974
       license: MIT
       last_commit: 2026-09-14
       last_release: null
@@ -4238,9 +4238,9 @@ entries:
     audience: Developers who run several coding agent CLIs and want one local or remote UI
     confidence: 0.85
     facts:
-      stars: 29908
+      stars: 30138
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-22
       has_docker: false
       has_compose: false
@@ -4278,7 +4278,7 @@ entries:
     audience: Developers writing skills or adding skill support to agent clients
     confidence: 0.85
     facts:
-      stars: 26589
+      stars: 26619
       license: Apache-2.0
       last_commit: 2026-08-09
       last_release: null
@@ -4324,7 +4324,7 @@ entries:
     audience: Solo developers building games with Claude Code in Godot, Unity or Unreal
     confidence: 0.8
     facts:
-      stars: 27477
+      stars: 27551
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-19
@@ -4376,9 +4376,9 @@ entries:
     audience: Developers who want a terminal coding agent usable with many LLM providers
     confidence: 0.8
     facts:
-      stars: 34141
+      stars: 34151
       license: NOASSERTION
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-15
       has_docker: true
       has_compose: false
@@ -4421,7 +4421,7 @@ entries:
     audience: Codex CLI users who want structured planning and multi-agent workflows
     confidence: 0.85
     facts:
-      stars: 33629
+      stars: 33630
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -4469,9 +4469,9 @@ entries:
     audience: Developers running coding agents who hit context limits and compaction loss
     confidence: 0.8
     facts:
-      stars: 32161
+      stars: 32263
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-06-29
       has_docker: false
       has_compose: false
@@ -4512,7 +4512,7 @@ entries:
     audience: Claude Code users who want ready-made specialist subagents
     confidence: 0.85
     facts:
-      stars: 26008
+      stars: 26053
       license: MIT
       last_commit: 2026-10-11
       last_release: null
@@ -4553,7 +4553,7 @@ entries:
     audience: Developers using AI coding agents who want a repeatable plan-and-review workflow
     confidence: 0.9
     facts:
-      stars: 25700
+      stars: 25708
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -4594,7 +4594,7 @@ entries:
     audience: Maintainers who want to give AI coding agents repo-specific instructions
     confidence: 0.8
     facts:
-      stars: 25096
+      stars: 25112
       license: MIT
       last_commit: 2026-09-10
       last_release: null
@@ -4641,7 +4641,7 @@ entries:
     audience: Developers who want to drive Claude Code or Codex sessions from their phone
     confidence: 0.7
     facts:
-      stars: 24302
+      stars: 24315
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-09-22
@@ -4688,7 +4688,7 @@ entries:
     audience: Claude Code users who want preset commands, agents and MCP setups
     confidence: 0.85
     facts:
-      stars: 23914
+      stars: 23911
       license: MIT
       last_commit: 2026-09-27
       last_release: 2026-03-22
@@ -4779,7 +4779,7 @@ entries:
     audience: Claude Code users who want a desktop GUI for sessions, agents and usage tracking
     confidence: 0.85
     facts:
-      stars: 22422
+      stars: 22420
       license: AGPL-3.0
       last_commit: 2026-09-18
       last_release: 2025-08-31
@@ -4820,7 +4820,7 @@ entries:
     audience: Developers wanting a local Lovable/v0-style app builder with their own keys
     confidence: 0.75
     facts:
-      stars: 22056
+      stars: 22066
       license: NOASSERTION
       last_commit: 2026-10-22
       last_release: 2026-10-19
@@ -4863,9 +4863,9 @@ entries:
     audience: Engineers and researchers running long agent tasks from a terminal
     confidence: 0.8
     facts:
-      stars: 22318
+      stars: 22329
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-21
       has_docker: false
       has_compose: false
@@ -4954,7 +4954,7 @@ entries:
     audience: Chinese-speaking developers wanting ready-made agent personas for coding tools
     confidence: 0.85
     facts:
-      stars: 21568
+      stars: 21589
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-06-16
@@ -4996,9 +4996,9 @@ entries:
     audience: Engineers using coding agents on Google Cloud and Google APIs
     confidence: 0.9
     facts:
-      stars: 21558
+      stars: 21576
       license: Apache-2.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: false
@@ -5039,7 +5039,7 @@ entries:
     audience: Researchers and engineers benchmarking LLM agents on SWE-bench
     confidence: 0.85
     facts:
-      stars: 20633
+      stars: 20636
       license: MIT
       last_commit: 2026-07-16
       last_release: 2025-05-22
@@ -5082,9 +5082,9 @@ entries:
     audience: Developers running many terminal coding agents in parallel on one machine
     confidence: 0.85
     facts:
-      stars: 21193
+      stars: 21206
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-22
       has_docker: false
       has_compose: false
@@ -5131,9 +5131,9 @@ entries:
     audience: Developers running several coding agents across machines and devices
     confidence: 0.85
     facts:
-      stars: 21916
+      stars: 22011
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: true
       has_compose: true
@@ -5182,7 +5182,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 79
+    score: 78
   - id: gastown
     repo: gastownhall/gastown
     name: gastown
@@ -5232,7 +5232,7 @@ entries:
     audience: Developers running 5-30 parallel coding agents across git repositories
     confidence: 0.85
     facts:
-      stars: 18527
+      stars: 18538
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-06-06
@@ -5282,7 +5282,7 @@ entries:
     audience: Claude Code and Codex users who want agents to analyze video
     confidence: 0.85
     facts:
-      stars: 19195
+      stars: 19249
       license: MIT
       last_commit: 2026-09-25
       last_release: 2026-09-25
@@ -5338,9 +5338,9 @@ entries:
     audience: Neovim users who want Cursor-like AI editing inside their editor
     confidence: 0.85
     facts:
-      stars: 18188
+      stars: 18189
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: false
       has_compose: false
@@ -5385,7 +5385,7 @@ entries:
     audience: Developers using coding agents to turn images into animatable Three.js
     confidence: 0.85
     facts:
-      stars: 19202
+      stars: 19255
       license: Apache-2.0
       last_commit: 2026-10-21
       last_release: 2026-09-06
@@ -5437,7 +5437,7 @@ entries:
     audience: Developers who want Codex or Claude Code to run non-default LLM providers
     confidence: 0.75
     facts:
-      stars: 17872
+      stars: 17900
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -5479,7 +5479,7 @@ entries:
     audience: Developers building agents through plugins, tolerant of breaking changes
     confidence: 0.55
     facts:
-      stars: 260878
+      stars: 261408
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -5524,7 +5524,7 @@ entries:
     audience: Developers who want a scriptable, customizable terminal coding agent
     confidence: 0.9
     facts:
-      stars: 117667
+      stars: 117792
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-21
@@ -5567,7 +5567,7 @@ entries:
     audience: Front-end developers and teams auditing sites or feeding rules to agents
     confidence: 0.7
     facts:
-      stars: 74562
+      stars: 74565
       license: MIT
       last_commit: 2026-10-06
       last_release: 2026-05-30
@@ -5608,7 +5608,7 @@ entries:
     audience: Developers needing a self-hosted or cloud backend for web, mobile and agent apps
     confidence: 0.85
     facts:
-      stars: 57759
+      stars: 57758
       license: BSD-3-Clause
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -5656,9 +5656,9 @@ entries:
     audience: Developers wanting a local, provider-agnostic agent for code and automation
     confidence: 0.8
     facts:
-      stars: 55673
+      stars: 55706
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: true
       has_compose: false
@@ -5700,7 +5700,7 @@ entries:
     audience: Developers giving AI coding agents repo-wide dependency and impact context
     confidence: 0.8
     facts:
-      stars: 48027
+      stars: 48036
       license: NOASSERTION
       last_commit: 2026-10-25
       last_release: 2026-09-12
@@ -5743,7 +5743,7 @@ entries:
     audience: Next.js developers who need a self-hosted CMS or content backend
     confidence: 0.6
     facts:
-      stars: 45476
+      stars: 45491
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-22
@@ -5794,7 +5794,7 @@ entries:
     audience: Security researchers using AI coding agents for reverse engineering and CTF
     confidence: 0.8
     facts:
-      stars: 43260
+      stars: 43357
       license: MIT
       last_commit: 2026-09-22
       last_release: 2026-08-08
@@ -5847,7 +5847,7 @@ entries:
     audience: Developers using several coding agents who want one provider and routing layer
     confidence: 0.8
     facts:
-      stars: 37839
+      stars: 37848
       license: MIT
       last_commit: 2026-10-10
       last_release: 2026-10-09
@@ -5887,9 +5887,9 @@ entries:
     audience: Developers building realtime web apps or multiplayer games, no separate server
     confidence: 0.85
     facts:
-      stars: 25379
+      stars: 25387
       license: NOASSERTION
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-21
       has_docker: true
       has_compose: true
@@ -5976,7 +5976,7 @@ entries:
     audience: Developers using coding agents who want designs and decks generated as files
     confidence: 0.8
     facts:
-      stars: 26177
+      stars: 26278
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-17
@@ -6022,7 +6022,7 @@ entries:
     audience: Developers who want unattended coding-agent runs against a PRD task list
     confidence: 0.85
     facts:
-      stars: 22061
+      stars: 22065
       license: MIT
       last_commit: 2026-02-02
       last_release: null
@@ -6067,9 +6067,9 @@ entries:
     audience: Developers scripting NotebookLM or giving coding agents a grounded research tool
     confidence: 0.8
     facts:
-      stars: 19891
+      stars: 19908
       license: MIT
-      last_commit: 2026-10-22
+      last_commit: 2026-10-26
       last_release: 2026-10-12
       has_docker: true
       has_compose: true
@@ -6115,7 +6115,7 @@ entries:
     audience: Developers who want coding agents to use their logged-in Chrome
     confidence: 0.8
     facts:
-      stars: 18605
+      stars: 18614
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-09-04
@@ -6123,7 +6123,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 84
+    score: 83
   - id: agent-skills-for-context-engineering
     repo: muratcankoylan/agent-skills-for-context-engineering
     name: agent-skills-for-context-engineering
@@ -6157,7 +6157,7 @@ entries:
     audience: Engineers building or tuning coding agents and agent harnesses
     confidence: 0.85
     facts:
-      stars: 18210
+      stars: 18216
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-05-22
@@ -6205,7 +6205,7 @@ entries:
     audience: ML researchers using Claude Code or Codex to automate experiments and papers
     confidence: 0.8
     facts:
-      stars: 18030
+      stars: 18064
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-09-28
@@ -6250,7 +6250,7 @@ entries:
     audience: Teams giving coding agents persistent, searchable repo documentation
     confidence: 0.72
     facts:
-      stars: 17396
+      stars: 17409
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-09
@@ -6297,9 +6297,9 @@ entries:
     audience: Developers wanting a self-run coding agent with terminal, desktop and web UIs
     confidence: 0.8
     facts:
-      stars: 16751
+      stars: 16753
       license: MIT
-      last_commit: 2026-10-22
+      last_commit: 2026-10-25
       last_release: 2026-10-12
       has_docker: false
       has_compose: false
@@ -6347,7 +6347,7 @@ entries:
     audience: Developers using AI coding agents to write GSAP animations
     confidence: 0.93
     facts:
-      stars: 17085
+      stars: 17140
       license: MIT
       last_commit: 2026-04-21
       last_release: null
@@ -6391,7 +6391,7 @@ entries:
     audience: Developers who want a minimal Next.js SaaS base with Stripe and Postgres
     confidence: 0.85
     facts:
-      stars: 16226
+      stars: 16228
       license: MIT
       last_commit: 2025-12-11
       last_release: null
@@ -6435,7 +6435,7 @@ entries:
     audience: Frontend developers who want Cursor or other agents to build UI from Figma files
     confidence: 0.8
     facts:
-      stars: 16067
+      stars: 16069
       license: MIT
       last_commit: 2026-06-24
       last_release: 2026-06-18
@@ -6484,10 +6484,10 @@ entries:
     audience: Obsidian users who want coding agents to work on their vault
     confidence: 0.85
     facts:
-      stars: 15790
+      stars: 15795
       license: MIT
       last_commit: 2026-10-25
-      last_release: 2026-10-23
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -6527,7 +6527,7 @@ entries:
     audience: Teams using AI coding agents who want shared, persistent project standards
     confidence: 0.8
     facts:
-      stars: 15016
+      stars: 15017
       license: AGPL-3.0
       last_commit: 2026-09-29
       last_release: null
@@ -6579,9 +6579,9 @@ entries:
     audience: Developers who want a GUI for Claude Code with their choice of model provider
     confidence: 0.8
     facts:
-      stars: 15156
+      stars: 15165
       license: NOASSERTION
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-20
       has_docker: false
       has_compose: false
@@ -6623,7 +6623,7 @@ entries:
     audience: Unity developers who want an AI assistant to drive the Editor through MCP
     confidence: 0.85
     facts:
-      stars: 15389
+      stars: 15410
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-04
@@ -6673,7 +6673,7 @@ entries:
     audience: Developers who want a launch video for their project from a coding agent
     confidence: 0.9
     facts:
-      stars: 18441
+      stars: 18619
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -6716,7 +6716,7 @@ entries:
     audience: Developers who need sandboxed code execution for agents or app builders
     confidence: 0.7
     facts:
-      stars: 14544
+      stars: 14555
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-22
@@ -6761,7 +6761,7 @@ entries:
     audience: Developers who want to drive coding agent CLIs from a browser or phone
     confidence: 0.9
     facts:
-      stars: 14275
+      stars: 14283
       license: AGPL-3.0
       last_commit: 2026-10-24
       last_release: 2026-10-17
@@ -6810,7 +6810,7 @@ entries:
     audience: Developers wanting a terminal coding agent with long-session memory
     confidence: 0.85
     facts:
-      stars: 13720
+      stars: 13722
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-09-22
@@ -6862,10 +6862,10 @@ entries:
     audience: Teams wanting self-hosted AI pull request review in CI or on their git host
     confidence: 0.9
     facts:
-      stars: 13599
+      stars: 13607
       license: MIT
-      last_commit: 2026-10-24
-      last_release: 2026-10-16
+      last_commit: 2026-10-25
+      last_release: 2026-10-25
       has_docker: true
       has_compose: true
       is_template: false
@@ -6909,7 +6909,7 @@ entries:
     audience: Developers starting a Next.js app with auth, database and tooling set up
     confidence: 0.72
     facts:
-      stars: 13090
+      stars: 13092
       license: MIT
       last_commit: 2026-10-08
       last_release: 2026-10-08
@@ -6953,7 +6953,7 @@ entries:
     audience: Developers giving coding agents a self-hosted or cloud backend
     confidence: 0.85
     facts:
-      stars: 13183
+      stars: 13207
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-23
@@ -7004,7 +7004,7 @@ entries:
     audience: Developers running several coding agents in parallel across one repository
     confidence: 0.85
     facts:
-      stars: 13597
+      stars: 13638
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -7049,15 +7049,15 @@ entries:
     audience: Developers who want ready-made skills for Claude Code, Cursor or Codex
     confidence: 0.8
     facts:
-      stars: 13257
+      stars: 13278
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-11
       has_docker: false
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 66
+    score: 67
   - id: convex-backend
     repo: convex/convex-backend
     name: convex-backend
@@ -7138,7 +7138,7 @@ entries:
     audience: Developers giving Claude Code or other agents search over large repos
     confidence: 0.85
     facts:
-      stars: 12646
+      stars: 12647
       license: MIT
       last_commit: 2026-07-14
       last_release: null
@@ -7189,7 +7189,7 @@ entries:
     audience: Developers and researchers who want a hackable terminal coding agent
     confidence: 0.85
     facts:
-      stars: 12153
+      stars: 12154
       license: MIT
       last_commit: 2026-02-05
       last_release: null
@@ -7232,7 +7232,7 @@ entries:
     audience: Claude Code users doing full-stack work who want ready-made skills
     confidence: 0.9
     facts:
-      stars: 12050
+      stars: 12059
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-16
@@ -7240,7 +7240,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 83
+    score: 82
   - id: pal-mcp-server
     repo: beehiveinnovations/pal-mcp-server
     name: pal-mcp-server
@@ -7285,7 +7285,7 @@ entries:
     audience: Developers using Claude Code, Codex or Cursor who want multi-model input
     confidence: 0.85
     facts:
-      stars: 11805
+      stars: 11807
       license: NOASSERTION
       last_commit: 2025-12-15
       last_release: 2025-12-15
@@ -7380,7 +7380,7 @@ entries:
     audience: Mobile QA and Android developers wiring real devices into coding agents or CI
     confidence: 0.72
     facts:
-      stars: 14614
+      stars: 14805
       license: Apache-2.0
       last_commit: 2026-09-29
       last_release: null
@@ -7425,7 +7425,7 @@ entries:
     audience: Engineers using Claude Code or Codex who want diagrams generated from prompts
     confidence: 0.85
     facts:
-      stars: 11834
+      stars: 11837
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-07-17
@@ -7474,7 +7474,7 @@ entries:
     audience: Teams running coding agents on a schedule against their own repos
     confidence: 0.7
     facts:
-      stars: 11625
+      stars: 11629
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-07-20
@@ -7519,7 +7519,7 @@ entries:
     audience: Developers using coding agents with the Hugging Face Hub
     confidence: 0.85
     facts:
-      stars: 11210
+      stars: 11212
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: null
@@ -7568,7 +7568,7 @@ entries:
     audience: Developers using Claude Code or Codex to make product promo videos
     confidence: 0.85
     facts:
-      stars: 13486
+      stars: 13603
       license: Apache-2.0
       last_commit: 2026-10-17
       last_release: 2026-09-01
@@ -7611,7 +7611,7 @@ entries:
     audience: Claude Code users who want skills maintained automatically
     confidence: 0.85
     facts:
-      stars: 10731
+      stars: 10752
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -7656,7 +7656,7 @@ entries:
     audience: TypeScript developers building MCP servers and ChatGPT or Claude apps
     confidence: 0.85
     facts:
-      stars: 10811
+      stars: 10814
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-21
@@ -7716,9 +7716,9 @@ entries:
     audience: Engineers running several coding agents who need shared sessions and policies
     confidence: 0.85
     facts:
-      stars: 11029
+      stars: 11046
       license: Apache-2.0
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-21
       has_docker: true
       has_compose: true
@@ -7767,7 +7767,7 @@ entries:
     audience: Developers using AI coding agents who want a structured, spec-driven workflow
     confidence: 0.85
     facts:
-      stars: 10840
+      stars: 10858
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-19
@@ -7810,7 +7810,7 @@ entries:
     audience: Developers using coding agents who want readable diagrams and reviews
     confidence: 0.85
     facts:
-      stars: 10621
+      stars: 10628
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-20
@@ -7855,7 +7855,7 @@ entries:
     audience: Developers who want a terminal coding agent usable with several model providers
     confidence: 0.85
     facts:
-      stars: 10327
+      stars: 10328
       license: GPL-3.0
       last_commit: 2026-10-16
       last_release: 2026-10-14
@@ -7905,7 +7905,7 @@ entries:
     audience: Front-end devs and agencies building scroll landing pages with agents
     confidence: 0.85
     facts:
-      stars: 10456
+      stars: 10487
       license: MIT
       last_commit: 2026-07-29
       last_release: null
@@ -7913,7 +7913,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 59
+    score: 58
   - id: claude-code-infrastructure-showcase
     repo: diet103/claude-code-infrastructure-showcase
     name: claude-code-infrastructure-showcase
@@ -7954,7 +7954,7 @@ entries:
     audience: Claude Code and Codex users who want skills to trigger automatically
     confidence: 0.9
     facts:
-      stars: 10039
+      stars: 10043
       license: MIT
       last_commit: 2026-07-12
       last_release: null
@@ -7962,7 +7962,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 52
+    score: 51
   - id: drawio-skill
     repo: agents365-ai/drawio-skill
     name: drawio-skill
@@ -8005,7 +8005,7 @@ entries:
     audience: Engineers using coding agents to diagram code and infrastructure
     confidence: 0.9
     facts:
-      stars: 10344
+      stars: 10355
       license: MIT
       last_commit: 2026-10-11
       last_release: 2026-10-11
@@ -8048,7 +8048,7 @@ entries:
     audience: Developers who want Claude, Cursor or Codex to run commands and edit local files
     confidence: 0.85
     facts:
-      stars: 10119
+      stars: 10124
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-22
@@ -8094,7 +8094,7 @@ entries:
     audience: Teams using Claude Code, Cursor or Codex on shared repos
     confidence: 0.8
     facts:
-      stars: 10732
+      stars: 10751
       license: MIT
       last_commit: 2026-10-24
       last_release: null
@@ -8137,7 +8137,7 @@ entries:
     audience: Engineers wiring AWS docs and operations into coding agents or chat clients
     confidence: 0.85
     facts:
-      stars: 9829
+      stars: 9831
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-16
@@ -8183,7 +8183,7 @@ entries:
     audience: Developers running Claude Code unattended on task-list-driven builds
     confidence: 0.8
     facts:
-      stars: 9716
+      stars: 9715
       license: MIT
       last_commit: 2026-10-25
       last_release: null
@@ -8191,7 +8191,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 72
+    score: 71
   - id: computer
     repo: cloudflare/computer
     name: computer
@@ -8228,7 +8228,7 @@ entries:
     audience: Cloudflare developers building agents that need a persistent workspace
     confidence: 0.6
     facts:
-      stars: 9708
+      stars: 9712
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -8275,7 +8275,7 @@ entries:
     audience: Developers running several coding agents who want per-commit session history
     confidence: 0.8
     facts:
-      stars: 9540
+      stars: 9543
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-09-27
@@ -8323,7 +8323,7 @@ entries:
     audience: Teams wanting Claude to review PRs and fix issues in GitHub workflows
     confidence: 0.85
     facts:
-      stars: 9639
+      stars: 9642
       license: MIT
       last_commit: 2026-10-24
       last_release: 2025-08-26
@@ -8379,7 +8379,7 @@ entries:
     audience: Developers wanting a local terminal and editor with BYOK or local-model agents
     confidence: 0.8
     facts:
-      stars: 9360
+      stars: 9378
       license: Apache-2.0
       last_commit: 2026-10-22
       last_release: 2026-10-16
@@ -8387,7 +8387,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 75
   - id: plannotator
     repo: backnotprop/plannotator
     name: plannotator
@@ -8423,7 +8423,7 @@ entries:
     audience: Developers using CLI coding agents who want to review plans and diffs visually
     confidence: 0.8
     facts:
-      stars: 9624
+      stars: 9640
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -8470,7 +8470,7 @@ entries:
     audience: Developers using several coding agents who want shared project memory
     confidence: 0.8
     facts:
-      stars: 13352
+      stars: 13531
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -8514,7 +8514,7 @@ entries:
     audience: Developers using coding agents who want audited, reviewable work plans
     confidence: 0.85
     facts:
-      stars: 9260
+      stars: 9264
       license: MIT
       last_commit: 2026-09-12
       last_release: null
@@ -8556,7 +8556,7 @@ entries:
     audience: Claude Code users who want multi-agent setups generated for their project
     confidence: 0.85
     facts:
-      stars: 9252
+      stars: 9253
       license: Apache-2.0
       last_commit: 2026-09-28
       last_release: null
@@ -8602,7 +8602,7 @@ entries:
     audience: Developers who want interactive figures for docs, blogs or landing pages
     confidence: 0.9
     facts:
-      stars: 20307
+      stars: 20615
       license: MIT
       last_commit: 2026-10-18
       last_release: 2026-10-12
@@ -8644,7 +8644,7 @@ entries:
     audience: Developers running several Claude Code or Codex agents on one repo
     confidence: 0.7
     facts:
-      stars: 9464
+      stars: 9477
       license: NOASSERTION
       last_commit: 2026-10-23
       last_release: 2026-10-20
@@ -8690,7 +8690,7 @@ entries:
     audience: Developers sketching Material 3 app flows before prompting a coding agent
     confidence: 0.85
     facts:
-      stars: 9710
+      stars: 9749
       license: MIT
       last_commit: 2026-10-22
       last_release: null
@@ -8743,9 +8743,9 @@ entries:
     audience: Developers who want agent-checked branches before raising PRs
     confidence: 0.8
     facts:
-      stars: 8946
+      stars: 8959
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-09-26
       has_docker: false
       has_compose: false
@@ -8787,9 +8787,9 @@ entries:
     audience: Developers letting coding agents control mobile devices for testing
     confidence: 0.85
     facts:
-      stars: 9960
+      stars: 9978
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: true
       has_compose: false
@@ -8847,9 +8847,9 @@ entries:
     audience: Developers running several coding-agent CLIs in parallel on one machine
     confidence: 0.8
     facts:
-      stars: 9035
+      stars: 9062
       license: MIT
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-01
       has_docker: false
       has_compose: false
@@ -8894,7 +8894,7 @@ entries:
     audience: Developers running several terminal coding agents in parallel on one repo
     confidence: 0.9
     facts:
-      stars: 8666
+      stars: 8669
       license: AGPL-3.0
       last_commit: 2026-08-20
       last_release: 2026-08-20
@@ -8984,7 +8984,7 @@ entries:
     audience: Developers using Google Stitch with Codex, Claude Code, Cursor or Gemini CLI
     confidence: 0.9
     facts:
-      stars: 8580
+      stars: 8593
       license: Apache-2.0
       last_commit: 2026-08-17
       last_release: 2026-05-18
@@ -9027,7 +9027,7 @@ entries:
     audience: Developers who want coding agents to read current library docs and code
     confidence: 0.85
     facts:
-      stars: 8488
+      stars: 8490
       license: Apache-2.0
       last_commit: 2026-05-08
       last_release: null
@@ -9072,15 +9072,15 @@ entries:
     audience: Teams writing end-to-end tests for web and mobile apps in TypeScript
     confidence: 0.85
     facts:
-      stars: 11863
+      stars: 11888
       license: Apache-2.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: false
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 85
+    score: 86
   - id: ccpm
     repo: automazeio/ccpm
     name: ccpm
@@ -9116,7 +9116,7 @@ entries:
     audience: Developers running coding agents who want spec-driven work tracked in GitHub
     confidence: 0.9
     facts:
-      stars: 8412
+      stars: 8414
       license: MIT
       last_commit: 2026-10-19
       last_release: null
@@ -9162,7 +9162,7 @@ entries:
     audience: Researchers and developers wanting a simple, hackable CLI coding agent
     confidence: 0.9
     facts:
-      stars: 8809
+      stars: 8825
       license: MIT
       last_commit: 2026-09-03
       last_release: 2026-07-23
@@ -9296,7 +9296,7 @@ entries:
     audience: Google Antigravity users wanting preset agents, skills and safety hooks
     confidence: 0.85
     facts:
-      stars: 8201
+      stars: 8200
       license: MIT
       last_commit: 2026-08-31
       last_release: 2026-08-31
@@ -9344,7 +9344,7 @@ entries:
     audience: Security and platform engineers auditing large codebases for vulnerabilities
     confidence: 0.85
     facts:
-      stars: 8254
+      stars: 8258
       license: Apache-2.0
       last_commit: 2026-09-29
       last_release: null
@@ -9385,7 +9385,7 @@ entries:
     audience: Front-end and design engineers using coding agents to build and review UI
     confidence: 0.85
     facts:
-      stars: 8257
+      stars: 8419
       license: MIT
       last_commit: 2026-10-25
       last_release: null
@@ -9393,7 +9393,7 @@ entries:
       has_compose: false
       is_template: false
       language: Markdown
-    score: 76
+    score: 77
   - id: firstmate
     repo: kunchenguid/firstmate
     name: firstmate
@@ -9438,7 +9438,7 @@ entries:
     audience: Developers running several coding agents in parallel from the terminal
     confidence: 0.8
     facts:
-      stars: 8296
+      stars: 8308
       license: MIT
       last_commit: 2026-10-25
       last_release: null
@@ -9482,9 +9482,9 @@ entries:
     audience: Developers wanting a terminal coding agent for Kimi models
     confidence: 0.9
     facts:
-      stars: 8008
+      stars: 8016
       license: MIT
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -9525,7 +9525,7 @@ entries:
     audience: Developers wanting a desktop, web or terminal AI coding agent
     confidence: 0.7
     facts:
-      stars: 8211
+      stars: 8234
       license: Apache-2.0
       last_commit: 2026-10-20
       last_release: 2026-09-24
@@ -9565,7 +9565,7 @@ entries:
     audience: Developers who paste repository context into LLMs or feed it to agents
     confidence: 0.6
     facts:
-      stars: 7735
+      stars: 7737
       license: MIT
       last_commit: 2026-09-07
       last_release: 2025-12-11
@@ -9614,7 +9614,7 @@ entries:
     audience: Engineering teams automating routine backlog work with coding agents
     confidence: 0.72
     facts:
-      stars: 8208
+      stars: 8231
       license: NOASSERTION
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -9711,7 +9711,7 @@ entries:
     audience: Developers who want an AI coding agent in the terminal or ZSH prompt
     confidence: 0.85
     facts:
-      stars: 7639
+      stars: 7635
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-01
@@ -9756,7 +9756,7 @@ entries:
     audience: Developers on Claude Code, Codex, OpenCode or Cursor wanting shared memory
     confidence: 0.8
     facts:
-      stars: 8001
+      stars: 8012
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-15
@@ -9800,7 +9800,7 @@ entries:
     audience: Claude Code users who want lossless context compaction and accept a hosted API
     confidence: 0.85
     facts:
-      stars: 7759
+      stars: 7765
       license: MIT
       last_commit: 2026-09-17
       last_release: null
@@ -9848,10 +9848,10 @@ entries:
     audience: Heavy Claude Code users trying to cut input-token spend
     confidence: 0.8
     facts:
-      stars: 7555
+      stars: 7554
       license: MIT
-      last_commit: 2026-10-18
-      last_release: 2026-10-18
+      last_commit: 2026-10-26
+      last_release: 2026-10-26
       has_docker: true
       has_compose: true
       is_template: false
@@ -9898,7 +9898,7 @@ entries:
     audience: Engineers and researchers optimizing algorithms or kernels against a score
     confidence: 0.75
     facts:
-      stars: 7644
+      stars: 7647
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-09-28
@@ -9940,7 +9940,7 @@ entries:
     audience: Security auditors and engineers using Claude Code or Codex for code review
     confidence: 0.9
     facts:
-      stars: 7791
+      stars: 7801
       license: CC-BY-SA-4.0
       last_commit: 2026-10-23
       last_release: null
@@ -9984,7 +9984,7 @@ entries:
     audience: Developers launching a multi-tenant Next.js SaaS, adding AI themselves
     confidence: 0.85
     facts:
-      stars: 7458
+      stars: 7460
       license: MIT
       last_commit: 2026-08-21
       last_release: 2026-07-01
@@ -10027,10 +10027,10 @@ entries:
     audience: Engineers giving Claude Code, Codex or Cursor repo context and risk checks
     confidence: 0.8
     facts:
-      stars: 7902
+      stars: 7909
       license: AGPL-3.0
       last_commit: 2026-10-25
-      last_release: 2026-10-20
+      last_release: 2026-10-25
       has_docker: true
       has_compose: true
       is_template: false
@@ -10075,7 +10075,7 @@ entries:
     audience: Codex users with a ChatGPT subscription who want to offload planning and review
     confidence: 0.85
     facts:
-      stars: 7532
+      stars: 7550
       license: MIT
       last_commit: 2026-10-01
       last_release: 2026-10-01
@@ -10117,7 +10117,7 @@ entries:
     audience: Developers using Claude Code or Codex who want a small, opinionated skill set
     confidence: 0.85
     facts:
-      stars: 7356
+      stars: 7357
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-15
@@ -10164,7 +10164,7 @@ entries:
     audience: Designers and engineers who want Cursor or Claude Code to edit Figma files
     confidence: 0.8
     facts:
-      stars: 7069
+      stars: 7068
       license: MIT
       last_commit: 2026-07-26
       last_release: null
@@ -10207,10 +10207,10 @@ entries:
     audience: Developers who want vetted skills for Claude Code, Cursor and similar agents
     confidence: 0.85
     facts:
-      stars: 7091
+      stars: 7089
       license: NOASSERTION
-      last_commit: 2026-10-22
-      last_release: 2026-10-16
+      last_commit: 2026-10-25
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -10252,7 +10252,7 @@ entries:
     audience: DSH users wanting runtime tool injection, task routing and a task protocol
     confidence: 0.7
     facts:
-      stars: 6999
+      stars: 6998
       license: MIT
       last_commit: 2026-09-18
       last_release: 2026-09-02
@@ -10303,7 +10303,7 @@ entries:
     audience: JetBrains users who want Claude Code or Codex inside the IDE
     confidence: 0.85
     facts:
-      stars: 7248
+      stars: 7252
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-21
@@ -10360,9 +10360,9 @@ entries:
     audience: Neovim users who want LLM chat and coding agents in their editor
     confidence: 0.85
     facts:
-      stars: 6901
+      stars: 6902
       license: Apache-2.0
-      last_commit: 2026-10-19
+      last_commit: 2026-10-25
       last_release: 2026-10-17
       has_docker: true
       has_compose: false
@@ -10406,7 +10406,7 @@ entries:
     audience: .NET teams building a multi-tenant SaaS who want owned source
     confidence: 0.85
     facts:
-      stars: 6832
+      stars: 6831
       license: MIT
       last_commit: 2026-10-09
       last_release: 2026-06-19
@@ -10447,7 +10447,7 @@ entries:
     audience: Teams building internal tools and business systems with no-code and agents
     confidence: 0.6
     facts:
-      stars: 24702
+      stars: 24710
       license: NOASSERTION
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -10489,7 +10489,7 @@ entries:
     audience: Developers building n8n workflows with Claude, Cursor or other MCP clients
     confidence: 0.85
     facts:
-      stars: 23129
+      stars: 23136
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -10497,7 +10497,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 91
+    score: 90
   - id: memu
     repo: nevamind-ai/memu
     name: memu
@@ -10546,7 +10546,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 72
+    score: 71
   - id: prompt-master
     repo: nidhinjs/prompt-master
     name: prompt-master
@@ -10587,7 +10587,7 @@ entries:
     audience: Claude users who write prompts for coding agents and image models
     confidence: 0.85
     facts:
-      stars: 15016
+      stars: 15063
       license: MIT
       last_commit: 2026-10-22
       last_release: null
@@ -10595,7 +10595,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 66
+    score: 67
   - id: openskills
     repo: numman-ali/openskills
     name: openskills
@@ -10629,7 +10629,7 @@ entries:
     audience: Developers sharing Claude-style skills across Cursor, Codex and Aider
     confidence: 0.9
     facts:
-      stars: 10811
+      stars: 10810
       license: NOASSERTION
       last_commit: 2026-01-18
       last_release: 2026-01-17
@@ -10671,7 +10671,7 @@ entries:
     audience: Developers giving Claude Code, Codex or similar agents browser control
     confidence: 0.72
     facts:
-      stars: 6695
+      stars: 6698
       license: MIT
       last_commit: 2026-10-18
       last_release: 2026-07-15
@@ -10722,7 +10722,7 @@ entries:
     audience: Developers wanting a local desktop workspace for multiple coding agents
     confidence: 0.85
     facts:
-      stars: 7239
+      stars: 7264
       license: LGPL-3.0
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -10764,7 +10764,7 @@ entries:
     audience: Laravel developers building a subscription SaaS product
     confidence: 0.8
     facts:
-      stars: 6549
+      stars: 6550
       license: MIT
       last_commit: 2026-05-29
       last_release: 2026-01-10
@@ -10856,7 +10856,7 @@ entries:
     audience: Developers using Claude Code, OpenCode or Codex who want metric-driven loops
     confidence: 0.85
     facts:
-      stars: 6752
+      stars: 6756
       license: MIT
       last_commit: 2026-08-12
       last_release: 2026-08-12
@@ -10909,7 +10909,7 @@ entries:
     audience: Developers wanting a multi-provider desktop client for Claude Code-style agents
     confidence: 0.85
     facts:
-      stars: 6507
+      stars: 6509
       license: NOASSERTION
       last_commit: 2026-09-22
       last_release: 2026-09-22
@@ -10953,7 +10953,7 @@ entries:
     audience: Claude Code users who build n8n workflows via n8n-mcp
     confidence: 0.9
     facts:
-      stars: 6518
+      stars: 6522
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -11000,9 +11000,9 @@ entries:
     audience: Developers running several Claude Code and Codex agents on one repository
     confidence: 0.7
     facts:
-      stars: 8172
+      stars: 8194
       license: Apache-2.0
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: true
       has_compose: false
@@ -11044,7 +11044,7 @@ entries:
     audience: Teams on GitHub wanting automated AI security review of trusted PRs
     confidence: 0.9
     facts:
-      stars: 6536
+      stars: 6547
       license: MIT
       last_commit: 2026-02-11
       last_release: null
@@ -11088,7 +11088,7 @@ entries:
     audience: Codex users who want prebuilt specialist subagents to drop into their projects
     confidence: 0.85
     facts:
-      stars: 6400
+      stars: 6404
       license: MIT
       last_commit: 2026-10-05
       last_release: null
@@ -11133,7 +11133,7 @@ entries:
     audience: Developers who use several coding agents and share skills among them
     confidence: 0.85
     facts:
-      stars: 6806
+      stars: 6839
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-21
@@ -11181,7 +11181,7 @@ entries:
     audience: Engineers running multi-day agent loops in Codex or Claude Code
     confidence: 0.7
     facts:
-      stars: 6421
+      stars: 6423
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-23
@@ -11240,7 +11240,7 @@ entries:
     audience: Developers wanting spec-first, replayable workflows on their coding agent CLI
     confidence: 0.8
     facts:
-      stars: 6272
+      stars: 6274
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -11333,7 +11333,7 @@ entries:
     audience: Developers using coding agents to build ADK agents on Google Cloud
     confidence: 0.85
     facts:
-      stars: 6170
+      stars: 6174
       license: Apache-2.0
       last_commit: 2026-10-20
       last_release: 2026-10-20
@@ -11377,7 +11377,7 @@ entries:
     audience: Developers using Cursor, Claude Code or Codex who want UI components via MCP
     confidence: 0.8
     facts:
-      stars: 6240
+      stars: 6253
       license: ISC
       last_commit: 2026-09-09
       last_release: 2026-09-09
@@ -11423,7 +11423,7 @@ entries:
     audience: Founders and designers who want mascot images from an AI agent
     confidence: 0.85
     facts:
-      stars: 6154
+      stars: 6162
       license: MIT
       last_commit: 2026-08-22
       last_release: null
@@ -11520,7 +11520,7 @@ entries:
     audience: Modders using Claude Code, Codex or Cursor on games they own
     confidence: 0.8
     facts:
-      stars: 8916
+      stars: 8957
       license: MIT
       last_commit: 2026-10-21
       last_release: null
@@ -11572,7 +11572,7 @@ entries:
     audience: Developers running several coding agents side by side on one repo
     confidence: 0.9
     facts:
-      stars: 6076
+      stars: 6079
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -11625,7 +11625,7 @@ entries:
     audience: Claude Code users who want to route work to other models
     confidence: 0.8
     facts:
-      stars: 5944
+      stars: 5947
       license: MIT
       last_commit: 2026-10-21
       last_release: null
@@ -11671,7 +11671,7 @@ entries:
     audience: Developers in China filing software copyright registrations using a coding agent
     confidence: 0.85
     facts:
-      stars: 6062
+      stars: 6066
       license: AGPL-3.0
       last_commit: 2026-10-23
       last_release: 2026-10-17
@@ -11717,7 +11717,7 @@ entries:
     audience: iOS and Swift developers using AI coding agents to write SwiftUI
     confidence: 0.9
     facts:
-      stars: 6352
+      stars: 6357
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-09
@@ -11763,7 +11763,7 @@ entries:
     audience: CS and AI researchers using Claude Code for papers and experiments
     confidence: 0.85
     facts:
-      stars: 5900
+      stars: 5904
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-02-25
@@ -11804,7 +11804,7 @@ entries:
     audience: .NET developers using coding agents like Copilot, Claude Code, Cursor or Codex
     confidence: 0.9
     facts:
-      stars: 5723
+      stars: 5728
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-04-21
@@ -11848,7 +11848,7 @@ entries:
     audience: Developers who want Lottie animations generated by their coding agent
     confidence: 0.85
     facts:
-      stars: 5623
+      stars: 5630
       license: MIT
       last_commit: 2026-07-25
       last_release: 2026-06-15
@@ -11890,7 +11890,7 @@ entries:
     audience: Developers using AI coding agents who want cleaner UI, copy and comments
     confidence: 0.88
     facts:
-      stars: 7123
+      stars: 7175
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -11989,7 +11989,7 @@ entries:
     audience: Teams on GitHub automating triage, review and CI investigation with AI agents
     confidence: 0.8
     facts:
-      stars: 5463
+      stars: 5470
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -12034,7 +12034,7 @@ entries:
       stars: 5382
       license: MIT
       last_commit: 2026-10-25
-      last_release: 2026-10-24
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -12081,7 +12081,7 @@ entries:
     audience: Engineers running long-horizon research agents or benchmarking agent workflows
     confidence: 0.8
     facts:
-      stars: 5338
+      stars: 5349
       license: Apache-2.0
       last_commit: 2026-10-14
       last_release: null
@@ -12127,15 +12127,15 @@ entries:
     audience: Engineers wanting graph-grounded code Q&A and edits across mixed-language repos
     confidence: 0.78
     facts:
-      stars: 5282
+      stars: 5283
       license: MIT
       last_commit: 2026-10-25
-      last_release: 2026-10-24
+      last_release: 2026-10-25
       has_docker: true
       has_compose: false
       is_template: false
       language: Python
-    score: 74
+    score: 73
   - id: kode-cli
     repo: shareai-lab/kode-cli
     name: kode-cli
@@ -12226,7 +12226,7 @@ entries:
     audience: Developers running agent CLIs who want to monitor and approve them remotely
     confidence: 0.85
     facts:
-      stars: 5297
+      stars: 5301
       license: AGPL-3.0
       last_commit: 2026-10-25
       last_release: 2026-09-15
@@ -12320,9 +12320,9 @@ entries:
     audience: Teams adding gated, auditable delivery workflows to AI coding assistants
     confidence: 0.8
     facts:
-      stars: 5497
+      stars: 5508
       license: MIT-0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-26
       last_release: 2026-10-20
       has_docker: false
       has_compose: false
@@ -12365,7 +12365,7 @@ entries:
     audience: Developers who want a scriptable terminal coding agent using Mistral models
     confidence: 0.85
     facts:
-      stars: 5195
+      stars: 5199
       license: Apache-2.0
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -12416,7 +12416,7 @@ entries:
     audience: Developers running AI coding agents who tab away and miss prompts
     confidence: 0.85
     facts:
-      stars: 5085
+      stars: 5086
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-08-26
@@ -12468,7 +12468,7 @@ entries:
     audience: Developers using Claude Code, Codex or Gemini CLI who keep notes in Obsidian
     confidence: 0.8
     facts:
-      stars: 5424
+      stars: 5427
       license: MIT
       last_commit: 2026-10-17
       last_release: 2026-10-12
@@ -12514,9 +12514,9 @@ entries:
     audience: Mobile and React Native developers who want coding agents to verify app changes
     confidence: 0.85
     facts:
-      stars: 5138
+      stars: 5147
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-22
       has_docker: false
       has_compose: false
@@ -12561,7 +12561,7 @@ entries:
     audience: Teams building B2B SaaS that need SSO, teams and audit logs
     confidence: 0.8
     facts:
-      stars: 4958
+      stars: 4960
       license: Apache-2.0
       last_commit: 2026-05-08
       last_release: 2024-12-24
@@ -12607,7 +12607,7 @@ entries:
     audience: Engineering teams wanting a shared, self-hosted AI coding platform
     confidence: 0.7
     facts:
-      stars: 4859
+      stars: 4862
       license: AGPL-3.0
       last_commit: 2026-10-23
       last_release: 2026-07-28
@@ -12652,10 +12652,10 @@ entries:
     audience: ChatGPT subscribers wanting Codex-style local coding without a separate API
     confidence: 0.8
     facts:
-      stars: 5080
+      stars: 5082
       license: MIT
       last_commit: 2026-10-25
-      last_release: 2026-10-22
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -12791,7 +12791,7 @@ entries:
     audience: Coding-agent users who want structured review of high-stakes decisions
     confidence: 0.88
     facts:
-      stars: 4701
+      stars: 4705
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-07-04
@@ -12841,7 +12841,7 @@ entries:
     audience: Developers adding persistent memory to coding agents or LLM apps
     confidence: 0.6
     facts:
-      stars: 4543
+      stars: 4544
       license: Apache-2.0
       last_commit: 2026-10-18
       last_release: 2025-12-20
@@ -12892,7 +12892,7 @@ entries:
     audience: Developers building multi-agent setups from YAML with MCP tools
     confidence: 0.8
     facts:
-      stars: 4606
+      stars: 4608
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-21
@@ -12939,7 +12939,7 @@ entries:
     audience: Teams on GitHub wanting automated LLM review comments on pull requests
     confidence: 0.85
     facts:
-      stars: 4470
+      stars: 4471
       license: ISC
       last_commit: 2026-08-10
       last_release: 2026-07-14
@@ -12994,7 +12994,7 @@ entries:
     audience: Developers wanting a self-controlled, provider-agnostic terminal coding agent
     confidence: 0.85
     facts:
-      stars: 4460
+      stars: 4463
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-15
@@ -13039,15 +13039,15 @@ entries:
     audience: Developers who want a self-hosted, always-on agent that works unattended
     confidence: 0.72
     facts:
-      stars: 4571
+      stars: 4574
       license: Apache-2.0
-      last_commit: 2026-10-25
-      last_release: 2026-10-16
+      last_commit: 2026-10-26
+      last_release: 2026-10-25
       has_docker: true
       has_compose: true
       is_template: false
       language: Python
-    score: 81
+    score: 80
   - id: ms-agent
     repo: modelscope/ms-agent
     name: ms-agent
@@ -13140,7 +13140,7 @@ entries:
     audience: Unity developers who want AI coding agents to operate the Editor
     confidence: 0.8
     facts:
-      stars: 4527
+      stars: 4530
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -13194,7 +13194,7 @@ entries:
     facts:
       stars: 4533
       license: Apache-2.0
-      last_commit: 2026-10-22
+      last_commit: 2026-10-25
       last_release: 2026-10-16
       has_docker: true
       has_compose: true
@@ -13240,7 +13240,7 @@ entries:
     audience: Terminal users running DeepSeek Harness, Claude Code or Codex sessions
     confidence: 0.8
     facts:
-      stars: 5711
+      stars: 5788
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -13285,7 +13285,7 @@ entries:
     audience: Developers who want a self-run agentic IDE with a scriptable CLI and API
     confidence: 0.7
     facts:
-      stars: 4600
+      stars: 4606
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -13329,9 +13329,9 @@ entries:
     audience: Developers giving coding agents local code and document search or memory
     confidence: 0.8
     facts:
-      stars: 15393
+      stars: 15574
       license: Apache-2.0
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-24
       has_docker: false
       has_compose: false
@@ -13374,7 +13374,7 @@ entries:
     audience: Developers running several coding agents in parallel on one repo
     confidence: 0.8
     facts:
-      stars: 4079
+      stars: 4078
       license: Apache-2.0
       last_commit: 2026-08-12
       last_release: 2025-08-19
@@ -13426,7 +13426,7 @@ entries:
     audience: Developers and coding agents wanting a second-model review of project files
     confidence: 0.7
     facts:
-      stars: 4063
+      stars: 4060
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -13479,7 +13479,7 @@ entries:
     audience: Developers wanting a local Lovable-style builder on top of their coding CLI
     confidence: 0.85
     facts:
-      stars: 4054
+      stars: 4053
       license: MIT
       last_commit: 2026-03-04
       last_release: 2025-08-30
@@ -13521,7 +13521,7 @@ entries:
     audience: Developers adding API connectors for agent tool platforms
     confidence: 0.7
     facts:
-      stars: 6675
+      stars: 6711
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-09-30
@@ -13570,7 +13570,7 @@ entries:
     audience: Neovim users who want OpenAI chat and code edit commands inside the editor
     confidence: 0.8
     facts:
-      stars: 3989
+      stars: 3990
       license: Apache-2.0
       last_commit: 2026-01-13
       last_release: 2023-01-08
@@ -13706,7 +13706,7 @@ entries:
     audience: Developers using Claude Code, Cursor or Codex who want fewer tokens per task
     confidence: 0.72
     facts:
-      stars: 3897
+      stars: 3899
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-11
@@ -13763,7 +13763,7 @@ entries:
     audience: Developers who use several coding agents and want one workspace for them
     confidence: 0.8
     facts:
-      stars: 4088
+      stars: 4095
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -13806,7 +13806,7 @@ entries:
     audience: Developers giving MCP-capable agents access to their own LinkedIn account
     confidence: 0.8
     facts:
-      stars: 4009
+      stars: 4014
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-23
@@ -13934,7 +13934,7 @@ entries:
     audience: Teams using AI coding agents who want spec-gated, reviewed implementation
     confidence: 0.85
     facts:
-      stars: 3738
+      stars: 3739
       license: MIT
       last_commit: 2026-09-23
       last_release: 2026-09-23
@@ -13977,7 +13977,7 @@ entries:
     audience: SwiftUI developers using Claude Code, Codex or Cursor
     confidence: 0.9
     facts:
-      stars: 3754
+      stars: 3758
       license: MIT
       last_commit: 2026-10-06
       last_release: 2026-10-02
@@ -14027,7 +14027,7 @@ entries:
     facts:
       stars: 3031
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: true
@@ -14067,9 +14067,9 @@ entries:
     audience: Claude Code users who want ready-made agents, commands and hooks
     confidence: 0.9
     facts:
-      stars: 3675
+      stars: 3677
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2025-10-24
       has_docker: true
       has_compose: false
@@ -14108,9 +14108,9 @@ entries:
     audience: Agent users with big local Skill libraries who want planned multi-step delivery
     confidence: 0.7
     facts:
-      stars: 3765
+      stars: 3769
       license: Apache-2.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-18
       has_docker: false
       has_compose: false
@@ -14150,7 +14150,7 @@ entries:
     audience: Developers using Claude Code or Codex who want agents to produce HTML mockups
     confidence: 0.85
     facts:
-      stars: 3750
+      stars: 3758
       license: MIT
       last_commit: 2026-10-15
       last_release: null
@@ -14202,7 +14202,7 @@ entries:
     audience: Developers wanting persistent, inspectable memory for Claude Code or Codex
     confidence: 0.7
     facts:
-      stars: 4723
+      stars: 4728
       license: MIT
       last_commit: 2026-10-22
       last_release: null
@@ -14308,7 +14308,7 @@ entries:
     audience: Learners and engineers who want to own design decisions while AI writes code
     confidence: 0.9
     facts:
-      stars: 3930
+      stars: 3961
       license: MIT
       last_commit: 2026-10-09
       last_release: null
@@ -14355,9 +14355,9 @@ entries:
     audience: Developers using coding agents with NVIDIA SDKs, CUDA-X, Jetson or DOCA
     confidence: 0.9
     facts:
-      stars: 3723
+      stars: 3733
       license: Apache-2.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-26
       last_release: null
       has_docker: false
       has_compose: false
@@ -14403,7 +14403,7 @@ entries:
     audience: Developers who want a Grok-powered terminal coding agent for local use and CI
     confidence: 0.9
     facts:
-      stars: 3499
+      stars: 3500
       license: MIT
       last_commit: 2026-05-15
       last_release: 2026-05-15
@@ -14451,7 +14451,7 @@ entries:
     audience: Terminal users who want one UI for several coding agents
     confidence: 0.85
     facts:
-      stars: 3484
+      stars: 3483
       license: AGPL-3.0
       last_commit: 2026-05-26
       last_release: 2026-05-26
@@ -14496,7 +14496,7 @@ entries:
     audience: Pi coding agent users who want lower token cost on long agent runs
     confidence: 0.85
     facts:
-      stars: 3570
+      stars: 3575
       license: MIT
       last_commit: 2026-10-18
       last_release: null
@@ -14546,7 +14546,7 @@ entries:
     audience: Developers running several CLI coding agents across projects, keyboard-first
     confidence: 0.9
     facts:
-      stars: 3494
+      stars: 3495
       license: AGPL-3.0
       last_commit: 2026-10-24
       last_release: 2026-10-21
@@ -14597,7 +14597,7 @@ entries:
     audience: Go developers using AI coding assistants who want consistent Go conventions
     confidence: 0.9
     facts:
-      stars: 3612
+      stars: 3647
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-08-20
@@ -14644,7 +14644,7 @@ entries:
     audience: Developers using coding agents to build custom scroll-animated marketing sites
     confidence: 0.85
     facts:
-      stars: 4011
+      stars: 4042
       license: MIT
       last_commit: 2026-09-30
       last_release: null
@@ -14692,9 +14692,9 @@ entries:
     audience: Hermes Agent users who want model routing, parallel coding and reviewed memory
     confidence: 0.8
     facts:
-      stars: 4038
+      stars: 4206
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -14739,9 +14739,9 @@ entries:
     audience: Developers wanting a desktop GUI coding agent on macOS or Linux
     confidence: 0.8
     facts:
-      stars: 3748
+      stars: 3777
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -14787,10 +14787,10 @@ entries:
     audience: Mac users who want Claude Code on local models, offline or past usage limits
     confidence: 0.85
     facts:
-      stars: 3379
+      stars: 3381
       license: MIT
-      last_commit: 2026-10-22
-      last_release: 2026-10-15
+      last_commit: 2026-10-25
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -14830,7 +14830,7 @@ entries:
     audience: Claude users maintaining several skills who want them refined over time
     confidence: 0.9
     facts:
-      stars: 3545
+      stars: 3561
       license: NOASSERTION
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -14925,7 +14925,7 @@ entries:
     audience: Codex desktop users who want a local task board that Codex tasks can update
     confidence: 0.8
     facts:
-      stars: 3392
+      stars: 3395
       license: Apache-2.0
       last_commit: 2026-10-21
       last_release: 2026-10-21
@@ -14973,15 +14973,15 @@ entries:
     audience: Coding-agent users who want readable pages with diagrams instead of long text
     confidence: 0.9
     facts:
-      stars: 4379
+      stars: 4435
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-21
       has_docker: false
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 75
+    score: 76
   - id: google-workspace-mcp
     repo: taylorwilsdon/google_workspace_mcp
     name: google_workspace_mcp
@@ -15016,7 +15016,7 @@ entries:
     audience: Engineers connecting Claude, ChatGPT or other MCP clients to Google Workspace
     confidence: 0.8
     facts:
-      stars: 3407
+      stars: 3412
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-23
@@ -15058,15 +15058,15 @@ entries:
     audience: Developers running several CLI coding agents in parallel on branches
     confidence: 0.85
     facts:
-      stars: 3380
+      stars: 3384
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-21
       has_docker: true
       has_compose: false
       is_template: false
       language: Rust
-    score: 78
+    score: 77
   - id: pocketbase
     repo: pocketbase/pocketbase
     name: pocketbase
@@ -15098,7 +15098,7 @@ entries:
     audience: Developers who want a self-hosted single-binary backend for web or mobile apps
     confidence: 0.9
     facts:
-      stars: 61604
+      stars: 61615
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -15140,10 +15140,10 @@ entries:
     audience: Technical teams building a custom, code-defined CRM
     confidence: 0.8
     facts:
-      stars: 59681
+      stars: 59743
       license: NOASSERTION
       last_commit: 2026-10-25
-      last_release: 2026-10-21
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -15184,7 +15184,7 @@ entries:
     audience: Solo devs and small teams using AI coding tools who want structured planning
     confidence: 0.85
     facts:
-      stars: 54523
+      stars: 54551
       license: NOASSERTION
       last_commit: 2026-10-18
       last_release: 2026-10-14
@@ -15227,7 +15227,7 @@ entries:
     audience: Python developers building MCP servers or clients for LLM tools
     confidence: 0.8
     facts:
-      stars: 28198
+      stars: 28199
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-20
@@ -15269,7 +15269,7 @@ entries:
     audience: Python developers building MCP servers or clients for LLM apps
     confidence: 0.85
     facts:
-      stars: 24664
+      stars: 24666
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-02
@@ -15312,7 +15312,7 @@ entries:
     audience: React and React Native developers wanting code checks locally and in CI
     confidence: 0.8
     facts:
-      stars: 15047
+      stars: 15048
       license: NOASSERTION
       last_commit: 2026-10-15
       last_release: 2026-10-12
@@ -15354,7 +15354,7 @@ entries:
     audience: Claude Code users who want a spec-first workflow for features
     confidence: 0.85
     facts:
-      stars: 13886
+      stars: 13890
       license: MIT
       last_commit: 2026-03-16
       last_release: null
@@ -15397,7 +15397,7 @@ entries:
     audience: TypeScript developers building MCP servers or clients
     confidence: 0.85
     facts:
-      stars: 13648
+      stars: 13650
       license: NOASSERTION
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -15441,7 +15441,7 @@ entries:
     audience: Reverse engineers with an IDA Pro license who want LLM-assisted analysis
     confidence: 0.85
     facts:
-      stars: 13135
+      stars: 13153
       license: MIT
       last_commit: 2026-09-26
       last_release: 2025-10-06
@@ -15486,7 +15486,7 @@ entries:
     audience: Go and TypeScript teams building backends on AWS or GCP
     confidence: 0.85
     facts:
-      stars: 12562
+      stars: 12583
       license: MPL-2.0
       last_commit: 2026-10-22
       last_release: 2026-10-20
@@ -15534,7 +15534,7 @@ entries:
     audience: Agent users who want consistently typeset PDFs, slides and resumes
     confidence: 0.85
     facts:
-      stars: 12077
+      stars: 12081
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-15
@@ -15580,13 +15580,13 @@ entries:
     facts:
       stars: 10492
       license: NOASSERTION
-      last_commit: 2026-10-21
+      last_commit: 2026-10-25
       last_release: 2026-10-22
       has_docker: false
       has_compose: false
       is_template: false
       language: Rust
-    score: 80
+    score: 81
   - id: oh-my-opencode-slim
     repo: alvinunreal/oh-my-opencode-slim
     name: oh-my-opencode-slim
@@ -15626,15 +15626,15 @@ entries:
     audience: OpenCode users who want multi-agent delegation with mixed models
     confidence: 0.85
     facts:
-      stars: 9784
+      stars: 9795
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: false
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 83
+    score: 84
   - id: hunk
     repo: modem-dev/hunk
     name: hunk
@@ -15669,7 +15669,7 @@ entries:
     audience: Developers who review diffs or agent-written changes in the terminal
     confidence: 0.85
     facts:
-      stars: 9679
+      stars: 9686
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -15712,7 +15712,7 @@ entries:
     audience: Developers who want a self-hostable Firebase-style backend with GraphQL
     confidence: 0.85
     facts:
-      stars: 9366
+      stars: 9367
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-23
@@ -15760,7 +15760,7 @@ entries:
     audience: Python developers building MCP-based agents and workflows
     confidence: 0.85
     facts:
-      stars: 8570
+      stars: 8568
       license: Apache-2.0
       last_commit: 2026-01-25
       last_release: 2025-05-09
@@ -15805,7 +15805,7 @@ entries:
     audience: Android developers using AI coding agents like Claude Code, Codex or Gemini
     confidence: 0.9
     facts:
-      stars: 9640
+      stars: 9721
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -15848,7 +15848,7 @@ entries:
     audience: iOS and macOS developers using coding agents like Cursor or Claude Code
     confidence: 0.85
     facts:
-      stars: 6506
+      stars: 6507
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-09-23
@@ -15891,7 +15891,7 @@ entries:
     audience: Developers giving Claude Code, Cursor or Codex fast local code search
     confidence: 0.9
     facts:
-      stars: 6288
+      stars: 6292
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-16
@@ -15934,7 +15934,7 @@ entries:
     audience: Go developers who want a layered REST API starter with JWT auth
     confidence: 0.85
     facts:
-      stars: 6167
+      stars: 6166
       license: Apache-2.0
       last_commit: 2026-02-05
       last_release: null
@@ -15984,7 +15984,7 @@ entries:
     facts:
       stars: 5872
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: false
@@ -16026,7 +16026,7 @@ entries:
     audience: Reverse engineers who want AI agents to drive Ghidra
     confidence: 0.85
     facts:
-      stars: 5893
+      stars: 5901
       license: Apache-2.0
       last_commit: 2026-10-22
       last_release: 2026-10-21
@@ -16071,7 +16071,7 @@ entries:
     audience: Developers who want coding agents to use project-specific context
     confidence: 0.7
     facts:
-      stars: 5765
+      stars: 5768
       license: Apache-2.0
       last_commit: 2026-10-21
       last_release: 2026-08-31
@@ -16121,7 +16121,7 @@ entries:
     audience: Developers giving coding or self-hosted agents local, keyless web access
     confidence: 0.8
     facts:
-      stars: 5502
+      stars: 5503
       license: NOASSERTION
       last_commit: 2026-10-24
       last_release: 2026-10-22
@@ -16164,7 +16164,7 @@ entries:
     audience: Developers adding web search and page fetching to MCP-capable coding agents
     confidence: 0.8
     facts:
-      stars: 5166
+      stars: 5168
       license: MIT
       last_commit: 2026-10-19
       last_release: null
@@ -16208,7 +16208,7 @@ entries:
     audience: Chinese-speaking developers using coding agents with structured skills
     confidence: 0.85
     facts:
-      stars: 5255
+      stars: 5277
       license: MIT
       last_commit: 2026-10-20
       last_release: 2026-10-08
@@ -16257,7 +16257,7 @@ entries:
     audience: Teams using OpenCode who want agents that follow shared coding standards
     confidence: 0.8
     facts:
-      stars: 4944
+      stars: 4950
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-01-30
@@ -16299,7 +16299,7 @@ entries:
     audience: Codex users who want a managed, removable custom instruction prompt
     confidence: 0.8
     facts:
-      stars: 4781
+      stars: 4784
       license: MIT
       last_commit: 2026-09-27
       last_release: 2026-09-10
@@ -16342,15 +16342,15 @@ entries:
     audience: Developers using coding agents for design decisions, naming and fuzzy debugging
     confidence: 0.85
     facts:
-      stars: 4463
+      stars: 4466
       license: MIT
-      last_commit: 2026-10-05
+      last_commit: 2026-10-25
       last_release: 2026-05-30
       has_docker: false
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 58
+    score: 59
   - id: mcp-server-cloudflare
     repo: cloudflare/mcp-server-cloudflare
     name: mcp-server-cloudflare
@@ -16384,7 +16384,7 @@ entries:
     audience: Developers managing Cloudflare resources from MCP clients like Cursor or Claude
     confidence: 0.8
     facts:
-      stars: 4412
+      stars: 4414
       license: Apache-2.0
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -16431,7 +16431,7 @@ entries:
     audience: Frontend developers and designers who extract or clone site design systems
     confidence: 0.78
     facts:
-      stars: 4366
+      stars: 4371
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-09-23
@@ -16488,7 +16488,7 @@ entries:
     audience: Claude Code users who want multi-model review and cross-checking
     confidence: 0.85
     facts:
-      stars: 4301
+      stars: 4304
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -16530,7 +16530,7 @@ entries:
     audience: Teams standardizing agent skills, plugins and MCP config across repos
     confidence: 0.9
     facts:
-      stars: 4120
+      stars: 4122
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-22
@@ -16573,7 +16573,7 @@ entries:
     audience: Developers running Claude Code or Codex agents on long, multi-step tasks
     confidence: 0.85
     facts:
-      stars: 4117
+      stars: 4133
       license: MIT
       last_commit: 2026-09-03
       last_release: null
@@ -16672,7 +16672,7 @@ entries:
     audience: Codex users on large repos who want planning and verified-completion workflows
     confidence: 0.85
     facts:
-      stars: 3826
+      stars: 3828
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -16811,7 +16811,7 @@ entries:
     audience: Developers giving MCP-capable coding agents guarded access to SQL databases
     confidence: 0.9
     facts:
-      stars: 3717
+      stars: 3718
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-09
@@ -16854,7 +16854,7 @@ entries:
     audience: CTF players using Claude Code or other Agent Skills-compatible agents
     confidence: 0.8
     facts:
-      stars: 3524
+      stars: 3527
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -16898,7 +16898,7 @@ entries:
     audience: Engineers and agent users wanting semantic diffs and impact data from Git
     confidence: 0.8
     facts:
-      stars: 3423
+      stars: 3425
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-19
@@ -16949,9 +16949,9 @@ entries:
     audience: Engineers running small local models for long, tool-heavy agent tasks
     confidence: 0.8
     facts:
-      stars: 3428
+      stars: 3431
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-24
       has_docker: false
       has_compose: false
@@ -16991,7 +16991,7 @@ entries:
     audience: Flutter developers who want a Dart backend with generated APIs
     confidence: 0.8
     facts:
-      stars: 3316
+      stars: 3317
       license: BSD-3-Clause
       last_commit: 2026-10-23
       last_release: 2026-07-22
@@ -17083,7 +17083,7 @@ entries:
     audience: Engineers building shopping or back-office agents on Claude
     confidence: 0.8
     facts:
-      stars: 3335
+      stars: 3340
       license: Apache-2.0
       last_commit: 2026-08-31
       last_release: null
@@ -17127,7 +17127,7 @@ entries:
     audience: Developers giving coding agents arXiv paper reading and citation tools
     confidence: 0.85
     facts:
-      stars: 3232
+      stars: 3233
       license: Apache-2.0
       last_commit: 2026-10-08
       last_release: 2026-10-08
@@ -17170,7 +17170,7 @@ entries:
     audience: Developers who want their coding agent to script and run browser automation
     confidence: 0.9
     facts:
-      stars: 3235
+      stars: 3237
       license: MIT
       last_commit: 2026-08-14
       last_release: 2026-08-11
@@ -17214,7 +17214,7 @@ entries:
     audience: Teams with Tailwind design systems whose coding agents write UI
     confidence: 0.8
     facts:
-      stars: 3265
+      stars: 3269
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-19
@@ -17260,7 +17260,7 @@ entries:
     audience: Developers using coding agents who want reusable, verifiable task loops
     confidence: 0.85
     facts:
-      stars: 3206
+      stars: 3205
       license: MIT
       last_commit: 2026-07-07
       last_release: null
@@ -17305,7 +17305,7 @@ entries:
     audience: Developers using AI coding agents who want consistent UI styling
     confidence: 0.85
     facts:
-      stars: 3337
+      stars: 3344
       license: MIT
       last_commit: 2026-06-28
       last_release: null
@@ -17350,7 +17350,7 @@ entries:
     audience: Python developers starting a FastAPI and React web app
     confidence: 0.7
     facts:
-      stars: 46066
+      stars: 46065
       license: MIT
       last_commit: 2026-10-15
       last_release: 2026-08-12
@@ -17396,7 +17396,7 @@ entries:
     audience: Claude Code users wanting persistent memory, context and reusable skills
     confidence: 0.7
     facts:
-      stars: 19575
+      stars: 19580
       license: MIT
       last_commit: 2026-09-04
       last_release: 2026-08-14
@@ -17438,7 +17438,7 @@ entries:
     audience: Self-hosters and dashboard builders who need consistent service icons
     confidence: 0.6
     facts:
-      stars: 8932
+      stars: 8936
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: null
@@ -17481,7 +17481,7 @@ entries:
     audience: Frontend developers starting a SaaS dashboard or internal admin tool on Next.js
     confidence: 0.85
     facts:
-      stars: 7171
+      stars: 7173
       license: MIT
       last_commit: 2026-10-20
       last_release: 2026-07-18
@@ -17523,7 +17523,7 @@ entries:
     audience: TypeScript developers starting a new full-stack project
     confidence: 0.7
     facts:
-      stars: 5845
+      stars: 5846
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -17610,7 +17610,7 @@ entries:
     audience: Vue developers building admin panels or back-office frontends
     confidence: 0.55
     facts:
-      stars: 3419
+      stars: 3420
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-08-30
@@ -17666,7 +17666,7 @@ entries:
     audience: Developers running Claude Code or Codex autonomously on multi-step tasks
     confidence: 0.85
     facts:
-      stars: 3186
+      stars: 3185
       license: MIT
       last_commit: 2026-10-15
       last_release: 2026-06-23
@@ -17713,7 +17713,7 @@ entries:
     audience: Developers using Claude Code, Codex or Cursor who want plan and review gates
     confidence: 0.85
     facts:
-      stars: 3183
+      stars: 3184
       license: MIT
       last_commit: 2026-10-15
       last_release: 2026-10-15
@@ -17761,9 +17761,9 @@ entries:
     audience: Developers running several coding agents who want one local control app
     confidence: 0.8
     facts:
-      stars: 3350
+      stars: 3354
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -17852,7 +17852,7 @@ entries:
     audience: Developers planning a new app with a chat model and a coding assistant
     confidence: 0.8
     facts:
-      stars: 3183
+      stars: 3185
       license: MIT
       last_commit: 2026-10-04
       last_release: 2026-08-20
@@ -17860,7 +17860,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 66
+    score: 67
   - id: autonomous-company
     repo: maxmiksa/autonomous-company
     name: autonomous-company
@@ -17901,7 +17901,7 @@ entries:
     audience: Developers with Claude Code or Codex quota who want an unattended agent loop
     confidence: 0.8
     facts:
-      stars: 3156
+      stars: 3157
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-13
@@ -17909,7 +17909,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 78
+    score: 77
   - id: microsoft-skills
     repo: microsoft/skills
     name: skills
@@ -17943,7 +17943,7 @@ entries:
     audience: Developers using coding agents with Azure SDKs and Microsoft Foundry
     confidence: 0.85
     facts:
-      stars: 3146
+      stars: 3148
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -17991,7 +17991,7 @@ entries:
     audience: Developers using coding agents to build and deploy on Cloudflare
     confidence: 0.9
     facts:
-      stars: 3168
+      stars: 3172
       license: Apache-2.0
       last_commit: 2026-10-15
       last_release: null
@@ -18082,7 +18082,7 @@ entries:
     audience: Developers wanting a desktop agent that combines Claude Code and Codex locally
     confidence: 0.8
     facts:
-      stars: 4336
+      stars: 4917
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-23
@@ -18090,7 +18090,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 77
+    score: 78
   - id: monocode
     repo: hardbeat920/monocode
     name: monocode
@@ -18135,7 +18135,7 @@ entries:
     audience: Developers who use several coding agent CLIs and want one desktop workspace
     confidence: 0.85
     facts:
-      stars: 3366
+      stars: 3405
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-19
@@ -18143,7 +18143,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 67
+    score: 68
   - id: opensrc
     repo: vercel-labs/opensrc
     name: opensrc
@@ -18178,7 +18178,7 @@ entries:
     audience: Developers who want coding agents to read dependency source code
     confidence: 0.8
     facts:
-      stars: 3023
+      stars: 3024
       license: Apache-2.0
       last_commit: 2026-09-16
       last_release: 2026-06-23
@@ -18324,7 +18324,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 39
+    score: 38
   - id: best-skills
     repo: xstongxue/best-skills
     name: best-skills
@@ -18362,7 +18362,7 @@ entries:
     audience: Chinese-speaking users of Cursor, Claude Code or Codex doing papers or reports
     confidence: 0.85
     facts:
-      stars: 3043
+      stars: 3046
       license: Apache-2.0
       last_commit: 2026-09-13
       last_release: null
@@ -18411,7 +18411,7 @@ entries:
     audience: Developers who want a terminal coding agent or a codebase to learn from
     confidence: 0.9
     facts:
-      stars: 2987
+      stars: 2988
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-14
@@ -18540,7 +18540,7 @@ entries:
     audience: Go developers who want a server-rendered web app base with auth and admin
     confidence: 0.7
     facts:
-      stars: 2959
+      stars: 2958
       license: MIT
       last_commit: 2026-08-14
       last_release: 2026-08-14
@@ -18667,7 +18667,7 @@ entries:
     audience: Teams using several AI coding agents who want shared repo instructions
     confidence: 0.85
     facts:
-      stars: 2951
+      stars: 2952
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -18710,7 +18710,7 @@ entries:
     audience: Designers and product teams using Claude Code or Gemini CLI for design work
     confidence: 0.9
     facts:
-      stars: 3081
+      stars: 3095
       license: MIT
       last_commit: 2026-09-05
       last_release: null
@@ -18760,7 +18760,7 @@ entries:
     audience: Android reverse engineers and security researchers using LLMs with JADX
     confidence: 0.9
     facts:
-      stars: 2934
+      stars: 2937
       license: Apache-2.0
       last_commit: 2026-10-19
       last_release: 2026-10-19
@@ -18805,7 +18805,7 @@ entries:
     audience: Teams using AI coding agents to build and operate on AWS
     confidence: 0.85
     facts:
-      stars: 3238
+      stars: 3274
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: null
@@ -18852,7 +18852,7 @@ entries:
     audience: Developers using coding agents to build Expo / React Native mobile apps
     confidence: 0.85
     facts:
-      stars: 3034
+      stars: 3043
       license: MIT
       last_commit: 2026-09-06
       last_release: null
@@ -18896,7 +18896,7 @@ entries:
     audience: Developers building Expo and React Native apps with AI coding agents
     confidence: 0.9
     facts:
-      stars: 3012
+      stars: 3019
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -18940,9 +18940,9 @@ entries:
     audience: Claude Code users looking for ready-made skills and plugins to install
     confidence: 0.85
     facts:
-      stars: 2870
+      stars: 2871
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-07-23
       has_docker: false
       has_compose: false
@@ -18992,7 +18992,7 @@ entries:
     audience: Teams using coding agents who want per-line AI attribution in git history
     confidence: 0.8
     facts:
-      stars: 2889
+      stars: 2890
       license: Apache-2.0
       last_commit: 2026-10-20
       last_release: 2026-09-09
@@ -19034,7 +19034,7 @@ entries:
     audience: Developers using AI coding agents on Supabase or Postgres projects
     confidence: 0.9
     facts:
-      stars: 2928
+      stars: 2931
       license: MIT
       last_commit: 2026-10-02
       last_release: 2026-09-28
@@ -19131,7 +19131,7 @@ entries:
     audience: Developers who want coding agents to search large repos by meaning
     confidence: 0.8
     facts:
-      stars: 2946
+      stars: 2948
       license: Apache-2.0
       last_commit: 2026-10-22
       last_release: 2026-10-05
@@ -19177,7 +19177,7 @@ entries:
     audience: Claude Code users who want to run it on non-Anthropic models
     confidence: 0.85
     facts:
-      stars: 2798
+      stars: 2799
       license: MIT
       last_commit: 2026-03-12
       last_release: null
@@ -19231,7 +19231,7 @@ entries:
     audience: Neovim users who want Copilot edit suggestions and AI CLIs in-editor
     confidence: 0.85
     facts:
-      stars: 2800
+      stars: 2801
       license: Apache-2.0
       last_commit: 2026-09-08
       last_release: 2026-03-20
@@ -19272,9 +19272,9 @@ entries:
     audience: Developers using several AI coding tools who want one synced setup
     confidence: 0.85
     facts:
-      stars: 2833
+      stars: 2838
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: true
       has_compose: true
@@ -19322,7 +19322,7 @@ entries:
     audience: Claude Code users who want multi-backend, structured dev workflows
     confidence: 0.8
     facts:
-      stars: 2749
+      stars: 2750
       license: AGPL-3.0
       last_commit: 2026-05-04
       last_release: 2026-03-03
@@ -19330,7 +19330,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 33
+    score: 32
   - id: memsearch
     repo: zilliztech/memsearch
     name: memsearch
@@ -19368,7 +19368,7 @@ entries:
     audience: Users of coding agents who want searchable memory across sessions and tools
     confidence: 0.85
     facts:
-      stars: 2789
+      stars: 2792
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -19411,15 +19411,15 @@ entries:
     audience: Developers using coding agents on large repos who want lower token spend
     confidence: 0.85
     facts:
-      stars: 2805
+      stars: 2806
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: true
       has_compose: true
       is_template: false
       language: Python
-    score: 79
+    score: 78
   - id: pstack-claude
     repo: michael-denyer/pstack-claude
     name: pstack-claude
@@ -19456,7 +19456,7 @@ entries:
     audience: Users of Claude Code, Codex, Copilot or Pi wanting structured agent workflows
     confidence: 0.85
     facts:
-      stars: 3392
+      stars: 3427
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -19511,10 +19511,10 @@ entries:
     audience: Engineers tuning agent prompts and skills, or self-hosting agents
     confidence: 0.7
     facts:
-      stars: 2944
+      stars: 2951
       license: Apache-2.0
       last_commit: 2026-10-25
-      last_release: 2026-10-14
+      last_release: 2026-10-25
       has_docker: true
       has_compose: true
       is_template: false
@@ -19554,7 +19554,7 @@ entries:
     audience: Developers using coding agents to build on the TypeSafe API
     confidence: 0.85
     facts:
-      stars: 2779
+      stars: 2808
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -19602,7 +19602,7 @@ entries:
     audience: Web developers using coding agents to audit performance, a11y and SEO
     confidence: 0.9
     facts:
-      stars: 2986
+      stars: 2989
       license: MIT
       last_commit: 2026-08-24
       last_release: null
@@ -19648,7 +19648,7 @@ entries:
     audience: Creators making subtitle quote images from video, using Codex or Claude Code
     confidence: 0.85
     facts:
-      stars: 2739
+      stars: 2740
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-13
@@ -19691,7 +19691,7 @@ entries:
     audience: Developers running coding agents on unfamiliar codebases
     confidence: 0.8
     facts:
-      stars: 2896
+      stars: 2902
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-01
@@ -19739,7 +19739,7 @@ entries:
     audience: Claude Code users wanting a ready-made CLAUDE.md, hooks and MCP setup
     confidence: 0.8
     facts:
-      stars: 2678
+      stars: 2679
       license: MIT
       last_commit: 2026-10-08
       last_release: null
@@ -19788,7 +19788,7 @@ entries:
     audience: Developers running coding agents on local models on a laptop or LAN GPU box
     confidence: 0.8
     facts:
-      stars: 2700
+      stars: 2699
       license: Apache-2.0
       last_commit: 2026-09-18
       last_release: 2026-09-18
@@ -19929,7 +19929,7 @@ entries:
     audience: Frontend devs using coding agents for scroll or cursor-driven product pages
     confidence: 0.85
     facts:
-      stars: 2682
+      stars: 2688
       license: MIT
       last_commit: 2026-10-04
       last_release: null
@@ -19970,7 +19970,7 @@ entries:
     audience: Frontend developers who need an admin panel UI to start from
     confidence: 0.8
     facts:
-      stars: 2589
+      stars: 2588
       license: MIT
       last_commit: 2026-09-13
       last_release: null
@@ -20019,7 +20019,7 @@ entries:
     audience: Self-hosters wanting a browser-accessible, containerized Claude Code workstation
     confidence: 0.8
     facts:
-      stars: 2590
+      stars: 2591
       license: MIT
       last_commit: 2026-10-15
       last_release: 2026-10-15
@@ -20061,7 +20061,7 @@ entries:
     audience: Heavy Claude Code or Codex users who want lower token spend and cost visibility
     confidence: 0.85
     facts:
-      stars: 2695
+      stars: 2706
       license: NOASSERTION
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -20104,7 +20104,7 @@ entries:
     audience: Claude Code users who want to customize prompts, themes and UI behavior
     confidence: 0.8
     facts:
-      stars: 2560
+      stars: 2561
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-10
@@ -20232,7 +20232,7 @@ entries:
     audience: TypeScript developers building production MCP servers
     confidence: 0.8
     facts:
-      stars: 2529
+      stars: 2528
       license: Apache-2.0
       last_commit: 2026-10-18
       last_release: 2026-07-13
@@ -20280,7 +20280,7 @@ entries:
     audience: Developers who run coding agents and want to enforce task boundaries
     confidence: 0.85
     facts:
-      stars: 3142
+      stars: 3162
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-15
@@ -20324,7 +20324,7 @@ entries:
     audience: Solo builders using Claude Code to rebuild and rebrand an app's features
     confidence: 0.8
     facts:
-      stars: 5336
+      stars: 5494
       license: MIT
       last_commit: 2026-10-03
       last_release: null
@@ -20332,7 +20332,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 49
+    score: 50
   - id: codemachine-cli
     repo: moazbuilds/codemachine-cli
     name: codemachine-cli
@@ -20465,7 +20465,7 @@ entries:
     audience: Developers who want a terminal coding agent with their choice of model
     confidence: 0.85
     facts:
-      stars: 2534
+      stars: 2533
       license: NOASSERTION
       last_commit: 2026-10-25
       last_release: 2026-09-26
@@ -20506,7 +20506,7 @@ entries:
     audience: Reverse engineers and malware analysts driving x64dbg from an AI assistant
     confidence: 0.9
     facts:
-      stars: 2603
+      stars: 2607
       license: MIT
       last_commit: 2026-10-12
       last_release: 2026-10-12
@@ -20549,9 +20549,9 @@ entries:
     audience: Developers adding desktop control to MCP agents like Codex or Claude Code
     confidence: 0.8
     facts:
-      stars: 2679
+      stars: 2691
       license: MIT
-      last_commit: 2026-10-19
+      last_commit: 2026-10-25
       last_release: 2026-10-17
       has_docker: false
       has_compose: false
@@ -20594,7 +20594,7 @@ entries:
     audience: Mobile app developers who need store screenshots and preview videos
     confidence: 0.7
     facts:
-      stars: 2558
+      stars: 2561
       license: NOASSERTION
       last_commit: 2026-10-06
       last_release: null
@@ -20646,7 +20646,7 @@ entries:
     audience: Noncommercial creators using Claude Code or Codex to make explainer videos
     confidence: 0.85
     facts:
-      stars: 2742
+      stars: 2749
       license: NOASSERTION
       last_commit: 2026-09-18
       last_release: null
@@ -20697,7 +20697,7 @@ entries:
     audience: Developers running coding agents unattended against a PRD or task list
     confidence: 0.85
     facts:
-      stars: 2457
+      stars: 2458
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-05-13
@@ -20738,9 +20738,9 @@ entries:
     audience: Developers running coding agents on large repos who want cheaper context
     confidence: 0.7
     facts:
-      stars: 2475
+      stars: 2481
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-19
       has_docker: false
       has_compose: false
@@ -20791,7 +20791,7 @@ entries:
     audience: Obsidian users who want CLI coding agents to read and edit their vault
     confidence: 0.8
     facts:
-      stars: 2456
+      stars: 2457
       license: Apache-2.0
       last_commit: 2026-09-14
       last_release: 2026-09-14
@@ -20840,7 +20840,7 @@ entries:
     audience: Teams using Lanhu for specs and designs who want coding agents to read them
     confidence: 0.85
     facts:
-      stars: 2511
+      stars: 2513
       license: MIT
       last_commit: 2026-10-13
       last_release: 2026-10-13
@@ -20887,7 +20887,7 @@ entries:
     audience: Security engineers trying agentic vulnerability research in sandboxes
     confidence: 0.8
     facts:
-      stars: 2530
+      stars: 2534
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: null
@@ -20973,7 +20973,7 @@ entries:
     audience: Developers and founders using coding agents who want book-based skills
     confidence: 0.85
     facts:
-      stars: 2505
+      stars: 2507
       license: MIT
       last_commit: 2026-09-10
       last_release: 2026-08-29
@@ -21068,7 +21068,7 @@ entries:
     audience: Claude Code users running SEO blogs, content teams and agencies
     confidence: 0.85
     facts:
-      stars: 2521
+      stars: 2528
       license: MIT
       last_commit: 2026-10-14
       last_release: 2026-10-13
@@ -21116,15 +21116,15 @@ entries:
     audience: Mac developers running several coding agents side by side
     confidence: 0.85
     facts:
-      stars: 2398
+      stars: 2397
       license: NOASSERTION
-      last_commit: 2026-10-24
-      last_release: 2026-10-20
+      last_commit: 2026-10-25
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
       language: Swift
-    score: 73
+    score: 74
   - id: better-harness
     repo: qoderai/better-harness
     name: better-harness
@@ -21211,7 +21211,7 @@ entries:
     audience: Developers using Claude Code, Codex or OpenCode who want project memory
     confidence: 0.82
     facts:
-      stars: 2399
+      stars: 2400
       license: AGPL-3.0
       last_commit: 2026-10-19
       last_release: 2026-10-19
@@ -21481,7 +21481,7 @@ entries:
     audience: Developers who want ChatGPT or Claude to work in their local repos via MCP
     confidence: 0.8
     facts:
-      stars: 2405
+      stars: 2408
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-03
@@ -21527,7 +21527,7 @@ entries:
     audience: Developers running several coding agent CLIs who want review-first delegation
     confidence: 0.85
     facts:
-      stars: 2495
+      stars: 2501
       license: MIT
       last_commit: 2026-10-13
       last_release: null
@@ -21657,7 +21657,7 @@ entries:
     audience: Claude Code users who want Gemini to read large codebases
     confidence: 0.85
     facts:
-      stars: 2295
+      stars: 2293
       license: NOASSERTION
       last_commit: 2026-06-18
       last_release: 2026-06-18
@@ -21767,7 +21767,7 @@ entries:
     audience: Developers coordinating several coding agents from a desktop GUI
     confidence: 0.8
     facts:
-      stars: 2318
+      stars: 2329
       license: AGPL-3.0
       last_commit: 2026-10-25
       last_release: 2026-10-09
@@ -21811,7 +21811,7 @@ entries:
     audience: Developers giving MCP agents a stealth browser for scraping and debugging
     confidence: 0.8
     facts:
-      stars: 3272
+      stars: 3279
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-02-10
@@ -21864,7 +21864,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 62
+    score: 61
   - id: cate
     repo: 0-ai-ug/cate
     name: cate
@@ -21941,7 +21941,7 @@ entries:
     audience: TypeScript developers building interactive MCP Apps for Claude and ChatGPT
     confidence: 0.8
     facts:
-      stars: 2177
+      stars: 2178
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -22081,12 +22081,12 @@ entries:
       stars: 2107
       license: AGPL-3.0
       last_commit: 2026-10-24
-      last_release: 2026-10-01
+      last_release: 2026-10-25
       has_docker: false
       has_compose: true
       is_template: false
       language: Python
-    score: 65
+    score: 64
   - id: codexpro
     repo: rebel0789/codexpro
     name: codexpro
@@ -22123,7 +22123,7 @@ entries:
     audience: ChatGPT users who want it to edit and verify code in local repos
     confidence: 0.85
     facts:
-      stars: 2097
+      stars: 2098
       license: MIT
       last_commit: 2026-10-01
       last_release: 2026-09-20
@@ -22258,7 +22258,7 @@ entries:
     audience: Claude Code or Codex users wanting role-based skill packs beyond coding
     confidence: 0.85
     facts:
-      stars: 2086
+      stars: 2088
       license: MIT
       last_commit: 2026-10-18
       last_release: null
@@ -22307,7 +22307,7 @@ entries:
     audience: Developers running several coding agents in parallel on git repos
     confidence: 0.85
     facts:
-      stars: 2062
+      stars: 2061
       license: AGPL-3.0
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -22350,9 +22350,9 @@ entries:
     audience: Developers connecting coding agents to GitLab, including self-hosted instances
     confidence: 0.9
     facts:
-      stars: 2064
+      stars: 2065
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: true
       has_compose: true
@@ -22439,7 +22439,7 @@ entries:
     audience: Developers wanting a terminal coding agent with MiniMax or their own model API
     confidence: 0.85
     facts:
-      stars: 2090
+      stars: 2095
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-09
@@ -22481,7 +22481,7 @@ entries:
     audience: Developers using AI coding tools who want more consistent, designed UI output
     confidence: 0.7
     facts:
-      stars: 2154
+      stars: 2159
       license: NOASSERTION
       last_commit: 2026-10-22
       last_release: 2026-06-01
@@ -22533,9 +22533,9 @@ entries:
     audience: Developers running several coding agents in parallel who want a spatial overview
     confidence: 0.8
     facts:
-      stars: 2104
+      stars: 2107
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: true
       has_compose: false
@@ -22580,9 +22580,9 @@ entries:
     audience: Developers giving coding assistants or agent pipelines persistent shared memory
     confidence: 0.8
     facts:
-      stars: 2040
+      stars: 2046
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: false
       has_compose: false
@@ -22625,7 +22625,7 @@ entries:
     audience: Developers who use Claude Code or Codex daily and want extra tooling
     confidence: 0.8
     facts:
-      stars: 2020
+      stars: 2019
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -22633,7 +22633,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 65
+    score: 64
   - id: nitric
     repo: nitrictech/nitric
     name: nitric
@@ -22717,7 +22717,7 @@ entries:
     audience: Developers wanting a lightweight, model-agnostic terminal coding agent
     confidence: 0.9
     facts:
-      stars: 2010
+      stars: 2009
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -22767,7 +22767,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 24
   - id: amazon-q-developer-cli
     repo: aws/amazon-q-developer-cli
     name: amazon-q-developer-cli
@@ -22846,7 +22846,7 @@ entries:
     audience: Developers using coding agents who want to reproduce a site's visual style
     confidence: 0.85
     facts:
-      stars: 2036
+      stars: 2037
       license: MIT
       last_commit: 2026-08-28
       last_release: null
@@ -22892,7 +22892,7 @@ entries:
     audience: Japanese-writing engineers using coding agents for docs, PRs and articles
     confidence: 0.85
     facts:
-      stars: 2515
+      stars: 2540
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -22900,7 +22900,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 69
+    score: 70
   - id: pr-lens
     repo: coldteadotai/pr-lens
     name: pr-lens
@@ -22939,7 +22939,7 @@ entries:
     audience: Teams reviewing large PRs and agent users wanting visual code explanations
     confidence: 0.72
     facts:
-      stars: 2236
+      stars: 2241
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-17
@@ -22987,7 +22987,7 @@ entries:
     audience: Engineers running coding agents who want enforced review and repair loops
     confidence: 0.8
     facts:
-      stars: 2038
+      stars: 2040
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -23035,13 +23035,13 @@ entries:
     facts:
       stars: 1965
       license: Apache-2.0
-      last_commit: 2026-09-28
+      last_commit: 2026-10-25
       last_release: 2026-09-28
       has_docker: false
       has_compose: false
       is_template: false
       language: Go
-    score: 57
+    score: 58
   - id: mcollina-skills
     repo: mcollina/skills
     name: skills
@@ -23118,7 +23118,7 @@ entries:
     audience: Mac users managing skills and agents across several coding tools
     confidence: 0.9
     facts:
-      stars: 2086
+      stars: 2089
       license: NOASSERTION
       last_commit: 2026-08-23
       last_release: 2026-08-23
@@ -23175,9 +23175,9 @@ entries:
     audience: Emacs users who want coding agents inside Emacs buffers
     confidence: 0.85
     facts:
-      stars: 1991
+      stars: 1994
       license: GPL-3.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: false
@@ -23221,15 +23221,15 @@ entries:
     audience: Developers giving Claude Code, Cursor or Codex local video editing
     confidence: 0.85
     facts:
-      stars: 2670
+      stars: 2834
       license: MIT
-      last_commit: 2026-10-25
-      last_release: 2026-10-24
+      last_commit: 2026-10-26
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: true
       language: Python
-    score: 74
+    score: 75
   - id: holo-card-studio
     repo: everettfish/holo-card-studio
     name: holo-card-studio
@@ -23268,7 +23268,7 @@ entries:
     audience: Codex users making shareable 3D holographic cards, from game devs to designers
     confidence: 0.8
     facts:
-      stars: 1987
+      stars: 1992
       license: NOASSERTION
       last_commit: 2026-09-22
       last_release: null
@@ -23365,7 +23365,7 @@ entries:
     audience: Unity developers who want AI coding agents to operate the Editor
     confidence: 0.9
     facts:
-      stars: 1995
+      stars: 1996
       license: MIT
       last_commit: 2026-10-11
       last_release: 2026-09-03
@@ -23373,7 +23373,7 @@ entries:
       has_compose: false
       is_template: false
       language: C#
-    score: 64
+    score: 65
   - id: nimbalyst
     repo: nimbalyst/nimbalyst
     name: nimbalyst
@@ -23412,7 +23412,7 @@ entries:
     audience: Developers running several coding agents who want visual diff review
     confidence: 0.85
     facts:
-      stars: 1972
+      stars: 1973
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-16
@@ -23457,7 +23457,7 @@ entries:
     audience: Developers running several Claude Code or Codex agents across projects
     confidence: 0.85
     facts:
-      stars: 1907
+      stars: 1908
       license: GPL-3.0
       last_commit: 2026-09-16
       last_release: 2026-09-17
@@ -23506,7 +23506,7 @@ entries:
     audience: Developers running several coding agents who want mobile and remote control
     confidence: 0.8
     facts:
-      stars: 2050
+      stars: 2061
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-23
@@ -23562,7 +23562,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 65
+    score: 64
   - id: bullet-train
     repo: bullet-train-co/bullet_train
     name: bullet_train
@@ -23642,7 +23642,7 @@ entries:
     audience: Maintainers who want an agent to redesign their repository README
     confidence: 0.85
     facts:
-      stars: 1907
+      stars: 1910
       license: MIT
       last_commit: 2026-10-04
       last_release: null
@@ -23689,7 +23689,7 @@ entries:
     facts:
       stars: 1875
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-02-23
       has_docker: false
       has_compose: false
@@ -23827,7 +23827,7 @@ entries:
     audience: Developers using AI coding agents to write PostgreSQL schemas and queries
     confidence: 0.85
     facts:
-      stars: 1872
+      stars: 1873
       license: Apache-2.0
       last_commit: 2026-10-22
       last_release: 2026-09-04
@@ -23869,7 +23869,7 @@ entries:
     audience: Developers using coding agents to deploy projects on EdgeOne Makers
     confidence: 0.9
     facts:
-      stars: 1844
+      stars: 1845
       license: MIT
       last_commit: 2026-10-08
       last_release: null
@@ -23961,7 +23961,7 @@ entries:
     audience: Unity developers who want AI coding agents to edit projects with guardrails
     confidence: 0.8
     facts:
-      stars: 1886
+      stars: 1888
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-16
@@ -24004,7 +24004,7 @@ entries:
     audience: Mobile and Mac app developers preparing store listings with a coding agent
     confidence: 0.9
     facts:
-      stars: 7615
+      stars: 7625
       license: MIT
       last_commit: 2026-10-16
       last_release: null
@@ -24046,9 +24046,9 @@ entries:
     audience: Front-end developers adding motion to UIs, including via coding agents
     confidence: 0.8
     facts:
-      stars: 5712
+      stars: 5738
       license: NOASSERTION
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: false
@@ -24089,7 +24089,7 @@ entries:
     audience: React developers who hand UI feedback to AI coding agents
     confidence: 0.85
     facts:
-      stars: 5057
+      stars: 5085
       license: NOASSERTION
       last_commit: 2026-09-22
       last_release: 2026-09-21
@@ -24134,7 +24134,7 @@ entries:
     audience: Enterprise teams wanting a spec-driven coding assistant inside their IDE
     confidence: 0.8
     facts:
-      stars: 4454
+      stars: 4456
       license: Apache-2.0
       last_commit: 2026-09-30
       last_release: 2026-09-30
@@ -24177,7 +24177,7 @@ entries:
     audience: DSH web users who want a file, Git and terminal workbench beside the agent
     confidence: 0.8
     facts:
-      stars: 4526
+      stars: 4544
       license: MIT
       last_commit: 2026-10-17
       last_release: 2026-10-17
@@ -24232,7 +24232,7 @@ entries:
     audience: Codex users who want to run third-party hosted models in Codex
     confidence: 0.6
     facts:
-      stars: 3963
+      stars: 3965
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-09-15
@@ -24320,9 +24320,9 @@ entries:
     audience: Developers and teams running several coding agents who want shared memory
     confidence: 0.8
     facts:
-      stars: 2788
+      stars: 2808
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-22
       has_docker: false
       has_compose: false
@@ -24364,7 +24364,7 @@ entries:
     audience: Engineers using AI coding agents to write Terraform or OpenTofu
     confidence: 0.9
     facts:
-      stars: 2427
+      stars: 2426
       license: NOASSERTION
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -24414,7 +24414,7 @@ entries:
     audience: Teams building business apps and back offices with AI coding agents
     confidence: 0.8
     facts:
-      stars: 1881
+      stars: 1882
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-09
@@ -24455,7 +24455,7 @@ entries:
     audience: Developers using several AI coding tools who want one shared Skills library
     confidence: 0.85
     facts:
-      stars: 1823
+      stars: 1824
       license: MIT
       last_commit: 2026-10-16
       last_release: 2026-10-16
@@ -24504,7 +24504,7 @@ entries:
     audience: Engineers who want to learn how coding agents work and fork their own
     confidence: 0.9
     facts:
-      stars: 1869
+      stars: 1870
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-06
@@ -24560,7 +24560,7 @@ entries:
     audience: Developers running several terminal coding agents in parallel on one repo
     confidence: 0.9
     facts:
-      stars: 1807
+      stars: 1808
       license: MIT
       last_commit: 2026-08-16
       last_release: 2026-08-16
@@ -24603,7 +24603,7 @@ entries:
     audience: Claude Code users who want corrections saved as persistent rules and skills
     confidence: 0.9
     facts:
-      stars: 1872
+      stars: 1875
       license: MIT
       last_commit: 2026-10-03
       last_release: 2026-10-03
@@ -24646,7 +24646,7 @@ entries:
     audience: Neovim users who want MCP tools in their AI chat plugin
     confidence: 0.85
     facts:
-      stars: 1788
+      stars: 1789
       license: MIT
       last_commit: 2026-01-18
       last_release: 2025-07-31
@@ -24738,10 +24738,10 @@ entries:
     audience: Developers using coding agents who want accessible, consistent UI output
     confidence: 0.85
     facts:
-      stars: 2988
+      stars: 3006
       license: MIT
-      last_commit: 2026-10-20
-      last_release: 2026-10-20
+      last_commit: 2026-10-26
+      last_release: 2026-10-26
       has_docker: false
       has_compose: false
       is_template: false
@@ -24784,9 +24784,9 @@ entries:
     audience: Teams sharing repo context across engineers and coding agents
     confidence: 0.8
     facts:
-      stars: 1778
+      stars: 1779
       license: MIT
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-14
       has_docker: false
       has_compose: false
@@ -24879,7 +24879,7 @@ entries:
     audience: Engineers running long autonomous Claude Code or Codex tasks on macOS or Linux
     confidence: 0.8
     facts:
-      stars: 1774
+      stars: 1777
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-21
@@ -24980,7 +24980,7 @@ entries:
     audience: Codex CLI users who want multi-agent orchestration configs in their repos
     confidence: 0.8
     facts:
-      stars: 1724
+      stars: 1726
       license: Apache-2.0
       last_commit: 2026-10-01
       last_release: 2026-10-01
@@ -25075,7 +25075,7 @@ entries:
     audience: Developers trying an early terminal coding agent with resumable sessions
     confidence: 0.7
     facts:
-      stars: 1865
+      stars: 1869
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: null
@@ -25168,7 +25168,7 @@ entries:
     audience: Developers wanting a light terminal coding agent with fine-grained permissions
     confidence: 0.85
     facts:
-      stars: 1719
+      stars: 1721
       license: GPL-3.0
       last_commit: 2026-10-23
       last_release: 2026-10-10
@@ -25222,9 +25222,9 @@ entries:
     audience: Developers wanting a self-controlled, provider-agnostic terminal coding agent
     confidence: 0.9
     facts:
-      stars: 1743
+      stars: 1744
       license: MIT
-      last_commit: 2026-10-22
+      last_commit: 2026-10-25
       last_release: 2026-10-16
       has_docker: false
       has_compose: false
@@ -25266,7 +25266,7 @@ entries:
     audience: Developers using coding agents to generate polished games, apps or 3D scenes
     confidence: 0.85
     facts:
-      stars: 1736
+      stars: 1739
       license: MIT
       last_commit: 2026-09-09
       last_release: null
@@ -25359,7 +25359,7 @@ entries:
     audience: Teams running several AI coding agents who want repo-based specs and gates
     confidence: 0.8
     facts:
-      stars: 1704
+      stars: 1703
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-09-09
@@ -25417,7 +25417,7 @@ entries:
     audience: Claude Code users who want ready-made skills, subagents and provider configs
     confidence: 0.9
     facts:
-      stars: 1665
+      stars: 1664
       license: MIT
       last_commit: 2026-09-27
       last_release: null
@@ -25459,7 +25459,7 @@ entries:
     audience: Claude Code and Cursor users wanting reusable reasoning procedures for agents
     confidence: 0.9
     facts:
-      stars: 1668
+      stars: 1673
       license: MIT
       last_commit: 2026-08-07
       last_release: 2026-08-04
@@ -25547,7 +25547,7 @@ entries:
     audience: Python developers building multimodal AI backends, often with coding agents
     confidence: 0.7
     facts:
-      stars: 1647
+      stars: 1648
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-22
@@ -25596,7 +25596,7 @@ entries:
     audience: Developers building code-made films or UI sound with coding agents
     confidence: 0.7
     facts:
-      stars: 2674
+      stars: 2796
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -25604,7 +25604,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 65
+    score: 66
   - id: hivemind
     repo: activeloopai/hivemind
     name: hivemind
@@ -25700,9 +25700,9 @@ entries:
     audience: Developers who use several coding agents and want one workspace
     confidence: 0.8
     facts:
-      stars: 1633
+      stars: 1634
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-10
       has_docker: false
       has_compose: false
@@ -25745,7 +25745,7 @@ entries:
     audience: Developers running multiple CLI coding agents in parallel
     confidence: 0.8
     facts:
-      stars: 1637
+      stars: 1638
       license: MIT
       last_commit: 2026-10-17
       last_release: 2026-10-12
@@ -25831,7 +25831,7 @@ entries:
     audience: Engineers giving AI coding agents access to Kubernetes clusters
     confidence: 0.9
     facts:
-      stars: 1607
+      stars: 1608
       license: MIT
       last_commit: 2026-10-14
       last_release: 2026-10-02
@@ -25839,7 +25839,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 67
+    score: 66
   - id: code-mode
     repo: universal-tool-calling-protocol/code-mode
     name: code-mode
@@ -25877,7 +25877,7 @@ entries:
     audience: Developers building agents that orchestrate many MCP or HTTP tools
     confidence: 0.72
     facts:
-      stars: 1611
+      stars: 1614
       license: MPL-2.0
       last_commit: 2026-08-25
       last_release: 2025-11-23
@@ -25963,7 +25963,7 @@ entries:
     audience: Game developers using AI coding agents with Godot, Unity, Unreal or web engines
     confidence: 0.9
     facts:
-      stars: 4075
+      stars: 4307
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-06-26
@@ -25971,7 +25971,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 61
+    score: 59
   - id: steedos-platform
     repo: steedos/steedos-platform
     name: steedos-platform
@@ -26047,7 +26047,7 @@ entries:
     audience: Developers running coding agents who want guards against destructive commands
     confidence: 0.9
     facts:
-      stars: 1781
+      stars: 1790
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -26273,7 +26273,7 @@ entries:
     audience: Developers on Claude Code or Antigravity who want planned, reviewable agent work
     confidence: 0.85
     facts:
-      stars: 3772
+      stars: 3773
       license: Apache-2.0
       last_commit: 2026-09-01
       last_release: 2026-03-11
@@ -26316,7 +26316,7 @@ entries:
     audience: DeepSeek Harness users who want to see and trim agent context and token spend
     confidence: 0.85
     facts:
-      stars: 3558
+      stars: 3591
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -26365,9 +26365,9 @@ entries:
     audience: Developers wanting a customizable desktop agent workspace with remote control
     confidence: 0.72
     facts:
-      stars: 3194
+      stars: 3197
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-21
       has_docker: false
       has_compose: true
@@ -26470,7 +26470,7 @@ entries:
     audience: Developers deploying and operating Azure workloads with coding agents
     confidence: 0.9
     facts:
-      stars: 1593
+      stars: 1595
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -26515,9 +26515,9 @@ entries:
     audience: Developers who want coding agents on hosted or local open models
     confidence: 0.75
     facts:
-      stars: 1568
+      stars: 1569
       license: MIT
-      last_commit: 2026-10-21
+      last_commit: 2026-10-25
       last_release: 2026-10-21
       has_docker: false
       has_compose: false
@@ -26657,10 +26657,10 @@ entries:
     audience: Developers running several CLI coding agents who want them to coordinate
     confidence: 0.85
     facts:
-      stars: 1567
+      stars: 1568
       license: MIT
       last_commit: 2026-10-25
-      last_release: 2026-10-22
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -26700,7 +26700,7 @@ entries:
     facts:
       stars: 1552
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: false
       has_compose: false
@@ -26789,7 +26789,7 @@ entries:
     audience: Engineers self-hosting custom agents on top of existing coding harnesses
     confidence: 0.8
     facts:
-      stars: 1521
+      stars: 1523
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -26889,13 +26889,13 @@ entries:
     facts:
       stars: 1524
       license: NOASSERTION
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: true
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 64
+    score: 65
   - id: evo
     repo: evo-hq/evo
     name: evo
@@ -26932,7 +26932,7 @@ entries:
     audience: Engineers who want agent-driven benchmark optimization of an existing codebase
     confidence: 0.85
     facts:
-      stars: 1484
+      stars: 1485
       license: Apache-2.0
       last_commit: 2026-10-05
       last_release: 2026-07-17
@@ -26982,7 +26982,7 @@ entries:
     audience: Developers who want AI review of every commit, especially AI-written code
     confidence: 0.8
     facts:
-      stars: 1474
+      stars: 1475
       license: NOASSERTION
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -27024,9 +27024,9 @@ entries:
     audience: Claude Code users who want ready-made skills or to build their own
     confidence: 0.8
     facts:
-      stars: 1493
+      stars: 1496
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-18
       has_docker: false
       has_compose: false
@@ -27074,7 +27074,7 @@ entries:
     audience: Claude Code users who want to hand tasks to the Codex CLI
     confidence: 0.85
     facts:
-      stars: 1465
+      stars: 1466
       license: MIT
       last_commit: 2026-10-21
       last_release: null
@@ -27117,7 +27117,7 @@ entries:
     audience: Developers using AI coding agents who want distinct UI designs, not defaults
     confidence: 0.85
     facts:
-      stars: 2131
+      stars: 2242
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -27307,7 +27307,7 @@ entries:
     audience: Claude Code users who want terse, skimmable replies
     confidence: 0.88
     facts:
-      stars: 1496
+      stars: 1501
       license: AGPL-3.0
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -27468,7 +27468,7 @@ entries:
     audience: Developers running several coding CLIs together on one project
     confidence: 0.85
     facts:
-      stars: 1471
+      stars: 1473
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-08
@@ -27518,7 +27518,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 33
   - id: fluent-korean
     repo: snflkd/fluent-korean
     name: fluent-korean
@@ -27552,7 +27552,7 @@ entries:
     audience: Korean-speaking Claude Code users who want clearer Korean replies
     confidence: 0.85
     facts:
-      stars: 1451
+      stars: 1454
       license: MIT
       last_commit: 2026-08-23
       last_release: 2026-08-21
@@ -27598,7 +27598,7 @@ entries:
     audience: Developers running many Claude Code sessions on one codebase
     confidence: 0.85
     facts:
-      stars: 1413
+      stars: 1414
       license: MIT
       last_commit: 2026-04-20
       last_release: null
@@ -27652,7 +27652,7 @@ entries:
     audience: Developers who want repeatable multi-agent coding workflows with review loops
     confidence: 0.85
     facts:
-      stars: 1418
+      stars: 1420
       license: MIT
       last_commit: 2026-10-24
       last_release: null
@@ -27742,15 +27742,15 @@ entries:
     audience: Developers using coding agents on large or long-lived repositories
     confidence: 0.8
     facts:
-      stars: 1734
+      stars: 1741
       license: NOASSERTION
-      last_commit: 2026-10-14
+      last_commit: 2026-10-25
       last_release: null
       has_docker: false
       has_compose: false
       is_template: false
       language: Go
-    score: 65
+    score: 66
   - id: nopua
     repo: wuji-labs/nopua
     name: nopua
@@ -27832,7 +27832,7 @@ entries:
     audience: Developers connecting Claude or other MCP clients to MySQL databases
     confidence: 0.9
     facts:
-      stars: 1402
+      stars: 1403
       license: MIT
       last_commit: 2026-08-02
       last_release: 2026-07-30
@@ -27967,7 +27967,7 @@ entries:
     audience: Hardware engineers using AI coding agents to review KiCad designs
     confidence: 0.85
     facts:
-      stars: 1500
+      stars: 1504
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -28055,7 +28055,7 @@ entries:
     audience: Users giving MCP-based agents persistent memory across sessions and models
     confidence: 0.8
     facts:
-      stars: 1408
+      stars: 1409
       license: MIT
       last_commit: 2026-09-22
       last_release: 2026-08-09
@@ -28063,7 +28063,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 54
+    score: 53
   - id: nextacular
     repo: nextacular/nextacular
     name: nextacular
@@ -28142,7 +28142,7 @@ entries:
     audience: Developers managing skills across several coding agents from one GUI
     confidence: 0.9
     facts:
-      stars: 1405
+      stars: 1406
       license: MIT
       last_commit: 2026-10-13
       last_release: 2026-10-13
@@ -28195,7 +28195,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 65
+    score: 64
   - id: app-store-preflight-skills
     repo: truongduy2611/app-store-preflight-skills
     name: app-store-preflight-skills
@@ -28273,7 +28273,7 @@ entries:
     audience: iOS and macOS developers using MCP-compatible coding assistants
     confidence: 0.9
     facts:
-      stars: 1383
+      stars: 1384
       license: MIT
       last_commit: 2026-03-17
       last_release: 2025-09-15
@@ -28324,9 +28324,9 @@ entries:
     audience: Developers who use coding agents and want to tune AGENTS.md and skills
     confidence: 0.85
     facts:
-      stars: 1415
+      stars: 1417
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-24
       has_docker: false
       has_compose: false
@@ -28381,7 +28381,7 @@ entries:
     audience: Developers running coding agents in herdr who want phone or browser access
     confidence: 0.85
     facts:
-      stars: 1460
+      stars: 1482
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -28389,7 +28389,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: claude-video-vision
     repo: jordanrendric/claude-video-vision
     name: claude-video-vision
@@ -28431,7 +28431,7 @@ entries:
     audience: Claude Code users who want Claude to analyze local or YouTube videos
     confidence: 0.85
     facts:
-      stars: 1415
+      stars: 1422
       license: MIT
       last_commit: 2026-10-06
       last_release: 2026-10-06
@@ -28484,7 +28484,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 11
+    score: 10
   - id: sudolang
     repo: paralleldrive/sudolang
     name: sudolang
@@ -28522,7 +28522,7 @@ entries:
     audience: Prompt authors who want structured, program-like prompts for LLMs
     confidence: 0.7
     facts:
-      stars: 1358
+      stars: 1359
       license: MIT
       last_commit: 2025-12-23
       last_release: null
@@ -28576,7 +28576,7 @@ entries:
     audience: Developers wiring agents to third-party apps with managed per-user auth
     confidence: 0.8
     facts:
-      stars: 30742
+      stars: 30747
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-22
@@ -28619,9 +28619,9 @@ entries:
     audience: Engineers connecting coding agents or production agents to databases via MCP
     confidence: 0.9
     facts:
-      stars: 16718
+      stars: 16721
       license: Apache-2.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: true
       has_compose: false
@@ -28767,7 +28767,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 54
+    score: 53
   - id: builderio-skills
     repo: builderio/skills
     name: skills
@@ -28808,7 +28808,7 @@ entries:
     audience: Developers who run coding agents and want reusable skills for them
     confidence: 0.85
     facts:
-      stars: 4612
+      stars: 4613
       license: MIT
       last_commit: 2026-10-22
       last_release: null
@@ -28816,7 +28816,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 57
+    score: 56
   - id: mcp-server-chart
     repo: antvis/mcp-server-chart
     name: mcp-server-chart
@@ -28851,7 +28851,7 @@ entries:
     audience: Developers who want their coding agent or chat client to generate charts
     confidence: 0.85
     facts:
-      stars: 4403
+      stars: 4404
       license: MIT
       last_commit: 2026-08-27
       last_release: 2026-02-25
@@ -28896,7 +28896,7 @@ entries:
     audience: Developers using coding agents to build apps on the Gemini API
     confidence: 0.9
     facts:
-      stars: 4333
+      stars: 4339
       license: Apache-2.0
       last_commit: 2026-10-13
       last_release: null
@@ -28937,7 +28937,7 @@ entries:
     audience: Users of Claude Code, Cursor or Codex who want structured reasoning skills
     confidence: 0.85
     facts:
-      stars: 3825
+      stars: 3829
       license: MIT
       last_commit: 2026-10-01
       last_release: null
@@ -28988,7 +28988,7 @@ entries:
     facts:
       stars: 3352
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-26
       last_release: 2026-10-22
       has_docker: false
       has_compose: false
@@ -29080,7 +29080,7 @@ entries:
     audience: Claude Code, Codex or Cursor users wanting structured multi-agent workflows
     confidence: 0.85
     facts:
-      stars: 1354
+      stars: 1353
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-24
@@ -29123,7 +29123,7 @@ entries:
     audience: pi users who want parallel sub-agents and scripted multi-agent workflows
     confidence: 0.85
     facts:
-      stars: 1360
+      stars: 1358
       license: MIT
       last_commit: 2026-10-13
       last_release: 2026-10-13
@@ -29165,7 +29165,7 @@ entries:
     audience: Developers running Claude Code or Codex on long, spec-driven builds
     confidence: 0.9
     facts:
-      stars: 1381
+      stars: 1383
       license: MIT
       last_commit: 2026-10-21
       last_release: null
@@ -29215,13 +29215,13 @@ entries:
     facts:
       stars: 1337
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-12
       has_docker: true
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 62
+    score: 61
   - id: jean
     repo: coollabsio/jean
     name: jean
@@ -29266,9 +29266,9 @@ entries:
     audience: Developers running several CLI coding agents in parallel on their own machines
     confidence: 0.88
     facts:
-      stars: 1360
+      stars: 1361
       license: Apache-2.0
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-17
       has_docker: true
       has_compose: false
@@ -29308,7 +29308,7 @@ entries:
     audience: Developers vibe coding web apps who want secure defaults from their agent
     confidence: 0.9
     facts:
-      stars: 1368
+      stars: 1372
       license: Apache-2.0
       last_commit: 2026-02-17
       last_release: null
@@ -29354,7 +29354,7 @@ entries:
     audience: Developers using Claude Code or Codex who want a repeatable project setup
     confidence: 0.8
     facts:
-      stars: 2001
+      stars: 2022
       license: MIT
       last_commit: 2026-10-19
       last_release: null
@@ -29362,7 +29362,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 64
+    score: 65
   - id: lody
     repo: lodyai/lody
     name: lody
@@ -29403,7 +29403,7 @@ entries:
     audience: Teams running several coding agents across machines who want shared sessions
     confidence: 0.8
     facts:
-      stars: 1560
+      stars: 1562
       license: Apache-2.0
       last_commit: 2026-10-25
       last_release: 2026-10-24
@@ -29443,7 +29443,7 @@ entries:
     audience: Developers wanting a repo-aware coding agent for desktop, terminal or CI
     confidence: 0.8
     facts:
-      stars: 1453
+      stars: 1454
       license: NOASSERTION
       last_commit: 2026-10-16
       last_release: 2026-07-12
@@ -29489,7 +29489,7 @@ entries:
     audience: Pi users who want a terminal coding agent with review and subagent control
     confidence: 0.72
     facts:
-      stars: 1423
+      stars: 1429
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-16
@@ -29497,7 +29497,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 59
+    score: 58
   - id: aegis
     repo: ganyuanran/aegis
     name: aegis
@@ -29531,7 +29531,7 @@ entries:
     audience: Developers using AI coding agents who want fewer reworks and proof of completion
     confidence: 0.85
     facts:
-      stars: 1384
+      stars: 1386
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-25
@@ -29617,7 +29617,7 @@ entries:
     audience: Developers running several coding agents or branches that edit the same files
     confidence: 0.7
     facts:
-      stars: 1332
+      stars: 1333
       license: Apache-2.0
       last_commit: 2026-10-24
       last_release: 2026-10-19
@@ -29662,7 +29662,7 @@ entries:
     audience: Developers who want coding agents to answer grounded questions about large repos
     confidence: 0.72
     facts:
-      stars: 1354
+      stars: 1355
       license: MIT
       last_commit: 2026-10-15
       last_release: 2026-07-10
@@ -29760,7 +29760,7 @@ entries:
     audience: Developers who want their coding agent to make launch videos and motion graphics
     confidence: 0.85
     facts:
-      stars: 1616
+      stars: 1674
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-10-22
@@ -29768,7 +29768,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 53
+    score: 54
   - id: omnigraph
     repo: modernrelay/omnigraph
     name: omnigraph
@@ -29804,9 +29804,9 @@ entries:
     audience: Teams giving multiple agents shared, versioned graph memory
     confidence: 0.7
     facts:
-      stars: 1741
+      stars: 1753
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-22
       has_docker: true
       has_compose: false
@@ -29996,13 +29996,13 @@ entries:
     facts:
       stars: 1309
       license: MPL-2.0
-      last_commit: 2026-08-02
+      last_commit: 2026-10-25
       last_release: 2026-08-02
       has_docker: true
       has_compose: true
       is_template: false
       language: Go
-    score: 39
+    score: 43
   - id: openharness
     repo: autonomous-ai/openharness
     name: openharness
@@ -30049,7 +30049,7 @@ entries:
     audience: Developers running several coding agents across laptops, servers and GPU boxes
     confidence: 0.8
     facts:
-      stars: 1365
+      stars: 1368
       license: MIT
       last_commit: 2026-10-24
       last_release: 2026-10-25
@@ -30095,7 +30095,7 @@ entries:
     audience: iOS developers using Claude Code or Codex to build and test apps
     confidence: 0.9
     facts:
-      stars: 1297
+      stars: 1298
       license: MIT
       last_commit: 2026-10-19
       last_release: 2026-10-19
@@ -30181,7 +30181,7 @@ entries:
     audience: Developers who run OpenCode locally and want to drive it from Telegram
     confidence: 0.8
     facts:
-      stars: 1283
+      stars: 1285
       license: MIT
       last_commit: 2026-10-21
       last_release: 2026-10-17
@@ -30233,7 +30233,7 @@ entries:
     audience: Developers running several coding agent CLIs together on one repo
     confidence: 0.8
     facts:
-      stars: 1289
+      stars: 1288
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: 2026-10-23
@@ -30278,7 +30278,7 @@ entries:
     audience: Developers deploying agent-built apps to their own hosting and provider accounts
     confidence: 0.85
     facts:
-      stars: 1306
+      stars: 1310
       license: MIT
       last_commit: 2026-10-11
       last_release: 2026-10-11
@@ -30378,7 +30378,7 @@ entries:
     audience: Kotlin and Compose Multiplatform developers using coding agents
     confidence: 0.85
     facts:
-      stars: 1621
+      stars: 1643
       license: GPL-3.0
       last_commit: 2026-10-18
       last_release: null
@@ -30424,7 +30424,7 @@ entries:
     audience: Developers using coding agents who want review gates on generated output
     confidence: 0.9
     facts:
-      stars: 1283
+      stars: 1284
       license: MIT
       last_commit: 2026-07-04
       last_release: null
@@ -30473,7 +30473,7 @@ entries:
       stars: 1275
       license: Apache-2.0
       last_commit: 2026-10-25
-      last_release: 2026-10-06
+      last_release: 2026-10-25
       has_docker: true
       has_compose: true
       is_template: false
@@ -30556,7 +30556,7 @@ entries:
     audience: Teams making existing repos easier for coding agents to navigate
     confidence: 0.8
     facts:
-      stars: 1251
+      stars: 1253
       license: MIT
       last_commit: 2026-10-04
       last_release: 2026-08-13
@@ -30597,9 +30597,9 @@ entries:
     audience: Developers wanting a native IDE and terminal multiplexer with agent support
     confidence: 0.7
     facts:
-      stars: 1316
+      stars: 1337
       license: GPL-3.0
-      last_commit: 2026-10-23
+      last_commit: 2026-10-25
       last_release: 2026-10-23
       has_docker: true
       has_compose: false
@@ -30657,7 +30657,7 @@ entries:
       has_compose: true
       is_template: false
       language: Rust
-    score: 59
+    score: 58
   - id: moai-adk
     repo: modu-ai/moai-adk
     name: moai-adk
@@ -30746,9 +30746,9 @@ entries:
     audience: Developers running several coding agents at once, on desktop and phone
     confidence: 0.85
     facts:
-      stars: 1422
+      stars: 1432
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-25
       has_docker: false
       has_compose: false
@@ -30792,8 +30792,8 @@ entries:
     facts:
       stars: 1271
       license: NOASSERTION
-      last_commit: 2026-10-25
-      last_release: 2026-10-13
+      last_commit: 2026-10-26
+      last_release: 2026-10-25
       has_docker: false
       has_compose: false
       is_template: false
@@ -30928,7 +30928,7 @@ entries:
     audience: Developers copying one Claude pattern into their own app
     confidence: 0.8
     facts:
-      stars: 18983
+      stars: 18993
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -31159,7 +31159,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 25
+    score: 24
   - id: openai-responses-starter-app
     repo: openai/openai-responses-starter-app
     name: openai-responses-starter-app
@@ -31298,7 +31298,7 @@ entries:
       has_compose: false
       is_template: true
       language: PHP
-    score: 30
+    score: 29
   - id: nuxt-ui-chat
     repo: nuxt-ui-templates/chat
     name: chat
@@ -31433,7 +31433,7 @@ entries:
     audience: Teams wanting live, cited Q&A over a document folder without writing code
     confidence: 0.85
     facts:
-      stars: 58769
+      stars: 58764
       license: MIT
       last_commit: 2026-10-16
       last_release: null
@@ -31489,7 +31489,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 76
+    score: 75
   - id: chat-langchain
     repo: langchain-ai/chat-langchain
     name: chat-langchain
@@ -31528,7 +31528,7 @@ entries:
     audience: Engineers studying a production LangChain docs agent with a web UI
     confidence: 0.8
     facts:
-      stars: 6472
+      stars: 6471
       license: MIT
       last_commit: 2026-10-19
       last_release: null
@@ -31577,7 +31577,7 @@ entries:
     audience: Developers learning the search-scrape-answer loop
     confidence: 0.85
     facts:
-      stars: 5036
+      stars: 5037
       license: MIT
       last_commit: 2026-04-29
       last_release: null
@@ -31942,7 +31942,7 @@ entries:
     audience: Teams building multi-agent simulations or games in TypeScript
     confidence: 0.85
     facts:
-      stars: 10702
+      stars: 10703
       license: MIT
       last_commit: 2026-08-26
       last_release: null
@@ -31986,7 +31986,7 @@ entries:
     audience: Teams standardizing on ADK and Google Cloud
     confidence: 0.8
     facts:
-      stars: 10530
+      stars: 10531
       license: Apache-2.0
       last_commit: 2026-10-23
       last_release: null
@@ -32029,7 +32029,7 @@ entries:
     audience: Teams evaluating the Agents SDK handoff pattern
     confidence: 0.85
     facts:
-      stars: 6594
+      stars: 6595
       license: MIT
       last_commit: 2025-12-11
       last_release: null
@@ -32451,7 +32451,7 @@ entries:
     audience: Teams studying multi-agent delegation with real tool writes
     confidence: 0.8
     facts:
-      stars: 455
+      stars: 456
       license: MIT
       last_commit: 2026-10-23
       last_release: null
@@ -32459,7 +32459,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 50
+    score: 49
   - id: new-langgraph-project
     repo: langchain-ai/new-langgraph-project
     name: new-langgraph-project
@@ -32627,7 +32627,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 46
+    score: 45
   - id: agent-chat-ui
     repo: langchain-ai/agent-chat-ui
     name: agent-chat-ui
@@ -32662,7 +32662,7 @@ entries:
     audience: Teams with a LangGraph backend that need a chat UI
     confidence: 0.9
     facts:
-      stars: 3238
+      stars: 3239
       license: MIT
       last_commit: 2026-10-19
       last_release: null
@@ -32703,7 +32703,7 @@ entries:
     audience: Agno users who need a chat frontend
     confidence: 0.85
     facts:
-      stars: 1858
+      stars: 1859
       license: MIT
       last_commit: 2026-05-08
       last_release: null
@@ -32751,7 +32751,7 @@ entries:
     audience: Developers building chat products that render generated interactive UI
     confidence: 0.8
     facts:
-      stars: 3915
+      stars: 3934
       license: MIT
       last_commit: 2026-10-13
       last_release: null
@@ -32793,7 +32793,7 @@ entries:
     audience: Developers wanting a worked example of tool-driven generative UI
     confidence: 0.85
     facts:
-      stars: 1485
+      stars: 1486
       license: Apache-2.0
       last_commit: 2025-12-30
       last_release: 2024-08-05
@@ -32927,7 +32927,7 @@ entries:
     audience: Developers launching a SaaS product on React and Node.js with Wasp
     confidence: 0.9
     facts:
-      stars: 16150
+      stars: 16154
       license: MIT
       last_commit: 2026-10-23
       last_release: 2026-10-15
@@ -32935,7 +32935,7 @@ entries:
       has_compose: false
       is_template: false
       language: MDX
-    score: 78
+    score: 73
   - id: ai-fullstack-saas-boilerplate
     repo: alan345/ai-fullstack-saas-boilerplate
     name: AI-Fullstack-SaaS-Boilerplate
@@ -33155,7 +33155,7 @@ entries:
     audience: Teams prototyping multi-agent voice flows on OpenAI
     confidence: 0.8
     facts:
-      stars: 7004
+      stars: 7006
       license: MIT
       last_commit: 2026-01-07
       last_release: null
@@ -33726,7 +33726,7 @@ entries:
     audience: Developers building ChatGPT apps with MCP and widgets
     confidence: 0.8
     facts:
-      stars: 2374
+      stars: 2375
       license: MIT
       last_commit: 2026-04-15
       last_release: null
@@ -33943,7 +33943,7 @@ entries:
     audience: Developers forking an open-source Claude Artifacts-style prompt-to-app tool
     confidence: 0.85
     facts:
-      stars: 7142
+      stars: 7140
       license: MIT
       last_commit: 2026-10-22
       last_release: null
@@ -33999,7 +33999,7 @@ entries:
     audience: Developers building a self-hosted Artifacts or v0-style app generator
     confidence: 0.85
     facts:
-      stars: 6398
+      stars: 6401
       license: Apache-2.0
       last_commit: 2026-10-13
       last_release: null
@@ -34045,7 +34045,7 @@ entries:
     audience: Teams building a hosted background coding agent on Vercel
     confidence: 0.8
     facts:
-      stars: 5863
+      stars: 5864
       license: MIT
       last_commit: 2026-06-04
       last_release: null
@@ -34053,7 +34053,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 47
+    score: 46
   - id: vibesdk
     repo: cloudflare/vibesdk
     name: vibesdk
@@ -34091,7 +34091,7 @@ entries:
     audience: Teams self-hosting a prompt-to-app builder on Cloudflare
     confidence: 0.8
     facts:
-      stars: 5426
+      stars: 5427
       license: MIT
       last_commit: 2026-10-22
       last_release: 2026-02-06
@@ -34143,7 +34143,7 @@ entries:
     audience: Teams hosting a multi-user coding agent runner on Vercel
     confidence: 0.8
     facts:
-      stars: 1791
+      stars: 1792
       license: Apache-2.0
       last_commit: 2026-02-12
       last_release: null
@@ -34279,7 +34279,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 62
+    score: 56
   - id: nuxt-ui-editor
     repo: nuxt-ui-templates/editor
     name: editor
@@ -34554,7 +34554,7 @@ entries:
     audience: AI engineers building a LangGraph agent API on FastAPI and Postgres
     confidence: 0.85
     facts:
-      stars: 2717
+      stars: 2718
       license: MIT
       last_commit: 2026-10-17
       last_release: null
@@ -34605,7 +34605,7 @@ entries:
     audience: Python teams scaffolding a full-stack agent product
     confidence: 0.8
     facts:
-      stars: 1956
+      stars: 1957
       license: MIT
       last_commit: 2026-10-06
       last_release: 2026-10-06
@@ -34661,7 +34661,7 @@ entries:
       has_compose: true
       is_template: true
       language: TypeScript
-    score: 21
+    score: 20
   - id: generative-ai-project-template
     repo: aminedjeghri/generative-ai-project-template
     name: generative-ai-project-template
@@ -34698,7 +34698,7 @@ entries:
     facts:
       stars: 118
       license: MIT
-      last_commit: 2026-10-17
+      last_commit: 2026-10-25
       last_release: 2026-09-28
       has_docker: true
       has_compose: true
@@ -34872,7 +34872,7 @@ entries:
     audience: Developers wanting an open-source terminal coding agent for their repos
     confidence: 0.85
     facts:
-      stars: 221304
+      stars: 221538
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-22
@@ -34925,7 +34925,7 @@ entries:
     audience: Developers and teams self-hosting coding agents with automations
     confidence: 0.85
     facts:
-      stars: 91773
+      stars: 91835
       license: MIT
       last_commit: 2026-10-25
       last_release: 2026-10-23
@@ -34975,7 +34975,7 @@ entries:
     audience: Developers prototyping UIs from designs
     confidence: 0.85
     facts:
-      stars: 80705
+      stars: 80723
       license: MIT
       last_commit: 2026-10-09
       last_release: null
@@ -34983,7 +34983,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 72
+    score: 70
   - id: tabby
     repo: tabbyml/tabby
     name: Tabby
@@ -35022,7 +35022,7 @@ entries:
     audience: Teams wanting an on-premises Copilot alternative
     confidence: 0.8
     facts:
-      stars: 33922
+      stars: 33923
       license: NOASSERTION
       last_commit: 2026-06-30
       last_release: 2026-01-25
@@ -35069,7 +35069,7 @@ entries:
     audience: Designers and front-end developers on Next.js codebases
     confidence: 0.8
     facts:
-      stars: 27001
+      stars: 27005
       license: Apache-2.0
       last_commit: 2026-07-22
       last_release: 2025-07-17
@@ -35116,9 +35116,9 @@ entries:
     audience: Developers who want repeatable, scripted AI coding runs across repos
     confidence: 0.85
     facts:
-      stars: 23763
+      stars: 23767
       license: MIT
-      last_commit: 2026-10-24
+      last_commit: 2026-10-25
       last_release: 2026-10-17
       has_docker: true
       has_compose: true
@@ -35159,15 +35159,15 @@ entries:
     audience: Developers running OpenCode agents who want to review work from any device
     confidence: 0.85
     facts:
-      stars: 12145
+      stars: 12167
       license: MIT
-      last_commit: 2026-10-25
-      last_release: 2026-10-23
+      last_commit: 2026-10-26
+      last_release: 2026-10-26
       has_docker: true
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 90
+    score: 91
   - id: open-swe
     repo: langchain-ai/open-swe
     name: Open SWE
@@ -35204,9 +35204,9 @@ entries:
     audience: Teams building an internal coding agent that ships PRs from issues
     confidence: 0.7
     facts:
-      stars: 11100
+      stars: 11105
       license: MIT
-      last_commit: 2026-10-25
+      last_commit: 2026-10-26
       last_release: 2026-10-22
       has_docker: true
       has_compose: true
@@ -35255,7 +35255,7 @@ entries:
     audience: Engineering teams self-hosting an internal background coding agent
     confidence: 0.8
     facts:
-      stars: 3401
+      stars: 3399
       license: MIT
       last_commit: 2026-10-25
       last_release: null
@@ -35263,4 +35263,4 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
