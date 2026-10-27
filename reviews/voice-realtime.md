@@ -22,7 +22,7 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="pipecat-examples"></a>
-### 🥈 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 401 · BSD-2-Clause · Oct 2026</sub>
+### 🥈 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 402 · BSD-2-Clause · Oct 2026</sub>
 
 **Runnable Pipecat voice agent examples for phone, web and deployment.**
 
@@ -178,7 +178,7 @@ Expo project on the LiveKit React Native SDK and its Expo config plugin, run on 
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
 
 <a name="openai-realtime-agents"></a>
-### #&#8288;11 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: widely used (83) · Freshness: quiet (27) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
+### #&#8288;11 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: widely used (83) · Freshness: quiet (26) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
 
 **Next.js demo of multi-agent voice flows on the OpenAI Realtime API.**
 
@@ -213,7 +213,7 @@ Next.js project that builds an embed-popup.js script and an iframe page so a web
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
 
 <a name="openai-realtime-meeting-assistant"></a>
-### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 276 · MIT · May 2026</sub>
+### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: recent (71) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 276 · MIT · May 2026</sub>
 
 **Voice-operated shared Kanban board using the OpenAI Realtime API.**
 

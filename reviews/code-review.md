@@ -131,7 +131,7 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 13 of 14 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="pr-lens"></a>
-### #&#8288;8 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Oct 2026</sub>
+### #&#8288;8 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Oct 2026</sub>
 
 **Posts animated architecture and data-flow diagrams as pull request comments.**
 
@@ -149,7 +149,7 @@ PR Lens reads a pull request diff with an LLM and posts a comment containing ani
 <sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
 
 <a name="reticle"></a>
-### #&#8288;9 [reticle](https://github.com/reticlehq/reticle) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Oct 2026</sub>
+### #&#8288;9 [reticle](https://github.com/reticlehq/reticle) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Oct 2026</sub>
 
 **MCP tools that let coding agents verify a running app and return pass, fail or unknown.**
 
@@ -203,7 +203,7 @@ deepsec runs regex matchers to find candidate sites in a repository, then has AI
 <sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
 
 <a name="mantis"></a>
-### #&#8288;12 [mantis](https://github.com/google/mantis) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;12 [mantis](https://github.com/google/mantis) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2026</sub>
 
 **Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
 
@@ -311,7 +311,7 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
 
 <a name="run-gemini-cli"></a>
-### #&#8288;18 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;18 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (28) · Freshness: active (99) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
 
 **GitHub Action that runs Gemini CLI for PR review, issue triage and @-mention tasks.**
 
