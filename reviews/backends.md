@@ -292,7 +292,7 @@ Pixeltable stores images, video, audio and documents in tables, and treats trans
 <sub>Needs Python, ANTHROPIC_API_KEY (starter chat /ask route only) · Models: Anthropic (starter kit) · [Repo](https://github.com/pixeltable/pixeltable) · [📖 Docs ↗](https://docs.pixeltable.com/) · [🌐 Site ↗](https://www.pixeltable.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pixeltable/)</sub>
 
 <a name="zenstack"></a>
-### #&#8288;17 [zenstack](https://github.com/zenstackhq/zenstack) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
+### #&#8288;17 [zenstack](https://github.com/zenstackhq/zenstack) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
 
 **Prisma-compatible TypeScript ORM with access control, built on Kysely.**
 
@@ -364,7 +364,7 @@ Nitric is a Go-based CLI and framework where you declare APIs, buckets, queues, 
 <sub>no GPU · Needs Pulumi or Terraform (deployment), AWS, GCP or Azure account (deployment) · [Repo](https://github.com/nitrictech/nitric) · [📖 Docs ↗](https://nitric.io/docs) · [🌐 Site ↗](https://nitric.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nitric/)</sub>
 
 <a name="serverpod"></a>
-### #&#8288;21 [serverpod](https://github.com/serverpod/serverpod) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Oct 2026</sub>
+### #&#8288;21 [serverpod](https://github.com/serverpod/serverpod) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Oct 2026</sub>
 
 **Dart backend for Flutter apps with generated client code and ORM.**
 
@@ -435,26 +435,8 @@ MateCloud is a Spring Boot 4, Spring Cloud and Dubbo 3 microservice scaffold. It
 
 <sub>no GPU · Docker + Compose · Needs JDK 21, Maven 3.9, Docker Compose, MySQL, Redis, RabbitMQ, Nacos, MinIO, Node.js 20 · Models: Anthropic, OpenAI, DeepSeek, Ollama, Zhipu (compatible endpoint) · port 9010 · [Repo](https://github.com/mateaix/matecloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matecloud/)</sub>
 
-<a name="steedos-platform"></a>
-### #&#8288;25 [steedos-platform](https://github.com/steedos/steedos-platform) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (10) · Freshness: active (93) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · AGPL-3.0 · Oct 2026</sub>
-
-**Metadata-driven low-code platform that generates enterprise apps, APIs and UI from YAML.**
-
-Steedos Platform is a Salesforce-style metadata-driven enterprise app platform in TypeScript. Objects, pages and flows are defined in YAML (*.object.yml, *.page.yml), and the runtime exposes GraphQL and REST APIs and renders a React and Tailwind UI. The README says development is moving to the ObjectStack stack (ObjectQL, ObjectOS, Object UI), while v2.x remains supported.
-
-- **+** Auto-generated GraphQL and REST APIs for every object defined in metadata
-- **+** Field-level RBAC and workflow automation built into the runtime
-- **+** Same metadata deploys to MongoDB, PostgreSQL or JSON files
-- **+** Quick start via a Docker image or npx create-steedos-app scaffold
-- **−** Active development is shifting to ObjectStack; this repo is in transition
-- **−** README license badge says MIT, but detected license is AGPL-3.0
-- **−** Text-to-app AI features are described but no models or providers are named
-- **−** No RAM, GPU or sizing requirements documented
-
-<sub>Docker + Compose · Needs MongoDB, PostgreSQL · port 5100 · [Repo](https://github.com/steedos/steedos-platform) · [📖 Docs ↗](https://docs.steedos.com/) · [🌐 Site ↗](https://objectstack.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/steedos-platform/)</sub>
-
 <a name="classic-jazz"></a>
-### #&#8288;26 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (30) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
+### #&#8288;25 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (30) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
 
 **Local-first synced database with auth and permissions, now legacy.**
 
@@ -470,6 +452,24 @@ Classic Jazz is the first-generation Jazz database. It syncs data, files and LLM
 - **−** Requires adopting Jazz's own data model rather than SQL
 
 <sub>no GPU · [Repo](https://github.com/garden-co/classic-jazz) · [📖 Docs ↗](https://classic.jazz.tools/docs) · [🌐 Site ↗](https://classic.jazz.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/classic-jazz/)</sub>
+
+<a name="steedos-platform"></a>
+### #&#8288;26 [steedos-platform](https://github.com/steedos/steedos-platform) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (10) · Freshness: active (93) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · AGPL-3.0 · Oct 2026</sub>
+
+**Metadata-driven low-code platform that generates enterprise apps, APIs and UI from YAML.**
+
+Steedos Platform is a Salesforce-style metadata-driven enterprise app platform in TypeScript. Objects, pages and flows are defined in YAML (*.object.yml, *.page.yml), and the runtime exposes GraphQL and REST APIs and renders a React and Tailwind UI. The README says development is moving to the ObjectStack stack (ObjectQL, ObjectOS, Object UI), while v2.x remains supported.
+
+- **+** Auto-generated GraphQL and REST APIs for every object defined in metadata
+- **+** Field-level RBAC and workflow automation built into the runtime
+- **+** Same metadata deploys to MongoDB, PostgreSQL or JSON files
+- **+** Quick start via a Docker image or npx create-steedos-app scaffold
+- **−** Active development is shifting to ObjectStack; this repo is in transition
+- **−** README license badge says MIT, but detected license is AGPL-3.0
+- **−** Text-to-app AI features are described but no models or providers are named
+- **−** No RAM, GPU or sizing requirements documented
+
+<sub>Docker + Compose · Needs MongoDB, PostgreSQL · port 5100 · [Repo](https://github.com/steedos/steedos-platform) · [📖 Docs ↗](https://docs.steedos.com/) · [🌐 Site ↗](https://objectstack.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/steedos-platform/)</sub>
 
 <a name="1backend"></a>
 ### #&#8288;27 [1backend](https://github.com/1backend/1backend) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (27) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>

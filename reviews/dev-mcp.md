@@ -329,7 +329,7 @@ A collection of MCP servers from AWS Labs that give coding agents and chat clien
 <sub>no GPU · Needs uvx, AWS credentials, MCP client · [Repo](https://github.com/awslabs/mcp) · [📖 Docs ↗](https://docs.aws.amazon.com/aws-mcp/latest/userguide/what-is-mcp-server.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp/)</sub>
 
 <a name="repowise"></a>
-### #&#8288;19 [repowise](https://github.com/repowise-dev/repowise) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.9k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;19 [repowise](https://github.com/repowise-dev/repowise) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.0k · AGPL-3.0 · Oct 2026</sub>
 
 **Local codebase index answering call-graph, risk and dead-code questions for agents.**
 
@@ -455,7 +455,7 @@ Desktop Commander is a TypeScript MCP server that lets clients such as Claude De
 <sub>no GPU · Docker · Needs Node.js, Docker (optional) · safety checks passed 14 of 17 · [Repo](https://github.com/wonderwhy-er/desktopcommandermcp) · [🌐 Site ↗](https://mcp.desktopcommander.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/desktopcommandermcp/)</sub>
 
 <a name="aos-ce"></a>
-### #&#8288;26 [aos-ce](https://github.com/unicity-aos/aos-ce) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;26 [aos-ce](https://github.com/unicity-aos/aos-ce) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Oct 2026</sub>
 
 **Local runtime that runs agent tools as permissioned WebAssembly capsules.**
 
@@ -653,7 +653,7 @@ Python MCP server with 120+ tools across twelve Google Workspace services, inclu
 <sub>no GPU · Docker + Compose · Needs Google Cloud project with OAuth client, Google Workspace APIs, Valkey/Redis (optional) · port 8000 · [Repo](https://github.com/taylorwilsdon/google_workspace_mcp) · [📖 Docs ↗](https://workspacemcp.com/docs) · [🌐 Site ↗](https://workspacemcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-workspace-mcp/)</sub>
 
 <a name="cli-anything"></a>
-### #&#8288;37 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 57k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;37 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 58k · Apache-2.0 · Sep 2026</sub>
 
 **Generates command-line wrappers so AI agents can drive desktop and backend software.**
 
@@ -725,7 +725,7 @@ A set of remote MCP servers hosted under *.mcp.cloudflare.com that let MCP clien
 <sub>no GPU · Needs Cloudflare account, Cloudflare API token · [Repo](https://github.com/cloudflare/mcp-server-cloudflare) · [▶️ Demo ↗](https://playground.ai.cloudflare.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-cloudflare/)</sub>
 
 <a name="webcodex"></a>
-### #&#8288;41 [webcodex](https://github.com/yyjeqhc/webcodex) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;41 [webcodex](https://github.com/yyjeqhc/webcodex) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · Apache-2.0 · Oct 2026</sub>
 
 **Self-hosted MCP runtime that lets ChatGPT or Claude work in your local repos.**
 
