@@ -125,26 +125,8 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
-<a name="agent-starter-swift"></a>
-### #&#8288;8 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
-
-**SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
-
-Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share input, transcriptions and avatar rendering, built on the SDK's Session and LocalMedia observables with preconnect audio buffering on by default. Targets iOS, iPadOS, macOS and visionOS. Set AgentToConnect.current to a development token server id for your own agent, then swap in an EndpointTokenSource for production.
-
-- **+** Voice, text, video and screen-share input toggled per feature in code
-- **+** Preconnect audio buffer makes connects feel instant
-- **+** Renders the agent's avatar video automatically when published
-- **+** One codebase for iOS, iPadOS, macOS and visionOS
-- **−** Video and screen share need a physical device, not the Simulator
-- **−** Production token generation is left to you
-- **−** No tests
-- **−** App Store archive warns about missing LiveKitWebRTC dSYMs
-
-<sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
-
 <a name="agent-starter-flutter"></a>
-### #&#8288;9 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
+### #&#8288;8 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
 
 **Flutter voice agent client for iOS, Android, macOS and web.**
 
@@ -160,6 +142,24 @@ Flutter project on the LiveKit Flutter SDK with voice, text and optional camera 
 - **−** Client only; needs a separate LiveKit agent
 
 <sub>Dart · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-flutter) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-flutter/)</sub>
+
+<a name="agent-starter-swift"></a>
+### #&#8288;9 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
+
+**SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
+
+Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share input, transcriptions and avatar rendering, built on the SDK's Session and LocalMedia observables with preconnect audio buffering on by default. Targets iOS, iPadOS, macOS and visionOS. Set AgentToConnect.current to a development token server id for your own agent, then swap in an EndpointTokenSource for production.
+
+- **+** Voice, text, video and screen-share input toggled per feature in code
+- **+** Preconnect audio buffer makes connects feel instant
+- **+** Renders the agent's avatar video automatically when published
+- **+** One codebase for iOS, iPadOS, macOS and visionOS
+- **−** Video and screen share need a physical device, not the Simulator
+- **−** Production token generation is left to you
+- **−** No tests
+- **−** App Store archive warns about missing LiveKitWebRTC dSYMs
+
+<sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
 
 <a name="agent-starter-react-native"></a>
 ### #&#8288;10 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 84 · MIT · Sep 2026</sub>
