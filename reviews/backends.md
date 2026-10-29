@@ -5,7 +5,7 @@ Open-source backends you ship apps on (auth, database, storage, APIs) and self-h
 <sub>🌐 Also on the web: [Backends, databases and hosting on archestack.com](https://archestack.com/best-of-vibe-coding/backends/), each project on its own page.</sub>
 
 <a name="appwrite"></a>
-### 🥇 [appwrite](https://github.com/appwrite/appwrite) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 58k · BSD-3-Clause · Oct 2026</sub>
+### 🥇 [appwrite](https://github.com/appwrite/appwrite) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 58k · BSD-3-Clause · Oct 2026</sub>
 
 **Backend with auth, databases, storage, functions and an MCP server for agents.**
 
@@ -22,8 +22,26 @@ Appwrite is a backend platform that bundles Auth, Databases, Storage, Functions,
 
 <sub>no GPU · Docker + Compose · Needs Docker · port 80 · [Repo](https://github.com/appwrite/appwrite) · [▶️ Demo ↗](https://cloud.appwrite.io) · [📖 Docs ↗](https://appwrite.io/docs) · [🌐 Site ↗](https://appwrite.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appwrite/)</sub>
 
+<a name="medusa"></a>
+### 🥈 [medusa](https://github.com/medusajs/medusa) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · custom license · Oct 2026</sub>
+
+**Node.js commerce platform with modular products, carts, orders and payments.**
+
+Medusa is a TypeScript commerce framework providing Store and Admin APIs, an admin dashboard and commerce modules for products, carts, orders, pricing and payments. It is used to build DTC or B2B stores, marketplaces and PoS systems. Provider modules cover Stripe, S3, SendGrid, Redis and several auth methods. It is not an AI project; the AI link is only that it is a base to build on.
+
+- **+** Commerce modules (product, cart, order, pricing, payment) are published separately on npm
+- **+** Ships Store and Admin API routes plus an admin dashboard in one monorepo
+- **+** Provider modules for Stripe, S3, SendGrid, Redis and OIDC, GitHub and Google auth
+- **+** Core is MIT licensed; scaffolds with one npx create-medusa-app command
+- **−** RBAC Enterprise Edition materials require a commercial agreement with MedusaJS, Inc.
+- **−** Needs Node.js v22.22.0 or later and a running PostgreSQL database
+- **−** No built-in AI features described in the README
+- **−** Open-core licensing; detected license is reported as NOASSERTION
+
+<sub>no GPU · Needs Node.js 22.22.0+, PostgreSQL · [Repo](https://github.com/medusajs/medusa) · [📖 Docs ↗](https://docs.medusajs.com) · [🌐 Site ↗](https://www.medusajs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/medusa/)</sub>
+
 <a name="supabase"></a>
-### 🥈 [supabase](https://github.com/supabase/supabase) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 114k · Apache-2.0 · Oct 2026</sub>
+### 🥉 [supabase](https://github.com/supabase/supabase) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 114k · Apache-2.0 · Oct 2026</sub>
 
 **Postgres backend with auth, storage, realtime and edge functions.**
 
@@ -39,8 +57,62 @@ Supabase bundles a Postgres database with generated REST and GraphQL APIs, JWT-b
 
 <sub>no GPU · Compose · Needs PostgreSQL, S3-compatible storage, Envoy · [Repo](https://github.com/supabase/supabase) · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase/)</sub>
 
+<a name="compose"></a>
+### #&#8288;4 [compose](https://github.com/docker/compose) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Oct 2026</sub>
+
+**CLI plugin that runs multi-container apps from a compose.yaml file.**
+
+Docker Compose is a Go-based Docker CLI plugin that reads a compose.yaml, following the Compose specification, and starts the defined services with `docker compose up`. It is not AI-specific; it is the general tool many self-hosted AI projects use to run their stacks. It ships bundled with Docker Desktop on Windows and macOS, and as release binaries for Linux.
+
+- **+** One command, `docker compose up`, builds and starts all services in a file
+- **+** Implements the open Compose specification, so files are portable between tools
+- **+** Included in Docker Desktop; Linux install is a single binary in cli-plugins
+- **+** Written in Go, with CI, Codecov and OpenSSF Scorecard badges in the README
+- **−** Not an AI project; no model, GPU or LLM features described in the README
+- **−** Requires a Docker engine to run containers
+- **−** Some Compose features are unavailable to Docker Swarm users, per the README
+- **−** README gives little detail beyond install and a short example; features are in external docs
+
+<sub>no GPU · Docker · Needs Docker Engine or Docker Desktop · [Repo](https://github.com/docker/compose) · [📖 Docs ↗](https://compose-spec.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/compose/)</sub>
+
+<a name="nacos"></a>
+### #&#8288;5 [nacos](https://github.com/alibaba/nacos) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · Apache-2.0 · Oct 2026</sub>
+
+**Service discovery, health checking and dynamic config server for microservices.**
+
+Nacos is a Java server that lets services register and discover each other over DNS or HTTP, with health checks, and pushes configuration changes to running applications without redeploys. It also offers weighted DNS routing and a web console for service metadata, config and metrics. Integrations cover Dubbo, gRPC, Spring Cloud and Kubernetes services. It is not an AI project, so it fits this list only loosely.
+
+- **+** Covers service registry, health checks and dynamic config in one server
+- **+** Documented integrations for Dubbo, Spring Cloud and Kubernetes
+- **+** Standalone mode starts with a single startup script from the release zip
+- **+** Web console in Chinese and English, plus Russian in the new UI
+- **−** Not an AI or LLM project; fit with this list is marginal
+- **−** README gives no Docker or compose instructions
+- **−** README does not state RAM needs, ports or database dependencies
+- **−** Enterprise support is tied to Alibaba Cloud MSE
+
+<sub>no GPU · [Repo](https://github.com/alibaba/nacos) · [📖 Docs ↗](https://nacos.io/docs/latest/overview/) · [🌐 Site ↗](https://nacos.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nacos/)</sub>
+
+<a name="novu"></a>
+### #&#8288;6 [novu](https://github.com/novuhq/novu) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · custom license · Oct 2026</sub>
+
+**Notification API and agent messaging layer for Inbox, email, SMS, push and chat.**
+
+Novu exposes one API for sending notifications through Inbox, email, SMS, push and chat providers, with a workflow engine, digests and an embeddable React Inbox component. It also offers Agent Communication Infrastructure, which normalizes messages between Slack, Teams, Telegram, WhatsApp or email and an existing agent. The core is MIT; the enterprise folder is under a commercial license.
+
+- **+** Wide provider coverage: 20 email, 37 SMS, 8 push and 13 chat providers
+- **+** Workflow engine with branching, per-channel conditions and digests
+- **+** Embeddable real-time Inbox and preferences components for React
+- **+** Agent layer works with any agent stack, such as AI SDK or LangGraph
+- **−** Open core: the enterprise folder requires a commercial license
+- **−** README points to a hosted dashboard; self-hosting is only linked, not described
+- **−** Inbox component is React only; React Native, Vue and Angular are marked coming soon
+- **−** Agent features route messages only; Novu is not the agent itself
+
+<sub>no GPU · Compose · [Repo](https://github.com/novuhq/novu) · [📖 Docs ↗](https://docs.novu.co) · [🌐 Site ↗](https://novu.co) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/novu/)</sub>
+
 <a name="dokploy"></a>
-### 🥉 [dokploy](https://github.com/dokploy/dokploy) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 38k · custom license · Oct 2026</sub>
+### #&#8288;7 [dokploy](https://github.com/dokploy/dokploy) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 38k · custom license · Oct 2026</sub>
 
 **Self-hosted PaaS for deploying apps and databases across Docker Swarm nodes.**
 
@@ -58,7 +130,7 @@ Dokploy is a self-hostable platform-as-a-service that deploys applications, Dock
 <sub>no GPU · Docker · Needs Docker, Docker Swarm, Traefik · [Repo](https://github.com/dokploy/dokploy) · [▶️ Demo ↗](https://app.dokploy.com) · [📖 Docs ↗](https://docs.dokploy.com) · [🌐 Site ↗](https://dokploy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dokploy/)</sub>
 
 <a name="spacetimedb"></a>
-### #&#8288;4 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
+### #&#8288;8 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
 
 **Relational database that runs your app logic as modules and syncs clients live.**
 
@@ -75,26 +147,8 @@ SpacetimeDB is a relational database that doubles as the application server. You
 
 <sub>no GPU · Docker + Compose · port 3000 · [Repo](https://github.com/clockworklabs/spacetimedb) · [📖 Docs ↗](https://spacetimedb.com/docs) · [🌐 Site ↗](https://spacetimedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spacetimedb/)</sub>
 
-<a name="nocobase"></a>
-### #&#8288;5 [nocobase](https://github.com/nocobase/nocobase) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
-
-**No-code platform for building business systems, with a CLI for coding agents.**
-
-NocoBase is a plugin-based platform for building business applications through a WYSIWYG interface, with data models, permissions, workflows and audit logs built in. It also ships a CLI (`nb`) and skills so coding agents such as Claude Code, Codex and Cursor can create data models, pages and workflows. It includes AI employees with role-based permissions, and exposes MCP and HTTP APIs for external agents.
-
-- **+** Data stays in standard relational databases, separate from the UI
-- **+** Permissions, workflows and audit logs are built-in modules, not generated code
-- **+** Agents and people edit the same data models, pages and workflows
-- **+** Microkernel design: features are added as official or custom plugins
-- **−** License is reported as NOASSERTION; terms need checking before commercial use
-- **−** README gives no RAM, database or port requirements
-- **−** README does not list which LLM providers the AI employees support
-- **−** Extending beyond the no-code UI requires learning its plugin architecture
-
-<sub>Docker + Compose · Compose runs MySQL, PostgreSQL · [Repo](https://github.com/nocobase/nocobase) · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocobase/)</sub>
-
 <a name="payload"></a>
-### #&#8288;6 [payload](https://github.com/payloadcms/payload) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Oct 2026</sub>
+### #&#8288;9 [payload](https://github.com/payloadcms/payload) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Oct 2026</sub>
 
 **Next.js-native headless CMS and app framework with a React admin panel.**
 
@@ -111,8 +165,44 @@ Payload installs into an existing Next.js /app folder and provides a TypeScript 
 
 <sub>no GPU · Needs Next.js, Database (Neon Postgres or Cloudflare D1 in one-click deploys) · [Repo](https://github.com/payloadcms/payload) · [📖 Docs ↗](https://payloadcms.com/docs/getting-started/what-is-payload) · [🌐 Site ↗](https://payloadcms.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/payload/)</sub>
 
+<a name="nocobase"></a>
+### #&#8288;10 [nocobase](https://github.com/nocobase/nocobase) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
+
+**No-code platform for building business systems, with a CLI for coding agents.**
+
+NocoBase is a plugin-based platform for building business applications through a WYSIWYG interface, with data models, permissions, workflows and audit logs built in. It also ships a CLI (`nb`) and skills so coding agents such as Claude Code, Codex and Cursor can create data models, pages and workflows. It includes AI employees with role-based permissions, and exposes MCP and HTTP APIs for external agents.
+
+- **+** Data stays in standard relational databases, separate from the UI
+- **+** Permissions, workflows and audit logs are built-in modules, not generated code
+- **+** Agents and people edit the same data models, pages and workflows
+- **+** Microkernel design: features are added as official or custom plugins
+- **−** License is reported as NOASSERTION; terms need checking before commercial use
+- **−** README gives no RAM, database or port requirements
+- **−** README does not list which LLM providers the AI employees support
+- **−** Extending beyond the no-code UI requires learning its plugin architecture
+
+<sub>Docker + Compose · Compose runs MySQL, PostgreSQL · [Repo](https://github.com/nocobase/nocobase) · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocobase/)</sub>
+
+<a name="nocodb"></a>
+### #&#8288;11 [nocodb](https://github.com/nocodb/nocodb) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 65k · custom license · Oct 2026</sub>
+
+**Spreadsheet-style web UI and REST API on top of SQL databases.**
+
+NocoDB provides an Airtable-like interface for creating and editing tables, with grid, gallery, form, kanban and calendar views. It exposes data through REST APIs and an SDK, and runs on SQLite by default or PostgreSQL via NC_DB. It is a general no-code database tool; the README mentions no AI features.
+
+- **+** Five view types: grid, gallery, form, kanban, calendar
+- **+** Role-based access control, plus public or password-protected shared views
+- **+** Runs on SQLite by default or PostgreSQL through the NC_DB variable
+- **+** Auto-upstall script sets up PostgreSQL, Redis, Traefik and SSL via Docker Compose
+- **−** Sustainable Use License, not a standard OSI open-source license
+- **−** README describes no AI or LLM features, so it is a loose fit for an AI list
+- **−** Standalone binaries are documented only for quick local testing
+- **−** Auto-upstall pipes a remote shell script into bash
+
+<sub>no GPU · Compose · Needs SQLite or PostgreSQL, Redis (auto-upstall setup), Traefik (auto-upstall setup) · port 8080 · [Repo](https://github.com/nocodb/nocodb) · [📖 Docs ↗](https://docs.nocodb.com/) · [🌐 Site ↗](https://www.nocodb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocodb/)</sub>
+
 <a name="dokku"></a>
-### #&#8288;7 [dokku](https://github.com/dokku/dokku) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Oct 2026</sub>
+### #&#8288;12 [dokku](https://github.com/dokku/dokku) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Oct 2026</sub>
 
 **Self-hosted mini-Heroku PaaS that deploys apps with git push.**
 
@@ -130,7 +220,7 @@ Dokku is a small Platform-as-a-Service that runs on a single Ubuntu or Debian VM
 <sub>Docker · Needs Docker, SSH keypair · [Repo](https://github.com/dokku/dokku) · [📖 Docs ↗](https://dokku.com/docs/getting-started/installation/) · [🌐 Site ↗](https://dokku.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dokku/)</sub>
 
 <a name="graphql-engine"></a>
-### #&#8288;8 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;13 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>
 
 **GraphQL API layer over Postgres, MongoDB, ClickHouse and SQL Server.**
 
@@ -148,7 +238,7 @@ Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, Cli
 <sub>no GPU · Compose · Needs PostgreSQL, MongoDB, ClickHouse, MS SQL Server · [Repo](https://github.com/hasura/graphql-engine) · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-engine/)</sub>
 
 <a name="falkordb"></a>
-### #&#8288;9 [falkordb](https://github.com/falkordb/falkordb) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · custom license · Oct 2026</sub>
+### #&#8288;14 [falkordb](https://github.com/falkordb/falkordb) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · custom license · Oct 2026</sub>
 
 **Property graph database on Redis with OpenCypher and sparse-matrix queries.**
 
@@ -166,7 +256,7 @@ FalkorDB is a property graph database built as a Redis module in Rust. It stores
 <sub>no GPU · Needs Redis, GraphBLAS, LAGraph, RediSearch · port 3000 · [Repo](https://github.com/falkordb/falkordb) · [📖 Docs ↗](https://docs.falkordb.com/) · [🌐 Site ↗](https://www.falkordb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/falkordb/)</sub>
 
 <a name="apijson"></a>
-### #&#8288;10 [apijson](https://github.com/apijson/apijson) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Oct 2026</sub>
+### #&#8288;15 [apijson](https://github.com/apijson/apijson) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Oct 2026</sub>
 
 **Java ORM that exposes CRUD APIs over JSON requests without per-endpoint code.**
 
@@ -184,7 +274,7 @@ APIJSON is a Java library and JSON-based protocol. Clients send a JSON describin
 <sub>no GPU · Needs Java 1.8+, A supported database (e.g. MySQL 5.7+, PostgreSQL 9.5+) · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
 
 <a name="parse-server"></a>
-### #&#8288;11 [parse-server](https://github.com/parse-community/parse-server) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;16 [parse-server](https://github.com/parse-community/parse-server) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
 
 **Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL.**
 
@@ -201,26 +291,8 @@ Parse Server is a self-hosted backend that runs on Node.js, either standalone vi
 
 <sub>no GPU · Docker · Needs Node.js 20, 22 or 24, MongoDB 7/8 or PostgreSQL 16-18 with PostGIS · port 1337 · [Repo](https://github.com/parse-community/parse-server) · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/parse-server/)</sub>
 
-<a name="insforge"></a>
-### #&#8288;12 [insforge](https://github.com/insforge/insforge) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
-
-**Postgres-based backend platform that coding agents operate through an MCP server.**
-
-InsForge bundles Postgres, auth, S3-compatible storage, edge functions, an OpenAI-compatible model gateway and site deployment behind an MCP server. Coding agents read docs, schemas and logs, and run migrations, deploy functions and create buckets as tools. Self-hosting uses Docker Compose with generated secrets; a hosted cloud edition also exists.
-
-- **+** Covers auth, Postgres, storage, edge functions and model gateway in one stack
-- **+** MCP server exposes schemas, logs and config so agents can verify their own work
-- **+** Setup script generates JWT, encryption and database secrets into a mode 600 .env
-- **+** Storage can use local disk, bundled MinIO or RustFS, or any S3-compatible store
-- **−** CLI + Skills interface is cloud only; self-hosted gets the MCP server only
-- **−** Compute (long-running containers) is in private preview
-- **−** Resource requirements such as RAM are not documented in the README
-- **−** Running several instances needs manual per-project names and port overrides
-
-<sub>no GPU · Docker + Compose · Needs Docker with Compose v2, Postgres, S3-compatible store (optional) · Models: OpenAI-compatible gateway across multiple LLM providers · port 7130 · [Repo](https://github.com/insforge/insforge) · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/insforge/)</sub>
-
 <a name="nhost"></a>
-### #&#8288;13 [nhost](https://github.com/nhost/nhost) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Oct 2026</sub>
+### #&#8288;17 [nhost](https://github.com/nhost/nhost) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Oct 2026</sub>
 
 **Open-source Firebase alternative on Postgres, Hasura GraphQL, auth and storage.**
 
@@ -237,26 +309,62 @@ Nhost bundles PostgreSQL, a Hasura-generated GraphQL API, an auth service, file 
 
 <sub>no GPU · Needs PostgreSQL, Hasura · README: alternative to Firebase · [Repo](https://github.com/nhost/nhost) · [📖 Docs ↗](https://docs.nhost.io) · [🌐 Site ↗](https://nhost.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nhost/)</sub>
 
-<a name="convex-backend"></a>
-### #&#8288;14 [convex-backend](https://github.com/convex/convex-backend) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Oct 2026</sub>
+<a name="insforge"></a>
+### #&#8288;18 [insforge](https://github.com/insforge/insforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Oct 2026</sub>
 
-**Reactive database with TypeScript server functions and live-updating clients.**
+**Postgres-based backend platform that coding agents operate through an MCP server.**
 
-Convex is a reactive database where queries and mutations are written as TypeScript server functions with strong consistency. It provides client libraries for live-updating apps, and the backend is written in Rust. It runs on the Convex cloud or self-hosted via Docker or a prebuilt binary, with the dashboard and CLI included.
+InsForge bundles Postgres, auth, S3-compatible storage, edge functions, an OpenAI-compatible model gateway and site deployment behind an MCP server. Coding agents read docs, schemas and logs, and run migrations, deploy functions and create buckets as tools. Self-hosting uses Docker Compose with generated secrets; a hosted cloud edition also exists.
 
-- **+** Database, server functions and client libraries come as one integrated backend
-- **+** Self-hosting includes dashboard and CLI; works with Postgres, SQLite, Neon, RDS and others
-- **+** Business logic is plain TypeScript with strong consistency
-- **+** Release on 2026-10-10; repo synced with internal work within days
-- **−** License is reported as NOASSERTION; terms need manual checking
-- **−** Randomized and other internal test suites are not in the open source repo
-- **−** Self-hosted builds send an anonymous beacon unless --disable-beacon is set
-- **−** Less tested on Windows than on Linux and Mac
+- **+** Covers auth, Postgres, storage, edge functions and model gateway in one stack
+- **+** MCP server exposes schemas, logs and config so agents can verify their own work
+- **+** Setup script generates JWT, encryption and database secrets into a mode 600 .env
+- **+** Storage can use local disk, bundled MinIO or RustFS, or any S3-compatible store
+- **−** CLI + Skills interface is cloud only; self-hosted gets the MCP server only
+- **−** Compute (long-running containers) is in private preview
+- **−** Resource requirements such as RAM are not documented in the README
+- **−** Running several instances needs manual per-project names and port overrides
 
-<sub>no GPU · Needs Docker or prebuilt binary (self-hosting) · [Repo](https://github.com/convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
+<sub>no GPU · Docker + Compose · Needs Docker with Compose v2, Postgres, S3-compatible store (optional) · Models: OpenAI-compatible gateway across multiple LLM providers · port 7130 · [Repo](https://github.com/insforge/insforge) · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/insforge/)</sub>
+
+<a name="erupt"></a>
+### #&#8288;19 [erupt](https://github.com/erupts/erupt) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · Apache-2.0 · Oct 2026</sub>
+
+**Annotation-driven Java admin framework where one JPA entity becomes one admin page.**
+
+Erupt generates admin UIs, REST endpoints and permission checks from annotations on JPA entities, on Java 17 and Spring Boot 3.x. It includes RBAC, Excel import/export and 30+ form components, plus an optional erupt-ai module with 50+ LLM providers, MCP tools and A2A. Workflow, multi-tenant and BI modules are commercial.
+
+- **+** One annotated JPA entity yields paged, searchable, exportable, role-gated admin page without front-end code
+- **+** Ships RBAC, row and column permissions, OAuth2/LDAP/SSO, Excel and OpenAPI in core modules
+- **+** erupt-ai adds 50+ LLM providers, MCP over SSE and STDIO, and per-role tool whitelisting
+- **+** Core modules are Apache 2.0; sample runs with in-memory H2 and no config
+- **−** Java and Spring Boot only; JPA databases are MySQL, PostgreSQL, Oracle, SQL Server, DM
+- **−** Workflow, multi-tenant SaaS and BI modules are paid, source-code delivery
+- **−** Sends anonymous telemetry by default; opt-out via config or environment variable
+- **−** UI customization is bounded by what the annotations expose
+
+<sub>no GPU · Needs Java 17+, Spring Boot 3.x, Maven, JPA database (H2 default; MySQL, PostgreSQL, Oracle, SQL Server, DM), MongoDB (optional), Redis (optional) · Models: OpenAI, Claude, Gemini, DeepSeek, Qwen · port 8080 · [Repo](https://github.com/erupts/erupt) · [▶️ Demo ↗](https://demo.erupt.xyz) · [📖 Docs ↗](https://docs.erupt.xyz) · [🌐 Site ↗](https://www.erupt.xyz) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/erupt/)</sub>
+
+<a name="kong"></a>
+### #&#8288;20 [kong](https://github.com/kong/kong) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 44k · Apache-2.0 · Oct 2026</sub>
+
+**API gateway with LLM and MCP traffic routing, extended through plugins.**
+
+Kong Gateway is a Lua-based API gateway that proxies, routes, load balances and authenticates HTTP and L4 traffic, with behavior extended by plugins. Its AI features add a universal LLM API across providers such as OpenAI, Anthropic, Gemini, Bedrock and Azure AI, plus MCP traffic governance and MCP generation from REST APIs. It runs with Postgres, in DB-less mode, or in a hybrid control plane/data plane setup.
+
+- **+** Plugins for auth, rate limiting, transformations and logging; writable in Lua, Go or JavaScript
+- **+** One LLM API fronting OpenAI, Anthropic, Gemini, Bedrock, Azure AI, Mistral and others
+- **+** DB-less declarative config, Postgres-backed, or hybrid control/data plane deployment
+- **+** Official Kubernetes Ingress Controller; Admin API on 8001, Kong Manager UI on 8002
+- **−** General API gateway, not an AI app starter; AI is one feature set among many
+- **−** Analytics, service catalog and developer portals are in the paid Konnect offering
+- **−** Needs gateway concepts (services, routes, plugins) and often Postgres to operate
+- **−** README quick start uses the separate docker-kong repo, not this repository
+
+<sub>no GPU · Needs PostgreSQL (optional, not needed in DB-less mode) · Models: OpenAI, Anthropic, GCP Gemini, AWS Bedrock, Azure AI · port 8002 · [Repo](https://github.com/kong/kong) · [📖 Docs ↗](https://docs.konghq.com) · [🌐 Site ↗](https://konghq.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kong/)</sub>
 
 <a name="encore"></a>
-### #&#8288;15 [encore](https://github.com/encoredev/encore) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MPL-2.0 · Oct 2026</sub>
+### #&#8288;21 [encore](https://github.com/encoredev/encore) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MPL-2.0 · Oct 2026</sub>
 
 **Go and TypeScript SDK that declares backend infrastructure in code.**
 
@@ -274,7 +382,7 @@ Encore is an infrastructure SDK for Go and TypeScript where databases, Pub/Sub t
 <sub>no GPU · Needs Postgres, NSQ, Redis, AWS or Google Cloud (for deployment) · port 9400 · [Repo](https://github.com/encoredev/encore) · [📖 Docs ↗](https://encore.dev/docs) · [🌐 Site ↗](https://encore.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/encore/)</sub>
 
 <a name="pixeltable"></a>
-### #&#8288;16 [pixeltable](https://github.com/pixeltable/pixeltable) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;22 [pixeltable](https://github.com/pixeltable/pixeltable) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Oct 2026</sub>
 
 **Python multimodal database with computed columns and HTTP routes in one file.**
 
@@ -291,8 +399,26 @@ Pixeltable stores images, video, audio and documents in tables, and treats trans
 
 <sub>Needs Python, ANTHROPIC_API_KEY (starter chat /ask route only) · Models: Anthropic (starter kit) · [Repo](https://github.com/pixeltable/pixeltable) · [📖 Docs ↗](https://docs.pixeltable.com/) · [🌐 Site ↗](https://www.pixeltable.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pixeltable/)</sub>
 
+<a name="convex-backend"></a>
+### #&#8288;23 [convex-backend](https://github.com/convex/convex-backend) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Oct 2026</sub>
+
+**Reactive database with TypeScript server functions and live-updating clients.**
+
+Convex is a reactive database where queries and mutations are written as TypeScript server functions with strong consistency. It provides client libraries for live-updating apps, and the backend is written in Rust. It runs on the Convex cloud or self-hosted via Docker or a prebuilt binary, with the dashboard and CLI included.
+
+- **+** Database, server functions and client libraries come as one integrated backend
+- **+** Self-hosting includes dashboard and CLI; works with Postgres, SQLite, Neon, RDS and others
+- **+** Business logic is plain TypeScript with strong consistency
+- **+** Release on 2026-10-10; repo synced with internal work within days
+- **−** License is reported as NOASSERTION; terms need manual checking
+- **−** Randomized and other internal test suites are not in the open source repo
+- **−** Self-hosted builds send an anonymous beacon unless --disable-beacon is set
+- **−** Less tested on Windows than on Linux and Mac
+
+<sub>no GPU · Needs Docker or prebuilt binary (self-hosting) · [Repo](https://github.com/convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
+
 <a name="zenstack"></a>
-### #&#8288;17 [zenstack](https://github.com/zenstackhq/zenstack) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
+### #&#8288;24 [zenstack](https://github.com/zenstackhq/zenstack) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
 
 **Prisma-compatible TypeScript ORM with access control, built on Kysely.**
 
@@ -310,7 +436,7 @@ ZenStack V3 is a schema-first TypeScript ORM that keeps Prisma's schema style an
 <sub>no GPU · Needs Node.js or Bun, Kysely · [Repo](https://github.com/zenstackhq/zenstack) · [▶️ Demo ↗](https://stackblitz.com/~/github.com/zenstackhq/v3-doc-quick-start?file=zenstack%2fschema.zmodel&file=main.ts&view=editor&showSidebar=0&hideNavigation=1&hideExplorer=1) · [📖 Docs ↗](https://zenstack.dev/docs/) · [🌐 Site ↗](https://zenstack.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zenstack/)</sub>
 
 <a name="omnigraph"></a>
-### #&#8288;18 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
+### #&#8288;25 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
 
 **Graph database on object storage with branching, typed schemas and hybrid retrieval.**
 
@@ -328,7 +454,7 @@ Omnigraph is a Rust graph database that stores data in the Lance format on local
 <sub>Docker · Needs S3-compatible object storage (optional), protobuf-compiler (build/CI only) · Models: Embedding providers declared in cluster.yaml · [Repo](https://github.com/modernrelay/omnigraph) · [📖 Docs ↗](https://www.omnigraph.dev/llms.txt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/omnigraph/)</sub>
 
 <a name="prest"></a>
-### #&#8288;19 [prest](https://github.com/prest/prest) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Oct 2026</sub>
+### #&#8288;26 [prest](https://github.com/prest/prest) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Oct 2026</sub>
 
 **REST and read-only MCP API generated from a PostgreSQL or MySQL database.**
 
@@ -346,7 +472,7 @@ pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or My
 <sub>no GPU · Docker + Compose · Needs PostgreSQL 9.5+ or MySQL 8.0.19+ · [Repo](https://github.com/prest/prest) · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prest/)</sub>
 
 <a name="nitric"></a>
-### #&#8288;20 [nitric](https://github.com/nitrictech/nitric) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;27 [nitric](https://github.com/nitrictech/nitric) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Oct 2026</sub>
 
 **Multi-language backend framework that infers cloud infrastructure from app code.**
 
@@ -364,7 +490,7 @@ Nitric is a Go-based CLI and framework where you declare APIs, buckets, queues, 
 <sub>no GPU · Needs Pulumi or Terraform (deployment), AWS, GCP or Azure account (deployment) · [Repo](https://github.com/nitrictech/nitric) · [📖 Docs ↗](https://nitric.io/docs) · [🌐 Site ↗](https://nitric.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nitric/)</sub>
 
 <a name="serverpod"></a>
-### #&#8288;21 [serverpod](https://github.com/serverpod/serverpod) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Oct 2026</sub>
+### #&#8288;28 [serverpod](https://github.com/serverpod/serverpod) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Oct 2026</sub>
 
 **Dart backend for Flutter apps with generated client code and ORM.**
 
@@ -382,7 +508,7 @@ Serverpod is an app and web server written in Dart for Flutter projects. It gene
 <sub>no GPU · Docker · Needs Database, Redis (optional, for shared cache) · [Repo](https://github.com/serverpod/serverpod) · [📖 Docs ↗](https://docs.serverpod.dev) · [🌐 Site ↗](https://serverpod.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverpod/)</sub>
 
 <a name="fusio"></a>
-### #&#8288;22 [fusio](https://github.com/apioo/fusio) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;29 [fusio](https://github.com/apioo/fusio) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Oct 2026</sub>
 
 **PHP API gateway and management platform with developer portal and MCP support.**
 
@@ -400,7 +526,7 @@ Fusio is a self-hosted PHP backend that exposes databases and custom actions (PH
 <sub>no GPU · Needs MySQL, PostgreSQL or SQLite, Nginx or Apache (production), Ollama, OpenAI or Gemini (optional, AI agent) · Models: Ollama, ChatGPT, Gemini · port 8080 · [Repo](https://github.com/apioo/fusio) · [▶️ Demo ↗](https://demo.fusio-project.org) · [📖 Docs ↗](https://docs.fusio-project.org/) · [🌐 Site ↗](https://www.fusio-project.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fusio/)</sub>
 
 <a name="butterbase"></a>
-### #&#8288;23 [butterbase](https://github.com/butterbase-ai/butterbase) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (37) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;30 [butterbase](https://github.com/butterbase-ai/butterbase) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
 
 **Backend-as-a-service with per-app Postgres, functions, RAG and an MCP server.**
 
@@ -418,7 +544,7 @@ Butterbase is a backend-as-a-service that gives each app its own Postgres databa
 <sub>no GPU · Compose · Needs Docker, Node 22+, PostgreSQL, Redis, S3/R2 (LocalStack locally), Deno, Cloudflare Workers (build-runner, dispatch-worker) · port 4000 · [Repo](https://github.com/butterbase-ai/butterbase) · [🌐 Site ↗](https://butterbase.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/butterbase/)</sub>
 
 <a name="matecloud"></a>
-### #&#8288;24 [matecloud](https://github.com/mateaix/matecloud) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;31 [matecloud](https://github.com/mateaix/matecloud) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Oct 2026</sub>
 
 **Java DDD microservice scaffold on Spring Boot 4 with Spring AI and MCP tools.**
 
@@ -435,26 +561,8 @@ MateCloud is a Spring Boot 4, Spring Cloud and Dubbo 3 microservice scaffold. It
 
 <sub>no GPU · Docker + Compose · Needs JDK 21, Maven 3.9, Docker Compose, MySQL, Redis, RabbitMQ, Nacos, MinIO, Node.js 20 · Models: Anthropic, OpenAI, DeepSeek, Ollama, Zhipu (compatible endpoint) · port 9010 · [Repo](https://github.com/mateaix/matecloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matecloud/)</sub>
 
-<a name="classic-jazz"></a>
-### #&#8288;25 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (30) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
-
-**Local-first synced database with auth and permissions, now legacy.**
-
-Classic Jazz is the first-generation Jazz database. It syncs data, files and LLM streams across frontend, containers, serverless functions and Jazz Cloud, exposed as reactive local JSON-like state. It includes auth, orgs, permissions, edit history, encryption and offline support. The README recommends Jazz v2 for new projects, so this repo is the legacy line.
-
-- **+** Auth, orgs, permissions, edit history and encryption built into the data layer
-- **+** Offline support and multiplayer sync with reactive local state
-- **+** Self-host or use hosted Jazz Cloud
-- **+** MIT licensed, TypeScript codebase
-- **−** README recommends Jazz v2 for new projects; this is the legacy version
-- **−** README gives no install steps, ports or hardware requirements
-- **−** Self-hosting setup and Jazz Cloud pricing are not described in the README
-- **−** Requires adopting Jazz's own data model rather than SQL
-
-<sub>no GPU · [Repo](https://github.com/garden-co/classic-jazz) · [📖 Docs ↗](https://classic.jazz.tools/docs) · [🌐 Site ↗](https://classic.jazz.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/classic-jazz/)</sub>
-
 <a name="steedos-platform"></a>
-### #&#8288;26 [steedos-platform](https://github.com/steedos/steedos-platform) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (10) · Freshness: active (93) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;32 [steedos-platform](https://github.com/steedos/steedos-platform) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (9) · Freshness: active (93) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · AGPL-3.0 · Oct 2026</sub>
 
 **Metadata-driven low-code platform that generates enterprise apps, APIs and UI from YAML.**
 
@@ -471,8 +579,44 @@ Steedos Platform is a Salesforce-style metadata-driven enterprise app platform i
 
 <sub>Docker + Compose · Needs MongoDB, PostgreSQL · port 5100 · [Repo](https://github.com/steedos/steedos-platform) · [📖 Docs ↗](https://docs.steedos.com/) · [🌐 Site ↗](https://objectstack.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/steedos-platform/)</sub>
 
+<a name="classic-jazz"></a>
+### #&#8288;33 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Oct 2026</sub>
+
+**Local-first synced database with auth and permissions, now legacy.**
+
+Classic Jazz is the first-generation Jazz database. It syncs data, files and LLM streams across frontend, containers, serverless functions and Jazz Cloud, exposed as reactive local JSON-like state. It includes auth, orgs, permissions, edit history, encryption and offline support. The README recommends Jazz v2 for new projects, so this repo is the legacy line.
+
+- **+** Auth, orgs, permissions, edit history and encryption built into the data layer
+- **+** Offline support and multiplayer sync with reactive local state
+- **+** Self-host or use hosted Jazz Cloud
+- **+** MIT licensed, TypeScript codebase
+- **−** README recommends Jazz v2 for new projects; this is the legacy version
+- **−** README gives no install steps, ports or hardware requirements
+- **−** Self-hosting setup and Jazz Cloud pricing are not described in the README
+- **−** Requires adopting Jazz's own data model rather than SQL
+
+<sub>no GPU · [Repo](https://github.com/garden-co/classic-jazz) · [📖 Docs ↗](https://classic.jazz.tools/docs) · [🌐 Site ↗](https://classic.jazz.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/classic-jazz/)</sub>
+
+<a name="amplication"></a>
+### #&#8288;34 [amplication](https://github.com/amplication/amplication) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (65) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
+
+**Generates NestJS and Node.js backend services from data models, with team templates.**
+
+Amplication generates backend microservices (APIs, data models, DTOs) from a modeled domain, and pushes the code to your Git repository. Organizations can define their own live templates and plugins so generated services follow shared standards, and the tool handles package updates and versioning. It can be used hosted at app.amplication.com or run locally as an Nx monorepo for development.
+
+- **+** Generates editable service code (APIs, data models, DTOs) that you own and commit to Git
+- **+** Plugin system and custom live templates enforce shared standards across services
+- **+** Handles package updates, patches and versioning of generated services
+- **+** Hosted version available, so no local setup is needed to try it
+- **−** Components under the ee directory use a separate Enterprise Edition license
+- **−** Self-hosting is documented only as a development setup, not a production deployment guide
+- **−** Local setup needs Node.js, Docker and several services run via npm scripts
+- **−** README does not list supported output languages, databases or AI providers
+
+<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [▶️ Demo ↗](https://app.amplication.com) · [📖 Docs ↗](https://docs.amplication.com) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
+
 <a name="1backend"></a>
-### #&#8288;27 [1backend](https://github.com/1backend/1backend) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (27) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
+### #&#8288;35 [1backend](https://github.com/1backend/1backend) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (24) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
 
 **Microservices platform with auth, routing and registry, plus an LLM runtime.**
 
@@ -490,7 +634,7 @@ Steedos Platform is a Salesforce-style metadata-driven enterprise app platform i
 <sub>Compose · Needs Docker · port 11337 · [Repo](https://github.com/1backend/1backend) · [📖 Docs ↗](https://1backend.com/docs/category/running-the-server) · [🌐 Site ↗](https://1backend.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/1backend/)</sub>
 
 <a name="go-backend-clean-architecture"></a>
-### #&#8288;28 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (52) · Freshness: slowing (36) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;36 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (48) · Freshness: slowing (36) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Feb 2026</sub>
 
 **Go REST API template with Gin, MongoDB and JWT auth in layers.**
 

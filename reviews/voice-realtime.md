@@ -74,7 +74,7 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="agent-starter-python"></a>
-### #&#8288;5 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 268 · MIT · Oct 2026</sub>
+### #&#8288;5 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 268 · MIT · Oct 2026</sub>
 
 **Python voice AI agent template for LiveKit Agents.**
 
@@ -177,8 +177,25 @@ Expo project on the LiveKit React Native SDK and its Expo config plugin, run on 
 
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
 
+<a name="agent-starter-embed"></a>
+### #&#8288;11 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Sep 2026</sub>
+
+**Deprecated Next.js embed widget for a LiveKit voice agent.**
+
+Next.js project that builds an embed-popup.js script and an iframe page so a website can open a LiveKit voice agent as a popup, with voice, transcriptions, camera, screen share, avatar support and theming set in app-config.ts. A connection-details route issues tokens from your LiveKit credentials. Marked deprecated in favor of LiveKit Cloud's built-in embed; fork only if you need to own the widget code.
+
+- **+** Generates a copy-paste embed snippet from the welcome page
+- **+** Popup and iframe variants with a local /test/popup page
+- **+** Feature flags for chat, video, screen share and preconnect buffer
+- **−** Deprecated by LiveKit; new projects are pointed to Cloud embeds
+- **−** Needs a separate LiveKit agent and project credentials
+- **−** Embed script must be rebuilt by hand after code changes
+- **−** No tests
+
+<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
+
 <a name="openai-realtime-agents"></a>
-### #&#8288;11 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: widely used (83) · Freshness: quiet (26) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
+### #&#8288;12 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: widely used (82) · Freshness: quiet (25) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
 
 **Next.js demo of multi-agent voice flows on the OpenAI Realtime API.**
 
@@ -194,23 +211,6 @@ Next.js app that talks to the OpenAI Realtime API over WebRTC via the OpenAI Age
 - **−** Last commit 2026-01
 
 <sub>TypeScript, OpenAI Realtime API, OpenAI Agents SDK (JS) · Needs OpenAI API key · env example file · [Repo](https://github.com/openai/openai-realtime-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-agents/)</sub>
-
-<a name="agent-starter-embed"></a>
-### #&#8288;12 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Sep 2026</sub>
-
-**Deprecated Next.js embed widget for a LiveKit voice agent.**
-
-Next.js project that builds an embed-popup.js script and an iframe page so a website can open a LiveKit voice agent as a popup, with voice, transcriptions, camera, screen share, avatar support and theming set in app-config.ts. A connection-details route issues tokens from your LiveKit credentials. Marked deprecated in favor of LiveKit Cloud's built-in embed; fork only if you need to own the widget code.
-
-- **+** Generates a copy-paste embed snippet from the welcome page
-- **+** Popup and iframe variants with a local /test/popup page
-- **+** Feature flags for chat, video, screen share and preconnect buffer
-- **−** Deprecated by LiveKit; new projects are pointed to Cloud embeds
-- **−** Needs a separate LiveKit agent and project credentials
-- **−** Embed script must be rebuilt by hand after code changes
-- **−** No tests
-
-<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
 
 <a name="openai-realtime-meeting-assistant"></a>
 ### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: recent (71) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 276 · MIT · May 2026</sub>
@@ -249,7 +249,7 @@ A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC a
 <sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
 
 <a name="openai-fm"></a>
-### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (67) · Freshness: quiet (13) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (66) · Freshness: quiet (13) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 
