@@ -41,7 +41,7 @@ Open Code Review is a Go CLI (`ocr`) that reads a Git diff, groups related files
 <sub>no GPU · Needs Git >= 2.41, LLM provider API · Models: configurable LLM providers, custom providers · [Repo](https://github.com/alibaba/open-code-review) · [📖 Docs ↗](https://open-codereview.ai/docs) · [🌐 Site ↗](https://open-codereview.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-code-review/)</sub>
 
 <a name="react-doctor"></a>
-### 🥉 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Oct 2026</sub>
+### 🥉 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Oct 2026</sub>
 
 **CLI that scans React codebases for state, performance, security and accessibility issues.**
 
@@ -77,7 +77,7 @@ PR-Agent runs as a GitHub Action, CLI, Docker image or webhook service and posts
 <sub>no GPU · Docker + Compose · Needs LLM API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
 
 <a name="e2e"></a>
-### #&#8288;5 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;5 [e2e](https://github.com/tester-army/e2e) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
 
 **AI-driven end-to-end testing framework for web and mobile apps.**
 
@@ -149,7 +149,7 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 13 of 14 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="pr-lens"></a>
-### #&#8288;9 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Oct 2026</sub>
+### #&#8288;9 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Oct 2026</sub>
 
 **Posts animated architecture and data-flow diagrams as pull request comments.**
 
@@ -310,26 +310,8 @@ Probot-based GitHub app that reviews pull requests with OpenAI-compatible models
 
 <sub>no GPU · Docker · Needs GitHub App or GitHub Actions, OpenAI-compatible API, Azure OpenAI or GitHub Models, Node.js, pm2 (self-hosting) · Models: OpenAI GPT models, Azure OpenAI deployments, GitHub Models · [Repo](https://github.com/anc95/chatgpt-codereview) · [▶️ Demo ↗](https://github.com/apps/cr-gpt) · [📖 Docs ↗](https://github.com/marketplace/actions/chatgpt-codereviewer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-codereview/)</sub>
 
-<a name="shippie"></a>
-### #&#8288;18 [shippie](https://github.com/mattzcarey/shippie) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (33) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
-
-**Code-review agent that comments on pull requests and staged diffs.**
-
-Shippie runs an agent loop on the flue framework and pi that reads a diff, explores the codebase with developer tools, and posts review comments on issues such as exposed secrets, slow code and unhandled edge cases. It runs as a GitHub Action, locally via `npx shippie review` on staged changes, in GitLab CI, or on Node and Cloudflare. It can also act as an MCP client.
-
-- **+** Runs as a GitHub Action, GitLab CI job, local CLI, Node server or Cloudflare deployment
-- **+** Supports Anthropic, OpenAI, OpenRouter and Cloudflare Workers AI providers
-- **+** Acts as an MCP client to reach browser, observability and docs tools
-- **+** Reads AGENTS.md, CLAUDE.md and Agent Skills; `/shippie review` comment triggers it on demand
-- **−** Requires a hosted provider API key; no local model support is documented
-- **−** GitHub Action needs a full checkout (fetch-depth: 0) and PR write permissions
-- **−** Local mode reviews only staged changes (git diff --cached)
-- **−** Depends on the flue and pi frameworks; development needs Node >= 22.19
-
-<sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
-
 <a name="ai-codereview-gitlab"></a>
-### #&#8288;19 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;18 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
 
 **LLM reviewer for GitLab merge requests and pushes, with chat notifications.**
 
@@ -345,6 +327,24 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 - **−** Some features sit in a separate Pro edition
 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
+
+<a name="shippie"></a>
+### #&#8288;19 [shippie](https://github.com/mattzcarey/shippie) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (33) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+
+**Code-review agent that comments on pull requests and staged diffs.**
+
+Shippie runs an agent loop on the flue framework and pi that reads a diff, explores the codebase with developer tools, and posts review comments on issues such as exposed secrets, slow code and unhandled edge cases. It runs as a GitHub Action, locally via `npx shippie review` on staged changes, in GitLab CI, or on Node and Cloudflare. It can also act as an MCP client.
+
+- **+** Runs as a GitHub Action, GitLab CI job, local CLI, Node server or Cloudflare deployment
+- **+** Supports Anthropic, OpenAI, OpenRouter and Cloudflare Workers AI providers
+- **+** Acts as an MCP client to reach browser, observability and docs tools
+- **+** Reads AGENTS.md, CLAUDE.md and Agent Skills; `/shippie review` comment triggers it on demand
+- **−** Requires a hosted provider API key; no local model support is documented
+- **−** GitHub Action needs a full checkout (fetch-depth: 0) and PR write permissions
+- **−** Local mode reviews only staged changes (git diff --cached)
+- **−** Depends on the flue and pi frameworks; development needs Node >= 22.19
+
+<sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
 <a name="run-gemini-cli"></a>
 ### #&#8288;20 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (26) · Freshness: active (99) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
