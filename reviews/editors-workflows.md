@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="penpot"></a>
-### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Oct 2026</sub>
+### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Oct 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
@@ -23,7 +23,7 @@ Penpot is a browser-based design and prototyping platform that stores designs in
 <sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
 
 <a name="next-ai-draw-io"></a>
-### 🥈 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Oct 2026</sub>
 
 **Chat with an AI to create and edit draw.io diagrams.**
 

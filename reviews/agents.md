@@ -5,7 +5,7 @@ Agent backends and UIs to fork (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Ag
 <sub>🌐 Also on the web: [Agent and MCP starters on archestack.com](https://archestack.com/best-of-vibe-coding/agents/), each project on its own page.</sub>
 
 <a name="deepseek-harness"></a>
-### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [98](../README.md#-how-we-rank "Score 98/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 266k · MIT · Oct 2026</sub>
+### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [98](../README.md#-how-we-rank "Score 98/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 267k · MIT · Oct 2026</sub>
 
 **Plugin-based agent harness from DeepSeek with a local Web UI.**
 
@@ -77,7 +77,7 @@ Cloudflare Computer keeps a workspace filesystem in a Durable Object's SQLite an
 <sub>TypeScript · Needs Cloudflare Workers, Durable Objects, Dynamic Workers, Cloudflare Containers, just-bash · [Repo](https://github.com/cloudflare/computer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer/)</sub>
 
 <a name="docker-agent"></a>
-### #&#8288;5 [docker-agent](https://github.com/docker/docker-agent) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;5 [docker-agent](https://github.com/docker/docker-agent) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Oct 2026</sub>
 
 **Docker CLI plugin that runs multi-agent teams defined in YAML.**
 
