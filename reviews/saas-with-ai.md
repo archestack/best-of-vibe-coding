@@ -239,7 +239,7 @@ A GitHub template for SaaS apps split into three Cloudflare Workers (Astro marke
 <sub>TypeScript · Needs Cloudflare Workers, Neon PostgreSQL, Bun, Resend, Stripe (optional), Terraform · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/kriasoft/react-starter-kit) · [📖 Docs ↗](https://reactstarter.com/getting-started/) · [🌐 Site ↗](https://reactstarter.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-starter-kit/)</sub>
 
 <a name="basic"></a>
-### #&#8288;14 [basic](https://github.com/fantastic-admin/basic) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
+### #&#8288;14 [basic](https://github.com/fantastic-admin/basic) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **Vue 3 admin dashboard framework with themes, menu modes and permission control.**
 
@@ -347,7 +347,7 @@ Pagoda is a starter kit, not a framework, for server-rendered web apps in Go. It
 <sub>Go · Needs Go, SQLite, Tailwind CLI (optional), Air (optional) · GitHub template · [Repo](https://github.com/mikestefanello/pagoda) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pagoda/)</sub>
 
 <a name="refine"></a>
-### #&#8288;20 [refine](https://github.com/refinedev/refine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (89) · Freshness: active (97) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
+### #&#8288;20 [refine](https://github.com/refinedev/refine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (89) · Freshness: active (97) · Maintenance: weak (25) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
 
 **Headless React framework for admin panels, dashboards and internal tools.**
 
@@ -401,7 +401,7 @@ Next.js 15 and TypeScript starter that adds the monetization layer an AI app nee
 <sub>TypeScript, multi-LLM chat (providers unknown) · Needs PostgreSQL 16, Redis 7, Docker, Node.js, pnpm, Stripe, NowPayments · GitHub template · Docker · env example file · sign-in: Auth.js · [Repo](https://github.com/velobase/velobase-harness) · [📖 Docs ↗](https://github.com/velobase/velobase-harness/blob/main/docs/en/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/velobase-harness/)</sub>
 
 <a name="free-nextjs-admin-dashboard"></a>
-### #&#8288;23 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Oct 2026</sub>
+### #&#8288;23 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (40) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Oct 2026</sub>
 
 **Next.js and Tailwind admin dashboard template with charts, tables and auth pages.**
 
@@ -527,7 +527,7 @@ TailAdmin is a front-end admin dashboard template built on React 19, TypeScript 
 <sub>JavaScript · Needs Node.js 20+ · [Repo](https://github.com/tailadmin/free-react-tailwind-admin-dashboard) · [▶️ Demo ↗](https://free-react-demo.tailadmin.com/) · [📖 Docs ↗](https://tailadmin.com/docs) · [🌐 Site ↗](https://tailadmin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/free-react-tailwind-admin-dashboard/)</sub>
 
 <a name="bullet-train"></a>
-### #&#8288;30 [bullet_train](https://github.com/bullet-train-co/bullet_train) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Oct 2026</sub>
+### #&#8288;30 [bullet_train](https://github.com/bullet-train-co/bullet_train) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Oct 2026</sub>
 
 **Ruby on Rails template for building multi-tenant SaaS apps.**
 
