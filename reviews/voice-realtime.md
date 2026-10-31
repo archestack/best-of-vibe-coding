@@ -39,7 +39,7 @@ Pipecat apps in Python 3.11+, one directory each: phone bots for Twilio, Telnyx,
 <sub>Python, Pipecat service plugins (OpenAI, Deepgram, Cartesia, Gemini Live) · Needs OpenAI, Deepgram, Cartesia or similar API keys, Daily or a telephony provider for phone examples · Docker · [Repo](https://github.com/pipecat-ai/pipecat-examples) · [📖 Docs ↗](https://docs.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pipecat-examples/)</sub>
 
 <a name="agent-starter-react"></a>
-### 🥉 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 962 · MIT · Oct 2026</sub>
+### 🥉 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 963 · MIT · Oct 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
@@ -178,7 +178,7 @@ Expo project on the LiveKit React Native SDK and its Expo config plugin, run on 
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
 
 <a name="agent-starter-embed"></a>
-### #&#8288;11 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Sep 2026</sub>
+### #&#8288;11 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Oct 2026</sub>
 
 **Deprecated Next.js embed widget for a LiveKit voice agent.**
 
@@ -213,7 +213,7 @@ Next.js app that talks to the OpenAI Realtime API over WebRTC via the OpenAI Age
 <sub>TypeScript, OpenAI Realtime API, OpenAI Agents SDK (JS) · Needs OpenAI API key · env example file · [Repo](https://github.com/openai/openai-realtime-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-agents/)</sub>
 
 <a name="openai-realtime-meeting-assistant"></a>
-### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 276 · MIT · May 2026</sub>
+### #&#8288;13 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (25) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 276 · MIT · May 2026</sub>
 
 **Voice-operated shared Kanban board using the OpenAI Realtime API.**
 
@@ -230,26 +230,8 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
-<a name="openai-fm"></a>
-### #&#8288;14 [openai-fm](https://github.com/openai/openai-fm) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (66) · Freshness: quiet (13) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
-
-**Next.js demo app for trying OpenAI text-to-speech models.**
-
-OpenAI.fm is the source for the openai.fm demo, a web interface for generating speech through the OpenAI Speech API. It is a Next.js app that needs an OpenAI API key; an optional Postgres database enables a sharing feature. It is a demo reference rather than a general-purpose starter.
-
-- **+** Official OpenAI reference for calling the Speech API from Next.js
-- **+** Runs with only an API key; no database needed for core use
-- **+** MIT license
-- **+** Live hosted demo at openai.fm
-- **−** Tied to the OpenAI API; no other TTS providers
-- **−** No Dockerfile or compose file in the README
-- **−** Sharing feature requires a hosted Postgres database
-- **−** Maintainers say they may not review all issues or PRs
-
-<sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
-
 <a name="openai-realtime-solar-system"></a>
-### #&#8288;15 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (36) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 514 · MIT · Mar 2026</sub>
+### #&#8288;14 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (36) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 514 · MIT · Mar 2026</sub>
 
 **Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
 
@@ -265,6 +247,24 @@ A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC a
 - **−** Custom scenes need Spline event setup; first scene load is heavy
 
 <sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
+
+<a name="openai-fm"></a>
+### #&#8288;15 [openai-fm](https://github.com/openai/openai-fm) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (66) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+
+**Next.js demo app for trying OpenAI text-to-speech models.**
+
+OpenAI.fm is the source for the openai.fm demo, a web interface for generating speech through the OpenAI Speech API. It is a Next.js app that needs an OpenAI API key; an optional Postgres database enables a sharing feature. It is a demo reference rather than a general-purpose starter.
+
+- **+** Official OpenAI reference for calling the Speech API from Next.js
+- **+** Runs with only an API key; no database needed for core use
+- **+** MIT license
+- **+** Live hosted demo at openai.fm
+- **−** Tied to the OpenAI API; no other TTS providers
+- **−** No Dockerfile or compose file in the README
+- **−** Sharing feature requires a hosted Postgres database
+- **−** Maintainers say they may not review all issues or PRs
+
+<sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
 
 <a name="live-api-web-console"></a>
 ### #&#8288;16 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (61) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
