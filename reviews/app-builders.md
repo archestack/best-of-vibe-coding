@@ -23,7 +23,7 @@ A Next.js 16 template (React 19, Tailwind CSS v4, shadcn/ui) that bundles a port
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="jeecgboot"></a>
-### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Oct 2026</sub>
+### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
 
 **Java low-code platform with code generator and built-in AI app builder.**
 
@@ -52,7 +52,6 @@ Dyad is a local, open-source prompt-to-app builder, positioned as an alternative
 - **+** Mac and Windows builds available
 - **+** Code outside src/pro is Apache 2.0 licensed
 - **−** src/pro is fair-source (FSL 1.1), not fully open-source
-- **−** README does not list supported models or providers
 - **−** No Linux build mentioned in the README
 - **−** Desktop only; no Docker or self-hosted web deployment mentioned
 
@@ -77,7 +76,7 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
 <a name="appsmith"></a>
-### #&#8288;5 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;5 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
 
 **Low-code builder for internal dashboards and admin panels on your own data.**
 
@@ -87,7 +86,6 @@ Appsmith is a low-code platform for building internal tools such as dashboards, 
 - **+** Apache-2.0 licensed, TypeScript codebase with frequent releases (latest 2026-10-21)
 - **+** Documentation, tutorials and templates are linked from the README
 - **+** Targets internal tools like admin panels and dashboards rather than generic apps
-- **−** README does not list supported datasources, widgets or hardware requirements
 - **−** Not a prompt-to-app builder; AI features sit in the separate Agents product
 - **−** Appsmith Agents is only described as a product pitch; open-source status unclear
 - **−** No docker-compose file detected in the repo
