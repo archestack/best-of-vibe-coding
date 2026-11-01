@@ -109,7 +109,7 @@ A Nuxt app on Nuxt UI and the AI SDK: streaming replies with reasoning, three mo
 <sub>Vue, ai-gateway, ai-sdk, anthropic, google · Needs ai-gateway-api-key, github-oauth-app, sqlite-or-turso · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;7 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 666 · MIT · Aug 2026</sub>
+### #&#8288;7 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (17) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 666 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -157,25 +157,8 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
-<a name="zola"></a>
-### #&#8288;10 [zola](https://github.com/ibelick/zola) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: known (40) · Freshness: quiet (15) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
-
-**Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
-
-A Next.js chat interface on the AI SDK that talks to OpenAI, Mistral, Anthropic, Gemini and local Ollama models, with bring-your-own-key through OpenRouter. Supabase handles auth and file storage once you follow INSTALL.md, a docker-compose file pairs it with Ollama, and Zola is a running product (zola.chat) you fork rather than a scaffold. For builders who want a finished multi-model chat UI to brand.
-
-- **+** Runs with one key or with local Ollama only; no database required for that path
-- **+** docker-compose.ollama.yml included; auto-detects local Ollama models
-- **+** Hosted instance at zola.chat shows the exact UI you get
-- **−** Auth and uploads are optional extras behind Supabase setup in INSTALL.md
-- **−** README marks it beta; MCP support is work in progress
-- **−** No tests listed
-- **−** Last commit 2025-12; check activity before forking
-
-<sub>TypeScript, ai-sdk, openai, anthropic, google · Needs supabase, ollama, provider-api-keys · Docker · env example file · sign-in: Supabase Auth · [Repo](https://github.com/ibelick/zola) · [▶️ Demo ↗](https://zola.chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zola/)</sub>
-
 <a name="langgraph-fullstack-python"></a>
-### #&#8288;11 [langgraph-fullstack-python](https://github.com/langchain-ai/langgraph-fullstack-python) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (1) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 157 · MIT · Mar 2026</sub>
+### #&#8288;10 [langgraph-fullstack-python](https://github.com/langchain-ai/langgraph-fullstack-python) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (1) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 157 · MIT · Mar 2026</sub>
 
 **LangGraph ReAct agent and FastHTML chat UI in one deployment.**
 
@@ -190,6 +173,23 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 - **−** Server-rendered FastHTML UI; limited for rich client-side features
 
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
+
+<a name="zola"></a>
+### #&#8288;11 [zola](https://github.com/ibelick/zola) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: known (40) · Freshness: quiet (15) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+
+**Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
+
+A Next.js chat interface on the AI SDK that talks to OpenAI, Mistral, Anthropic, Gemini and local Ollama models, with bring-your-own-key through OpenRouter. Supabase handles auth and file storage once you follow INSTALL.md, a docker-compose file pairs it with Ollama, and Zola is a running product (zola.chat) you fork rather than a scaffold. For builders who want a finished multi-model chat UI to brand.
+
+- **+** Runs with one key or with local Ollama only; no database required for that path
+- **+** docker-compose.ollama.yml included; auto-detects local Ollama models
+- **+** Hosted instance at zola.chat shows the exact UI you get
+- **−** Auth and uploads are optional extras behind Supabase setup in INSTALL.md
+- **−** README marks it beta; MCP support is work in progress
+- **−** No tests listed
+- **−** Last commit 2025-12; check activity before forking
+
+<sub>TypeScript, ai-sdk, openai, anthropic, google · Needs supabase, ollama, provider-api-keys · Docker · env example file · sign-in: Supabase Auth · [Repo](https://github.com/ibelick/zola) · [▶️ Demo ↗](https://zola.chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zola/)</sub>
 
 <a name="openai-responses-starter-app"></a>
 ### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [11](../README.md#-how-we-rank "Score 11/100. Adoption: niche (21) · Freshness: quiet (16) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 880 · MIT · Dec 2025</sub>
