@@ -36,7 +36,6 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 - **−** Small models tend to produce broken diagrams; README recommends a capable model
 - **−** Default provider is AWS Bedrock, so provider setup is needed before first run
 - **−** Hosted demo has a usage limit unless you supply your own API key
-- **−** RAM requirements are not documented
 
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 

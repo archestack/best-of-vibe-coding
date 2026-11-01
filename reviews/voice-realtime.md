@@ -110,7 +110,7 @@ A collection of small ElevenLabs projects covering text-to-speech, Scribe v2 spe
 <sub>TypeScript, ElevenLabs TTS, Scribe v2, ElevenLabs Music, ElevenLabs Agents Platform · Needs ElevenLabs API, pnpm, cursor CLI (for generation) · [Repo](https://github.com/elevenlabs/examples) · [📖 Docs ↗](https://elevenlabs.io/docs/api-reference/getting-started) · [🌐 Site ↗](https://elevenlabs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elevenlabs-examples/)</sub>
 
 <a name="agent-starter-android"></a>
-### #&#8288;7 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 105 · MIT · Aug 2026</sub>
+### #&#8288;7 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Aug 2026</sub>
 
 **Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
 
@@ -125,26 +125,8 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
-<a name="agent-starter-flutter"></a>
-### #&#8288;8 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
-
-**Flutter voice agent client for iOS, Android, macOS and web.**
-
-Flutter project on the LiveKit Flutter SDK with voice, text and optional camera or screen-share input, transcriptions and agent video rendering, built around livekit_client.Session with preconnect audio buffering. Targets iOS, macOS, Android and web. Set LIVEKIT_TOKEN_SERVER_ID in assets/.env for development, then swap in an EndpointTokenSource in app_ctrl.dart before shipping.
-
-- **+** Covers iOS, macOS, Android and web from one Flutter codebase
-- **+** Voice, text, video and screen share input wired
-- **+** Falls back to an audio visualizer when the agent publishes no video
-- **+** Test suite present
-- **−** Development token server lets any client request any permissions
-- **−** Production token generation is yours to implement
-- **−** Video input may need a physical device
-- **−** Client only; needs a separate LiveKit agent
-
-<sub>Dart · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-flutter) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-flutter/)</sub>
-
 <a name="agent-starter-swift"></a>
-### #&#8288;9 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
+### #&#8288;8 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
 
 **SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
 
@@ -160,6 +142,24 @@ Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share
 - **−** App Store archive warns about missing LiveKitWebRTC dSYMs
 
 <sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
+
+<a name="agent-starter-flutter"></a>
+### #&#8288;9 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
+
+**Flutter voice agent client for iOS, Android, macOS and web.**
+
+Flutter project on the LiveKit Flutter SDK with voice, text and optional camera or screen-share input, transcriptions and agent video rendering, built around livekit_client.Session with preconnect audio buffering. Targets iOS, macOS, Android and web. Set LIVEKIT_TOKEN_SERVER_ID in assets/.env for development, then swap in an EndpointTokenSource in app_ctrl.dart before shipping.
+
+- **+** Covers iOS, macOS, Android and web from one Flutter codebase
+- **+** Voice, text, video and screen share input wired
+- **+** Falls back to an audio visualizer when the agent publishes no video
+- **+** Test suite present
+- **−** Development token server lets any client request any permissions
+- **−** Production token generation is yours to implement
+- **−** Video input may need a physical device
+- **−** Client only; needs a separate LiveKit agent
+
+<sub>Dart · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-flutter) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-flutter/)</sub>
 
 <a name="agent-starter-react-native"></a>
 ### #&#8288;10 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: weak (19) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 84 · MIT · Oct 2026</sub>
