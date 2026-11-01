@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Oct 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -95,7 +95,7 @@ Documentation assistant that answers questions about LangChain, LangGraph and La
 <sub>TypeScript, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;6 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 506 · MIT · Oct 2026</sub>
+### #&#8288;6 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 505 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
