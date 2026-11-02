@@ -56,7 +56,7 @@ ECC installs a plan, test, implement, review, verify workflow into coding agents
 - **−** Stacking install methods duplicates skills and hooks; README warns against it
 - **−** Private-repo GitHub App is paid (from $19/seat/month)
 
-<sub>no GPU · Docker + Compose · Needs Node.js 18+, Git, Claude Code 2.1+ (for plugin setup) · Models: Claude Code, Codex, Kimi Code, Cursor, OpenCode · safety checks passed 11 of 12 · [Repo](https://github.com/affaan-m/ecc) · [🌐 Site ↗](https://ecc.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ecc/)</sub>
+<sub>no GPU · Docker + Compose · Needs Node.js 18+, Git, Claude Code 2.1+ (for plugin setup) · Models: Claude Code, Codex, Kimi Code, Cursor, OpenCode · safety checks passed 12 of 12 · [Repo](https://github.com/affaan-m/ecc) · [🌐 Site ↗](https://ecc.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ecc/)</sub>
 
 <a name="gstack"></a>
 ### #&#8288;4 [gstack](https://github.com/garrytan/gstack) <sub>score [95](../README.md#-how-we-rank "Score 95/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 139k · MIT · Nov 2026</sub>
@@ -74,7 +74,7 @@ gstack is a set of Markdown skills, exposed as slash commands such as /office-ho
 - **−** /cso needs a recent Bun with specific build flags plus a native C toolchain
 - **−** README leads with the author's productivity claims, not behavior of the skills
 
-<sub>no GPU · Needs Claude Code, Git, Bun 1.3.3+ (1.4.2 tested), Node.js (Windows only), Codex CLI (optional, outside reviews), OpenAI API key (optional, design binary) · Models: Claude (Opus 5.5), OpenAI GPT-6 Astra, OpenAI GPT-6.1 Sol, OpenAI gpt-5.5 and gpt-image-2 (design binary) · safety checks passed 9 of 11 · [Repo](https://github.com/garrytan/gstack) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gstack/)</sub>
+<sub>no GPU · Needs Claude Code, Git, Bun 1.3.3+ (1.4.2 tested), Node.js (Windows only), Codex CLI (optional, outside reviews), OpenAI API key (optional, design binary) · Models: Claude (Opus 5.5), OpenAI GPT-6 Astra, OpenAI GPT-6.1 Sol, OpenAI gpt-5.5 and gpt-image-2 (design binary) · safety checks passed 10 of 11 · [Repo](https://github.com/garrytan/gstack) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gstack/)</sub>
 
 <a name="caveman"></a>
 ### #&#8288;5 [caveman](https://github.com/juliusbrussee/caveman) <sub>score [95](../README.md#-how-we-rank "Score 95/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 117k · Apache-2.0 · Oct 2026</sub>
@@ -596,7 +596,7 @@ OpenWiki writes a Markdown wiki into `openwiki/` in a repository, tracks each fa
 - **−** Visualizer loads graph and Markdown libraries from a public CDN, so it needs internet
 - **−** Native CLI needs a separately configured model provider and credentials
 
-<sub>no GPU · Needs Node.js 22.22.0 or newer, A coding agent or a model provider · Models: Fourteen providers, including hosted models, Local OpenAI-compatible endpoints · port 4321 · safety checks passed 9 of 10 · [Repo](https://github.com/langchain-ai/openwiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openwiki/)</sub>
+<sub>no GPU · Needs Node.js 22.22.0 or newer, A coding agent or a model provider · Models: Fourteen providers, including hosted models, Local OpenAI-compatible endpoints · port 4321 · safety checks passed 10 of 10 · [Repo](https://github.com/langchain-ai/openwiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openwiki/)</sub>
 
 <a name="kami"></a>
 ### #&#8288;34 [kami](https://github.com/tw93/kami) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Nov 2026</sub>
@@ -2716,7 +2716,7 @@ Hallmark is a skill for Claude Code, Codex, Cursor and OpenCode that builds self
 - **−** Photo library links Wikimedia Commons images with mixed licenses that need on-page credit
 - **−** May not fire on its own; sometimes has to be invoked by name
 
-<sub>no GPU · Needs Node 18+, puppeteer-core, Chrome · Models: Claude Code, Codex CLI, Cursor, OpenCode · safety checks passed 9 of 10 · [Repo](https://github.com/nutlope/hallmark) · [▶️ Demo ↗](https://www.usehallmark.com) · [🌐 Site ↗](https://www.usehallmark.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hallmark/)</sub>
+<sub>no GPU · Needs Node 18+, puppeteer-core, Chrome · Models: Claude Code, Codex CLI, Cursor, OpenCode · safety checks passed 10 of 11 · [Repo](https://github.com/nutlope/hallmark) · [▶️ Demo ↗](https://www.usehallmark.com) · [🌐 Site ↗](https://www.usehallmark.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hallmark/)</sub>
 
 <a name="financial-services"></a>
 ### #&#8288;152 [financial-services](https://github.com/anthropics/financial-services) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: weak (25) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Oct 2026</sub>
