@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="penpot"></a>
-### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Oct 2026</sub>
+### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Nov 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
@@ -92,7 +92,7 @@ Next.js 15 app with a ReactFlow canvas where you connect text, image and video n
 <sub>TypeScript, Vercel AI SDK Gateway · Needs Vercel AI Gateway credentials, Vercel Blob · [Repo](https://github.com/vercel-labs/tersa) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tersa/)</sub>
 
 <a name="workflow-builder-template"></a>
-### #&#8288;6 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (34) · Freshness: quiet (27) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;6 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (34) · Freshness: quiet (26) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
 
 **Visual AI workflow builder on Workflow DevKit with real integrations.**
 
