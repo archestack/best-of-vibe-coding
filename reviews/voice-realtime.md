@@ -92,7 +92,7 @@ A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud
 <sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (40) · Freshness: recent (70) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 633 · MIT · Oct 2026</sub>
+### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (40) · Freshness: recent (70) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 634 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 
@@ -110,7 +110,7 @@ A collection of small ElevenLabs projects covering text-to-speech, Scribe v2 spe
 <sub>TypeScript, ElevenLabs TTS, Scribe v2, ElevenLabs Music, ElevenLabs Agents Platform · Needs ElevenLabs API, pnpm, cursor CLI (for generation) · [Repo](https://github.com/elevenlabs/examples) · [📖 Docs ↗](https://elevenlabs.io/docs/api-reference/getting-started) · [🌐 Site ↗](https://elevenlabs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elevenlabs-examples/)</sub>
 
 <a name="agent-starter-android"></a>
-### #&#8288;7 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Aug 2026</sub>
+### #&#8288;7 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Aug 2026</sub>
 
 **Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
 
@@ -126,7 +126,7 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
 <a name="agent-starter-swift"></a>
-### #&#8288;8 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
+### #&#8288;8 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
 
 **SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
 

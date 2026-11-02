@@ -22,25 +22,8 @@ XERJ is a single Rust binary that speaks the Elasticsearch API. `xerj autoindex 
 
 <sub>Rust, lexical embedder (default, offline), neural embedder (opt-in, ~90 MB download), Jev reranker (optional, external service) · [Repo](https://github.com/xerj-org/xerj) · [▶️ Demo ↗](https://xerj.org/playground/) · [📖 Docs ↗](https://xerj.org/docs/recipes/) · [🌐 Site ↗](https://xerj.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xerj/)</sub>
 
-<a name="qmd"></a>
-### 🥈 [qmd](https://github.com/tobi/qmd) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Oct 2026</sub>
-
-**Local hybrid search over markdown notes and docs, with CLI and MCP server.**
-
-QMD indexes markdown notes, transcripts and docs into a SQLite store and searches them with BM25 (FTS5), vector search and LLM reranking. Models run locally as GGUF through node-llama-cpp. It ships a CLI with JSON and file-list output for agents, an MCP server over stdio or HTTP (default port 8181), and a Node/Bun SDK.
-
-- **+** Hybrid pipeline: query expansion, BM25 plus vector search, RRF fusion, then LLM reranking
-- **+** Runs on-device with GGUF models via node-llama-cpp; no hosted API needed
-- **+** CLI, MCP server (stdio or HTTP) and TypeScript SDK available
-- **+** HTTP server rejects non-loopback Origin and Host headers to block DNS rebinding
-- **−** HTTP endpoints are unauthenticated; off-host use needs your own auth in front
-- **−** Built around markdown and text; other document formats are not mentioned
-- **−** Embedding step must run before semantic search works
-
-<sub>TypeScript, GGUF, qwen3-reranker · Needs Node.js or Bun, node-llama-cpp, SQLite · [Repo](https://github.com/tobi/qmd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qmd/)</sub>
-
 <a name="llm-app"></a>
-### 🥉 [llm-app](https://github.com/pathwaycom/serviette) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 59k · MIT · Oct 2026</sub>
+### 🥈 [llm-app](https://github.com/pathwaycom/serviette) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 59k · MIT · Nov 2026</sub>
 
 **YAML-configured RAG server that keeps a vector database synced with a document folder.**
 
@@ -56,6 +39,23 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 - **−** Local embeddings pull in PyTorch (about 0.8 GB for the CPU build)
 
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
+
+<a name="qmd"></a>
+### 🥉 [qmd](https://github.com/tobi/qmd) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Oct 2026</sub>
+
+**Local hybrid search over markdown notes and docs, with CLI and MCP server.**
+
+QMD indexes markdown notes, transcripts and docs into a SQLite store and searches them with BM25 (FTS5), vector search and LLM reranking. Models run locally as GGUF through node-llama-cpp. It ships a CLI with JSON and file-list output for agents, an MCP server over stdio or HTTP (default port 8181), and a Node/Bun SDK.
+
+- **+** Hybrid pipeline: query expansion, BM25 plus vector search, RRF fusion, then LLM reranking
+- **+** Runs on-device with GGUF models via node-llama-cpp; no hosted API needed
+- **+** CLI, MCP server (stdio or HTTP) and TypeScript SDK available
+- **+** HTTP server rejects non-loopback Origin and Host headers to block DNS rebinding
+- **−** HTTP endpoints are unauthenticated; off-host use needs your own auth in front
+- **−** Built around markdown and text; other document formats are not mentioned
+- **−** Embedding step must run before semantic search works
+
+<sub>TypeScript, GGUF, qwen3-reranker · Needs Node.js or Bun, node-llama-cpp, SQLite · [Repo](https://github.com/tobi/qmd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qmd/)</sub>
 
 <a name="azure-search-openai-demo"></a>
 ### #&#8288;4 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
