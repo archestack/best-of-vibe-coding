@@ -58,7 +58,7 @@ Dyad is a local, open-source prompt-to-app builder, positioned as an alternative
 <sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
 
 <a name="e2b"></a>
-### #&#8288;4 [e2b](https://github.com/e2b-dev/e2b) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [e2b](https://github.com/e2b-dev/e2b) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
 
 **SDKs for running AI-generated code in isolated cloud sandboxes.**
 
@@ -110,7 +110,7 @@ Llama Coder sends a text prompt to Llama 3.1 405B through Together AI and render
 <sub>TypeScript, Llama 3.1 405B · Needs Together AI API, PostgreSQL (Neon), Prisma, S3 bucket (screenshot uploads), Braintrust (optional), esm.sh · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [🌐 Site ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;7 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (93) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Oct 2026</sub>
+### #&#8288;7 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (93) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -182,7 +182,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;11 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (49) · Freshness: recent (78) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
+### #&#8288;11 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (49) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
@@ -199,7 +199,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="chef"></a>
-### #&#8288;12 [chef](https://github.com/convex/chef) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (35) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;12 [chef](https://github.com/convex/chef) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (35) · Freshness: slowing (43) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
