@@ -1,15 +1,15 @@
 # Best of Vibe Coding
 
-> Best of Vibe Coding is a ranked list of 810 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals. Updated 2026-11-03 (UTC); the page refreshes twice a day from GitHub data.
+> Best of Vibe Coding is a ranked list of 809 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals. Updated 2026-11-04 (UTC); the page refreshes twice a day from GitHub data.
 
 Every entry is written from the project README and checked facts: tagline, summary, 2 to 4 strengths, 2 to 4 weaknesses, specs (GPU, RAM when stated, external dependencies, web port, Docker and compose files, license), demo, docs and website links, and a score out of 100 from public GitHub signals (the weights are in the README under "How we rank"). Specs say "unknown" when the README does not state them. Paid placements never affect the order.
 
 ## Pages
 
-- [Leaderboard](https://github.com/archestack/best-of-vibe-coding/blob/main/README.md): all 810 projects in 13 categories, ranked, one table per category
+- [Leaderboard](https://github.com/archestack/best-of-vibe-coding/blob/main/README.md): all 809 projects in 13 categories, ranked, one table per category
 - [Chat apps reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/chat-apps.md): Chat interfaces and single-feature text apps you fork as the base of a conversational product. 12 projects.
 - [RAG and search reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/rag-search.md): Retrieval over your own documents or data, answer engines, and natural-language-to-SQL starters. 14 projects.
-- [Agent and MCP starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/agents.md): Agent backends and UIs to fork (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents) and templates for MCP servers and chat-host apps. 42 projects.
+- [Agent and MCP starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/agents.md): Agent backends and UIs to fork (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Agents) and templates for MCP servers and chat-host apps. 41 projects.
 - [Voice and realtime reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/voice-realtime.md): Voice agents, realtime speech-to-speech apps and their web, phone and native clients. 16 projects.
 - [SaaS and app starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/saas-with-ai.md): Product boilerplates with auth, billing and a database wired in and AI built in, plus mobile and browser-extension starters. 49 projects.
 - [App builder starters reviews](https://github.com/archestack/best-of-vibe-coding/blob/main/reviews/app-builders.md): Prompt-to-app builders and platforms that run coding agents in sandboxes. 14 projects.
