@@ -239,7 +239,7 @@ Deploys a RAG chat app on AWS with one `sh deploy.sh` wizard that runs `cdk depl
 <sub>Python, Claude Sonnet 4.6, Claude Opus 4.6, Amazon Titan Embed Text V2 · Needs AWS account, Amazon Bedrock, OpenSearch Serverless NextGen, Bedrock AgentCore, Amazon Cognito, CloudFront, S3, Docker, AWS CDK CLI · Docker · [Repo](https://github.com/aws-samples/serverless-rag-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-rag-demo/)</sub>
 
 <a name="get-started-with-ai-agents"></a>
-### #&#8288;14 [get-started-with-ai-agents](https://github.com/azure-samples/get-started-with-ai-agents) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 381 · MIT · Oct 2026</sub>
+### #&#8288;14 [get-started-with-ai-agents](https://github.com/azure-samples/get-started-with-ai-agents) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 382 · MIT · Oct 2026</sub>
 
 **Azure azd template for a Foundry agent chat app with file search.**
 
@@ -311,7 +311,7 @@ Express and TypeScript REST API with vertical-slice modules, Zod validation, Inv
 <sub>TypeScript, OpenAI, Anthropic, DeepSeek, OpenRouter · Needs PostgreSQL or SQLite, Redis, AWS S3 (uploads), LLM API key for codegen · GitHub template · Docker · env example file · [Repo](https://github.com/vyancharuk/nodejs-api-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nodejs-api-boilerplate/)</sub>
 
 <a name="genai-api"></a>
-### #&#8288;18 [genai-api](https://github.com/louisbrulenaudet/genai-api) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (1) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 111 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;18 [genai-api](https://github.com/louisbrulenaudet/genai-api) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (1) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 112 · Apache-2.0 · Apr 2026</sub>
 
 **Hono API on Cloudflare Workers proxying Gemini with bearer auth.**
 
