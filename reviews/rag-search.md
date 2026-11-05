@@ -41,7 +41,7 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
 <a name="qmd"></a>
-### 🥉 [qmd](https://github.com/tobi/qmd) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Oct 2026</sub>
+### 🥉 [qmd](https://github.com/tobi/qmd) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Oct 2026</sub>
 
 **Local hybrid search over markdown notes and docs, with CLI and MCP server.**
 
@@ -199,7 +199,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;12 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: known (37) · Freshness: recent (69) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;12 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: known (37) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
@@ -216,7 +216,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;13 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (13) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 329 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;13 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (13) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 329 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
