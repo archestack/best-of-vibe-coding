@@ -148,26 +148,8 @@ FastCRUD is a Python library that adds async CRUD operations on SQLAlchemy 2.0 m
 
 <sub>Python · Needs FastAPI, SQLAlchemy >=2.0.21, Pydantic >=2.4.1, SQLAlchemy-Utils (optional) · [Repo](https://github.com/benavlabs/fastcrud) · [📖 Docs ↗](https://benavlabs.github.io/fastcrud/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastcrud/)</sub>
 
-<a name="node-typescript-boilerplate"></a>
-### #&#8288;9 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
-
-**Framework-free Node.js TypeScript starter with Vitest, ESLint and CI.**
-
-A minimal repository template for Node.js 24 projects using TypeScript 6 with strict settings and native ESM. It ships Vitest, ESLint with typescript-eslint, Prettier, a GitHub Actions workflow, Mise toolchain config and an AGENTS.md file with guidance for AI coding agents. It deliberately includes no web framework, database, auth or Docker.
-
-- **+** No framework, database or ORM imposed; small dependency surface
-- **+** Native ESM with strict TypeScript 6 config targeting ES2024
-- **+** Vitest, ESLint, Prettier and GitHub Actions CI preconfigured
-- **+** Includes AGENTS.md so coding agents get project rules from the start
-- **−** No HTTP server, auth, database or Docker; all of that is left to you
-- **−** ESM only; CommonJS projects must convert, and issues about it are not accepted
-- **−** Targets Node.js 24 only; older runtimes are not covered
-- **−** AGENTS.md is a generic example that needs rewriting per project
-
-<sub>TypeScript · Needs Node.js 24, npm, Mise (recommended) · GitHub template · [Repo](https://github.com/jsynowiec/node-typescript-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/node-typescript-boilerplate/)</sub>
-
 <a name="generative-ai-project-template"></a>
-### #&#8288;10 [generative-ai-project-template](https://github.com/aminedjeghri/generative-ai-project-template) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Nov 2026</sub>
+### #&#8288;9 [generative-ai-project-template](https://github.com/aminedjeghri/generative-ai-project-template) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Nov 2026</sub>
 
 **uv workspace with FastAPI, NiceGUI, LiteLLM and Promptfoo evals.**
 
@@ -183,6 +165,24 @@ Python 3.12 uv workspace with a FastAPI backend (port 8000) and NiceGUI frontend
 - **−** CUDA path installs PyTorch; heavier install
 
 <sub>Python, LiteLLM (any provider), Ollama · Needs Ollama (local models) or an LLM provider key via LiteLLM · GitHub template · Docker · env example file · [Repo](https://github.com/aminedjeghri/generative-ai-project-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generative-ai-project-template/)</sub>
+
+<a name="node-typescript-boilerplate"></a>
+### #&#8288;10 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+
+**Framework-free Node.js TypeScript starter with Vitest, ESLint and CI.**
+
+A minimal repository template for Node.js 24 projects using TypeScript 6 with strict settings and native ESM. It ships Vitest, ESLint with typescript-eslint, Prettier, a GitHub Actions workflow, Mise toolchain config and an AGENTS.md file with guidance for AI coding agents. It deliberately includes no web framework, database, auth or Docker.
+
+- **+** No framework, database or ORM imposed; small dependency surface
+- **+** Native ESM with strict TypeScript 6 config targeting ES2024
+- **+** Vitest, ESLint, Prettier and GitHub Actions CI preconfigured
+- **+** Includes AGENTS.md so coding agents get project rules from the start
+- **−** No HTTP server, auth, database or Docker; all of that is left to you
+- **−** ESM only; CommonJS projects must convert, and issues about it are not accepted
+- **−** Targets Node.js 24 only; older runtimes are not covered
+- **−** AGENTS.md is a generic example that needs rewriting per project
+
+<sub>TypeScript · Needs Node.js 24, npm, Mise (recommended) · GitHub template · [Repo](https://github.com/jsynowiec/node-typescript-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/node-typescript-boilerplate/)</sub>
 
 <a name="nunu"></a>
 ### #&#8288;11 [nunu](https://github.com/go-nunu/nunu) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
