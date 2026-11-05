@@ -200,26 +200,8 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
-<a name="kodus-ai"></a>
-### #&#8288;12 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
-
-**AI pull request reviewer for GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo.**
-
-Kodus reviews pull requests with an LLM you configure (bring your own key for OpenAI, Anthropic, Gemini, Vertex AI, Novita or any OpenAI-compatible endpoint). Reviews follow plain-language Kody Rules and can also run locally or in CI through a CLI. It is a TypeScript monorepo (NestJS API, worker, webhooks service, Next.js dashboard) that can be self-hosted or used as Kodus Cloud.
-
-- **+** Supports five Git hosts: GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo
-- **+** Bring-your-own-key model layer, including OpenAI-compatible and self-hosted models
-- **+** CLI reviews working tree, staged diff, branch or commit, and runs in CI/CD
-- **+** Custom review rules written in plain language, scoped by repo or path
-- **−** Community edition limits Kody Rules to 10 and active plugins to 3
-- **−** Cockpit metrics are Teams and Enterprise only; SSO, RBAC and audit logs are Enterprise only
-- **−** Self-hosting needs a VM with 2 CPU cores, 8 GB RAM and 60 GB disk
-- **−** Self-hosted instances send a daily anonymous heartbeat unless disabled by environment variable
-
-<sub>RAM ≥ 8 GB · no GPU · Docker + Compose · Needs Docker, LLM provider API key or OpenAI-compatible endpoint · Models: OpenAI, Anthropic, Google Gemini, Vertex AI, Novita · [Repo](https://github.com/kodustech/kodus-ai) · [📖 Docs ↗](https://docs.kodus.io) · [🌐 Site ↗](https://kodus.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kodus-ai/)</sub>
-
 <a name="mantis"></a>
-### #&#8288;13 [mantis](https://github.com/google/mantis) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [mantis](https://github.com/google/mantis) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Nov 2026</sub>
 
 **Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
 
@@ -235,6 +217,24 @@ Mantis is a set of agent skills plus a Google ADK reference harness that runs a 
 - **−** Findings need manual expert verification; hallucinated results are possible
 
 <sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
+
+<a name="kodus-ai"></a>
+### #&#8288;13 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
+
+**AI pull request reviewer for GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo.**
+
+Kodus reviews pull requests with an LLM you configure (bring your own key for OpenAI, Anthropic, Gemini, Vertex AI, Novita or any OpenAI-compatible endpoint). Reviews follow plain-language Kody Rules and can also run locally or in CI through a CLI. It is a TypeScript monorepo (NestJS API, worker, webhooks service, Next.js dashboard) that can be self-hosted or used as Kodus Cloud.
+
+- **+** Supports five Git hosts: GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo
+- **+** Bring-your-own-key model layer, including OpenAI-compatible and self-hosted models
+- **+** CLI reviews working tree, staged diff, branch or commit, and runs in CI/CD
+- **+** Custom review rules written in plain language, scoped by repo or path
+- **−** Community edition limits Kody Rules to 10 and active plugins to 3
+- **−** Cockpit metrics are Teams and Enterprise only; SSO, RBAC and audit logs are Enterprise only
+- **−** Self-hosting needs a VM with 2 CPU cores, 8 GB RAM and 60 GB disk
+- **−** Self-hosted instances send a daily anonymous heartbeat unless disabled by environment variable
+
+<sub>RAM ≥ 8 GB · no GPU · Docker + Compose · Needs Docker, LLM provider API key or OpenAI-compatible endpoint · Models: OpenAI, Anthropic, Google Gemini, Vertex AI, Novita · [Repo](https://github.com/kodustech/kodus-ai) · [📖 Docs ↗](https://docs.kodus.io) · [🌐 Site ↗](https://kodus.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kodus-ai/)</sub>
 
 <a name="deepsec"></a>
 ### #&#8288;14 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: patchy (31) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.3k · Apache-2.0 · Nov 2026</sub>

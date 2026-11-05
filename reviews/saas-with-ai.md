@@ -5,7 +5,7 @@ Product boilerplates with auth, billing and a database wired in and AI built in,
 <sub>🌐 Also on the web: [SaaS and app starters on archestack.com](https://archestack.com/best-of-vibe-coding/saas-with-ai/), each project on its own page.</sub>
 
 <a name="twenty"></a>
-### 🥇 [twenty](https://github.com/twentyhq/twenty) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 60k · custom license · Nov 2026</sub>
+### 🥇 [twenty](https://github.com/twentyhq/twenty) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 61k · custom license · Nov 2026</sub>
 
 **Open-source CRM extensible with objects, views and agents defined as code.**
 
@@ -22,25 +22,8 @@ Twenty is a CRM built on NestJS, React, PostgreSQL and Redis, with BullMQ for jo
 
 <sub>TypeScript · Needs PostgreSQL, Redis · [Repo](https://github.com/twentyhq/twenty) · [📖 Docs ↗](https://docs.twenty.com) · [🌐 Site ↗](https://twenty.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/twenty/)</sub>
 
-<a name="wails"></a>
-### 🥈 [wails](https://github.com/wailsapp/wails) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Nov 2026</sub>
-
-**Framework for building desktop apps with a Go backend and web frontend.**
-
-Wails packages Go code and an HTML/JS/CSS frontend into a single desktop binary, using the operating system's native webview instead of an embedded browser. A CLI handles project creation, compilation and bundling, and Go methods can be called from JavaScript with generated TypeScript definitions. It has no AI features; it is a general desktop app framework and fits this list only loosely.
-
-- **+** Uses native rendering engines, so no bundled browser as in Electron
-- **+** Auto-generated TypeScript definitions for Go structs and methods
-- **+** Works with any frontend stack, with pre-built project templates
-- **+** Native dialogs, menus, dark/light mode and window translucency effects
-- **−** No AI, model or agent functionality; off-topic for this list
-- **−** Backend must be written in Go
-- **−** Two active versions (v2 and v3) with separate install paths and docs
-
-<sub>Go · Needs Go toolchain · [Repo](https://github.com/wailsapp/wails) · [📖 Docs ↗](https://v2.wails.io/) · [🌐 Site ↗](https://wails.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wails/)</sub>
-
 <a name="next-js"></a>
-### 🥉 [next.js](https://github.com/vercel/next.js) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 143k · MIT · Nov 2026</sub>
+### 🥈 [next.js](https://github.com/vercel/next.js) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 143k · MIT · Nov 2026</sub>
 
 **React framework for full-stack web apps with Rust-based build tooling.**
 
@@ -56,6 +39,23 @@ Next.js is a React framework for building full-stack web applications, extending
 - **−** README does not describe hosting or deployment options
 
 <sub>JavaScript · Needs React · [Repo](https://github.com/vercel/next.js) · [📖 Docs ↗](https://nextjs.org/docs) · [🌐 Site ↗](https://nextjs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-js/)</sub>
+
+<a name="wails"></a>
+### 🥉 [wails](https://github.com/wailsapp/wails) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Nov 2026</sub>
+
+**Framework for building desktop apps with a Go backend and web frontend.**
+
+Wails packages Go code and an HTML/JS/CSS frontend into a single desktop binary, using the operating system's native webview instead of an embedded browser. A CLI handles project creation, compilation and bundling, and Go methods can be called from JavaScript with generated TypeScript definitions. It has no AI features; it is a general desktop app framework and fits this list only loosely.
+
+- **+** Uses native rendering engines, so no bundled browser as in Electron
+- **+** Auto-generated TypeScript definitions for Go structs and methods
+- **+** Works with any frontend stack, with pre-built project templates
+- **+** Native dialogs, menus, dark/light mode and window translucency effects
+- **−** No AI, model or agent functionality; off-topic for this list
+- **−** Backend must be written in Go
+- **−** Two active versions (v2 and v3) with separate install paths and docs
+
+<sub>Go · Needs Go toolchain · [Repo](https://github.com/wailsapp/wails) · [📖 Docs ↗](https://v2.wails.io/) · [🌐 Site ↗](https://wails.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wails/)</sub>
 
 <a name="next-js-boilerplate"></a>
 ### #&#8288;4 [next-js-boilerplate](https://github.com/ixartz/next-js-boilerplate) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Oct 2026</sub>
@@ -130,7 +130,7 @@ FormKit provides a single `<FormKit>` component for every input type, with 30+ b
 <sub>TypeScript · [Repo](https://github.com/formkit/formkit) · [📖 Docs ↗](https://formkit.com/getting-started/installation) · [🌐 Site ↗](https://formkit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/formkit/)</sub>
 
 <a name="next-shadcn-dashboard-starter"></a>
-### #&#8288;8 [next-shadcn-dashboard-starter](https://github.com/kiranism/next-shadcn-dashboard-starter) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Nov 2026</sub>
+### #&#8288;8 [next-shadcn-dashboard-starter](https://github.com/kiranism/next-shadcn-dashboard-starter) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Nov 2026</sub>
 
 **Next.js 16 admin dashboard template with Clerk auth, organizations and billing.**
 
