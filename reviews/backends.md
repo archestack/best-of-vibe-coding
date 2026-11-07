@@ -252,26 +252,8 @@ FalkorDB is a property graph database built as a Redis module in Rust. It stores
 
 <sub>no GPU · Needs Redis, GraphBLAS, LAGraph, RediSearch · port 3000 · [Repo](https://github.com/falkordb/falkordb) · [📖 Docs ↗](https://docs.falkordb.com/) · [🌐 Site ↗](https://www.falkordb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/falkordb/)</sub>
 
-<a name="apijson"></a>
-### #&#8288;15 [apijson](https://github.com/apijson/apijson) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Nov 2026</sub>
-
-**Java ORM that exposes CRUD APIs over JSON requests without per-endpoint code.**
-
-APIJSON is a Java library and JSON-based protocol. Clients send a JSON describing the tables and fields they want, and the server maps it to SQL and returns JSON in the same shape, so backend developers write no per-endpoint CRUD code. It covers reads, writes, fuzzy search and remote function calls, and ships with API docs and test tooling (APIAuto).
-
-- **+** One JSON request can query several related tables, replacing multiple endpoint calls
-- **+** Many data sources listed: MySQL, PostgreSQL, Oracle, SQL Server, ClickHouse, Redis, Kafka, Elasticsearch
-- **+** Added via Maven or Gradle through JitPack; works with Spring, SpringBoot, JFinal, Nutz
-- **+** Community ports listed for Go, C#, PHP, Node.js, Python and Rust
-- **−** Java-centric; non-Java ports are separate third-party repositories with unknown maturity
-- **−** License is reported as NOASSERTION, so terms need checking before use
-- **−** README gives no setup steps for a standalone server; points to a separate demo repo
-- **−** Not AI-specific; it is a general ORM and API protocol
-
-<sub>no GPU · Needs Java 1.8+, A supported database (e.g. MySQL 5.7+, PostgreSQL 9.5+) · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
-
 <a name="nocobase"></a>
-### #&#8288;16 [nocobase](https://github.com/nocobase/nocobase) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Penalty: no license. Click for how we rank.") · ⭐ 25k · no license · Nov 2026</sub>
+### #&#8288;15 [nocobase](https://github.com/nocobase/nocobase) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Penalty: no license. Click for how we rank.") · ⭐ 25k · no license · Nov 2026</sub>
 
 **No-code platform for building business systems, with a CLI for coding agents.**
 
@@ -288,7 +270,7 @@ NocoBase is a plugin-based platform for building business applications through a
 <sub>[Repo](https://github.com/nocobase/nocobase) · [▶️ Demo ↗](https://demo.nocobase.com/new) · [📖 Docs ↗](https://docs.nocobase.com/) · [🌐 Site ↗](https://www.nocobase.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocobase/)</sub>
 
 <a name="parse-server"></a>
-### #&#8288;17 [parse-server](https://github.com/parse-community/parse-server) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;16 [parse-server](https://github.com/parse-community/parse-server) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Node.js backend with REST and GraphQL APIs on MongoDB or PostgreSQL.**
 
@@ -304,6 +286,24 @@ Parse Server is a self-hosted backend that runs on Node.js, either standalone vi
 - **−** Node.js version support is tied to specific majors and shifts with each release
 
 <sub>no GPU · Docker · Needs Node.js 20, 22 or 24, MongoDB 7/8 or PostgreSQL 16-18 with PostGIS · port 1337 · [Repo](https://github.com/parse-community/parse-server) · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/parse-server/)</sub>
+
+<a name="apijson"></a>
+### #&#8288;17 [apijson](https://github.com/apijson/apijson) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Nov 2026</sub>
+
+**Java ORM that exposes CRUD APIs over JSON requests without per-endpoint code.**
+
+APIJSON is a Java library and JSON-based protocol. Clients send a JSON describing the tables and fields they want, and the server maps it to SQL and returns JSON in the same shape, so backend developers write no per-endpoint CRUD code. It covers reads, writes, fuzzy search and remote function calls, and ships with API docs and test tooling (APIAuto).
+
+- **+** One JSON request can query several related tables, replacing multiple endpoint calls
+- **+** Many data sources listed: MySQL, PostgreSQL, Oracle, SQL Server, ClickHouse, Redis, Kafka, Elasticsearch
+- **+** Added via Maven or Gradle through JitPack; works with Spring, SpringBoot, JFinal, Nutz
+- **+** Community ports listed for Go, C#, PHP, Node.js, Python and Rust
+- **−** Java-centric; non-Java ports are separate third-party repositories with unknown maturity
+- **−** License is reported as NOASSERTION, so terms need checking before use
+- **−** README gives no setup steps for a standalone server; points to a separate demo repo
+- **−** Not AI-specific; it is a general ORM and API protocol
+
+<sub>no GPU · Needs Java 1.8+, A supported database (e.g. MySQL 5.7+, PostgreSQL 9.5+) · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
 
 <a name="nhost"></a>
 ### #&#8288;18 [nhost](https://github.com/nhost/nhost) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Nov 2026</sub>

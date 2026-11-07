@@ -130,7 +130,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;8 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 509 · MIT · Oct 2026</sub>
+### #&#8288;8 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 510 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
@@ -148,7 +148,7 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
 <a name="azure-search-openai-javascript"></a>
-### #&#8288;9 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 324 · MIT · Oct 2026</sub>
+### #&#8288;9 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 325 · MIT · Oct 2026</sub>
 
 **TypeScript RAG on Azure AI Search with separate indexer and search services.**
 

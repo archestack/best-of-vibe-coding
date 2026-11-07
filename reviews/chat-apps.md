@@ -40,7 +40,7 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
 
 <a name="langchain-nextjs-template"></a>
-### 🥉 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (58) · Momentum: surging (82) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
+### 🥉 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (58) · Momentum: rising (73) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
 
 **Next.js routes for LangChain.js chat, agents, structured output and RAG.**
 
@@ -125,7 +125,7 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;8 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (26) · Momentum: rising (73) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 894 · MIT · Mar 2026</sub>
+### #&#8288;8 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (26) · Momentum: rising (73) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 895 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
