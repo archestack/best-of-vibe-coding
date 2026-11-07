@@ -130,7 +130,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;8 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 508 · MIT · Oct 2026</sub>
+### #&#8288;8 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 509 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
@@ -233,7 +233,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;14 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [4](../README.md#-how-we-rank "Score 4/100. Adoption: niche (1) · Freshness: quiet (14) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 206 · MIT · Dec 2025</sub>
+### #&#8288;14 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [4](../README.md#-how-we-rank "Score 4/100. Adoption: niche (1) · Freshness: quiet (14) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 205 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 
