@@ -58,8 +58,26 @@ Serena is an MCP server that exposes IDE-style tools to coding agents: find symb
 
 <sub>no GPU · Docker + Compose · Needs uv, language servers (per language), JetBrains IDE plugin (optional, paid) · Models: any MCP-capable client/LLM · safety checks passed 12 of 14 · [Repo](https://github.com/oraios/serena) · [📖 Docs ↗](https://oraios.github.io/serena/02-usage/000_intro.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serena/)</sub>
 
+<a name="n8n-mcp"></a>
+### #&#8288;4 [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
+
+**MCP server exposing n8n node docs, templates and workflow management to AI assistants.**
+
+n8n-MCP is a TypeScript MCP server that gives AI assistants searchable access to 3,135 n8n nodes (840 core, 2,295 community), their property schemas, and 2,352 workflow templates. With an n8n API URL and key configured, it also creates, updates, validates, tests and deploys workflows on a live n8n instance. It can be used through a hosted dashboard or self-hosted via npx, Docker or Railway.
+
+- **+** Node, template and validation tools (search_nodes, get_node, validate_workflow) cover core and community nodes
+- **+** 21 management tools create, patch, autofix and test workflows on a connected n8n instance
+- **+** Hosted option with free tier of 100 tool calls/day, or self-host via npx, Docker or Railway
+- **+** Setup guides for Claude Code, Cursor, VS Code, Windsurf and Codex
+- **−** Operation coverage is 66.5% and docs coverage 86%, so some nodes lack detail
+- **−** Management tools need N8N_API_URL and N8N_API_KEY; some also need a separate MCP access token
+- **−** README warns AI edits to production workflows are unpredictable; backups needed
+- **−** Split-host n8n instance-level MCP (N8N_MCP_BASE_URL) is not supported
+
+<sub>no GPU · Docker + Compose · Needs n8n instance (optional, for management tools), n8n API key · [Repo](https://github.com/czlonkowski/n8n-mcp) · [▶️ Demo ↗](https://dashboard.n8n-mcp.com) · [📖 Docs ↗](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/SELF_HOSTING.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/n8n-mcp/)</sub>
+
 <a name="code-review-graph"></a>
-### #&#8288;4 [code-review-graph](https://github.com/tirth8205/code-review-graph) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+### #&#8288;5 [code-review-graph](https://github.com/tirth8205/code-review-graph) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
 
 **Local Tree-sitter code graph served over MCP so agents read only affected files.**
 
@@ -77,7 +95,7 @@ Parses a repository with Tree-sitter into a SQLite graph of functions, classes, 
 <sub>no GPU · Needs Python 3.10+, Tree-sitter, SQLite · Models: sentence-transformers (all-MiniLM-L6-v2), Google Gemini, MiniMax, Voyage AI, OpenAI-compatible endpoints · safety checks passed 16 of 18 · [Repo](https://github.com/tirth8205/code-review-graph) · [🌐 Site ↗](https://code-review-graph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-review-graph/)</sub>
 
 <a name="fastmcp"></a>
-### #&#8288;5 [fastmcp](https://github.com/prefecthq/fastmcp) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [fastmcp](https://github.com/prefecthq/fastmcp) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Nov 2026</sub>
 
 **Python framework for building MCP servers, clients, and interactive apps.**
 
@@ -93,24 +111,6 @@ FastMCP is a Python framework for the Model Context Protocol. A decorated Python
 - **−** README gives no Docker image or hardware requirements
 
 <sub>no GPU · Needs Python, uv (recommended) · [Repo](https://github.com/prefecthq/fastmcp) · [📖 Docs ↗](https://gofastmcp.com) · [🌐 Site ↗](https://gofastmcp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastmcp/)</sub>
-
-<a name="n8n-mcp"></a>
-### #&#8288;6 [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
-
-**MCP server exposing n8n node docs, templates and workflow management to AI assistants.**
-
-n8n-MCP is a TypeScript MCP server that gives AI assistants searchable access to 3,135 n8n nodes (840 core, 2,295 community), their property schemas, and 2,352 workflow templates. With an n8n API URL and key configured, it also creates, updates, validates, tests and deploys workflows on a live n8n instance. It can be used through a hosted dashboard or self-hosted via npx, Docker or Railway.
-
-- **+** Node, template and validation tools (search_nodes, get_node, validate_workflow) cover core and community nodes
-- **+** 21 management tools create, patch, autofix and test workflows on a connected n8n instance
-- **+** Hosted option with free tier of 100 tool calls/day, or self-host via npx, Docker or Railway
-- **+** Setup guides for Claude Code, Cursor, VS Code, Windsurf and Codex
-- **−** Operation coverage is 66.5% and docs coverage 86%, so some nodes lack detail
-- **−** Management tools need N8N_API_URL and N8N_API_KEY; some also need a separate MCP access token
-- **−** README warns AI edits to production workflows are unpredictable; backups needed
-- **−** Split-host n8n instance-level MCP (N8N_MCP_BASE_URL) is not supported
-
-<sub>no GPU · Docker + Compose · Needs n8n instance (optional, for management tools), n8n API key · [Repo](https://github.com/czlonkowski/n8n-mcp) · [▶️ Demo ↗](https://dashboard.n8n-mcp.com) · [📖 Docs ↗](https://github.com/czlonkowski/n8n-mcp/blob/main/docs/SELF_HOSTING.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/n8n-mcp/)</sub>
 
 <a name="context7"></a>
 ### #&#8288;7 [context7](https://github.com/upstash/context7) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 64k · MIT · Nov 2026</sub>
@@ -473,7 +473,7 @@ Repowise indexes a repository's call graph (26 parsed languages), git history, t
 <sub>no GPU · Docker + Compose · Needs Python, uv or pipx or pip · [Repo](https://github.com/repowise-dev/repowise) · [▶️ Demo ↗](https://www.repowise.dev/?src=oss_readme_hero) · [📖 Docs ↗](https://docs.repowise.dev) · [🌐 Site ↗](https://www.repowise.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/repowise/)</sub>
 
 <a name="semble"></a>
-### #&#8288;27 [semble](https://github.com/minishlab/semble) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
+### #&#8288;27 [semble](https://github.com/minishlab/semble) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
 
 **Local code search for coding agents, via MCP server or CLI.**
 
@@ -635,7 +635,7 @@ Official Supabase MCP server, hosted at https://mcp.supabase.com/mcp, that gives
 <sub>no GPU · Needs Supabase project, Supabase account (OAuth) · [Repo](https://github.com/supabase/mcp) · [📖 Docs ↗](https://supabase.com/docs/guides/getting-started/mcp) · [🌐 Site ↗](https://supabase.com/mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase-mcp/)</sub>
 
 <a name="mcp-for-blender"></a>
-### #&#8288;36 [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+### #&#8288;36 [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Nov 2026</sub>
 
 **MCP server and Blender addon that let LLMs build and edit 3D scenes.**
 
@@ -868,26 +868,8 @@ CLI-Anything runs a 7-phase generator inside a coding agent such as Claude Code,
 
 <sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · safety checks passed 9 of 13 · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-anything/)</sub>
 
-<a name="ida-pro-mcp"></a>
-### #&#8288;49 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (76) · Freshness: active (82) · Maintenance: fair (58) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Sep 2026</sub>
-
-**MCP server that lets LLM clients decompile and annotate binaries in IDA Pro.**
-
-Exposes IDA Pro to MCP clients as tools for decompiling, disassembling, cross-references, renaming, retyping, commenting and patching. It runs as an IDA GUI plugin or as a headless idalib supervisor with one persistent worker process per open database (default max 4). The README now points to the official Hex-Rays IDA MCP Server as the recommended alternative.
-
-- **+** Broad tool set: decompile, disasm, xrefs, rename, set_type, patch, find_bytes, py_eval, debugger
-- **+** Headless idalib mode with multiple databases, each in its own persistent worker
-- **+** Install paths for Claude Code, Codex and Kimi Code plus a config generator for other clients
-- **+** Batch-first API with paginated searches (default limit 1000, max 10000) to avoid token overflow
-- **−** Author recommends the official Hex-Rays IDA MCP Server instead
-- **−** Requires a licensed IDA Pro 8.3+; IDA Free is not supported
-- **−** GUI plugin install is no longer recommended and will eventually be deprecated
-- **−** Last release is 2025-10-06; installs track the main branch
-
-<sub>no GPU · Needs IDA Pro 8.3+ (9 recommended), idalib, uv, Python 3.11+ · port 13337 · [Repo](https://github.com/mrexodia/ida-pro-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ida-pro-mcp/)</sub>
-
 <a name="dashboard-icons"></a>
-### #&#8288;50 [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;49 [dashboard-icons](https://github.com/homarr-labs/dashboard-icons) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.0k · Apache-2.0 · Nov 2026</sub>
 
 **Icon library for dashboards with CDN links and a hosted MCP server.**
 
@@ -905,7 +887,7 @@ A collection of over 3,400 service and application logos, published as SVG, PNG 
 <sub>no GPU · Needs jsDelivr CDN, dashboardicons.com MCP endpoint · [Repo](https://github.com/homarr-labs/dashboard-icons) · [🌐 Site ↗](https://dashboardicons.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dashboard-icons/)</sub>
 
 <a name="x64dbg-mcp-server"></a>
-### #&#8288;51 [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (30) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
+### #&#8288;50 [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (30) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
 
 **x64dbg plugin that exposes debugger control to MCP clients over HTTP.**
 
@@ -921,6 +903,24 @@ A native plugin written in Zig that runs an MCP server inside x64dbg, letting an
 - **−** README tool count is inconsistent: 84 in features, 72 in the tool list
 
 <sub>no GPU · Needs x64dbg · port 9094 · [Repo](https://github.com/duty1g/x64dbg-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/x64dbg-mcp-server/)</sub>
+
+<a name="ida-pro-mcp"></a>
+### #&#8288;51 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (76) · Freshness: active (82) · Maintenance: fair (57) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Sep 2026</sub>
+
+**MCP server that lets LLM clients decompile and annotate binaries in IDA Pro.**
+
+Exposes IDA Pro to MCP clients as tools for decompiling, disassembling, cross-references, renaming, retyping, commenting and patching. It runs as an IDA GUI plugin or as a headless idalib supervisor with one persistent worker process per open database (default max 4). The README now points to the official Hex-Rays IDA MCP Server as the recommended alternative.
+
+- **+** Broad tool set: decompile, disasm, xrefs, rename, set_type, patch, find_bytes, py_eval, debugger
+- **+** Headless idalib mode with multiple databases, each in its own persistent worker
+- **+** Install paths for Claude Code, Codex and Kimi Code plus a config generator for other clients
+- **+** Batch-first API with paginated searches (default limit 1000, max 10000) to avoid token overflow
+- **−** Author recommends the official Hex-Rays IDA MCP Server instead
+- **−** Requires a licensed IDA Pro 8.3+; IDA Free is not supported
+- **−** GUI plugin install is no longer recommended and will eventually be deprecated
+- **−** Last release is 2025-10-06; installs track the main branch
+
+<sub>no GPU · Needs IDA Pro 8.3+ (9 recommended), idalib, uv, Python 3.11+ · port 13337 · [Repo](https://github.com/mrexodia/ida-pro-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ida-pro-mcp/)</sub>
 
 <a name="cocoindex-code"></a>
 ### #&#8288;52 [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (34) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
@@ -1445,7 +1445,7 @@ Python MCP server exposing a MySQL database through tools for running SQL, readi
 <sub>no GPU · Docker · Needs MySQL server, uv (for uvx), SSH jump host (optional) · port 8000 · [Repo](https://github.com/designcomputer/mysql_mcp_server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mysql-mcp-server/)</sub>
 
 <a name="git-mcp"></a>
-### #&#8288;81 [git-mcp](https://github.com/idosal/git-mcp) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (67) · Freshness: recent (66) · Maintenance: weak (4) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · May 2026</sub>
+### #&#8288;81 [git-mcp](https://github.com/idosal/git-mcp) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (67) · Freshness: recent (66) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · May 2026</sub>
 
 **Remote MCP server that exposes any GitHub repo's docs and code to AI tools.**
 
