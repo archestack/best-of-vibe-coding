@@ -307,7 +307,7 @@ A deployable Slack and Teams agent in two services: a Node runtime (CopilotRunti
 <sub>Python, openai, langgraph, ag-ui, copilotkit · Needs copilotkit-intelligence-account, openai-api-key, slack-workspace, uv · Docker · env example file · [Repo](https://github.com/copilotkit/opentag) · [📖 Docs ↗](https://docs.copilotkit.ai/channels) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opentag/)</sub>
 
 <a name="exo"></a>
-### #&#8288;18 [exo](https://github.com/exoharness/exo) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
+### #&#8288;18 [exo](https://github.com/exoharness/exo) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
 
 **Runtime that hosts Codex, Claude Code or Pi agents behind an API.**
 
@@ -464,7 +464,7 @@ A single-graph Python template: a ReAct loop in src/react_agent/graph.py that re
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent/)</sub>
 
 <a name="marketing-team-eve-template"></a>
-### #&#8288;27 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 453 · MIT · Oct 2026</sub>
+### #&#8288;27 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 454 · MIT · Oct 2026</sub>
 
 **eve lead agent delegating to five marketing specialists with approval gates.**
 

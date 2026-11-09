@@ -5,7 +5,7 @@ MCP servers that give coding agents tools: docs lookup, browsers, GitHub, databa
 <sub>🌐 Also on the web: [MCP servers for developers on archestack.com](https://archestack.com/best-of-vibe-coding/dev-mcp/), each project on its own page.</sub>
 
 <a name="gitnexus"></a>
-### 🥇 [gitnexus](https://github.com/abhigyanpatwari/gitnexus) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · custom license · Nov 2026</sub>
+### 🥇 [gitnexus](https://github.com/abhigyanpatwari/gitnexus) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · custom license · Nov 2026</sub>
 
 **Code knowledge graph exposed to coding agents through MCP tools.**
 
@@ -167,7 +167,7 @@ Monorepo for running agents on full desktops. It holds Cua Driver (CLI, MCP and 
 <sub>Needs Apple Silicon (Lume), macOS 26 or later (Spaces app), Python 3.12 or 3.13 and uv (Cua Bench) · Models: Bring your own agent and model, CUA-S1-FORMS (Hugging Face) · [Repo](https://github.com/trycua/cua) · [📖 Docs ↗](https://cua.ai/docs) · [🌐 Site ↗](https://cua.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cua/)</sub>
 
 <a name="fastmcp"></a>
-### #&#8288;10 [fastmcp](https://github.com/prefecthq/fastmcp) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;10 [fastmcp](https://github.com/prefecthq/fastmcp) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · Apache-2.0 · Nov 2026</sub>
 
 **Python framework for building MCP servers, clients, and interactive apps.**
 
@@ -399,8 +399,26 @@ SocratiCode is a local stdio MCP server, also packaged as plugins for Claude Cod
 
 <sub>GPU optional · Compose · Needs Node.js 18.17+, Docker, Qdrant, Ollama · Models: Ollama (local embeddings), OpenAI embeddings, Google Gemini embeddings · [Repo](https://github.com/giancarloerra/socraticode) · [📖 Docs ↗](https://github.com/giancarloerra/socraticode/blob/main/docs/guides/README.md) · [🌐 Site ↗](https://socraticode.cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/socraticode/)</sub>
 
+<a name="dbhub"></a>
+### #&#8288;23 [dbhub](https://github.com/bytebase/dbhub) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
+
+**MCP server that gives coding agents SQL access to six database engines.**
+
+DBHub is an MCP server that connects clients such as Claude Desktop, Claude Code, Cursor and VS Code to PostgreSQL, MySQL, MariaDB, SQL Server, Oracle and SQLite. It exposes two tools by default, execute_sql and search_objects, with opt-in explain_sql and health_check, plus custom parameterized tools defined in a TOML file. A built-in web workbench runs queries without an MCP client.
+
+- **+** Two default tools at about 1.4k tokens, versus 19k for MCP Toolbox per README
+- **+** Read-only mode, row limit and query timeout guard against runaway queries
+- **+** Several databases in one process via TOML config; SSH tunneling and SSL/TLS supported
+- **+** Runs via npx, Docker, MCP Bundle or Claude Code plugin; includes a web workbench
+- **−** No approval flow, access control, data masking or audit logging; README points to Bytebase
+- **−** Development requires Node.js 22.5 or newer because it uses node:sqlite
+- **−** Only six SQL engines listed; no NoSQL or warehouse engines mentioned
+- **−** Token comparison figures are the project's own, not independently verified
+
+<sub>no GPU · Docker · Needs Node.js >= 22.5.0 (development), A target database: PostgreSQL, MySQL, MariaDB, SQL Server, Oracle or SQLite · port 8080 · [Repo](https://github.com/bytebase/dbhub) · [📖 Docs ↗](https://dbhub.ai/installation) · [🌐 Site ↗](https://dbhub.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dbhub/)</sub>
+
 <a name="agent-device"></a>
-### #&#8288;23 [agent-device](https://github.com/callstack/agent-device) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Nov 2026</sub>
+### #&#8288;24 [agent-device](https://github.com/callstack/agent-device) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Nov 2026</sub>
 
 **CLI and MCP server that lets coding agents drive and verify mobile apps.**
 
@@ -418,7 +436,7 @@ agent-device lets coding agents open, inspect and control apps on iOS, Android, 
 <sub>Needs Node.js 22.12+ (24+ for web), XCTest/iOS Simulator (iOS, tvOS), ADB (Android), HDC (HarmonyOS), agent-browser (web) · [Repo](https://github.com/callstack/agent-device) · [📖 Docs ↗](https://oss.callstack.com/agent-device/) · [🌐 Site ↗](https://agent-device.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-device/)</sub>
 
 <a name="dembrandt"></a>
-### #&#8288;24 [dembrandt](https://github.com/dembrandt/dembrandt) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Oct 2026</sub>
+### #&#8288;25 [dembrandt](https://github.com/dembrandt/dembrandt) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Oct 2026</sub>
 
 **CLI that extracts a website's design tokens and flags design drift in CI.**
 
@@ -434,24 +452,6 @@ Dembrandt renders a page in Chromium through playwright-core, reads computed sty
 - **−** Team drift dashboard and ingest API sit in a separate beta app tied to an account
 
 <sub>no GPU · Needs Node.js 18+, Chromium via playwright-core · [Repo](https://github.com/dembrandt/dembrandt) · [📖 Docs ↗](https://github.com/dembrandt/dembrandt/blob/main/docs/usage.md) · [🌐 Site ↗](https://www.dembrandt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dembrandt/)</sub>
-
-<a name="dbhub"></a>
-### #&#8288;25 [dbhub](https://github.com/bytebase/dbhub) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
-
-**MCP server that gives coding agents SQL access to six database engines.**
-
-DBHub is an MCP server that connects clients such as Claude Desktop, Claude Code, Cursor and VS Code to PostgreSQL, MySQL, MariaDB, SQL Server, Oracle and SQLite. It exposes two tools by default, execute_sql and search_objects, with opt-in explain_sql and health_check, plus custom parameterized tools defined in a TOML file. A built-in web workbench runs queries without an MCP client.
-
-- **+** Two default tools at about 1.4k tokens, versus 19k for MCP Toolbox per README
-- **+** Read-only mode, row limit and query timeout guard against runaway queries
-- **+** Several databases in one process via TOML config; SSH tunneling and SSL/TLS supported
-- **+** Runs via npx, Docker, MCP Bundle or Claude Code plugin; includes a web workbench
-- **−** No approval flow, access control, data masking or audit logging; README points to Bytebase
-- **−** Development requires Node.js 22.5 or newer because it uses node:sqlite
-- **−** Only six SQL engines listed; no NoSQL or warehouse engines mentioned
-- **−** Token comparison figures are the project's own, not independently verified
-
-<sub>no GPU · Docker · Needs Node.js >= 22.5.0 (development), A target database: PostgreSQL, MySQL, MariaDB, SQL Server, Oracle or SQLite · port 8080 · [Repo](https://github.com/bytebase/dbhub) · [📖 Docs ↗](https://dbhub.ai/installation) · [🌐 Site ↗](https://dbhub.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dbhub/)</sub>
 
 <a name="jcodemunch-mcp"></a>
 ### #&#8288;26 [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Nov 2026</sub>
@@ -526,7 +526,7 @@ Repowise indexes a repository's call graph (26 parsed languages), git history, t
 <sub>no GPU · Docker + Compose · Needs Python, uv or pipx or pip · [Repo](https://github.com/repowise-dev/repowise) · [▶️ Demo ↗](https://www.repowise.dev/?src=oss_readme_hero) · [📖 Docs ↗](https://docs.repowise.dev) · [🌐 Site ↗](https://www.repowise.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/repowise/)</sub>
 
 <a name="browser-tools-mcp"></a>
-### #&#8288;30 [browser-tools-mcp](https://github.com/agentdeskai/browser-tools-mcp) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · MIT · Oct 2026</sub>
+### #&#8288;30 [browser-tools-mcp](https://github.com/agentdeskai/browser-tools-mcp) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · MIT · Oct 2026</sub>
 
 **MCP server that feeds Chrome console, network and Lighthouse data to coding agents.**
 
@@ -795,8 +795,26 @@ Python MCP server with 120+ tools across twelve Google Workspace services, inclu
 
 <sub>no GPU · Docker + Compose · Needs Google Cloud project with OAuth client, Google Workspace APIs, Valkey/Redis (optional) · port 8000 · [Repo](https://github.com/taylorwilsdon/google_workspace_mcp) · [📖 Docs ↗](https://workspacemcp.com/docs) · [🌐 Site ↗](https://workspacemcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-workspace-mcp/)</sub>
 
+<a name="sem"></a>
+### #&#8288;45 [sem](https://github.com/ataraxy-labs/sem) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · Apache-2.0 · Nov 2026</sub>
+
+**Entity-level git diff, impact analysis and checks for code and agents.**
+
+sem is a Rust CLI that parses code with tree-sitter and reports changes as functions, classes and methods instead of lines. It adds verbs for finding definitions and callers, selecting affected tests, running the project's own checkers on a change, and producing review certificates for commit ranges. Every verb supports --json, and `sem mcp` exposes them as MCP tools.
+
+- **+** Works in any Git repo with no setup; also diffs arbitrary files outside Git
+- **+** Every verb has --json output, and sem mcp serves the same verbs as MCP tools
+- **+** sem impact --tests selects affected tests; sem check returns exit 0, 1 or 2
+- **+** Many install routes: Homebrew, winget, Scoop, npm, cargo, Docker, release binaries
+- **−** Binary name collides with GNU Parallel's sem; needs PATH or alias fix
+- **−** Cloud queries and reviews need an account; opt-in per repo
+- **−** Module graph and affected-test selection are most detailed for JS/TS
+- **−** sem promises is hidden from sem --help; README shows license badge as MIT
+
+<sub>no GPU · Docker · Needs Git, tree-sitter, SQLite cache · [Repo](https://github.com/ataraxy-labs/sem) · [🌐 Site ↗](https://ataraxy-labs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sem/)</sub>
+
 <a name="mcp-for-blender"></a>
-### #&#8288;45 [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Nov 2026</sub>
+### #&#8288;46 [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 34k · MIT · Nov 2026</sub>
 
 **MCP server and Blender addon that let LLMs build and edit 3D scenes.**
 
@@ -814,7 +832,7 @@ Pairs a Blender addon, which runs a socket server inside Blender, with a Python 
 <sub>Docker · Needs Blender 3.0+, Python 3.10+, uv · Models: Poly Haven, Sketchfab, Poly Pizza, Meshy, Tripo · [Repo](https://github.com/ahujasid/mcp-for-blender) · [🌐 Site ↗](https://mcp-for-blender.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-blender/)</sub>
 
 <a name="mcp-grafana"></a>
-### #&#8288;46 [mcp-grafana](https://github.com/grafana/mcp-grafana) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;47 [mcp-grafana](https://github.com/grafana/mcp-grafana) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server exposing Grafana dashboards, datasources, alerting and incidents to agents.**
 
@@ -830,24 +848,6 @@ A Go MCP server that lets an MCP client query a Grafana instance: search and pat
 - **−** Fetching full dashboard JSON can consume large amounts of context
 
 <sub>no GPU · Docker + Compose · Needs Grafana 9.0+, Grafana service account token, uv (for uvx quick start) · [Repo](https://github.com/grafana/mcp-grafana) · [📖 Docs ↗](https://pkg.go.dev/github.com/grafana/mcp-grafana) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-grafana/)</sub>
-
-<a name="sem"></a>
-### #&#8288;47 [sem](https://github.com/ataraxy-labs/sem) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · Apache-2.0 · Nov 2026</sub>
-
-**Entity-level git diff, impact analysis and checks for code and agents.**
-
-sem is a Rust CLI that parses code with tree-sitter and reports changes as functions, classes and methods instead of lines. It adds verbs for finding definitions and callers, selecting affected tests, running the project's own checkers on a change, and producing review certificates for commit ranges. Every verb supports --json, and `sem mcp` exposes them as MCP tools.
-
-- **+** Works in any Git repo with no setup; also diffs arbitrary files outside Git
-- **+** Every verb has --json output, and sem mcp serves the same verbs as MCP tools
-- **+** sem impact --tests selects affected tests; sem check returns exit 0, 1 or 2
-- **+** Many install routes: Homebrew, winget, Scoop, npm, cargo, Docker, release binaries
-- **−** Binary name collides with GNU Parallel's sem; needs PATH or alias fix
-- **−** Cloud queries and reviews need an account; opt-in per repo
-- **−** Module graph and affected-test selection are most detailed for JS/TS
-- **−** sem promises is hidden from sem --help; README shows license badge as MIT
-
-<sub>no GPU · Docker · Needs Git, tree-sitter, SQLite cache · [Repo](https://github.com/ataraxy-labs/sem) · [🌐 Site ↗](https://ataraxy-labs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sem/)</sub>
 
 <a name="ext-apps"></a>
 ### #&#8288;48 [ext-apps](https://github.com/modelcontextprotocol/ext-apps) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · custom license · Nov 2026</sub>

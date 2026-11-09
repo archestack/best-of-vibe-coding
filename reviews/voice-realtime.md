@@ -58,7 +58,7 @@ A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud
 <sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
 
 <a name="voice-ui-kit"></a>
-### #&#8288;4 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (32) · Momentum: flat (0) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Oct 2026</sub>
+### #&#8288;4 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (32) · Momentum: flat (0) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
 
 **React components and templates for Pipecat voice agent frontends.**
 
@@ -181,7 +181,7 @@ Flutter project on the LiveKit Flutter SDK with voice, text and optional camera 
 <sub>Dart · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-flutter) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-flutter/)</sub>
 
 <a name="agent-starter-react-native"></a>
-### #&#8288;11 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (0) · Momentum: flat (13) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85 · MIT · Nov 2026</sub>
+### #&#8288;11 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (0) · Momentum: flat (13) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85 · MIT · Nov 2026</sub>
 
 **Expo React Native voice assistant client for LiveKit Agents.**
 
