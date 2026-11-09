@@ -76,7 +76,7 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
 <a name="azure-search-openai-demo"></a>
-### #&#8288;5 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
+### #&#8288;5 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
 
 **Azure RAG chat reference on AI Search and Azure OpenAI.**
 
@@ -94,7 +94,7 @@ The canonical Azure RAG sample: a Python (Quart) backend and React frontend answ
 <sub>Python, azure-openai · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-document-intelligence, azure-blob-storage · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="chat-langchain"></a>
-### #&#8288;6 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
+### #&#8288;6 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
 
 **LangChain docs Q&A agent with a Next.js chat frontend.**
 
@@ -130,7 +130,7 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
 <a name="supabaseauthwithssr"></a>
-### #&#8288;8 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 398 · MIT · Oct 2026</sub>
+### #&#8288;8 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 399 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -217,7 +217,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;13 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (35) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;13 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (34) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
