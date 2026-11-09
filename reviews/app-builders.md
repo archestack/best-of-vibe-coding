@@ -58,7 +58,7 @@ A Next.js 16 template (React 19, Tailwind CSS v4, shadcn/ui) that bundles a port
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="appsmith"></a>
-### #&#8288;4 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;4 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
 
 **Low-code builder for internal dashboards and admin panels on your own data.**
 

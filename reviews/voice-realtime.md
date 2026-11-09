@@ -5,7 +5,7 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 <sub>🌐 Also on the web: [Voice and realtime on archestack.com](https://archestack.com/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
 
 <a name="pipecat-examples"></a>
-### 🥇 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (29) · Momentum: surging (87) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 405 · BSD-2-Clause · Nov 2026</sub>
+### 🥇 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (29) · Momentum: surging (87) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 406 · BSD-2-Clause · Nov 2026</sub>
 
 **Intermediate and advanced example bots built on the Pipecat voice framework.**
 
@@ -40,7 +40,7 @@ Next.js app on LiveKit Agents UI components and the LiveKit JS SDK: welcome and 
 <sub>TypeScript · Needs LiveKit Cloud or self-hosted LiveKit server, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-react) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react/)</sub>
 
 <a name="agent-starter-python"></a>
-### 🥉 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (21) · Momentum: surging (80) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 272 · MIT · Nov 2026</sub>
+### 🥉 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (21) · Momentum: surging (80) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 274 · MIT · Nov 2026</sub>
 
 **Python voice AI agent template for LiveKit Agents.**
 
@@ -110,8 +110,24 @@ A collection of small ElevenLabs projects covering text-to-speech, Scribe v2 spe
 
 <sub>TypeScript, ElevenLabs TTS, Scribe v2, ElevenLabs Music, ElevenLabs Agents Platform · Needs ElevenLabs API, pnpm, cursor CLI (for generation) · [Repo](https://github.com/elevenlabs/examples) · [📖 Docs ↗](https://elevenlabs.io/docs/api-reference/getting-started) · [🌐 Site ↗](https://elevenlabs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elevenlabs-examples/)</sub>
 
+<a name="agent-starter-android"></a>
+### #&#8288;7 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (14) · Momentum: steady (33) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
+
+**Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
+
+Android Studio project on the LiveKit Android SDK giving you a simple voice interface to a LiveKit agent, scaffolded with lk app create. It connects to the public LiveKit homepage agent by default; to reach your own agent you set a development token server id in TokenExt.kt. Client only: the agent and a production token server are yours to build.
+
+- **+** Kotlin and Jetpack Compose on the official LiveKit Android SDK
+- **+** Works immediately against the public LiveKit homepage agent
+- **+** Pairs with the Python and Node agent starters
+- **−** Token server id is hardcoded in TokenExt.kt; production token flow is yours
+- **−** README does not document video, text input or avatar support
+- **−** No tests
+
+<sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
+
 <a name="openai-realtime-agents"></a>
-### #&#8288;7 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: widely used (80) · Momentum: surging (100) · Freshness: quiet (21) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
+### #&#8288;8 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: widely used (80) · Momentum: surging (93) · Freshness: quiet (21) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
 
 **Next.js demo of multi-agent voice flows on the OpenAI Realtime API.**
 
@@ -127,22 +143,6 @@ Next.js app that talks to the OpenAI Realtime API over WebRTC via the OpenAI Age
 - **−** Last commit 2026-01
 
 <sub>TypeScript, OpenAI Realtime API, OpenAI Agents SDK (JS) · Needs OpenAI API key · env example file · [Repo](https://github.com/openai/openai-realtime-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-agents/)</sub>
-
-<a name="agent-starter-android"></a>
-### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (14) · Momentum: steady (33) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
-
-**Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
-
-Android Studio project on the LiveKit Android SDK giving you a simple voice interface to a LiveKit agent, scaffolded with lk app create. It connects to the public LiveKit homepage agent by default; to reach your own agent you set a development token server id in TokenExt.kt. Client only: the agent and a production token server are yours to build.
-
-- **+** Kotlin and Jetpack Compose on the official LiveKit Android SDK
-- **+** Works immediately against the public LiveKit homepage agent
-- **+** Pairs with the Python and Node agent starters
-- **−** Token server id is hardcoded in TokenExt.kt; production token flow is yours
-- **−** README does not document video, text input or avatar support
-- **−** No tests
-
-<sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
 <a name="agent-starter-swift"></a>
 ### #&#8288;9 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (10) · Momentum: flat (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>

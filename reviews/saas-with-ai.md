@@ -273,7 +273,7 @@ create-better-t-stack is an interactive CLI that generates a TypeScript project 
 <sub>TypeScript · Needs Bun, pnpm or npm, Turso, Neon, Supabase, MongoDB Atlas or Cloudflare D1 (optional DB setup) · [Repo](https://github.com/amanvarshney01/create-better-t-stack) · [📖 Docs ↗](https://better-t-stack.dev/docs/cli/agent-workflows) · [🌐 Site ↗](https://better-t-stack.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/create-better-t-stack/)</sub>
 
 <a name="formkit"></a>
-### #&#8288;16 [formkit](https://github.com/formkit/formkit) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
+### #&#8288;16 [formkit](https://github.com/formkit/formkit) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
 
 **Form framework for React and Vue with inline validation and schema-generated forms.**
 
@@ -451,26 +451,8 @@ Next.js 16 SaaS boilerplate with Google sign-in via Better Auth, Neon Postgres t
 
 <sub>TypeScript · Needs Neon Postgres, Stripe, Google OAuth · env example file · sign-in: Better Auth · [Repo](https://github.com/mickasmt/next-saas-stripe-starter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-saas-stripe-starter/)</sub>
 
-<a name="uni-app"></a>
-### #&#8288;26 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
-
-**Vue framework that builds app, web and mini-program clients from one codebase.**
-
-uni-app is a Vue.js framework that compiles one codebase to iOS, Android, HarmonyOS, responsive web, mini-programs (WeChat, Alipay, Baidu, Douyin and others) and quick apps. This branch is uni-app x, which renders natively on app platforms and supports js, ts and uts. uts is a TypeScript-like language compiled to Kotlin, Swift, ArkTS or js, used mainly for native plugins.
-
-- **+** One Vue codebase targets app, web and over ten mini-program platforms
-- **+** uni-app x renders natively on Android, iOS and HarmonyOS
-- **+** uts compiles to Kotlin, Swift, ArkTS or js for native plugin work
-- **+** Repo includes examples, tests and per-platform benchmark reports
-- **−** Not an AI product; AI support is a separate uni-agent tool and training CLI
-- **−** README and docs are primarily in Chinese
-- **−** Performance claims (2-4x native) come from the vendor's own benchmarks
-- **−** Main branch is uni-app x; Vue 2 and Vue 3 versions are on other branches
-
-<sub>JavaScript · [Repo](https://github.com/dcloudio/uni-app) · [📖 Docs ↗](https://doc.dcloud.net.cn/uni-app-x/ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uni-app/)</sub>
-
 <a name="react-starter-kit"></a>
-### #&#8288;27 [react-starter-kit](https://github.com/kriasoft/react-starter-kit) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (76) · Freshness: recent (70) · Maintenance: fair (57) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
+### #&#8288;26 [react-starter-kit](https://github.com/kriasoft/react-starter-kit) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (76) · Freshness: recent (70) · Maintenance: fair (57) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
 
 **Full-stack SaaS monorepo template on React 19, tRPC and Cloudflare Workers.**
 
@@ -488,7 +470,7 @@ A GitHub template for SaaS apps split into three Cloudflare Workers (Astro marke
 <sub>TypeScript · Needs Cloudflare Workers, Neon PostgreSQL, Bun, Resend, Stripe (optional), Terraform · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/kriasoft/react-starter-kit) · [📖 Docs ↗](https://reactstarter.com/getting-started/) · [🌐 Site ↗](https://reactstarter.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-starter-kit/)</sub>
 
 <a name="open-mercato"></a>
-### #&#8288;28 [open-mercato](https://github.com/open-mercato/open-mercato) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
+### #&#8288;27 [open-mercato](https://github.com/open-mercato/open-mercato) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
 
 **Next.js and PostgreSQL framework with prebuilt CRM, sales and warehouse modules.**
 
@@ -504,6 +486,24 @@ Open Mercato is a TypeScript framework on Next.js and PostgreSQL that scaffolds 
 - **−** Fresh 0.8.0 apps report typecheck errors in agent_examples until next release
 
 <sub>TypeScript, Claude Code, Codex, Cursor, GitHub Copilot (experimental) · Needs Node.js 24, Yarn 4, Docker, PostgreSQL 17 with pgvector, Redis 7, Meilisearch · Docker · [Repo](https://github.com/open-mercato/open-mercato) · [📖 Docs ↗](https://docs.openmercato.com/) · [🌐 Site ↗](https://openmercatocloud.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-mercato/)</sub>
+
+<a name="uni-app"></a>
+### #&#8288;28 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
+
+**Vue framework that builds app, web and mini-program clients from one codebase.**
+
+uni-app is a Vue.js framework that compiles one codebase to iOS, Android, HarmonyOS, responsive web, mini-programs (WeChat, Alipay, Baidu, Douyin and others) and quick apps. This branch is uni-app x, which renders natively on app platforms and supports js, ts and uts. uts is a TypeScript-like language compiled to Kotlin, Swift, ArkTS or js, used mainly for native plugins.
+
+- **+** One Vue codebase targets app, web and over ten mini-program platforms
+- **+** uni-app x renders natively on Android, iOS and HarmonyOS
+- **+** uts compiles to Kotlin, Swift, ArkTS or js for native plugin work
+- **+** Repo includes examples, tests and per-platform benchmark reports
+- **−** Not an AI product; AI support is a separate uni-agent tool and training CLI
+- **−** README and docs are primarily in Chinese
+- **−** Performance claims (2-4x native) come from the vendor's own benchmarks
+- **−** Main branch is uni-app x; Vue 2 and Vue 3 versions are on other branches
+
+<sub>JavaScript · [Repo](https://github.com/dcloudio/uni-app) · [📖 Docs ↗](https://doc.dcloud.net.cn/uni-app-x/ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uni-app/)</sub>
 
 <a name="yournextstore"></a>
 ### #&#8288;29 [yournextstore](https://github.com/yournextstore/yournextstore) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (52) · Freshness: active (91) · Maintenance: fair (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
@@ -703,7 +703,7 @@ Cove Stack is a TypeScript starter for TanStack Start (React, Router, Query) wit
 <sub>TypeScript · Needs PostgreSQL, Node.js >= 24, pnpm >= 12, Vite Plus · GitHub template · sign-in: Better Auth · [Repo](https://github.com/mugnavo/cove) · [▶️ Demo ↗](https://cove.mugnavo.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cove/)</sub>
 
 <a name="coreui-free-bootstrap-admin-template"></a>
-### #&#8288;40 [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Aug 2026</sub>
+### #&#8288;40 [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Aug 2026</sub>
 
 **Bootstrap 5 admin dashboard template built with Pug, Sass and plain JavaScript.**
 
