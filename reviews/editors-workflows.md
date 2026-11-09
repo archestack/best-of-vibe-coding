@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="penpot"></a>
-### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Nov 2026</sub>
+### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Nov 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 

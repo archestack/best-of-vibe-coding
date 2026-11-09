@@ -40,7 +40,7 @@ Open Code Review is a Go CLI (`ocr`) that reads a Git diff, groups related files
 <sub>no GPU · Needs Git >= 2.41, LLM provider API · Models: configurable LLM providers, custom providers · [Repo](https://github.com/alibaba/open-code-review) · [📖 Docs ↗](https://open-codereview.ai/docs) · [🌐 Site ↗](https://open-codereview.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-code-review/)</sub>
 
 <a name="pr-agent"></a>
-### 🥉 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
+### 🥉 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
 
 **LLM pull request reviewer that comments via /review, /describe and /improve.**
 
@@ -201,7 +201,7 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
 <a name="kodus-ai"></a>
-### #&#8288;12 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
+### #&#8288;12 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
 
 **AI pull request reviewer for GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo.**
 

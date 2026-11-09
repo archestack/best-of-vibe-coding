@@ -22,7 +22,7 @@ DeepSeek Harness (`dsh`) is a TypeScript agent harness built on the Cordis plugi
 <sub>TypeScript · Needs Node.js, pnpm (source build) · [Repo](https://github.com/deepseek-ai/deepseek-harness) · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-harness/)</sub>
 
 <a name="composio"></a>
-### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **TypeScript and Python SDKs that give agents authenticated tools across 1000+ apps.**
 
@@ -76,7 +76,7 @@ mcp-use is a TypeScript v2 framework, built on the official MCP TypeScript SDK, 
 <sub>TypeScript · Needs Node.js, npm, React, Zod · safety checks passed 14 of 18 · [Repo](https://github.com/mcp-use/mcp-use) · [▶️ Demo ↗](https://inspector.mcp-use.com/inspector) · [📖 Docs ↗](https://docs.mcp-use.com/v2/typescript/getting-started/welcome) · [🌐 Site ↗](https://mcp-use.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-use/)</sub>
 
 <a name="computer"></a>
-### #&#8288;5 [computer](https://github.com/cloudflare/computer) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · MIT · Nov 2026</sub>
+### #&#8288;5 [computer](https://github.com/cloudflare/computer) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · MIT · Nov 2026</sub>
 
 **Durable Object virtual filesystem with container, shell and JavaScript runtimes for agents.**
 
@@ -94,7 +94,7 @@ Cloudflare Computer keeps a workspace filesystem in a Durable Object's SQLite an
 <sub>TypeScript · Needs Cloudflare Workers, Durable Objects, Dynamic Workers, Cloudflare Containers, just-bash · [Repo](https://github.com/cloudflare/computer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer/)</sub>
 
 <a name="docker-agent"></a>
-### #&#8288;6 [docker-agent](https://github.com/docker/docker-agent) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [docker-agent](https://github.com/docker/docker-agent) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
 
 **Docker CLI plugin that runs multi-agent teams defined in YAML.**
 
@@ -111,7 +111,7 @@ docker-agent is a Go CLI plugin (`docker agent run agent.yaml`) that runs agents
 <sub>Go, OpenAI, Anthropic, Gemini, AWS Bedrock · Needs Docker CLI (plugin), LLM provider API key or Docker Model Runner, MCP servers (optional), OCI registry (optional) · Docker · [Repo](https://github.com/docker/docker-agent) · [📖 Docs ↗](https://docker.github.io/docker-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-agent/)</sub>
 
 <a name="skybridge"></a>
-### #&#8288;7 [skybridge](https://github.com/alpic-ai/skybridge) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Oct 2026</sub>
+### #&#8288;7 [skybridge](https://github.com/alpic-ai/skybridge) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Nov 2026</sub>
 
 **React framework for building MCP Apps with interactive UI views.**
 
@@ -379,7 +379,7 @@ Two sample computer-use agents built on the OpenAI Responses API. The JavaScript
 <sub>TypeScript, OpenAI models via Responses API · Needs OpenAI API key, Node.js 22.20.0, pnpm 10.26.0, Playwright, uv (Python app), Python 3.10+ (Python app) · env example file · [Repo](https://github.com/openai/openai-cua-sample-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cua-sample-app/)</sub>
 
 <a name="personal-agent-template"></a>
-### #&#8288;22 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 485 · MIT · Sep 2026</sub>
+### #&#8288;22 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 486 · MIT · Sep 2026</sub>
 
 **eve and Nuxt personal agent with Slack, GitHub, Linear and per-user memory.**
 
@@ -415,7 +415,7 @@ Reference app where agents extract customer preferences, recommend destinations 
 <sub>TypeScript, Phi4 14B (Docker Model Runner), Azure OpenAI, Microsoft Foundry · Needs Docker, Docker Model Runner, Node.js 22+, Azure Container Apps, Azure OpenAI or Microsoft Foundry · [Repo](https://github.com/azure-samples/azure-ai-travel-agents) · [📖 Docs ↗](https://github.com/Azure-Samples/azure-ai-travel-agents/blob/main/docs/advanced-setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-ai-travel-agents/)</sub>
 
 <a name="data-enrichment"></a>
-### #&#8288;24 [data-enrichment](https://github.com/langchain-ai/data-enrichment) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 258 · MIT · Nov 2026</sub>
+### #&#8288;24 [data-enrichment](https://github.com/langchain-ai/data-enrichment) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 259 · MIT · Nov 2026</sub>
 
 **LangGraph agent that researches the web to fill your JSON schema.**
 
@@ -448,7 +448,7 @@ Four TypeScript files: agent.ts builds a LangChain createAgent, tools.ts defines
 <sub>TypeScript, langchain, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent-js/)</sub>
 
 <a name="react-agent"></a>
-### #&#8288;26 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 860 · MIT · Nov 2026</sub>
+### #&#8288;26 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 861 · MIT · Nov 2026</sub>
 
 **Minimal Python LangGraph ReAct agent with Tavily, ready for Studio.**
 
@@ -464,7 +464,7 @@ A single-graph Python template: a ReAct loop in src/react_agent/graph.py that re
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent/)</sub>
 
 <a name="marketing-team-eve-template"></a>
-### #&#8288;27 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 454 · MIT · Oct 2026</sub>
+### #&#8288;27 [marketing-team-eve-template](https://github.com/vercel-labs/marketing-team-eve-template) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · MIT · Oct 2026</sub>
 
 **eve lead agent delegating to five marketing specialists with approval gates.**
 
@@ -499,7 +499,7 @@ Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server t
 <sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
 
 <a name="new-langgraph-project"></a>
-### #&#8288;29 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 300 · MIT · Nov 2026</sub>
+### #&#8288;29 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 301 · MIT · Nov 2026</sub>
 
 **Blank Python LangGraph scaffold with config, tests and Studio support.**
 
@@ -515,7 +515,7 @@ The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph th
 <sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
 
 <a name="new-langgraphjs-project"></a>
-### #&#8288;30 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 77 · MIT · Nov 2026</sub>
+### #&#8288;30 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 78 · MIT · Nov 2026</sub>
 
 **Empty TypeScript LangGraph.js scaffold with message history and tests.**
 
