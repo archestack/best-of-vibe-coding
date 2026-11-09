@@ -49,10 +49,10 @@
 | Project | Stars this week | Rank |
 |---|--:|---|
 | [dsh-superagent-prototype](reviews/coding-agents.md#dsh-superagent-prototype) | +11,272 (+112%) | #&#8288;147 in Coding agents and AI editors |
-| [unslop](reviews/skills-plugins.md#unslop) | +6,952 (+134%) | #&#8288;144 in Skills, plugins and prompts |
+| [unslop](reviews/skills-plugins.md#unslop) | +6,952 (+133%) | #&#8288;144 in Skills, plugins and prompts |
+| [elephant-goldfish-model](reviews/skills-plugins.md#elephant-goldfish-model) | +6,000 (+63%) | #&#8288;69 in Skills, plugins and prompts |
 | [skills](reviews/skills-plugins.md#emilkowalski-skills) | +2,198 (+4.2%) | #&#8288;103 in Skills, plugins and prompts |
-| [replica-skill](reviews/skills-plugins.md#replica-skill) | +1,497 (+21%) | #&#8288;269 in Skills, plugins and prompts |
-| [hypit](reviews/skills-plugins.md#hypit) | +1,271 (+4.6%) | #&#8288;47 in Skills, plugins and prompts |
+| [ai-design-skills](reviews/skills-plugins.md#ai-design-skills) | +1,648 (+12%) | #&#8288;223 in Skills, plugins and prompts |
 
 ## ⚡ Pick by vibe
 
@@ -495,7 +495,7 @@ AI tools that review pull requests, write tests or find bugs, run in your CI or 
 | #&#8288;6 | 🆕 | **[no-mistakes](reviews/code-review.md#no-mistakes "Review: strengths, weaknesses, specs")**<br><sub>Local git proxy that runs AI review, tests and lint before opening a PR</sub><br><sub>MIT · [📖 Docs ↗](https://kunchenguid.github.io/no-mistakes/)</sub> | [85](#-how-we-rank "Score 85/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") | 9.2k |
 | #&#8288;7 | 🆕 | **[hunk](reviews/code-review.md#hunk "Review: strengths, weaknesses, specs")**<br><sub>Terminal diff viewer for reviewing code changes, with inline agent notes</sub><br><sub>MIT · [📖 Docs ↗](https://hunk.dev/docs/) · [🌐 Site ↗](https://hunk.dev)</sub> | [84](#-how-we-rank "Score 84/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 9.8k |
 | #&#8288;8 | 🆕 | **[front-end-checklist](reviews/code-review.md#front-end-checklist "Review: strengths, weaknesses, specs")**<br><sub>Front-end rules checklist with an MCP server for agent code review</sub><br><sub>MIT · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io)</sub> | [76](#-how-we-rank "Score 76/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 75k |
-| #&#8288;9 | 🆕 | **[pr-lens](reviews/code-review.md#pr-lens "Review: strengths, weaknesses, specs")**<br><sub>Posts animated architecture and data-flow diagrams as pull request comments</sub><br><sub>🐳 Docker · MIT · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev)</sub> | [74](#-how-we-rank "Score 74/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 2.4k |
+| #&#8288;9 | 🆕 | **[pr-lens](reviews/code-review.md#pr-lens "Review: strengths, weaknesses, specs")**<br><sub>Posts animated architecture and data-flow diagrams as pull request comments</sub><br><sub>🐳 Docker · MIT · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev)</sub> | [74](#-how-we-rank "Score 74/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") | 2.4k |
 | #&#8288;10 | 🆕 | **[testsprite-cli](reviews/code-review.md#testsprite-cli "Review: strengths, weaknesses, specs")**<br><sub>CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents</sub><br><sub>Apache-2.0 · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com)</sub> | [71](#-how-we-rank "Score 71/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") | 5.2k |
 
 <sub>Top 10 of 22. [See all 22, ranked, with reviews →](reviews/code-review.md)</sub>
