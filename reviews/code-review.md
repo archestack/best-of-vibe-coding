@@ -57,8 +57,25 @@ Bend 2 is a Python-like language with dependent types and a proof checker, compi
 
 <sub>GPU optional · Needs clang 14+ (19+ for GPU calls), Metal or CUDA 12 for GPU, X11 and ALSA headers (Linux, window/audio) · [Repo](https://github.com/bendlang/bend) · [▶️ Demo ↗](https://bend-lang.com/#lab) · [🌐 Site ↗](https://bend-lang.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bend/)</sub>
 
+<a name="react-doctor"></a>
+### #&#8288;4 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
+
+**CLI that scans React codebases for state, performance, security and accessibility issues.**
+
+React Doctor runs deterministic checks over a React project and reports issues in state and effects, performance, architecture, security, accessibility and maintainability. It covers Next.js, Vite, Astro, TanStack, React Native and Expo. It also installs as a skill for coding agents, runs on pull requests in CI, and can record a Chrome DevTools performance trace of a running app.
+
+- **+** Runs with one npx command from the project root, no setup needed
+- **+** Deterministic rules rather than LLM-generated findings
+- **+** Agent skill installer supports Claude Code, Cursor, Codex and OpenCode
+- **+** Rules configurable in doctor.config.ts; CI installer reports issues each PR introduces
+- **−** React-only; no support for other frameworks beyond the listed React stacks
+- **−** CLI collects crash reports and anonymous usage data unless opted out
+- **−** Runtime trace scan needs a running app and a Chrome DevTools trace
+
+<sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
+
 <a name="pr-agent"></a>
-### #&#8288;4 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
+### #&#8288;5 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
 
 **LLM pull request reviewer that comments via /review, /describe and /improve.**
 
@@ -74,23 +91,6 @@ PR-Agent runs as a GitHub Action, CLI, Docker image or webhook service and posts
 - **−** Docker images moved to pragent/pr-agent from 0.34.2, so pinned references break
 
 <sub>no GPU · Docker + Compose · Needs LLM API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
-
-<a name="react-doctor"></a>
-### #&#8288;5 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
-
-**CLI that scans React codebases for state, performance, security and accessibility issues.**
-
-React Doctor runs deterministic checks over a React project and reports issues in state and effects, performance, architecture, security, accessibility and maintainability. It covers Next.js, Vite, Astro, TanStack, React Native and Expo. It also installs as a skill for coding agents, runs on pull requests in CI, and can record a Chrome DevTools performance trace of a running app.
-
-- **+** Runs with one npx command from the project root, no setup needed
-- **+** Deterministic rules rather than LLM-generated findings
-- **+** Agent skill installer supports Claude Code, Cursor, Codex and OpenCode
-- **+** Rules configurable in doctor.config.ts; CI installer reports issues each PR introduces
-- **−** React-only; no support for other frameworks beyond the listed React stacks
-- **−** CLI collects crash reports and anonymous usage data unless opted out
-- **−** Runtime trace scan needs a running app and a Chrome DevTools trace
-
-<sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
 
 <a name="e2e"></a>
 ### #&#8288;6 [e2e](https://github.com/tester-army/e2e) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
@@ -182,26 +182,8 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 13 of 14 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
-<a name="pr-lens"></a>
-### #&#8288;11 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
-
-**Posts animated architecture and data-flow diagrams as pull request comments.**
-
-PR Lens reads a pull request diff with an LLM and posts a comment containing animated diagrams of the components touched and the calls between them, with new, changed and removed parts colored. It runs as a hosted GitHub App, a GitHub Action or GitLab/Bitbucket pipeline with your own model key, or through an agent skill and CLI that draw diagrams before a PR exists. An interactive canvas offers walkthroughs and per-arrow payload views.
-
-- **+** Covers GitHub, GitLab and Bitbucket, with an Action, CI component and pipe
-- **+** Action accepts Gemini, OpenAI or any OpenAI-compatible endpoint via base-url
-- **+** Corrections like rename and exclude live in pr-lens.yml and survive reruns
-- **+** Agent skill and CLI validate diagrams locally before any PR is opened
-- **−** Diagrams are LLM-generated, so names can be wrong and need config fixes
-- **−** Diff is sent to the chosen model provider
-- **−** Action comments are static; the checkbox view selection works only in the App
-- **−** On GitLab.com, project access tokens need a paid plan; Free uses a personal token
-
-<sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
-
 <a name="testsprite-cli"></a>
-### #&#8288;12 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;11 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
 
 **CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents.**
 
@@ -217,6 +199,24 @@ Official CLI for the TestSprite testing service. You write test plans as JSON in
 - **−** Needs Node.js 20.19+, 22.13+ or 24+; the CLI is a client, not a self-hostable engine
 
 <sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
+
+<a name="pr-lens"></a>
+### #&#8288;12 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
+
+**Posts animated architecture and data-flow diagrams as pull request comments.**
+
+PR Lens reads a pull request diff with an LLM and posts a comment containing animated diagrams of the components touched and the calls between them, with new, changed and removed parts colored. It runs as a hosted GitHub App, a GitHub Action or GitLab/Bitbucket pipeline with your own model key, or through an agent skill and CLI that draw diagrams before a PR exists. An interactive canvas offers walkthroughs and per-arrow payload views.
+
+- **+** Covers GitHub, GitLab and Bitbucket, with an Action, CI component and pipe
+- **+** Action accepts Gemini, OpenAI or any OpenAI-compatible endpoint via base-url
+- **+** Corrections like rename and exclude live in pr-lens.yml and survive reruns
+- **+** Agent skill and CLI validate diagrams locally before any PR is opened
+- **−** Diagrams are LLM-generated, so names can be wrong and need config fixes
+- **−** Diff is sent to the chosen model provider
+- **−** Action comments are static; the checkbox view selection works only in the App
+- **−** On GitLab.com, project access tokens need a paid plan; Free uses a personal token
+
+<sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
 
 <a name="reticle"></a>
 ### #&#8288;13 [reticle](https://github.com/reticlehq/reticle) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
@@ -345,7 +345,7 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
 
 <a name="chatgpt-codereview"></a>
-### #&#8288;20 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (43) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
+### #&#8288;20 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (43) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
 
 **GitHub bot and Action that reviews pull request diffs with an LLM.**
 

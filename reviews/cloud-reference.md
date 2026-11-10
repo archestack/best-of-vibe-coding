@@ -76,26 +76,8 @@ JHipster is a Node.js generator (npm package generator-jhipster) that scaffolds 
 
 <sub>TypeScript · Needs Node.js 22/24, Java 21/25 · Docker · [Repo](https://github.com/jhipster/generator-jhipster) · [📖 Docs ↗](https://www.jhipster.tech/) · [🌐 Site ↗](https://www.jhipster.tech/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generator-jhipster/)</sub>
 
-<a name="echo"></a>
-### #&#8288;5 [echo](https://github.com/labstack/echo) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Oct 2026</sub>
-
-**Minimalist Go web framework with a radix-tree router and middleware.**
-
-Echo is a Go web framework built on net/http. It adds a radix-tree router, route groups, request binding for JSON, XML, form, query and path data, and centralized error handling. It ships middleware such as a log/slog request logger and panic recovery, and supports TLS, HTTP/2, autocert and graceful shutdown. It has no AI-specific features; the README lists NVIDIA's LLM API gateway among its users.
-
-- **+** Built on net/http; interoperates via echo.WrapHandler and echo.WrapMiddleware
-- **+** Middleware at root, group or route level, with a single HTTPErrorHandler
-- **+** Binding for JSON, XML, form, query and path parameters with pluggable validation
-- **+** v5 released 2026-01-18; v4 gets security fixes until 2027-12-31
-- **−** No AI, model or agent features; it is a generic HTTP framework
-- **−** v5 changes the API from v4; upgrading requires following API_CHANGES_V5.md
-- **−** API key/JWT auth, tenant isolation and admin console are in paid Echo Pro
-- **−** Library only; no starter app or project scaffold included
-
-<sub>Go · Needs Go · [Repo](https://github.com/labstack/echo) · [📖 Docs ↗](https://echo.labstack.com/guide/quickstart/) · [🌐 Site ↗](https://echo.labstack.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo/)</sub>
-
 <a name="goa"></a>
-### #&#8288;6 [goa](https://github.com/goadesign/goa) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
+### #&#8288;5 [goa](https://github.com/goadesign/goa) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
 
 **Design-first Go framework that generates HTTP, gRPC and JSON-RPC services.**
 
@@ -111,6 +93,24 @@ Goa takes a service contract written in a Go DSL and generates server and client
 - **−** Go only; the contract is written in a Go DSL
 
 <sub>Go · Needs Go 1.27.3+, protoc (for gRPC and JSON-RPC example) · [Repo](https://github.com/goadesign/goa) · [📖 Docs ↗](https://goa.design/docs/1-goa/) · [🌐 Site ↗](https://goa.design) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goa/)</sub>
+
+<a name="echo"></a>
+### #&#8288;6 [echo](https://github.com/labstack/echo) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Oct 2026</sub>
+
+**Minimalist Go web framework with a radix-tree router and middleware.**
+
+Echo is a Go web framework built on net/http. It adds a radix-tree router, route groups, request binding for JSON, XML, form, query and path data, and centralized error handling. It ships middleware such as a log/slog request logger and panic recovery, and supports TLS, HTTP/2, autocert and graceful shutdown. It has no AI-specific features; the README lists NVIDIA's LLM API gateway among its users.
+
+- **+** Built on net/http; interoperates via echo.WrapHandler and echo.WrapMiddleware
+- **+** Middleware at root, group or route level, with a single HTTPErrorHandler
+- **+** Binding for JSON, XML, form, query and path parameters with pluggable validation
+- **+** v5 released 2026-01-18; v4 gets security fixes until 2027-12-31
+- **−** No AI, model or agent features; it is a generic HTTP framework
+- **−** v5 changes the API from v4; upgrading requires following API_CHANGES_V5.md
+- **−** API key/JWT auth, tenant isolation and admin console are in paid Echo Pro
+- **−** Library only; no starter app or project scaffold included
+
+<sub>Go · Needs Go · [Repo](https://github.com/labstack/echo) · [📖 Docs ↗](https://echo.labstack.com/guide/quickstart/) · [🌐 Site ↗](https://echo.labstack.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo/)</sub>
 
 <a name="full-stack-fastapi-template"></a>
 ### #&#8288;7 [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>

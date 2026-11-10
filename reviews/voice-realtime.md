@@ -40,7 +40,7 @@ Next.js app on LiveKit Agents UI components and the LiveKit JS SDK: welcome and 
 <sub>TypeScript · Needs LiveKit Cloud or self-hosted LiveKit server, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-react) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react/)</sub>
 
 <a name="agent-starter-python"></a>
-### 🥉 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (21) · Momentum: surging (80) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 274 · MIT · Nov 2026</sub>
+### 🥉 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (21) · Momentum: surging (80) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 274 · MIT · Nov 2026</sub>
 
 **Python voice AI agent template for LiveKit Agents.**
 
@@ -93,7 +93,7 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: known (39) · Momentum: rising (73) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
+### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (39) · Momentum: rising (67) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 
@@ -144,8 +144,24 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
+<a name="agent-starter-react-native"></a>
+### #&#8288;9 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (0) · Momentum: flat (20) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85 · MIT · Nov 2026</sub>
+
+**Expo React Native voice assistant client for LiveKit Agents.**
+
+Expo project on the LiveKit React Native SDK and its Expo config plugin, run on Android and iOS with npx expo run, giving a simple voice interface to a LiveKit agent. It connects to the public LiveKit homepage agent by default; set tokenServerId in hooks/useConnection.tsx for your own agent, then switch to TokenSource.endpoint before shipping. Client only.
+
+- **+** Expo plugin handles the native LiveKit setup for iOS and Android
+- **+** Token source is one line to swap for a real endpoint
+- **+** Pairs with the Python and Node agent starters
+- **−** README documents voice only; no video or text input described
+- **−** Development token server lets any client request any permissions
+- **−** No .env.example; configuration is edited in code
+
+<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
+
 <a name="agent-starter-swift"></a>
-### #&#8288;9 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (10) · Momentum: flat (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
+### #&#8288;10 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (10) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
 
 **SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
 
@@ -163,7 +179,7 @@ Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share
 <sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
 
 <a name="agent-starter-flutter"></a>
-### #&#8288;10 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (7) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
+### #&#8288;11 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (7) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
 
 **Flutter voice agent client for iOS, Android, macOS and web.**
 
@@ -180,24 +196,8 @@ Flutter project on the LiveKit Flutter SDK with voice, text and optional camera 
 
 <sub>Dart · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-flutter) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-flutter/)</sub>
 
-<a name="agent-starter-react-native"></a>
-### #&#8288;11 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (0) · Momentum: flat (13) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85 · MIT · Nov 2026</sub>
-
-**Expo React Native voice assistant client for LiveKit Agents.**
-
-Expo project on the LiveKit React Native SDK and its Expo config plugin, run on Android and iOS with npx expo run, giving a simple voice interface to a LiveKit agent. It connects to the public LiveKit homepage agent by default; set tokenServerId in hooks/useConnection.tsx for your own agent, then switch to TokenSource.endpoint before shipping. Client only.
-
-- **+** Expo plugin handles the native LiveKit setup for iOS and Android
-- **+** Token source is one line to swap for a real endpoint
-- **+** Pairs with the Python and Node agent starters
-- **−** README documents voice only; no video or text input described
-- **−** Development token server lets any client request any permissions
-- **−** No .env.example; configuration is edited in code
-
-<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
-
 <a name="openai-realtime-meeting-assistant"></a>
-### #&#8288;12 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (25) · Momentum: rising (53) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 278 · MIT · May 2026</sub>
+### #&#8288;12 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (25) · Momentum: rising (53) · Freshness: recent (66) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 278 · MIT · May 2026</sub>
 
 **Voice-operated shared Kanban board using the OpenAI Realtime API.**
 
@@ -215,7 +215,7 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
 <a name="agent-starter-embed"></a>
-### #&#8288;13 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (4) · Momentum: flat (13) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Oct 2026</sub>
+### #&#8288;13 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (4) · Momentum: flat (20) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Oct 2026</sub>
 
 **Deprecated Next.js embed widget for a LiveKit voice agent.**
 
@@ -249,8 +249,25 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
 
+<a name="live-api-web-console"></a>
+### #&#8288;15 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: popular (59) · Momentum: rising (67) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
+
+**React console for streaming audio and video to the Gemini Live API.**
+
+Create React App project that opens a websocket to the Gemini Live API and wires mic, webcam and screen-capture input, streamed audio playback and an event log. Includes an event-emitting websocket client, an audio layer and a tool-call example rendering Vega charts. For developers starting a browser client on Gemini Live; the API key sits in the frontend .env, so add a proxy before shipping.
+
+- **+** Websocket client, audio in/out and log view ready to reuse
+- **+** Mic, webcam and screen capture wired as model input
+- **+** Tool-call example with Google Search grounding and Vega rendering
+- **−** Gemini API key is read from the frontend .env; no server proxy
+- **−** Built on Create React App, which is no longer maintained
+- **−** Labeled an experiment, not an official Google product
+- **−** Gemini only; last commit 2025-10
+
+<sub>TypeScript, Gemini Live API (websocket) · Needs Gemini API key · ⚠️ .env file committed · [Repo](https://github.com/google-gemini/live-api-web-console) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/live-api-web-console/)</sub>
+
 <a name="openai-realtime-solar-system"></a>
-### #&#8288;15 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Momentum: steady (33) · Freshness: slowing (42) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
+### #&#8288;16 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Momentum: steady (33) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
 
 **Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
 
@@ -266,22 +283,5 @@ A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC a
 - **−** Custom scenes need Spline event setup; first scene load is heavy
 
 <sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
-
-<a name="live-api-web-console"></a>
-### #&#8288;16 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (59) · Momentum: rising (53) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
-
-**React console for streaming audio and video to the Gemini Live API.**
-
-Create React App project that opens a websocket to the Gemini Live API and wires mic, webcam and screen-capture input, streamed audio playback and an event log. Includes an event-emitting websocket client, an audio layer and a tool-call example rendering Vega charts. For developers starting a browser client on Gemini Live; the API key sits in the frontend .env, so add a proxy before shipping.
-
-- **+** Websocket client, audio in/out and log view ready to reuse
-- **+** Mic, webcam and screen capture wired as model input
-- **+** Tool-call example with Google Search grounding and Vega rendering
-- **−** Gemini API key is read from the frontend .env; no server proxy
-- **−** Built on Create React App, which is no longer maintained
-- **−** Labeled an experiment, not an official Google product
-- **−** Gemini only; last commit 2025-10
-
-<sub>TypeScript, Gemini Live API (websocket) · Needs Gemini API key · ⚠️ .env file committed · [Repo](https://github.com/google-gemini/live-api-web-console) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/live-api-web-console/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
