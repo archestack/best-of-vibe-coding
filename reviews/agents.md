@@ -5,7 +5,7 @@ Agent backends and UIs to fork (LangGraph, ADK, OpenAI Agents SDK, Cloudflare Ag
 <sub>🌐 Also on the web: [Agent and MCP starters on archestack.com](https://archestack.com/best-of-vibe-coding/agents/), each project on its own page.</sub>
 
 <a name="deepseek-harness"></a>
-### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [98](../README.md#-how-we-rank "Score 98/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 277k · MIT · Nov 2026</sub>
+### 🥇 [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) <sub>score [98](../README.md#-how-we-rank "Score 98/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 278k · MIT · Nov 2026</sub>
 
 **Plugin-based agent harness from DeepSeek with a local Web UI.**
 
@@ -22,7 +22,7 @@ DeepSeek Harness (`dsh`) is a TypeScript agent harness built on the Cordis plugi
 <sub>TypeScript · Needs Node.js, pnpm (source build) · [Repo](https://github.com/deepseek-ai/deepseek-harness) · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-harness/)</sub>
 
 <a name="composio"></a>
-### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **TypeScript and Python SDKs that give agents authenticated tools across 1000+ apps.**
 
@@ -183,7 +183,7 @@ A recipe collection for Google's Agent Development Kit: core/ holds single-patte
 <sub>Python, google, google-adk · Needs google-adk, google-api-key-or-vertex-ai · [Repo](https://github.com/google/adk-recipes) · [📖 Docs ↗](https://adk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-adk-recipes/)</sub>
 
 <a name="penguin-harness"></a>
-### #&#8288;11 [penguin-harness](https://github.com/prism-shadow/penguin-harness) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;11 [penguin-harness](https://github.com/prism-shadow/penguin-harness) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Nov 2026</sub>
 
 **Agent framework that evolves an agent's prompts, skills and tools against benchmarks.**
 
@@ -253,7 +253,7 @@ FrontierAgent is a Python terminal UI and agent runtime for long-horizon researc
 <sub>Python, OpenAI-compatible endpoints, Apodex-1.1, SGLang-served models · Needs Python 3.12, uv, OpenAI-compatible model endpoint, Serper or Jina API keys (optional), Docker (optional), SGLang (optional) · Docker · env example file · [Repo](https://github.com/apodexai/frontieragent) · [🌐 Site ↗](https://www.apodex.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frontieragent/)</sub>
 
 <a name="nasiko"></a>
-### #&#8288;15 [nasiko](https://github.com/nasiko-labs/nasiko) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (82) · Freshness: active (93) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Oct 2026</sub>
+### #&#8288;15 [nasiko](https://github.com/nasiko-labs/nasiko) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (82) · Freshness: active (92) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Oct 2026</sub>
 
 **Control plane that tracks cost and routes LLM calls for coding agents.**
 
@@ -343,7 +343,7 @@ A deployable Slack and Teams agent in two services: a Node runtime (CopilotRunti
 <sub>Python, openai, langgraph, ag-ui, copilotkit · Needs copilotkit-intelligence-account, openai-api-key, slack-workspace, uv · Docker · env example file · [Repo](https://github.com/copilotkit/opentag) · [📖 Docs ↗](https://docs.copilotkit.ai/channels) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opentag/)</sub>
 
 <a name="exo"></a>
-### #&#8288;20 [exo](https://github.com/exoharness/exo) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
+### #&#8288;20 [exo](https://github.com/exoharness/exo) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
 
 **Runtime that hosts Codex, Claude Code or Pi agents behind an API.**
 
@@ -433,7 +433,7 @@ A Nuxt app plus an eve agent runtime: Better Auth email login, web chat with thr
 <sub>TypeScript, eve, ai-sdk · Needs postgres, vercel-blob, vercel-connect · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/personal-agent-template/)</sub>
 
 <a name="azure-ai-travel-agents"></a>
-### #&#8288;25 [azure-ai-travel-agents](https://github.com/azure-samples/azure-ai-travel-agents) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 482 · MIT · Sep 2026</sub>
+### #&#8288;25 [azure-ai-travel-agents](https://github.com/azure-samples/azure-ai-travel-agents) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 483 · MIT · Sep 2026</sub>
 
 **Travel-agency multi-agent sample using MCP servers in four languages.**
 
@@ -656,7 +656,7 @@ A Turborepo with a Next.js 16 frontend on assistant-ui and a LangGraph.js backen
 <sub>TypeScript, openai, langgraph, assistant-ui · Needs openai-api-key, financial-datasets-api-key, tavily-api-key · [Repo](https://github.com/assistant-ui/assistant-ui-stockbroker) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/assistant-ui-stockbroker/)</sub>
 
 <a name="mcp-agent"></a>
-### #&#8288;38 [mcp-agent](https://github.com/lastmile-ai/mcp-agent) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (74) · Freshness: quiet (20) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;38 [mcp-agent](https://github.com/lastmile-ai/mcp-agent) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (74) · Freshness: quiet (19) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Jan 2026</sub>
 
 **Python framework for building MCP-connected agents with composable workflow patterns.**
 
@@ -709,7 +709,7 @@ A Next.js and shadcn/ui chat interface that connects to a running Agno AgentOS i
 <sub>TypeScript, agno · Needs agno-agentos · GitHub template · [Repo](https://github.com/agno-agi/agent-ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agno-agent-ui/)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;41 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (10) · Freshness: recent (71) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 335 · MIT · May 2026</sub>
+### #&#8288;41 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (10) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 335 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
@@ -727,7 +727,7 @@ A Cloudflare Workers control plane that receives Claude Managed Agents webhooks 
 <sub>TypeScript, Claude (Anthropic) · Needs Cloudflare Workers Paid plan, Cloudflare D1, Cloudflare KV, Cloudflare R2, Durable Objects, Anthropic API, Docker (terminal deploy) · Docker · [Repo](https://github.com/cloudflare/claude-managed-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-managed-agents/)</sub>
 
 <a name="openai-cs-agents-demo"></a>
-### #&#8288;42 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (70) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
+### #&#8288;42 [openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (70) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Dec 2025</sub>
 
 **Airline support multi-agent demo with visible handoffs and guardrails.**
 
@@ -744,7 +744,7 @@ A Python backend on the OpenAI Agents SDK that routes airline support requests b
 <sub>Python, openai, openai-agents-sdk, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-cs-agents-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cs-agents-demo/)</sub>
 
 <a name="mcp-forge"></a>
-### #&#8288;43 [mcp-forge](https://github.com/achetronic/mcp-forge) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (4) · Freshness: quiet (24) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 98 · Apache-2.0 · Jan 2026</sub>
+### #&#8288;43 [mcp-forge](https://github.com/achetronic/mcp-forge) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (4) · Freshness: quiet (23) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 98 · Apache-2.0 · Jan 2026</sub>
 
 **Go MCP server template with OAuth discovery and JWT validation.**
 
@@ -761,7 +761,7 @@ Go 1.24+ template on mcp-go that runs as an HTTP or stdio MCP server from a YAML
 <sub>Go, mcp-go · Needs OIDC provider (e.g. Keycloak), Kubernetes for the Helm chart (optional) · GitHub template · Docker · [Repo](https://github.com/achetronic/mcp-forge) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-forge/)</sub>
 
 <a name="stockbot-on-groq"></a>
-### #&#8288;44 [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) <sub>score [12](../README.md#-how-we-rank "Score 12/100. Adoption: niche (28) · Freshness: quiet (13) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;44 [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) <sub>score [12](../README.md#-how-we-rank "Score 12/100. Adoption: niche (27) · Freshness: quiet (13) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Groq chatbot answering with TradingView widgets via AI SDK generative UI.**
 

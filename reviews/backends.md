@@ -112,7 +112,7 @@ Medusa is a TypeScript commerce framework providing Store and Admin APIs, an adm
 <sub>no GPU · Needs Node.js 22.22.0+, PostgreSQL · [Repo](https://github.com/medusajs/medusa) · [📖 Docs ↗](https://docs.medusajs.com) · [🌐 Site ↗](https://www.medusajs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/medusa/)</sub>
 
 <a name="compose"></a>
-### #&#8288;7 [compose](https://github.com/docker/compose) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;7 [compose](https://github.com/docker/compose) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Nov 2026</sub>
 
 **CLI plugin that runs multi-container apps from a compose.yaml file.**
 
@@ -255,7 +255,7 @@ Novu exposes one API for sending notifications through Inbox, email, SMS, push a
 <sub>no GPU · Compose · [Repo](https://github.com/novuhq/novu) · [📖 Docs ↗](https://docs.novu.co) · [🌐 Site ↗](https://novu.co) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/novu/)</sub>
 
 <a name="turborepo"></a>
-### #&#8288;15 [turborepo](https://github.com/vercel/turborepo) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### #&#8288;15 [turborepo](https://github.com/vercel/turborepo) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **Rust build system and task runner for JavaScript and TypeScript monorepos.**
 
@@ -378,7 +378,7 @@ Dokku is a small platform-as-a-service written in Go that runs on a single Ubunt
 <sub>no GPU · Docker · Needs Docker, SSH keypair, Ubuntu or Debian VM · [Repo](https://github.com/dokku/dokku) · [📖 Docs ↗](https://dokku.com/docs/getting-started/installation/) · [🌐 Site ↗](https://dokku.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dokku/)</sub>
 
 <a name="graphql-engine"></a>
-### #&#8288;22 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;22 [graphql-engine](https://github.com/hasura/graphql-engine) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Nov 2026</sub>
 
 **GraphQL API layer over Postgres, MongoDB, ClickHouse and SQL Server.**
 
@@ -575,7 +575,7 @@ Kong Gateway is a Lua-based API gateway that proxies, routes, load balances and 
 <sub>no GPU · Needs PostgreSQL (optional, not needed in DB-less mode) · Models: OpenAI, Anthropic, GCP Gemini, AWS Bedrock, Azure AI · port 8002 · [Repo](https://github.com/kong/kong) · [📖 Docs ↗](https://docs.konghq.com) · [🌐 Site ↗](https://konghq.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kong/)</sub>
 
 <a name="teable"></a>
-### #&#8288;33 [teable](https://github.com/teableio/teable) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+### #&#8288;33 [teable](https://github.com/teableio/teable) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
 
 **Airtable-style collaborative database on PostgreSQL with AI chat and app builder.**
 
@@ -717,26 +717,8 @@ Omnigraph is a Rust graph database that stores data in the Lance format on local
 
 <sub>Docker · Needs S3-compatible object storage (optional), protobuf-compiler (build/CI only) · Models: Embedding providers declared in cluster.yaml · [Repo](https://github.com/modernrelay/omnigraph) · [📖 Docs ↗](https://www.omnigraph.dev/llms.txt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/omnigraph/)</sub>
 
-<a name="memgraph"></a>
-### #&#8288;41 [memgraph](https://github.com/memgraph/memgraph) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
-
-**In-memory graph database with vector search for GraphRAG and analytics.**
-
-Memgraph is an in-memory graph database written in C/C++ that speaks Neo4j-compatible Cypher and is ACID-compliant. Built-in vector, text and geospatial indexes let GraphRAG retrieval run as one Cypher query, and the MAGE library adds 40+ graph algorithms. Data loads from Kafka, Pulsar, RedPanda, CSV, JSON, Parquet and JSONL.
-
-- **+** Vector, text and geospatial indexes combine with graph traversal in a single Cypher query
-- **+** Cypher-compatible with Neo4j; drivers for Python, C/C++ and others, plus WebSocket
-- **+** MAGE library has 40+ algorithms in C++, Python and CUDA, including PageRank
-- **+** Streams from Kafka, Pulsar and RedPanda; loads Parquet and JSONL from disk, S3 or HTTP
-- **−** Community edition is under BSL, not an OSI open-source license
-- **−** HA, multi-tenancy, SSO and fine-grained access control are Enterprise (MEL) features
-- **−** Data is held in memory, so dataset size is bounded by RAM
-- **−** A database engine, not a RAG starter; retrieval pipelines must be built on top
-
-<sub>GPU optional · [Repo](https://github.com/memgraph/memgraph) · [▶️ Demo ↗](https://playground.memgraph.com/) · [📖 Docs ↗](https://memgraph.com/docs) · [🌐 Site ↗](https://memgraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memgraph/)</sub>
-
 <a name="prest"></a>
-### #&#8288;42 [prest](https://github.com/prest/prest) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Oct 2026</sub>
+### #&#8288;41 [prest](https://github.com/prest/prest) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
 **REST and read-only MCP API generated from a PostgreSQL or MySQL database.**
 
@@ -752,6 +734,24 @@ pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or My
 - **−** MCP endpoint is read-only, so AI clients cannot write through it
 
 <sub>no GPU · Docker + Compose · Needs PostgreSQL 9.5+ or MySQL 8.0.19+ · [Repo](https://github.com/prest/prest) · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prest/)</sub>
+
+<a name="memgraph"></a>
+### #&#8288;42 [memgraph](https://github.com/memgraph/memgraph) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
+
+**In-memory graph database with vector search for GraphRAG and analytics.**
+
+Memgraph is an in-memory graph database written in C/C++ that speaks Neo4j-compatible Cypher and is ACID-compliant. Built-in vector, text and geospatial indexes let GraphRAG retrieval run as one Cypher query, and the MAGE library adds 40+ graph algorithms. Data loads from Kafka, Pulsar, RedPanda, CSV, JSON, Parquet and JSONL.
+
+- **+** Vector, text and geospatial indexes combine with graph traversal in a single Cypher query
+- **+** Cypher-compatible with Neo4j; drivers for Python, C/C++ and others, plus WebSocket
+- **+** MAGE library has 40+ algorithms in C++, Python and CUDA, including PageRank
+- **+** Streams from Kafka, Pulsar and RedPanda; loads Parquet and JSONL from disk, S3 or HTTP
+- **−** Community edition is under BSL, not an OSI open-source license
+- **−** HA, multi-tenancy, SSO and fine-grained access control are Enterprise (MEL) features
+- **−** Data is held in memory, so dataset size is bounded by RAM
+- **−** A database engine, not a RAG starter; retrieval pipelines must be built on top
+
+<sub>GPU optional · [Repo](https://github.com/memgraph/memgraph) · [▶️ Demo ↗](https://playground.memgraph.com/) · [📖 Docs ↗](https://memgraph.com/docs) · [🌐 Site ↗](https://memgraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memgraph/)</sub>
 
 <a name="ihp"></a>
 ### #&#8288;43 [ihp](https://github.com/digitallyinduced/ihp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Nov 2026</sub>
@@ -772,7 +772,7 @@ IHP is a full-stack Haskell web framework built on Nix, with type-safe routing, 
 <sub>no GPU · Needs Nix, devenv, PostgreSQL, GHC · Models: OpenAI (via ihp-openai) · [Repo](https://github.com/digitallyinduced/ihp) · [📖 Docs ↗](https://ihp.digitallyinduced.com/Guide/) · [🌐 Site ↗](https://ihp.digitallyinduced.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ihp/)</sub>
 
 <a name="airbyte"></a>
-### #&#8288;44 [airbyte](https://github.com/airbytehq/airbyte) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (66) · Freshness: active (83) · Maintenance: patchy (44) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+### #&#8288;44 [airbyte](https://github.com/airbytehq/airbyte) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (66) · Freshness: active (82) · Maintenance: patchy (44) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
 
 **ELT platform with 700+ connectors for moving data into warehouses, lakes and AI agents.**
 
@@ -916,7 +916,7 @@ Steedos Platform is a Salesforce-style metadata-driven enterprise app platform i
 <sub>Docker + Compose · Needs MongoDB, PostgreSQL · port 5100 · [Repo](https://github.com/steedos/steedos-platform) · [📖 Docs ↗](https://docs.steedos.com/) · [🌐 Site ↗](https://objectstack.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/steedos-platform/)</sub>
 
 <a name="amplication"></a>
-### #&#8288;52 [amplication](https://github.com/amplication/amplication) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: popular (59) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
+### #&#8288;52 [amplication](https://github.com/amplication/amplication) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (59) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
 
 **Generates NestJS and Node.js backend services from data models, with team templates.**
 

@@ -184,7 +184,7 @@ A clone-and-edit Next.js App Router starter in TypeScript with Tailwind CSS 4, C
 <sub>TypeScript · Needs Node.js 24+, npm, Clerk, PostgreSQL (PGlite locally, Neon optional), Sentry, Crowdin, Arcjet · GitHub template · ⚠️ .env file committed · sign-in: Clerk · [Repo](https://github.com/ixartz/next-js-boilerplate) · [▶️ Demo ↗](https://demo.nextjs-boilerplate.com) · [🌐 Site ↗](https://nextjs-boilerplate.com/pro-saas-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-js-boilerplate/)</sub>
 
 <a name="ant-design-pro"></a>
-### #&#8288;11 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
+### #&#8288;11 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
 
 **React admin dashboard template built on Ant Design 6 and Umi Max.**
 
@@ -488,7 +488,7 @@ Next.js 16 SaaS boilerplate with Google sign-in via Better Auth, Neon Postgres t
 <sub>TypeScript · Needs Neon Postgres, Stripe, Google OAuth · env example file · sign-in: Better Auth · [Repo](https://github.com/mickasmt/next-saas-stripe-starter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-saas-stripe-starter/)</sub>
 
 <a name="open-mercato"></a>
-### #&#8288;28 [open-mercato](https://github.com/open-mercato/open-mercato) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
+### #&#8288;28 [open-mercato](https://github.com/open-mercato/open-mercato) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
 
 **Next.js and PostgreSQL framework with prebuilt CRM, sales and warehouse modules.**
 
@@ -560,7 +560,7 @@ Admin dashboard template built on Next.js 16 (App Router), TypeScript, Tailwind 
 <sub>TypeScript · Needs Node.js, npm · [Repo](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) · [▶️ Demo ↗](https://studio-admin.arhamkhnz.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-shadcn-admin-dashboard/)</sub>
 
 <a name="refine"></a>
-### #&#8288;32 [refine](https://github.com/refinedev/refine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: widely used (87) · Freshness: active (97) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
+### #&#8288;32 [refine](https://github.com/refinedev/refine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: widely used (87) · Freshness: active (96) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
 
 **Headless React framework for admin panels, dashboards and internal tools.**
 
@@ -631,26 +631,8 @@ Front-end starter template with Open Graph placeholders, CSS helper classes, med
 
 <sub>JavaScript · Needs Node.js, npm · [Repo](https://github.com/h5bp/html5-boilerplate) · [🌐 Site ↗](https://html5boilerplate.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/html5-boilerplate/)</sub>
 
-<a name="antd-admin"></a>
-### #&#8288;36 [antd-admin](https://github.com/zuiidea/antd-admin) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (65) · Freshness: active (95) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Oct 2026</sub>
-
-**React admin dashboard templates with JWT login, mock API and Ant Design.**
-
-Antd Admin is a set of admin-panel templates built on React 19, Ant Design 6, TanStack Router/Query, Zustand and Zod, scaffolded with the init-antd-admin CLI. It ships a basic variant and one with Lingui i18n (en and zh). It runs against a mock API with no backend, and includes JWT access/refresh login, backend-driven menus and Playwright E2E tests.
-
-- **+** Runs locally against mocks, so no backend is needed to start
-- **+** URL-synced table state for pagination, sorting and search
-- **+** Each template has an AGENTS.md for Cursor, Claude Code and Codex
-- **+** Playwright E2E tests included
-- **−** No AI features; it is a general-purpose admin UI
-- **−** No billing or real database layer; backend must be supplied
-- **−** Only two templates; i18n covers just English and Chinese
-- **−** No live demo link in the README
-
-<sub>TypeScript · [Repo](https://github.com/zuiidea/antd-admin) · [📖 Docs ↗](https://antd-admin-doc.zuiidea.top) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/antd-admin/)</sub>
-
 <a name="free-nextjs-admin-dashboard"></a>
-### #&#8288;37 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Oct 2026</sub>
+### #&#8288;36 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **Next.js and Tailwind admin dashboard template with charts, tables and auth pages.**
 
@@ -666,6 +648,24 @@ TailAdmin is a free admin dashboard template built on Next.js 16, React 19, Type
 - **−** Community support only on free; email support is Pro
 
 <sub>TypeScript · Needs Node.js 20+ · [Repo](https://github.com/tailadmin/free-nextjs-admin-dashboard) · [▶️ Demo ↗](https://nextjs-free-demo.tailadmin.com) · [📖 Docs ↗](https://tailadmin.com/docs) · [🌐 Site ↗](https://tailadmin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/free-nextjs-admin-dashboard/)</sub>
+
+<a name="antd-admin"></a>
+### #&#8288;37 [antd-admin](https://github.com/zuiidea/antd-admin) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (65) · Freshness: active (95) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Oct 2026</sub>
+
+**React admin dashboard templates with JWT login, mock API and Ant Design.**
+
+Antd Admin is a set of admin-panel templates built on React 19, Ant Design 6, TanStack Router/Query, Zustand and Zod, scaffolded with the init-antd-admin CLI. It ships a basic variant and one with Lingui i18n (en and zh). It runs against a mock API with no backend, and includes JWT access/refresh login, backend-driven menus and Playwright E2E tests.
+
+- **+** Runs locally against mocks, so no backend is needed to start
+- **+** URL-synced table state for pagination, sorting and search
+- **+** Each template has an AGENTS.md for Cursor, Claude Code and Codex
+- **+** Playwright E2E tests included
+- **−** No AI features; it is a general-purpose admin UI
+- **−** No billing or real database layer; backend must be supplied
+- **−** Only two templates; i18n covers just English and Chinese
+- **−** No live demo link in the README
+
+<sub>TypeScript · [Repo](https://github.com/zuiidea/antd-admin) · [📖 Docs ↗](https://antd-admin-doc.zuiidea.top) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/antd-admin/)</sub>
 
 <a name="tauri-ui"></a>
 ### #&#8288;38 [tauri-ui](https://github.com/agmmnn/tauri-ui) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Oct 2026</sub>
@@ -703,7 +703,7 @@ Full-stack web starter from BearStudio, scaffolded with `pnpm create start-ui -t
 <sub>TypeScript · Needs Node.js >= 22, pnpm, PostgreSQL, Docker, S3-compatible storage, SMTP server · GitHub template · Docker · env example file · sign-in: Better Auth · [Repo](https://github.com/bearstudio/start-ui-web) · [📖 Docs ↗](https://docs.web.start-ui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/start-ui-web/)</sub>
 
 <a name="cove"></a>
-### #&#8288;40 [cove](https://github.com/mugnavo/cove) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Unlicense · Nov 2026</sub>
+### #&#8288;40 [cove](https://github.com/mugnavo/cove) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Unlicense · Nov 2026</sub>
 
 **TanStack Start starter with Drizzle, Postgres and Better Auth.**
 
@@ -739,7 +739,7 @@ Static admin dashboard template on CoreUI's Bootstrap 5 component library, with 
 <sub>HTML · Needs Node.js, npm · [Repo](https://github.com/coreui/coreui-free-bootstrap-admin-template) · [📖 Docs ↗](https://coreui.io/bootstrap/docs/templates/installation/) · [🌐 Site ↗](https://coreui.io/product/free-bootstrap-admin-template/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coreui-free-bootstrap-admin-template/)</sub>
 
 <a name="apptension-saas-boilerplate"></a>
-### #&#8288;42 [saas-boilerplate](https://github.com/apptension/saas-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (39) · Freshness: active (94) · Maintenance: weak (30) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
+### #&#8288;42 [saas-boilerplate](https://github.com/apptension/saas-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (38) · Freshness: active (94) · Maintenance: weak (30) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
 
 **React, Django and GraphQL SaaS starter with Stripe billing and multi-tenancy.**
 
@@ -811,7 +811,7 @@ TailAdmin is a front-end admin dashboard template built on React 19, TypeScript 
 <sub>JavaScript · Needs Node.js 20+ · [Repo](https://github.com/tailadmin/free-react-tailwind-admin-dashboard) · [▶️ Demo ↗](https://free-react-demo.tailadmin.com/) · [📖 Docs ↗](https://tailadmin.com/docs) · [🌐 Site ↗](https://tailadmin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/free-react-tailwind-admin-dashboard/)</sub>
 
 <a name="coreui-free-vue-admin-template"></a>
-### #&#8288;46 [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (43) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Sep 2026</sub>
+### #&#8288;46 [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (42) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Sep 2026</sub>
 
 **Vue 3 admin dashboard template with CoreUI components and AI assistant rules.**
 
@@ -919,7 +919,7 @@ Fulling is a Next.js and TypeScript app that is being rebuilt around persistent 
 <sub>TypeScript · Needs Node.js 24, PostgreSQL, GitHub OAuth App, Kubernetes cluster · Docker · env example file · sign-in: Better Auth · [Repo](https://github.com/fullagent/fulling) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fulling/)</sub>
 
 <a name="shipfree"></a>
-### #&#8288;52 [shipfree](https://github.com/revokslab/shipfree) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (20) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Jun 2026</sub>
+### #&#8288;52 [shipfree](https://github.com/revokslab/shipfree) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (20) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Jun 2026</sub>
 
 **Next.js SaaS starter with Better-Auth, multi-provider billing and Postgres.**
 
@@ -1027,7 +1027,7 @@ Next.js and TypeScript boilerplate for multi-tenant SaaS apps, using Prisma on P
 <sub>TypeScript · Needs PostgreSQL, Node.js >=18, SMTP provider, Svix, Retraced, Stripe, BoxyHQ SAML Jackson · env example file · sign-in: Auth.js · [Repo](https://github.com/boxyhq/saas-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/saas-starter-kit/)</sub>
 
 <a name="react-native-ai"></a>
-### #&#8288;58 [react-native-ai](https://github.com/dabit3/react-native-ai) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (8) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
+### #&#8288;58 [react-native-ai](https://github.com/dabit3/react-native-ai) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (8) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
 
 **Expo chat and image app with an Express proxy for multiple LLMs.**
 
@@ -1063,7 +1063,7 @@ Nextacular is a Next.js, Tailwind and Prisma starter for multi-tenant SaaS apps.
 <sub>TypeScript · Needs PostgreSQL, Stripe, SMTP email service, Vercel · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/nextacular/nextacular) · [▶️ Demo ↗](https://demo.nextacular.co) · [📖 Docs ↗](https://docs.nextacular.co) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextacular/)</sub>
 
 <a name="saas-starter"></a>
-### #&#8288;60 [saas-starter](https://github.com/nextjs/saas-starter) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (72) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Dec 2025</sub>
+### #&#8288;60 [saas-starter](https://github.com/nextjs/saas-starter) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (72) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Dec 2025</sub>
 
 **Next.js SaaS template with Stripe billing, email/password auth and team dashboard.**
 

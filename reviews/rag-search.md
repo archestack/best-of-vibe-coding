@@ -76,7 +76,7 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
 <a name="azure-search-openai-demo"></a>
-### #&#8288;5 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Oct 2026</sub>
+### #&#8288;5 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **Azure RAG chat reference on AI Search and Azure OpenAI.**
 
@@ -94,7 +94,7 @@ The canonical Azure RAG sample: a Python (Quart) backend and React frontend answ
 <sub>Python, azure-openai · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-document-intelligence, azure-blob-storage · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="chat-langchain"></a>
-### #&#8288;6 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
+### #&#8288;6 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
 
 **LangChain docs Q&A agent with a Next.js chat frontend.**
 
@@ -148,7 +148,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;9 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 510 · MIT · Oct 2026</sub>
+### #&#8288;9 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 512 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
@@ -234,7 +234,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;14 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (12) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 330 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;14 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (12) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 330 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
