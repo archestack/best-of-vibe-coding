@@ -23,7 +23,7 @@ Python example apps for Pipecat, an open-source framework for voice and multimod
 <sub>Python, OpenAI, Gemini Live, Deepgram, Cartesia · Needs Python 3.11+, OpenAI, Deepgram, Cartesia, Twilio, Daily · Docker · [Repo](https://github.com/pipecat-ai/pipecat-examples) · [📖 Docs ↗](https://docs.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pipecat-examples/)</sub>
 
 <a name="agent-starter-react"></a>
-### 🥈 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (43) · Momentum: surging (93) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Oct 2026</sub>
+### 🥈 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (43) · Momentum: surging (93) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 967 · MIT · Oct 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
@@ -58,7 +58,7 @@ A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud
 <sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
 
 <a name="voice-ui-kit"></a>
-### #&#8288;4 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (32) · Momentum: flat (0) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;4 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (32) · Momentum: flat (0) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
 
 **React components and templates for Pipecat voice agent frontends.**
 

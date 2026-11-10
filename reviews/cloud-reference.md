@@ -112,8 +112,25 @@ Echo is a Go web framework built on net/http. It adds a radix-tree router, route
 
 <sub>Go · Needs Go · [Repo](https://github.com/labstack/echo) · [📖 Docs ↗](https://echo.labstack.com/guide/quickstart/) · [🌐 Site ↗](https://echo.labstack.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo/)</sub>
 
+<a name="hono"></a>
+### #&#8288;7 [hono](https://github.com/honojs/hono) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+
+**TypeScript web framework for Workers, Deno, Bun and Node.js.**
+
+Hono is a web framework built on Web Standard APIs, with no dependencies. The same app code runs on Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, AWS Lambda, Lambda@Edge and Node.js. It ships a RegExpRouter, built-in middleware and TypeScript types, and the hono/tiny preset is under 12kB. It is a general backend framework, not an AI-specific project.
+
+- **+** Same code runs on Workers, Fastly, Deno, Bun, Lambda and Node.js
+- **+** Zero dependencies; hono/tiny preset is under 12kB
+- **+** Built-in, custom and third-party middleware available
+- **+** First-class TypeScript support; scaffold with npm create hono@latest
+- **−** No AI, model or agent features; it is a general web framework
+- **−** Not a ready-made template; you write routes and handlers yourself
+- **−** Speed claims in the README have no benchmark figures
+
+<sub>TypeScript · [Repo](https://github.com/honojs/hono) · [📖 Docs ↗](https://hono.dev) · [🌐 Site ↗](https://hono.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hono/)</sub>
+
 <a name="full-stack-fastapi-template"></a>
-### #&#8288;7 [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>
+### #&#8288;8 [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>
 
 **FastAPI and React starter with JWT auth, PostgreSQL and a generated API client.**
 
@@ -129,23 +146,6 @@ A GitHub template for a full-stack web app: a FastAPI backend using SQLModel and
 - **−** PostgreSQL only; other databases are not mentioned
 
 <sub>TypeScript · Needs PostgreSQL, Docker Compose, Traefik, Mailpit · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/fastapi/full-stack-fastapi-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/full-stack-fastapi-template/)</sub>
-
-<a name="hono"></a>
-### #&#8288;8 [hono](https://github.com/honojs/hono) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
-
-**TypeScript web framework for Workers, Deno, Bun and Node.js.**
-
-Hono is a web framework built on Web Standard APIs, with no dependencies. The same app code runs on Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, AWS Lambda, Lambda@Edge and Node.js. It ships a RegExpRouter, built-in middleware and TypeScript types, and the hono/tiny preset is under 12kB. It is a general backend framework, not an AI-specific project.
-
-- **+** Same code runs on Workers, Fastly, Deno, Bun, Lambda and Node.js
-- **+** Zero dependencies; hono/tiny preset is under 12kB
-- **+** Built-in, custom and third-party middleware available
-- **+** First-class TypeScript support; scaffold with npm create hono@latest
-- **−** No AI, model or agent features; it is a general web framework
-- **−** Not a ready-made template; you write routes and handlers yourself
-- **−** Speed claims in the README have no benchmark figures
-
-<sub>TypeScript · [Repo](https://github.com/honojs/hono) · [📖 Docs ↗](https://hono.dev) · [🌐 Site ↗](https://hono.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hono/)</sub>
 
 <a name="chi"></a>
 ### #&#8288;9 [chi](https://github.com/go-chi/chi) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
@@ -184,7 +184,7 @@ GoFr is a Go framework for building HTTP and gRPC microservices, with logs, trac
 <sub>Go, OpenAI, Groq, DeepSeek, Together · Needs Go 1.26+ · Docker · [Repo](https://github.com/gofr-dev/gofr) · [📖 Docs ↗](https://gofr.dev/docs) · [🌐 Site ↗](https://gofr.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gofr/)</sub>
 
 <a name="elysia"></a>
-### #&#8288;11 [elysia](https://github.com/elysiajs/elysia) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+### #&#8288;11 [elysia](https://github.com/elysiajs/elysia) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
 
 **TypeScript web framework for Bun with end-to-end type safety.**
 
@@ -363,26 +363,8 @@ A minimal repository template for Node.js 24 projects using TypeScript 6 with st
 
 <sub>TypeScript · Needs Node.js 24, npm, Mise (recommended) · GitHub template · [Repo](https://github.com/jsynowiec/node-typescript-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/node-typescript-boilerplate/)</sub>
 
-<a name="nunu"></a>
-### #&#8288;21 [nunu](https://github.com/go-nunu/nunu) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (37) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
-
-**Go CLI that scaffolds layered Gin and Gorm projects with Wire injection.**
-
-Nunu is a Go CLI that generates a project from a template repo (basic, advanced or monorepo) and creates handler, service, repository and model files per entity. It wires Gin, Gorm, Wire, Viper, Zap and go-redis into a layered layout, and `nunu run` starts the app with hot reload. It is a general backend scaffold; AI support is limited to an MCP server layout and an agent skill.
-
-- **+** `nunu create all user` generates handler, service, repository and model in the right directories
-- **+** `nunu run` gives hot reload; `nunu wire` regenerates Wire dependency injection code
-- **+** Built on common libraries (Gin, Gorm, Viper, Zap, Casbin, gocron), so little new to learn
-- **+** Separate agent skill and MCP server layout exist for coding agents
-- **−** No AI or model-serving functionality in the core tool
-- **−** Requires Go 1.25.8 or newer
-- **−** README says updates will be infrequent
-- **−** Templates are pulled from Git repos at creation time, so network access is needed
-
-<sub>Go · Needs Go 1.25.8+, Git, MySQL 5.7+ (optional), Redis (optional), Docker (optional) · [Repo](https://github.com/go-nunu/nunu) · [📖 Docs ↗](https://github.com/go-nunu/nunu/blob/main/docs/en/guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nunu/)</sub>
-
 <a name="fullstack-solution-template-for-agentcore"></a>
-### #&#8288;22 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 602 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;21 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 602 · Apache-2.0 · Nov 2026</sub>
 
 **React and AgentCore starter for deploying a secured agent chat app on AWS.**
 
@@ -398,6 +380,24 @@ Fork-and-deploy starter that ships a React/TypeScript frontend on Amplify Hostin
 - **−** Two infra directories (CDK and Terraform); README advises deleting one
 
 <sub>Python, Strands, LangGraph · Needs AWS account, Amazon Bedrock AgentCore, AWS Cognito, AWS Amplify Hosting, AWS Lambda, AWS CDK or Terraform, Node.js · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
+
+<a name="nunu"></a>
+### #&#8288;22 [nunu](https://github.com/go-nunu/nunu) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (37) · Freshness: active (100) · Maintenance: weak (19) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
+
+**Go CLI that scaffolds layered Gin and Gorm projects with Wire injection.**
+
+Nunu is a Go CLI that generates a project from a template repo (basic, advanced or monorepo) and creates handler, service, repository and model files per entity. It wires Gin, Gorm, Wire, Viper, Zap and go-redis into a layered layout, and `nunu run` starts the app with hot reload. It is a general backend scaffold; AI support is limited to an MCP server layout and an agent skill.
+
+- **+** `nunu create all user` generates handler, service, repository and model in the right directories
+- **+** `nunu run` gives hot reload; `nunu wire` regenerates Wire dependency injection code
+- **+** Built on common libraries (Gin, Gorm, Viper, Zap, Casbin, gocron), so little new to learn
+- **+** Separate agent skill and MCP server layout exist for coding agents
+- **−** No AI or model-serving functionality in the core tool
+- **−** Requires Go 1.25.8 or newer
+- **−** README says updates will be infrequent
+- **−** Templates are pulled from Git repos at creation time, so network access is needed
+
+<sub>Go · Needs Go 1.25.8+, Git, MySQL 5.7+ (optional), Redis (optional), Docker (optional) · [Repo](https://github.com/go-nunu/nunu) · [📖 Docs ↗](https://github.com/go-nunu/nunu/blob/main/docs/en/guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nunu/)</sub>
 
 <a name="serverless-rag-demo"></a>
 ### #&#8288;23 [serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 223 · MIT-0 · Oct 2026</sub>
