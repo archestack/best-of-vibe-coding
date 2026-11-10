@@ -112,7 +112,7 @@ AdminLTE 4 is an HTML/CSS/TypeScript admin dashboard template built on Bootstrap
 <sub>Astro · Needs Bootstrap 5.3, Node.js 22.22.3+ / 24.16.0+ / 26.3.0+ and npm 10+ (to develop AdminLTE itself) · [Repo](https://github.com/colorlibhq/adminlte) · [▶️ Demo ↗](https://adminlte.io/themes/v4/) · [📖 Docs ↗](https://adminlte.io/themes/v4/docs/introduction.html) · [🌐 Site ↗](https://adminlte.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adminlte/)</sub>
 
 <a name="reflex"></a>
-### #&#8288;7 [reflex](https://github.com/reflex-dev/reflex) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;7 [reflex](https://github.com/reflex-dev/reflex) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
 
 **Python framework for building full-stack web apps without writing JavaScript.**
 
@@ -291,7 +291,7 @@ FormKit provides a single `<FormKit>` component for every input type, with 30+ b
 <sub>TypeScript · [Repo](https://github.com/formkit/formkit) · [📖 Docs ↗](https://formkit.com/getting-started/installation) · [🌐 Site ↗](https://formkit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/formkit/)</sub>
 
 <a name="next-shadcn-dashboard-starter"></a>
-### #&#8288;17 [next-shadcn-dashboard-starter](https://github.com/kiranism/next-shadcn-dashboard-starter) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Nov 2026</sub>
+### #&#8288;17 [next-shadcn-dashboard-starter](https://github.com/kiranism/next-shadcn-dashboard-starter) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · MIT · Nov 2026</sub>
 
 **Next.js 16 admin dashboard template with Clerk auth, organizations and billing.**
 
@@ -775,7 +775,7 @@ Oinone Pamirs is the Java back end of a low-code framework in which models, view
 <sub>Java · Needs Docker Compose (quickstart), Java · [Repo](https://github.com/oinone/oinone-pamirs) · [📖 Docs ↗](https://guide.oinone.ai/en/InstallOrUpgrade/CommunityEdition.html) · [🌐 Site ↗](https://www.oinone.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oinone-pamirs/)</sub>
 
 <a name="coreui-free-react-admin-template"></a>
-### #&#8288;44 [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Sep 2026</sub>
+### #&#8288;44 [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Sep 2026</sub>
 
 **React 19 admin dashboard template built on CoreUI components and Vite.**
 
@@ -829,7 +829,7 @@ A Vue 3 single-page admin dashboard template built on Vite, Vue Router, Pinia an
 <sub>Vue · Needs Node.js, npm or yarn · [Repo](https://github.com/coreui/coreui-free-vue-admin-template) · [📖 Docs ↗](https://coreui.io/vue/docs/templates/installation.html) · [🌐 Site ↗](https://coreui.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coreui-free-vue-admin-template/)</sub>
 
 <a name="bullet-train"></a>
-### #&#8288;47 [bullet_train](https://github.com/bullet-train-co/bullet_train) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (99) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
+### #&#8288;47 [bullet_train](https://github.com/bullet-train-co/bullet_train) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (99) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
 
 **Ruby on Rails template for building multi-tenant SaaS apps.**
 
@@ -1045,7 +1045,7 @@ Scaffolded with npx rn-ai: an Expo React Native app with streaming chat and imag
 <sub>TypeScript, OpenAI, Anthropic, Google Gemini, Z.ai · Needs OpenAI, Anthropic, Gemini, Z.ai or Moonshot API keys, GEMINI_API_KEY for images · GitHub template · [Repo](https://github.com/dabit3/react-native-ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-native-ai/)</sub>
 
 <a name="nextacular"></a>
-### #&#8288;59 [nextacular](https://github.com/nextacular/nextacular) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (12) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · May 2026</sub>
+### #&#8288;59 [nextacular](https://github.com/nextacular/nextacular) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (11) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · May 2026</sub>
 
 **Next.js starter for multi-tenant SaaS with workspaces, teams and billing.**
 

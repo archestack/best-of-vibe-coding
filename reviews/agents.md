@@ -22,7 +22,7 @@ DeepSeek Harness (`dsh`) is a TypeScript agent harness built on the Cordis plugi
 <sub>TypeScript · Needs Node.js, pnpm (source build) · [Repo](https://github.com/deepseek-ai/deepseek-harness) · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-harness/)</sub>
 
 <a name="composio"></a>
-### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **TypeScript and Python SDKs that give agents authenticated tools across 1000+ apps.**
 
@@ -58,7 +58,7 @@ Conductor is a Java workflow orchestration server, originally from Netflix, that
 <sub>Java, OpenAI (via llmProvider) · Needs Java 25+, Node.js 16+ (CLI), Redis, Postgres or MySQL, Elasticsearch or OpenSearch · Docker · [Repo](https://github.com/conductor-oss/conductor) · [📖 Docs ↗](https://docs.conductor-oss.org) · [🌐 Site ↗](https://conductor-oss.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/conductor-oss-conductor/)</sub>
 
 <a name="mcp-use"></a>
-### #&#8288;4 [mcp-use](https://github.com/mcp-use/mcp-use) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
+### #&#8288;4 [mcp-use](https://github.com/mcp-use/mcp-use) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
 
 **TypeScript framework for building MCP servers with React Views and an Inspector.**
 
@@ -307,7 +307,7 @@ MS-Agent is a Python SDK and harness for long-running agents. It handles plannin
 <sub>Python, ModelScope, multiple model providers, Anthropic API format, multimodal input (image, video) · Needs Python 3.12+ (WebUI), Node.js 22.22.0+, pnpm 10.17.1, uv 0.5+, LLM provider API key (ModelScope by default) · Docker · env example file · [Repo](https://github.com/modelscope/ms-agent) · [▶️ Demo ↗](https://modelscope.cn/mcp/playground) · [📖 Docs ↗](https://ms-agent-en.readthedocs.io) · [🌐 Site ↗](https://modelscope.github.io/ms-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ms-agent/)</sub>
 
 <a name="opengenerativeui"></a>
-### #&#8288;18 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Oct 2026</sub>
+### #&#8288;18 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with generated interactive UI, charts, maps and tools.**
 
@@ -378,26 +378,8 @@ Exo is a Rust runtime that turns a markdown agent definition into a hosted agent
 
 <sub>Rust, Codex harness, Claude Code harness, Pi harness, OpenAI · Needs Model provider API key (e.g. OPENAI_API_KEY) · env example file · [Repo](https://github.com/exoharness/exo) · [📖 Docs ↗](https://exoharness.ai/docs) · [🌐 Site ↗](https://exoharness.ai/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exo/)</sub>
 
-<a name="eve-software-factory-template"></a>
-### #&#8288;22 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Sep 2026</sub>
-
-**eve pipeline that turns GitHub or Linear issues into reviewed draft PRs.**
-
-An eve pipeline named Foreman: label an issue factory, @mention it, or delegate from Linear, and four agents (classifier, analyst, implementer, reviewer) each run in their own sandbox and end with a draft pull request on FACTORY_REPO. The reviewer sees only the pushed branch, a factory brain keeps notes about your repo between runs, and it deploys to Vercel with GitHub and Linear connectors. For teams piloting agent-written PRs with human merge.
-
-- **+** Reviewer is isolated from the implementer; verdicts are made against the real diff
-- **+** Six entry points including red-CI self-repair on factory branches only
-- **+** Local dev TUI treats runs as untrusted; GitHub writes wait for approval
-- **+** Separate docs site; CLAUDE.md and AGENTS.md included
-- **−** Tied to eve, Vercel Connect, Vercel Sandbox and Vercel Blob
-- **−** No model provider named in the README; model access comes through the Vercel stack
-- **−** No tests listed
-- **−** First task fails if the GitHub App cannot reach FACTORY_REPO; the error surfaces late
-
-<sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
-
 <a name="commerce-agents"></a>
-### #&#8288;23 [commerce-agents](https://github.com/anthropics/commerce-agents) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;22 [commerce-agents](https://github.com/anthropics/commerce-agents) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Aug 2026</sub>
 
 **Reference shopping and merchant agents for commerce, built on Claude.**
 
@@ -413,6 +395,24 @@ Python reference implementation of two Claude agents: a customer-facing shopping
 - **−** No MCP connectors ship; you write backend methods for every system
 
 <sub>Python, Claude · Needs Anthropic API key, Python 3.11+, Node 22 · env example file · [Repo](https://github.com/anthropics/commerce-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/commerce-agents/)</sub>
+
+<a name="eve-software-factory-template"></a>
+### #&#8288;23 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Sep 2026</sub>
+
+**eve pipeline that turns GitHub or Linear issues into reviewed draft PRs.**
+
+An eve pipeline named Foreman: label an issue factory, @mention it, or delegate from Linear, and four agents (classifier, analyst, implementer, reviewer) each run in their own sandbox and end with a draft pull request on FACTORY_REPO. The reviewer sees only the pushed branch, a factory brain keeps notes about your repo between runs, and it deploys to Vercel with GitHub and Linear connectors. For teams piloting agent-written PRs with human merge.
+
+- **+** Reviewer is isolated from the implementer; verdicts are made against the real diff
+- **+** Six entry points including red-CI self-repair on factory branches only
+- **+** Local dev TUI treats runs as untrusted; GitHub writes wait for approval
+- **+** Separate docs site; CLAUDE.md and AGENTS.md included
+- **−** Tied to eve, Vercel Connect, Vercel Sandbox and Vercel Blob
+- **−** No model provider named in the README; model access comes through the Vercel stack
+- **−** No tests listed
+- **−** First task fails if the GitHub App cannot reach FACTORY_REPO; the error surfaces late
+
+<sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="openai-cua-sample-app"></a>
 ### #&#8288;24 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (37) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Oct 2026</sub>

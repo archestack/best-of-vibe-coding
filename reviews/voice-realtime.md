@@ -75,7 +75,7 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="agent-starter-node"></a>
-### #&#8288;5 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (17) · Momentum: steady (33) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 116 · MIT · Nov 2026</sub>
+### #&#8288;5 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (17) · Momentum: steady (33) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 116 · MIT · Nov 2026</sub>
 
 **Node.js voice AI agent starter for LiveKit Agents.**
 
@@ -93,7 +93,7 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (39) · Momentum: rising (67) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
+### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (39) · Momentum: rising (60) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 
@@ -232,7 +232,7 @@ Next.js project that builds an embed-popup.js script and an iframe page so a web
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
 
 <a name="openai-fm"></a>
-### #&#8288;14 [openai-fm](https://github.com/openai/openai-fm) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (64) · Momentum: rising (53) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;14 [openai-fm](https://github.com/openai/openai-fm) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (64) · Momentum: rising (73) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 
@@ -250,7 +250,7 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
 
 <a name="live-api-web-console"></a>
-### #&#8288;15 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: popular (59) · Momentum: rising (67) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
+### #&#8288;15 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (59) · Momentum: rising (60) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
 
 **React console for streaming audio and video to the Gemini Live API.**
 
