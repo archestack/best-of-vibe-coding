@@ -4,8 +4,43 @@ Voice agents, realtime speech-to-speech apps and their web, phone and native cli
 
 <sub>🌐 Also on the web: [Voice and realtime on archestack.com](https://archestack.com/best-of-vibe-coding/voice-realtime/), each project on its own page.</sub>
 
+<a name="livekit"></a>
+### 🥇 [livekit](https://github.com/livekit/livekit) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · Apache-2.0 · Nov 2026</sub>
+
+**WebRTC SFU server for realtime audio, video and AI agent rooms.**
+
+LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, devices and AI agents join the same room as participants, with JWT access tokens, simulcast, SVC codecs (VP9, AV1), end-to-end encryption and SIP telephony. Agent logic lives in the separate LiveKit Agents SDK (Python, Node.js), not in this repository.
+
+- **+** Single Go binary; also ships Docker images and Helm charts
+- **+** Client SDKs for web, mobile, desktop, embedded and server languages
+- **+** Distributed and multi-region deployment, with UDP, TCP and TURN connectivity
+- **+** Dev mode (livekit-server --dev) starts with a placeholder API key pair
+- **−** Server only: voice agents need the separate Agents SDK and model plugins
+- **−** Egress, ingress and SIP are separate repositories to deploy
+- **−** Self-hosting has no LiveKit Inference; you wire up provider plugins and keys yourself
+- **−** Production setup (TURN, multi-region, scaling) needs networking knowledge
+
+<sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
+
+<a name="voice-ui-kit"></a>
+### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
+
+**React components and templates for Pipecat voice agent frontends.**
+
+pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate.
+
+- **+** Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
+- **+** Daily and SmallWebRTC transports supported
+- **+** Tailwind 4 theme via CSS variables; Storybook included
+- **+** Four example apps: console, components, Tailwind, Vite
+- **−** Library plus examples, not a deployable app; you assemble the page
+- **−** Requires a running Pipecat server exposing /api/offer or a Daily room
+- **−** No auth or persistence
+
+<sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
+
 <a name="pipecat-examples"></a>
-### 🥇 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (29) · Momentum: surging (87) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 406 · BSD-2-Clause · Nov 2026</sub>
+### 🥉 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 406 · BSD-2-Clause · Nov 2026</sub>
 
 **Intermediate and advanced example bots built on the Pipecat voice framework.**
 
@@ -22,60 +57,8 @@ Python example apps for Pipecat, an open-source framework for voice and multimod
 
 <sub>Python, OpenAI, Gemini Live, Deepgram, Cartesia · Needs Python 3.11+, OpenAI, Deepgram, Cartesia, Twilio, Daily · Docker · [Repo](https://github.com/pipecat-ai/pipecat-examples) · [📖 Docs ↗](https://docs.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pipecat-examples/)</sub>
 
-<a name="agent-starter-react"></a>
-### 🥈 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (43) · Momentum: surging (93) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Oct 2026</sub>
-
-**Next.js voice assistant frontend for LiveKit Agents.**
-
-Next.js app on LiveKit Agents UI components and the LiveKit JS SDK: welcome and session views, chat transcript, media tiles, camera, screen share, avatar rendering and five audio visualizer styles. A route at app/api/token issues LiveKit tokens from your project credentials. Frontend only; pair it with a LiveKit agent such as agent-starter-python or agent-starter-node.
-
-- **+** Transcript, media tiles, avatar video and visualizers already composed
-- **+** Agents UI components are installed into components/ and editable in place
-- **+** Token route included; development token server also supported
-- **+** Matching Android, Swift, Flutter and React Native starters exist
-- **−** Needs a separate LiveKit agent and a LiveKit Cloud or self-hosted server
-- **−** Token route has no authentication; add one before production
-- **−** No tests or Docker
-
-<sub>TypeScript · Needs LiveKit Cloud or self-hosted LiveKit server, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-react) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react/)</sub>
-
-<a name="agent-starter-python"></a>
-### 🥉 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (21) · Momentum: surging (80) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 274 · MIT · Nov 2026</sub>
-
-**Python voice AI agent template for LiveKit Agents.**
-
-A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud. It runs an STT, LLM and TTS pipeline through LiveKit Inference, defaulting to Gemma 4 31B and Fish Audio S2.1 Pro. It adds turn detection, interruption handling, noise cancellation, CI simulations and an AGENTS.md for coding agents.
-
-- **+** Turn detector (14 languages), adaptive interruption handling and background voice cancellation included
-- **+** Simulations in scenarios.yaml run multi-turn conversations in CI on every merge to main
-- **+** Ships AGENTS.md, a text-turn debugger CLI and a skills install for coding agents
-- **+** Pairs with starter frontends for web, iOS, Android, Flutter, React Native and telephony
-- **−** Defaults depend on LiveKit Cloud and Inference; self-hosting means swapping in model plugins
-- **−** Setup needs LiveKit CLI 2.18.8 or later and a LiveKit Cloud account
-- **−** Simulations use real inference, so they are not run on every pull request
-- **−** Template does not track uv.lock; you must commit it yourself
-
-<sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
-
-<a name="voice-ui-kit"></a>
-### #&#8288;4 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (32) · Momentum: flat (0) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
-
-**React components and templates for Pipecat voice agent frontends.**
-
-pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate.
-
-- **+** Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
-- **+** Daily and SmallWebRTC transports supported
-- **+** Tailwind 4 theme via CSS variables; Storybook included
-- **+** Four example apps: console, components, Tailwind, Vite
-- **−** Library plus examples, not a deployable app; you assemble the page
-- **−** Requires a running Pipecat server exposing /api/offer or a Daily room
-- **−** No auth or persistence
-
-<sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
-
 <a name="agent-starter-node"></a>
-### #&#8288;5 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (17) · Momentum: steady (33) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 116 · MIT · Nov 2026</sub>
+### #&#8288;4 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 116 · MIT · Nov 2026</sub>
 
 **Node.js voice AI agent starter for LiveKit Agents.**
 
@@ -92,8 +75,59 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
+<a name="agent-starter-react"></a>
+### #&#8288;5 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (40) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Oct 2026</sub>
+
+**Next.js voice assistant frontend for LiveKit Agents.**
+
+Next.js app on LiveKit Agents UI components and the LiveKit JS SDK: welcome and session views, chat transcript, media tiles, camera, screen share, avatar rendering and five audio visualizer styles. A route at app/api/token issues LiveKit tokens from your project credentials. Frontend only; pair it with a LiveKit agent such as agent-starter-python or agent-starter-node.
+
+- **+** Transcript, media tiles, avatar video and visualizers already composed
+- **+** Agents UI components are installed into components/ and editable in place
+- **+** Token route included; development token server also supported
+- **+** Matching Android, Swift, Flutter and React Native starters exist
+- **−** Needs a separate LiveKit agent and a LiveKit Cloud or self-hosted server
+- **−** Token route has no authentication; add one before production
+- **−** No tests or Docker
+
+<sub>TypeScript · Needs LiveKit Cloud or self-hosted LiveKit server, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-react) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react/)</sub>
+
+<a name="agent-starter-python"></a>
+### #&#8288;6 [agent-starter-python](https://github.com/livekit-examples/agent-starter-python) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 274 · MIT · Nov 2026</sub>
+
+**Python voice AI agent template for LiveKit Agents.**
+
+A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud. It runs an STT, LLM and TTS pipeline through LiveKit Inference, defaulting to Gemma 4 31B and Fish Audio S2.1 Pro. It adds turn detection, interruption handling, noise cancellation, CI simulations and an AGENTS.md for coding agents.
+
+- **+** Turn detector (14 languages), adaptive interruption handling and background voice cancellation included
+- **+** Simulations in scenarios.yaml run multi-turn conversations in CI on every merge to main
+- **+** Ships AGENTS.md, a text-turn debugger CLI and a skills install for coding agents
+- **+** Pairs with starter frontends for web, iOS, Android, Flutter, React Native and telephony
+- **−** Defaults depend on LiveKit Cloud and Inference; self-hosting means swapping in model plugins
+- **−** Setup needs LiveKit CLI 2.18.8 or later and a LiveKit Cloud account
+- **−** Simulations use real inference, so they are not run on every pull request
+- **−** Template does not track uv.lock; you must commit it yourself
+
+<sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
+
+<a name="agent-starter-android"></a>
+### #&#8288;7 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
+
+**Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
+
+Android Studio project on the LiveKit Android SDK giving you a simple voice interface to a LiveKit agent, scaffolded with lk app create. It connects to the public LiveKit homepage agent by default; to reach your own agent you set a development token server id in TokenExt.kt. Client only: the agent and a production token server are yours to build.
+
+- **+** Kotlin and Jetpack Compose on the official LiveKit Android SDK
+- **+** Works immediately against the public LiveKit homepage agent
+- **+** Pairs with the Python and Node agent starters
+- **−** Token server id is hardcoded in TokenExt.kt; production token flow is yours
+- **−** README does not document video, text input or avatar support
+- **−** No tests
+
+<sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
+
 <a name="elevenlabs-examples"></a>
-### #&#8288;6 [examples](https://github.com/elevenlabs/examples) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (39) · Momentum: rising (60) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
+### #&#8288;8 [examples](https://github.com/elevenlabs/examples) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 
@@ -110,58 +144,8 @@ A collection of small ElevenLabs projects covering text-to-speech, Scribe v2 spe
 
 <sub>TypeScript, ElevenLabs TTS, Scribe v2, ElevenLabs Music, ElevenLabs Agents Platform · Needs ElevenLabs API, pnpm, cursor CLI (for generation) · [Repo](https://github.com/elevenlabs/examples) · [📖 Docs ↗](https://elevenlabs.io/docs/api-reference/getting-started) · [🌐 Site ↗](https://elevenlabs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elevenlabs-examples/)</sub>
 
-<a name="openai-realtime-agents"></a>
-### #&#8288;7 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: widely used (80) · Momentum: surging (100) · Freshness: quiet (21) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
-
-**Next.js demo of multi-agent voice flows on the OpenAI Realtime API.**
-
-Next.js app that talks to the OpenAI Realtime API over WebRTC via the OpenAI Agents SDK, with an ephemeral-token route and a transcript plus event-log UI. Ships two patterns to copy: chat-supervisor (a realtime agent defers tool calls to gpt-4.1) and sequential handoffs between specialist agents, plus output guardrails. For teams prototyping OpenAI voice agents; no auth, DB or tests.
-
-- **+** Chat-supervisor and handoff patterns with a worked customer-service flow
-- **+** WebRTC transport with ephemeral tokens; the API key stays server-side
-- **+** Transcript and raw client/server event log for debugging sessions
-- **+** Output guardrail check on every assistant message
-- **−** OpenAI only; no provider abstraction
-- **−** No auth, database, tests or Docker
-- **−** Demo scope; maintainers decline PRs beyond the core patterns
-- **−** Last commit 2026-01
-
-<sub>TypeScript, OpenAI Realtime API, OpenAI Agents SDK (JS) · Needs OpenAI API key · env example file · [Repo](https://github.com/openai/openai-realtime-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-agents/)</sub>
-
-<a name="agent-starter-android"></a>
-### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (14) · Momentum: steady (33) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
-
-**Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
-
-Android Studio project on the LiveKit Android SDK giving you a simple voice interface to a LiveKit agent, scaffolded with lk app create. It connects to the public LiveKit homepage agent by default; to reach your own agent you set a development token server id in TokenExt.kt. Client only: the agent and a production token server are yours to build.
-
-- **+** Kotlin and Jetpack Compose on the official LiveKit Android SDK
-- **+** Works immediately against the public LiveKit homepage agent
-- **+** Pairs with the Python and Node agent starters
-- **−** Token server id is hardcoded in TokenExt.kt; production token flow is yours
-- **−** README does not document video, text input or avatar support
-- **−** No tests
-
-<sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
-
-<a name="agent-starter-react-native"></a>
-### #&#8288;9 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (0) · Momentum: flat (20) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85 · MIT · Nov 2026</sub>
-
-**Expo React Native voice assistant client for LiveKit Agents.**
-
-Expo project on the LiveKit React Native SDK and its Expo config plugin, run on Android and iOS with npx expo run, giving a simple voice interface to a LiveKit agent. It connects to the public LiveKit homepage agent by default; set tokenServerId in hooks/useConnection.tsx for your own agent, then switch to TokenSource.endpoint before shipping. Client only.
-
-- **+** Expo plugin handles the native LiveKit setup for iOS and Android
-- **+** Token source is one line to swap for a real endpoint
-- **+** Pairs with the Python and Node agent starters
-- **−** README documents voice only; no video or text input described
-- **−** Development token server lets any client request any permissions
-- **−** No .env.example; configuration is edited in code
-
-<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
-
 <a name="agent-starter-swift"></a>
-### #&#8288;10 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (10) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
+### #&#8288;9 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 97 · MIT · Oct 2026</sub>
 
 **SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
 
@@ -179,7 +163,7 @@ Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share
 <sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
 
 <a name="agent-starter-flutter"></a>
-### #&#8288;11 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (7) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
+### #&#8288;10 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
 
 **Flutter voice agent client for iOS, Android, macOS and web.**
 
@@ -196,8 +180,59 @@ Flutter project on the LiveKit Flutter SDK with voice, text and optional camera 
 
 <sub>Dart · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-flutter) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-flutter/)</sub>
 
+<a name="agent-starter-react-native"></a>
+### #&#8288;11 [agent-starter-react-native](https://github.com/livekit-examples/agent-starter-react-native) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85 · MIT · Nov 2026</sub>
+
+**Expo React Native voice assistant client for LiveKit Agents.**
+
+Expo project on the LiveKit React Native SDK and its Expo config plugin, run on Android and iOS with npx expo run, giving a simple voice interface to a LiveKit agent. It connects to the public LiveKit homepage agent by default; set tokenServerId in hooks/useConnection.tsx for your own agent, then switch to TokenSource.endpoint before shipping. Client only.
+
+- **+** Expo plugin handles the native LiveKit setup for iOS and Android
+- **+** Token source is one line to swap for a real endpoint
+- **+** Pairs with the Python and Node agent starters
+- **−** README documents voice only; no video or text input described
+- **−** Development token server lets any client request any permissions
+- **−** No .env.example; configuration is edited in code
+
+<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-react-native) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react-native/)</sub>
+
+<a name="agent-starter-embed"></a>
+### #&#8288;12 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Oct 2026</sub>
+
+**Deprecated Next.js embed widget for a LiveKit voice agent.**
+
+Next.js project that builds an embed-popup.js script and an iframe page so a website can open a LiveKit voice agent as a popup, with voice, transcriptions, camera, screen share, avatar support and theming set in app-config.ts. A connection-details route issues tokens from your LiveKit credentials. Marked deprecated in favor of LiveKit Cloud's built-in embed; fork only if you need to own the widget code.
+
+- **+** Generates a copy-paste embed snippet from the welcome page
+- **+** Popup and iframe variants with a local /test/popup page
+- **+** Feature flags for chat, video, screen share and preconnect buffer
+- **−** Deprecated by LiveKit; new projects are pointed to Cloud embeds
+- **−** Needs a separate LiveKit agent and project credentials
+- **−** Embed script must be rebuilt by hand after code changes
+- **−** No tests
+
+<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
+
+<a name="openai-realtime-agents"></a>
+### #&#8288;13 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (76) · Freshness: quiet (21) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
+
+**Next.js demo of multi-agent voice flows on the OpenAI Realtime API.**
+
+Next.js app that talks to the OpenAI Realtime API over WebRTC via the OpenAI Agents SDK, with an ephemeral-token route and a transcript plus event-log UI. Ships two patterns to copy: chat-supervisor (a realtime agent defers tool calls to gpt-4.1) and sequential handoffs between specialist agents, plus output guardrails. For teams prototyping OpenAI voice agents; no auth, DB or tests.
+
+- **+** Chat-supervisor and handoff patterns with a worked customer-service flow
+- **+** WebRTC transport with ephemeral tokens; the API key stays server-side
+- **+** Transcript and raw client/server event log for debugging sessions
+- **+** Output guardrail check on every assistant message
+- **−** OpenAI only; no provider abstraction
+- **−** No auth, database, tests or Docker
+- **−** Demo scope; maintainers decline PRs beyond the core patterns
+- **−** Last commit 2026-01
+
+<sub>TypeScript, OpenAI Realtime API, OpenAI Agents SDK (JS) · Needs OpenAI API key · env example file · [Repo](https://github.com/openai/openai-realtime-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-agents/)</sub>
+
 <a name="openai-realtime-meeting-assistant"></a>
-### #&#8288;12 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (25) · Momentum: rising (53) · Freshness: recent (66) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 278 · MIT · May 2026</sub>
+### #&#8288;14 [openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (23) · Freshness: recent (66) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 278 · MIT · May 2026</sub>
 
 **Voice-operated shared Kanban board using the OpenAI Realtime API.**
 
@@ -214,25 +249,26 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
-<a name="agent-starter-embed"></a>
-### #&#8288;13 [agent-starter-embed](https://github.com/livekit-examples/agent-starter-embed) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (4) · Momentum: flat (20) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 86 · MIT · Oct 2026</sub>
+<a name="openai-realtime-solar-system"></a>
+### #&#8288;15 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: known (34) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
 
-**Deprecated Next.js embed widget for a LiveKit voice agent.**
+**Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
 
-Next.js project that builds an embed-popup.js script and an iframe page so a website can open a LiveKit voice agent as a popup, with voice, transcriptions, camera, screen share, avatar support and theming set in app-config.ts. A connection-details route issues tokens from your LiveKit credentials. Marked deprecated in favor of LiveKit Cloud's built-in embed; fork only if you need to own the widget code.
+A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC and lets you control a Spline 3D solar system by voice. The model calls functions to focus planets, show moons, draw bar or pie charts, fetch the ISS position and switch to an orbit view. Tools, instructions and voice are defined in lib/config.ts, and the scene URL in components/scene.tsx.
 
-- **+** Generates a copy-paste embed snippet from the welcome page
-- **+** Popup and iframe variants with a local /test/popup page
-- **+** Feature flags for chat, video, screen share and preconnect buffer
-- **−** Deprecated by LiveKit; new projects are pointed to Cloud embeds
-- **−** Needs a separate LiveKit agent and project credentials
-- **−** Embed script must be rebuilt by hand after code changes
-- **−** No tests
+- **+** Working example of Realtime API function calls driving UI and Spline animations
+- **+** Small codebase: tools and prompt in lib/config.ts, scene hooks in components/scene.tsx
+- **+** MIT license, runs with npm install and an OPENAI_API_KEY
+- **+** Planets also respond to clicks and keyboard shortcuts, not only voice
+- **−** Requires an OpenAI API key; no other model providers supported
+- **−** Demo, not a template: no auth, persistence or deployment config
+- **−** Echo or background noise can interrupt the model, per the README
+- **−** Custom scenes need Spline event setup; first scene load is heavy
 
-<sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
+<sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
 
 <a name="openai-fm"></a>
-### #&#8288;14 [openai-fm](https://github.com/openai/openai-fm) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (64) · Momentum: rising (67) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;16 [openai-fm](https://github.com/openai/openai-fm) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: popular (60) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 
@@ -250,7 +286,7 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
 
 <a name="live-api-web-console"></a>
-### #&#8288;15 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: popular (59) · Momentum: rising (67) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
+### #&#8288;17 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: popular (55) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
 
 **React console for streaming audio and video to the Gemini Live API.**
 
@@ -265,23 +301,5 @@ Create React App project that opens a websocket to the Gemini Live API and wires
 - **−** Gemini only; last commit 2025-10
 
 <sub>TypeScript, Gemini Live API (websocket) · Needs Gemini API key · ⚠️ .env file committed · [Repo](https://github.com/google-gemini/live-api-web-console) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/live-api-web-console/)</sub>
-
-<a name="openai-realtime-solar-system"></a>
-### #&#8288;16 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (36) · Momentum: steady (33) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
-
-**Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
-
-A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC and lets you control a Spline 3D solar system by voice. The model calls functions to focus planets, show moons, draw bar or pie charts, fetch the ISS position and switch to an orbit view. Tools, instructions and voice are defined in lib/config.ts, and the scene URL in components/scene.tsx.
-
-- **+** Working example of Realtime API function calls driving UI and Spline animations
-- **+** Small codebase: tools and prompt in lib/config.ts, scene hooks in components/scene.tsx
-- **+** MIT license, runs with npm install and an OPENAI_API_KEY
-- **+** Planets also respond to clicks and keyboard shortcuts, not only voice
-- **−** Requires an OpenAI API key; no other model providers supported
-- **−** Demo, not a template: no auth, persistence or deployment config
-- **−** Echo or background noise can interrupt the model, per the README
-- **−** Custom scenes need Spline event setup; first scene load is heavy
-
-<sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
