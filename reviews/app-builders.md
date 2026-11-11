@@ -40,7 +40,7 @@ JeecgBoot is a Spring Boot 4 and Vue3 base for enterprise business systems, with
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, JDK 17, Maven, Node 20+, pnpm 10+, Docker Compose, Nacos (microservice mode) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
 
 <a name="ai-website-cloner-template"></a>
-### 🥉 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
+### 🥉 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
 
 **Agent skill that rebuilds a website from a URL as a Next.js app.**
 
@@ -58,7 +58,7 @@ A Next.js 16 template that ships a portable `/clone-website` agent skill. Given 
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="wasmer"></a>
-### #&#8288;4 [wasmer](https://github.com/wasmerio/wasmer) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
+### #&#8288;4 [wasmer](https://github.com/wasmerio/wasmer) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
 
 **WebAssembly runtime and CLI for running code in sandboxes.**
 
@@ -94,7 +94,7 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
 <a name="appsmith"></a>
-### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
 
 **Low-code builder for internal dashboards and admin panels on your own data.**
 
@@ -111,7 +111,7 @@ Appsmith is a low-code platform for building internal tools such as dashboards, 
 <sub>TypeScript · Docker · env example file · [Repo](https://github.com/appsmithorg/appsmith) · [📖 Docs ↗](https://docs.appsmith.com) · [🌐 Site ↗](https://www.appsmith.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appsmith/)</sub>
 
 <a name="lowdefy"></a>
-### #&#8288;7 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;7 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-config framework for building internal web apps and admin tools.**
 
@@ -147,7 +147,7 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
 
 <a name="runtime"></a>
-### #&#8288;9 [runtime](https://github.com/e2b-dev/runtime) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [runtime](https://github.com/e2b-dev/runtime) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
 
 **Firecracker microVM sandbox backend for running untrusted AI agent code.**
 
@@ -218,7 +218,7 @@ Next.js 14 app that takes a chat prompt, has an LLM generate code, and runs it i
 <sub>TypeScript, OpenAI, Anthropic, Google AI, Google Vertex · Needs E2B API key, LLM provider API key, Supabase (optional, auth), Vercel/Upstash KV (optional), PostHog (optional), Morph API key (optional) · env example file · [Repo](https://github.com/e2b-dev/fragments) · [▶️ Demo ↗](https://fragments.e2b.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fragments/)</sub>
 
 <a name="monkeycode"></a>
-### #&#8288;13 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;13 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Nov 2026</sub>
 
 **AI development platform that runs coding tasks in server-side environments.**
 
@@ -341,7 +341,7 @@ Claudable is a Next.js web app that wraps locally installed coding-agent CLIs (C
 <sub>TypeScript, Claude Code (Claude Opus 4.6), Codex CLI (GPT-5), Cursor CLI, Qwen Code (Qwen3-Coder) · Needs Node.js 18+, Git, Claude Code, Codex CLI, Cursor CLI, Qwen Code or Z.AI GLM agent, SQLite, GitHub, Vercel, Supabase · [Repo](https://github.com/anymorph-ai/claudable) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claudable/)</sub>
 
 <a name="coding-agent-template"></a>
-### #&#8288;20 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (9) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;20 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (10) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
 
 **Run Claude Code, Codex and other coding CLIs in Vercel Sandbox.**
 

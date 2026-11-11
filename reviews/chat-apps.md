@@ -58,7 +58,7 @@ Five Next.js API routes that each show one LangChain.js pattern: plain chat, Zod
 <sub>TypeScript, openai, langchain, langgraph, ai-sdk · Needs openai-api-key, supabase, tavily-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/langchain-nextjs-template) · [▶️ Demo ↗](https://langchain-nextjs-template.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchain-nextjs-template/)</sub>
 
 <a name="gemini-chatbot"></a>
-### #&#8288;4 [gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (31) · Momentum: steady (45) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;4 [gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (32) · Momentum: steady (45) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Oct 2026</sub>
 
 **Next.js chatbot template defaulting to Gemini with NextAuth and Postgres.**
 
@@ -75,7 +75,7 @@ An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js A
 <sub>TypeScript, google, ai-sdk · Needs postgres, vercel-blob, google-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel-labs/gemini-chatbot) · [▶️ Demo ↗](https://gemini.vercel.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-chatbot/)</sub>
 
 <a name="twitterbio"></a>
-### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (46) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
+### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (46) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
 
 **Single-form Next.js text generator streaming from Together AI.**
 
@@ -158,7 +158,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="zola"></a>
-### #&#8288;10 [zola](https://github.com/ibelick/zola) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (38) · Momentum: rising (55) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;10 [zola](https://github.com/ibelick/zola) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: known (39) · Momentum: rising (55) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
 

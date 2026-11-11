@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -59,7 +59,7 @@ Sonic is a Rust search backend that indexes text pushed over its Sonic Channel T
 <sub>Rust · Docker · [Repo](https://github.com/valeriansaliou/sonic) · [▶️ Demo ↗](https://help.crisp.chat/) · [📖 Docs ↗](https://github.com/valeriansaliou/sonic/blob/master/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sonic/)</sub>
 
 <a name="qmd"></a>
-### #&#8288;4 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Oct 2026</sub>
+### #&#8288;4 [qmd](https://github.com/tobi/qmd) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Oct 2026</sub>
 
 **Local hybrid search over markdown notes and docs, with CLI and MCP server.**
 
@@ -112,7 +112,7 @@ Python backend with a web frontend that answers questions over your own document
 <sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="chat-langchain"></a>
-### #&#8288;7 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
+### #&#8288;7 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
 
 **LangChain docs Q&A agent with a Next.js chat frontend.**
 
@@ -166,7 +166,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="orama"></a>
-### #&#8288;10 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (72) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+### #&#8288;10 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (71) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
 
 **In-process full-text, vector and hybrid search library for JavaScript.**
 
