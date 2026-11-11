@@ -5,7 +5,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 <sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="claude-quickstarts"></a>
-### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (84) · Momentum: surging (100) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
+### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (85) · Momentum: surging (100) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
 
 **Claude API sample apps for agents, computer use and browser automation.**
 
@@ -23,7 +23,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="vercel-chatbot"></a>
-### 🥈 [chatbot](https://github.com/vercel/chatbot) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (89) · Momentum: surging (91) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [chatbot](https://github.com/vercel/chatbot) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (90) · Momentum: surging (91) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js chat template with Auth.js, Postgres history and AI Gateway models.**
 
@@ -40,7 +40,7 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
 
 <a name="langchain-nextjs-template"></a>
-### 🥉 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (55) · Momentum: surging (82) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
+### 🥉 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (56) · Momentum: surging (82) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
 
 **Next.js routes for LangChain.js chat, agents, structured output and RAG.**
 
@@ -75,7 +75,7 @@ An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js A
 <sub>TypeScript, google, ai-sdk · Needs postgres, vercel-blob, google-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel-labs/gemini-chatbot) · [▶️ Demo ↗](https://gemini.vercel.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-chatbot/)</sub>
 
 <a name="twitterbio"></a>
-### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (45) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
+### #&#8288;5 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (46) · Momentum: flat (0) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
 
 **Single-form Next.js text generator streaming from Together AI.**
 
@@ -90,24 +90,8 @@ A one-page Next.js app: a form builds a prompt, sends it to Together AI and stre
 
 <sub>TypeScript, together · Needs together-api-key · env example file · [Repo](https://github.com/nutlope/twitterbio) · [▶️ Demo ↗](https://www.twitterbio.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/twitterbio/)</sub>
 
-<a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;6 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (16) · Momentum: rising (64) · Freshness: active (96) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 670 · MIT · Aug 2026</sub>
-
-**ChatKit feature demos with FastAPI backends and React frontends.**
-
-Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a React frontend: a virtual-cat caretaker, an airline support concierge, a newsroom assistant and a metro-map planner. Together they exercise server and client tools, widgets with actions, attachments, dictation, annotations, @-mentions and composer commands. For teams writing a custom ChatKit server who need a reference per feature.
-
-- **+** Feature index maps every ChatKit capability to the file that implements it
-- **+** Each demo starts with one command on its own port (5170 to 5173)
-- **+** Attachment upload and dictation are implemented end to end
-- **−** Samples, not a product base: no auth, persistence or tests
-- **−** Python backend plus Node frontend; needs uv and npm
-- **−** OpenAI-only
-
-<sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
-
 <a name="nuxt-ui-chat"></a>
-### #&#8288;7 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Momentum: flat (27) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 380 · MIT · Nov 2026</sub>
+### #&#8288;6 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Momentum: flat (27) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 379 · MIT · Nov 2026</sub>
 
 **Nuxt chat app template with GitHub auth, SQLite history and AI SDK streaming.**
 
@@ -123,6 +107,22 @@ Nuxt application built on Nuxt UI components that streams chat responses through
 - **−** No Docker or compose files; deployment guidance centers on Vercel
 
 <sub>Vue, Claude Haiku 5.5, Gemini 3 Flash, GPT-5.6 Luna · Needs Vercel AI Gateway, SQLite / Turso, GitHub OAuth app, NuxtHub Blob · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
+
+<a name="openai-chatkit-advanced-samples"></a>
+### #&#8288;7 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (16) · Momentum: rising (64) · Freshness: active (96) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 670 · MIT · Aug 2026</sub>
+
+**ChatKit feature demos with FastAPI backends and React frontends.**
+
+Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a React frontend: a virtual-cat caretaker, an airline support concierge, a newsroom assistant and a metro-map planner. Together they exercise server and client tools, widgets with actions, attachments, dictation, annotations, @-mentions and composer commands. For teams writing a custom ChatKit server who need a reference per feature.
+
+- **+** Feature index maps every ChatKit capability to the file that implements it
+- **+** Each demo starts with one command on its own port (5170 to 5173)
+- **+** Attachment upload and dictation are implemented end to end
+- **−** Samples, not a product base: no auth, persistence or tests
+- **−** Python backend plus Node frontend; needs uv and npm
+- **−** OpenAI-only
+
+<sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
 ### #&#8288;8 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (25) · Momentum: rising (73) · Freshness: slowing (49) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 895 · MIT · Mar 2026</sub>
@@ -192,7 +192,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [13](../README.md#-how-we-rank "Score 13/100. Adoption: niche (21) · Momentum: flat (27) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 880 · MIT · Dec 2025</sub>
+### #&#8288;12 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: niche (21) · Momentum: steady (36) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 880 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 
