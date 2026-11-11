@@ -4,8 +4,25 @@ Prompt-to-app builders and platforms that run coding agents in sandboxes. Back t
 
 <sub>🌐 Also on the web: [App builder starters on archestack.com](https://archestack.com/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
 
+<a name="dyad"></a>
+### 🥇 [dyad](https://github.com/dyad-sh/dyad) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+
+**Desktop app that builds apps from prompts on your own machine.**
+
+Dyad is a local, open-source prompt-to-app builder, positioned as an alternative to Lovable, v0 and Bolt that runs on your own computer. It ships as a downloadable app for Mac and Windows and uses your own AI API keys, with no sign-up. Code outside src/pro is Apache 2.0; src/pro is under the Functional Source License 1.1.
+
+- **+** Runs locally as a desktop app, with no sign-up needed to download
+- **+** Bring your own API keys, so no hosted-platform lock-in
+- **+** Mac and Windows builds available
+- **+** Code outside src/pro is Apache 2.0 licensed
+- **−** src/pro is fair-source (FSL 1.1), not fully open-source
+- **−** No Linux build mentioned in the README
+- **−** Desktop only; no Docker or self-hosted web deployment mentioned
+
+<sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
+
 <a name="jeecgboot"></a>
-### 🥇 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
 
 **Java and Vue3 low-code platform with built-in AI apps and knowledge base.**
 
@@ -21,23 +38,6 @@ JeecgBoot is a Spring Boot 4 and Vue3 base for enterprise business systems, with
 - **−** Docs and community support channels are mostly Chinese, including QQ groups
 
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, JDK 17, Maven, Node 20+, pnpm 10+, Docker Compose, Nacos (microservice mode) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
-
-<a name="dyad"></a>
-### 🥈 [dyad](https://github.com/dyad-sh/dyad) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
-
-**Desktop app that builds apps from prompts on your own machine.**
-
-Dyad is a local, open-source prompt-to-app builder, positioned as an alternative to Lovable, v0 and Bolt that runs on your own computer. It ships as a downloadable app for Mac and Windows and uses your own AI API keys, with no sign-up. Code outside src/pro is Apache 2.0; src/pro is under the Functional Source License 1.1.
-
-- **+** Runs locally as a desktop app, with no sign-up needed to download
-- **+** Bring your own API keys, so no hosted-platform lock-in
-- **+** Mac and Windows builds available
-- **+** Code outside src/pro is Apache 2.0 licensed
-- **−** src/pro is fair-source (FSL 1.1), not fully open-source
-- **−** No Linux build mentioned in the README
-- **−** Desktop only; no Docker or self-hosted web deployment mentioned
-
-<sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
 
 <a name="ai-website-cloner-template"></a>
 ### 🥉 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
@@ -58,7 +58,7 @@ A Next.js 16 template that ships a portable `/clone-website` agent skill. Given 
 <sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="wasmer"></a>
-### #&#8288;4 [wasmer](https://github.com/wasmerio/wasmer) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
+### #&#8288;4 [wasmer](https://github.com/wasmerio/wasmer) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
 
 **WebAssembly runtime and CLI for running code in sandboxes.**
 
@@ -76,7 +76,7 @@ Wasmer is a Rust WebAssembly runtime with a CLI that downloads packages from a r
 <sub>Rust · [Repo](https://github.com/wasmerio/wasmer) · [▶️ Demo ↗](https://wasmer.sh) · [📖 Docs ↗](https://docs.wasmer.io) · [🌐 Site ↗](https://wasmer.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wasmer/)</sub>
 
 <a name="e2b"></a>
-### #&#8288;5 [e2b](https://github.com/e2b-dev/e2b) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;5 [e2b](https://github.com/e2b-dev/e2b) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
 
 **SDKs for running AI-generated code in isolated cloud sandboxes.**
 
@@ -94,7 +94,7 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
 <a name="appsmith"></a>
-### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
 
 **Low-code builder for internal dashboards and admin panels on your own data.**
 
@@ -111,7 +111,7 @@ Appsmith is a low-code platform for building internal tools such as dashboards, 
 <sub>TypeScript · Docker · env example file · [Repo](https://github.com/appsmithorg/appsmith) · [📖 Docs ↗](https://docs.appsmith.com) · [🌐 Site ↗](https://www.appsmith.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appsmith/)</sub>
 
 <a name="lowdefy"></a>
-### #&#8288;7 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;7 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-config framework for building internal web apps and admin tools.**
 
@@ -129,7 +129,7 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;8 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (43) · Freshness: active (92) · Maintenance: fair (54) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
+### #&#8288;8 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (45) · Freshness: active (92) · Maintenance: fair (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -146,8 +146,26 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
 
+<a name="runtime"></a>
+### #&#8288;9 [runtime](https://github.com/e2b-dev/runtime) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
+
+**Firecracker microVM sandbox backend for running untrusted AI agent code.**
+
+Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Firecracker, an in-VM agent (envd), an edge proxy and a template builder. Each sandbox is a microVM restored from a snapshot with lazy memory paging, and it can be paused, resumed or forked. A single-host Embed package runs the stack on a Linux machine with KVM.
+
+- **+** Hardware isolation per sandbox: own microVM, cgroup, network namespace and nftables egress rules
+- **+** Pause, resume and fork of live sandboxes, with up to 100 forks per request
+- **+** Templates built from Docker images with hashed, cached layers
+- **+** Single-host Embed package, plus Terraform for GCP, AWS and Azure and a Kubernetes manifest
+- **−** Requires a Linux host with KVM; no macOS or Windows host support
+- **−** Needs PostgreSQL, Redis, ClickHouse and object storage, so it is heavy to operate
+- **−** Embed is limited to one machine; multi-node production is a paid enterprise deployment
+- **−** Architecture is complex; the README tells readers to study the architecture doc first
+
+<sub>Go · Needs Linux with KVM, Firecracker, PostgreSQL, Redis, ClickHouse, Object storage, Docker Compose (Embed) · [Repo](https://github.com/e2b-dev/runtime) · [📖 Docs ↗](https://docs.e2b.dev/) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/runtime/)</sub>
+
 <a name="llamacoder"></a>
-### #&#8288;9 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Oct 2026</sub>
+### #&#8288;10 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Oct 2026</sub>
 
 **Next.js app that turns one prompt into a small React app.**
 
@@ -164,7 +182,7 @@ Llama Coder sends a text prompt to Llama 3.1 405B through Together AI and render
 <sub>TypeScript, Llama 3.1 405B · Needs Together AI API, PostgreSQL (Neon), Prisma, S3 bucket (screenshot uploads), Braintrust (optional), esm.sh · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [🌐 Site ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="open-lovable"></a>
-### #&#8288;10 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
+### #&#8288;11 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
 
 **Chat-driven React app builder that clones sites via Firecrawl and runs code in sandboxes.**
 
@@ -182,7 +200,7 @@ Next.js app where you describe a React app in chat and an LLM generates and edit
 <sub>TypeScript, Gemini, Anthropic, OpenAI, Groq · Needs Firecrawl API, Vercel Sandbox or E2B, Morph (optional) · env example file · [Repo](https://github.com/firecrawl/open-lovable) · [🌐 Site ↗](https://firecrawl.dev/?ref=open-lovable-github) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-lovable/)</sub>
 
 <a name="fragments"></a>
-### #&#8288;11 [fragments](https://github.com/e2b-dev/fragments) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;12 [fragments](https://github.com/e2b-dev/fragments) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
 
 **Open-source Claude Artifacts alternative that runs AI-generated apps in sandboxes.**
 
@@ -200,7 +218,7 @@ Next.js 14 app that takes a chat prompt, has an LLM generate code, and runs it i
 <sub>TypeScript, OpenAI, Anthropic, Google AI, Google Vertex · Needs E2B API key, LLM provider API key, Supabase (optional, auth), Vercel/Upstash KV (optional), PostHog (optional), Morph API key (optional) · env example file · [Repo](https://github.com/e2b-dev/fragments) · [▶️ Demo ↗](https://fragments.e2b.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fragments/)</sub>
 
 <a name="monkeycode"></a>
-### #&#8288;12 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (40) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;13 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Nov 2026</sub>
 
 **AI development platform that runs coding tasks in server-side environments.**
 
@@ -218,7 +236,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="codesandbox-client"></a>
-### #&#8288;13 [codesandbox-client](https://github.com/codesandbox/codesandbox-client) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (66) · Freshness: recent (70) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Sep 2026</sub>
+### #&#8288;14 [codesandbox-client](https://github.com/codesandbox/codesandbox-client) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (68) · Freshness: recent (70) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Sep 2026</sub>
 
 **Browser-based online IDE client for web development and prototyping.**
 
@@ -235,7 +253,7 @@ The web client of CodeSandbox, an online IDE for creating, running and sharing w
 <sub>JavaScript · Needs Phoenix API server, Nginx · Docker · ⚠️ .env file committed · [Repo](https://github.com/codesandbox/codesandbox-client) · [📖 Docs ↗](https://codesandbox.io/docs/learn/introduction/overview) · [🌐 Site ↗](https://codesandbox.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codesandbox-client/)</sub>
 
 <a name="tkinter-designer"></a>
-### #&#8288;14 [tkinter-designer](https://github.com/parthjadhav/tkinter-designer) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (61) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · BSD-3-Clause · Oct 2026</sub>
+### #&#8288;15 [tkinter-designer](https://github.com/parthjadhav/tkinter-designer) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (63) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · BSD-3-Clause · Oct 2026</sub>
 
 **Generates Tkinter GUI code from Figma designs via the Figma API.**
 
@@ -253,7 +271,7 @@ Tkinter Designer is a Python CLI, installed with `pip install tkdesigner`, that 
 <sub>Python · Needs Python 3.9+, Figma API token, Figma · Docker · [Repo](https://github.com/parthjadhav/tkinter-designer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tkinter-designer/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;15 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (47) · Freshness: recent (75) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
+### #&#8288;16 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (48) · Freshness: recent (75) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
@@ -270,7 +288,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;16 [lealone](https://github.com/lealone/lealone) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (17) · Freshness: recent (70) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;17 [lealone](https://github.com/lealone/lealone) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (21) · Freshness: recent (70) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
@@ -287,7 +305,7 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
 <a name="chef"></a>
-### #&#8288;17 [chef](https://github.com/convex/chef) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (36) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;18 [chef](https://github.com/convex/chef) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (38) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
@@ -305,7 +323,7 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 <sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
 
 <a name="claudable"></a>
-### #&#8288;18 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (31) · Freshness: slowing (37) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
+### #&#8288;19 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (33) · Freshness: slowing (37) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
 
 **Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
 
@@ -323,7 +341,7 @@ Claudable is a Next.js web app that wraps locally installed coding-agent CLIs (C
 <sub>TypeScript, Claude Code (Claude Opus 4.6), Codex CLI (GPT-5), Cursor CLI, Qwen Code (Qwen3-Coder) · Needs Node.js 18+, Git, Claude Code, Codex CLI, Cursor CLI, Qwen Code or Z.AI GLM agent, SQLite, GitHub, Vercel, Supabase · [Repo](https://github.com/anymorph-ai/claudable) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claudable/)</sub>
 
 <a name="coding-agent-template"></a>
-### #&#8288;19 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (9) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;20 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (9) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
 
 **Run Claude Code, Codex and other coding CLIs in Vercel Sandbox.**
 
