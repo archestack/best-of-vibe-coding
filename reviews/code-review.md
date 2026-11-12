@@ -75,7 +75,7 @@ Bend 2 is a Python-like language with dependent types and a proof checker, compi
 <sub>GPU optional · Needs clang 14+ (19+ for GPU calls), Metal or CUDA 12 for GPU, X11 and ALSA headers (Linux, window/audio) · [Repo](https://github.com/bendlang/bend) · [▶️ Demo ↗](https://bend-lang.com/#lab) · [🌐 Site ↗](https://bend-lang.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bend/)</sub>
 
 <a name="mobile-dev-inc-maestro"></a>
-### #&#8288;5 [maestro](https://github.com/mobile-dev-inc/maestro) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;5 [maestro](https://github.com/mobile-dev-inc/maestro) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-based UI and end-to-end test framework for Android, iOS and web.**
 
@@ -323,8 +323,26 @@ Pest is a PHP testing framework distributed through Composer and Packagist, now 
 
 <sub>no GPU · Needs PHP, Composer · [Repo](https://github.com/pestphp/pest) · [📖 Docs ↗](https://pestphp.com/docs/pest5-now-available) · [🌐 Site ↗](https://pestphp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pest/)</sub>
 
+<a name="prek"></a>
+### #&#8288;19 [prek](https://github.com/j178/prek) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
+
+**Rust reimplementation of pre-commit that runs Git hooks from a single binary.**
+
+prek runs hooks such as formatters, linters and secret scanners before commit, on demand, or in CI, and installs the toolchains those hooks need. It reads existing pre-commit YAML configs as a drop-in replacement and also supports a native prek.toml. It is not an AI tool itself, though the README mentions an installable skill so agents can use it.
+
+- **+** Single Rust binary, no Python or other runtime required
+- **+** Reads existing pre-commit configs and hooks without changes
+- **+** Workspace mode for monorepos with concurrent runs of independent projects
+- **+** Uses uv for Python environments and shares toolchains across hooks
+- **−** Not AI-specific; it is a general hook runner, so it fits this list loosely
+- **−** Built-in Rust hooks cover only some common hooks, not the full pre-commit ecosystem
+- **−** Building from source needs Rust 1.97 or newer
+- **−** Native prek.toml config is not portable to the original pre-commit
+
+<sub>no GPU · Docker · [Repo](https://github.com/j178/prek) · [📖 Docs ↗](https://prek.j178.dev/) · [🌐 Site ↗](https://prek.j178.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prek/)</sub>
+
 <a name="front-end-checklist"></a>
-### #&#8288;19 [front-end-checklist](https://github.com/thedaviddias/front-end-checklist) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · MIT · Oct 2026</sub>
+### #&#8288;20 [front-end-checklist](https://github.com/thedaviddias/front-end-checklist) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · MIT · Oct 2026</sub>
 
 **Front-end rules checklist with an MCP server for agent code review.**
 
@@ -342,7 +360,7 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 13 of 14 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="ginkgo"></a>
-### #&#8288;20 [ginkgo](https://github.com/onsi/ginkgo) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.1k · MIT · Nov 2026</sub>
+### #&#8288;21 [ginkgo](https://github.com/onsi/ginkgo) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.1k · MIT · Nov 2026</sub>
 
 **BDD-style testing framework for Go with a spec DSL and CLI.**
 
@@ -360,7 +378,7 @@ Ginkgo is a Go testing framework built on the standard `testing` package. It pro
 <sub>no GPU · Needs Go, Gomega · [Repo](https://github.com/onsi/ginkgo) · [📖 Docs ↗](https://onsi.github.io/ginkgo/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ginkgo/)</sub>
 
 <a name="pr-lens"></a>
-### #&#8288;21 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
+### #&#8288;22 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
 
 **Posts animated architecture and data-flow diagrams as pull request comments.**
 
@@ -376,24 +394,6 @@ PR Lens reads a pull request diff with an LLM and posts a comment containing ani
 - **−** On GitLab.com, project access tokens need a paid plan; Free uses a personal token
 
 <sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
-
-<a name="prek"></a>
-### #&#8288;22 [prek](https://github.com/j178/prek) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (59) · Freshness: active (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
-
-**Rust reimplementation of pre-commit that runs Git hooks from a single binary.**
-
-prek runs hooks such as formatters, linters and secret scanners before commit, on demand, or in CI, and installs the toolchains those hooks need. It reads existing pre-commit YAML configs as a drop-in replacement and also supports a native prek.toml. It is not an AI tool itself, though the README mentions an installable skill so agents can use it.
-
-- **+** Single Rust binary, no Python or other runtime required
-- **+** Reads existing pre-commit configs and hooks without changes
-- **+** Workspace mode for monorepos with concurrent runs of independent projects
-- **+** Uses uv for Python environments and shares toolchains across hooks
-- **−** Not AI-specific; it is a general hook runner, so it fits this list loosely
-- **−** Built-in Rust hooks cover only some common hooks, not the full pre-commit ecosystem
-- **−** Building from source needs Rust 1.97 or newer
-- **−** Native prek.toml config is not portable to the original pre-commit
-
-<sub>no GPU · Docker · [Repo](https://github.com/j178/prek) · [📖 Docs ↗](https://prek.j178.dev/) · [🌐 Site ↗](https://prek.j178.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prek/)</sub>
 
 <a name="solopi"></a>
 ### #&#8288;23 [solopi](https://github.com/alipay/solopi) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
@@ -468,7 +468,7 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
 <a name="crit"></a>
-### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Browser UI for commenting on a coding agent's plans, diffs and running apps.**
 
@@ -540,7 +540,7 @@ codediff.nvim is a Neovim plugin that shows VSCode-style side-by-side or inline 
 <sub>no GPU · Needs Neovim 0.7+ (0.10+ recommended), Git, curl or wget (PowerShell on Windows) · [Repo](https://github.com/esmuellert/codediff.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codediff-nvim/)</sub>
 
 <a name="mantis"></a>
-### #&#8288;31 [mantis](https://github.com/google/mantis) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;31 [mantis](https://github.com/google/mantis) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
 
 **Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
 
@@ -593,26 +593,8 @@ git-lrc is a Go CLI that hooks into git commit and sends the staged diff to an A
 
 <sub>no GPU · Needs LiveReview account (Hexmos sign-in), Gemini API key or other AI provider key, codebase-memory-mcp (optional, auto-installed for risk scoring) · Models: Gemini, OpenAI, Claude, DeepSeek, OpenRouter · [Repo](https://github.com/hexmostech/git-lrc) · [🌐 Site ↗](https://hexmos.com/livereview/git-lrc/pricing/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-lrc/)</sub>
 
-<a name="eslint-plugin-react"></a>
-### #&#8288;34 [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (63) · Freshness: recent (70) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Oct 2026</sub>
-
-**React-specific lint rules for ESLint, covering JSX style and component correctness.**
-
-An ESLint plugin that adds React and JSX rules, such as jsx-key, display-name, button-has-type, jsx-no-bind and hook-use-state. It ships recommended, all and jsx-runtime presets for both legacy .eslintrc and flat eslint.config.js setups. Shared settings cover the React version, pragma and custom component wrappers. It is a static linter with no AI component.
-
-- **+** Presets for legacy .eslintrc and flat config: recommended, all, jsx-runtime
-- **+** Many rules, several with --fix autofix or editor suggestions
-- **+** Shared settings detect React version and handle wrappers like Mobx observer
-- **+** MIT licensed; installs as one npm dev dependency alongside eslint
-- **−** Not an AI tool; it fits this list's categories only loosely
-- **−** Many JSX formatting rules overlap with dedicated formatters
-- **−** Last tagged release is 2025-04-03, well behind recent commits
-- **−** Presets do not set files or globals, so manual config is needed
-
-<sub>no GPU · Needs eslint, npm · [Repo](https://github.com/jsx-eslint/eslint-plugin-react) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eslint-plugin-react/)</sub>
-
 <a name="pre-commit-hooks"></a>
-### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (52) · Freshness: recent (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
+### #&#8288;34 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (52) · Freshness: recent (77) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
@@ -629,8 +611,26 @@ A set of hooks for pre-commit that run on staged files before a commit. They che
 
 <sub>no GPU · Needs pre-commit, git, git-lfs (optional, >=2.2.1) · [Repo](https://github.com/pre-commit/pre-commit-hooks) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pre-commit-hooks/)</sub>
 
+<a name="eslint-plugin-react"></a>
+### #&#8288;35 [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (63) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Oct 2026</sub>
+
+**React-specific lint rules for ESLint, covering JSX style and component correctness.**
+
+An ESLint plugin that adds React and JSX rules, such as jsx-key, display-name, button-has-type, jsx-no-bind and hook-use-state. It ships recommended, all and jsx-runtime presets for both legacy .eslintrc and flat eslint.config.js setups. Shared settings cover the React version, pragma and custom component wrappers. It is a static linter with no AI component.
+
+- **+** Presets for legacy .eslintrc and flat config: recommended, all, jsx-runtime
+- **+** Many rules, several with --fix autofix or editor suggestions
+- **+** Shared settings detect React version and handle wrappers like Mobx observer
+- **+** MIT licensed; installs as one npm dev dependency alongside eslint
+- **−** Not an AI tool; it fits this list's categories only loosely
+- **−** Many JSX formatting rules overlap with dedicated formatters
+- **−** Last tagged release is 2025-04-03, well behind recent commits
+- **−** Presets do not set files or globals, so manual config is needed
+
+<sub>no GPU · Needs eslint, npm · [Repo](https://github.com/jsx-eslint/eslint-plugin-react) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eslint-plugin-react/)</sub>
+
 <a name="codegpt"></a>
-### #&#8288;36 [codegpt](https://github.com/appleboy/codegpt) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
+### #&#8288;36 [codegpt](https://github.com/appleboy/codegpt) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
 
 **Go CLI that writes git commit messages and code reviews from diffs.**
 
@@ -720,7 +720,7 @@ Shippie runs an agent loop on the flue framework and pi that reads a diff, explo
 <sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
 <a name="gentleman-guardian-angel"></a>
-### #&#8288;41 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (5) · Freshness: active (91) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Jul 2026</sub>
+### #&#8288;41 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (6) · Freshness: active (91) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
 
 **Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
 
