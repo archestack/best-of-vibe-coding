@@ -76,7 +76,7 @@ Wasmer is a Rust WebAssembly runtime with a CLI that downloads packages from a r
 <sub>Rust · [Repo](https://github.com/wasmerio/wasmer) · [▶️ Demo ↗](https://wasmer.sh) · [📖 Docs ↗](https://docs.wasmer.io) · [🌐 Site ↗](https://wasmer.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wasmer/)</sub>
 
 <a name="e2b"></a>
-### #&#8288;5 [e2b](https://github.com/e2b-dev/e2b) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;5 [e2b](https://github.com/e2b-dev/e2b) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
 
 **SDKs for running AI-generated code in isolated cloud sandboxes.**
 
@@ -111,7 +111,7 @@ Appsmith is a low-code platform for building internal tools such as dashboards, 
 <sub>TypeScript · Docker · env example file · [Repo](https://github.com/appsmithorg/appsmith) · [📖 Docs ↗](https://docs.appsmith.com) · [🌐 Site ↗](https://www.appsmith.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appsmith/)</sub>
 
 <a name="open-slide"></a>
-### #&#8288;7 [open-slide](https://github.com/open-slide/open-slide) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (62) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · MIT · Oct 2026</sub>
+### #&#8288;7 [open-slide](https://github.com/open-slide/open-slide) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (61) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · MIT · Oct 2026</sub>
 
 **React slide deck framework that coding agents write and edit.**
 
@@ -147,7 +147,7 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
 
 <a name="magic"></a>
-### #&#8288;9 [magic](https://github.com/polterguy/magic) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;9 [magic](https://github.com/polterguy/magic) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Self-hosted backend generator that builds secured APIs and apps from plain English.**
 
@@ -183,7 +183,7 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
 
 <a name="runtime"></a>
-### #&#8288;11 [runtime](https://github.com/e2b-dev/runtime) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;11 [runtime](https://github.com/e2b-dev/runtime) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
 
 **Firecracker microVM sandbox backend for running untrusted AI agent code.**
 
@@ -219,7 +219,7 @@ Next.js app where you describe a React app in chat and an LLM generates and edit
 <sub>TypeScript, Gemini, Anthropic, OpenAI, Groq · Needs Firecrawl API, Vercel Sandbox or E2B, Morph (optional) · env example file · [Repo](https://github.com/firecrawl/open-lovable) · [🌐 Site ↗](https://firecrawl.dev/?ref=open-lovable-github) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-lovable/)</sub>
 
 <a name="llamacoder"></a>
-### #&#8288;13 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Oct 2026</sub>
+### #&#8288;13 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Oct 2026</sub>
 
 **Next.js app that turns one prompt into a small React app.**
 
@@ -272,7 +272,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="codesandbox-client"></a>
-### #&#8288;16 [codesandbox-client](https://github.com/codesandbox/codesandbox-client) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (71) · Freshness: recent (70) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Sep 2026</sub>
+### #&#8288;16 [codesandbox-client](https://github.com/codesandbox/codesandbox-client) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (70) · Freshness: recent (70) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Sep 2026</sub>
 
 **Browser-based online IDE client for web development and prototyping.**
 

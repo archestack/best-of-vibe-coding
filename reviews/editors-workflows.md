@@ -58,7 +58,7 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="plate"></a>
-### #&#8288;4 [plate](https://github.com/udecode/plate) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
+### #&#8288;4 [plate](https://github.com/udecode/plate) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
 
 **Rich-text editor framework for React built on Slate, with plugins and AI.**
 
@@ -127,7 +127,7 @@ Next.js 16 template with the Plate editor, shadcn/ui and the Plate AI kit (insta
 <sub>TypeScript, Vercel AI Gateway via AI SDK · Needs UploadThing token, Vercel AI Gateway key (user-supplied) · GitHub template · env example file · [Repo](https://github.com/udecode/plate-playground-template) · [📖 Docs ↗](https://platejs.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate-playground-template/)</sub>
 
 <a name="workflow-builder-template"></a>
-### #&#8288;8 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;8 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Visual AI workflow builder on Workflow DevKit with real integrations.**
 
@@ -163,7 +163,7 @@ A Nuxt and Nuxt UI starter that wraps TipTap in a Notion-style WYSIWYG editor wi
 <sub>TypeScript, Any model via Vercel AI Gateway · Needs Vercel AI Gateway (optional), NuxtHub Blob (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;10 [tersa](https://github.com/vercel-labs/tersa) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (14) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;10 [tersa](https://github.com/vercel-labs/tersa) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (15) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 
