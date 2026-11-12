@@ -131,7 +131,7 @@ FastAPI service that fetches posts, authors, comments, sounds, hashtags, live ro
 <sub>Python, FunASR ONNX (Paraformer, FSMN-VAD, CT-Transformer) · Needs PostgreSQL, Redis, CloakBrowser (headless, container), FunASR ONNX models (optional) · Docker · env example file · [Repo](https://github.com/evil0ctal/douyin_tiktok_download_api) · [▶️ Demo ↗](https://demo.douyin.wtf) · [📖 Docs ↗](https://douyin.wtf) · [🌐 Site ↗](https://douyin.wtf) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/douyin-tiktok-download-api/)</sub>
 
 <a name="gf"></a>
-### #&#8288;8 [gf](https://github.com/gogf/gf) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
+### #&#8288;8 [gf](https://github.com/gogf/gf) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
 
 **Modular Go application framework with an HTTP server and CLI scaffolding.**
 
@@ -183,26 +183,8 @@ Goa takes a service contract written in a Go DSL and generates server and client
 
 <sub>Go · Needs Go 1.27.3+, protoc (for gRPC and JSON-RPC example) · [Repo](https://github.com/goadesign/goa) · [📖 Docs ↗](https://goa.design/docs/1-goa/) · [🌐 Site ↗](https://goa.design) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goa/)</sub>
 
-<a name="midway"></a>
-### #&#8288;11 [midway](https://github.com/midwayjs/midway) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
-
-**TypeScript Node.js framework using decorators and dependency injection.**
-
-Midway is a Node.js framework written in TypeScript that uses decorators and dependency injection to build web apps, microservices, serverless/FaaS functions and mini-program backends. It runs on Koa, Express or Egg.js and also supports Socket.io, gRPC, Dubbo.js and RabbitMQ. It is a general backend framework with no AI-specific features in the README.
-
-- **+** Runs on Koa, Express or Egg.js and can reuse plugins from those ecosystems
-- **+** Deploys to regular servers or serverless/FaaS (AWS, Alibaba Cloud, Tencent Cloud)
-- **+** Covers HTTP, Socket.io, gRPC, Dubbo.js and RabbitMQ in one framework
-- **+** Project scaffold via npm init midway; MIT licensed
-- **−** No LLM, agent or model-serving features; a generic backend framework
-- **−** README and community channels are mainly in Chinese
-- **−** Decorator and dependency-injection style adds a learning curve over plain Koa or Express
-- **−** Full-stack hooks mode ties the frontend to @midwayjs/hooks
-
-<sub>TypeScript · Needs Node.js · [Repo](https://github.com/midwayjs/midway) · [🌐 Site ↗](https://midwayjs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/midway/)</sub>
-
 <a name="full-stack-fastapi-template"></a>
-### #&#8288;12 [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>
+### #&#8288;11 [full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>
 
 **FastAPI and React starter with JWT auth, PostgreSQL and a generated API client.**
 
@@ -219,26 +201,26 @@ A GitHub template for a full-stack web app: a FastAPI backend using SQLModel and
 
 <sub>TypeScript · Needs PostgreSQL, Docker Compose, Traefik, Mailpit · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/fastapi/full-stack-fastapi-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/full-stack-fastapi-template/)</sub>
 
-<a name="elysia"></a>
-### #&#8288;13 [elysia](https://github.com/elysiajs/elysia) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+<a name="midway"></a>
+### #&#8288;12 [midway](https://github.com/midwayjs/midway) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
-**TypeScript web framework for Bun with end-to-end type safety.**
+**TypeScript Node.js framework using decorators and dependency injection.**
 
-Elysia is a TypeScript HTTP server framework built for the Bun runtime. It focuses on end-to-end type safety, so types flow from server routes to the client. It is a general web framework, not an AI-specific project, and the README gives no AI features, install steps beyond `bun create elysia app`, or specs.
+Midway is a Node.js framework written in TypeScript that uses decorators and dependency injection to build web apps, microservices, serverless/FaaS functions and mini-program backends. It runs on Koa, Express or Egg.js and also supports Socket.io, gRPC, Dubbo.js and RabbitMQ. It is a general backend framework with no AI-specific features in the README.
 
-- **+** End-to-end type safety between server and client, as described in the README
-- **+** Scaffold with `bun create elysia app`
-- **+** MIT licensed with a release on 2026-11-05, so actively maintained
-- **+** Documentation site and Discord community available
-- **−** Not an AI project: no model, agent or LLM integration in the README
-- **−** Built around Bun; Node.js support not described in the README
-- **−** README is minimal, with no API examples or benchmarks inline
-- **−** No Docker or compose files in the repository
+- **+** Runs on Koa, Express or Egg.js and can reuse plugins from those ecosystems
+- **+** Deploys to regular servers or serverless/FaaS (AWS, Alibaba Cloud, Tencent Cloud)
+- **+** Covers HTTP, Socket.io, gRPC, Dubbo.js and RabbitMQ in one framework
+- **+** Project scaffold via npm init midway; MIT licensed
+- **−** No LLM, agent or model-serving features; a generic backend framework
+- **−** README and community channels are mainly in Chinese
+- **−** Decorator and dependency-injection style adds a learning curve over plain Koa or Express
+- **−** Full-stack hooks mode ties the frontend to @midwayjs/hooks
 
-<sub>TypeScript · Needs Bun · [Repo](https://github.com/elysiajs/elysia) · [📖 Docs ↗](https://elysiajs.com) · [🌐 Site ↗](https://elysiajs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elysia/)</sub>
+<sub>TypeScript · Needs Node.js · [Repo](https://github.com/midwayjs/midway) · [🌐 Site ↗](https://midwayjs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/midway/)</sub>
 
 <a name="chi"></a>
-### #&#8288;14 [chi](https://github.com/go-chi/chi) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
+### #&#8288;13 [chi](https://github.com/go-chi/chi) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
 
 **Composable HTTP router for Go REST services, built on net/http.**
 
@@ -256,7 +238,7 @@ chi is a Go router built on a Patricia radix trie, with a core under 1000 LOC an
 <sub>Go · [Repo](https://github.com/go-chi/chi) · [📖 Docs ↗](https://pkg.go.dev/github.com/go-chi/chi/v5) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chi/)</sub>
 
 <a name="gofr"></a>
-### #&#8288;15 [gofr](https://github.com/gofr-dev/gofr) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;14 [gofr](https://github.com/gofr-dev/gofr) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Go microservice framework with built-in observability, gRPC, Pub/Sub and LLM hooks.**
 
@@ -273,8 +255,26 @@ GoFr is a Go framework for building HTTP and gRPC microservices, with logs, trac
 
 <sub>Go, OpenAI, Groq, DeepSeek, Together · Needs Go 1.26+ · Docker · [Repo](https://github.com/gofr-dev/gofr) · [📖 Docs ↗](https://gofr.dev/docs) · [🌐 Site ↗](https://gofr.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gofr/)</sub>
 
+<a name="elysia"></a>
+### #&#8288;15 [elysia](https://github.com/elysiajs/elysia) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+
+**TypeScript web framework for Bun with end-to-end type safety.**
+
+Elysia is a TypeScript HTTP server framework built for the Bun runtime. It focuses on end-to-end type safety, so types flow from server routes to the client. It is a general web framework, not an AI-specific project, and the README gives no AI features, install steps beyond `bun create elysia app`, or specs.
+
+- **+** End-to-end type safety between server and client, as described in the README
+- **+** Scaffold with `bun create elysia app`
+- **+** MIT licensed with a release on 2026-11-05, so actively maintained
+- **+** Documentation site and Discord community available
+- **−** Not an AI project: no model, agent or LLM integration in the README
+- **−** Built around Bun; Node.js support not described in the README
+- **−** README is minimal, with no API examples or benchmarks inline
+- **−** No Docker or compose files in the repository
+
+<sub>TypeScript · Needs Bun · [Repo](https://github.com/elysiajs/elysia) · [📖 Docs ↗](https://elysiajs.com) · [🌐 Site ↗](https://elysiajs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elysia/)</sub>
+
 <a name="falcon"></a>
-### #&#8288;16 [falcon](https://github.com/falconry/falcon) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;16 [falcon](https://github.com/falconry/falcon) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · Apache-2.0 · Nov 2026</sub>
 
 **Minimalist Python ASGI/WSGI framework for building REST APIs and microservices.**
 
@@ -292,7 +292,7 @@ Falcon is a Python web framework for REST APIs that runs on any WSGI or ASGI ser
 <sub>Python · Needs Python 3.9+ or PyPy 3.9+, WSGI server (Gunicorn, uWSGI) or ASGI server (Uvicorn, Granian) · Docker · [Repo](https://github.com/falconry/falcon) · [📖 Docs ↗](https://falcon.readthedocs.io/en/stable) · [🌐 Site ↗](https://falconframework.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/falcon/)</sub>
 
 <a name="django-ninja"></a>
-### #&#8288;17 [django-ninja](https://github.com/vitalik/django-ninja) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · MIT · Nov 2026</sub>
+### #&#8288;17 [django-ninja](https://github.com/vitalik/django-ninja) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · MIT · Nov 2026</sub>
 
 **Type-hint-based REST API framework for Django with OpenAPI docs.**
 
@@ -364,7 +364,7 @@ go-zero is a Go framework for HTTP and RPC services. Its goctl tool generates se
 <sub>Go · Needs Go, goctl · [Repo](https://github.com/zeromicro/go-zero) · [📖 Docs ↗](https://go-zero.dev/) · [🌐 Site ↗](https://go-zero.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-zero/)</sub>
 
 <a name="gqlgen"></a>
-### #&#8288;21 [gqlgen](https://github.com/99designs/gqlgen) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
+### #&#8288;21 [gqlgen](https://github.com/99designs/gqlgen) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
 
 **Schema-first GraphQL server generator for Go with typed resolvers.**
 
@@ -381,26 +381,8 @@ gqlgen is a Go library and code generator that reads a GraphQL schema (SDL) and 
 
 <sub>Go · Needs Go toolchain · [Repo](https://github.com/99designs/gqlgen) · [📖 Docs ↗](https://gqlgen.com/getting-started/) · [🌐 Site ↗](https://gqlgen.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gqlgen/)</sub>
 
-<a name="microservices-demo"></a>
-### #&#8288;22 [microservices-demo](https://github.com/googlecloudplatform/microservices-demo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
-
-**Eleven-service e-commerce demo for Kubernetes, with gRPC between services.**
-
-Online Boutique is a web store (browse, cart, checkout) split into 11 microservices in Go, C#, Node.js, Python and Java that talk over gRPC. Google uses it to demonstrate GKE, Cloud Service Mesh, Spanner, Memorystore, AlloyDB and Gemini. It runs on any Kubernetes cluster and ships a load generator, Kustomize variants and Terraform. AI is limited to an optional Gemini shopping assistant.
-
-- **+** Polyglot services (Go, C#, Node.js, Python, Java) with protobuf definitions in ./protos
-- **+** Kustomize variants and Terraform cover Istio, tracing and other deployment options
-- **+** Built-in Locust load generator imitates realistic shopping flows
-- **+** Runs on any Kubernetes cluster, not only GKE
-- **−** Payment, shipping and email services are mocks, not usable for a real store
-- **−** AI is only an optional Gemini assistant, not a core feature
-- **−** Quickstart targets GKE and needs a Google Cloud project
-- **−** No Docker or Compose setup detected; a Kubernetes cluster is needed
-
-<sub>Go, Gemini · Needs Kubernetes, Redis, Google Cloud (GKE quickstart), Gemini (optional assistant) · [Repo](https://github.com/googlecloudplatform/microservices-demo) · [📖 Docs ↗](https://github.com/GoogleCloudPlatform/microservices-demo/blob/main/docs/development-guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/microservices-demo/)</sub>
-
 <a name="full-stack-ai-agent-template"></a>
-### #&#8288;23 [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;22 [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **Project generator for FastAPI and Next.js apps with agents and RAG.**
 
@@ -417,8 +399,26 @@ CLI (pip install fastapi-fullstack) scaffolding a FastAPI backend and Next.js fr
 
 <sub>Python, Pydantic AI, Pydantic Deep Agents, LangChain, LangGraph · Needs PostgreSQL, Redis (optional), Milvus, Qdrant, pgvector or ChromaDB (RAG), Stripe (billing), LLM provider API key · [Repo](https://github.com/vstorm-co/full-stack-ai-agent-template) · [📖 Docs ↗](https://vstorm-co.github.io/full-stack-ai-agent-template/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/full-stack-ai-agent-template/)</sub>
 
+<a name="microservices-demo"></a>
+### #&#8288;23 [microservices-demo](https://github.com/googlecloudplatform/microservices-demo) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Oct 2026</sub>
+
+**Eleven-service e-commerce demo for Kubernetes, with gRPC between services.**
+
+Online Boutique is a web store (browse, cart, checkout) split into 11 microservices in Go, C#, Node.js, Python and Java that talk over gRPC. Google uses it to demonstrate GKE, Cloud Service Mesh, Spanner, Memorystore, AlloyDB and Gemini. It runs on any Kubernetes cluster and ships a load generator, Kustomize variants and Terraform. AI is limited to an optional Gemini shopping assistant.
+
+- **+** Polyglot services (Go, C#, Node.js, Python, Java) with protobuf definitions in ./protos
+- **+** Kustomize variants and Terraform cover Istio, tracing and other deployment options
+- **+** Built-in Locust load generator imitates realistic shopping flows
+- **+** Runs on any Kubernetes cluster, not only GKE
+- **−** Payment, shipping and email services are mocks, not usable for a real store
+- **−** AI is only an optional Gemini assistant, not a core feature
+- **−** Quickstart targets GKE and needs a Google Cloud project
+- **−** No Docker or Compose setup detected; a Kubernetes cluster is needed
+
+<sub>Go, Gemini · Needs Kubernetes, Redis, Google Cloud (GKE quickstart), Gemini (optional assistant) · [Repo](https://github.com/googlecloudplatform/microservices-demo) · [📖 Docs ↗](https://github.com/GoogleCloudPlatform/microservices-demo/blob/main/docs/development-guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/microservices-demo/)</sub>
+
 <a name="go-openai"></a>
-### #&#8288;24 [go-openai](https://github.com/sashabaranov/go-openai) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;24 [go-openai](https://github.com/sashabaranov/go-openai) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Sep 2026</sub>
 
 **Unofficial Go client library for the OpenAI API.**
 
@@ -436,7 +436,7 @@ A Go module that wraps the OpenAI API: Responses (with streaming and previous-re
 <sub>Go, OpenAI GPT-6 and GPT-5 series, GPT-4o, OpenAI-compatible endpoints, Azure OpenAI · Needs OpenAI API key, Go 1.18+ · [Repo](https://github.com/sashabaranov/go-openai) · [📖 Docs ↗](https://pkg.go.dev/github.com/sashabaranov/go-openai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-openai/)</sub>
 
 <a name="litestar"></a>
-### #&#8288;25 [litestar](https://github.com/litestar-org/litestar) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · MIT · Nov 2026</sub>
+### #&#8288;25 [litestar](https://github.com/litestar-org/litestar) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · MIT · Nov 2026</sub>
 
 **Typed Python ASGI framework for building APIs with OpenAPI generation.**
 
@@ -525,7 +525,7 @@ Infrastructure-as-code template, deployed with Azure Developer CLI, that provisi
 <sub>Python, Azure OpenAI · Needs Azure subscription, Microsoft Foundry, Azure OpenAI, Azure AI Search, Azure Developer CLI · GitHub template · [Repo](https://github.com/azure/agent-landing-zone) · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-agent-landing-zone/)</sub>
 
 <a name="chalice"></a>
-### #&#8288;30 [chalice](https://github.com/aws/chalice) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;30 [chalice](https://github.com/aws/chalice) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Oct 2026</sub>
 
 **Python framework for writing and deploying AWS Lambda apps with decorators.**
 
@@ -578,26 +578,8 @@ This repository hosts the `api-platform` installer, a static binary or Composer 
 
 <sub>PHP · Needs PHP, Composer, Symfony, Doctrine ORM · GitHub template · [Repo](https://github.com/api-platform/api-platform) · [📖 Docs ↗](https://api-platform.com/docs/distribution/) · [🌐 Site ↗](https://api-platform.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/api-platform/)</sub>
 
-<a name="hyperf"></a>
-### #&#8288;33 [hyperf](https://github.com/hyperf/hyperf) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Oct 2026</sub>
-
-**Coroutine PHP framework on Swoole or Swow for microservices and web servers.**
-
-Hyperf is a PHP 8.1+ CLI framework that runs on Swoole 5.0+ or Swow 1.4+ coroutine servers instead of PHP-FPM. It combines dependency injection with AOP, annotations and events, and ships coroutine-compatible clients and servers for MySQL, Redis, gRPC, JSON-RPC, WebSocket, AMQP, Consul and ETCD. Core components follow PSR standards and can be used in other frameworks.
-
-- **+** Coroutine servers on Swoole or Swow; README benchmark shows about 103,921 requests/sec on 8 cores
-- **+** Built-in coroutine clients for MySQL, Redis, gRPC, JSON-RPC, RabbitMQ, NSQ, Nats, Consul and ETCD
-- **+** DI container with AOP and annotations makes classes pluggable; components follow PSR standards
-- **+** MIT license with multilingual docs and per-component unit tests
-- **−** Requires the Swoole or Swow extension, so it does not run under plain PHP-FPM
-- **−** No AI or model-serving features; it is a general-purpose backend framework
-- **−** Runs as a long-lived CLI process, so code must be coroutine-safe
-- **−** Benchmark is a single wrk request to the root URL, not a realistic workload
-
-<sub>PHP · Needs PHP 8.1+, Swoole 5.0+ or Swow 1.4+ · [Repo](https://github.com/hyperf/hyperf) · [📖 Docs ↗](https://hyperf.wiki) · [🌐 Site ↗](https://hyperf.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hyperf/)</sub>
-
 <a name="fastapi-langgraph-agent-production-ready-template"></a>
-### #&#8288;34 [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
+### #&#8288;33 [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
 
 **FastAPI backend template for LangGraph agents with memory, auth and tracing.**
 
@@ -613,6 +595,24 @@ A Python backend template that wires a stateful LangGraph agent into FastAPI wit
 - **−** Non-OpenAI providers need extra packages and registry edits
 
 <sub>Python, OpenAI, Anthropic, Ollama, Google GenAI · Needs PostgreSQL, pgvector, Langfuse (optional), Valkey/Redis (optional), Prometheus and Grafana (optional) · Docker · env example file · [Repo](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastapi-langgraph-agent-production-ready-template/)</sub>
+
+<a name="hyperf"></a>
+### #&#8288;34 [hyperf](https://github.com/hyperf/hyperf) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Oct 2026</sub>
+
+**Coroutine PHP framework on Swoole or Swow for microservices and web servers.**
+
+Hyperf is a PHP 8.1+ CLI framework that runs on Swoole 5.0+ or Swow 1.4+ coroutine servers instead of PHP-FPM. It combines dependency injection with AOP, annotations and events, and ships coroutine-compatible clients and servers for MySQL, Redis, gRPC, JSON-RPC, WebSocket, AMQP, Consul and ETCD. Core components follow PSR standards and can be used in other frameworks.
+
+- **+** Coroutine servers on Swoole or Swow; README benchmark shows about 103,921 requests/sec on 8 cores
+- **+** Built-in coroutine clients for MySQL, Redis, gRPC, JSON-RPC, RabbitMQ, NSQ, Nats, Consul and ETCD
+- **+** DI container with AOP and annotations makes classes pluggable; components follow PSR standards
+- **+** MIT license with multilingual docs and per-component unit tests
+- **−** Requires the Swoole or Swow extension, so it does not run under plain PHP-FPM
+- **−** No AI or model-serving features; it is a general-purpose backend framework
+- **−** Runs as a long-lived CLI process, so code must be coroutine-safe
+- **−** Benchmark is a single wrk request to the root URL, not a realistic workload
+
+<sub>PHP · Needs PHP 8.1+, Swoole 5.0+ or Swow 1.4+ · [Repo](https://github.com/hyperf/hyperf) · [📖 Docs ↗](https://hyperf.wiki) · [🌐 Site ↗](https://hyperf.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hyperf/)</sub>
 
 <a name="generative-ai-project-template"></a>
 ### #&#8288;35 [generative-ai-project-template](https://github.com/aminedjeghri/generative-ai-project-template) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Nov 2026</sub>
@@ -741,7 +741,7 @@ Connexion is a Python web framework where the OpenAPI (or Swagger) spec drives t
 <sub>Python · Needs Python, OpenAPI specification, uvicorn (optional), Flask (optional) · [Repo](https://github.com/spec-first/connexion) · [📖 Docs ↗](https://connexion.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/connexion/)</sub>
 
 <a name="jupiter"></a>
-### #&#8288;42 [jupiter](https://github.com/douyu/jupiter) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (41) · Freshness: active (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;42 [jupiter](https://github.com/douyu/jupiter) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (40) · Freshness: active (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Sep 2026</sub>
 
 **Go microservice framework with service governance, CLI scaffolding and a console.**
 
@@ -848,26 +848,8 @@ A reference microservice backend in Go on the go-zero framework. HTTP API servic
 
 <sub>Go · Needs MySQL, Redis, Kafka, Elasticsearch, Docker Compose · [Repo](https://github.com/mikaelemmmm/go-zero-looklook) · [📖 Docs ↗](https://github.com/Mikaelemmmm/go-zero-looklook/tree/main/doc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-zero-looklook/)</sub>
 
-<a name="moderncppstarter"></a>
-### #&#8288;48 [moderncppstarter](https://github.com/thelartians/moderncppstarter) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (48) · Freshness: active (81) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Unlicense · May 2026</sub>
-
-**CMake template for C++ projects with tests, CI, formatting and docs.**
-
-A GitHub template repository for starting a C++ library or executable with a CMake layout already in place. It separates the library, a standalone executable, a test suite and Doxygen documentation into their own CMake subprojects, with GitHub Actions workflows for macOS, Windows and Ubuntu. It has no AI functionality, so it fits the list's categories only loosely.
-
-- **+** Library, standalone, test and docs live in separate CMake subprojects, with an `all` build for IDEs
-- **+** Dependencies are pinned through CPM.cmake, which can fall back to find_package, vcpkg or Conan
-- **+** Optional sanitizers, clang-tidy, iwyu, cppcheck and ccache enabled by CMake flags
-- **+** CI covers macOS, Windows and Ubuntu, with formatting checks, codecov coverage and Doxygen docs on release
-- **−** No AI, model or agent functionality; it is a generic C++ project scaffold
-- **−** Renaming the `Greeter` placeholder across CMakeLists and include paths is a manual step
-- **−** Uses file GLOB for sources, so adding files requires re-running CMake
-- **−** No CPack installer setup; the README says it is out of scope
-
-<sub>CMake · Needs CMake, CPM.cmake, clang-format, cmake-format, Doxygen, codecov · GitHub template · [Repo](https://github.com/thelartians/moderncppstarter) · [📖 Docs ↗](https://thelartians.github.io/ModernCppStarter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/moderncppstarter/)</sub>
-
 <a name="serverless-rag-demo"></a>
-### #&#8288;49 [serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 223 · MIT-0 · Oct 2026</sub>
+### #&#8288;48 [serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 223 · MIT-0 · Oct 2026</sub>
 
 **AWS CDK sample for document RAG chat and multi-agent workflows on Bedrock.**
 
@@ -884,8 +866,26 @@ Deploys a RAG chat app on AWS with one `sh deploy.sh` wizard that runs `cdk depl
 
 <sub>Python, Claude Sonnet 4.6, Claude Opus 4.6, Amazon Titan Embed Text V2 · Needs AWS account, Amazon Bedrock, OpenSearch Serverless NextGen, Bedrock AgentCore, Amazon Cognito, CloudFront, S3, Docker, AWS CDK CLI · Docker · [Repo](https://github.com/aws-samples/serverless-rag-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-rag-demo/)</sub>
 
+<a name="moderncppstarter"></a>
+### #&#8288;49 [moderncppstarter](https://github.com/thelartians/moderncppstarter) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (48) · Freshness: active (81) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Unlicense · May 2026</sub>
+
+**CMake template for C++ projects with tests, CI, formatting and docs.**
+
+A GitHub template repository for starting a C++ library or executable with a CMake layout already in place. It separates the library, a standalone executable, a test suite and Doxygen documentation into their own CMake subprojects, with GitHub Actions workflows for macOS, Windows and Ubuntu. It has no AI functionality, so it fits the list's categories only loosely.
+
+- **+** Library, standalone, test and docs live in separate CMake subprojects, with an `all` build for IDEs
+- **+** Dependencies are pinned through CPM.cmake, which can fall back to find_package, vcpkg or Conan
+- **+** Optional sanitizers, clang-tidy, iwyu, cppcheck and ccache enabled by CMake flags
+- **+** CI covers macOS, Windows and Ubuntu, with formatting checks, codecov coverage and Doxygen docs on release
+- **−** No AI, model or agent functionality; it is a generic C++ project scaffold
+- **−** Renaming the `Greeter` placeholder across CMakeLists and include paths is a manual step
+- **−** Uses file GLOB for sources, so adding files requires re-running CMake
+- **−** No CPack installer setup; the README says it is out of scope
+
+<sub>CMake · Needs CMake, CPM.cmake, clang-format, cmake-format, Doxygen, codecov · GitHub template · [Repo](https://github.com/thelartians/moderncppstarter) · [📖 Docs ↗](https://thelartians.github.io/ModernCppStarter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/moderncppstarter/)</sub>
+
 <a name="nunu"></a>
-### #&#8288;50 [nunu](https://github.com/go-nunu/nunu) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
+### #&#8288;50 [nunu](https://github.com/go-nunu/nunu) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
 
 **Go CLI that scaffolds layered Gin and Gorm projects with Wire injection.**
 
@@ -903,7 +903,7 @@ Nunu is a Go CLI that generates a project from a template repo (basic, advanced 
 <sub>Go · Needs Go 1.25.8+, Git, MySQL 5.7+ (optional), Redis (optional), Docker (optional) · [Repo](https://github.com/go-nunu/nunu) · [📖 Docs ↗](https://github.com/go-nunu/nunu/blob/main/docs/en/guide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nunu/)</sub>
 
 <a name="openai-chat-vision-quickstart"></a>
-### #&#8288;51 [openai-chat-vision-quickstart](https://github.com/azure-samples/openai-chat-vision-quickstart) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 223 · MIT · Oct 2026</sub>
+### #&#8288;51 [openai-chat-vision-quickstart](https://github.com/azure-samples/openai-chat-vision-quickstart) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 223 · MIT · Oct 2026</sub>
 
 **Quart chat app that answers questions about uploaded images via Azure OpenAI.**
 

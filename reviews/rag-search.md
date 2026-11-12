@@ -41,7 +41,7 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
 <a name="sonic"></a>
-### 🥉 [sonic](https://github.com/valeriansaliou/sonic) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MPL-2.0 · Oct 2026</sub>
+### 🥉 [sonic](https://github.com/valeriansaliou/sonic) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MPL-2.0 · Oct 2026</sub>
 
 **Lightweight schema-less search index that returns object IDs, written in Rust.**
 
@@ -76,7 +76,7 @@ QMD indexes markdown notes, transcripts and docs into a SQLite store and searche
 <sub>TypeScript, GGUF, qwen3-reranker · Needs Node.js or Bun, node-llama-cpp, SQLite · [Repo](https://github.com/tobi/qmd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qmd/)</sub>
 
 <a name="paradedb"></a>
-### #&#8288;5 [paradedb](https://github.com/paradedb/paradedb) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [paradedb](https://github.com/paradedb/paradedb) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
 
 **Postgres extension adding BM25 full-text, vector and hybrid search.**
 
@@ -94,7 +94,7 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
 <a name="xberg"></a>
-### #&#8288;6 [xberg](https://github.com/xberg-io/xberg) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (70) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
+### #&#8288;6 [xberg](https://github.com/xberg-io/xberg) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
 
 **Rust document extraction engine with OCR, tables and 15 language bindings.**
 
@@ -112,7 +112,7 @@ Xberg is a Rust engine that detects and reads 107 document formats (PDF, Office,
 <sub>Rust, Whisper ONNX (tiny to large-v3), PaddleOCR, PP-DocLayout-V3, RT-DETR · Needs Tesseract (optional OCR backend), Ollama, LM Studio, vLLM or hosted LLM (structured extraction) · [Repo](https://github.com/xberg-io/xberg) · [▶️ Demo ↗](https://docs.xberg.io/demo.html) · [📖 Docs ↗](https://docs.xberg.io) · [🌐 Site ↗](https://xberg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xberg/)</sub>
 
 <a name="azure-search-openai-demo"></a>
-### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
 
@@ -166,7 +166,7 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
 <a name="supabaseauthwithssr"></a>
-### #&#8288;10 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 399 · MIT · Oct 2026</sub>
+### #&#8288;10 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 399 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -184,7 +184,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="rag-api"></a>
-### #&#8288;11 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 926 · MIT · Sep 2026</sub>
+### #&#8288;11 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 926 · MIT · Sep 2026</sub>
 
 **FastAPI service for per-file document embedding and retrieval on pgvector.**
 
@@ -202,7 +202,7 @@ Async FastAPI and Langchain service that ingests documents, embeds them under a 
 <sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
 
 <a name="orama"></a>
-### #&#8288;12 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (74) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+### #&#8288;12 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (73) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
 
 **In-process full-text, vector and hybrid search library for JavaScript.**
 
@@ -272,7 +272,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;16 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: popular (51) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;16 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (51) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -306,7 +306,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;18 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (10) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 331 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;18 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (9) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 331 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

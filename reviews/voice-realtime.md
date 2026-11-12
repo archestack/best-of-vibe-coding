@@ -58,7 +58,7 @@ JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` p
 <sub>Python, Claude (Sonnet by default, via Claude Code) · Needs Claude Code CLI 2.1.224+ (logged in), Fish Audio API key, Google Chrome, Python 3.11+, Node.js 18+, Playwright Chromium, OpenSSL (self-signed certs) · env example file · [Repo](https://github.com/ethanplusai/jarvis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jarvis/)</sub>
 
 <a name="pipecat-examples"></a>
-### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 407 · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 407 · BSD-2-Clause · Nov 2026</sub>
 
 **Intermediate and advanced example bots built on the Pipecat voice framework.**
 
@@ -304,7 +304,7 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
 
 <a name="live-api-web-console"></a>
-### #&#8288;18 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: popular (57) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
+### #&#8288;18 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: popular (58) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
 
 **React console for streaming audio and video to the Gemini Live API.**
 
