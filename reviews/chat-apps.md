@@ -4,8 +4,26 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 
 <sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
+<a name="chat-js"></a>
+### 🥇 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+
+**Next.js AI chat app scaffold with auth, branching and sharing.**
+
+ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, which asks for gateway, feature and auth choices and writes a `chat.config.ts`. It uses the AI SDK with Vercel AI Gateway for 120+ models, Better Auth, Drizzle on PostgreSQL, and the EVE runtime for durable conversations and approvals. Chat features include attachments, branching, public sharing, web search, image generation, code execution and MCP.
+
+- **+** Scaffold CLI generates chat.config.ts and lists env vars for the chosen options
+- **+** Covers branching, public sharing, attachments, MCP and sandboxed code execution
+- **+** EVE runtime provides durable transcripts, approvals and stream recovery
+- **+** Optional Electron packaging for macOS, Windows and Linux desktop apps
+- **−** CLI is alpha and its APIs are still changing; no stable 1.0 yet
+- **−** README says the EVE-only runtime is not yet established as production-ready
+- **−** Historical ChatJS conversations are not imported into the EVE runtime
+- **−** Built around Vercel AI Gateway and Blob; needs PostgreSQL and Node 24+
+
+<sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
+
 <a name="claude-quickstarts"></a>
-### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
+### 🥈 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
 
 **Claude API sample apps for agents, computer use and browser automation.**
 
@@ -23,7 +41,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="vercel-chatbot"></a>
-### 🥈 [chatbot](https://github.com/vercel/chatbot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [chatbot](https://github.com/vercel/chatbot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js chat template with Auth.js, Postgres history and AI Gateway models.**
 
@@ -38,24 +56,6 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 - **−** No Docker or compose files
 
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
-
-<a name="chat-js"></a>
-### 🥉 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (31) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
-
-**Next.js AI chat app scaffold with auth, branching and sharing.**
-
-ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, which asks for gateway, feature and auth choices and writes a `chat.config.ts`. It uses the AI SDK with Vercel AI Gateway for 120+ models, Better Auth, Drizzle on PostgreSQL, and the EVE runtime for durable conversations and approvals. Chat features include attachments, branching, public sharing, web search, image generation, code execution and MCP.
-
-- **+** Scaffold CLI generates chat.config.ts and lists env vars for the chosen options
-- **+** Covers branching, public sharing, attachments, MCP and sandboxed code execution
-- **+** EVE runtime provides durable transcripts, approvals and stream recovery
-- **+** Optional Electron packaging for macOS, Windows and Linux desktop apps
-- **−** CLI is alpha and its APIs are still changing; no stable 1.0 yet
-- **−** README says the EVE-only runtime is not yet established as production-ready
-- **−** Historical ChatJS conversations are not imported into the EVE runtime
-- **−** Built around Vercel AI Gateway and Blob; needs PostgreSQL and Node 24+
-
-<sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
 <a name="langchain-nextjs-template"></a>
 ### #&#8288;4 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>

@@ -22,26 +22,8 @@ LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, device
 
 <sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
 
-<a name="jarvis"></a>
-### 🥈 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (38) · Freshness: active (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 964 · custom license · Sep 2026</sub>
-
-**Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
-
-JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` process on your own subscription brainstorms a design with you, writes it to a spec file in the project, then starts Claude Code runs that plan, review and execute it. It also watches every Claude Code session on the machine and says aloud which ones are waiting on you. Runs are logged in SQLite and shown on a local dashboard.
-
-- **+** Runs on the Claude subscription login; strips ANTHROPIC_* env vars so no API key is billed
-- **+** Watches all local Claude Code sessions and can answer a Terminal permission prompt
-- **+** Every run is recorded in SQLite with prompt, status, tokens and events; six-tab dashboard
-- **+** Extra tools via any MCP server in connections.json; other MCP configs are ignored
-- **−** macOS only; terminal control, screenshots and notifications depend on AppleScript
-- **−** Requires Chrome for Web Speech API; no server-side transcription fallback
-- **−** Fish Audio API key is required; without it replies appear only as text
-- **−** Spawned runs use --dangerously-skip-permissions by default, with full privileges on your machine
-
-<sub>Python, Claude (Sonnet by default, via Claude Code) · Needs Claude Code CLI 2.1.224+ (logged in), Fish Audio API key, Google Chrome, Python 3.11+, Node.js 18+, Playwright Chromium, OpenSSL (self-signed certs) · [Repo](https://github.com/ethanplusai/jarvis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jarvis/)</sub>
-
 <a name="voice-ui-kit"></a>
-### 🥉 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
+### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
 
 **React components and templates for Pipecat voice agent frontends.**
 
@@ -56,6 +38,24 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 - **−** No auth or persistence
 
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
+
+<a name="jarvis"></a>
+### 🥉 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 978 · custom license · Sep 2026</sub>
+
+**Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
+
+JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` process on your own subscription brainstorms a design with you, writes it to a spec file in the project, then starts Claude Code runs that plan, review and execute it. It also watches every Claude Code session on the machine and says aloud which ones are waiting on you. Runs are logged in SQLite and shown on a local dashboard.
+
+- **+** Runs on the Claude subscription login; strips ANTHROPIC_* env vars so no API key is billed
+- **+** Watches all local Claude Code sessions and can answer a Terminal permission prompt
+- **+** Every run is recorded in SQLite with prompt, status, tokens and events; six-tab dashboard
+- **+** Extra tools via any MCP server in connections.json; other MCP configs are ignored
+- **−** macOS only; terminal control, screenshots and notifications depend on AppleScript
+- **−** Requires Chrome for Web Speech API; no server-side transcription fallback
+- **−** Fish Audio API key is required; without it replies appear only as text
+- **−** Spawned runs use --dangerously-skip-permissions by default, with full privileges on your machine
+
+<sub>Python, Claude (Sonnet by default, via Claude Code) · Needs Claude Code CLI 2.1.224+ (logged in), Fish Audio API key, Google Chrome, Python 3.11+, Node.js 18+, Playwright Chromium, OpenSSL (self-signed certs) · env example file · [Repo](https://github.com/ethanplusai/jarvis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jarvis/)</sub>
 
 <a name="pipecat-examples"></a>
 ### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 407 · BSD-2-Clause · Nov 2026</sub>
@@ -94,7 +94,7 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="agent-starter-react"></a>
-### #&#8288;6 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Oct 2026</sub>
+### #&#8288;6 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Oct 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
@@ -129,7 +129,7 @@ A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud
 <sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
 
 <a name="agent-starter-android"></a>
-### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
+### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
 
 **Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
 
