@@ -94,7 +94,7 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
 <a name="appsmith"></a>
-### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
 
 **Low-code builder for internal dashboards and admin panels on your own data.**
 
@@ -128,26 +128,8 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
 
-<a name="vibesdk"></a>
-### #&#8288;8 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (47) · Freshness: active (92) · Maintenance: fair (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
-
-**Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
-
-Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Object per project, keeps files in a SpaceDO workspace, stores git history in Cloudflare Artifacts, loads previews as Dynamic Workers and gives each generated app SQLite via Durable Object Facets. Models route through AI Gateway; D1 holds platform data. Needs a Workers Paid plan, Workers for Platforms and a custom domain with wildcard DNS.
-
-- **+** Previews load as Dynamic Workers; no long-running dev server
-- **+** Restore points and rollback via Cloudflare Artifacts
-- **+** bun run setup provisions resources, AI Gateway, auth and migrations
-- **+** Bash is disabled in the agent; tool boundaries are explicit
-- **−** Requires Workers Paid plan, Workers for Platforms and wildcard DNS for previews
-- **−** Entirely Cloudflare-specific; nothing is portable to other hosts
-- **−** Feature toggles live in the dashboard, not in wrangler.jsonc
-- **−** Long setup guide with several API token permissions to get right
-
-<sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
-
 <a name="magic"></a>
-### #&#8288;9 [magic](https://github.com/polterguy/magic) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;8 [magic](https://github.com/polterguy/magic) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Self-hosted backend generator that builds secured APIs and apps from plain English.**
 
@@ -163,6 +145,24 @@ Magic Cloudlet is a .NET 10 backend with a React dashboard. It generates databas
 - **−** Default login is root/root; the benchmark is single-machine and not independently replicated
 
 <sub>C#, OpenAI, Ollama, HuggingFace · Needs OpenAI API key (default), Docker Compose, SQLite · README: alternative to Cursor, Lovable, Replit · [Repo](https://github.com/polterguy/magic) · [📖 Docs ↗](https://docs.ainiro.io/getting-started/) · [🌐 Site ↗](https://hyperlambda.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/magic/)</sub>
+
+<a name="vibesdk"></a>
+### #&#8288;9 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (47) · Freshness: active (92) · Maintenance: patchy (49) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
+
+**Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
+
+Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Object per project, keeps files in a SpaceDO workspace, stores git history in Cloudflare Artifacts, loads previews as Dynamic Workers and gives each generated app SQLite via Durable Object Facets. Models route through AI Gateway; D1 holds platform data. Needs a Workers Paid plan, Workers for Platforms and a custom domain with wildcard DNS.
+
+- **+** Previews load as Dynamic Workers; no long-running dev server
+- **+** Restore points and rollback via Cloudflare Artifacts
+- **+** bun run setup provisions resources, AI Gateway, auth and migrations
+- **+** Bash is disabled in the agent; tool boundaries are explicit
+- **−** Requires Workers Paid plan, Workers for Platforms and wildcard DNS for previews
+- **−** Entirely Cloudflare-specific; nothing is portable to other hosts
+- **−** Feature toggles live in the dashboard, not in wrangler.jsonc
+- **−** Long setup guide with several API token permissions to get right
+
+<sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
 
 <a name="runtime"></a>
 ### #&#8288;10 [runtime](https://github.com/e2b-dev/runtime) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
@@ -182,25 +182,8 @@ Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Fir
 
 <sub>Go · Needs Linux with KVM, Firecracker, PostgreSQL, Redis, ClickHouse, Object storage, Docker Compose (Embed) · [Repo](https://github.com/e2b-dev/runtime) · [📖 Docs ↗](https://docs.e2b.dev/) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/runtime/)</sub>
 
-<a name="llamacoder"></a>
-### #&#8288;11 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Oct 2026</sub>
-
-**Next.js app that turns one prompt into a small React app.**
-
-Llama Coder sends a text prompt to Llama 3.1 405B through Together AI and renders the generated app in a sandboxed iframe using esbuild-wasm and esm.sh. It is a Next.js app router project with Tailwind, Prisma on PostgreSQL, and optional screenshot uploads to S3.
-
-- **+** In-browser preview via esbuild-wasm and esm.sh in a sandboxed iframe
-- **+** MIT license, plain Next.js and Tailwind codebase that is easy to fork
-- **+** Optional Braintrust observability and screenshot uploads
-- **−** Requires a Together AI API key; no other LLM providers documented
-- **−** Needs a PostgreSQL database (Neon suggested) even for local runs
-- **−** Screenshot uploads need S3 credentials and a bucket lifecycle rule
-- **−** No Docker setup or release; run from source with npm
-
-<sub>TypeScript, Llama 3.1 405B · Needs Together AI API, PostgreSQL (Neon), Prisma, S3 bucket (screenshot uploads), Braintrust (optional), esm.sh · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [🌐 Site ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
-
 <a name="open-lovable"></a>
-### #&#8288;12 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
+### #&#8288;11 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
 
 **Chat-driven React app builder that clones sites via Firecrawl and runs code in sandboxes.**
 
@@ -216,6 +199,23 @@ Next.js app where you describe a React app in chat and an LLM generates and edit
 - **−** No Dockerfile or compose file, and no tagged releases
 
 <sub>TypeScript, Gemini, Anthropic, OpenAI, Groq · Needs Firecrawl API, Vercel Sandbox or E2B, Morph (optional) · env example file · [Repo](https://github.com/firecrawl/open-lovable) · [🌐 Site ↗](https://firecrawl.dev/?ref=open-lovable-github) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-lovable/)</sub>
+
+<a name="llamacoder"></a>
+### #&#8288;12 [llamacoder](https://github.com/nutlope/llamacoder) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Oct 2026</sub>
+
+**Next.js app that turns one prompt into a small React app.**
+
+Llama Coder sends a text prompt to Llama 3.1 405B through Together AI and renders the generated app in a sandboxed iframe using esbuild-wasm and esm.sh. It is a Next.js app router project with Tailwind, Prisma on PostgreSQL, and optional screenshot uploads to S3.
+
+- **+** In-browser preview via esbuild-wasm and esm.sh in a sandboxed iframe
+- **+** MIT license, plain Next.js and Tailwind codebase that is easy to fork
+- **+** Optional Braintrust observability and screenshot uploads
+- **−** Requires a Together AI API key; no other LLM providers documented
+- **−** Needs a PostgreSQL database (Neon suggested) even for local runs
+- **−** Screenshot uploads need S3 credentials and a bucket lifecycle rule
+- **−** No Docker setup or release; run from source with npm
+
+<sub>TypeScript, Llama 3.1 405B · Needs Together AI API, PostgreSQL (Neon), Prisma, S3 bucket (screenshot uploads), Braintrust (optional), esm.sh · [Repo](https://github.com/nutlope/llamacoder) · [▶️ Demo ↗](https://www.llamacoder.io) · [🌐 Site ↗](https://www.llamacoder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llamacoder/)</sub>
 
 <a name="fragments"></a>
 ### #&#8288;13 [fragments](https://github.com/e2b-dev/fragments) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>

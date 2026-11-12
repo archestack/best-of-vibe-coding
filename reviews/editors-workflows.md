@@ -145,7 +145,7 @@ A Nuxt and Nuxt UI starter that wraps TipTap in a Notion-style WYSIWYG editor wi
 <sub>TypeScript, Any model via Vercel AI Gateway · Needs Vercel AI Gateway (optional), NuxtHub Blob (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;9 [tersa](https://github.com/vercel-labs/tersa) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (16) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;9 [tersa](https://github.com/vercel-labs/tersa) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (15) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 

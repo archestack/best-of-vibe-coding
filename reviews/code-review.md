@@ -467,26 +467,8 @@ Crit is a single Go binary that opens a local browser review UI for markdown pla
 
 <sub>no GPU · Needs git, gh (GitHub PR sync), glab (GitLab MR sync), a coding agent CLI · [Repo](https://github.com/tomasz-tomczyk/crit) · [🌐 Site ↗](https://crit.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/crit/)</sub>
 
-<a name="memlab"></a>
-### #&#8288;27 [memlab](https://github.com/meta/memlab) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (42) · Freshness: active (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
-
-**JavaScript memory leak finder using Puppeteer scenarios and heap snapshot analysis.**
-
-memlab runs a Puppeteer scenario against a web page, compares V8 heap snapshots before and after an action, and prints retainer traces for leaked objects. It also offers a heap traversal API, a CLI for analyzing .heapsnapshot files from Chromium, Node.js, Electron and Hermes, and Node.js memory assertions for unit tests. An MCP server and four agent skills let coding assistants investigate snapshots.
-
-- **+** Retainer traces show the reference chain from GC root to each leaked object
-- **+** Reads heap snapshots from Chromium, Node.js, Electron and Hermes
-- **+** Memory assertions run inside Jest-style unit tests and CI
-- **+** Custom leak detectors via a leakFilter callback in the scenario file
-- **−** Readable traces require non-minified code or readable names on the site under test
-- **−** Scenarios must be hand-written with the Puppeteer API
-- **−** MCP server suggests an 8 GB Node heap setting for large snapshots
-- **−** No tagged release is listed on the repository
-
-<sub>no GPU · Needs Node.js 16+, Puppeteer · [Repo](https://github.com/meta/memlab) · [📖 Docs ↗](https://meta.github.io/memlab/docs/intro) · [🌐 Site ↗](https://meta.github.io/memlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memlab/)</sub>
-
 <a name="kodus-ai"></a>
-### #&#8288;28 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
+### #&#8288;27 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
 
 **AI pull request reviewer for GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo.**
 
@@ -502,6 +484,24 @@ Kodus reviews pull requests with an LLM you configure (bring your own key for Op
 - **−** Self-hosted instances send a daily anonymous heartbeat unless disabled by environment variable
 
 <sub>RAM ≥ 8 GB · no GPU · Docker + Compose · Needs Docker, LLM provider API key or OpenAI-compatible endpoint · Models: OpenAI, Anthropic, Google Gemini, Vertex AI, Novita · [Repo](https://github.com/kodustech/kodus-ai) · [📖 Docs ↗](https://docs.kodus.io) · [🌐 Site ↗](https://kodus.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kodus-ai/)</sub>
+
+<a name="memlab"></a>
+### #&#8288;28 [memlab](https://github.com/meta/memlab) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+
+**JavaScript memory leak finder using Puppeteer scenarios and heap snapshot analysis.**
+
+memlab runs a Puppeteer scenario against a web page, compares V8 heap snapshots before and after an action, and prints retainer traces for leaked objects. It also offers a heap traversal API, a CLI for analyzing .heapsnapshot files from Chromium, Node.js, Electron and Hermes, and Node.js memory assertions for unit tests. An MCP server and four agent skills let coding assistants investigate snapshots.
+
+- **+** Retainer traces show the reference chain from GC root to each leaked object
+- **+** Reads heap snapshots from Chromium, Node.js, Electron and Hermes
+- **+** Memory assertions run inside Jest-style unit tests and CI
+- **+** Custom leak detectors via a leakFilter callback in the scenario file
+- **−** Readable traces require non-minified code or readable names on the site under test
+- **−** Scenarios must be hand-written with the Puppeteer API
+- **−** MCP server suggests an 8 GB Node heap setting for large snapshots
+- **−** No tagged release is listed on the repository
+
+<sub>no GPU · Needs Node.js 16+, Puppeteer · [Repo](https://github.com/meta/memlab) · [📖 Docs ↗](https://meta.github.io/memlab/docs/intro) · [🌐 Site ↗](https://meta.github.io/memlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memlab/)</sub>
 
 <a name="codediff-nvim"></a>
 ### #&#8288;29 [codediff.nvim](https://github.com/esmuellert/codediff.nvim) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Sep 2026</sub>
@@ -611,26 +611,8 @@ CodeGPT is a Go command-line tool that reads your git diff and generates convent
 
 <sub>no GPU · Docker · Needs git, API key for an LLM provider, or a local Ollama server · Models: OpenAI (gpt-5, gpt-4o, gpt-4), Azure OpenAI, Gemini, Anthropic, Ollama · [Repo](https://github.com/appleboy/codegpt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codegpt/)</sub>
 
-<a name="gentleman-guardian-angel"></a>
-### #&#8288;35 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (4) · Freshness: active (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Jul 2026</sub>
-
-**Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
-
-GGA is a pure Bash CLI that installs a git pre-commit (or commit-msg) hook and sends staged files to an AI provider to check them against coding standards written in AGENTS.md. It supports hosted CLIs and APIs such as Claude, Gemini, Codex and GitHub Models, plus local Ollama and LM Studio. It also offers a CI mode, a full-PR review mode and a cache that skips unchanged files.
-
-- **+** Pure Bash core; installs via Homebrew or install.sh, with no runtime framework
-- **+** Supports 11 providers, including local Ollama and LM Studio
-- **+** Caching skips unchanged files; --pr-mode reviews a whole PR and --ci the last commit
-- **+** Runs on macOS, Linux, Windows (Git Bash) and WSL; 266 tests reported
-- **−** Each provider needs its own CLI or API account installed separately
-- **−** Review quality depends on how well AGENTS.md is written
-- **−** LLM review on every commit adds latency and may send code to third parties
-- **−** On Oh My Zsh, the git plugin's gga alias conflicts and needs unalias
-
-<sub>no GPU · Needs Bash 5.0+, git, an AI provider CLI or API (Claude, Gemini, Codex, Ollama, etc.) · Models: Claude, Gemini, Codex, OpenCode, Cursor Agent · [Repo](https://github.com/gentleman-programming/gentleman-guardian-angel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gentleman-guardian-angel/)</sub>
-
 <a name="ai-codereview-gitlab"></a>
-### #&#8288;36 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;35 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
 
 **LLM reviewer for GitLab merge requests and pushes, with chat notifications.**
 
@@ -648,7 +630,7 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
 
 <a name="chatgpt-codereview"></a>
-### #&#8288;37 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (39) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
+### #&#8288;36 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (39) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
 
 **GitHub bot and Action that reviews pull request diffs with an LLM.**
 
@@ -666,7 +648,7 @@ Probot-based GitHub app that reviews pull requests with OpenAI-compatible models
 <sub>no GPU · Docker · Needs GitHub App or GitHub Actions, OpenAI-compatible API, Azure OpenAI or GitHub Models, Node.js, pm2 (self-hosting) · Models: OpenAI GPT models, Azure OpenAI deployments, GitHub Models · [Repo](https://github.com/anc95/chatgpt-codereview) · [▶️ Demo ↗](https://github.com/apps/cr-gpt) · [📖 Docs ↗](https://github.com/marketplace/actions/chatgpt-codereviewer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-codereview/)</sub>
 
 <a name="run-gemini-cli"></a>
-### #&#8288;38 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (24) · Freshness: active (98) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;37 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (24) · Freshness: active (98) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Aug 2026</sub>
 
 **GitHub Action that runs Gemini CLI for PR review, issue triage and @-mention tasks.**
 
@@ -684,7 +666,7 @@ A GitHub Action that installs and runs Gemini CLI inside workflows. Prebuilt wor
 <sub>no GPU · Needs GitHub Actions, Gemini CLI, Gemini API key or Google Cloud (Vertex AI / Code Assist) · Models: Gemini · [Repo](https://github.com/google-github-actions/run-gemini-cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/run-gemini-cli/)</sub>
 
 <a name="shippie"></a>
-### #&#8288;39 [shippie](https://github.com/mattzcarey/shippie) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (28) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+### #&#8288;38 [shippie](https://github.com/mattzcarey/shippie) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (28) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
 
 **Code-review agent that comments on pull requests and staged diffs.**
 
@@ -701,8 +683,26 @@ Shippie runs an agent loop on the flue framework and pi that reads a diff, explo
 
 <sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
+<a name="gentleman-guardian-angel"></a>
+### #&#8288;39 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (4) · Freshness: active (91) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Jul 2026</sub>
+
+**Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
+
+GGA is a pure Bash CLI that installs a git pre-commit (or commit-msg) hook and sends staged files to an AI provider to check them against coding standards written in AGENTS.md. It supports hosted CLIs and APIs such as Claude, Gemini, Codex and GitHub Models, plus local Ollama and LM Studio. It also offers a CI mode, a full-PR review mode and a cache that skips unchanged files.
+
+- **+** Pure Bash core; installs via Homebrew or install.sh, with no runtime framework
+- **+** Supports 11 providers, including local Ollama and LM Studio
+- **+** Caching skips unchanged files; --pr-mode reviews a whole PR and --ci the last commit
+- **+** Runs on macOS, Linux, Windows (Git Bash) and WSL; 266 tests reported
+- **−** Each provider needs its own CLI or API account installed separately
+- **−** Review quality depends on how well AGENTS.md is written
+- **−** LLM review on every commit adds latency and may send code to third parties
+- **−** On Oh My Zsh, the git plugin's gga alias conflicts and needs unalias
+
+<sub>no GPU · Needs Bash 5.0+, git, an AI provider CLI or API (Claude, Gemini, Codex, Ollama, etc.) · Models: Claude, Gemini, Codex, OpenCode, Cursor Agent · [Repo](https://github.com/gentleman-programming/gentleman-guardian-angel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gentleman-guardian-angel/)</sub>
+
 <a name="claude-code-security-review"></a>
-### #&#8288;40 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (53) · Freshness: slowing (33) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Feb 2026</sub>
+### #&#8288;40 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (53) · Freshness: slowing (33) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Feb 2026</sub>
 
 **GitHub Action that has Claude review pull request diffs for security issues.**
 
