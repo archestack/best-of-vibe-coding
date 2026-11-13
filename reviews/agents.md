@@ -22,7 +22,7 @@ DeepSeek Harness (`dsh`) is a TypeScript agent harness built on the Cordis plugi
 <sub>TypeScript · Needs Node.js, pnpm (source build) · [Repo](https://github.com/deepseek-ai/deepseek-harness) · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-harness/)</sub>
 
 <a name="composio"></a>
-### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **TypeScript and Python SDKs that give agents authenticated tools across 1000+ apps.**
 
@@ -129,7 +129,7 @@ Mirage gives AI agents a single Unix-style shell over mounted services such as S
 <sub>TypeScript · Needs E2B (optional sandbox runtime), Credentials for mounted services (S3, Slack, Gmail) · Docker · env example file · [Repo](https://github.com/strukto-ai/mirage) · [📖 Docs ↗](https://docs.mirage.strukto.ai) · [🌐 Site ↗](https://www.strukto.ai/mirage) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mirage/)</sub>
 
 <a name="agent-autoloop"></a>
-### #&#8288;8 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+### #&#8288;8 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
 
 **Background scheduler that runs CLI agents on events and asks you only when unsure.**
 
@@ -236,7 +236,7 @@ AgentConnect connects agent runtimes such as Claude Code, Codex, Grok Build, Dee
 <sub>TypeScript, Claude Code, Codex, Grok Build, DeepSeek · Needs PostgreSQL, Logto (browser authentication), Jev (agent routing and model selection) · Docker · env example file · [Repo](https://github.com/agentconnect-md/agentconnect) · [▶️ Demo ↗](https://app.agentconnect.md) · [📖 Docs ↗](https://www.agentconnect.md/docs) · [🌐 Site ↗](https://www.agentconnect.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agentconnect/)</sub>
 
 <a name="google-adk-recipes"></a>
-### #&#8288;14 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;14 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Nov 2026</sub>
 
 **Runnable Agent Development Kit recipes, from single patterns to deployable agents.**
 
@@ -414,7 +414,7 @@ A degit-able template for building stateless, remote MCP servers on Node 24.11+ 
 <sub>TypeScript · Needs Node.js 24.11+, Express, Effect, @modelcontextprotocol/server, Vite+ · GitHub template · Docker · [Repo](https://github.com/nickytonline/mcp-typescript-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-typescript-template/)</sub>
 
 <a name="commonly"></a>
-### #&#8288;24 [commonly](https://github.com/team-commonly/commonly) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;24 [commonly](https://github.com/team-commonly/commonly) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Nov 2026</sub>
 
 **Shared team workspace where people and their own agents talk in one pod.**
 
@@ -684,7 +684,7 @@ An eve pipeline named Foreman: label an issue factory, @mention it, or delegate 
 <sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="innovation-lab-examples"></a>
-### #&#8288;39 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Sep 2026</sub>
+### #&#8288;39 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Sep 2026</sub>
 
 **Collection of 80+ runnable Python agent examples built on Fetch.ai uAgents.**
 
@@ -755,7 +755,7 @@ A Python LangGraph graph that takes a research topic and a JSON extraction_schem
 <sub>Jupyter Notebook, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/data-enrichment) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/data-enrichment/)</sub>
 
 <a name="react-agent-js"></a>
-### #&#8288;43 [react-agent-js](https://github.com/langchain-ai/react-agent-js) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 119 · MIT · Nov 2026</sub>
+### #&#8288;43 [react-agent-js](https://github.com/langchain-ai/react-agent-js) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 120 · MIT · Nov 2026</sub>
 
 **TypeScript createAgent starter with example tools and middleware hooks.**
 
@@ -771,7 +771,7 @@ Four TypeScript files: agent.ts builds a LangChain createAgent, tools.ts defines
 <sub>TypeScript, langchain, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent-js/)</sub>
 
 <a name="react-agent"></a>
-### #&#8288;44 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 863 · MIT · Nov 2026</sub>
+### #&#8288;44 [react-agent](https://github.com/langchain-ai/react-agent) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 862 · MIT · Nov 2026</sub>
 
 **Minimal Python LangGraph ReAct agent with Tavily, ready for Studio.**
 

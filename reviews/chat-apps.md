@@ -76,7 +76,7 @@ Five Next.js API routes that each show one LangChain.js pattern: plain chat, Zod
 <sub>TypeScript, openai, langchain, langgraph, ai-sdk · Needs openai-api-key, supabase, tavily-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/langchain-nextjs-template) · [▶️ Demo ↗](https://langchain-nextjs-template.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchain-nextjs-template/)</sub>
 
 <a name="boardui"></a>
-### #&#8288;5 [boardui](https://github.com/boardui/boardui) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
+### #&#8288;5 [boardui](https://github.com/boardui/boardui) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
 
 **React component library for agent UIs, installed as source via CLI.**
 
@@ -228,7 +228,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;14 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (19) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 880 · MIT · Dec 2025</sub>
+### #&#8288;14 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (19) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 881 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

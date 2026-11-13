@@ -76,7 +76,7 @@ Next.js is a React framework for building full-stack web applications, extending
 <sub>JavaScript · Needs React · [Repo](https://github.com/vercel/next.js) · [📖 Docs ↗](https://nextjs.org/docs) · [🌐 Site ↗](https://nextjs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-js/)</sub>
 
 <a name="heroui"></a>
-### #&#8288;5 [heroui](https://github.com/heroui-inc/heroui) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;5 [heroui](https://github.com/heroui-inc/heroui) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · Apache-2.0 · Nov 2026</sub>
 
 **React component library on React Aria and Tailwind CSS v4.**
 
@@ -345,7 +345,7 @@ React Bits is a collection of 215+ animated React components: text effects, curs
 <sub>JavaScript · Needs React, shadcn CLI or jsrepo · [Repo](https://github.com/davidhdev/react-bits) · [▶️ Demo ↗](https://reactbits.dev) · [📖 Docs ↗](https://reactbits.dev/get-started/introduction) · [🌐 Site ↗](https://reactbits.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-bits/)</sub>
 
 <a name="create-better-t-stack"></a>
-### #&#8288;20 [create-better-t-stack](https://github.com/amanvarshney01/create-better-t-stack) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Oct 2026</sub>
+### #&#8288;20 [create-better-t-stack](https://github.com/amanvarshney01/create-better-t-stack) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Oct 2026</sub>
 
 **CLI that scaffolds type-safe TypeScript monorepos from a chosen stack.**
 
@@ -577,26 +577,8 @@ coss ui is the Cal.com design system: accessible React components built on Base 
 
 <sub>TypeScript · Needs Base UI, Tailwind CSS, Next.js, Bun, Turborepo · [Repo](https://github.com/cosscom/ui) · [🌐 Site ↗](https://coss.com/ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cosscom-ui/)</sub>
 
-<a name="exact"></a>
-### #&#8288;33 [exact](https://github.com/expo/exact) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
-
-**Cross-platform app runtime with a declarative UI language and agent test driver.**
-
-Exact compiles UI written in Contract, a small declarative language, into a plan that runs as DOM on the web and as AppKit, UIKit or GPU-painted views on macOS, iOS and Linux, with no webview. Data logic is TypeScript on Hermes or Rust. A ten-operation driver, scripts/agent.mjs, lets a coding agent build, screenshot, tap and test an app on every host. Pre-1.0 with no API stability.
-
-- **+** One app.contract renders natively on web, macOS, iOS and Linux without a webview
-- **+** Same ten driver operations and app.test.contract files run unchanged on every host
-- **+** Agent-controlled clock and machine-readable diagnostics make tests deterministic
-- **+** Reports 99 ms dev rebuilds and a ~20 KB web runtime, measured by the authors
-- **−** Pre-1.0 and changes daily; no API stability or migration guide by design
-- **−** Native hosts need macOS with Xcode 27.1+; first native build takes 10-15 minutes
-- **−** UI must be written in Contract, a new language with little outside tooling
-- **−** TypeScript on native hosts requires installing a pinned Hermes bundle separately
-
-<sub>Rust · Needs Rust (rustup), Bun 1.4.2, Google Chrome, Xcode 27.1+, Hermes bundle · [Repo](https://github.com/expo/exact) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exact/)</sub>
-
 <a name="uni-app"></a>
-### #&#8288;34 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;33 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
 
 **Vue framework that builds app, web and mini-program clients from one codebase.**
 
@@ -612,6 +594,24 @@ uni-app is a Vue.js framework that compiles one codebase to iOS, Android, Harmon
 - **−** Main branch is uni-app x; Vue 2 and Vue 3 versions are on other branches
 
 <sub>JavaScript · [Repo](https://github.com/dcloudio/uni-app) · [📖 Docs ↗](https://doc.dcloud.net.cn/uni-app-x/ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uni-app/)</sub>
+
+<a name="exact"></a>
+### #&#8288;34 [exact](https://github.com/expo/exact) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
+
+**Cross-platform app runtime with a declarative UI language and agent test driver.**
+
+Exact compiles UI written in Contract, a small declarative language, into a plan that runs as DOM on the web and as AppKit, UIKit or GPU-painted views on macOS, iOS and Linux, with no webview. Data logic is TypeScript on Hermes or Rust. A ten-operation driver, scripts/agent.mjs, lets a coding agent build, screenshot, tap and test an app on every host. Pre-1.0 with no API stability.
+
+- **+** One app.contract renders natively on web, macOS, iOS and Linux without a webview
+- **+** Same ten driver operations and app.test.contract files run unchanged on every host
+- **+** Agent-controlled clock and machine-readable diagnostics make tests deterministic
+- **+** Reports 99 ms dev rebuilds and a ~20 KB web runtime, measured by the authors
+- **−** Pre-1.0 and changes daily; no API stability or migration guide by design
+- **−** Native hosts need macOS with Xcode 27.1+; first native build takes 10-15 minutes
+- **−** UI must be written in Contract, a new language with little outside tooling
+- **−** TypeScript on native hosts requires installing a pinned Hermes bundle separately
+
+<sub>Rust · Needs Rust (rustup), Bun 1.4.2, Google Chrome, Xcode 27.1+, Hermes bundle · [Repo](https://github.com/expo/exact) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exact/)</sub>
 
 <a name="next-saas-stripe-starter"></a>
 ### #&#8288;35 [next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Sep 2026</sub>
@@ -775,7 +775,7 @@ Admin dashboard template built on Next.js 16 (App Router), TypeScript, Tailwind 
 <sub>TypeScript · Needs Node.js, npm · [Repo](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) · [▶️ Demo ↗](https://studio-admin.arhamkhnz.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-shadcn-admin-dashboard/)</sub>
 
 <a name="refine"></a>
-### #&#8288;44 [refine](https://github.com/refinedev/refine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (91) · Freshness: active (96) · Maintenance: weak (25) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
+### #&#8288;44 [refine](https://github.com/refinedev/refine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (91) · Freshness: active (96) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
 
 **Headless React framework for admin panels, dashboards and internal tools.**
 
@@ -1008,8 +1008,26 @@ Antd Admin is a set of admin-panel templates built on React 19, Ant Design 6, Ta
 
 <sub>TypeScript · [Repo](https://github.com/zuiidea/antd-admin) · [📖 Docs ↗](https://antd-admin-doc.zuiidea.top) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/antd-admin/)</sub>
 
+<a name="aimeos"></a>
+### #&#8288;57 [aimeos](https://github.com/aimeos/aimeos) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
+
+**Laravel e-commerce shop with admin backend, JSON API and MCP server.**
+
+Aimeos is a PHP e-commerce application built on Laravel, installed with `composer create-project`. It provides a storefront, an admin backend at `/admin`, a JSON:API REST interface, a GraphQL admin API, and multi-vendor, multi-language and subscription support. AI features are limited to text translation and an MCP server that lets agents like Claude manage products, orders and customers.
+
+- **+** Ships storefront, admin backend, JSON:API and GraphQL admin API in one install
+- **+** Built-in MCP endpoint with Sanctum tokens or Passport OAuth for remote clients
+- **+** Multi-vendor, multi-language and subscriptions are toggled through `.env` settings
+- **+** Runs on MySQL, MariaDB, PostgreSQL or SQL Server; MIT and LGPLv3 licensed
+- **−** AI is secondary: MCP server and translation only, not the core of the product
+- **−** Multi-routing adds database queries per request and affects performance
+- **−** SPA or PWA builds need the separate aimeos-headless distribution
+- **−** Install is via composer on a PHP 8.2+ host; no Docker image is mentioned
+
+<sub>JavaScript · Needs PHP >= 8.2, Composer 2.2+, MySQL >= 5.7.8 / MariaDB >= 10.2.2 / PostgreSQL 9.6+ / SQL Server 2019+, Apache or Nginx, Laravel Sanctum (MCP auth), Laravel Passport (optional, OAuth) · env example file · [Repo](https://github.com/aimeos/aimeos) · [▶️ Demo ↗](https://laravel.demo.aimeos.org) · [📖 Docs ↗](https://aimeos.org/docs/latest/laravel) · [🌐 Site ↗](https://aimeos.org/Laravel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aimeos/)</sub>
+
 <a name="start-ui-web"></a>
-### #&#8288;57 [start-ui-web](https://github.com/bearstudio/start-ui-web) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+### #&#8288;58 [start-ui-web](https://github.com/bearstudio/start-ui-web) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
 
 **TanStack Start web app starter with oRPC, Prisma, Better Auth and shadcn/ui.**
 
@@ -1026,7 +1044,7 @@ Full-stack web starter from BearStudio, scaffolded with `pnpm create start-ui -t
 <sub>TypeScript · Needs Node.js >= 22, pnpm, PostgreSQL, Docker, S3-compatible storage, SMTP server · GitHub template · Docker · env example file · sign-in: Better Auth · [Repo](https://github.com/bearstudio/start-ui-web) · [📖 Docs ↗](https://docs.web.start-ui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/start-ui-web/)</sub>
 
 <a name="cove"></a>
-### #&#8288;58 [cove](https://github.com/mugnavo/cove) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Unlicense · Nov 2026</sub>
+### #&#8288;59 [cove](https://github.com/mugnavo/cove) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Unlicense · Nov 2026</sub>
 
 **TanStack Start starter with Drizzle, Postgres and Better Auth.**
 
@@ -1042,24 +1060,6 @@ Cove Stack is a TypeScript starter for TanStack Start (React, Router, Query) wit
 - **−** Needs Node 24+, pnpm 12+, Vite Plus and your own PostgreSQL
 
 <sub>TypeScript · Needs PostgreSQL, Node.js >= 24, pnpm >= 12, Vite Plus · GitHub template · sign-in: Better Auth · [Repo](https://github.com/mugnavo/cove) · [▶️ Demo ↗](https://cove.mugnavo.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cove/)</sub>
-
-<a name="aimeos"></a>
-### #&#8288;59 [aimeos](https://github.com/aimeos/aimeos) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
-
-**Laravel e-commerce shop with admin backend, JSON API and MCP server.**
-
-Aimeos is a PHP e-commerce application built on Laravel, installed with `composer create-project`. It provides a storefront, an admin backend at `/admin`, a JSON:API REST interface, a GraphQL admin API, and multi-vendor, multi-language and subscription support. AI features are limited to text translation and an MCP server that lets agents like Claude manage products, orders and customers.
-
-- **+** Ships storefront, admin backend, JSON:API and GraphQL admin API in one install
-- **+** Built-in MCP endpoint with Sanctum tokens or Passport OAuth for remote clients
-- **+** Multi-vendor, multi-language and subscriptions are toggled through `.env` settings
-- **+** Runs on MySQL, MariaDB, PostgreSQL or SQL Server; MIT and LGPLv3 licensed
-- **−** AI is secondary: MCP server and translation only, not the core of the product
-- **−** Multi-routing adds database queries per request and affects performance
-- **−** SPA or PWA builds need the separate aimeos-headless distribution
-- **−** Install is via composer on a PHP 8.2+ host; no Docker image is mentioned
-
-<sub>JavaScript · Needs PHP >= 8.2, Composer 2.2+, MySQL >= 5.7.8 / MariaDB >= 10.2.2 / PostgreSQL 9.6+ / SQL Server 2019+, Apache or Nginx, Laravel Sanctum (MCP auth), Laravel Passport (optional, OAuth) · env example file · [Repo](https://github.com/aimeos/aimeos) · [▶️ Demo ↗](https://laravel.demo.aimeos.org) · [📖 Docs ↗](https://aimeos.org/docs/latest/laravel) · [🌐 Site ↗](https://aimeos.org/Laravel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aimeos/)</sub>
 
 <a name="lithium"></a>
 ### #&#8288;60 [lithium](https://github.com/wsvincent/lithium) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · custom license · Nov 2026</sub>
@@ -1330,7 +1330,7 @@ Scaffold-ETH 2 generates a monorepo for building Ethereum dapps, with a Next.js 
 <sub>TypeScript · Needs Node >= 22.13.0, Yarn, Git, Foundry or Hardhat · GitHub template · [Repo](https://github.com/scaffold-eth/scaffold-eth-2) · [📖 Docs ↗](https://docs.scaffoldeth.io) · [🌐 Site ↗](https://scaffoldeth.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/scaffold-eth-2/)</sub>
 
 <a name="nextarter-chakra"></a>
-### #&#8288;75 [nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (21) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 839 · MIT · Nov 2026</sub>
+### #&#8288;75 [nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (21) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 838 · MIT · Nov 2026</sub>
 
 **Next.js 16 starter with Chakra UI v3, TypeScript, Biome and Playwright.**
 

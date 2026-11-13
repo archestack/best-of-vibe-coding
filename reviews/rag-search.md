@@ -59,7 +59,7 @@ Sonic is a Rust search backend that indexes text pushed over its Sonic Channel T
 <sub>Rust · Docker · [Repo](https://github.com/valeriansaliou/sonic) · [▶️ Demo ↗](https://help.crisp.chat/) · [📖 Docs ↗](https://github.com/valeriansaliou/sonic/blob/master/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sonic/)</sub>
 
 <a name="xberg"></a>
-### #&#8288;4 [xberg](https://github.com/xberg-io/xberg) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
+### #&#8288;4 [xberg](https://github.com/xberg-io/xberg) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
 
 **Rust document extraction engine with OCR, tables and 15 language bindings.**
 
@@ -130,7 +130,7 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
 <a name="auto-ontology"></a>
-### #&#8288;8 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;8 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
 
 **Ontology layer that grounds text-to-SQL agents in certified business definitions.**
 
@@ -201,26 +201,8 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
-<a name="rag-api"></a>
-### #&#8288;12 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 925 · MIT · Sep 2026</sub>
-
-**FastAPI service for per-file document embedding and retrieval on pgvector.**
-
-Async FastAPI and Langchain service that ingests documents, embeds them under a file_id, and answers similarity queries against pgvector or Atlas MongoDB. Built mainly as the RAG backend for LibreChat, but usable for any ID-based retrieval. Reads and deletes are scoped to an owner taken from a verified JWT.
-
-- **+** Many embedding providers: OpenAI, Azure, Bedrock, Google GenAI, VertexAI, Hugging Face, TEI, Ollama
-- **+** Reads and deletes are scoped by JWT owner before ranking
-- **+** Batched async ingestion with bounded memory and rollback on failure
-- **+** Optional RAG_DISTANCE_THRESHOLD drops weak matches to cut downstream LLM tokens
-- **−** entity_id is caller-asserted; untrusted callers need upstream authorization
-- **−** Upgrading the service before the client orphans agent knowledge-base files on delete
-- **−** Chunks with no user_id become unreadable after upgrade unless backfilled with SQL
-- **−** Omitting JWT_SECRET disables authentication and stamps all chunks as public
-
-<sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
-
 <a name="supabaseauthwithssr"></a>
-### #&#8288;13 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 399 · MIT · Oct 2026</sub>
+### #&#8288;12 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 399 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -236,6 +218,24 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 - **−** One maintainer; large surface area to understand before customizing
 
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
+
+<a name="rag-api"></a>
+### #&#8288;13 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 926 · MIT · Sep 2026</sub>
+
+**FastAPI service for per-file document embedding and retrieval on pgvector.**
+
+Async FastAPI and Langchain service that ingests documents, embeds them under a file_id, and answers similarity queries against pgvector or Atlas MongoDB. Built mainly as the RAG backend for LibreChat, but usable for any ID-based retrieval. Reads and deletes are scoped to an owner taken from a verified JWT.
+
+- **+** Many embedding providers: OpenAI, Azure, Bedrock, Google GenAI, VertexAI, Hugging Face, TEI, Ollama
+- **+** Reads and deletes are scoped by JWT owner before ranking
+- **+** Batched async ingestion with bounded memory and rollback on failure
+- **+** Optional RAG_DISTANCE_THRESHOLD drops weak matches to cut downstream LLM tokens
+- **−** entity_id is caller-asserted; untrusted callers need upstream authorization
+- **−** Upgrading the service before the client orphans agent knowledge-base files on delete
+- **−** Chunks with no user_id become unreadable after upgrade unless backfilled with SQL
+- **−** Omitting JWT_SECRET disables authentication and stamps all chunks as public
+
+<sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
 
 <a name="orama"></a>
 ### #&#8288;14 [orama](https://github.com/oramasearch/orama) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (70) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
@@ -359,7 +359,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;21 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [4](../README.md#-how-we-rank "Score 4/100. Adoption: niche (1) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 206 · MIT · Dec 2025</sub>
+### #&#8288;21 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [4](../README.md#-how-we-rank "Score 4/100. Adoption: niche (1) · Freshness: quiet (12) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 207 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 
