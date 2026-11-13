@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-12
+updated_at: 2026-11-13
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -189,7 +189,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 22
+    score: 21
   - id: azure-ai-travel-agents
     repo: azure-samples/azure-ai-travel-agents
     name: azure-ai-travel-agents
@@ -7306,7 +7306,7 @@ entries:
       has_compose: false
       is_template: false
       language: Vim Script
-    score: 29
+    score: 28
   - id: artemis
     repo: google/artemis
     name: artemis
@@ -10135,7 +10135,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 61
+    score: 60
   - id: tech-leads-club-agent-skills
     repo: tech-leads-club/agent-skills
     name: agent-skills
@@ -11012,7 +11012,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 28
+    score: 27
   - id: awesome-codex-subagents
     repo: voltagent/awesome-codex-subagents
     name: awesome-codex-subagents
@@ -13340,7 +13340,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 45
+    score: 44
   - id: oracle
     repo: steipete/oracle
     name: oracle
@@ -25026,7 +25026,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 40
+    score: 39
   - id: zerostack
     repo: gi-dellav/zerostack
     name: zerostack
@@ -26177,7 +26177,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 48
+    score: 47
   - id: dsh-context
     repo: bowenliang123/dsh-context
     name: dsh-context
@@ -28173,7 +28173,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 17
+    score: 16
   - id: backpass
     repo: kunchenguid/backpass
     name: backpass
@@ -31533,7 +31533,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 18
+    score: 17
   - id: autoswarm
     repo: hkuds/autoswarm
     name: autoswarm
@@ -38942,7 +38942,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 34
+    score: 33
   - id: golang-gin-realworld-example-app
     repo: realworld-apps/golang-gin-realworld-example-app
     name: golang-gin-realworld-example-app
@@ -44626,7 +44626,7 @@ entries:
       has_compose: false
       is_template: false
       language: Dart
-    score: 46
+    score: 45
   - id: couchdb
     repo: apache/couchdb
     name: couchdb
@@ -47528,7 +47528,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 40
+    score: 39
   - id: hephaestus
     repo: ido-levi/hephaestus
     name: hephaestus
@@ -47947,7 +47947,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 22
+    score: 21
   - id: claude-skill-web-clone
     repo: jane-xiaoer/claude-skill-web-clone
     name: claude-skill-web-clone
@@ -56496,7 +56496,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 33
+    score: 32
   - id: ai-chat
     repo: pushpak1300/ai-chat
     name: ai-chat
@@ -57876,7 +57876,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 31
+    score: 30
   - id: opengenerativeui
     repo: copilotkit/openintelligentui
     name: OpenGenerativeUI
@@ -58990,7 +58990,7 @@ entries:
       has_compose: false
       is_template: true
       language: Go
-    score: 18
+    score: 17
   - id: template-mcp-server
     repo: redhat-data-and-ai/template-mcp-server
     name: template-mcp-server
@@ -60163,7 +60163,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 53
+    score: 52
   - id: onlook
     repo: onlook-dev/onlook
     name: Onlook

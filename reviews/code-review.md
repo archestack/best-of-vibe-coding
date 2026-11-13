@@ -720,7 +720,7 @@ Shippie runs an agent loop on the flue framework and pi that reads a diff, explo
 <sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
 <a name="gentleman-guardian-angel"></a>
-### #&#8288;41 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (6) · Freshness: active (91) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
+### #&#8288;41 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (6) · Freshness: active (90) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
 
 **Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
 
@@ -737,26 +737,8 @@ GGA is a pure Bash CLI that installs a git pre-commit (or commit-msg) hook and s
 
 <sub>no GPU · Needs Bash 5.0+, git, an AI provider CLI or API (Claude, Gemini, Codex, Ollama, etc.) · Models: Claude, Gemini, Codex, OpenCode, Cursor Agent · [Repo](https://github.com/gentleman-programming/gentleman-guardian-angel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gentleman-guardian-angel/)</sub>
 
-<a name="claude-code-security-review"></a>
-### #&#8288;42 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (53) · Freshness: slowing (33) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Feb 2026</sub>
-
-**GitHub Action that has Claude review pull request diffs for security issues.**
-
-A Python-based GitHub Action that sends pull request diffs to Claude Code and posts security findings as line comments on the PR. A filter step drops categories such as denial of service, rate limiting and open redirects. The README also describes a customizable /security-review slash command in Claude Code.
-
-- **+** On PRs it analyzes only changed files and comments on specific lines
-- **+** Custom scan and false-positive filtering instructions load from text files
-- **+** Inputs for excluded directories, model name and timeout in minutes
-- **+** Outputs findings-count and a results JSON file, uploaded as an artifact by default
-- **−** README says it is not hardened against prompt injection; use on trusted PRs only
-- **−** Requires an Anthropic API key enabled for Claude API and Claude Code
-- **−** Default model is claude-opus-4-1-20250805, which may raise per-run cost
-- **−** Default filter excludes DoS, rate-limiting and open-redirect findings
-
-<sub>no GPU · Needs GitHub Actions, Anthropic Claude API key · Models: claude-opus-4-1-20250805 (default), Other Claude models via claude-model input · [Repo](https://github.com/anthropics/claude-code-security-review) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-security-review/)</sub>
-
 <a name="shortest"></a>
-### #&#8288;43 [shortest](https://github.com/antiwork/shortest) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (45) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · May 2026</sub>
+### #&#8288;42 [shortest](https://github.com/antiwork/shortest) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (45) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · May 2026</sub>
 
 **Write end-to-end browser tests in plain English, executed by Claude via Playwright.**
 
@@ -772,5 +754,23 @@ Shortest is a TypeScript test framework where each test is a natural-language se
 - **−** Repo also contains a web app that needs Clerk, Postgres, Stripe and Mailosaur to run locally
 
 <sub>no GPU · Needs Anthropic API, Playwright, Mailosaur (optional), Clerk, Vercel Postgres, Stripe (web app only) · Models: Anthropic Claude · port 3000 · [Repo](https://github.com/antiwork/shortest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shortest/)</sub>
+
+<a name="claude-code-security-review"></a>
+### #&#8288;43 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (53) · Freshness: slowing (33) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Feb 2026</sub>
+
+**GitHub Action that has Claude review pull request diffs for security issues.**
+
+A Python-based GitHub Action that sends pull request diffs to Claude Code and posts security findings as line comments on the PR. A filter step drops categories such as denial of service, rate limiting and open redirects. The README also describes a customizable /security-review slash command in Claude Code.
+
+- **+** On PRs it analyzes only changed files and comments on specific lines
+- **+** Custom scan and false-positive filtering instructions load from text files
+- **+** Inputs for excluded directories, model name and timeout in minutes
+- **+** Outputs findings-count and a results JSON file, uploaded as an artifact by default
+- **−** README says it is not hardened against prompt injection; use on trusted PRs only
+- **−** Requires an Anthropic API key enabled for Claude API and Claude Code
+- **−** Default model is claude-opus-4-1-20250805, which may raise per-run cost
+- **−** Default filter excludes DoS, rate-limiting and open-redirect findings
+
+<sub>no GPU · Needs GitHub Actions, Anthropic Claude API key · Models: claude-opus-4-1-20250805 (default), Other Claude models via claude-model input · [Repo](https://github.com/anthropics/claude-code-security-review) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-security-review/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
