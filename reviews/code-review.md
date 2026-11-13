@@ -146,7 +146,7 @@ PR-Agent posts AI-generated PR descriptions, reviews, code suggestions and Q&A a
 <sub>no GPU · Docker + Compose · Needs LLM provider API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
 
 <a name="infracost"></a>
-### #&#8288;9 [infracost](https://github.com/infracost/infracost) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [infracost](https://github.com/infracost/infracost) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
 
 **Cloud cost estimates for Terraform and CloudFormation in the terminal, editor and PRs.**
 
@@ -200,7 +200,7 @@ PHPStan checks PHP code for type and logic errors before execution, using PHPDoc
 <sub>no GPU · Docker · [Repo](https://github.com/phpstan/phpstan) · [▶️ Demo ↗](https://phpstan.org/try) · [📖 Docs ↗](https://phpstan.org/user-guide/getting-started) · [🌐 Site ↗](https://phpstan.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phpstan/)</sub>
 
 <a name="keploy"></a>
-### #&#8288;12 [keploy](https://github.com/keploy/keploy) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 20k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [keploy](https://github.com/keploy/keploy) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 20k · Apache-2.0 · Nov 2026</sub>
 
 **Records API traffic with eBPF and replays it as tests and mocks.**
 
@@ -272,7 +272,7 @@ Codex Security scans repositories, paths or Git diffs for vulnerabilities, valid
 <sub>no GPU · Docker + Compose · Needs Node.js 22.13+, Python 3.10+, OpenAI API key or other provider credentials · Models: OpenAI, Amazon Bedrock, OpenRouter, Fireworks AI, Cheaper Inference · [Repo](https://github.com/openai/codex-security) · [📖 Docs ↗](https://learn.chatgpt.com/docs/security/cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex-security/)</sub>
 
 <a name="larastan"></a>
-### #&#8288;16 [larastan](https://github.com/larastan/larastan) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
+### #&#8288;16 [larastan](https://github.com/larastan/larastan) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
 
 **PHPStan extension that finds type errors and bugs in Laravel code.**
 
@@ -413,26 +413,8 @@ Official CLI for the TestSprite testing service. You write test plans as JSON in
 
 <sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
 
-<a name="solopi"></a>
-### #&#8288;24 [solopi](https://github.com/alipay/solopi) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
-
-**Mobile app test automation with Android record/replay and an agent execution harness.**
-
-SoloPi records and replays UI flows on real Android devices, usually without adding an SDK to the app under test. It also includes an Electron-style Desktop workbench and a Skill/Harness layer that re-checks the current page before each agent action. Results are judged separately from action success as passed, failed or not_tested, with screenshots, logs and reports saved per run.
-
-- **+** Target apps usually need no SoloPi SDK; works on real devices
-- **+** Separates action execution from pass/fail, with passed, failed and not_tested verdicts
-- **+** Saves screenshots, logs, action receipts and structured reports for each run
-- **+** Apache-2.0 with Android app, Desktop and CLI entry points
-- **−** Desktop control, Skill/Harness are Beta; iOS (WDA) and HarmonyOS NEXT are experimental
-- **−** Android performance plugins and recording are not ported to iOS or NEXT
-- **−** Multi-device control was never open-sourced and is unavailable
-- **−** Built-in workflow templates need specific apps, accounts and starting pages
-
-<sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
-
 <a name="tflint"></a>
-### #&#8288;25 [tflint](https://github.com/terraform-linters/tflint) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
+### #&#8288;24 [tflint](https://github.com/terraform-linters/tflint) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
 
 **Pluggable linter for Terraform configurations.**
 
@@ -448,6 +430,24 @@ TFLint is a Go command-line linter for Terraform code. The core is a plugin fram
 - **−** Not AI-based; rule-driven static checks only, so coverage depends on available rulesets
 
 <sub>no GPU · Docker · Needs GitHub (plugin download via tflint --init) · [Repo](https://github.com/terraform-linters/tflint) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tflint/)</sub>
+
+<a name="solopi"></a>
+### #&#8288;25 [solopi](https://github.com/alipay/solopi) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
+
+**Mobile app test automation with Android record/replay and an agent execution harness.**
+
+SoloPi records and replays UI flows on real Android devices, usually without adding an SDK to the app under test. It also includes an Electron-style Desktop workbench and a Skill/Harness layer that re-checks the current page before each agent action. Results are judged separately from action success as passed, failed or not_tested, with screenshots, logs and reports saved per run.
+
+- **+** Target apps usually need no SoloPi SDK; works on real devices
+- **+** Separates action execution from pass/fail, with passed, failed and not_tested verdicts
+- **+** Saves screenshots, logs, action receipts and structured reports for each run
+- **+** Apache-2.0 with Android app, Desktop and CLI entry points
+- **−** Desktop control, Skill/Harness are Beta; iOS (WDA) and HarmonyOS NEXT are experimental
+- **−** Android performance plugins and recording are not ported to iOS or NEXT
+- **−** Multi-device control was never open-sourced and is unavailable
+- **−** Built-in workflow templates need specific apps, accounts and starting pages
+
+<sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
 
 <a name="reticle"></a>
 ### #&#8288;26 [reticle](https://github.com/reticlehq/reticle) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
@@ -468,7 +468,7 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
 <a name="crit"></a>
-### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Browser UI for commenting on a coding agent's plans, diffs and running apps.**
 
@@ -575,26 +575,8 @@ git-lrc is a Go CLI that hooks into git commit and sends the staged diff to an A
 
 <sub>no GPU · Needs LiveReview account (Hexmos sign-in), Gemini API key or other AI provider key, codebase-memory-mcp (optional, auto-installed for risk scoring) · Models: Gemini, OpenAI, Claude, DeepSeek, OpenRouter · [Repo](https://github.com/hexmostech/git-lrc) · [🌐 Site ↗](https://hexmos.com/livereview/git-lrc/pricing/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-lrc/)</sub>
 
-<a name="pyscn"></a>
-### #&#8288;33 [pyscn](https://github.com/ludo-technologies/pyscn) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
-
-**Static code quality analyzer for Python with a 0-100 score and HTML report.**
-
-pyscn is a Go CLI that parses Python with tree-sitter and reports dead code, duplicate code (Type 1-4 clones), cyclomatic and cognitive complexity, circular imports, layer violations and class coupling and cohesion. It outputs a 0-100 score with an A-F grade, an HTML or JSON report, and a `pyscn check` command for CI gates. It also ships Agent Skills and a `pyscn-mcp` server so coding agents can run the analyses.
-
-- **+** Covers dead code, clones, complexity, architecture and class design in one run
-- **+** `pyscn check` gives a pass/fail CI gate with configurable thresholds
-- **+** Ships Agent Skills and an MCP server for Claude Code, Cursor and others
-- **+** Runs without install via uvx or pipx; config in .pyscn.toml or pyproject.toml
-- **−** Static structural analysis only; does not review logic or generate tests
-- **−** PyPI wheels dropped for Intel Macs since v1.5.1; needs brew or go install
-- **−** Analyzes Python only; other languages need the separate polyscan tool
-- **−** Weekly GitHub audit app is a separate hosted service, free only for public repos
-
-<sub>no GPU · [Repo](https://github.com/ludo-technologies/pyscn) · [📖 Docs ↗](https://docs.codescan.dev/pyscn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyscn/)</sub>
-
 <a name="deepsec"></a>
-### #&#8288;34 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;33 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
 
 **Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
 
@@ -611,8 +593,26 @@ deepsec runs regex matchers to find candidate sites in a repository, then has AI
 
 <sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
 
+<a name="pyscn"></a>
+### #&#8288;34 [pyscn](https://github.com/ludo-technologies/pyscn) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+
+**Static code quality analyzer for Python with a 0-100 score and HTML report.**
+
+pyscn is a Go CLI that parses Python with tree-sitter and reports dead code, duplicate code (Type 1-4 clones), cyclomatic and cognitive complexity, circular imports, layer violations and class coupling and cohesion. It outputs a 0-100 score with an A-F grade, an HTML or JSON report, and a `pyscn check` command for CI gates. It also ships Agent Skills and a `pyscn-mcp` server so coding agents can run the analyses.
+
+- **+** Covers dead code, clones, complexity, architecture and class design in one run
+- **+** `pyscn check` gives a pass/fail CI gate with configurable thresholds
+- **+** Ships Agent Skills and an MCP server for Claude Code, Cursor and others
+- **+** Runs without install via uvx or pipx; config in .pyscn.toml or pyproject.toml
+- **−** Static structural analysis only; does not review logic or generate tests
+- **−** PyPI wheels dropped for Intel Macs since v1.5.1; needs brew or go install
+- **−** Analyzes Python only; other languages need the separate polyscan tool
+- **−** Weekly GitHub audit app is a separate hosted service, free only for public repos
+
+<sub>no GPU · [Repo](https://github.com/ludo-technologies/pyscn) · [📖 Docs ↗](https://docs.codescan.dev/pyscn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyscn/)</sub>
+
 <a name="pre-commit-hooks"></a>
-### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (77) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
+### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (77) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
@@ -738,7 +738,7 @@ Shippie runs an agent loop on the flue framework and pi that reads a diff, explo
 <sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
 <a name="gentleman-guardian-angel"></a>
-### #&#8288;42 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (9) · Freshness: active (90) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
+### #&#8288;42 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (10) · Freshness: active (90) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Jul 2026</sub>
 
 **Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
 
