@@ -129,7 +129,7 @@ Mirage gives AI agents a single Unix-style shell over mounted services such as S
 <sub>TypeScript · Needs E2B (optional sandbox runtime), Credentials for mounted services (S3, Slack, Gmail) · Docker · env example file · [Repo](https://github.com/strukto-ai/mirage) · [📖 Docs ↗](https://docs.mirage.strukto.ai) · [🌐 Site ↗](https://www.strukto.ai/mirage) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mirage/)</sub>
 
 <a name="agent-autoloop"></a>
-### #&#8288;8 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
+### #&#8288;8 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Nov 2026</sub>
 
 **Background scheduler that runs CLI agents on events and asks you only when unsure.**
 
@@ -200,7 +200,7 @@ Skybridge is a TypeScript framework for building MCP servers that render interac
 <sub>TypeScript · Needs Node.js, npm · [Repo](https://github.com/alpic-ai/skybridge) · [▶️ Demo ↗](https://everything.skybridge.tech/try) · [📖 Docs ↗](https://docs.skybridge.tech) · [🌐 Site ↗](https://alpic.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/skybridge/)</sub>
 
 <a name="agentconnect"></a>
-### #&#8288;12 [agentconnect](https://github.com/agentconnect-md/agentconnect) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (33) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [agentconnect](https://github.com/agentconnect-md/agentconnect) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (33) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Nov 2026</sub>
 
 **Platform for teams and multiple coding agents to work together in chat and Git tools.**
 
@@ -272,7 +272,7 @@ xmcp is a TypeScript framework for writing MCP servers where each tool, prompt o
 <sub>TypeScript · Needs Node.js · [Repo](https://github.com/basementstudio/xmcp) · [📖 Docs ↗](https://xmcp.dev/docs) · [🌐 Site ↗](https://xmcp.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xmcp/)</sub>
 
 <a name="agent-swarm"></a>
-### #&#8288;16 [agent-swarm](https://github.com/desplega-ai/agent-swarm) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;16 [agent-swarm](https://github.com/desplega-ai/agent-swarm) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Lead agent that delegates tasks to Claude Code or Codex workers in containers.**
 
@@ -342,7 +342,7 @@ AgenticX is a Python agent SDK and `agx` CLI with a FastAPI/SSE Studio server, c
 <sub>Python, OpenAI, Anthropic, Ollama, Gemini · Needs Python 3.10+, Redis (optional), PostgreSQL or MySQL (Enterprise), Chroma (Desktop knowledge base default), Docker or Microsandbox (optional sandbox) · Docker · [Repo](https://github.com/demondamon/agenticx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agenticx/)</sub>
 
 <a name="rome"></a>
-### #&#8288;20 [rome](https://github.com/rome-os/rome) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 901 · MIT · Nov 2026</sub>
+### #&#8288;20 [rome](https://github.com/rome-os/rome) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 902 · MIT · Nov 2026</sub>
 
 **Agent runtime where agents build and keep installable apps and actions.**
 
@@ -377,26 +377,8 @@ Bindu exposes an existing agent as an A2A JSON-RPC service on port 3773 through 
 
 <sub>Python, OpenAI, OpenRouter, MiniMax, OpenAI-compatible APIs · Needs Python 3.12+, uv, Smallstep step-ca, Ory Hydra, PostgreSQL, Redis, LLM provider API key · [Repo](https://github.com/getbindu/bindu) · [▶️ Demo ↗](https://www.youtube.com/watch?v=qppafMuw_KI) · [📖 Docs ↗](https://docs.getbindu.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bindu/)</sub>
 
-<a name="frontieragent"></a>
-### #&#8288;22 [frontieragent](https://github.com/apodexai/frontieragent) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Nov 2026</sub>
-
-**Terminal agent runtime with single-agent and parallel sub-agent research workflows.**
-
-FrontierAgent is a Python terminal UI and agent runtime for long-horizon research and file-based work. It has two modes: a stateful ReAct agent, and an Agent Team where a coordinator delegates to parallel sub-agents through a task board. Shell and file tools run in a task-scoped sandbox with /inputs, /workspace and /outputs, with diff approval, checkpoints and /revert. It also bundles a benchmark runner for BrowseComp, HLE, GDPval and others.
-
-- **+** Agent Team mode with live task board and bounded parallel sub-agents
-- **+** Read-only /inputs, writable /workspace and /outputs; mutations need approval and are revertable
-- **+** Works with any OpenAI-compatible endpoint; optional keyless Parallel MCP for web search
-- **+** Bundled benchmark harness with resumable runs and per-failure reruns
-- **−** Aimed at research and file deliverables rather than code editing in an IDE
-- **−** Agent Team concurrency multiplies with runner concurrency, raising simultaneous model calls
-- **−** Prebuilt GHCR image is private and needs docker login; otherwise build from source
-- **−** Local SGLang serving depends on pinned NVIDIA driver and CUDA tracks
-
-<sub>Python, OpenAI-compatible endpoints, Apodex-1.1, SGLang-served models · Needs Python 3.12, uv, OpenAI-compatible model endpoint, Serper or Jina API keys (optional), Docker (optional), SGLang (optional) · Docker · env example file · [Repo](https://github.com/apodexai/frontieragent) · [🌐 Site ↗](https://www.apodex.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frontieragent/)</sub>
-
 <a name="mcp-typescript-template"></a>
-### #&#8288;23 [mcp-typescript-template](https://github.com/nickytonline/mcp-typescript-template) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 61 · MIT · Oct 2026</sub>
+### #&#8288;22 [mcp-typescript-template](https://github.com/nickytonline/mcp-typescript-template) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 61 · MIT · Oct 2026</sub>
 
 **TypeScript starter for remote MCP servers over HTTP with Express and Effect.**
 
@@ -412,6 +394,24 @@ A degit-able template for building stateless, remote MCP servers on Node 24.11+ 
 - **−** No auth or database included; only two toy example tools
 
 <sub>TypeScript · Needs Node.js 24.11+, Express, Effect, @modelcontextprotocol/server, Vite+ · GitHub template · Docker · [Repo](https://github.com/nickytonline/mcp-typescript-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-typescript-template/)</sub>
+
+<a name="frontieragent"></a>
+### #&#8288;23 [frontieragent](https://github.com/apodexai/frontieragent) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Nov 2026</sub>
+
+**Terminal agent runtime with single-agent and parallel sub-agent research workflows.**
+
+FrontierAgent is a Python terminal UI and agent runtime for long-horizon research and file-based work. It has two modes: a stateful ReAct agent, and an Agent Team where a coordinator delegates to parallel sub-agents through a task board. Shell and file tools run in a task-scoped sandbox with /inputs, /workspace and /outputs, with diff approval, checkpoints and /revert. It also bundles a benchmark runner for BrowseComp, HLE, GDPval and others.
+
+- **+** Agent Team mode with live task board and bounded parallel sub-agents
+- **+** Read-only /inputs, writable /workspace and /outputs; mutations need approval and are revertable
+- **+** Works with any OpenAI-compatible endpoint; optional keyless Parallel MCP for web search
+- **+** Bundled benchmark harness with resumable runs and per-failure reruns
+- **−** Aimed at research and file deliverables rather than code editing in an IDE
+- **−** Agent Team concurrency multiplies with runner concurrency, raising simultaneous model calls
+- **−** Prebuilt GHCR image is private and needs docker login; otherwise build from source
+- **−** Local SGLang serving depends on pinned NVIDIA driver and CUDA tracks
+
+<sub>Python, OpenAI-compatible endpoints, Apodex-1.1, SGLang-served models · Needs Python 3.12, uv, OpenAI-compatible model endpoint, Serper or Jina API keys (optional), Docker (optional), SGLang (optional) · Docker · env example file · [Repo](https://github.com/apodexai/frontieragent) · [🌐 Site ↗](https://www.apodex.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frontieragent/)</sub>
 
 <a name="commonly"></a>
 ### #&#8288;24 [commonly](https://github.com/team-commonly/commonly) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Nov 2026</sub>
@@ -576,7 +576,7 @@ Echo Agent is a Python 3.11+ agent runtime installed from PyPI, with a terminal 
 <sub>Python, Remote model services via API key, Model routing with fallback · Needs Python 3.11+, LLM provider API key · [Repo](https://github.com/fuyuxiang/echo-agent) · [📖 Docs ↗](https://fuyuxiang.github.io/echo-agent/) · [🌐 Site ↗](http://www.ojlab.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo-agent/)</sub>
 
 <a name="personal-agent-template"></a>
-### #&#8288;33 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 491 · MIT · Nov 2026</sub>
+### #&#8288;33 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 492 · MIT · Nov 2026</sub>
 
 **Nuxt and Eve personal agent with web chat, Slack, GitHub, Linear and memory.**
 
@@ -684,7 +684,7 @@ An eve pipeline named Foreman: label an issue factory, @mention it, or delegate 
 <sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="innovation-lab-examples"></a>
-### #&#8288;39 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Sep 2026</sub>
+### #&#8288;39 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
 
 **Collection of 80+ runnable Python agent examples built on Fetch.ai uAgents.**
 
@@ -720,7 +720,7 @@ Reference app where agents extract customer preferences, recommend destinations 
 <sub>TypeScript, Phi4 14B (Docker Model Runner), Azure OpenAI, Microsoft Foundry · Needs Docker, Docker Model Runner, Node.js 22+, Azure Container Apps, Azure OpenAI or Microsoft Foundry · [Repo](https://github.com/azure-samples/azure-ai-travel-agents) · [📖 Docs ↗](https://github.com/Azure-Samples/azure-ai-travel-agents/blob/main/docs/advanced-setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-ai-travel-agents/)</sub>
 
 <a name="mcp-ui"></a>
-### #&#8288;41 [mcp-ui](https://github.com/mcp-ui-org/mcp-ui) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (65) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;41 [mcp-ui](https://github.com/mcp-ui-org/mcp-ui) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (64) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Jul 2026</sub>
 
 **SDK for returning interactive UI from MCP tools and rendering it in hosts.**
 
@@ -1085,7 +1085,7 @@ A Python backend on the OpenAI Agents SDK that routes airline support requests b
 <sub>Python, openai, openai-agents-sdk, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-cs-agents-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cs-agents-demo/)</sub>
 
 <a name="nanoagent"></a>
-### #&#8288;62 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (13) · Freshness: slowing (43) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 779 · MIT · Mar 2026</sub>
+### #&#8288;62 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (13) · Freshness: slowing (43) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 780 · MIT · Mar 2026</sub>
 
 **Single-file Python agent loop with bash, read and write tools.**
 
