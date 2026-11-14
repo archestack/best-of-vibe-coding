@@ -128,7 +128,7 @@ React Doctor runs deterministic checks over a React project and reports issues i
 <sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
 
 <a name="pr-agent"></a>
-### #&#8288;8 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
+### #&#8288;8 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
 
 **LLM-based pull request reviewer that runs as a GitHub Action, CLI or webhook.**
 
@@ -289,26 +289,8 @@ Larastan is a PHPStan extension for Laravel, installed as a Composer dev depende
 
 <sub>no GPU · Needs PHP 8.2+, Laravel 11.15+, Composer, PHPStan · [Repo](https://github.com/larastan/larastan) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/larastan/)</sub>
 
-<a name="docker-android"></a>
-### #&#8288;17 [docker-android](https://github.com/budtmo/docker-android) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Nov 2026</sub>
-
-**Android emulator in a container with web VNC, for app builds and UI tests.**
-
-Runs an Android emulator (API 28 to 34, with Samsung Galaxy and Nexus device profiles) inside Docker, viewable through a noVNC page on port 6080 and controllable from the host with adb connect. It is used to build Android projects and run Appium or Espresso UI tests, and it has a beta MCP server image. The AI-agent feature and newer Android versions are in a separate sponsor-only Pro image.
-
-- **+** Separate images per Android version, 9.0 to 14.0, plus a Genymotion image
-- **+** Browser VNC on port 6080 and adb connect from the host
-- **+** Documented use cases for Appium, Jenkins, SMS simulation and cloud deployment
-- **+** Beta MCP server and Appium MCP image for agent-driven testing
-- **−** Needs /dev/kvm; runs on Ubuntu hosts only, other OSes need an Ubuntu VM
-- **−** AI agent, headless mode, proxy and Android 15+ are Pro-only, for sponsors
-- **−** Emulator state is discarded on restart unless /home/androidusr is mounted
-- **−** Normal edition includes user-behavior analytics, which Pro disables
-
-<sub>Docker · Needs Docker, KVM (/dev/kvm), Ubuntu host · Models: Ollama, vLLM · port 6080 · [Repo](https://github.com/budtmo/docker-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-android/)</sub>
-
 <a name="pest"></a>
-### #&#8288;18 [pest](https://github.com/pestphp/pest) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Nov 2026</sub>
+### #&#8288;17 [pest](https://github.com/pestphp/pest) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Nov 2026</sub>
 
 **Testing framework for PHP projects, built for developers and AI agents.**
 
@@ -324,7 +306,7 @@ Pest is a PHP testing framework distributed through Composer and Packagist, now 
 <sub>no GPU · Needs PHP, Composer · [Repo](https://github.com/pestphp/pest) · [📖 Docs ↗](https://pestphp.com/docs/pest5-now-available) · [🌐 Site ↗](https://pestphp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pest/)</sub>
 
 <a name="prek"></a>
-### #&#8288;19 [prek](https://github.com/j178/prek) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
+### #&#8288;18 [prek](https://github.com/j178/prek) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
 
 **Rust reimplementation of pre-commit that runs Git hooks from a single binary.**
 
@@ -340,6 +322,24 @@ prek runs hooks such as formatters, linters and secret scanners before commit, o
 - **−** Native prek.toml config is not portable to the original pre-commit
 
 <sub>no GPU · Docker · [Repo](https://github.com/j178/prek) · [📖 Docs ↗](https://prek.j178.dev/) · [🌐 Site ↗](https://prek.j178.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prek/)</sub>
+
+<a name="docker-android"></a>
+### #&#8288;19 [docker-android](https://github.com/budtmo/docker-android) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Nov 2026</sub>
+
+**Android emulator in a container with web VNC, for app builds and UI tests.**
+
+Runs an Android emulator (API 28 to 34, with Samsung Galaxy and Nexus device profiles) inside Docker, viewable through a noVNC page on port 6080 and controllable from the host with adb connect. It is used to build Android projects and run Appium or Espresso UI tests, and it has a beta MCP server image. The AI-agent feature and newer Android versions are in a separate sponsor-only Pro image.
+
+- **+** Separate images per Android version, 9.0 to 14.0, plus a Genymotion image
+- **+** Browser VNC on port 6080 and adb connect from the host
+- **+** Documented use cases for Appium, Jenkins, SMS simulation and cloud deployment
+- **+** Beta MCP server and Appium MCP image for agent-driven testing
+- **−** Needs /dev/kvm; runs on Ubuntu hosts only, other OSes need an Ubuntu VM
+- **−** AI agent, headless mode, proxy and Android 15+ are Pro-only, for sponsors
+- **−** Emulator state is discarded on restart unless /home/androidusr is mounted
+- **−** Normal edition includes user-behavior analytics, which Pro disables
+
+<sub>Docker · Needs Docker, KVM (/dev/kvm), Ubuntu host · Models: Ollama, vLLM · port 6080 · [Repo](https://github.com/budtmo/docker-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-android/)</sub>
 
 <a name="front-end-checklist"></a>
 ### #&#8288;20 [front-end-checklist](https://github.com/thedaviddias/front-end-checklist) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · MIT · Oct 2026</sub>
@@ -378,7 +378,7 @@ Ginkgo is a Go testing framework built on the standard `testing` package. It pro
 <sub>no GPU · Needs Go, Gomega · [Repo](https://github.com/onsi/ginkgo) · [📖 Docs ↗](https://onsi.github.io/ginkgo/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ginkgo/)</sub>
 
 <a name="pr-lens"></a>
-### #&#8288;22 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
+### #&#8288;22 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
 
 **Posts animated architecture and data-flow diagrams as pull request comments.**
 
@@ -522,7 +522,7 @@ codediff.nvim is a Neovim plugin that shows VSCode-style side-by-side or inline 
 <sub>no GPU · Needs Neovim 0.7+ (0.10+ recommended), Git, curl or wget (PowerShell on Windows) · [Repo](https://github.com/esmuellert/codediff.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codediff-nvim/)</sub>
 
 <a name="memlab"></a>
-### #&#8288;30 [memlab](https://github.com/meta/memlab) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+### #&#8288;30 [memlab](https://github.com/meta/memlab) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
 
 **JavaScript memory leak finder using Puppeteer scenarios and heap snapshot analysis.**
 
@@ -575,26 +575,8 @@ git-lrc is a Go CLI that hooks into git commit and sends the staged diff to an A
 
 <sub>no GPU · Needs LiveReview account (Hexmos sign-in), Gemini API key or other AI provider key, codebase-memory-mcp (optional, auto-installed for risk scoring) · Models: Gemini, OpenAI, Claude, DeepSeek, OpenRouter · [Repo](https://github.com/hexmostech/git-lrc) · [🌐 Site ↗](https://hexmos.com/livereview/git-lrc/pricing/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-lrc/)</sub>
 
-<a name="deepsec"></a>
-### #&#8288;33 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
-
-**Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
-
-deepsec runs regex matchers to find candidate sites in a repository, then has AI coding agents investigate each one and emit findings with recommendations. State lives in a `.deepsec/` folder, runs resume after interruption, and large repos can fan out across Vercel Sandbox microVMs. It supports a PR-mode diff review, revalidation of past findings, and export to JSON or markdown.
-
-- **+** Interrupted runs resume and skip files already analyzed
-- **+** Free regex scan stage before paid AI review; `process --diff` limits review to changed files
-- **+** Spend and time caps via `--max-cost-usd` and `--max-duration`
-- **+** Bring your own OpenAI or Anthropic key, or use Vercel AI Gateway
-- **−** README warns full scans of large codebases can cost thousands to tens of thousands of dollars
-- **−** Runs like a coding agent with full shell access; prompt injection from dependencies is a stated risk
-- **−** Distributed execution depends on Vercel Sandbox
-- **−** No tagged release; installed via npx
-
-<sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
-
 <a name="pyscn"></a>
-### #&#8288;34 [pyscn](https://github.com/ludo-technologies/pyscn) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;33 [pyscn](https://github.com/ludo-technologies/pyscn) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Static code quality analyzer for Python with a 0-100 score and HTML report.**
 
@@ -610,6 +592,24 @@ pyscn is a Go CLI that parses Python with tree-sitter and reports dead code, dup
 - **−** Weekly GitHub audit app is a separate hosted service, free only for public repos
 
 <sub>no GPU · [Repo](https://github.com/ludo-technologies/pyscn) · [📖 Docs ↗](https://docs.codescan.dev/pyscn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyscn/)</sub>
+
+<a name="deepsec"></a>
+### #&#8288;34 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
+
+**Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
+
+deepsec runs regex matchers to find candidate sites in a repository, then has AI coding agents investigate each one and emit findings with recommendations. State lives in a `.deepsec/` folder, runs resume after interruption, and large repos can fan out across Vercel Sandbox microVMs. It supports a PR-mode diff review, revalidation of past findings, and export to JSON or markdown.
+
+- **+** Interrupted runs resume and skip files already analyzed
+- **+** Free regex scan stage before paid AI review; `process --diff` limits review to changed files
+- **+** Spend and time caps via `--max-cost-usd` and `--max-duration`
+- **+** Bring your own OpenAI or Anthropic key, or use Vercel AI Gateway
+- **−** README warns full scans of large codebases can cost thousands to tens of thousands of dollars
+- **−** Runs like a coding agent with full shell access; prompt injection from dependencies is a stated risk
+- **−** Distributed execution depends on Vercel Sandbox
+- **−** No tagged release; installed via npx
+
+<sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
 
 <a name="pre-commit-hooks"></a>
 ### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (76) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>

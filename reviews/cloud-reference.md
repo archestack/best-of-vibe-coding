@@ -131,7 +131,7 @@ FastAPI service that fetches posts, authors, comments, sounds, hashtags, live ro
 <sub>Python, FunASR ONNX (Paraformer, FSMN-VAD, CT-Transformer) · Needs PostgreSQL, Redis, CloakBrowser (headless, container), FunASR ONNX models (optional) · Docker · env example file · [Repo](https://github.com/evil0ctal/douyin_tiktok_download_api) · [▶️ Demo ↗](https://demo.douyin.wtf) · [📖 Docs ↗](https://douyin.wtf) · [🌐 Site ↗](https://douyin.wtf) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/douyin-tiktok-download-api/)</sub>
 
 <a name="gf"></a>
-### #&#8288;8 [gf](https://github.com/gogf/gf) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
+### #&#8288;8 [gf](https://github.com/gogf/gf) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
 
 **Modular Go application framework with an HTTP server and CLI scaffolding.**
 
@@ -364,7 +364,7 @@ The AWS SAM transform is a CloudFormation macro, enabled with `Transform: AWS::S
 <sub>Python · Needs AWS CloudFormation, AWS SAM CLI, AWS Lambda · [Repo](https://github.com/aws/serverless-application-model) · [📖 Docs ↗](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) · [🌐 Site ↗](https://aws.amazon.com/serverless/sam/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-application-model/)</sub>
 
 <a name="oapi-codegen"></a>
-### #&#8288;21 [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;21 [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.7k · Apache-2.0 · Nov 2026</sub>
 
 **Go code generator that turns OpenAPI specs into servers, clients and types.**
 
@@ -418,7 +418,7 @@ gqlgen is a Go library and code generator that reads a GraphQL schema (SDL) and 
 <sub>Go · Needs Go toolchain · [Repo](https://github.com/99designs/gqlgen) · [📖 Docs ↗](https://gqlgen.com/getting-started/) · [🌐 Site ↗](https://gqlgen.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gqlgen/)</sub>
 
 <a name="go-zero"></a>
-### #&#8288;24 [go-zero](https://github.com/zeromicro/go-zero) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+### #&#8288;24 [go-zero](https://github.com/zeromicro/go-zero) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
 
 **Go web and RPC microservice framework with goctl code generation.**
 
@@ -490,7 +490,7 @@ A Go module that wraps the OpenAI API: Responses (with streaming and previous-re
 <sub>Go, OpenAI GPT-6 and GPT-5 series, GPT-4o, OpenAI-compatible endpoints, Azure OpenAI · Needs OpenAI API key, Go 1.18+ · [Repo](https://github.com/sashabaranov/go-openai) · [📖 Docs ↗](https://pkg.go.dev/github.com/sashabaranov/go-openai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-openai/)</sub>
 
 <a name="litestar"></a>
-### #&#8288;28 [litestar](https://github.com/litestar-org/litestar) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · MIT · Nov 2026</sub>
+### #&#8288;28 [litestar](https://github.com/litestar-org/litestar) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · MIT · Nov 2026</sub>
 
 **Typed Python ASGI framework for building APIs with OpenAPI generation.**
 
@@ -578,8 +578,26 @@ Chalice is a Python framework and CLI for building serverless apps on AWS Lambda
 
 <sub>Python · Needs AWS account and credentials, AWS Lambda, Amazon API Gateway, Python 3.10+ · [Repo](https://github.com/aws/chalice) · [📖 Docs ↗](https://aws.github.io/chalice/) · [🌐 Site ↗](https://aws.github.io/chalice/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chalice/)</sub>
 
+<a name="hyperf"></a>
+### #&#8288;33 [hyperf](https://github.com/hyperf/hyperf) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Nov 2026</sub>
+
+**Coroutine PHP framework on Swoole or Swow for microservices and web servers.**
+
+Hyperf is a PHP 8.1+ CLI framework that runs on Swoole 5.0+ or Swow 1.4+ coroutine servers instead of PHP-FPM. It combines dependency injection with AOP, annotations and events, and ships coroutine-compatible clients and servers for MySQL, Redis, gRPC, JSON-RPC, WebSocket, AMQP, Consul and ETCD. Core components follow PSR standards and can be used in other frameworks.
+
+- **+** Coroutine servers on Swoole or Swow; README benchmark shows about 103,921 requests/sec on 8 cores
+- **+** Built-in coroutine clients for MySQL, Redis, gRPC, JSON-RPC, RabbitMQ, NSQ, Nats, Consul and ETCD
+- **+** DI container with AOP and annotations makes classes pluggable; components follow PSR standards
+- **+** MIT license with multilingual docs and per-component unit tests
+- **−** Requires the Swoole or Swow extension, so it does not run under plain PHP-FPM
+- **−** No AI or model-serving features; it is a general-purpose backend framework
+- **−** Runs as a long-lived CLI process, so code must be coroutine-safe
+- **−** Benchmark is a single wrk request to the root URL, not a realistic workload
+
+<sub>PHP · Needs PHP 8.1+, Swoole 5.0+ or Swow 1.4+ · [Repo](https://github.com/hyperf/hyperf) · [📖 Docs ↗](https://hyperf.wiki) · [🌐 Site ↗](https://hyperf.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hyperf/)</sub>
+
 <a name="monid"></a>
-### #&#8288;33 [monid](https://github.com/monid-ai/monid) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Nov 2026</sub>
+### #&#8288;34 [monid](https://github.com/monid-ai/monid) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Nov 2026</sub>
 
 **Declarative connector framework behind a metered catalog of agent tool APIs.**
 
@@ -597,7 +615,7 @@ Monid is the connector layer for a hosted service that gives agents one base URL
 <sub>TypeScript · Needs Deno 2.x, Vendor API keys per provider · [Repo](https://github.com/monid-ai/monid) · [📖 Docs ↗](https://docs.monid.ai) · [🌐 Site ↗](https://monid.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monid/)</sub>
 
 <a name="podinfo"></a>
-### #&#8288;34 [podinfo](https://github.com/stefanprodan/podinfo) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;35 [podinfo](https://github.com/stefanprodan/podinfo) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · Apache-2.0 · Oct 2026</sub>
 
 **Go microservice for testing Kubernetes deployments, probes, and fault handling.**
 
@@ -615,7 +633,7 @@ Podinfo is a small Go web service that exposes HTTP and gRPC endpoints for healt
 <sub>Go · Needs Kubernetes v1.23+ (for Helm, Kustomize, Timoni installs), Redis (optional, for /cache endpoints), SPIRE agent (optional, for SPIFFE mTLS) · Docker · [Repo](https://github.com/stefanprodan/podinfo) · [📖 Docs ↗](https://fluxcd.io/flux/get-started/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/podinfo/)</sub>
 
 <a name="api-platform"></a>
-### #&#8288;35 [api-platform](https://github.com/api-platform/api-platform) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · MIT · Nov 2026</sub>
+### #&#8288;36 [api-platform](https://github.com/api-platform/api-platform) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · MIT · Nov 2026</sub>
 
 **Installer that scaffolds API Platform projects on Symfony or Laravel.**
 
@@ -631,24 +649,6 @@ This repository hosts the `api-platform` installer, a static binary or Composer 
 - **−** Linked Data and Hydra concepts add a learning curve for simple APIs
 
 <sub>PHP · Needs PHP, Composer, Symfony, Doctrine ORM · GitHub template · [Repo](https://github.com/api-platform/api-platform) · [📖 Docs ↗](https://api-platform.com/docs/distribution/) · [🌐 Site ↗](https://api-platform.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/api-platform/)</sub>
-
-<a name="hyperf"></a>
-### #&#8288;36 [hyperf](https://github.com/hyperf/hyperf) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Nov 2026</sub>
-
-**Coroutine PHP framework on Swoole or Swow for microservices and web servers.**
-
-Hyperf is a PHP 8.1+ CLI framework that runs on Swoole 5.0+ or Swow 1.4+ coroutine servers instead of PHP-FPM. It combines dependency injection with AOP, annotations and events, and ships coroutine-compatible clients and servers for MySQL, Redis, gRPC, JSON-RPC, WebSocket, AMQP, Consul and ETCD. Core components follow PSR standards and can be used in other frameworks.
-
-- **+** Coroutine servers on Swoole or Swow; README benchmark shows about 103,921 requests/sec on 8 cores
-- **+** Built-in coroutine clients for MySQL, Redis, gRPC, JSON-RPC, RabbitMQ, NSQ, Nats, Consul and ETCD
-- **+** DI container with AOP and annotations makes classes pluggable; components follow PSR standards
-- **+** MIT license with multilingual docs and per-component unit tests
-- **−** Requires the Swoole or Swow extension, so it does not run under plain PHP-FPM
-- **−** No AI or model-serving features; it is a general-purpose backend framework
-- **−** Runs as a long-lived CLI process, so code must be coroutine-safe
-- **−** Benchmark is a single wrk request to the root URL, not a realistic workload
-
-<sub>PHP · Needs PHP 8.1+, Swoole 5.0+ or Swow 1.4+ · [Repo](https://github.com/hyperf/hyperf) · [📖 Docs ↗](https://hyperf.wiki) · [🌐 Site ↗](https://hyperf.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hyperf/)</sub>
 
 <a name="huma"></a>
 ### #&#8288;37 [huma](https://github.com/danielgtaylor/huma) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Nov 2026</sub>

@@ -4,8 +4,26 @@ Prompt-to-app builders and platforms that run coding agents in sandboxes. Back t
 
 <sub>🌐 Also on the web: [App builder starters on archestack.com](https://archestack.com/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
 
+<a name="ai-website-cloner-template"></a>
+### 🥇 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
+
+**Agent skill that rebuilds a website from a URL as a Next.js app.**
+
+A Next.js 16 template that ships a portable `/clone-website` agent skill. Given a URL, the agent maps routes, inspects desktop and mobile pages, extracts assets and fonts, builds React components with shadcn/ui and Tailwind v4, then compares screenshots against the source. It works with Claude Code, Codex CLI, Cursor and OpenCode.
+
+- **+** One skill in .agents/skills is read directly by Codex, Cursor and OpenCode
+- **+** Four-step flow ends with source-vs-local comparison and a list of remaining gaps
+- **+** Output is editable Next.js 16, React 19, TypeScript strict, Tailwind v4 code
+- **+** Includes docker compose services for production and dev-mode runs
+- **−** Needs a separate coding agent with browser access; it does not run standalone
+- **−** Recommended Claude Code with Opus 5.5 implies paid model usage; cost is not stated
+- **−** Output quality is not quantified; gaps are reported per run by the agent
+- **−** Requires Node.js 24+, which is newer than many default installs
+
+<sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
+
 <a name="dyad"></a>
-### 🥇 [dyad](https://github.com/dyad-sh/dyad) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+### 🥈 [dyad](https://github.com/dyad-sh/dyad) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
 
 **Desktop app that builds apps from prompts on your own machine.**
 
@@ -22,7 +40,7 @@ Dyad is a local, open-source prompt-to-app builder, positioned as an alternative
 <sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
 
 <a name="jeecgboot"></a>
-### 🥈 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
 
 **Java and Vue3 low-code platform with built-in AI apps and knowledge base.**
 
@@ -38,24 +56,6 @@ JeecgBoot is a Spring Boot 4 and Vue3 base for enterprise business systems, with
 - **−** Docs and community support channels are mostly Chinese, including QQ groups
 
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, JDK 17, Maven, Node 20+, pnpm 10+, Docker Compose, Nacos (microservice mode) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
-
-<a name="ai-website-cloner-template"></a>
-### 🥉 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
-
-**Agent skill that rebuilds a website from a URL as a Next.js app.**
-
-A Next.js 16 template that ships a portable `/clone-website` agent skill. Given a URL, the agent maps routes, inspects desktop and mobile pages, extracts assets and fonts, builds React components with shadcn/ui and Tailwind v4, then compares screenshots against the source. It works with Claude Code, Codex CLI, Cursor and OpenCode.
-
-- **+** One skill in .agents/skills is read directly by Codex, Cursor and OpenCode
-- **+** Four-step flow ends with source-vs-local comparison and a list of remaining gaps
-- **+** Output is editable Next.js 16, React 19, TypeScript strict, Tailwind v4 code
-- **+** Includes docker compose services for production and dev-mode runs
-- **−** Needs a separate coding agent with browser access; it does not run standalone
-- **−** Recommended Claude Code with Opus 5.5 implies paid model usage; cost is not stated
-- **−** Output quality is not quantified; gaps are reported per run by the agent
-- **−** Requires Node.js 24+, which is newer than many default installs
-
-<sub>TypeScript, Claude Code (Opus 5.5 recommended), Codex CLI, Cursor, OpenCode · Needs Node.js 24+, AI coding agent with browser access · GitHub template · Docker · [Repo](https://github.com/jcodesmore/ai-website-cloner-template) · [▶️ Demo ↗](https://youtu.be/O669pVZ_qr0) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-website-cloner-template/)</sub>
 
 <a name="wasmer"></a>
 ### #&#8288;4 [wasmer](https://github.com/wasmerio/wasmer) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>

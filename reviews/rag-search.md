@@ -41,7 +41,7 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
 <a name="sonic"></a>
-### 🥉 [sonic](https://github.com/valeriansaliou/sonic) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MPL-2.0 · Oct 2026</sub>
+### 🥉 [sonic](https://github.com/valeriansaliou/sonic) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MPL-2.0 · Oct 2026</sub>
 
 **Lightweight schema-less search index that returns object IDs, written in Rust.**
 
