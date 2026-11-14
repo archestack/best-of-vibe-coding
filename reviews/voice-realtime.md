@@ -40,7 +40,7 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="jarvis"></a>
-### 🥉 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 982 · custom license · Sep 2026</sub>
+### 🥉 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 984 · custom license · Sep 2026</sub>
 
 **Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
 
@@ -268,7 +268,7 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
 <a name="openai-fm"></a>
-### #&#8288;16 [openai-fm](https://github.com/openai/openai-fm) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: popular (62) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;16 [openai-fm](https://github.com/openai/openai-fm) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: popular (62) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 

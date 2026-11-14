@@ -39,7 +39,7 @@ Nx is a monorepo tool for TypeScript and polyglot codebases, with a core written
 <sub>no GPU · Needs Node.js, Nx Cloud (optional, for remote cache and self-healing CI) · [Repo](https://github.com/nrwl/nx) · [📖 Docs ↗](https://nx.dev/docs) · [🌐 Site ↗](https://nx.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nx/)</sub>
 
 <a name="open-code-review"></a>
-### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 51k · Apache-2.0 · Nov 2026</sub>
 
 **Go CLI that reviews Git diffs with an LLM agent and line-level comments.**
 
@@ -164,7 +164,7 @@ Infracost is a Go CLI that estimates cloud cost and checks FinOps policies for T
 <sub>Docker · Needs Infracost account (authentication via infracost setup), Infracost Cloud (optional, for policies and dashboard) · [Repo](https://github.com/infracost/infracost) · [📖 Docs ↗](https://www.infracost.io/docs/) · [🌐 Site ↗](https://www.infracost.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/infracost/)</sub>
 
 <a name="e2e"></a>
-### #&#8288;10 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;10 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Agent-driven end-to-end testing for web and mobile apps.**
 
@@ -450,7 +450,7 @@ SoloPi records and replays UI flows on real Android devices, usually without add
 <sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
 
 <a name="reticle"></a>
-### #&#8288;26 [reticle](https://github.com/reticlehq/reticle) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
+### #&#8288;26 [reticle](https://github.com/reticlehq/reticle) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
 
 **MCP tools that let coding agents verify a running app and return pass, fail or unknown.**
 
@@ -612,7 +612,7 @@ pyscn is a Go CLI that parses Python with tree-sitter and reports dead code, dup
 <sub>no GPU · [Repo](https://github.com/ludo-technologies/pyscn) · [📖 Docs ↗](https://docs.codescan.dev/pyscn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyscn/)</sub>
 
 <a name="pre-commit-hooks"></a>
-### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (77) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
+### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (76) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
@@ -684,7 +684,7 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
 
 <a name="chatgpt-codereview"></a>
-### #&#8288;39 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (39) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
+### #&#8288;39 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (39) · Freshness: active (98) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
 
 **GitHub bot and Action that reviews pull request diffs with an LLM.**
 
@@ -774,7 +774,7 @@ Shortest is a TypeScript test framework where each test is a natural-language se
 <sub>no GPU · Needs Anthropic API, Playwright, Mailosaur (optional), Clerk, Vercel Postgres, Stripe (web app only) · Models: Anthropic Claude · port 3000 · [Repo](https://github.com/antiwork/shortest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shortest/)</sub>
 
 <a name="claude-code-security-review"></a>
-### #&#8288;44 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (54) · Freshness: slowing (33) · Maintenance: weak (5) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Feb 2026</sub>
+### #&#8288;44 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (54) · Freshness: slowing (32) · Maintenance: weak (5) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Feb 2026</sub>
 
 **GitHub Action that has Claude review pull request diffs for security issues.**
 

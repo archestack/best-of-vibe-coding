@@ -22,8 +22,26 @@ tRPC lets a TypeScript client call server procedures with inferred types for inp
 
 <sub>TypeScript · [Repo](https://github.com/trpc/trpc) · [📖 Docs ↗](https://trpc.io/docs) · [🌐 Site ↗](https://trpc.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/trpc/)</sub>
 
+<a name="generator-jhipster"></a>
+### 🥈 [generator-jhipster](https://github.com/jhipster/generator-jhipster) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · Apache-2.0 · Nov 2026</sub>
+
+**Code generator for Java apps with Angular, React or Vue frontends.**
+
+JHipster is a Node.js generator (npm package generator-jhipster) that scaffolds Java application projects with an Angular, React or Vue frontend, built with Maven or Gradle. Its CI matrix covers monolith and microservice layouts, SQL and NoSQL databases, and JWT or OAuth 2.0 authentication. It is a conventional scaffolding tool, and the README describes no AI features.
+
+- **+** Angular, React and Vue variants are each built in CI with Maven and Gradle
+- **+** Covers monolith and microservice setups with JWT or OAuth 2.0 auth
+- **+** CI also tests Elasticsearch, no-database and Windows variants
+- **+** Blueprints let teams extend the generator; Apache-2.0 licensed
+- **−** No AI or LLM functionality described in the README
+- **−** Only Java 21/25 with Node 22/24 is verified in CI
+- **−** Running it on a foreign project executes blueprints declared in .yo-rc.json
+- **−** README is mostly badges; usage and features live on the external website
+
+<sub>TypeScript · Needs Node.js 22/24, Java 21/25 · Docker · [Repo](https://github.com/jhipster/generator-jhipster) · [📖 Docs ↗](https://www.jhipster.tech/) · [🌐 Site ↗](https://www.jhipster.tech/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generator-jhipster/)</sub>
+
 <a name="fastapi"></a>
-### 🥈 [fastapi](https://github.com/fastapi/fastapi) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 105k · MIT · Nov 2026</sub>
+### 🥉 [fastapi](https://github.com/fastapi/fastapi) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 105k · MIT · Nov 2026</sub>
 
 **Python web framework for typed REST APIs with automatic OpenAPI docs.**
 
@@ -41,7 +59,7 @@ FastAPI is a Python framework for building HTTP APIs from standard type hints. I
 <sub>Python · Needs Starlette, Pydantic, Uvicorn · [Repo](https://github.com/fastapi/fastapi) · [📖 Docs ↗](https://fastapi.tiangolo.com/tutorial/) · [🌐 Site ↗](https://fastapi.tiangolo.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastapi/)</sub>
 
 <a name="fiber"></a>
-### 🥉 [fiber](https://github.com/gofiber/fiber) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Nov 2026</sub>
+### #&#8288;4 [fiber](https://github.com/gofiber/fiber) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Nov 2026</sub>
 
 **Express-style HTTP web framework for Go, built on fasthttp.**
 
@@ -57,24 +75,6 @@ Fiber is a Go web framework with an Express-like API for routing, middleware and
 - **−** Adapted net/http handlers lose fiber.Ctx features and add compatibility overhead
 
 <sub>Go · Needs Go 1.26+, fasthttp · [Repo](https://github.com/gofiber/fiber) · [📖 Docs ↗](https://docs.gofiber.io) · [🌐 Site ↗](https://gofiber.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fiber/)</sub>
-
-<a name="generator-jhipster"></a>
-### #&#8288;4 [generator-jhipster](https://github.com/jhipster/generator-jhipster) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · Apache-2.0 · Nov 2026</sub>
-
-**Code generator for Java apps with Angular, React or Vue frontends.**
-
-JHipster is a Node.js generator (npm package generator-jhipster) that scaffolds Java application projects with an Angular, React or Vue frontend, built with Maven or Gradle. Its CI matrix covers monolith and microservice layouts, SQL and NoSQL databases, and JWT or OAuth 2.0 authentication. It is a conventional scaffolding tool, and the README describes no AI features.
-
-- **+** Angular, React and Vue variants are each built in CI with Maven and Gradle
-- **+** Covers monolith and microservice setups with JWT or OAuth 2.0 auth
-- **+** CI also tests Elasticsearch, no-database and Windows variants
-- **+** Blueprints let teams extend the generator; Apache-2.0 licensed
-- **−** No AI or LLM functionality described in the README
-- **−** Only Java 21/25 with Node 22/24 is verified in CI
-- **−** Running it on a foreign project executes blueprints declared in .yo-rc.json
-- **−** README is mostly badges; usage and features live on the external website
-
-<sub>TypeScript · Needs Node.js 22/24, Java 21/25 · Docker · [Repo](https://github.com/jhipster/generator-jhipster) · [📖 Docs ↗](https://www.jhipster.tech/) · [🌐 Site ↗](https://www.jhipster.tech/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generator-jhipster/)</sub>
 
 <a name="echo"></a>
 ### #&#8288;5 [echo](https://github.com/labstack/echo) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
@@ -633,7 +633,7 @@ This repository hosts the `api-platform` installer, a static binary or Composer 
 <sub>PHP · Needs PHP, Composer, Symfony, Doctrine ORM · GitHub template · [Repo](https://github.com/api-platform/api-platform) · [📖 Docs ↗](https://api-platform.com/docs/distribution/) · [🌐 Site ↗](https://api-platform.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/api-platform/)</sub>
 
 <a name="hyperf"></a>
-### #&#8288;36 [hyperf](https://github.com/hyperf/hyperf) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Nov 2026</sub>
+### #&#8288;36 [hyperf](https://github.com/hyperf/hyperf) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Nov 2026</sub>
 
 **Coroutine PHP framework on Swoole or Swow for microservices and web servers.**
 
@@ -813,7 +813,7 @@ A Go backend built on Gin and GORM v2 that implements the RealWorld (Conduit) AP
 <sub>Go · Needs Go 1.21+, SQLite (cgo) · env example file · [Repo](https://github.com/realworld-apps/golang-gin-realworld-example-app) · [📖 Docs ↗](https://godoc.org/github.com/gothinkster/golang-gin-realworld-example-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/golang-gin-realworld-example-app/)</sub>
 
 <a name="genlayer-project-boilerplate"></a>
-### #&#8288;46 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (80) · Freshness: recent (70) · Maintenance: weak (14) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
+### #&#8288;46 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (80) · Freshness: recent (70) · Maintenance: weak (15) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
 
 **GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
 
@@ -975,7 +975,7 @@ Connexion is a Python web framework where the OpenAPI (or Swagger) spec drives t
 <sub>Python · Needs Python, OpenAPI specification, uvicorn (optional), Flask (optional) · [Repo](https://github.com/spec-first/connexion) · [📖 Docs ↗](https://connexion.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/connexion/)</sub>
 
 <a name="serverless-express"></a>
-### #&#8288;55 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (46) · Freshness: recent (67) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
+### #&#8288;55 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (46) · Freshness: recent (66) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
 
 **Run Express, Koa or Hapi apps on AWS Lambda or Azure Functions.**
 
@@ -1029,7 +1029,7 @@ A GitHub template repository for starting a C++ library or executable with a CMa
 <sub>CMake · Needs CMake, CPM.cmake, clang-format, cmake-format, Doxygen, codecov · GitHub template · [Repo](https://github.com/thelartians/moderncppstarter) · [📖 Docs ↗](https://thelartians.github.io/ModernCppStarter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/moderncppstarter/)</sub>
 
 <a name="nunu"></a>
-### #&#8288;58 [nunu](https://github.com/go-nunu/nunu) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
+### #&#8288;58 [nunu](https://github.com/go-nunu/nunu) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (28) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
 
 **Go CLI that scaffolds layered Gin and Gorm projects with Wire injection.**
 
