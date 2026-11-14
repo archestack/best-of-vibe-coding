@@ -668,26 +668,8 @@ Huma is a Go micro framework that runs on a router you choose (chi, the Go 1.22+
 
 <sub>Go · Needs Go 1.26+, Go HTTP router such as chi (optional) · [Repo](https://github.com/danielgtaylor/huma) · [📖 Docs ↗](https://pkg.go.dev/github.com/danielgtaylor/huma/v2) · [🌐 Site ↗](https://huma.rocks/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/huma/)</sub>
 
-<a name="fastapi-langgraph-agent-production-ready-template"></a>
-### #&#8288;38 [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
-
-**FastAPI backend template for LangGraph agents with memory, auth and tracing.**
-
-A Python backend template that wires a stateful LangGraph agent into FastAPI with JWT sessions, slowapi rate limiting, Alembic migrations and PostgreSQL checkpointing. Long-term memory runs in-process through mem0 and pgvector, and LLM calls go through a service with retries and circular model fallback. Observability comes from Langfuse tracing, Prometheus metrics and Grafana dashboards.
-
-- **+** Circular model fallback with tenacity retries and a total timeout budget
-- **+** Per-user long-term memory via mem0 and pgvector in your own PostgreSQL
-- **+** Langfuse tracing, Prometheus metrics and Grafana dashboards included
-- **+** Custom tools are added by registering a LangChain @tool function
-- **−** Ships a single agent; supervisor or sub-agent setups must be wired by hand
-- **−** mem0 memory needs an OpenAI API key for fact extraction and embeddings
-- **−** Requires PostgreSQL with the pgvector extension
-- **−** Non-OpenAI providers need extra packages and registry edits
-
-<sub>Python, OpenAI, Anthropic, Ollama, Google GenAI · Needs PostgreSQL, pgvector, Langfuse (optional), Valkey/Redis (optional), Prometheus and Grafana (optional) · Docker · env example file · [Repo](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastapi-langgraph-agent-production-ready-template/)</sub>
-
 <a name="dropwizard"></a>
-### #&#8288;39 [dropwizard](https://github.com/dropwizard/dropwizard) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;38 [dropwizard](https://github.com/dropwizard/dropwizard) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Nov 2026</sub>
 
 **Java framework bundling Jetty, Jersey and Jackson for REST services.**
 
@@ -703,6 +685,24 @@ Dropwizard is a Java library that wires Jetty, Jersey, Jackson, Logback, Hiberna
 - **−** No Docker image or compose file in the repository
 
 <sub>Java · Needs Java · [Repo](https://github.com/dropwizard/dropwizard) · [📖 Docs ↗](https://www.dropwizard.io/en/stable/) · [🌐 Site ↗](http://www.dropwizard.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dropwizard/)</sub>
+
+<a name="fastapi-langgraph-agent-production-ready-template"></a>
+### #&#8288;39 [fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
+
+**FastAPI backend template for LangGraph agents with memory, auth and tracing.**
+
+A Python backend template that wires a stateful LangGraph agent into FastAPI with JWT sessions, slowapi rate limiting, Alembic migrations and PostgreSQL checkpointing. Long-term memory runs in-process through mem0 and pgvector, and LLM calls go through a service with retries and circular model fallback. Observability comes from Langfuse tracing, Prometheus metrics and Grafana dashboards.
+
+- **+** Circular model fallback with tenacity retries and a total timeout budget
+- **+** Per-user long-term memory via mem0 and pgvector in your own PostgreSQL
+- **+** Langfuse tracing, Prometheus metrics and Grafana dashboards included
+- **+** Custom tools are added by registering a LangChain @tool function
+- **−** Ships a single agent; supervisor or sub-agent setups must be wired by hand
+- **−** mem0 memory needs an OpenAI API key for fact extraction and embeddings
+- **−** Requires PostgreSQL with the pgvector extension
+- **−** Non-OpenAI providers need extra packages and registry edits
+
+<sub>Python, OpenAI, Anthropic, Ollama, Google GenAI · Needs PostgreSQL, pgvector, Langfuse (optional), Valkey/Redis (optional), Prometheus and Grafana (optional) · Docker · env example file · [Repo](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastapi-langgraph-agent-production-ready-template/)</sub>
 
 <a name="typescript-express-starter"></a>
 ### #&#8288;40 [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Oct 2026</sub>
