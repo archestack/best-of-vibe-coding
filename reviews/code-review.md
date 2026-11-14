@@ -218,7 +218,7 @@ Keploy records API calls, database queries and queue events by capturing traffic
 <sub>no GPU · Docker · [Repo](https://github.com/keploy/keploy) · [📖 Docs ↗](https://keploy.io/docs/) · [🌐 Site ↗](https://keploy.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/keploy/)</sub>
 
 <a name="hunk"></a>
-### #&#8288;13 [hunk](https://github.com/modem-dev/hunk) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
+### #&#8288;13 [hunk](https://github.com/modem-dev/hunk) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
 
 **Terminal diff viewer for reviewing code changes, with inline agent notes.**
 
@@ -254,7 +254,7 @@ no-mistakes adds a `no-mistakes` git remote in front of your real one. Pushing t
 <sub>Needs git, a supported coding agent CLI (claude, codex, opencode, etc.) · Models: claude, codex, grok, rovodev, opencode · [Repo](https://github.com/kunchenguid/no-mistakes) · [📖 Docs ↗](https://kunchenguid.github.io/no-mistakes/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/no-mistakes/)</sub>
 
 <a name="codex-security"></a>
-### #&#8288;15 [codex-security](https://github.com/openai/codex-security) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;15 [codex-security](https://github.com/openai/codex-security) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Vulnerability scanner, validator and patcher with a CLI, TypeScript SDK and Codex plugin.**
 
@@ -612,7 +612,7 @@ deepsec runs regex matchers to find candidate sites in a repository, then has AI
 <sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
 
 <a name="pre-commit-hooks"></a>
-### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (76) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
+### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (76) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 

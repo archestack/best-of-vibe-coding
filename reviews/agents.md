@@ -147,7 +147,7 @@ Agent Autoloop is a zero-runtime-dependency Node hub that dispatches events (cro
 <sub>TypeScript, Claude Code, Codex, ACP agents (Gemini CLI, OpenCode), DeepSeek Harness · Needs Node 24+, Git, A logged-in CLI agent (Claude Code, Codex, etc.), curl (macOS/Linux install) · [Repo](https://github.com/kkkkhazix/agent-autoloop) · [📖 Docs ↗](https://github.com/KKKKhazix/agent-autoloop/blob/main/skills/agent-autoloop/SKILL.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-autoloop/)</sub>
 
 <a name="agentteams"></a>
-### #&#8288;9 [agentteams](https://github.com/agentscope-ai/agentteams) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [agentteams](https://github.com/agentscope-ai/agentteams) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · Apache-2.0 · Nov 2026</sub>
 
 **Coordinates a Manager agent and Worker agents in Matrix rooms.**
 
@@ -684,7 +684,7 @@ An eve pipeline named Foreman: label an issue factory, @mention it, or delegate 
 <sub>TypeScript, eve, ai-sdk · Needs vercel, github-app-connector, linear-connector, vercel-blob · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="innovation-lab-examples"></a>
-### #&#8288;39 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
+### #&#8288;39 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (30) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
 
 **Collection of 80+ runnable Python agent examples built on Fetch.ai uAgents.**
 
@@ -871,26 +871,8 @@ The TypeScript counterpart of the blank LangGraph template: src/agent/graph.ts k
 
 <sub>TypeScript, langgraph · Needs langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/new-langgraphjs-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraphjs-project/)</sub>
 
-<a name="template-mcp-server"></a>
-### #&#8288;50 [template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 68 · Apache-2.0 · Oct 2026</sub>
-
-**Python FastMCP server template with example tools and OAuth.**
-
-A Python template for building MCP servers on FastMCP and FastAPI, with three example tools: a multiply calculator, a code review prompt generator and a Red Hat logo tool. It supports HTTP, SSE and streamable-HTTP transports, optional SSL, structlog JSON logging and Pydantic configuration from environment variables. It also ships a Containerfile, compose file, OpenShift manifests and GitHub Actions workflows.
-
-- **+** Transport selectable with one env var: http, sse or streamable-http
-- **+** Includes UBI-based Containerfile, compose file, OpenShift manifests and CI workflows
-- **+** Optional OAuth with PostgreSQL token storage already wired in
-- **+** Rename checklist and a five-minute first-tool tutorial
-- **−** ENABLE_AUTH is False in .env.example but True in code; skipping .env enables auth
-- **−** Example tools are trivial, so all real tool logic is yours to write
-- **−** Renaming package, Makefile, manifests and workflows is a manual checklist
-- **−** Defaults assume Red Hat conventions such as UBI images and OpenShift
-
-<sub>Python · Needs Python 3.12+, PostgreSQL (OAuth token storage) · GitHub template · Docker · env example file · [Repo](https://github.com/redhat-data-and-ai/template-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/template-mcp-server/)</sub>
-
 <a name="opengap"></a>
-### #&#8288;51 [opengap](https://github.com/open-gitagent/opengap) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (50) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Jul 2026</sub>
+### #&#8288;50 [opengap](https://github.com/open-gitagent/opengap) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (50) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Jul 2026</sub>
 
 **Git-repo file standard and CLI for defining portable AI agents.**
 
@@ -906,6 +888,24 @@ OpenGAP defines an agent as a git repo: agent.yaml and SOUL.md are required, wit
 - **−** Package was renamed twice (gitagent, gapman, opengap), which complicates searching docs and installs
 
 <sub>TypeScript, Claude, OpenAI, Gemini, GitHub Models · Needs Node.js >= 18, git · [Repo](https://github.com/open-gitagent/opengap) · [📖 Docs ↗](https://github.com/open-gitagent/gitagent/blob/main/spec/SPECIFICATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengap/)</sub>
+
+<a name="template-mcp-server"></a>
+### #&#8288;51 [template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 70 · Apache-2.0 · Oct 2026</sub>
+
+**Python FastMCP server template with example tools and OAuth.**
+
+A Python template for building MCP servers on FastMCP and FastAPI, with three example tools: a multiply calculator, a code review prompt generator and a Red Hat logo tool. It supports HTTP, SSE and streamable-HTTP transports, optional SSL, structlog JSON logging and Pydantic configuration from environment variables. It also ships a Containerfile, compose file, OpenShift manifests and GitHub Actions workflows.
+
+- **+** Transport selectable with one env var: http, sse or streamable-http
+- **+** Includes UBI-based Containerfile, compose file, OpenShift manifests and CI workflows
+- **+** Optional OAuth with PostgreSQL token storage already wired in
+- **+** Rename checklist and a five-minute first-tool tutorial
+- **−** ENABLE_AUTH is False in .env.example but True in code; skipping .env enables auth
+- **−** Example tools are trivial, so all real tool logic is yours to write
+- **−** Renaming package, Makefile, manifests and workflows is a manual checklist
+- **−** Defaults assume Red Hat conventions such as UBI images and OpenShift
+
+<sub>Python · Needs Python 3.12+, PostgreSQL (OAuth token storage) · GitHub template · Docker · env example file · [Repo](https://github.com/redhat-data-and-ai/template-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/template-mcp-server/)</sub>
 
 <a name="code-mode"></a>
 ### #&#8288;52 [code-mode](https://github.com/universal-tool-calling-protocol/code-mode) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (36) · Freshness: active (85) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MPL-2.0 · Aug 2026</sub>
