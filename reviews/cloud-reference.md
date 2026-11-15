@@ -76,26 +76,8 @@ Fiber is a Go web framework with an Express-like API for routing, middleware and
 
 <sub>Go · Needs Go 1.26+, fasthttp · [Repo](https://github.com/gofiber/fiber) · [📖 Docs ↗](https://docs.gofiber.io) · [🌐 Site ↗](https://gofiber.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fiber/)</sub>
 
-<a name="echo"></a>
-### #&#8288;5 [echo](https://github.com/labstack/echo) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
-
-**Minimalist Go web framework with a radix-tree router and middleware.**
-
-Echo is a Go web framework built on net/http. It adds a radix-tree router, route groups, request binding for JSON, XML, form, query and path data, and centralized error handling. It ships middleware such as a log/slog request logger and panic recovery, and supports TLS, HTTP/2, autocert and graceful shutdown. It has no AI-specific features; the README lists NVIDIA's LLM API gateway among its users.
-
-- **+** Built on net/http; interoperates via echo.WrapHandler and echo.WrapMiddleware
-- **+** Middleware at root, group or route level, with a single HTTPErrorHandler
-- **+** Binding for JSON, XML, form, query and path parameters with pluggable validation
-- **+** v5 released 2026-01-18; v4 gets security fixes until 2027-12-31
-- **−** No AI, model or agent features; it is a generic HTTP framework
-- **−** v5 changes the API from v4; upgrading requires following API_CHANGES_V5.md
-- **−** API key/JWT auth, tenant isolation and admin console are in paid Echo Pro
-- **−** Library only; no starter app or project scaffold included
-
-<sub>Go · Needs Go · [Repo](https://github.com/labstack/echo) · [📖 Docs ↗](https://echo.labstack.com/guide/quickstart/) · [🌐 Site ↗](https://echo.labstack.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo/)</sub>
-
 <a name="serverless"></a>
-### #&#8288;6 [serverless](https://github.com/serverless/serverless) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 47k · custom license · Nov 2026</sub>
+### #&#8288;5 [serverless](https://github.com/serverless/serverless) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 47k · custom license · Nov 2026</sub>
 
 **CLI that deploys AWS Lambda code and infrastructure from serverless.yml.**
 
@@ -111,6 +93,24 @@ The Serverless Framework is a Node.js CLI that reads a serverless.yml file and d
 - **−** Self-updates automatically every 24 hours by default
 
 <sub>JavaScript, Amazon Bedrock · Needs Node.js 18.17.0+, AWS account, Serverless Dashboard login · [Repo](https://github.com/serverless/serverless) · [📖 Docs ↗](https://serverless.com/framework/docs/) · [🌐 Site ↗](https://serverless.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless/)</sub>
+
+<a name="echo"></a>
+### #&#8288;6 [echo](https://github.com/labstack/echo) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+
+**Minimalist Go web framework with a radix-tree router and middleware.**
+
+Echo is a Go web framework built on net/http. It adds a radix-tree router, route groups, request binding for JSON, XML, form, query and path data, and centralized error handling. It ships middleware such as a log/slog request logger and panic recovery, and supports TLS, HTTP/2, autocert and graceful shutdown. It has no AI-specific features; the README lists NVIDIA's LLM API gateway among its users.
+
+- **+** Built on net/http; interoperates via echo.WrapHandler and echo.WrapMiddleware
+- **+** Middleware at root, group or route level, with a single HTTPErrorHandler
+- **+** Binding for JSON, XML, form, query and path parameters with pluggable validation
+- **+** v5 released 2026-01-18; v4 gets security fixes until 2027-12-31
+- **−** No AI, model or agent features; it is a generic HTTP framework
+- **−** v5 changes the API from v4; upgrading requires following API_CHANGES_V5.md
+- **−** API key/JWT auth, tenant isolation and admin console are in paid Echo Pro
+- **−** Library only; no starter app or project scaffold included
+
+<sub>Go · Needs Go · [Repo](https://github.com/labstack/echo) · [📖 Docs ↗](https://echo.labstack.com/guide/quickstart/) · [🌐 Site ↗](https://echo.labstack.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo/)</sub>
 
 <a name="douyin-tiktok-download-api"></a>
 ### #&#8288;7 [douyin_tiktok_download_api](https://github.com/evil0ctal/douyin_tiktok_download_api) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
@@ -813,7 +813,7 @@ A Go backend built on Gin and GORM v2 that implements the RealWorld (Conduit) AP
 <sub>Go · Needs Go 1.21+, SQLite (cgo) · env example file · [Repo](https://github.com/realworld-apps/golang-gin-realworld-example-app) · [📖 Docs ↗](https://godoc.org/github.com/gothinkster/golang-gin-realworld-example-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/golang-gin-realworld-example-app/)</sub>
 
 <a name="genlayer-project-boilerplate"></a>
-### #&#8288;46 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (80) · Freshness: recent (69) · Maintenance: weak (15) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
+### #&#8288;46 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (80) · Freshness: recent (69) · Maintenance: weak (16) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
 
 **GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
 
@@ -1101,7 +1101,7 @@ Express and TypeScript REST API with vertical-slice modules, Zod validation, Inv
 <sub>TypeScript, OpenAI, Anthropic, DeepSeek, OpenRouter · Needs PostgreSQL or SQLite, Redis, AWS S3 (uploads), LLM API key for codegen · GitHub template · Docker · env example file · [Repo](https://github.com/vyancharuk/nodejs-api-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nodejs-api-boilerplate/)</sub>
 
 <a name="get-started-with-ai-agents"></a>
-### #&#8288;62 [get-started-with-ai-agents](https://github.com/azure-samples/get-started-with-ai-agents) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 385 · MIT · Oct 2026</sub>
+### #&#8288;62 [get-started-with-ai-agents](https://github.com/azure-samples/get-started-with-ai-agents) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 386 · MIT · Oct 2026</sub>
 
 **Azure azd template for a Foundry agent chat app with file search.**
 
