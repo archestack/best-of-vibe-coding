@@ -40,7 +40,7 @@ Dyad is a local, open-source prompt-to-app builder, positioned as an alternative
 <sub>TypeScript · Needs Your own AI provider API keys · env example file · [Repo](https://github.com/dyad-sh/dyad) · [🌐 Site ↗](https://dyad.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dyad/)</sub>
 
 <a name="jeecgboot"></a>
-### 🥉 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [jeecgboot](https://github.com/jeecgboot/jeecgboot) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
 
 **Java and Vue3 low-code platform with built-in AI apps and knowledge base.**
 
@@ -183,7 +183,7 @@ Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Fir
 <sub>Go · Needs Linux with KVM, Firecracker, PostgreSQL, Redis, ClickHouse, Object storage, Docker Compose (Embed) · [Repo](https://github.com/e2b-dev/runtime) · [📖 Docs ↗](https://docs.e2b.dev/) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/runtime/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;11 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (46) · Freshness: active (92) · Maintenance: patchy (48) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
+### #&#8288;11 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (46) · Freshness: active (91) · Maintenance: patchy (48) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -254,7 +254,7 @@ Next.js 14 app that takes a chat prompt, has an LLM generate code, and runs it i
 <sub>TypeScript, OpenAI, Anthropic, Google AI, Google Vertex · Needs E2B API key, LLM provider API key, Supabase (optional, auth), Vercel/Upstash KV (optional), PostHog (optional), Morph API key (optional) · env example file · [Repo](https://github.com/e2b-dev/fragments) · [▶️ Demo ↗](https://fragments.e2b.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fragments/)</sub>
 
 <a name="monkeycode"></a>
-### #&#8288;15 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;15 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · AGPL-3.0 · Nov 2026</sub>
 
 **AI development platform that runs coding tasks in server-side environments.**
 
@@ -341,7 +341,7 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
 <a name="chef"></a>
-### #&#8288;20 [chef](https://github.com/convex/chef) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (39) · Freshness: slowing (40) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;20 [chef](https://github.com/convex/chef) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (39) · Freshness: slowing (39) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
@@ -377,7 +377,7 @@ Claudable is a Next.js web app that wraps locally installed coding-agent CLIs (C
 <sub>TypeScript, Claude Code (Claude Opus 4.6), Codex CLI (GPT-5), Cursor CLI, Qwen Code (Qwen3-Coder) · Needs Node.js 18+, Git, Claude Code, Codex CLI, Cursor CLI, Qwen Code or Z.AI GLM agent, SQLite, GitHub, Vercel, Supabase · [Repo](https://github.com/anymorph-ai/claudable) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claudable/)</sub>
 
 <a name="coding-agent-template"></a>
-### #&#8288;22 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (15) · Freshness: slowing (33) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;22 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (15) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
 
 **Run Claude Code, Codex and other coding CLIs in Vercel Sandbox.**
 

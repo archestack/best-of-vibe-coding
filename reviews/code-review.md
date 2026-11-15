@@ -395,26 +395,8 @@ PR Lens reads a pull request diff with an LLM and posts a comment containing ani
 
 <sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
 
-<a name="testsprite-cli"></a>
-### #&#8288;23 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
-
-**CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents.**
-
-Official CLI for the TestSprite testing service. You write test plans as JSON in plain language, or have the service propose them. Tests run against a live app in the cloud, or a local one through a tunnel. A failed run comes back as one failure bundle that a coding agent can read, fix and rerun. `testsprite setup` installs a verification skill for eight agents, including Claude, Cursor, Cline and Codex.
-
-- **+** `test failure get` returns one self-contained failure bundle, plus non-zero exit codes for CI and agents
-- **+** Installs its skill for eight agents: claude, cursor, cline, windsurf, antigravity, kiro, copilot, codex
-- **+** Tunnel lets cloud tests reach localhost apps, with batch runs of 1-10 concurrent tests
-- **+** Plans are plain-language JSON with a published schema, so no browser code is needed
-- **−** Requires a TestSprite account and API key; tests execute on their hosted backend, not locally
-- **−** Plan generation and runs spend workspace credits; a PRD upload bills 0.5 credits
-- **−** Local projects skip plan generation, so plans must be written by hand
-- **−** Needs Node.js 20.19+, 22.13+ or 24+; the CLI is a client, not a self-hostable engine
-
-<sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
-
 <a name="tflint"></a>
-### #&#8288;24 [tflint](https://github.com/terraform-linters/tflint) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
+### #&#8288;23 [tflint](https://github.com/terraform-linters/tflint) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
 
 **Pluggable linter for Terraform configurations.**
 
@@ -430,6 +412,24 @@ TFLint is a Go command-line linter for Terraform code. The core is a plugin fram
 - **−** Not AI-based; rule-driven static checks only, so coverage depends on available rulesets
 
 <sub>no GPU · Docker · Needs GitHub (plugin download via tflint --init) · [Repo](https://github.com/terraform-linters/tflint) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tflint/)</sub>
+
+<a name="testsprite-cli"></a>
+### #&#8288;24 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+
+**CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents.**
+
+Official CLI for the TestSprite testing service. You write test plans as JSON in plain language, or have the service propose them. Tests run against a live app in the cloud, or a local one through a tunnel. A failed run comes back as one failure bundle that a coding agent can read, fix and rerun. `testsprite setup` installs a verification skill for eight agents, including Claude, Cursor, Cline and Codex.
+
+- **+** `test failure get` returns one self-contained failure bundle, plus non-zero exit codes for CI and agents
+- **+** Installs its skill for eight agents: claude, cursor, cline, windsurf, antigravity, kiro, copilot, codex
+- **+** Tunnel lets cloud tests reach localhost apps, with batch runs of 1-10 concurrent tests
+- **+** Plans are plain-language JSON with a published schema, so no browser code is needed
+- **−** Requires a TestSprite account and API key; tests execute on their hosted backend, not locally
+- **−** Plan generation and runs spend workspace credits; a PRD upload bills 0.5 credits
+- **−** Local projects skip plan generation, so plans must be written by hand
+- **−** Needs Node.js 20.19+, 22.13+ or 24+; the CLI is a client, not a self-hostable engine
+
+<sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
 
 <a name="solopi"></a>
 ### #&#8288;25 [solopi](https://github.com/alipay/solopi) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
@@ -612,7 +612,7 @@ deepsec runs regex matchers to find candidate sites in a repository, then has AI
 <sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
 
 <a name="pre-commit-hooks"></a>
-### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (76) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
+### #&#8288;35 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (52) · Freshness: recent (76) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
@@ -720,7 +720,7 @@ A GitHub Action that installs and runs Gemini CLI inside workflows. Prebuilt wor
 <sub>no GPU · Needs GitHub Actions, Gemini CLI, Gemini API key or Google Cloud (Vertex AI / Code Assist) · Models: Gemini · [Repo](https://github.com/google-github-actions/run-gemini-cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/run-gemini-cli/)</sub>
 
 <a name="shippie"></a>
-### #&#8288;41 [shippie](https://github.com/mattzcarey/shippie) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (29) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+### #&#8288;41 [shippie](https://github.com/mattzcarey/shippie) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (29) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
 
 **Code-review agent that comments on pull requests and staged diffs.**
 
