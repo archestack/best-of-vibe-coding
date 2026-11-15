@@ -5,7 +5,7 @@ Product boilerplates with auth, billing and a database wired in and AI built in,
 <sub>🌐 Also on the web: [SaaS and app starters on archestack.com](https://archestack.com/best-of-vibe-coding/saas-with-ai/), each project on its own page.</sub>
 
 <a name="twenty"></a>
-### 🥇 [twenty](https://github.com/twentyhq/twenty) <sub>score [97](../README.md#-how-we-rank "Score 97/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 61k · custom license · Nov 2026</sub>
+### 🥇 [twenty](https://github.com/twentyhq/twenty) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 61k · custom license · Nov 2026</sub>
 
 **Open-source CRM extensible with objects, views and agents defined as code.**
 
@@ -273,26 +273,8 @@ A clone-and-edit Next.js App Router starter in TypeScript with Tailwind CSS 4, C
 
 <sub>TypeScript · Needs Node.js 24+, npm, Clerk, PostgreSQL (PGlite locally, Neon optional), Sentry, Crowdin, Arcjet · GitHub template · ⚠️ .env file committed · sign-in: Clerk · [Repo](https://github.com/ixartz/next-js-boilerplate) · [▶️ Demo ↗](https://demo.nextjs-boilerplate.com) · [🌐 Site ↗](https://nextjs-boilerplate.com/pro-saas-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-js-boilerplate/)</sub>
 
-<a name="ant-design-pro"></a>
-### #&#8288;16 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
-
-**React admin dashboard template built on Ant Design 6 and Umi Max.**
-
-Ant Design Pro is a React 19 and TypeScript boilerplate for enterprise back-office apps, built on Umi Max 4 and antd 6. It ships ready-made pages for dashboards, forms, lists, profiles, account settings, login and error screens, plus i18n, mock data and unit and e2e tests. A built-in AI chatbot page uses Ant Design X, and an `npm run simple` script strips the template down to a minimal version.
-
-- **+** Includes dashboard, form, list, profile, account and result page templates
-- **+** Built-in i18n, mock development setup, and unit and e2e tests
-- **+** Ships Claude Code skills for upgrading the template and querying antd APIs
-- **+** TypeScript with Tailwind CSS v4 and antd-style theming
-- **−** AI support is a single chatbot page; no model backend is described
-- **−** `npm run simple` permanently deletes files and cannot be undone
-- **−** Tied to the Umi Max and antd stack; no other frameworks
-- **−** No Docker or compose setup mentioned in the README
-
-<sub>TypeScript · GitHub template · [Repo](https://github.com/ant-design/ant-design-pro) · [▶️ Demo ↗](https://preview.pro.ant.design) · [📖 Docs ↗](https://github.com/ant-design/ant-design-pro/blob/master/docs/cheatsheet.en-US.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ant-design-pro/)</sub>
-
 <a name="abp"></a>
-### #&#8288;17 [abp](https://github.com/abpframework/abp) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · LGPL-3.0 · Nov 2026</sub>
+### #&#8288;16 [abp](https://github.com/abpframework/abp) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · LGPL-3.0 · Nov 2026</sub>
 
 **Opinionated .NET framework for enterprise apps with DDD, modules and multi-tenancy.**
 
@@ -310,7 +292,7 @@ ABP is an application framework on top of ASP.NET Core that supplies infrastruct
 <sub>C# · Needs .NET, ASP.NET Core · [Repo](https://github.com/abpframework/abp) · [📖 Docs ↗](https://abp.io/docs/latest) · [🌐 Site ↗](https://abp.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/abp/)</sub>
 
 <a name="wave"></a>
-### #&#8288;18 [wave](https://github.com/thedevdojo/wave) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
+### #&#8288;17 [wave](https://github.com/thedevdojo/wave) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
 
 **Laravel SaaS framework with auth, billing, roles, blog and themes.**
 
@@ -327,7 +309,7 @@ Wave is a Laravel-based SaaS framework that ships the common product pieces: aut
 <sub>PHP · Needs PHP, Laravel · env example file · [Repo](https://github.com/thedevdojo/wave) · [▶️ Demo ↗](https://devdojo.com/wave/demo) · [📖 Docs ↗](https://devdojo.com/wave/docs) · [🌐 Site ↗](https://devdojo.com/wave) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wave/)</sub>
 
 <a name="react-bits"></a>
-### #&#8288;19 [react-bits](https://github.com/davidhdev/react-bits) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · custom license · Nov 2026</sub>
+### #&#8288;18 [react-bits](https://github.com/davidhdev/react-bits) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · custom license · Nov 2026</sub>
 
 **Animated React component library installed through the shadcn CLI.**
 
@@ -345,7 +327,7 @@ React Bits is a collection of 215+ animated React components: text effects, curs
 <sub>JavaScript · Needs React, shadcn CLI or jsrepo · [Repo](https://github.com/davidhdev/react-bits) · [▶️ Demo ↗](https://reactbits.dev) · [📖 Docs ↗](https://reactbits.dev/get-started/introduction) · [🌐 Site ↗](https://reactbits.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-bits/)</sub>
 
 <a name="create-better-t-stack"></a>
-### #&#8288;20 [create-better-t-stack](https://github.com/amanvarshney01/create-better-t-stack) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
+### #&#8288;19 [create-better-t-stack](https://github.com/amanvarshney01/create-better-t-stack) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
 
 **CLI that scaffolds type-safe TypeScript monorepos from a chosen stack.**
 
@@ -363,7 +345,7 @@ create-better-t-stack is an interactive CLI that generates a TypeScript project 
 <sub>TypeScript · Needs Bun, pnpm or npm, Turso, Neon, Supabase, MongoDB Atlas or Cloudflare D1 (optional DB setup) · [Repo](https://github.com/amanvarshney01/create-better-t-stack) · [📖 Docs ↗](https://better-t-stack.dev/docs/cli/agent-workflows) · [🌐 Site ↗](https://better-t-stack.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/create-better-t-stack/)</sub>
 
 <a name="formkit"></a>
-### #&#8288;21 [formkit](https://github.com/formkit/formkit) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
+### #&#8288;20 [formkit](https://github.com/formkit/formkit) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
 
 **Form framework for React and Vue with inline validation and schema-generated forms.**
 
@@ -379,6 +361,24 @@ FormKit provides a single `<FormKit>` component for every input type, with 30+ b
 - **−** Tailwind-oriented Regenesis theme; other styling needs custom work
 
 <sub>TypeScript · [Repo](https://github.com/formkit/formkit) · [📖 Docs ↗](https://formkit.com/getting-started/installation) · [🌐 Site ↗](https://formkit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/formkit/)</sub>
+
+<a name="ant-design-pro"></a>
+### #&#8288;21 [ant-design-pro](https://github.com/ant-design/ant-design-pro) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Oct 2026</sub>
+
+**React admin dashboard template built on Ant Design 6 and Umi Max.**
+
+Ant Design Pro is a React 19 and TypeScript boilerplate for enterprise back-office apps, built on Umi Max 4 and antd 6. It ships ready-made pages for dashboards, forms, lists, profiles, account settings, login and error screens, plus i18n, mock data and unit and e2e tests. A built-in AI chatbot page uses Ant Design X, and an `npm run simple` script strips the template down to a minimal version.
+
+- **+** Includes dashboard, form, list, profile, account and result page templates
+- **+** Built-in i18n, mock development setup, and unit and e2e tests
+- **+** Ships Claude Code skills for upgrading the template and querying antd APIs
+- **+** TypeScript with Tailwind CSS v4 and antd-style theming
+- **−** AI support is a single chatbot page; no model backend is described
+- **−** `npm run simple` permanently deletes files and cannot be undone
+- **−** Tied to the Umi Max and antd stack; no other frameworks
+- **−** No Docker or compose setup mentioned in the README
+
+<sub>TypeScript · GitHub template · [Repo](https://github.com/ant-design/ant-design-pro) · [▶️ Demo ↗](https://preview.pro.ant.design) · [📖 Docs ↗](https://github.com/ant-design/ant-design-pro/blob/master/docs/cheatsheet.en-US.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ant-design-pro/)</sub>
 
 <a name="shadcn-svelte"></a>
 ### #&#8288;22 [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
@@ -560,7 +560,7 @@ coss ui is the Cal.com design system: accessible React components built on Base 
 <sub>TypeScript · Needs Base UI, Tailwind CSS, Next.js, Bun, Turborepo · [Repo](https://github.com/cosscom/ui) · [🌐 Site ↗](https://coss.com/ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cosscom-ui/)</sub>
 
 <a name="exact"></a>
-### #&#8288;32 [exact](https://github.com/expo/exact) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Nov 2026</sub>
+### #&#8288;32 [exact](https://github.com/expo/exact) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Nov 2026</sub>
 
 **Cross-platform app runtime with a declarative UI language and agent test driver.**
 
@@ -578,7 +578,7 @@ Exact compiles UI written in Contract, a small declarative language, into a plan
 <sub>Rust · Needs Rust (rustup), Bun 1.4.2, Google Chrome, Xcode 27.1+, Hermes bundle · [Repo](https://github.com/expo/exact) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exact/)</sub>
 
 <a name="uni-app"></a>
-### #&#8288;33 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;33 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
 
 **Vue framework that builds app, web and mini-program clients from one codebase.**
 
@@ -1062,7 +1062,7 @@ Cove Stack is a TypeScript starter for TanStack Start (React, Router, Query) wit
 <sub>TypeScript · Needs PostgreSQL, Node.js >= 24, pnpm >= 12, Vite Plus · GitHub template · sign-in: Better Auth · [Repo](https://github.com/mugnavo/cove) · [▶️ Demo ↗](https://cove.mugnavo.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cove/)</sub>
 
 <a name="lithium"></a>
-### #&#8288;60 [lithium](https://github.com/wsvincent/lithium) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · custom license · Nov 2026</sub>
+### #&#8288;60 [lithium](https://github.com/wsvincent/lithium) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · custom license · Nov 2026</sub>
 
 **Django starter project with allauth login, Bootstrap 5 styling and SQLite.**
 

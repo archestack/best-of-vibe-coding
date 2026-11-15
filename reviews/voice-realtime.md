@@ -23,7 +23,7 @@ LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, device
 <sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
 
 <a name="voice-ui-kit"></a>
-### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
+### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 418 · BSD-2-Clause · Nov 2026</sub>
 
 **React components and templates for Pipecat voice agent frontends.**
 
@@ -76,7 +76,7 @@ Python example apps for Pipecat, an open-source framework for voice and multimod
 <sub>Python, OpenAI, Gemini Live, Deepgram, Cartesia · Needs Python 3.11+, OpenAI, Deepgram, Cartesia, Twilio, Daily · Docker · [Repo](https://github.com/pipecat-ai/pipecat-examples) · [📖 Docs ↗](https://docs.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pipecat-examples/)</sub>
 
 <a name="agent-starter-node"></a>
-### #&#8288;5 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 116 · MIT · Nov 2026</sub>
+### #&#8288;5 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 117 · MIT · Nov 2026</sub>
 
 **Node.js voice AI agent starter for LiveKit Agents.**
 

@@ -39,7 +39,7 @@ Nx is a monorepo tool for TypeScript and polyglot codebases, with a core written
 <sub>no GPU · Needs Node.js, Nx Cloud (optional, for remote cache and self-healing CI) · [Repo](https://github.com/nrwl/nx) · [📖 Docs ↗](https://nx.dev/docs) · [🌐 Site ↗](https://nx.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nx/)</sub>
 
 <a name="open-code-review"></a>
-### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 51k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 52k · Apache-2.0 · Nov 2026</sub>
 
 **Go CLI that reviews Git diffs with an LLM agent and line-level comments.**
 
@@ -254,7 +254,7 @@ no-mistakes adds a `no-mistakes` git remote in front of your real one. Pushing t
 <sub>Needs git, a supported coding agent CLI (claude, codex, opencode, etc.) · Models: claude, codex, grok, rovodev, opencode · [Repo](https://github.com/kunchenguid/no-mistakes) · [📖 Docs ↗](https://kunchenguid.github.io/no-mistakes/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/no-mistakes/)</sub>
 
 <a name="codex-security"></a>
-### #&#8288;15 [codex-security](https://github.com/openai/codex-security) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;15 [codex-security](https://github.com/openai/codex-security) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Vulnerability scanner, validator and patcher with a CLI, TypeScript SDK and Codex plugin.**
 
@@ -468,7 +468,7 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
 <a name="crit"></a>
-### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Browser UI for commenting on a coding agent's plans, diffs and running apps.**
 
