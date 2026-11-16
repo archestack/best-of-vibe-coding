@@ -1457,7 +1457,7 @@ Claude Context indexes a codebase into Milvus or Zilliz Cloud and exposes index_
 - **−** README claims ~40% token reduction from its own evaluation only
 - **−** No tagged releases listed on the repository
 
-<sub>no GPU · Needs Node.js >= 20, Milvus or Zilliz Cloud, OpenAI API key (default embedding provider) · Models: OpenAI, VoyageAI, Ollama, Gemini · safety checks passed 7 of 13 · [Repo](https://github.com/zilliztech/claude-context) · [📖 Docs ↗](https://github.com/zilliztech/claude-context/tree/master/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-context/)</sub>
+<sub>no GPU · Needs Node.js >= 20, Milvus or Zilliz Cloud, OpenAI API key (default embedding provider) · Models: OpenAI, VoyageAI, Ollama, Gemini · safety checks passed 9 of 13 · [Repo](https://github.com/zilliztech/claude-context) · [📖 Docs ↗](https://github.com/zilliztech/claude-context/tree/master/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-context/)</sub>
 
 <a name="cocoindex-code"></a>
 ### #&#8288;82 [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>

@@ -357,7 +357,7 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 - **−** Security, privacy and i18n categories are thin (22, 5 and 5 rules)
 - **−** MCP tool discovery can be lazy in some clients; the prompt must name the server
 
-<sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 13 of 14 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
+<sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 15 of 17 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
 <a name="pr-lens"></a>
 ### #&#8288;21 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>

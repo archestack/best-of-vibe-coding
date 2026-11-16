@@ -326,7 +326,7 @@ RTK is a single Rust binary that rewrites shell commands such as git, pytest, ca
 - **−** Mixed licensing: engine and proxy are BUSL-1.1, not Apache-2.0
 - **−** Full and oss editions share the binary name and cannot be installed together
 
-<sub>no GPU · safety checks passed 10 of 11 · [Repo](https://github.com/rtk-ai/rtk) · [📖 Docs ↗](https://www.rtk-ai.app/guide) · [🌐 Site ↗](https://www.rtk-ai.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rtk/)</sub>
+<sub>no GPU · safety checks passed 11 of 11 · [Repo](https://github.com/rtk-ai/rtk) · [📖 Docs ↗](https://www.rtk-ai.app/guide) · [🌐 Site ↗](https://www.rtk-ai.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rtk/)</sub>
 
 <a name="codexplusplus"></a>
 ### #&#8288;19 [codexplusplus](https://github.com/bigpizzav3/codexplusplus) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · AGPL-3.0 · Nov 2026</sub>
@@ -397,7 +397,7 @@ Ponytail is a single prompt (SKILL.md, with a compact AGENTS.md version) that te
 - **−** Band and board need Claude Code 2.1.290+ and do not show in the VS Code panel or claude -p
 - **−** Behavior depends on the agent following a prompt, so results are not deterministic
 
-<sub>no GPU · Needs Claude Code, Codex or another supported coding agent · Models: Claude Code, Codex, Devin CLI, OpenCode, Gemini · safety checks passed 10 of 11 · [Repo](https://github.com/dietrichgebert/ponytail) · [🌐 Site ↗](https://ponytail.dev/stories) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ponytail/)</sub>
+<sub>no GPU · Needs Claude Code, Codex or another supported coding agent · Models: Claude Code, Codex, Devin CLI, OpenCode, Gemini · safety checks passed 11 of 11 · [Repo](https://github.com/dietrichgebert/ponytail) · [🌐 Site ↗](https://ponytail.dev/stories) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ponytail/)</sub>
 
 <a name="graphify"></a>
 ### #&#8288;23 [graphify](https://github.com/graphify-labs/graphify) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 149k · Apache-2.0 · Nov 2026</sub>
@@ -523,7 +523,7 @@ Context Mode is a local plugin and MCP server for 10 coding agents, including Cl
 - **−** Savings figures are the author's own benchmarks, mostly run on Claude Code
 - **−** Conversation-level recall and shared memory need the separate hosted Gateway subscription
 
-<sub>no GPU · Needs Node 24.15.0+, Git for Windows (Windows only) · Models: Claude Code, Codex, Gemini CLI, Qwen Code, Pi · safety checks passed 11 of 17 · [Repo](https://github.com/mksglu/context-mode) · [📖 Docs ↗](https://contextmode.ai/docs/engine/install) · [🌐 Site ↗](https://contextmode.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context-mode/)</sub>
+<sub>no GPU · Needs Node 24.15.0+, Git for Windows (Windows only) · Models: Claude Code, Codex, Gemini CLI, Qwen Code, Pi · safety checks passed 15 of 17 · [Repo](https://github.com/mksglu/context-mode) · [📖 Docs ↗](https://contextmode.ai/docs/engine/install) · [🌐 Site ↗](https://contextmode.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context-mode/)</sub>
 
 <a name="openwiki"></a>
 ### #&#8288;30 [openwiki](https://github.com/langchain-ai/openwiki) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Nov 2026</sub>
@@ -667,7 +667,7 @@ opencodex is a local proxy that translates Codex's Responses API into whatever a
 - **−** ChatGPT account pooling carries provider-policy and suspension risk, per the README's own note
 - **−** JEV Auto routing is tested only against a mocked endpoint, not a live account
 
-<sub>no GPU · Docker + Compose · Needs Node 18+ (Bun bundled), Docker Compose (optional) · Models: OpenAI, Anthropic, Google Gemini, xAI, Kimi · port 10100 · safety checks passed 9 of 10 · [Repo](https://github.com/lidge-jun/opencodex) · [📖 Docs ↗](https://opencodex.me/) · [🌐 Site ↗](https://opencodex.me/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opencodex/)</sub>
+<sub>no GPU · Docker + Compose · Needs Node 18+ (Bun bundled), Docker Compose (optional) · Models: OpenAI, Anthropic, Google Gemini, xAI, Kimi · port 10100 · safety checks passed 10 of 10 · [Repo](https://github.com/lidge-jun/opencodex) · [📖 Docs ↗](https://opencodex.me/) · [🌐 Site ↗](https://opencodex.me/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opencodex/)</sub>
 
 <a name="kami"></a>
 ### #&#8288;38 [kami](https://github.com/tw93/kami) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
@@ -901,7 +901,7 @@ Hypit is a skill for coding agents such as Claude Code and Codex, installed with
 - **−** Bundled music is CC BY 4.0 and needs attribution
 - **−** Windows needs symlink support or a manual copy of the skill directory
 
-<sub>Needs Node.js 22+, FFmpeg, Hyperframes CLI, An Agent Skills-compatible agent · Models: Claude Code, Codex CLI, opencode, Cursor, Gemini CLI · safety checks passed 9 of 10 · [Repo](https://github.com/latent-spaces/brag) · [▶️ Demo ↗](https://latent-spaces.github.io/brag/) · [🌐 Site ↗](https://letsbrag.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/brag/)</sub>
+<sub>Needs Node.js 22+, FFmpeg, Hyperframes CLI, An Agent Skills-compatible agent · Models: Claude Code, Codex CLI, opencode, Cursor, Gemini CLI · safety checks passed 10 of 11 · [Repo](https://github.com/latent-spaces/brag) · [▶️ Demo ↗](https://latent-spaces.github.io/brag/) · [🌐 Site ↗](https://letsbrag.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/brag/)</sub>
 
 <a name="cc-haha"></a>
 ### #&#8288;51 [cc-haha](https://github.com/nanmicoder/cc-haha) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
@@ -1278,7 +1278,7 @@ A catalog of Claude Code add-ons (agents, slash commands, settings, hooks, MCP c
 - **−** README gives no versioning or update policy for installed templates
 - **−** Requires Node.js via npx; minimum version unknown
 
-<sub>no GPU · Needs Node.js (npx), Claude Code, Cloudflare Tunnel (optional, for remote chat monitor) · safety checks passed 7 of 12 · [Repo](https://github.com/davila7/claude-code-templates) · [📖 Docs ↗](https://docs.aitmpl.com) · [🌐 Site ↗](https://aitmpl.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-templates/)</sub>
+<sub>no GPU · Needs Node.js (npx), Claude Code, Cloudflare Tunnel (optional, for remote chat monitor) · safety checks passed 8 of 12 · [Repo](https://github.com/davila7/claude-code-templates) · [📖 Docs ↗](https://docs.aitmpl.com) · [🌐 Site ↗](https://aitmpl.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-templates/)</sub>
 
 <a name="elephant-goldfish-model"></a>
 ### #&#8288;72 [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 20k · Apache-2.0 · Nov 2026</sub>
@@ -1656,7 +1656,7 @@ Browser Harness connects Claude Code, Codex or Cursor to your running Chrome thr
 - **−** Eval score not distinguishable from Playwright MCP or Chrome DevTools MCP
 - **−** Benchmark run with Codex only; other agents not measured
 
-<sub>no GPU · Needs Chrome 144+, uv, Python 3.12 · Models: Claude Code, Codex, Cursor, any MCP client · safety checks passed 14 of 17 · [Repo](https://github.com/browser-use/browser-harness) · [📖 Docs ↗](https://github.com/browser-use/browser-harness/blob/main/install.md) · [🌐 Site ↗](https://browser-use.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/browser-harness/)</sub>
+<sub>no GPU · Needs Chrome 144+, uv, Python 3.12 · Models: Claude Code, Codex, Cursor, any MCP client · safety checks passed 11 of 13 · [Repo](https://github.com/browser-use/browser-harness) · [📖 Docs ↗](https://github.com/browser-use/browser-harness/blob/main/install.md) · [🌐 Site ↗](https://browser-use.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/browser-harness/)</sub>
 
 <a name="academic-research-skills-codex"></a>
 ### #&#8288;93 [academic-research-skills-codex](https://github.com/imbad0202/academic-research-skills-codex) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
@@ -2536,7 +2536,7 @@ Hallmark is a skill for Claude Code, Codex, Cursor and OpenCode that builds self
 - **−** Photo library links Wikimedia Commons images with mixed licenses that need on-page credit
 - **−** May not fire on its own; sometimes has to be invoked by name
 
-<sub>no GPU · Needs Node 18+, puppeteer-core, Chrome · Models: Claude Code, Codex CLI, Cursor, OpenCode · safety checks passed 10 of 11 · [Repo](https://github.com/nutlope/hallmark) · [▶️ Demo ↗](https://www.usehallmark.com) · [🌐 Site ↗](https://www.usehallmark.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hallmark/)</sub>
+<sub>no GPU · Needs Node 18+, puppeteer-core, Chrome · Models: Claude Code, Codex CLI, Cursor, OpenCode · safety checks passed 11 of 11 · [Repo](https://github.com/nutlope/hallmark) · [▶️ Demo ↗](https://www.usehallmark.com) · [🌐 Site ↗](https://www.usehallmark.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hallmark/)</sub>
 
 <a name="agency-agents-zh"></a>
 ### #&#8288;142 [agency-agents-zh](https://github.com/jnmetacode/agency-agents-zh) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · MIT · Nov 2026</sub>
@@ -3524,7 +3524,7 @@ Google's collection of Agent Skills covering Google Cloud services such as GKE, 
 - **−** Documented install path requires Node.js and npx
 - **−** Some skills are marked preview, such as the API Gateway remote MCP server
 
-<sub>no GPU · Needs Node.js (npx), Google Cloud account for most skills · safety checks passed 10 of 11 · [Repo](https://github.com/google/skills) · [🌐 Site ↗](https://skills.sh/google/skills) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-skills/)</sub>
+<sub>no GPU · Needs Node.js (npx), Google Cloud account for most skills · safety checks passed 9 of 11 · [Repo](https://github.com/google/skills) · [🌐 Site ↗](https://skills.sh/google/skills) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-skills/)</sub>
 
 <a name="claude-red"></a>
 ### #&#8288;197 [claude-red](https://github.com/snailsploit/claude-red) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
