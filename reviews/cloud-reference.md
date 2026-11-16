@@ -185,7 +185,7 @@ Goa takes a service contract written in a Go DSL and generates server and client
 <sub>Go · Needs Go 1.27.3+, protoc (for gRPC and JSON-RPC example) · [Repo](https://github.com/goadesign/goa) · [📖 Docs ↗](https://goa.design/docs/1-goa/) · [🌐 Site ↗](https://goa.design) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goa/)</sub>
 
 <a name="hono"></a>
-### #&#8288;11 [hono](https://github.com/honojs/hono) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+### #&#8288;11 [hono](https://github.com/honojs/hono) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
 
 **TypeScript web framework for Workers, Deno, Bun and Node.js.**
 
@@ -831,7 +831,7 @@ NestJS 12 and TypeScript API starter using Prisma on MongoDB (replica set requir
 <sub>TypeScript · Needs MongoDB 8+ (replica set), Redis 8+, Node.js >= 24.15.0, pnpm, AWS S3, AWS SES, Firebase FCM, Sentry (optional), HashiCorp Vault (optional) · GitHub template · env example file · sign-in: Passport · [Repo](https://github.com/andrechristikan/ack-nestjs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ack-nestjs-boilerplate/)</sub>
 
 <a name="node-typescript-boilerplate"></a>
-### #&#8288;47 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;47 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (32) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
 
 **Framework-free Node.js TypeScript starter with Vitest, ESLint and CI.**
 

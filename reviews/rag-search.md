@@ -77,7 +77,7 @@ Xberg is a Rust engine that detects and reads 107 document formats (PDF, Office,
 <sub>Rust, Whisper ONNX (tiny to large-v3), PaddleOCR, PP-DocLayout-V3, RT-DETR · Needs Tesseract (optional OCR backend), Ollama, LM Studio, vLLM or hosted LLM (structured extraction) · Docker · [Repo](https://github.com/xberg-io/xberg) · [▶️ Demo ↗](https://docs.xberg.io/demo.html) · [📖 Docs ↗](https://docs.xberg.io) · [🌐 Site ↗](https://xberg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xberg/)</sub>
 
 <a name="manticoresearch"></a>
-### #&#8288;5 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
 
 **C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
 
@@ -113,7 +113,7 @@ Python backend with a web frontend that answers questions over your own document
 <sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="paradedb"></a>
-### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
 
 **Postgres extension adding BM25 full-text, vector and hybrid search.**
 

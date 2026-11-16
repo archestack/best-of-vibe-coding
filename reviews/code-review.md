@@ -164,7 +164,7 @@ Infracost is a Go CLI that estimates cloud cost and checks FinOps policies for T
 <sub>Docker · Needs Infracost account (authentication via infracost setup), Infracost Cloud (optional, for policies and dashboard) · [Repo](https://github.com/infracost/infracost) · [📖 Docs ↗](https://www.infracost.io/docs/) · [🌐 Site ↗](https://www.infracost.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/infracost/)</sub>
 
 <a name="e2e"></a>
-### #&#8288;10 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;10 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Agent-driven end-to-end testing for web and mobile apps.**
 
@@ -182,7 +182,7 @@ TypeScript test runner that mixes natural-language agent steps (agent.act, agent
 <sub>Needs Node.js, Playwright, agent-device · Models: Claude Code (via ACP), Codex (via ACP), API key providers, local models · [Repo](https://github.com/tester-army/e2e) · [📖 Docs ↗](https://e2e.com/docs) · [🌐 Site ↗](https://e2e.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2e/)</sub>
 
 <a name="phpstan"></a>
-### #&#8288;11 [phpstan](https://github.com/phpstan/phpstan) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
+### #&#8288;11 [phpstan](https://github.com/phpstan/phpstan) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
 
 **Static analyzer that finds bugs in PHP code without running it.**
 
@@ -395,8 +395,26 @@ Ginkgo is a Go testing framework built on the standard `testing` package. It pro
 
 <sub>no GPU · Needs Go, Gomega · [Repo](https://github.com/onsi/ginkgo) · [📖 Docs ↗](https://onsi.github.io/ginkgo/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ginkgo/)</sub>
 
+<a name="solopi"></a>
+### #&#8288;23 [solopi](https://github.com/alipay/solopi) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
+
+**Mobile app test automation with Android record/replay and an agent execution harness.**
+
+SoloPi records and replays UI flows on real Android devices, usually without adding an SDK to the app under test. It also includes an Electron-style Desktop workbench and a Skill/Harness layer that re-checks the current page before each agent action. Results are judged separately from action success as passed, failed or not_tested, with screenshots, logs and reports saved per run.
+
+- **+** Target apps usually need no SoloPi SDK; works on real devices
+- **+** Separates action execution from pass/fail, with passed, failed and not_tested verdicts
+- **+** Saves screenshots, logs, action receipts and structured reports for each run
+- **+** Apache-2.0 with Android app, Desktop and CLI entry points
+- **−** Desktop control, Skill/Harness are Beta; iOS (WDA) and HarmonyOS NEXT are experimental
+- **−** Android performance plugins and recording are not ported to iOS or NEXT
+- **−** Multi-device control was never open-sourced and is unavailable
+- **−** Built-in workflow templates need specific apps, accounts and starting pages
+
+<sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
+
 <a name="tflint"></a>
-### #&#8288;23 [tflint](https://github.com/terraform-linters/tflint) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
+### #&#8288;24 [tflint](https://github.com/terraform-linters/tflint) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
 
 **Pluggable linter for Terraform configurations.**
 
@@ -414,7 +432,7 @@ TFLint is a Go command-line linter for Terraform code. The core is a plugin fram
 <sub>no GPU · Docker · Needs GitHub (plugin download via tflint --init) · [Repo](https://github.com/terraform-linters/tflint) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tflint/)</sub>
 
 <a name="testsprite-cli"></a>
-### #&#8288;24 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;25 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
 
 **CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents.**
 
@@ -430,24 +448,6 @@ Official CLI for the TestSprite testing service. You write test plans as JSON in
 - **−** Needs Node.js 20.19+, 22.13+ or 24+; the CLI is a client, not a self-hostable engine
 
 <sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
-
-<a name="solopi"></a>
-### #&#8288;25 [solopi](https://github.com/alipay/solopi) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
-
-**Mobile app test automation with Android record/replay and an agent execution harness.**
-
-SoloPi records and replays UI flows on real Android devices, usually without adding an SDK to the app under test. It also includes an Electron-style Desktop workbench and a Skill/Harness layer that re-checks the current page before each agent action. Results are judged separately from action success as passed, failed or not_tested, with screenshots, logs and reports saved per run.
-
-- **+** Target apps usually need no SoloPi SDK; works on real devices
-- **+** Separates action execution from pass/fail, with passed, failed and not_tested verdicts
-- **+** Saves screenshots, logs, action receipts and structured reports for each run
-- **+** Apache-2.0 with Android app, Desktop and CLI entry points
-- **−** Desktop control, Skill/Harness are Beta; iOS (WDA) and HarmonyOS NEXT are experimental
-- **−** Android performance plugins and recording are not ported to iOS or NEXT
-- **−** Multi-device control was never open-sourced and is unavailable
-- **−** Built-in workflow templates need specific apps, accounts and starting pages
-
-<sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
 
 <a name="reticle"></a>
 ### #&#8288;26 [reticle](https://github.com/reticlehq/reticle) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
@@ -468,7 +468,7 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
 <a name="crit"></a>
-### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;27 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Browser UI for commenting on a coding agent's plans, diffs and running apps.**
 
