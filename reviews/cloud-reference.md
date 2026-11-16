@@ -148,25 +148,8 @@ GoFrame is a general-purpose Go framework that can be used as a full application
 
 <sub>Go · Needs Go 1.25+ · [Repo](https://github.com/gogf/gf) · [📖 Docs ↗](https://goframe.org/en) · [🌐 Site ↗](https://goframe.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gf/)</sub>
 
-<a name="hono"></a>
-### #&#8288;9 [hono](https://github.com/honojs/hono) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
-
-**TypeScript web framework for Workers, Deno, Bun and Node.js.**
-
-Hono is a web framework built on Web Standard APIs, with no dependencies. The same app code runs on Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, AWS Lambda, Lambda@Edge and Node.js. It ships a RegExpRouter, built-in middleware and TypeScript types, and the hono/tiny preset is under 12kB. It is a general backend framework, not an AI-specific project.
-
-- **+** Same code runs on Workers, Fastly, Deno, Bun, Lambda and Node.js
-- **+** Zero dependencies; hono/tiny preset is under 12kB
-- **+** Built-in, custom and third-party middleware available
-- **+** First-class TypeScript support; scaffold with npm create hono@latest
-- **−** No AI, model or agent features; it is a general web framework
-- **−** Not a ready-made template; you write routes and handlers yourself
-- **−** Speed claims in the README have no benchmark figures
-
-<sub>TypeScript · [Repo](https://github.com/honojs/hono) · [📖 Docs ↗](https://hono.dev) · [🌐 Site ↗](https://hono.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hono/)</sub>
-
 <a name="aws-cdk"></a>
-### #&#8288;10 [aws-cdk](https://github.com/aws/aws-cdk) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [aws-cdk](https://github.com/aws/aws-cdk) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
 
 **Define AWS infrastructure in code and deploy it through CloudFormation.**
 
@@ -184,7 +167,7 @@ AWS CDK is a framework for defining AWS resources as constructs in TypeScript, J
 <sub>TypeScript · Needs AWS account, AWS CloudFormation, Node.js >= 20 · [Repo](https://github.com/aws/aws-cdk) · [📖 Docs ↗](https://docs.aws.amazon.com/cdk/latest/guide) · [🌐 Site ↗](https://constructs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aws-cdk/)</sub>
 
 <a name="goa"></a>
-### #&#8288;11 [goa](https://github.com/goadesign/goa) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
+### #&#8288;10 [goa](https://github.com/goadesign/goa) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
 
 **Design-first Go framework that generates HTTP, gRPC and JSON-RPC services.**
 
@@ -200,6 +183,23 @@ Goa takes a service contract written in a Go DSL and generates server and client
 - **−** Go only; the contract is written in a Go DSL
 
 <sub>Go · Needs Go 1.27.3+, protoc (for gRPC and JSON-RPC example) · [Repo](https://github.com/goadesign/goa) · [📖 Docs ↗](https://goa.design/docs/1-goa/) · [🌐 Site ↗](https://goa.design) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goa/)</sub>
+
+<a name="hono"></a>
+### #&#8288;11 [hono](https://github.com/honojs/hono) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+
+**TypeScript web framework for Workers, Deno, Bun and Node.js.**
+
+Hono is a web framework built on Web Standard APIs, with no dependencies. The same app code runs on Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, AWS Lambda, Lambda@Edge and Node.js. It ships a RegExpRouter, built-in middleware and TypeScript types, and the hono/tiny preset is under 12kB. It is a general backend framework, not an AI-specific project.
+
+- **+** Same code runs on Workers, Fastly, Deno, Bun, Lambda and Node.js
+- **+** Zero dependencies; hono/tiny preset is under 12kB
+- **+** Built-in, custom and third-party middleware available
+- **+** First-class TypeScript support; scaffold with npm create hono@latest
+- **−** No AI, model or agent features; it is a general web framework
+- **−** Not a ready-made template; you write routes and handlers yourself
+- **−** Speed claims in the README have no benchmark figures
+
+<sub>TypeScript · [Repo](https://github.com/honojs/hono) · [📖 Docs ↗](https://hono.dev) · [🌐 Site ↗](https://hono.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hono/)</sub>
 
 <a name="django-rest-framework"></a>
 ### #&#8288;12 [django-rest-framework](https://github.com/encode/django-rest-framework) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · custom license · Nov 2026</sub>
@@ -382,7 +382,7 @@ The AWS SAM transform is a CloudFormation macro, enabled with `Transform: AWS::S
 <sub>Python · Needs AWS CloudFormation, AWS SAM CLI, AWS Lambda · [Repo](https://github.com/aws/serverless-application-model) · [📖 Docs ↗](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) · [🌐 Site ↗](https://aws.amazon.com/serverless/sam/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-application-model/)</sub>
 
 <a name="oapi-codegen"></a>
-### #&#8288;22 [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;22 [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.7k · Apache-2.0 · Nov 2026</sub>
 
 **Go code generator that turns OpenAPI specs into servers, clients and types.**
 
@@ -400,7 +400,7 @@ oapi-codegen is a Go command-line tool and library that reads OpenAPI 3.0 and 3.
 <sub>Go · Needs Go 1.26+ · [Repo](https://github.com/oapi-codegen/oapi-codegen) · [📖 Docs ↗](https://pkg.go.dev/github.com/oapi-codegen/oapi-codegen/v2/pkg) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oapi-codegen/)</sub>
 
 <a name="go-clean-template"></a>
-### #&#8288;23 [go-clean-template](https://github.com/evrone/go-clean-template) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Nov 2026</sub>
+### #&#8288;23 [go-clean-template](https://github.com/evrone/go-clean-template) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Nov 2026</sub>
 
 **Clean Architecture Go microservice template with REST, gRPC, RabbitMQ and NATS.**
 
@@ -543,7 +543,7 @@ Infrastructure-as-code template, deployed with Azure Developer CLI, that provisi
 <sub>Python, Azure OpenAI · Needs Azure subscription, Microsoft Foundry, Azure OpenAI, Azure AI Search, Azure Developer CLI · GitHub template · [Repo](https://github.com/azure/agent-landing-zone) · [📖 Docs ↗](https://azure.github.io/AI-Landing-Zones/agent-landing-zone/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-agent-landing-zone/)</sub>
 
 <a name="agent-service-toolkit"></a>
-### #&#8288;31 [agent-service-toolkit](https://github.com/joshuac215/agent-service-toolkit) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+### #&#8288;31 [agent-service-toolkit](https://github.com/joshuac215/agent-service-toolkit) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
 **LangGraph agent served by FastAPI with a Streamlit chat front end.**
 
@@ -758,23 +758,23 @@ A Python template with a FastAPI backend and a NiceGUI chat frontend. Models com
 
 <sub>Python, Ollama, LiteLLM cloud providers, OpenAI, Hugging Face · Needs uv, Make, Bash, Git, Ollama (local inference), Docker Compose 2.24+ (optional) · GitHub template · Docker · env example file · [Repo](https://github.com/aminedjeghri/generative-ai-project-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generative-ai-project-template/)</sub>
 
-<a name="ack-nestjs-boilerplate"></a>
-### #&#8288;43 [ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 705 · MIT · Sep 2026</sub>
+<a name="genlayer-project-boilerplate"></a>
+### #&#8288;43 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (80) · Freshness: recent (69) · Maintenance: weak (17) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
 
-**NestJS API boilerplate with JWT, OAuth, 2FA, RBAC and workspaces.**
+**GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
 
-NestJS 12 and TypeScript API starter using Prisma on MongoDB (replica set required), Redis and BullMQ. It ships stateful JWT sessions, Google and Apple sign-in, TOTP 2FA, RBAC with CASL policies, multi-workspace tenancy, feature flags, and email, push and in-app notifications. The README targets enterprise apps, auth services, mobile backends and SaaS MVPs.
+Boilerplate for building on GenLayer, built around a Football Bets intelligent contract written in Python. The contract fetches match results from BBC Sport, uses an LLM to extract the score, and validates it through the equivalence principle. The repo includes a linter, in-memory direct tests with web and LLM mocks, Studio integration tests, deploy scripts, and a Next.js 15 frontend.
 
-- **+** Auth included: ES256/ES512 JWT, Redis sessions, Google/Apple login, TOTP 2FA with backup codes
-- **+** Workspace-scoped projects, invites, feature flags and CASL policies already wired
-- **+** Notifications via AWS SES, Firebase FCM and BullMQ workers, plus S3 presigned uploads
-- **+** Zod-validated OpenAPI 3.1 docs, Vitest suite, Sentry and 30+ guides
-- **−** MongoDB only; PostgreSQL support is still a TODO item
-- **−** Requires a MongoDB replica set for Prisma transactions
-- **−** Schema sync uses prisma db push, with no migration history
-- **−** Protection decorators must be applied in a fixed order or guards misbehave
+- **+** Direct-mode pytest tests mock web and LLM calls, at about a millisecond per test
+- **+** genvm-lint flags non-deterministic calls and invalid storage types in about 250ms
+- **+** Includes a GitHub Actions workflow for linting and direct tests
+- **+** Frontend uses Next.js 15, TypeScript, TanStack Query and Radix UI
+- **−** Tied to GenLayer; contracts run only on its Studio or networks
+- **−** Single example contract (football bets), so other use cases need rewriting
+- **−** Integration tests and deployment need GenLayer Studio, local or hosted
+- **−** No auth or billing; it is a contract and frontend starter, not a SaaS boilerplate
 
-<sub>TypeScript · Needs MongoDB 8+ (replica set), Redis 8+, Node.js >= 24.15.0, pnpm, AWS S3, AWS SES, Firebase FCM, Sentry (optional), HashiCorp Vault (optional) · GitHub template · env example file · sign-in: Passport · [Repo](https://github.com/andrechristikan/ack-nestjs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ack-nestjs-boilerplate/)</sub>
+<sub>TypeScript · Needs Python >= 3.12, GenLayer CLI (npm install -g genlayer), GenLayer Studio (local or hosted), Node.js/npm · [Repo](https://github.com/genlayerlabs/genlayer-project-boilerplate) · [📖 Docs ↗](https://docs.genlayer.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/genlayer-project-boilerplate/)</sub>
 
 <a name="eve"></a>
 ### #&#8288;44 [eve](https://github.com/pyeve/eve) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · custom license · Nov 2026</sub>
@@ -812,23 +812,23 @@ A Go backend built on Gin and GORM v2 that implements the RealWorld (Conduit) AP
 
 <sub>Go · Needs Go 1.21+, SQLite (cgo) · env example file · [Repo](https://github.com/realworld-apps/golang-gin-realworld-example-app) · [📖 Docs ↗](https://godoc.org/github.com/gothinkster/golang-gin-realworld-example-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/golang-gin-realworld-example-app/)</sub>
 
-<a name="genlayer-project-boilerplate"></a>
-### #&#8288;46 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (80) · Freshness: recent (69) · Maintenance: weak (16) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
+<a name="ack-nestjs-boilerplate"></a>
+### #&#8288;46 [ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 705 · MIT · Sep 2026</sub>
 
-**GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
+**NestJS API boilerplate with JWT, OAuth, 2FA, RBAC and workspaces.**
 
-Boilerplate for building on GenLayer, built around a Football Bets intelligent contract written in Python. The contract fetches match results from BBC Sport, uses an LLM to extract the score, and validates it through the equivalence principle. The repo includes a linter, in-memory direct tests with web and LLM mocks, Studio integration tests, deploy scripts, and a Next.js 15 frontend.
+NestJS 12 and TypeScript API starter using Prisma on MongoDB (replica set required), Redis and BullMQ. It ships stateful JWT sessions, Google and Apple sign-in, TOTP 2FA, RBAC with CASL policies, multi-workspace tenancy, feature flags, and email, push and in-app notifications. The README targets enterprise apps, auth services, mobile backends and SaaS MVPs.
 
-- **+** Direct-mode pytest tests mock web and LLM calls, at about a millisecond per test
-- **+** genvm-lint flags non-deterministic calls and invalid storage types in about 250ms
-- **+** Includes a GitHub Actions workflow for linting and direct tests
-- **+** Frontend uses Next.js 15, TypeScript, TanStack Query and Radix UI
-- **−** Tied to GenLayer; contracts run only on its Studio or networks
-- **−** Single example contract (football bets), so other use cases need rewriting
-- **−** Integration tests and deployment need GenLayer Studio, local or hosted
-- **−** No auth or billing; it is a contract and frontend starter, not a SaaS boilerplate
+- **+** Auth included: ES256/ES512 JWT, Redis sessions, Google/Apple login, TOTP 2FA with backup codes
+- **+** Workspace-scoped projects, invites, feature flags and CASL policies already wired
+- **+** Notifications via AWS SES, Firebase FCM and BullMQ workers, plus S3 presigned uploads
+- **+** Zod-validated OpenAPI 3.1 docs, Vitest suite, Sentry and 30+ guides
+- **−** MongoDB only; PostgreSQL support is still a TODO item
+- **−** Requires a MongoDB replica set for Prisma transactions
+- **−** Schema sync uses prisma db push, with no migration history
+- **−** Protection decorators must be applied in a fixed order or guards misbehave
 
-<sub>TypeScript · Needs Python >= 3.12, GenLayer CLI (npm install -g genlayer), GenLayer Studio (local or hosted), Node.js/npm · [Repo](https://github.com/genlayerlabs/genlayer-project-boilerplate) · [📖 Docs ↗](https://docs.genlayer.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/genlayer-project-boilerplate/)</sub>
+<sub>TypeScript · Needs MongoDB 8+ (replica set), Redis 8+, Node.js >= 24.15.0, pnpm, AWS S3, AWS SES, Firebase FCM, Sentry (optional), HashiCorp Vault (optional) · GitHub template · env example file · sign-in: Passport · [Repo](https://github.com/andrechristikan/ack-nestjs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ack-nestjs-boilerplate/)</sub>
 
 <a name="node-typescript-boilerplate"></a>
 ### #&#8288;47 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
@@ -1137,7 +1137,7 @@ Hono TypeScript worker exposing POST /completion that forwards OpenAI-style mess
 <sub>TypeScript, Gemini 2.5 Flash, 2.5 Flash Lite, 2.0 Flash, 2.0 Flash Lite via Cloudflare AI Gateway, OpenAI SDK client · Needs Cloudflare account with AI Gateway, Google AI Studio API key · GitHub template · [Repo](https://github.com/louisbrulenaudet/genai-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/genai-api/)</sub>
 
 <a name="cookiecutter-django-rest"></a>
-### #&#8288;64 [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (20) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Dec 2025</sub>
+### #&#8288;64 [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (20) · Freshness: quiet (6) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Dec 2025</sub>
 
 **Cookiecutter template for Django REST Framework APIs with auth and tests.**
 
