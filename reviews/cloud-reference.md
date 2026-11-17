@@ -758,26 +758,8 @@ A Python template with a FastAPI backend and a NiceGUI chat frontend. Models com
 
 <sub>Python, Ollama, LiteLLM cloud providers, OpenAI, Hugging Face · Needs uv, Make, Bash, Git, Ollama (local inference), Docker Compose 2.24+ (optional) · GitHub template · Docker · env example file · [Repo](https://github.com/aminedjeghri/generative-ai-project-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generative-ai-project-template/)</sub>
 
-<a name="genlayer-project-boilerplate"></a>
-### #&#8288;43 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (80) · Freshness: recent (69) · Maintenance: weak (17) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
-
-**GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
-
-Boilerplate for building on GenLayer, built around a Football Bets intelligent contract written in Python. The contract fetches match results from BBC Sport, uses an LLM to extract the score, and validates it through the equivalence principle. The repo includes a linter, in-memory direct tests with web and LLM mocks, Studio integration tests, deploy scripts, and a Next.js 15 frontend.
-
-- **+** Direct-mode pytest tests mock web and LLM calls, at about a millisecond per test
-- **+** genvm-lint flags non-deterministic calls and invalid storage types in about 250ms
-- **+** Includes a GitHub Actions workflow for linting and direct tests
-- **+** Frontend uses Next.js 15, TypeScript, TanStack Query and Radix UI
-- **−** Tied to GenLayer; contracts run only on its Studio or networks
-- **−** Single example contract (football bets), so other use cases need rewriting
-- **−** Integration tests and deployment need GenLayer Studio, local or hosted
-- **−** No auth or billing; it is a contract and frontend starter, not a SaaS boilerplate
-
-<sub>TypeScript · Needs Python >= 3.12, GenLayer CLI (npm install -g genlayer), GenLayer Studio (local or hosted), Node.js/npm · [Repo](https://github.com/genlayerlabs/genlayer-project-boilerplate) · [📖 Docs ↗](https://docs.genlayer.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/genlayer-project-boilerplate/)</sub>
-
 <a name="eve"></a>
-### #&#8288;44 [eve](https://github.com/pyeve/eve) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · custom license · Nov 2026</sub>
+### #&#8288;43 [eve](https://github.com/pyeve/eve) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · custom license · Nov 2026</sub>
 
 **Python REST API framework on Flask with MongoDB support.**
 
@@ -795,7 +777,7 @@ Eve is a Python framework built on Flask that exposes a database as a configurab
 <sub>Python · Needs MongoDB, Flask · [Repo](https://github.com/pyeve/eve) · [🌐 Site ↗](http://python-eve.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve/)</sub>
 
 <a name="golang-gin-realworld-example-app"></a>
-### #&#8288;45 [golang-gin-realworld-example-app](https://github.com/realworld-apps/golang-gin-realworld-example-app) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Nov 2026</sub>
+### #&#8288;44 [golang-gin-realworld-example-app](https://github.com/realworld-apps/golang-gin-realworld-example-app) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Nov 2026</sub>
 
 **Go/Gin REST backend implementing the RealWorld Conduit API with SQLite.**
 
@@ -813,7 +795,7 @@ A Go backend built on Gin and GORM v2 that implements the RealWorld (Conduit) AP
 <sub>Go · Needs Go 1.21+, SQLite (cgo) · env example file · [Repo](https://github.com/realworld-apps/golang-gin-realworld-example-app) · [📖 Docs ↗](https://godoc.org/github.com/gothinkster/golang-gin-realworld-example-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/golang-gin-realworld-example-app/)</sub>
 
 <a name="ack-nestjs-boilerplate"></a>
-### #&#8288;46 [ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 705 · MIT · Sep 2026</sub>
+### #&#8288;45 [ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 705 · MIT · Sep 2026</sub>
 
 **NestJS API boilerplate with JWT, OAuth, 2FA, RBAC and workspaces.**
 
@@ -829,6 +811,24 @@ NestJS 12 and TypeScript API starter using Prisma on MongoDB (replica set requir
 - **−** Protection decorators must be applied in a fixed order or guards misbehave
 
 <sub>TypeScript · Needs MongoDB 8+ (replica set), Redis 8+, Node.js >= 24.15.0, pnpm, AWS S3, AWS SES, Firebase FCM, Sentry (optional), HashiCorp Vault (optional) · GitHub template · env example file · sign-in: Passport · [Repo](https://github.com/andrechristikan/ack-nestjs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ack-nestjs-boilerplate/)</sub>
+
+<a name="genlayer-project-boilerplate"></a>
+### #&#8288;46 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (80) · Freshness: recent (69) · Maintenance: weak (17) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
+
+**GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
+
+Boilerplate for building on GenLayer, built around a Football Bets intelligent contract written in Python. The contract fetches match results from BBC Sport, uses an LLM to extract the score, and validates it through the equivalence principle. The repo includes a linter, in-memory direct tests with web and LLM mocks, Studio integration tests, deploy scripts, and a Next.js 15 frontend.
+
+- **+** Direct-mode pytest tests mock web and LLM calls, at about a millisecond per test
+- **+** genvm-lint flags non-deterministic calls and invalid storage types in about 250ms
+- **+** Includes a GitHub Actions workflow for linting and direct tests
+- **+** Frontend uses Next.js 15, TypeScript, TanStack Query and Radix UI
+- **−** Tied to GenLayer; contracts run only on its Studio or networks
+- **−** Single example contract (football bets), so other use cases need rewriting
+- **−** Integration tests and deployment need GenLayer Studio, local or hosted
+- **−** No auth or billing; it is a contract and frontend starter, not a SaaS boilerplate
+
+<sub>TypeScript · Needs Python >= 3.12, GenLayer CLI (npm install -g genlayer), GenLayer Studio (local or hosted), Node.js/npm · [Repo](https://github.com/genlayerlabs/genlayer-project-boilerplate) · [📖 Docs ↗](https://docs.genlayer.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/genlayer-project-boilerplate/)</sub>
 
 <a name="node-typescript-boilerplate"></a>
 ### #&#8288;47 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (32) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
@@ -921,7 +921,7 @@ Fork-and-deploy starter that ships a React/TypeScript frontend on Amplify Hostin
 <sub>Python, Strands, LangGraph · Needs AWS account, Amazon Bedrock AgentCore, AWS Cognito, AWS Amplify Hosting, AWS Lambda, AWS CDK or Terraform, Node.js · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
 
 <a name="robyn"></a>
-### #&#8288;52 [robyn](https://github.com/sparckles/robyn) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (56) · Freshness: active (98) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · BSD-2-Clause · Aug 2026</sub>
+### #&#8288;52 [robyn](https://github.com/sparckles/robyn) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (56) · Freshness: active (97) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · BSD-2-Clause · Aug 2026</sub>
 
 **Async Python web framework with a Rust runtime, with MCP and agent routing.**
 
@@ -975,7 +975,7 @@ A reference microservice backend in Go on the go-zero framework. HTTP API servic
 <sub>Go · Needs MySQL, Redis, Kafka, Elasticsearch, Docker Compose · [Repo](https://github.com/mikaelemmmm/go-zero-looklook) · [📖 Docs ↗](https://github.com/Mikaelemmmm/go-zero-looklook/tree/main/doc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-zero-looklook/)</sub>
 
 <a name="serverless-express"></a>
-### #&#8288;55 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (46) · Freshness: recent (66) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
+### #&#8288;55 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (46) · Freshness: recent (65) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
 
 **Run Express, Koa or Hapi apps on AWS Lambda or Azure Functions.**
 
@@ -1029,7 +1029,7 @@ Deploys a RAG chat app on AWS with one `sh deploy.sh` wizard that runs `cdk depl
 <sub>Python, Claude Sonnet 4.6, Claude Opus 4.6, Amazon Titan Embed Text V2 · Needs AWS account, Amazon Bedrock, OpenSearch Serverless NextGen, Bedrock AgentCore, Amazon Cognito, CloudFront, S3, Docker, AWS CDK CLI · Docker · [Repo](https://github.com/aws-samples/serverless-rag-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-rag-demo/)</sub>
 
 <a name="moderncppstarter"></a>
-### #&#8288;58 [moderncppstarter](https://github.com/thelartians/moderncppstarter) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (47) · Freshness: recent (80) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Unlicense · May 2026</sub>
+### #&#8288;58 [moderncppstarter](https://github.com/thelartians/moderncppstarter) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (47) · Freshness: recent (79) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Unlicense · May 2026</sub>
 
 **CMake template for C++ projects with tests, CI, formatting and docs.**
 

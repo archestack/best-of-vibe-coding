@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-16
+updated_at: 2026-11-17
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -338,7 +338,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 26
+    score: 25
   - id: openai-realtime-meeting-assistant
     repo: openai/openai-realtime-meeting-assistant
     name: openai-realtime-meeting-assistant
@@ -7167,7 +7167,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 31
   - id: jeffallan-claude-skills
     repo: jeffallan/claude-skills
     name: claude-skills
@@ -10596,7 +10596,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 40
+    score: 39
   - id: dev-browser
     repo: sawyerhood/dev-browser
     name: dev-browser
@@ -22709,7 +22709,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 28
+    score: 27
   - id: design-dna
     repo: zanwei/design-dna
     name: design-dna
@@ -28420,7 +28420,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 9
+    score: 8
   - id: composio
     repo: composiohq/composio
     name: composio
@@ -30731,7 +30731,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 36
+    score: 35
   - id: amplication
     repo: amplication/amplication
     name: amplication
@@ -30774,7 +30774,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 39
+    score: 38
   - id: playwright-cli
     repo: microsoft/playwright-cli
     name: playwright-cli
@@ -37318,7 +37318,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 42
+    score: 41
   - id: teardown
     repo: elvarofficial/teardown
     name: teardown
@@ -38940,7 +38940,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 34
+    score: 33
   - id: golang-gin-realworld-example-app
     repo: realworld-apps/golang-gin-realworld-example-app
     name: golang-gin-realworld-example-app
@@ -40588,7 +40588,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 70
+    score: 69
   - id: dgraph
     repo: dgraph-io/dgraph
     name: dgraph
@@ -40840,7 +40840,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 54
+    score: 53
   - id: gitdiagram
     repo: ahmedkhaleel2004/gitdiagram
     name: gitdiagram
@@ -42146,7 +42146,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 44
+    score: 43
   - id: oceanbase
     repo: oceanbase/oceanbase
     name: oceanbase
@@ -46268,7 +46268,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 12
+    score: 11
   - id: crit
     repo: tomasz-tomczyk/crit
     name: crit
@@ -46520,7 +46520,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 47
+    score: 46
   - id: ktor
     repo: ktorio/ktor
     name: ktor
@@ -47579,7 +47579,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 8
+    score: 7
   - id: shortcuts-playground-plugin
     repo: viticci/shortcuts-playground-plugin
     name: shortcuts-playground-plugin
@@ -51997,7 +51997,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 36
+    score: 35
   - id: wasp
     repo: wasp-lang/wasp
     name: wasp
@@ -57776,7 +57776,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 36
+    score: 35
   - id: aws-cdk
     repo: aws/aws-cdk
     name: aws-cdk
@@ -58027,7 +58027,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 28
+    score: 27
   - id: dicedb
     repo: dicedb/dicedb
     name: dicedb
@@ -63626,7 +63626,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 44
+    score: 43
   - id: vibesdk
     repo: cloudflare/vibesdk
     name: vibesdk

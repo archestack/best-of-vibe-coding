@@ -238,7 +238,7 @@ Async FastAPI and Langchain service that ingests documents, embeds them under a 
 <sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
 
 <a name="orama"></a>
-### #&#8288;14 [orama](https://github.com/oramasearch/orama) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (70) · Freshness: recent (76) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+### #&#8288;14 [orama](https://github.com/oramasearch/orama) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (70) · Freshness: recent (75) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
 
 **In-process full-text, vector and hybrid search library for JavaScript.**
 
@@ -308,7 +308,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;18 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: known (48) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;18 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: known (48) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -359,7 +359,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;21 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (1) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 207 · MIT · Dec 2025</sub>
+### #&#8288;21 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (1) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 207 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 
