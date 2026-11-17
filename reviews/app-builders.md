@@ -307,7 +307,7 @@ Tkinter Designer is a Python CLI, installed with `pip install tkdesigner`, that 
 <sub>Python · Needs Python 3.9+, Figma API token, Figma · Docker · [Repo](https://github.com/parthjadhav/tkinter-designer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tkinter-designer/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;18 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (49) · Freshness: recent (73) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
+### #&#8288;18 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (49) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
@@ -359,7 +359,7 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 <sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
 
 <a name="claudable"></a>
-### #&#8288;21 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (35) · Freshness: slowing (36) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
+### #&#8288;21 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (35) · Freshness: slowing (35) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
 
 **Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
 

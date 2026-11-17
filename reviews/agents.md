@@ -720,7 +720,7 @@ Reference app where agents extract customer preferences, recommend destinations 
 <sub>TypeScript, Phi4 14B (Docker Model Runner), Azure OpenAI, Microsoft Foundry · Needs Docker, Docker Model Runner, Node.js 22+, Azure Container Apps, Azure OpenAI or Microsoft Foundry · [Repo](https://github.com/azure-samples/azure-ai-travel-agents) · [📖 Docs ↗](https://github.com/Azure-Samples/azure-ai-travel-agents/blob/main/docs/advanced-setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-ai-travel-agents/)</sub>
 
 <a name="mcp-ui"></a>
-### #&#8288;41 [mcp-ui](https://github.com/mcp-ui-org/mcp-ui) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (64) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;41 [mcp-ui](https://github.com/mcp-ui-org/mcp-ui) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (64) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Jul 2026</sub>
 
 **SDK for returning interactive UI from MCP tools and rendering it in hosts.**
 
@@ -871,26 +871,8 @@ The TypeScript counterpart of the blank LangGraph template: src/agent/graph.ts k
 
 <sub>TypeScript, langgraph · Needs langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/new-langgraphjs-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraphjs-project/)</sub>
 
-<a name="opengap"></a>
-### #&#8288;50 [opengap](https://github.com/open-gitagent/opengap) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (50) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Jul 2026</sub>
-
-**Git-repo file standard and CLI for defining portable AI agents.**
-
-OpenGAP defines an agent as a git repo: agent.yaml and SOUL.md are required, with optional RULES.md, DUTIES.md, skills/, tools/, workflows/, memory/ and sub-agents. The opengap CLI (npm, Node >= 18) validates the definition against a spec and exports it to targets such as Claude Code, OpenAI Agents SDK, CrewAI, Gemini CLI, Cursor and plain system prompts. It also covers financial compliance checks (FINRA, SR 11-7) and segregation-of-duties validation.
-
-- **+** Exports one agent definition to about 15 targets, including Claude Code, OpenAI, CrewAI, Cursor and Gemini
-- **+** Only two required files, so a minimal agent is agent.yaml plus SOUL.md
-- **+** validate --compliance checks segregation-of-duties conflicts before deployment
-- **+** Agent history, diffs, branches and tags come from plain git
-- **−** Spec is v0.1.0, so the format may still change
-- **−** Ports only identity layer; orchestration, tool execution and memory I/O stay in the framework
-- **−** Compliance features are aimed at US financial regulation, with little else covered
-- **−** Package was renamed twice (gitagent, gapman, opengap), which complicates searching docs and installs
-
-<sub>TypeScript, Claude, OpenAI, Gemini, GitHub Models · Needs Node.js >= 18, git · [Repo](https://github.com/open-gitagent/opengap) · [📖 Docs ↗](https://github.com/open-gitagent/gitagent/blob/main/spec/SPECIFICATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengap/)</sub>
-
 <a name="template-mcp-server"></a>
-### #&#8288;51 [template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 70 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;50 [template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 70 · Apache-2.0 · Oct 2026</sub>
 
 **Python FastMCP server template with example tools and OAuth.**
 
@@ -906,6 +888,24 @@ A Python template for building MCP servers on FastMCP and FastAPI, with three ex
 - **−** Defaults assume Red Hat conventions such as UBI images and OpenShift
 
 <sub>Python · Needs Python 3.12+, PostgreSQL (OAuth token storage) · GitHub template · Docker · env example file · [Repo](https://github.com/redhat-data-and-ai/template-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/template-mcp-server/)</sub>
+
+<a name="opengap"></a>
+### #&#8288;51 [opengap](https://github.com/open-gitagent/opengap) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (50) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Jul 2026</sub>
+
+**Git-repo file standard and CLI for defining portable AI agents.**
+
+OpenGAP defines an agent as a git repo: agent.yaml and SOUL.md are required, with optional RULES.md, DUTIES.md, skills/, tools/, workflows/, memory/ and sub-agents. The opengap CLI (npm, Node >= 18) validates the definition against a spec and exports it to targets such as Claude Code, OpenAI Agents SDK, CrewAI, Gemini CLI, Cursor and plain system prompts. It also covers financial compliance checks (FINRA, SR 11-7) and segregation-of-duties validation.
+
+- **+** Exports one agent definition to about 15 targets, including Claude Code, OpenAI, CrewAI, Cursor and Gemini
+- **+** Only two required files, so a minimal agent is agent.yaml plus SOUL.md
+- **+** validate --compliance checks segregation-of-duties conflicts before deployment
+- **+** Agent history, diffs, branches and tags come from plain git
+- **−** Spec is v0.1.0, so the format may still change
+- **−** Ports only identity layer; orchestration, tool execution and memory I/O stay in the framework
+- **−** Compliance features are aimed at US financial regulation, with little else covered
+- **−** Package was renamed twice (gitagent, gapman, opengap), which complicates searching docs and installs
+
+<sub>TypeScript, Claude, OpenAI, Gemini, GitHub Models · Needs Node.js >= 18, git · [Repo](https://github.com/open-gitagent/opengap) · [📖 Docs ↗](https://github.com/open-gitagent/gitagent/blob/main/spec/SPECIFICATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengap/)</sub>
 
 <a name="code-mode"></a>
 ### #&#8288;52 [code-mode](https://github.com/universal-tool-calling-protocol/code-mode) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (36) · Freshness: active (85) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MPL-2.0 · Aug 2026</sub>
@@ -1015,7 +1015,7 @@ mcp-agent is a Python library that connects LLMs to MCP servers and manages serv
 <sub>Python, OpenAI, Anthropic, Google, Azure · Needs Temporal (optional, durable execution), MCP servers (e.g. uvx, npx), LLM provider API key · [Repo](https://github.com/lastmile-ai/mcp-agent) · [📖 Docs ↗](https://docs.mcp-agent.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-agent/)</sub>
 
 <a name="openai-apps-sdk-examples"></a>
-### #&#8288;58 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (45) · Freshness: recent (55) · Maintenance: weak (1) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
+### #&#8288;58 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (45) · Freshness: recent (54) · Maintenance: weak (1) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
 
 **Example MCP servers and widgets for ChatGPT apps on the Apps SDK.**
 
@@ -1050,7 +1050,7 @@ A Next.js and shadcn/ui chat interface that connects to a running Agno AgentOS i
 <sub>TypeScript, agno · Needs agno-agentos · GitHub template · [Repo](https://github.com/agno-agi/agent-ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agno-agent-ui/)</sub>
 
 <a name="claude-managed-agents"></a>
-### #&#8288;60 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (7) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 336 · MIT · May 2026</sub>
+### #&#8288;60 [claude-managed-agents](https://github.com/cloudflare/claude-managed-agents) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (7) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 336 · MIT · May 2026</sub>
 
 **Self-hosted control plane running Claude Managed Agents on Cloudflare Workers.**
 
@@ -1085,7 +1085,7 @@ A Python backend on the OpenAI Agents SDK that routes airline support requests b
 <sub>Python, openai, openai-agents-sdk, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-cs-agents-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cs-agents-demo/)</sub>
 
 <a name="nanoagent"></a>
-### #&#8288;62 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (13) · Freshness: slowing (43) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 781 · MIT · Mar 2026</sub>
+### #&#8288;62 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (13) · Freshness: slowing (42) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 781 · MIT · Mar 2026</sub>
 
 **Single-file Python agent loop with bash, read and write tools.**
 
@@ -1137,7 +1137,7 @@ A Next.js chatbot forked from the Vercel AI Chatbot template where Llama 3 70B o
 <sub>TypeScript, groq, ai-sdk · Needs groq-api-key · env example file · [Repo](https://github.com/bklieger-groq/stockbot-on-groq) · [▶️ Demo ↗](https://groq-stockbot.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stockbot-on-groq/)</sub>
 
 <a name="openai-structured-outputs-samples"></a>
-### #&#8288;65 [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) <sub>score [7](../README.md#-how-we-rank "Score 7/100. Adoption: niche (12) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 689 · MIT · Dec 2025</sub>
+### #&#8288;65 [openai-structured-outputs-samples](https://github.com/openai/openai-structured-outputs-samples) <sub>score [7](../README.md#-how-we-rank "Score 7/100. Adoption: niche (12) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 689 · MIT · Dec 2025</sub>
 
 **Three Next.js samples driving UI from schema-constrained OpenAI outputs.**
 

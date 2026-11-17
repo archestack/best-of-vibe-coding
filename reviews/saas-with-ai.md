@@ -1186,7 +1186,7 @@ TailAdmin is a front-end admin dashboard template built on React 19, TypeScript 
 <sub>JavaScript · Needs Node.js 20+ · [Repo](https://github.com/tailadmin/free-react-tailwind-admin-dashboard) · [▶️ Demo ↗](https://free-react-demo.tailadmin.com/) · [📖 Docs ↗](https://tailadmin.com/docs) · [🌐 Site ↗](https://tailadmin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/free-react-tailwind-admin-dashboard/)</sub>
 
 <a name="coreui-free-bootstrap-admin-template"></a>
-### #&#8288;67 [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (69) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Aug 2026</sub>
+### #&#8288;67 [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (69) · Freshness: active (98) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Aug 2026</sub>
 
 **Bootstrap 5 admin dashboard template built with Pug, Sass and plain JavaScript.**
 
@@ -1366,7 +1366,7 @@ A Vite-based React 18 admin front-end template using Redux Toolkit, React Router
 <sub>JavaScript · Needs Node.js, npm · [Repo](https://github.com/duxianwei520/react) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react/)</sub>
 
 <a name="typescript-nextjs-starter"></a>
-### #&#8288;77 [typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (17) · Freshness: active (91) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
+### #&#8288;77 [typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (17) · Freshness: active (90) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
 
 **Next.js 16 and TypeScript starter with linting, commit hooks and typed env vars.**
 
@@ -1402,7 +1402,7 @@ Lightswind UI is a shadcn-style library of 160+ React components (Tailwind, Fram
 <sub>TypeScript · Needs Node.js 18+, React 18 or 19, Tailwind CSS v3 or v4 · [Repo](https://github.com/codewithmuhilan/lightswind-ui-library) · [📖 Docs ↗](https://lightswind.com/components/introduction) · [🌐 Site ↗](https://lightswind.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightswind-ui-library/)</sub>
 
 <a name="ui"></a>
-### #&#8288;79 [ui](https://github.com/creativetimofficial/ui) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (69) · Freshness: slowing (30) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Mar 2026</sub>
+### #&#8288;79 [ui](https://github.com/creativetimofficial/ui) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (69) · Freshness: quiet (30) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Mar 2026</sub>
 
 **shadcn/ui-based React components and page blocks installed through a CLI.**
 
@@ -1492,7 +1492,7 @@ Remix SaaS is a TypeScript Remix template for subscription apps, installed with 
 <sub>TypeScript · Needs Node 24 LTS, npm, SQLite · Docker · env example file · [Repo](https://github.com/dev-xo/remix-saas) · [▶️ Demo ↗](https://remix-saas.fly.dev) · [📖 Docs ↗](https://github.com/dev-xo/remix-saas/tree/main/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/remix-saas/)</sub>
 
 <a name="create-t3-app"></a>
-### #&#8288;84 [create-t3-app](https://github.com/t3-oss/create-t3-app) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: widely used (87) · Freshness: quiet (21) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Dec 2025</sub>
+### #&#8288;84 [create-t3-app](https://github.com/t3-oss/create-t3-app) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: widely used (87) · Freshness: quiet (20) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Dec 2025</sub>
 
 **CLI that scaffolds a typesafe Next.js app with tRPC and Prisma or Drizzle.**
 
@@ -1510,7 +1510,7 @@ create-t3-app is an npm CLI that generates a Next.js project from the T3 Stack: 
 <sub>TypeScript · Needs Node.js, Next.js, tRPC, Tailwind CSS, Prisma, Drizzle, NextAuth.js · [Repo](https://github.com/t3-oss/create-t3-app) · [📖 Docs ↗](https://create.t3.gg/en/installation) · [🌐 Site ↗](https://create.t3.gg) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/create-t3-app/)</sub>
 
 <a name="mall-swarm"></a>
-### #&#8288;85 [mall-swarm](https://github.com/macrozheng/mall-swarm) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (71) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · May 2026</sub>
+### #&#8288;85 [mall-swarm](https://github.com/macrozheng/mall-swarm) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (71) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · May 2026</sub>
 
 **Spring Cloud microservice e-commerce system with Vue admin console.**
 
@@ -1618,7 +1618,7 @@ Scaffolded with npx rn-ai: an Expo React Native app with streaming chat and imag
 <sub>TypeScript, OpenAI, Anthropic, Google Gemini, Z.ai · Needs OpenAI, Anthropic, Gemini, Z.ai or Moonshot API keys, GEMINI_API_KEY for images · GitHub template · [Repo](https://github.com/dabit3/react-native-ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-native-ai/)</sub>
 
 <a name="ant-design-pro-blazor"></a>
-### #&#8288;91 [ant-design-pro-blazor](https://github.com/ant-design-blazor/ant-design-pro-blazor) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (6) · Freshness: recent (58) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 835 · Apache-2.0 · Jun 2026</sub>
+### #&#8288;91 [ant-design-pro-blazor](https://github.com/ant-design-blazor/ant-design-pro-blazor) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (6) · Freshness: recent (57) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 835 · Apache-2.0 · Jun 2026</sub>
 
 **Ant Design Pro admin UI as a Blazor dotnet project template.**
 
@@ -1672,7 +1672,7 @@ A Django project template, installed with `django-admin startproject --template`
 <sub>Python · Needs PostgreSQL, Redis, Celery, Mailhog, Sentry, SendGrid, Render.com · [Repo](https://github.com/vintasoftware/django-react-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/django-react-boilerplate/)</sub>
 
 <a name="nextacular"></a>
-### #&#8288;94 [nextacular](https://github.com/nextacular/nextacular) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (15) · Freshness: slowing (50) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · May 2026</sub>
+### #&#8288;94 [nextacular](https://github.com/nextacular/nextacular) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (15) · Freshness: slowing (49) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · May 2026</sub>
 
 **Next.js starter for multi-tenant SaaS with workspaces, teams and billing.**
 

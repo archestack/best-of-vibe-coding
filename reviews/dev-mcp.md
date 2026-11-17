@@ -1964,7 +1964,7 @@ Exposes a local Linux desktop to MCP clients and a CLI: AT-SPI accessibility tre
 <sub>no GPU · Needs AT-SPI, /dev/uinput or xdg-desktop-portal RemoteDesktop, xdotool (X11), wtype or ydotool (Wayland text), glibc 2.28+ · [Repo](https://github.com/agent-sh/computer-use-linux) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer-use-linux/)</sub>
 
 <a name="cursor-talk-to-figma-mcp"></a>
-### #&#8288;110 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (64) · Freshness: active (92) · Maintenance: weak (22) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
+### #&#8288;110 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (64) · Freshness: active (91) · Maintenance: weak (22) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
 
 **MCP server that lets Cursor or Claude Code read and edit Figma files.**
 
@@ -2269,7 +2269,7 @@ A Python MCP server that forwards tool calls over HTTP to the JADX-AI-MCP plugin
 <sub>no GPU · Needs JADX-AI-MCP plugin, jadx-gui, Java 11+, Python 3.10+, uv · Models: Claude Desktop, OpenAI-compatible APIs via example client · port 8651 · [Repo](https://github.com/zinja-coder/jadx-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jadx-mcp-server/)</sub>
 
 <a name="bb-browser"></a>
-### #&#8288;127 [bb-browser](https://github.com/epiral/bb-browser) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (60) · Freshness: recent (79) · Maintenance: weak (6) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · MIT · May 2026</sub>
+### #&#8288;127 [bb-browser](https://github.com/epiral/bb-browser) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (60) · Freshness: recent (78) · Maintenance: weak (6) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · MIT · May 2026</sub>
 
 **CLI and MCP server that lets agents drive your logged-in Chrome.**
 
@@ -2431,7 +2431,7 @@ Ref MCP exposes two tools, ref_search_documentation and ref_read_url, so a codin
 <sub>no GPU · Docker · Needs Ref API key (api.ref.tools), Node.js / npx · [Repo](https://github.com/ref-tools/ref-tools-mcp) · [🌐 Site ↗](https://ref.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ref-tools-mcp/)</sub>
 
 <a name="markdownify-mcp"></a>
-### #&#8288;136 [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (39) · Freshness: recent (71) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · May 2026</sub>
+### #&#8288;136 [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (39) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · May 2026</sub>
 
 **MCP server that converts PDFs, Office files, audio and web pages to Markdown.**
 

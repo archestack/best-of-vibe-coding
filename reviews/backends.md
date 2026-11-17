@@ -3152,7 +3152,7 @@ Apache Ignite is a distributed database written in Java that keeps data in memor
 <sub>no GPU · [Repo](https://github.com/apache/ignite) · [📖 Docs ↗](https://ignite.apache.org/docs/latest/) · [🌐 Site ↗](https://ignite.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ignite/)</sub>
 
 <a name="wcdb"></a>
-### #&#8288;177 [wcdb](https://github.com/tencent/wcdb) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (57) · Freshness: active (96) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Oct 2026</sub>
+### #&#8288;177 [wcdb](https://github.com/tencent/wcdb) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (57) · Freshness: active (95) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Oct 2026</sub>
 
 **SQLite and SQLCipher-based embedded database with ORM for mobile and desktop apps.**
 
@@ -3295,26 +3295,8 @@ Nixopus deploys apps from a connected GitHub repo onto your own servers. An LLM 
 
 <sub>RAM ≥ 1 GB · no GPU · Compose · Needs Docker Engine, Docker Compose V2, Caddy, LLM provider API key, GitHub · Models: OpenRouter, OpenAI, Anthropic, Google, DeepSeek · port 80 · [Repo](https://github.com/nixopus/nixopus) · [▶️ Demo ↗](https://dashboard.nixopus.com) · [📖 Docs ↗](https://docs.nixopus.com) · [🌐 Site ↗](https://nixopus.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nixopus/)</sub>
 
-<a name="sanic"></a>
-### #&#8288;185 [sanic](https://github.com/sanic-org/sanic) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (73) · Freshness: recent (80) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · May 2026</sub>
-
-**Async Python web server and framework with a built-in CLI runner.**
-
-Sanic is a Python 3.10+ web server and framework built on async/await. It ships its own HTTP server, started with `sanic hello.app`, listening on 127.0.0.1:8000 by default, and is also ASGI compliant so it can run under another ASGI server. It has no AI features; it fits the list only as a generic backend for exposing models or agents over HTTP.
-
-- **+** Built-in server and CLI; `pip install sanic` is enough to run an app
-- **+** ASGI compliant, so it can run under alternative ASGI servers
-- **+** Uses uvloop and ujson for speed, each can be disabled via env variable at install
-- **+** MIT licensed, with recent commits and releases
-- **−** No AI, LLM or model-serving integration; you write all of that yourself
-- **−** Not a starter template: no auth, database or project scaffold included
-- **−** Requires Python 3.10 or newer
-- **−** Smaller ecosystem than FastAPI or Flask for AI backends
-
-<sub>no GPU · Docker · Needs uvloop, ujson · port 8000 · [Repo](https://github.com/sanic-org/sanic) · [📖 Docs ↗](https://sanic.dev) · [🌐 Site ↗](https://sanic.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sanic/)</sub>
-
 <a name="pouchdb"></a>
-### #&#8288;186 [pouchdb](https://github.com/apache/pouchdb) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (72) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;185 [pouchdb](https://github.com/apache/pouchdb) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (72) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
 **JavaScript document database for browsers and Node.js that syncs with CouchDB.**
 
@@ -3332,7 +3314,7 @@ PouchDB is a JavaScript database inspired by Apache CouchDB, built to run inside
 <sub>no GPU · [Repo](https://github.com/apache/pouchdb) · [📖 Docs ↗](https://pouchdb.com/api.html) · [🌐 Site ↗](https://pouchdb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pouchdb/)</sub>
 
 <a name="json-server"></a>
-### #&#8288;187 [json-server](https://github.com/typicode/json-server) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: widely used (97) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76k · MIT · Mar 2026</sub>
+### #&#8288;186 [json-server](https://github.com/typicode/json-server) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: widely used (97) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76k · MIT · Mar 2026</sub>
 
 **Fake REST API served from a single JSON or JSON5 file.**
 
@@ -3348,6 +3330,24 @@ json-server is an npm package that turns a db.json or db.json5 file into a REST 
 - **−** The --delay option was removed in v1
 
 <sub>no GPU · Needs Node.js, npm · port 3000 · [Repo](https://github.com/typicode/json-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/json-server/)</sub>
+
+<a name="sanic"></a>
+### #&#8288;187 [sanic](https://github.com/sanic-org/sanic) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (73) · Freshness: recent (80) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · May 2026</sub>
+
+**Async Python web server and framework with a built-in CLI runner.**
+
+Sanic is a Python 3.10+ web server and framework built on async/await. It ships its own HTTP server, started with `sanic hello.app`, listening on 127.0.0.1:8000 by default, and is also ASGI compliant so it can run under another ASGI server. It has no AI features; it fits the list only as a generic backend for exposing models or agents over HTTP.
+
+- **+** Built-in server and CLI; `pip install sanic` is enough to run an app
+- **+** ASGI compliant, so it can run under alternative ASGI servers
+- **+** Uses uvloop and ujson for speed, each can be disabled via env variable at install
+- **+** MIT licensed, with recent commits and releases
+- **−** No AI, LLM or model-serving integration; you write all of that yourself
+- **−** Not a starter template: no auth, database or project scaffold included
+- **−** Requires Python 3.10 or newer
+- **−** Smaller ecosystem than FastAPI or Flask for AI backends
+
+<sub>no GPU · Docker · Needs uvloop, ujson · port 8000 · [Repo](https://github.com/sanic-org/sanic) · [📖 Docs ↗](https://sanic.dev) · [🌐 Site ↗](https://sanic.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sanic/)</sub>
 
 <a name="lamp-cloud"></a>
 ### #&#8288;188 [lamp-cloud](https://github.com/dromara/lamp-cloud) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (38) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · Apache-2.0 · Oct 2026</sub>
@@ -3457,25 +3457,8 @@ Apache OpenWhisk runs functions as serverless actions, exposes them as APIs, and
 
 <sub>Needs Docker, Java, Node.js, Kubernetes (optional) · port 3232 · [Repo](https://github.com/apache/openwhisk) · [🌐 Site ↗](http://openwhisk.apache.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openwhisk/)</sub>
 
-<a name="amplication"></a>
-### #&#8288;194 [amplication](https://github.com/amplication/amplication) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (68) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
-
-**Generates NestJS and Node.js backend services from data models, with team templates.**
-
-Amplication generates backend microservices (APIs, data models, DTOs) from a modeled domain, and pushes the code to your Git repository. Organizations can define their own live templates and plugins so generated services follow shared standards, and the tool handles package updates and versioning. It can be used hosted at app.amplication.com or run locally as an Nx monorepo for development.
-
-- **+** Generates editable service code (APIs, data models, DTOs) that you own and commit to Git
-- **+** Plugin system and custom live templates enforce shared standards across services
-- **+** Handles package updates, patches and versioning of generated services
-- **+** Hosted version available, so no local setup is needed to try it
-- **−** Components under the ee directory use a separate Enterprise Edition license
-- **−** Self-hosting is documented only as a development setup, not a production deployment guide
-- **−** Local setup needs Node.js, Docker and several services run via npm scripts
-
-<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [▶️ Demo ↗](https://app.amplication.com) · [📖 Docs ↗](https://docs.amplication.com) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
-
 <a name="go-restful"></a>
-### #&#8288;195 [go-restful](https://github.com/emicklei/go-restful) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (34) · Freshness: recent (77) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Oct 2026</sub>
+### #&#8288;194 [go-restful](https://github.com/emicklei/go-restful) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (34) · Freshness: recent (77) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Oct 2026</sub>
 
 **Go package for building REST web services with routing, filters and JSON/XML.**
 
@@ -3491,6 +3474,23 @@ go-restful is a Go library for defining REST APIs by mapping HTTP methods and pa
 - **−** Last release (2025-08-15) is older than the latest commit (2026-10-08)
 
 <sub>no GPU · [Repo](https://github.com/emicklei/go-restful) · [📖 Docs ↗](https://pkg.go.dev/github.com/emicklei/go-restful/v3) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-restful/)</sub>
+
+<a name="amplication"></a>
+### #&#8288;195 [amplication](https://github.com/amplication/amplication) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (68) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
+
+**Generates NestJS and Node.js backend services from data models, with team templates.**
+
+Amplication generates backend microservices (APIs, data models, DTOs) from a modeled domain, and pushes the code to your Git repository. Organizations can define their own live templates and plugins so generated services follow shared standards, and the tool handles package updates and versioning. It can be used hosted at app.amplication.com or run locally as an Nx monorepo for development.
+
+- **+** Generates editable service code (APIs, data models, DTOs) that you own and commit to Git
+- **+** Plugin system and custom live templates enforce shared standards across services
+- **+** Handles package updates, patches and versioning of generated services
+- **+** Hosted version available, so no local setup is needed to try it
+- **−** Components under the ee directory use a separate Enterprise Edition license
+- **−** Self-hosting is documented only as a development setup, not a production deployment guide
+- **−** Local setup needs Node.js, Docker and several services run via npm scripts
+
+<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [▶️ Demo ↗](https://app.amplication.com) · [📖 Docs ↗](https://docs.amplication.com) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
 
 <a name="dicedb"></a>
 ### #&#8288;196 [dicedb](https://github.com/dicedb/dicedb) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: popular (56) · Freshness: recent (51) · Maintenance: weak (8) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Mar 2026</sub>
@@ -3529,7 +3529,7 @@ lowdb is a pure ESM npm library that loads a JSON file into a plain JavaScript o
 <sub>no GPU · [Repo](https://github.com/typicode/lowdb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdb/)</sub>
 
 <a name="buffalo"></a>
-### #&#8288;198 [buffalo](https://github.com/gobuffalo/buffalo) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: known (48) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · MIT · Mar 2026</sub>
+### #&#8288;198 [buffalo](https://github.com/gobuffalo/buffalo) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: known (48) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · MIT · Mar 2026</sub>
 
 **Go web framework that generates a full project with frontend, routing and database.**
 
@@ -3547,7 +3547,7 @@ Buffalo generates a Go web project with front-end assets (JavaScript, SCSS), rou
 <sub>no GPU · Docker · Needs Go 1.23 or 1.24, Go modules, Database (optional, via Pop) · [Repo](https://github.com/gobuffalo/buffalo) · [📖 Docs ↗](https://gobuffalo.io/documentation/getting_started/installation) · [🌐 Site ↗](http://gobuffalo.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/buffalo/)</sub>
 
 <a name="vearch"></a>
-### #&#8288;199 [vearch](https://github.com/vearch/vearch) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (19) · Freshness: active (86) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;199 [vearch](https://github.com/vearch/vearch) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (19) · Freshness: active (85) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Jul 2026</sub>
 
 **Distributed vector database with hybrid vector and scalar-filter search.**
 
@@ -3563,26 +3563,8 @@ Vearch is a distributed vector database for similarity search over embeddings. A
 
 <sub>[Repo](https://github.com/vearch/vearch) · [📖 Docs ↗](https://vearch.readthedocs.io/en/latest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vearch/)</sub>
 
-<a name="ferretdb"></a>
-### #&#8288;200 [ferretdb](https://github.com/ferretdb/ferretdb) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (57) · Freshness: slowing (35) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Feb 2026</sub>
-
-**MongoDB-compatible proxy that stores documents in PostgreSQL.**
-
-FerretDB is a Go proxy that accepts MongoDB 5.0+ wire protocol traffic and translates it to SQL against PostgreSQL with the DocumentDB extension. Existing MongoDB drivers and tools connect unchanged, on port 27017 in the quickstart. It can also be embedded as a Go library, and it targets users who want a MongoDB-style API without the SSPL license.
-
-- **+** Works with standard MongoDB drivers and tools, no application changes in many cases
-- **+** Apache-2.0 licensed, avoiding MongoDB's SSPL
-- **+** Data lives in PostgreSQL, so Postgres tooling and psql access still apply
-- **+** Ships binaries, Linux packages, a Docker image and an embeddable Go library
-- **−** Not full MongoDB parity; a compatibility page lists known differences and unsupported commands
-- **−** Requires PostgreSQL with the DocumentDB extension as the storage engine
-- **−** Eval Docker image keeps data inside the container and is not for production
-- **−** README advises against building from source; use provided binaries or packages
-
-<sub>no GPU · Compose · Needs PostgreSQL, DocumentDB extension · [Repo](https://github.com/ferretdb/ferretdb) · [📖 Docs ↗](https://docs.ferretdb.io/) · [🌐 Site ↗](https://www.ferretdb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ferretdb/)</sub>
-
 <a name="graphql"></a>
-### #&#8288;201 [graphql](https://github.com/redwoodjs/graphql) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (71) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Dec 2025</sub>
+### #&#8288;200 [graphql](https://github.com/redwoodjs/graphql) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (71) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Dec 2025</sub>
 
 **Full-stack React framework with GraphQL API and Prisma, now succeeded by RedwoodSDK.**
 
@@ -3598,6 +3580,24 @@ RedwoodJS is an opinionated TypeScript web framework: a React frontend (Vite) ta
 - **−** Opinionated stack with GraphQL and Prisma; swapping parts is not described
 
 <sub>no GPU · Needs Node.js, Prisma-supported database · [Repo](https://github.com/redwoodjs/graphql) · [📖 Docs ↗](https://redwoodjs.com/docs/introduction) · [🌐 Site ↗](https://redwoodjs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql/)</sub>
+
+<a name="ferretdb"></a>
+### #&#8288;201 [ferretdb](https://github.com/ferretdb/ferretdb) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: popular (57) · Freshness: slowing (35) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Feb 2026</sub>
+
+**MongoDB-compatible proxy that stores documents in PostgreSQL.**
+
+FerretDB is a Go proxy that accepts MongoDB 5.0+ wire protocol traffic and translates it to SQL against PostgreSQL with the DocumentDB extension. Existing MongoDB drivers and tools connect unchanged, on port 27017 in the quickstart. It can also be embedded as a Go library, and it targets users who want a MongoDB-style API without the SSPL license.
+
+- **+** Works with standard MongoDB drivers and tools, no application changes in many cases
+- **+** Apache-2.0 licensed, avoiding MongoDB's SSPL
+- **+** Data lives in PostgreSQL, so Postgres tooling and psql access still apply
+- **+** Ships binaries, Linux packages, a Docker image and an embeddable Go library
+- **−** Not full MongoDB parity; a compatibility page lists known differences and unsupported commands
+- **−** Requires PostgreSQL with the DocumentDB extension as the storage engine
+- **−** Eval Docker image keeps data inside the container and is not for production
+- **−** README advises against building from source; use provided binaries or packages
+
+<sub>no GPU · Compose · Needs PostgreSQL, DocumentDB extension · [Repo](https://github.com/ferretdb/ferretdb) · [📖 Docs ↗](https://docs.ferretdb.io/) · [🌐 Site ↗](https://www.ferretdb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ferretdb/)</sub>
 
 <a name="gel"></a>
 ### #&#8288;202 [gel](https://github.com/geldata/gel) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: popular (63) · Freshness: quiet (23) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Dec 2025</sub>
@@ -3618,7 +3618,7 @@ Gel is a database that models data as object types with properties and links ins
 <sub>no GPU · [Repo](https://github.com/geldata/gel) · [📖 Docs ↗](https://docs.geldata.com) · [🌐 Site ↗](https://www.geldata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gel/)</sub>
 
 <a name="1backend"></a>
-### #&#8288;203 [1backend](https://github.com/1backend/1backend) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (20) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
+### #&#8288;203 [1backend](https://github.com/1backend/1backend) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (20) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
 
 **Microservices platform with auth, routing and registry, plus an LLM runtime.**
 
