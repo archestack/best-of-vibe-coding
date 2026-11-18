@@ -2341,7 +2341,7 @@ MCPM is a Python CLI that keeps a single global list of MCP servers, installed f
 <sub>no GPU · Docker · Needs Python 3.10+ · port 6276 · [Repo](https://github.com/pathintegral-institute/mcpm.sh) · [🌐 Site ↗](https://mcpm.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpm-sh/)</sub>
 
 <a name="mcp-server"></a>
-### #&#8288;131 [mcp-server](https://github.com/portswigger/mcp-server) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12 · GPL-3.0 · Nov 2026</sub>
+### #&#8288;131 [mcp-server](https://github.com/portswigger/mcp-server) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13 · GPL-3.0 · Nov 2026</sub>
 
 **Burp Suite extension that exposes Burp tools to AI clients over MCP.**
 

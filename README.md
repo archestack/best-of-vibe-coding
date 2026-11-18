@@ -48,11 +48,11 @@
 
 | Project | Stars this week | Rank |
 |---|--:|---|
+| [craft-anything](reviews/coding-agents.md#craft-anything) | +8,916 (+33%) | #&#8288;10 in Coding agents and AI editors |
 | [t3code](reviews/coding-agents.md#t3code) | +8,354 (+15%) | 🥈 in Coding agents and AI editors |
+| [astryx](reviews/saas-with-ai.md#astryx) | +6,619 (+28%) | #&#8288;6 in SaaS and app starters |
+| [agent_skills](reviews/skills-plugins.md#janestreet-agent-skills) | +5,609 (+130%) | #&#8288;256 in Skills, plugins and prompts |
 | [security-audit-skill](reviews/skills-plugins.md#security-audit-skill) | +5,349 (+7.7%) | #&#8288;266 in Skills, plugins and prompts |
-| [deepseek-harness](reviews/agents.md#deepseek-harness) | +4,926 (+1.8%) | 🥇 in Agent and MCP starters |
-| [hallmark](reviews/skills-plugins.md#hallmark) | +4,236 (+8.0%) | #&#8288;144 in Skills, plugins and prompts |
-| [plannotator](reviews/skills-plugins.md#plannotator) | +3,140 (+31%) | #&#8288;39 in Skills, plugins and prompts |
 
 ## ⚡ Pick by vibe
 
