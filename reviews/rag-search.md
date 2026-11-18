@@ -58,8 +58,25 @@ Xberg is a Rust engine that detects and reads 107 document formats (PDF, Office,
 
 <sub>Rust, Whisper ONNX (tiny to large-v3), PaddleOCR, PP-DocLayout-V3, RT-DETR · Needs Tesseract (optional OCR backend), Ollama, LM Studio, vLLM or hosted LLM (structured extraction) · Docker · [Repo](https://github.com/xberg-io/xberg) · [▶️ Demo ↗](https://docs.xberg.io/demo.html) · [📖 Docs ↗](https://docs.xberg.io) · [🌐 Site ↗](https://xberg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xberg/)</sub>
 
+<a name="qmd"></a>
+### #&#8288;4 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+
+**Local hybrid search over markdown notes and docs, with CLI and MCP server.**
+
+QMD indexes markdown notes, transcripts and docs into a SQLite store and searches them with BM25 (FTS5), vector search and LLM reranking. Models run locally as GGUF through node-llama-cpp. It ships a CLI with JSON and file-list output for agents, an MCP server over stdio or HTTP (default port 8181), and a Node/Bun SDK.
+
+- **+** Hybrid pipeline: query expansion, BM25 plus vector search, RRF fusion, then LLM reranking
+- **+** Runs on-device with GGUF models via node-llama-cpp; no hosted API needed
+- **+** CLI, MCP server (stdio or HTTP) and TypeScript SDK available
+- **+** HTTP server rejects non-loopback Origin and Host headers to block DNS rebinding
+- **−** HTTP endpoints are unauthenticated; off-host use needs your own auth in front
+- **−** Built around markdown and text; other document formats are not mentioned
+- **−** Embedding step must run before semantic search works
+
+<sub>TypeScript, GGUF, qwen3-reranker · Needs Node.js or Bun, node-llama-cpp, SQLite · [Repo](https://github.com/tobi/qmd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qmd/)</sub>
+
 <a name="llm-app"></a>
-### #&#8288;4 [llm-app](https://github.com/pathwaycom/serviette) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 59k · MIT · Nov 2026</sub>
+### #&#8288;5 [llm-app](https://github.com/pathwaycom/serviette) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 59k · MIT · Nov 2026</sub>
 
 **YAML-configured RAG server that keeps a vector database synced with a document folder.**
 
@@ -76,26 +93,8 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
-<a name="manticoresearch"></a>
-### #&#8288;5 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
-
-**C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
-
-Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSON interfaces, positioned as an Elasticsearch alternative. It combines full-text search, KNN vector search, hybrid queries and auto-embeddings with chunking, and adds conversational search through SQL CALL CHAT. Storage is row-wise or columnar, with real-time inserts, sharded tables and Galera-based multi-master replication.
-
-- **+** Hybrid full-text and KNN retrieval in one query, with auto-embeddings and chunking
-- **+** Speaks MySQL protocol and HTTP JSON; official clients for nine languages
-- **+** Columnar storage for datasets larger than RAM; about 40MB RSS when empty
-- **+** Replication, sharded tables, built-in auth, backup to S3-compatible storage
-- **−** GPL-3.0 licence may constrain embedding in proprietary products
-- **−** Not fully ACID; only isolated transactions and binary logging
-- **−** Elasticsearch compatibility covers writes only, not the full query API
-- **−** Benchmark claims come from the project's own suite and are workload-specific
-
-<sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
-
 <a name="azure-search-openai-demo"></a>
-### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
 
@@ -112,8 +111,26 @@ Python backend with a web frontend that answers questions over your own document
 
 <sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
+<a name="manticoresearch"></a>
+### #&#8288;7 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+
+**C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
+
+Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSON interfaces, positioned as an Elasticsearch alternative. It combines full-text search, KNN vector search, hybrid queries and auto-embeddings with chunking, and adds conversational search through SQL CALL CHAT. Storage is row-wise or columnar, with real-time inserts, sharded tables and Galera-based multi-master replication.
+
+- **+** Hybrid full-text and KNN retrieval in one query, with auto-embeddings and chunking
+- **+** Speaks MySQL protocol and HTTP JSON; official clients for nine languages
+- **+** Columnar storage for datasets larger than RAM; about 40MB RSS when empty
+- **+** Replication, sharded tables, built-in auth, backup to S3-compatible storage
+- **−** GPL-3.0 licence may constrain embedding in proprietary products
+- **−** Not fully ACID; only isolated transactions and binary logging
+- **−** Elasticsearch compatibility covers writes only, not the full query API
+- **−** Benchmark claims come from the project's own suite and are workload-specific
+
+<sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
+
 <a name="paradedb"></a>
-### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;8 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
 
 **Postgres extension adding BM25 full-text, vector and hybrid search.**
 
@@ -130,25 +147,8 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
-<a name="qmd"></a>
-### #&#8288;8 [qmd](https://github.com/tobi/qmd) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
-
-**Local hybrid search over markdown notes and docs, with CLI and MCP server.**
-
-QMD indexes markdown notes, transcripts and docs into a SQLite store and searches them with BM25 (FTS5), vector search and LLM reranking. Models run locally as GGUF through node-llama-cpp. It ships a CLI with JSON and file-list output for agents, an MCP server over stdio or HTTP (default port 8181), and a Node/Bun SDK.
-
-- **+** Hybrid pipeline: query expansion, BM25 plus vector search, RRF fusion, then LLM reranking
-- **+** Runs on-device with GGUF models via node-llama-cpp; no hosted API needed
-- **+** CLI, MCP server (stdio or HTTP) and TypeScript SDK available
-- **+** HTTP server rejects non-loopback Origin and Host headers to block DNS rebinding
-- **−** HTTP endpoints are unauthenticated; off-host use needs your own auth in front
-- **−** Built around markdown and text; other document formats are not mentioned
-- **−** Embedding step must run before semantic search works
-
-<sub>TypeScript, GGUF, qwen3-reranker · Needs Node.js or Bun, node-llama-cpp, SQLite · [Repo](https://github.com/tobi/qmd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qmd/)</sub>
-
 <a name="auto-ontology"></a>
-### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Ontology layer that grounds text-to-SQL agents in certified business definitions.**
 
@@ -184,7 +184,7 @@ Documentation assistant that answers questions about LangChain, LangGraph and La
 <sub>TypeScript, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
 
 <a name="chat-with-your-data-solution-accelerator"></a>
-### #&#8288;11 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;11 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
 
 **Azure RAG chat app that answers from your documents with citations.**
 
@@ -273,25 +273,8 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
-<a name="ai-starter-kit"></a>
-### #&#8288;16 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (3) · Freshness: active (82) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
-
-**SambaNova Python kits for document RAG, search assistant, function calling.**
-
-Nine Python kits, each with its own README: document text extraction, enterprise and multimodal knowledge retrieval with Streamlit demos, a RAG evaluation kit, a web search assistant, a financial assistant using function calling and scraping, a function-calling module, benchmarking and chat templates. Everything calls SambaNova models through SAMBANOVA_API_KEY. For teams on SambaCloud or SambaStack who want working retrieval code.
-
-- **+** Knowledge retriever and search assistant kits include runnable Streamlit demos
-- **+** Makefile base environment installs Python, Poetry, Tesseract and Poppler; Docker option
-- **+** RAG evaluation kit included
-- **−** SambaNova endpoints only; swapping providers means editing each kit
-- **−** README states the code is as-is and not production-ready
-- **−** Mixed notebooks and apps; no single app to fork
-- **−** Heavy setup: pyenv, Poetry, a parsing service and OCR system packages
-
-<sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
-
 <a name="azure-search-openai-javascript"></a>
-### #&#8288;17 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · Oct 2026</sub>
+### #&#8288;16 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · Oct 2026</sub>
 
 **TypeScript RAG on Azure AI Search with separate indexer and search services.**
 
@@ -306,6 +289,23 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 - **−** Less active than the Python sample (seed stars 322 vs 7776)
 
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
+
+<a name="ai-starter-kit"></a>
+### #&#8288;17 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (82) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
+
+**SambaNova Python kits for document RAG, search assistant, function calling.**
+
+Nine Python kits, each with its own README: document text extraction, enterprise and multimodal knowledge retrieval with Streamlit demos, a RAG evaluation kit, a web search assistant, a financial assistant using function calling and scraping, a function-calling module, benchmarking and chat templates. Everything calls SambaNova models through SAMBANOVA_API_KEY. For teams on SambaCloud or SambaStack who want working retrieval code.
+
+- **+** Knowledge retriever and search assistant kits include runnable Streamlit demos
+- **+** Makefile base environment installs Python, Poetry, Tesseract and Poppler; Docker option
+- **+** RAG evaluation kit included
+- **−** SambaNova endpoints only; swapping providers means editing each kit
+- **−** README states the code is as-is and not production-ready
+- **−** Mixed notebooks and apps; no single app to fork
+- **−** Heavy setup: pyenv, Poetry, a parsing service and OCR system packages
+
+<sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="llm-answer-engine"></a>
 ### #&#8288;18 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: known (48) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
@@ -342,7 +342,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;20 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (9) · Freshness: recent (58) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;20 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (9) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
@@ -359,7 +359,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;21 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (1) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 207 · MIT · Dec 2025</sub>
+### #&#8288;21 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (1) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 208 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 
