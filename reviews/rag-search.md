@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -93,26 +93,8 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
-<a name="manticoresearch"></a>
-### #&#8288;6 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
-
-**C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
-
-Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSON interfaces, positioned as an Elasticsearch alternative. It combines full-text search, KNN vector search, hybrid queries and auto-embeddings with chunking, and adds conversational search through SQL CALL CHAT. Storage is row-wise or columnar, with real-time inserts, sharded tables and Galera-based multi-master replication.
-
-- **+** Hybrid full-text and KNN retrieval in one query, with auto-embeddings and chunking
-- **+** Speaks MySQL protocol and HTTP JSON; official clients for nine languages
-- **+** Columnar storage for datasets larger than RAM; about 40MB RSS when empty
-- **+** Replication, sharded tables, built-in auth, backup to S3-compatible storage
-- **−** GPL-3.0 licence may constrain embedding in proprietary products
-- **−** Not fully ACID; only isolated transactions and binary logging
-- **−** Elasticsearch compatibility covers writes only, not the full query API
-- **−** Benchmark claims come from the project's own suite and are workload-specific
-
-<sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
-
 <a name="azure-search-openai-demo"></a>
-### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
 
@@ -128,6 +110,24 @@ Python backend with a web frontend that answers questions over your own document
 - **−** Deploying needs Azure role assignment and deployment write permissions
 
 <sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
+
+<a name="manticoresearch"></a>
+### #&#8288;7 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+
+**C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
+
+Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSON interfaces, positioned as an Elasticsearch alternative. It combines full-text search, KNN vector search, hybrid queries and auto-embeddings with chunking, and adds conversational search through SQL CALL CHAT. Storage is row-wise or columnar, with real-time inserts, sharded tables and Galera-based multi-master replication.
+
+- **+** Hybrid full-text and KNN retrieval in one query, with auto-embeddings and chunking
+- **+** Speaks MySQL protocol and HTTP JSON; official clients for nine languages
+- **+** Columnar storage for datasets larger than RAM; about 40MB RSS when empty
+- **+** Replication, sharded tables, built-in auth, backup to S3-compatible storage
+- **−** GPL-3.0 licence may constrain embedding in proprietary products
+- **−** Not fully ACID; only isolated transactions and binary logging
+- **−** Elasticsearch compatibility covers writes only, not the full query API
+- **−** Benchmark claims come from the project's own suite and are workload-specific
+
+<sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
 
 <a name="paradedb"></a>
 ### #&#8288;8 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
@@ -201,26 +201,8 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
-<a name="supabaseauthwithssr"></a>
-### #&#8288;12 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 398 · MIT · Oct 2026</sub>
-
-**Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
-
-A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup, magic links, password reset, RLS on every table) and eight tools: PDF RAG (Mistral OCR, Voyage embeddings, hybrid RRF search in pgvector), Exa web search, versioned artifacts, memory, conversation search, sandboxed visualizations, PDF export and image generation. Per-step token usage feeds user and admin cost dashboards. For teams shipping a paid Claude assistant on Supabase.
-
-- **+** Whole schema, RLS, triggers and search functions in one idempotent setup.sql
-- **+** Per-step token and cache usage stored on messages; user and admin cost dashboards
-- **+** Two-tier Anthropic prompt caching with a hit-rate readout
-- **+** Live instance at supa-chat.dev; committed within the last day
-- **−** Anthropic-only chat; OCR, embeddings and search add Mistral, Voyage and Exa keys
-- **−** No tests listed
-- **−** Image generation needs your own GPU server (RTX 5090 32 GB recommended)
-- **−** One maintainer; large surface area to understand before customizing
-
-<sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
-
 <a name="rag-api"></a>
-### #&#8288;13 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: weak (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Sep 2026</sub>
+### #&#8288;12 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
 
 **FastAPI service for per-file document embedding and retrieval on pgvector.**
 
@@ -236,6 +218,24 @@ Async FastAPI and Langchain service that ingests documents, embeds them under a 
 - **−** Omitting JWT_SECRET disables authentication and stamps all chunks as public
 
 <sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
+
+<a name="supabaseauthwithssr"></a>
+### #&#8288;13 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 398 · MIT · Oct 2026</sub>
+
+**Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
+
+A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup, magic links, password reset, RLS on every table) and eight tools: PDF RAG (Mistral OCR, Voyage embeddings, hybrid RRF search in pgvector), Exa web search, versioned artifacts, memory, conversation search, sandboxed visualizations, PDF export and image generation. Per-step token usage feeds user and admin cost dashboards. For teams shipping a paid Claude assistant on Supabase.
+
+- **+** Whole schema, RLS, triggers and search functions in one idempotent setup.sql
+- **+** Per-step token and cache usage stored on messages; user and admin cost dashboards
+- **+** Two-tier Anthropic prompt caching with a hit-rate readout
+- **+** Live instance at supa-chat.dev; committed within the last day
+- **−** Anthropic-only chat; OCR, embeddings and search add Mistral, Voyage and Exa keys
+- **−** No tests listed
+- **−** Image generation needs your own GPU server (RTX 5090 32 GB recommended)
+- **−** One maintainer; large surface area to understand before customizing
+
+<sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="orama"></a>
 ### #&#8288;14 [orama](https://github.com/oramasearch/orama) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (69) · Freshness: recent (75) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
@@ -342,7 +342,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;20 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (9) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;20 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (9) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

@@ -39,26 +39,8 @@ Wails packages Go code and an HTML/JS/CSS frontend into a single desktop binary,
 
 <sub>Go · Needs Go toolchain · [Repo](https://github.com/wailsapp/wails) · [📖 Docs ↗](https://v2.wails.io/) · [🌐 Site ↗](https://wails.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wails/)</sub>
 
-<a name="quasar"></a>
-### 🥉 [quasar](https://github.com/quasarframework/quasar) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · MIT · Nov 2026</sub>
-
-**Vue.js framework for web, mobile, desktop and extension apps from one codebase.**
-
-Quasar is a Vue.js framework with a component library and a Vite-based CLI. One codebase can target SPAs, SSR, SSG, PWAs, browser extensions, hybrid mobile apps and Electron apps. The README says its docs and API can be read offline by AI coding agents and lists an @quasar/mcp package. It is a general UI framework, not an AI starter with auth or billing.
-
-- **+** One codebase targets SPA, SSR, SSG, PWA, browser extension, mobile and Electron
-- **+** Official create-quasar scaffolder and Vite integration via @quasar/app-vite
-- **+** Docs and API readable offline by coding agents, plus an @quasar/mcp package
-- **+** MIT license, with separate CI test workflows per package
-- **−** No built-in auth, billing, database or model integration
-- **−** Tied to Vue.js; not usable with React or other frameworks
-- **−** AI support is limited to docs and an MCP package, with no LLM features
-- **−** Fits the SaaS and app starters category only loosely; it is a UI framework
-
-<sub>JavaScript · Needs Node.js, Vue.js, Vite · [Repo](https://github.com/quasarframework/quasar) · [📖 Docs ↗](https://quasar.dev) · [🌐 Site ↗](https://quasar.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/quasar/)</sub>
-
 <a name="next-js"></a>
-### #&#8288;4 [next.js](https://github.com/vercel/next.js) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 144k · MIT · Nov 2026</sub>
+### 🥉 [next.js](https://github.com/vercel/next.js) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 144k · MIT · Nov 2026</sub>
 
 **React framework for full-stack web apps with Rust-based build tooling.**
 
@@ -76,7 +58,7 @@ Next.js is a React framework for building full-stack web applications, extending
 <sub>JavaScript · Needs React · [Repo](https://github.com/vercel/next.js) · [📖 Docs ↗](https://nextjs.org/docs) · [🌐 Site ↗](https://nextjs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-js/)</sub>
 
 <a name="heroui"></a>
-### #&#8288;5 [heroui](https://github.com/heroui-inc/heroui) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;4 [heroui](https://github.com/heroui-inc/heroui) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · Apache-2.0 · Nov 2026</sub>
 
 **React component library on React Aria and Tailwind CSS v4.**
 
@@ -94,7 +76,7 @@ HeroUI (formerly NextUI) is a React component library that pairs React Aria acce
 <sub>TypeScript · Needs React 19, Tailwind CSS v4 · [Repo](https://github.com/heroui-inc/heroui) · [📖 Docs ↗](https://heroui.com/docs/react/getting-started/quick-start) · [🌐 Site ↗](https://heroui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/heroui/)</sub>
 
 <a name="astryx"></a>
-### #&#8288;6 [astryx](https://github.com/meta/astryx) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### #&#8288;5 [astryx](https://github.com/meta/astryx) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **React 19 design system with 150+ components, themes and a CLI for agents.**
 
@@ -112,7 +94,7 @@ Astryx is a React component library from Meta with 150+ typed, accessible compon
 <sub>TypeScript · Needs React 19+, @stylexjs/stylex, Node 22+ and pnpm 11 (contributors) · [Repo](https://github.com/meta/astryx) · [▶️ Demo ↗](https://astryx.atmeta.com/sandbox/) · [📖 Docs ↗](https://astryx.atmeta.com) · [🌐 Site ↗](https://astryx.atmeta.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/astryx/)</sub>
 
 <a name="reflex"></a>
-### #&#8288;7 [reflex](https://github.com/reflex-dev/reflex) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [reflex](https://github.com/reflex-dev/reflex) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
 
 **Python framework for building full-stack web apps without writing JavaScript.**
 
@@ -128,6 +110,24 @@ Reflex lets you write both the frontend UI and backend logic of a web app in Pyt
 - **−** Architecture details are on an external page, not in the README
 
 <sub>Python, OpenAI image generation (example only) · Needs uv · [Repo](https://github.com/reflex-dev/reflex) · [📖 Docs ↗](https://reflex.dev/docs/getting-started/introduction) · [🌐 Site ↗](https://reflex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reflex/)</sub>
+
+<a name="quasar"></a>
+### #&#8288;7 [quasar](https://github.com/quasarframework/quasar) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · MIT · Nov 2026</sub>
+
+**Vue.js framework for web, mobile, desktop and extension apps from one codebase.**
+
+Quasar is a Vue.js framework with a component library and a Vite-based CLI. One codebase can target SPAs, SSR, SSG, PWAs, browser extensions, hybrid mobile apps and Electron apps. The README says its docs and API can be read offline by AI coding agents and lists an @quasar/mcp package. It is a general UI framework, not an AI starter with auth or billing.
+
+- **+** One codebase targets SPA, SSR, SSG, PWA, browser extension, mobile and Electron
+- **+** Official create-quasar scaffolder and Vite integration via @quasar/app-vite
+- **+** Docs and API readable offline by coding agents, plus an @quasar/mcp package
+- **+** MIT license, with separate CI test workflows per package
+- **−** No built-in auth, billing, database or model integration
+- **−** Tied to Vue.js; not usable with React or other frameworks
+- **−** AI support is limited to docs and an MCP package, with no LLM features
+- **−** Fits the SaaS and app starters category only loosely; it is a UI framework
+
+<sub>JavaScript · Needs Node.js, Vue.js, Vite · [Repo](https://github.com/quasarframework/quasar) · [📖 Docs ↗](https://quasar.dev) · [🌐 Site ↗](https://quasar.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/quasar/)</sub>
 
 <a name="gentelella"></a>
 ### #&#8288;8 [gentelella](https://github.com/colorlibhq/gentelella) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · MIT · Nov 2026</sub>
@@ -256,7 +256,7 @@ Yudao-cloud is a Java microservice backend for admin and business systems on Spr
 <sub>Java · Needs Nacos, Redis, MySQL, XXL-Job, Sentinel, Seata · [Repo](https://github.com/yunaiv/yudao-cloud) · [▶️ Demo ↗](http://dashboard-vue3.yudao.iocoder.cn) · [📖 Docs ↗](https://cloud.iocoder.cn/quick-start/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yudao-cloud/)</sub>
 
 <a name="next-js-boilerplate"></a>
-### #&#8288;15 [next-js-boilerplate](https://github.com/ixartz/next-js-boilerplate) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Oct 2026</sub>
+### #&#8288;15 [next-js-boilerplate](https://github.com/ixartz/next-js-boilerplate) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Oct 2026</sub>
 
 **Next.js 16 starter with Clerk auth, Drizzle ORM, Tailwind 4 and tooling.**
 
@@ -542,8 +542,26 @@ Open SaaS is a full-stack SaaS template built on the Wasp framework (React, Node
 
 <sub>MDX, OpenAI API · Needs Wasp CLI, Node.js, Prisma database, Stripe, Polar.sh or Lemon Squeezy, OpenAI API, AWS S3, SendGrid, Mailgun or SMTP · [Repo](https://github.com/wasp-lang/open-saas) · [▶️ Demo ↗](https://opensaas.sh) · [📖 Docs ↗](https://docs.opensaas.sh) · [🌐 Site ↗](https://opensaas.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-saas/)</sub>
 
+<a name="aspnetboilerplate"></a>
+### #&#8288;31 [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Oct 2026</sub>
+
+**Modular multi-tenant .NET framework with user, role and tenant management.**
+
+ASP.NET Boilerplate is a C# application framework on ASP.NET Core and EF Core, with support for ASP.NET MVC 5 and EF 6. It ships as NuGet packages for DDD-style layering, modules and multi-tenancy. Module Zero adds Identity-based user, role, permission, tenant and edition management, with Angular and MVC/jQuery startup templates. Support ends May 2026, and the README recommends ABP Framework.
+
+- **+** Integrated multi-tenancy and edition management through Module Zero
+- **+** NuGet packages for EF Core, NHibernate, Dapper, Hangfire, Quartz, Redis and SignalR
+- **+** Startup templates for ASP.NET Core with Angular or MVC/jQuery
+- **+** LDAP and Identity Server 4 integration in Module Zero
+- **−** Official support ends May 2026, continuing only for ASP.NET Zero customers
+- **−** No AI features; it is a general .NET framework
+- **−** Maintainers point open-source users to ABP Framework instead
+- **−** Some templates target legacy stacks such as MVC 5 and AngularJS
+
+<sub>C# · Needs ASP.NET Core, EF Core · [Repo](https://github.com/aspnetboilerplate/aspnetboilerplate) · [📖 Docs ↗](https://aspnetboilerplate.com/Pages/Documents) · [🌐 Site ↗](https://aspnetboilerplate.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aspnetboilerplate/)</sub>
+
 <a name="dotnet-starter-kit"></a>
-### #&#8288;31 [dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Nov 2026</sub>
+### #&#8288;32 [dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · MIT · Nov 2026</sub>
 
 **.NET 10 multi-tenant SaaS starter with two React 19 front-ends.**
 
@@ -561,7 +579,7 @@ A modular .NET 10 monolith using vertical slices, Mediator CQRS, EF Core on Post
 <sub>C# · Needs PostgreSQL, Valkey, RustFS (S3-compatible storage), .NET 10 SDK, Docker, Node 20+ · GitHub template · [Repo](https://github.com/fullstackhero/dotnet-starter-kit) · [📖 Docs ↗](https://fullstackhero.net/docs/getting-started/introduction/) · [🌐 Site ↗](https://fullstackhero.net) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dotnet-starter-kit/)</sub>
 
 <a name="laravel-starter"></a>
-### #&#8288;32 [laravel-starter](https://github.com/nasirkhan/laravel-starter) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;33 [laravel-starter](https://github.com/nasirkhan/laravel-starter) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · GPL-3.0 · Nov 2026</sub>
 
 **Modular Laravel 13 starter with auth, roles, admin backend and posts module.**
 
@@ -576,24 +594,6 @@ Laravel Starter is a Laravel 13.x project template with authentication, social l
 - **−** GPL-3.0 license constrains closed-source derivatives
 
 <sub>PHP · Needs PHP, Composer, Node.js/npm, SQL database · GitHub template · env example file · [Repo](https://github.com/nasirkhan/laravel-starter) · [▶️ Demo ↗](https://laravel.nasirkhn.com) · [📖 Docs ↗](https://github.com/nasirkhan/laravel-starter/wiki/Installation) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/laravel-starter/)</sub>
-
-<a name="aspnetboilerplate"></a>
-### #&#8288;33 [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (68) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Oct 2026</sub>
-
-**Modular multi-tenant .NET framework with user, role and tenant management.**
-
-ASP.NET Boilerplate is a C# application framework on ASP.NET Core and EF Core, with support for ASP.NET MVC 5 and EF 6. It ships as NuGet packages for DDD-style layering, modules and multi-tenancy. Module Zero adds Identity-based user, role, permission, tenant and edition management, with Angular and MVC/jQuery startup templates. Support ends May 2026, and the README recommends ABP Framework.
-
-- **+** Integrated multi-tenancy and edition management through Module Zero
-- **+** NuGet packages for EF Core, NHibernate, Dapper, Hangfire, Quartz, Redis and SignalR
-- **+** Startup templates for ASP.NET Core with Angular or MVC/jQuery
-- **+** LDAP and Identity Server 4 integration in Module Zero
-- **−** Official support ends May 2026, continuing only for ASP.NET Zero customers
-- **−** No AI features; it is a general .NET framework
-- **−** Maintainers point open-source users to ABP Framework instead
-- **−** Some templates target legacy stacks such as MVC 5 and AngularJS
-
-<sub>C# · Needs ASP.NET Core, EF Core · [Repo](https://github.com/aspnetboilerplate/aspnetboilerplate) · [📖 Docs ↗](https://aspnetboilerplate.com/Pages/Documents) · [🌐 Site ↗](https://aspnetboilerplate.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aspnetboilerplate/)</sub>
 
 <a name="cosscom-ui"></a>
 ### #&#8288;34 [ui](https://github.com/cosscom/ui) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
@@ -919,7 +919,7 @@ Pagoda is a starter kit, not a framework, for server-rendered web apps in Go. It
 <sub>Go · Needs Go, SQLite, Tailwind CLI (optional), Air (optional) · GitHub template · [Repo](https://github.com/mikestefanello/pagoda) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pagoda/)</sub>
 
 <a name="free-nextjs-admin-dashboard"></a>
-### #&#8288;52 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;52 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **Next.js and Tailwind admin dashboard template with charts, tables and auth pages.**
 
