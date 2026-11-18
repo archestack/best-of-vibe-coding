@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -93,26 +93,8 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
-<a name="azure-search-openai-demo"></a>
-### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
-
-**RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
-
-Python backend with a web frontend that answers questions over your own documents using Azure OpenAI (gpt-5.4-mini in the sample) and Azure AI Search. It shows citations and the thought process for each answer and exposes retrieval settings in the UI. Deployment uses the Azure Developer CLI (`azd up`), which provisions resources and indexes the sample Zava data.
-
-- **+** Multi-turn chat with citations and per-answer thought process
-- **+** UI settings let you tweak prompts and retrieval options while testing
-- **+** Optional multimodal, speech, Entra login with access control, and Cosmos DB chat history
-- **+** Includes sample data plus docs on evaluation, monitoring and productionizing
-- **−** Tied to Azure services; no other model or search providers listed
-- **−** azd up provisions paid resources, mainly AI Search, that bill immediately
-- **−** README advises against production use without extra security work
-- **−** Deploying needs Azure role assignment and deployment write permissions
-
-<sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
-
 <a name="manticoresearch"></a>
-### #&#8288;7 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;6 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
 
 **C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
 
@@ -128,6 +110,24 @@ Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSO
 - **−** Benchmark claims come from the project's own suite and are workload-specific
 
 <sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
+
+<a name="azure-search-openai-demo"></a>
+### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+
+**RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
+
+Python backend with a web frontend that answers questions over your own documents using Azure OpenAI (gpt-5.4-mini in the sample) and Azure AI Search. It shows citations and the thought process for each answer and exposes retrieval settings in the UI. Deployment uses the Azure Developer CLI (`azd up`), which provisions resources and indexes the sample Zava data.
+
+- **+** Multi-turn chat with citations and per-answer thought process
+- **+** UI settings let you tweak prompts and retrieval options while testing
+- **+** Optional multimodal, speech, Entra login with access control, and Cosmos DB chat history
+- **+** Includes sample data plus docs on evaluation, monitoring and productionizing
+- **−** Tied to Azure services; no other model or search providers listed
+- **−** azd up provisions paid resources, mainly AI Search, that bill immediately
+- **−** README advises against production use without extra security work
+- **−** Deploying needs Azure role assignment and deployment write permissions
+
+<sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="paradedb"></a>
 ### #&#8288;8 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
@@ -220,7 +220,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="rag-api"></a>
-### #&#8288;13 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 927 · MIT · Sep 2026</sub>
+### #&#8288;13 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: weak (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Sep 2026</sub>
 
 **FastAPI service for per-file document embedding and retrieval on pgvector.**
 

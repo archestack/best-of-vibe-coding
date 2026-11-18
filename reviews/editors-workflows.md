@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="penpot"></a>
-### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · MPL-2.0 · Nov 2026</sub>
+### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
@@ -58,7 +58,7 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="plate"></a>
-### #&#8288;4 [plate](https://github.com/udecode/plate) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
+### #&#8288;4 [plate](https://github.com/udecode/plate) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
 
 **Rich-text editor framework for React built on Slate, with plugins and AI.**
 
@@ -75,7 +75,7 @@ Plate is a plugin-based rich-text editor framework for React, built on slate-rea
 <sub>TypeScript · Needs React, slate-react · [Repo](https://github.com/udecode/plate) · [📖 Docs ↗](https://platejs.org/docs) · [🌐 Site ↗](https://platejs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate/)</sub>
 
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -110,7 +110,7 @@ Builder.io is a visual development platform that connects to an existing site or
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="plate-playground-template"></a>
-### #&#8288;7 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
+### #&#8288;7 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
 
 **Next.js rich-text editor template on Plate with AI commands.**
 
