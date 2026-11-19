@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="windmill"></a>
-### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
+### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
 
 **Workflow engine and app builder where scripts become UIs, APIs and cron jobs.**
 
@@ -40,25 +40,8 @@ Penpot is a browser-based design and prototyping platform that stores designs in
 
 <sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
 
-<a name="next-ai-draw-io"></a>
-### 🥉 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Nov 2026</sub>
-
-**Chat with an AI to create and edit draw.io diagrams.**
-
-Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so diagrams stay editable by hand and export as .drawio, .png, .svg or .drawio.svg. Each AI change is saved as a version you can compare, restore or undo. It also ships as a desktop app and as an MCP server (@next-ai-drawio/mcp-server) for agents such as Claude Code, Cursor and VS Code.
-
-- **+** Output is a normal draw.io file, editable by hand and exportable to four formats
-- **+** Per-change version history with compare, restore and Ctrl+Z undo
-- **+** 25 providers including Ollama and an OpenAI-compatible preset; browser-entered keys stay local
-- **+** Also runs as an MCP server and desktop app; admin panel for models and quotas
-- **−** Small models tend to produce broken diagrams; README recommends a capable model
-- **−** Default provider is AWS Bedrock, so provider setup is needed before first run
-- **−** Hosted demo has a usage limit unless you supply your own API key
-
-<sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
-
 <a name="plate"></a>
-### #&#8288;4 [plate](https://github.com/udecode/plate) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
+### 🥉 [plate](https://github.com/udecode/plate) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
 
 **Rich-text editor framework for React built on Slate, with plugins and AI.**
 
@@ -73,6 +56,23 @@ Plate is a plugin-based rich-text editor framework for React, built on slate-rea
 - **−** README has no feature list, so AI command coverage must be checked in the docs
 
 <sub>TypeScript · Needs React, slate-react · [Repo](https://github.com/udecode/plate) · [📖 Docs ↗](https://platejs.org/docs) · [🌐 Site ↗](https://platejs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate/)</sub>
+
+<a name="next-ai-draw-io"></a>
+### #&#8288;4 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Nov 2026</sub>
+
+**Chat with an AI to create and edit draw.io diagrams.**
+
+Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so diagrams stay editable by hand and export as .drawio, .png, .svg or .drawio.svg. Each AI change is saved as a version you can compare, restore or undo. It also ships as a desktop app and as an MCP server (@next-ai-drawio/mcp-server) for agents such as Claude Code, Cursor and VS Code.
+
+- **+** Output is a normal draw.io file, editable by hand and exportable to four formats
+- **+** Per-change version history with compare, restore and Ctrl+Z undo
+- **+** 25 providers including Ollama and an OpenAI-compatible preset; browser-entered keys stay local
+- **+** Also runs as an MCP server and desktop app; admin panel for models and quotas
+- **−** Small models tend to produce broken diagrams; README recommends a capable model
+- **−** Default provider is AWS Bedrock, so provider setup is needed before first run
+- **−** Hosted demo has a usage limit unless you supply your own API key
+
+<sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="fresh"></a>
 ### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
@@ -93,7 +93,7 @@ Fresh is a Rust terminal text editor that uses standard keybindings, menus and a
 <sub>Rust, claude, codex, opencode, aider · [Repo](https://github.com/sinelaw/fresh) · [📖 Docs ↗](https://getfresh.dev/docs) · [🌐 Site ↗](https://sinelaw.github.io/fresh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fresh/)</sub>
 
 <a name="yn"></a>
-### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
 
 **Electron Markdown editor with AI completion and a plugin API.**
 
@@ -129,7 +129,7 @@ An npm package of 200+ WebGPU effects (gradients, noise, glass, distortions, blu
 <sub>TypeScript · Needs WebGPU-capable browser, shaders.com account for design editor and CLI sync · [Repo](https://github.com/shader-effects-inc/shaders) · [📖 Docs ↗](https://shaders.com/docs/components) · [🌐 Site ↗](https://shaders.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shaders/)</sub>
 
 <a name="builder"></a>
-### #&#8288;8 [builder](https://github.com/builderio/builder) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+### #&#8288;8 [builder](https://github.com/builderio/builder) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
 
 **Visual editor and SDKs for drag-and-drop editing with your own components.**
 
