@@ -77,7 +77,7 @@ Parses a repository with Tree-sitter into a SQLite graph of functions, classes, 
 <sub>no GPU · Docker · Needs Python 3.10+, Tree-sitter, SQLite · Models: all-MiniLM-L6-v2 (local embeddings) · safety checks passed 16 of 18 · [Repo](https://github.com/tirth8205/code-review-graph) · [📖 Docs ↗](https://github.com/tirth8205/code-review-graph/blob/main/docs/USAGE.md) · [🌐 Site ↗](https://code-review-graph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-review-graph/)</sub>
 
 <a name="fastmcp"></a>
-### #&#8288;5 [fastmcp](https://github.com/prefecthq/fastmcp) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;5 [fastmcp](https://github.com/prefecthq/fastmcp) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
 
 **Python framework for building MCP servers, clients, and interactive apps.**
 
@@ -94,8 +94,26 @@ FastMCP is a Python framework for the Model Context Protocol. A decorated Python
 
 <sub>no GPU · Needs Python, uv (recommended) · [Repo](https://github.com/prefecthq/fastmcp) · [📖 Docs ↗](https://gofastmcp.com) · [🌐 Site ↗](https://gofastmcp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fastmcp/)</sub>
 
+<a name="n8n-mcp"></a>
+### #&#8288;6 [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
+
+**MCP server that lets AI assistants build, edit, validate and debug n8n workflows.**
+
+n8n-MCP exposes n8n's Public API to MCP clients such as Claude, ChatGPT and Cursor. Tools cover reading failed executions, partial workflow edits with snapshots and rollback, validation and autofix, test runs, and credential management. It bundles a database of 3,501 nodes and 2,352 templates, so node docs and validation work without an n8n connection.
+
+- **+** Partial workflow edits avoid resending whole workflows; up to 10 snapshots per workflow allow rollback
+- **+** Bundled database of 3,501 nodes and 2,352 templates; docs and validation work without n8n
+- **+** Can route Public API gaps to n8n's built-in MCP server through one connection
+- **+** Self-host via npx, Docker or Railway, or use the hosted multi-instance service
+- **−** Read-modify-write without conditional writes: UI edits made mid-session get overwritten
+- **−** A failed snapshot does not block the edit, so rollback is not guaranteed
+- **−** Hosted free tier is capped at 100 tool calls per day
+- **−** Pinned-data tests and Agents need a separate N8N_MCP_ACCESS_TOKEN and recent n8n
+
+<sub>no GPU · Docker + Compose · Needs n8n instance with Public API enabled, n8n API key · [Repo](https://github.com/czlonkowski/n8n-mcp) · [▶️ Demo ↗](https://dashboard.n8n-mcp.com) · [📖 Docs ↗](https://www.n8n-mcp.com/docs/multi-instance) · [🌐 Site ↗](https://www.n8n-mcp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/n8n-mcp/)</sub>
+
 <a name="cua"></a>
-### #&#8288;6 [cua](https://github.com/trycua/cua) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+### #&#8288;7 [cua](https://github.com/trycua/cua) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
 
 **Desktop automation tools and VM sandboxes for computer-use agents.**
 
@@ -113,7 +131,7 @@ Monorepo for running agents on full desktops. It holds Cua Driver (CLI, MCP and 
 <sub>Needs Apple Silicon (Lume), macOS 26 or later (Spaces app), Python 3.12 or 3.13 and uv (Cua Bench) · Models: Bring your own agent and model, CUA-S1-FORMS (Hugging Face) · [Repo](https://github.com/trycua/cua) · [📖 Docs ↗](https://cua.ai/docs) · [🌐 Site ↗](https://cua.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cua/)</sub>
 
 <a name="serena"></a>
-### #&#8288;7 [serena](https://github.com/oraios/serena) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · custom license · Nov 2026</sub>
+### #&#8288;8 [serena](https://github.com/oraios/serena) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · custom license · Nov 2026</sub>
 
 **MCP server giving coding agents symbol-level code search, editing and refactoring.**
 
@@ -129,24 +147,6 @@ Serena is an MCP server that exposes IDE-style tools to a coding agent: find sym
 - **−** Mixed licensing: GPL-3.0-or-later app with MIT SolidLSP component, plus a CLA
 
 <sub>Docker + Compose · Needs uv, Python 3.13, language servers per language (LSP backend), JetBrains IDE and Serena plugin (optional, paid) · Models: Any LLM through an MCP client · safety checks passed 12 of 14 · [Repo](https://github.com/oraios/serena) · [📖 Docs ↗](https://oraios.github.io/serena/02-usage/000_intro.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serena/)</sub>
-
-<a name="n8n-mcp"></a>
-### #&#8288;8 [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
-
-**MCP server that lets AI assistants build, edit, validate and debug n8n workflows.**
-
-n8n-MCP exposes n8n's Public API to MCP clients such as Claude, ChatGPT and Cursor. Tools cover reading failed executions, partial workflow edits with snapshots and rollback, validation and autofix, test runs, and credential management. It bundles a database of 3,501 nodes and 2,352 templates, so node docs and validation work without an n8n connection.
-
-- **+** Partial workflow edits avoid resending whole workflows; up to 10 snapshots per workflow allow rollback
-- **+** Bundled database of 3,501 nodes and 2,352 templates; docs and validation work without n8n
-- **+** Can route Public API gaps to n8n's built-in MCP server through one connection
-- **+** Self-host via npx, Docker or Railway, or use the hosted multi-instance service
-- **−** Read-modify-write without conditional writes: UI edits made mid-session get overwritten
-- **−** A failed snapshot does not block the edit, so rollback is not guaranteed
-- **−** Hosted free tier is capped at 100 tool calls per day
-- **−** Pinned-data tests and Agents need a separate N8N_MCP_ACCESS_TOKEN and recent n8n
-
-<sub>no GPU · Docker + Compose · Needs n8n instance with Public API enabled, n8n API key · [Repo](https://github.com/czlonkowski/n8n-mcp) · [▶️ Demo ↗](https://dashboard.n8n-mcp.com) · [📖 Docs ↗](https://www.n8n-mcp.com/docs/multi-instance) · [🌐 Site ↗](https://www.n8n-mcp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/n8n-mcp/)</sub>
 
 <a name="inspector"></a>
 ### #&#8288;9 [inspector](https://github.com/modelcontextprotocol/inspector) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
@@ -329,7 +329,7 @@ fff is a Rust file search library with a resident in-memory index, frecency rank
 <sub>no GPU · Needs Rust (fallback cargo build for Neovim plugin), git · [Repo](https://github.com/dmtrkovalenko/fff) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fff/)</sub>
 
 <a name="dbx"></a>
-### #&#8288;19 [dbx](https://github.com/t8y2/dbx) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;19 [dbx](https://github.com/t8y2/dbx) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · Apache-2.0 · Nov 2026</sub>
 
 **Rust database client for 100+ databases with an AI assistant and MCP server.**
 
@@ -364,7 +364,7 @@ Tabularis is a desktop SQL workspace with built-in PostgreSQL, MySQL/MariaDB and
 <sub>Docker + Compose · Needs Ollama (optional, for local text-to-SQL) · Models: Ollama · [Repo](https://github.com/tabularisdb/tabularis) · [📖 Docs ↗](https://tabularis.dev/wiki) · [🌐 Site ↗](https://tabularis.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tabularis/)</sub>
 
 <a name="omniget"></a>
-### #&#8288;21 [omniget](https://github.com/tonhowtf/omniget) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;21 [omniget](https://github.com/tonhowtf/omniget) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · GPL-3.0 · Nov 2026</sub>
 
 **Desktop video downloader on yt-dlp with a built-in MCP server and agent window.**
 
@@ -400,7 +400,7 @@ A native C MCP server that parses source, docs and infrastructure config into a 
 <sub>no GPU · port 9749 · safety checks passed 13 of 16 · [Repo](https://github.com/deusdata/codebase-memory-mcp) · [📖 Docs ↗](https://github.com/DeusData/codebase-memory-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codebase-memory-mcp/)</sub>
 
 <a name="typescript-sdk"></a>
-### #&#8288;23 [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Nov 2026</sub>
+### #&#8288;23 [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Nov 2026</sub>
 
 **Official TypeScript SDK for building MCP servers and clients.**
 
@@ -418,7 +418,7 @@ Split npm packages, @modelcontextprotocol/server and @modelcontextprotocol/clien
 <sub>no GPU · Needs Node.js, Bun or Deno, zod or another Standard Schema library · [Repo](https://github.com/modelcontextprotocol/typescript-sdk) · [📖 Docs ↗](https://ts.sdk.modelcontextprotocol.io/v2/) · [🌐 Site ↗](https://modelcontextprotocol.io/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/typescript-sdk/)</sub>
 
 <a name="ghidra-mcp"></a>
-### #&#8288;24 [ghidra-mcp](https://github.com/bethington/ghidra-mcp) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;24 [ghidra-mcp](https://github.com/bethington/ghidra-mcp) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server exposing Ghidra reverse-engineering tools to AI clients.**
 
@@ -454,7 +454,7 @@ Official MCP server from GitHub that lets AI hosts read repositories and code, m
 <sub>no GPU · Docker · Needs GitHub account, Docker (optional, for local image), MCP host · safety checks passed 14 of 15 · [Repo](https://github.com/github/github-mcp-server) · [📖 Docs ↗](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/github-mcp-server/)</sub>
 
 <a name="socraticode"></a>
-### #&#8288;26 [socraticode](https://github.com/giancarloerra/socraticode) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;26 [socraticode](https://github.com/giancarloerra/socraticode) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · AGPL-3.0 · Nov 2026</sub>
 
 **MCP server that indexes a codebase for hybrid semantic and BM25 search.**
 
@@ -471,26 +471,8 @@ SocratiCode is a local stdio MCP server, also packaged as plugins for Claude Cod
 
 <sub>GPU optional · Compose · Needs Node.js 18.17+, Docker, Qdrant, Ollama · Models: Ollama (local embeddings), OpenAI embeddings, Google Gemini embeddings · [Repo](https://github.com/giancarloerra/socraticode) · [📖 Docs ↗](https://github.com/giancarloerra/socraticode/blob/main/docs/guides/README.md) · [🌐 Site ↗](https://socraticode.cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/socraticode/)</sub>
 
-<a name="dbhub"></a>
-### #&#8288;27 [dbhub](https://github.com/bytebase/dbhub) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
-
-**MCP server that gives coding agents SQL access to six database engines.**
-
-DBHub is an MCP server that connects clients such as Claude Desktop, Claude Code, Cursor and VS Code to PostgreSQL, MySQL, MariaDB, SQL Server, Oracle and SQLite. It exposes two tools by default, execute_sql and search_objects, with opt-in explain_sql and health_check, plus custom parameterized tools defined in a TOML file. A built-in web workbench runs queries without an MCP client.
-
-- **+** Two default tools at about 1.4k tokens, versus 19k for MCP Toolbox per README
-- **+** Read-only mode, row limit and query timeout guard against runaway queries
-- **+** Several databases in one process via TOML config; SSH tunneling and SSL/TLS supported
-- **+** Runs via npx, Docker, MCP Bundle or Claude Code plugin; includes a web workbench
-- **−** No approval flow, access control, data masking or audit logging; README points to Bytebase
-- **−** Development requires Node.js 22.5 or newer because it uses node:sqlite
-- **−** Only six SQL engines listed; no NoSQL or warehouse engines mentioned
-- **−** Token comparison figures are the project's own, not independently verified
-
-<sub>no GPU · Docker · Needs Node.js >= 22.5.0 (development), A target database: PostgreSQL, MySQL, MariaDB, SQL Server, Oracle or SQLite · port 8080 · [Repo](https://github.com/bytebase/dbhub) · [📖 Docs ↗](https://dbhub.ai/installation) · [🌐 Site ↗](https://dbhub.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dbhub/)</sub>
-
 <a name="jcodemunch-mcp"></a>
-### #&#8288;28 [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: known (40) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · custom license · Nov 2026</sub>
+### #&#8288;27 [jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · custom license · Nov 2026</sub>
 
 **MCP server that returns code by symbol using tree-sitter indexing.**
 
@@ -507,8 +489,44 @@ jCodeMunch indexes a repository locally with tree-sitter (70+ languages) and exp
 
 <sub>no GPU · Docker + Compose · Needs Python, uv, pipx or pip, tree-sitter-language-pack · [Repo](https://github.com/jgravelle/jcodemunch-mcp) · [📖 Docs ↗](https://github.com/jgravelle/jcodemunch-mcp/blob/main/QUICKSTART.md) · [🌐 Site ↗](https://jcodemunch.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jcodemunch-mcp/)</sub>
 
+<a name="dembrandt"></a>
+### #&#8288;28 [dembrandt](https://github.com/dembrandt/dembrandt) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Nov 2026</sub>
+
+**CLI that extracts a website's design tokens and flags design drift in CI.**
+
+Dembrandt renders a page in Chromium through playwright-core, reads computed styles from the DOM, and outputs colors, typography, spacing, borders, shadows, motion, and component styles. It exports W3C DTCG tokens, Tailwind v4 theme CSS, shadcn/ui themes, DESIGN.md, and HTML or PDF reports. It also compares runs against a baseline and exits 1 on drift, with a GitHub Action and an MCP server for agents.
+
+- **+** Exports DTCG, Tailwind v4 @theme, shadcn/ui theme, and DESIGN.md from one extraction
+- **+** --compare exits 1 on token drift; GitHub Action annotates PRs
+- **+** MCP server with job-based tools, installable via npx in Cursor, VS Code, Claude Code
+- **+** Multi-page crawl, sitemap discovery, dark mode, mobile viewport, and authenticated page access
+- **−** Requires a separate one-time Chromium download via install-browser
+- **−** Canvas/WebGL sites cannot be analyzed; dark mode needs an explicit flag
+- **−** Hover and focus states are sampled; pointer-path or timer-driven states are missed
+- **−** Team drift dashboard and ingest API sit in a separate beta app tied to an account
+
+<sub>no GPU · Needs Node.js 18+, Chromium via playwright-core · [Repo](https://github.com/dembrandt/dembrandt) · [📖 Docs ↗](https://github.com/dembrandt/dembrandt/blob/main/docs/usage.md) · [🌐 Site ↗](https://www.dembrandt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dembrandt/)</sub>
+
+<a name="dbhub"></a>
+### #&#8288;29 [dbhub](https://github.com/bytebase/dbhub) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
+
+**MCP server that gives coding agents SQL access to six database engines.**
+
+DBHub is an MCP server that connects clients such as Claude Desktop, Claude Code, Cursor and VS Code to PostgreSQL, MySQL, MariaDB, SQL Server, Oracle and SQLite. It exposes two tools by default, execute_sql and search_objects, with opt-in explain_sql and health_check, plus custom parameterized tools defined in a TOML file. A built-in web workbench runs queries without an MCP client.
+
+- **+** Two default tools at about 1.4k tokens, versus 19k for MCP Toolbox per README
+- **+** Read-only mode, row limit and query timeout guard against runaway queries
+- **+** Several databases in one process via TOML config; SSH tunneling and SSL/TLS supported
+- **+** Runs via npx, Docker, MCP Bundle or Claude Code plugin; includes a web workbench
+- **−** No approval flow, access control, data masking or audit logging; README points to Bytebase
+- **−** Development requires Node.js 22.5 or newer because it uses node:sqlite
+- **−** Only six SQL engines listed; no NoSQL or warehouse engines mentioned
+- **−** Token comparison figures are the project's own, not independently verified
+
+<sub>no GPU · Docker · Needs Node.js >= 22.5.0 (development), A target database: PostgreSQL, MySQL, MariaDB, SQL Server, Oracle or SQLite · port 8080 · [Repo](https://github.com/bytebase/dbhub) · [📖 Docs ↗](https://dbhub.ai/installation) · [🌐 Site ↗](https://dbhub.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dbhub/)</sub>
+
 <a name="repowise"></a>
-### #&#8288;29 [repowise](https://github.com/repowise-dev/repowise) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;30 [repowise](https://github.com/repowise-dev/repowise) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · AGPL-3.0 · Nov 2026</sub>
 
 **Local code index exposed to coding agents over MCP, plus a dashboard.**
 
@@ -526,7 +544,7 @@ Repowise indexes a repository's call graph (29 languages), git history, tests an
 <sub>Docker + Compose · Needs Node 20+ (dashboard), uv, pipx or pip · [Repo](https://github.com/repowise-dev/repowise) · [▶️ Demo ↗](https://www.repowise.dev/) · [📖 Docs ↗](https://docs.repowise.dev) · [🌐 Site ↗](https://www.repowise.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/repowise/)</sub>
 
 <a name="maildev"></a>
-### #&#8288;30 [maildev](https://github.com/maildev/maildev) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Sep 2026</sub>
+### #&#8288;31 [maildev](https://github.com/maildev/maildev) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Sep 2026</sub>
 
 **Local SMTP catcher with a web inbox and an optional MCP server.**
 
@@ -543,7 +561,7 @@ MailDev is a Node.js SMTP server for development that accepts mail on port 1025 
 <sub>no GPU · Docker · Needs Node.js · port 1080 · [Repo](https://github.com/maildev/maildev) · [📖 Docs ↗](https://maildev.github.io/maildev/docs/guides/upgrading/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/maildev/)</sub>
 
 <a name="agent-device"></a>
-### #&#8288;31 [agent-device](https://github.com/callstack/agent-device) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
+### #&#8288;32 [agent-device](https://github.com/callstack/agent-device) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
 
 **CLI and MCP server that lets coding agents drive and verify mobile apps.**
 
@@ -559,24 +577,6 @@ agent-device lets coding agents open, inspect and control apps on iOS, Android, 
 - **−** Backends depend on platform toolchains such as XCTest, ADB and HDC being installed
 
 <sub>Needs Node.js 22.12+ (24+ for web), XCTest/iOS Simulator (iOS, tvOS), ADB (Android), HDC (HarmonyOS), agent-browser (web) · [Repo](https://github.com/callstack/agent-device) · [📖 Docs ↗](https://oss.callstack.com/agent-device/) · [🌐 Site ↗](https://agent-device.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-device/)</sub>
-
-<a name="dembrandt"></a>
-### #&#8288;32 [dembrandt](https://github.com/dembrandt/dembrandt) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Nov 2026</sub>
-
-**CLI that extracts a website's design tokens and flags design drift in CI.**
-
-Dembrandt renders a page in Chromium through playwright-core, reads computed styles from the DOM, and outputs colors, typography, spacing, borders, shadows, motion, and component styles. It exports W3C DTCG tokens, Tailwind v4 theme CSS, shadcn/ui themes, DESIGN.md, and HTML or PDF reports. It also compares runs against a baseline and exits 1 on drift, with a GitHub Action and an MCP server for agents.
-
-- **+** Exports DTCG, Tailwind v4 @theme, shadcn/ui theme, and DESIGN.md from one extraction
-- **+** --compare exits 1 on token drift; GitHub Action annotates PRs
-- **+** MCP server with job-based tools, installable via npx in Cursor, VS Code, Claude Code
-- **+** Multi-page crawl, sitemap discovery, dark mode, mobile viewport, and authenticated page access
-- **−** Requires a separate one-time Chromium download via install-browser
-- **−** Canvas/WebGL sites cannot be analyzed; dark mode needs an explicit flag
-- **−** Hover and focus states are sampled; pointer-path or timer-driven states are missed
-- **−** Team drift dashboard and ingest API sit in a separate beta app tied to an account
-
-<sub>no GPU · Needs Node.js 18+, Chromium via playwright-core · [Repo](https://github.com/dembrandt/dembrandt) · [📖 Docs ↗](https://github.com/dembrandt/dembrandt/blob/main/docs/usage.md) · [🌐 Site ↗](https://www.dembrandt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dembrandt/)</sub>
 
 <a name="mobile-mcp"></a>
 ### #&#8288;33 [mobile-mcp](https://github.com/mobile-next/mobile-mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Nov 2026</sub>
@@ -597,7 +597,7 @@ Mobile MCP exposes MCP tools for controlling iOS simulators, Android emulators a
 <sub>no GPU · Docker · Needs Node.js 20+, Xcode command line tools, Android Platform Tools (adb), MCP-compatible client · [Repo](https://github.com/mobile-next/mobile-mcp) · [📖 Docs ↗](https://github.com/mobile-next/mobile-mcp/wiki) · [🌐 Site ↗](https://mobilenext.ai/cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mobile-mcp/)</sub>
 
 <a name="mcp"></a>
-### #&#8288;34 [mcp](https://github.com/awslabs/mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;34 [mcp](https://github.com/awslabs/mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · Apache-2.0 · Nov 2026</sub>
 
 **MCP servers that give coding agents access to AWS docs and services.**
 
@@ -615,7 +615,7 @@ A monorepo of MCP servers from AWS Labs, each covering an AWS area: documentatio
 <sub>no GPU · Needs AWS account and credentials, uv/uvx, MCP client · [Repo](https://github.com/awslabs/mcp) · [📖 Docs ↗](https://docs.aws.amazon.com/aws-mcp/latest/userguide/what-is-mcp-server.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp/)</sub>
 
 <a name="browser-tools-mcp"></a>
-### #&#8288;35 [browser-tools-mcp](https://github.com/agentdeskai/browser-tools-mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · MIT · Oct 2026</sub>
+### #&#8288;35 [browser-tools-mcp](https://github.com/agentdeskai/browser-tools-mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · MIT · Oct 2026</sub>
 
 **MCP server that feeds Chrome console, network and Lighthouse data to coding agents.**
 
@@ -633,7 +633,7 @@ Runs as an npx-launched MCP server paired with a Chrome DevTools extension, and 
 <sub>no GPU · Needs Node 22.19+, Chrome extension, Chromium-based browser for audits · port 3025 · [Repo](https://github.com/agentdeskai/browser-tools-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/browser-tools-mcp/)</sub>
 
 <a name="semble"></a>
-### #&#8288;36 [semble](https://github.com/minishlab/semble) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
+### #&#8288;36 [semble](https://github.com/minishlab/semble) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
 
 **Local code search for coding agents, via MCP server or CLI.**
 
@@ -651,7 +651,7 @@ Semble indexes a local path or git URL with tree-sitter chunking, then ranks chu
 <sub>no GPU · Needs uv, Hugging Face (first-run model download) · Models: Model2Vec static embeddings (potion-code-16M-v2) · [Repo](https://github.com/minishlab/semble) · [📖 Docs ↗](https://github.com/MinishLab/semble/blob/main/docs/installation.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/semble/)</sub>
 
 <a name="wigolo"></a>
-### #&#8288;37 [wigolo](https://github.com/knockoutez/wigolo) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · custom license · Nov 2026</sub>
+### #&#8288;37 [wigolo](https://github.com/knockoutez/wigolo) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · custom license · Nov 2026</sub>
 
 **Local MCP and REST server for web search, fetch, crawl and extraction by agents.**
 
@@ -669,7 +669,7 @@ wigolo gives coding and self-hosted agents one tool surface for web search (18 e
 <sub>no GPU · Docker · Needs Node.js >= 20, ~1.5 GB disk for browser engine and models, Optional LLM provider (Gemini, Anthropic, OpenAI, Groq, Ollama) · Models: Gemini, Anthropic, OpenAI, Groq, Ollama · port 3333 · [Repo](https://github.com/knockoutez/wigolo) · [📖 Docs ↗](https://github.com/KnockOutEZ/wigolo/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wigolo/)</sub>
 
 <a name="devspace"></a>
-### #&#8288;38 [devspace](https://github.com/waishnav/devspace) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
+### #&#8288;38 [devspace](https://github.com/waishnav/devspace) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
 
 **Self-hosted MCP server that lets ChatGPT edit and run code in local projects.**
 
@@ -686,8 +686,26 @@ DevSpace is a Node-based MCP server that exposes selected local project folders 
 
 <sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📖 Docs ↗](https://github.com/Waishnav/devspace/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
 
+<a name="supabase-mcp"></a>
+### #&#8288;39 [mcp](https://github.com/supabase/mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+
+**MCP server that lets AI assistants manage and query Supabase projects.**
+
+Official Supabase MCP server, hosted at https://mcp.supabase.com/mcp, that gives clients such as Cursor, Claude and Windsurf tools for managing tables, fetching config and querying data. The TypeScript package @supabase/mcp-server-supabase also exports typed schemas for the Vercel AI SDK and a handler for serving the tools from your own HTTP endpoint. A separate PostgREST MCP server is included.
+
+- **+** Hosted endpoint with OAuth login; client config is a short JSON block
+- **+** URL options for project_ref, read_only and feature groups limit what the LLM can do
+- **+** createToolSchemas() gives typed tool inputs and outputs for Vercel AI SDK
+- **+** createSupabaseMcpHandler() allows serving the tools from your own endpoint
+- **−** CLI and self-hosted setups expose only a limited tool subset and no OAuth 2.1
+- **−** Connects an LLM to real projects; README points to security risks to mitigate
+- **−** Does not send structuredContent; AI SDK parses JSON from text content
+- **−** Self-hosted handler rejects clients that only speak the 2025-era protocol (HTTP 400)
+
+<sub>no GPU · Needs Supabase project, Supabase account (OAuth) · [Repo](https://github.com/supabase/mcp) · [📖 Docs ↗](https://supabase.com/docs/guides/getting-started/mcp) · [🌐 Site ↗](https://supabase.com/mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase-mcp/)</sub>
+
 <a name="mcphub"></a>
-### #&#8288;39 [mcphub](https://github.com/samanhappy/mcphub) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;40 [mcphub](https://github.com/samanhappy/mcphub) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted gateway that aggregates MCP servers behind one authenticated endpoint.**
 
@@ -705,7 +723,7 @@ MCPHub sits between AI clients and MCP servers, exposing local stdio and remote 
 <sub>no GPU · Docker + Compose · Needs Docker, PostgreSQL (optional, pgvector for Smart Routing), Node.js >=22 and pnpm 10.12.4 (source builds only) · port 3000 · [Repo](https://github.com/samanhappy/mcphub) · [▶️ Demo ↗](https://demo.mcphub.app/) · [📖 Docs ↗](https://docs.mcphub.app/) · [🌐 Site ↗](https://www.mcphub.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcphub/)</sub>
 
 <a name="mcp-memory-service"></a>
-### #&#8288;40 [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;41 [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted memory service for AI agents with REST API and MCP.**
 
@@ -723,7 +741,7 @@ Python service that stores and retrieves agent memories through a REST API, MCP,
 <sub>no GPU · Needs SQLite, Cloudflare (optional), Milvus (optional), OpenAI-compatible LLM endpoint (optional) · Models: ONNX embeddings (local), OpenAI-compatible endpoints (Ollama, LiteLLM, vLLM) for quality scoring · port 8000 · [Repo](https://github.com/doobidoo/mcp-memory-service) · [📖 Docs ↗](https://github.com/doobidoo/mcp-memory-service/blob/main/docs/setup-guide.md) · [🌐 Site ↗](https://mcpmemory.services) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-memory-service/)</sub>
 
 <a name="desktopcommandermcp"></a>
-### #&#8288;41 [desktopcommandermcp](https://github.com/wonderwhy-er/desktopcommandermcp) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · MIT · Nov 2026</sub>
+### #&#8288;42 [desktopcommandermcp](https://github.com/wonderwhy-er/desktopcommandermcp) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · MIT · Nov 2026</sub>
 
 **MCP server giving AI clients terminal, filesystem, and document editing access.**
 
@@ -741,7 +759,7 @@ Desktop Commander is an MCP server that lets clients such as Claude Desktop, Cur
 <sub>no GPU · Docker · Needs Node.js (npx install), Docker (optional) · Models: Any MCP-compatible client · safety checks passed 14 of 17 · [Repo](https://github.com/wonderwhy-er/desktopcommandermcp) · [🌐 Site ↗](https://mcp.desktopcommander.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/desktopcommandermcp/)</sub>
 
 <a name="aos-ce"></a>
-### #&#8288;42 [aos-ce](https://github.com/unicity-aos/aos-ce) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;43 [aos-ce](https://github.com/unicity-aos/aos-ce) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Oct 2026</sub>
 
 **Local runtime that runs agent tools as permissioned WebAssembly capsules.**
 
@@ -759,7 +777,7 @@ AOS is a Rust CLI and runtime that gives agents such as Claude, Codex and Grok a
 <sub>no GPU · Needs Astrid runtime (bundled), Pinentry (Linux approval prompts) · Models: Claude, Codex, Grok · [Repo](https://github.com/unicity-aos/aos-ce) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aos-ce/)</sub>
 
 <a name="arxiv-mcp-server"></a>
-### #&#8288;43 [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;44 [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server for searching, reading and citing arXiv papers by section.**
 
@@ -776,26 +794,26 @@ A local MCP server, run over stdio via `uvx arxiv-mcp-server`, that exposes 19 t
 
 <sub>no GPU · Docker · Needs uv, arXiv API, Semantic Scholar API, Python 3.11 · port 8080 · [Repo](https://github.com/blazickjp/arxiv-mcp-server) · [🌐 Site ↗](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.blazickjp%2Farxiv-mcp-server/versions/latest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/arxiv-mcp-server/)</sub>
 
-<a name="supabase-mcp"></a>
-### #&#8288;44 [mcp](https://github.com/supabase/mcp) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+<a name="kubeshark"></a>
+### #&#8288;45 [kubeshark](https://github.com/kubeshark/kubeshark) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
 
-**MCP server that lets AI assistants manage and query Supabase projects.**
+**eBPF network traffic indexing for Kubernetes, with an MCP server for AI agents.**
 
-Official Supabase MCP server, hosted at https://mcp.supabase.com/mcp, that gives clients such as Cursor, Claude and Windsurf tools for managing tables, fetching config and querying data. The TypeScript package @supabase/mcp-server-supabase also exports typed schemas for the Vercel AI SDK and a handler for serving the tools from your own HTTP endpoint. A separate PostgREST MCP server is included.
+Kubeshark captures and indexes cluster-wide traffic at the kernel level with eBPF, parses L7 protocols such as HTTP, gRPC, Redis, Kafka and DNS, and decrypts TLS without key management. It offers a web dashboard, a workload dependency map, a CEL-based filter language (KFL) and PCAP export for Wireshark. An MCP server and Claude Code skills let AI agents query traffic for root cause analysis.
 
-- **+** Hosted endpoint with OAuth login; client config is a short JSON block
-- **+** URL options for project_ref, read_only and feature groups limit what the LLM can do
-- **+** createToolSchemas() gives typed tool inputs and outputs for Vercel AI SDK
-- **+** createSupabaseMcpHandler() allows serving the tools from your own endpoint
-- **−** CLI and self-hosted setups expose only a limited tool subset and no OAuth 2.1
-- **−** Connects an LLM to real projects; README points to security risks to mitigate
-- **−** Does not send structuredContent; AI SDK parses JSON from text content
-- **−** Self-hosted handler rejects clients that only speak the 2025-era protocol (HTTP 400)
+- **+** eBPF TLS/mTLS decryption without sidecars or key management
+- **+** Retrospective PCAP export by time, node, workload and IP, with S3, Azure Blob or GCS storage
+- **+** MCP server plus Network RCA and KFL skills installable as a Claude Code plugin
+- **+** Parses HTTP, gRPC, GraphQL, Redis, Kafka and DNS with no code instrumentation
+- **−** Only useful on Kubernetes clusters; no standalone or non-Kubernetes mode is described
+- **−** Kernel-level capture on every node; resource overhead is not documented in the README
+- **−** Port-forward setup is not for production; an ingress controller is recommended
+- **−** KFL is a custom query language that users must learn to filter effectively
 
-<sub>no GPU · Needs Supabase project, Supabase account (OAuth) · [Repo](https://github.com/supabase/mcp) · [📖 Docs ↗](https://supabase.com/docs/guides/getting-started/mcp) · [🌐 Site ↗](https://supabase.com/mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase-mcp/)</sub>
+<sub>no GPU · Needs Kubernetes, Helm · Models: MCP-compatible assistants (Claude Code, Cursor, Copilot) · port 8899 · [Repo](https://github.com/kubeshark/kubeshark) · [▶️ Demo ↗](https://demo.kubeshark.com/) · [📖 Docs ↗](https://docs.kubeshark.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubeshark/)</sub>
 
 <a name="ruvector"></a>
-### #&#8288;45 [ruvector](https://github.com/ruvnet/ruvector) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
+### #&#8288;46 [ruvector](https://github.com/ruvnet/ruvector) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
 
 **Rust vector database with persistent agent memory and an MCP server.**
 
@@ -813,7 +831,7 @@ RuVector is a Rust vector store with Node.js, Python and WASM bindings. It persi
 <sub>no GPU · Needs Node.js and npm, Rust toolchain (Rust and Python source builds), MCP-compatible client (for MCP use) · Models: ONNX all-MiniLM-L6-v2 embeddings · [Repo](https://github.com/ruvnet/ruvector) · [▶️ Demo ↗](https://ruvnet.github.io/RuVector/explorer/) · [🌐 Site ↗](https://cognitum.one/ruvector) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ruvector/)</sub>
 
 <a name="ivanmurzak-unity-mcp"></a>
-### #&#8288;46 [unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;47 [unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
 
 **Unity Editor and runtime plugin exposing 70+ MCP tools to coding agents.**
 
@@ -831,7 +849,7 @@ Unity package that runs an MCP server connected to the Unity Editor, so agents s
 <sub>Needs Unity Editor, Node.js and npm (for unity-mcp-cli), Docker (optional, for hosting the MCP server) · Models: Claude, Codex, Cursor, GitHub Copilot, Gemini · [Repo](https://github.com/ivanmurzak/unity-mcp) · [📖 Docs ↗](https://ai-game.dev/docs/tools) · [🌐 Site ↗](https://ai-game.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ivanmurzak-unity-mcp/)</sub>
 
 <a name="linkedin-mcp-server"></a>
-### #&#8288;47 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;48 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server that lets agents read and act on LinkedIn via your browser session.**
 
@@ -849,7 +867,7 @@ Python MCP server that drives a Patchright Chromium browser logged in as you. It
 <sub>no GPU · Docker + Compose · Needs uv, Patchright Chromium, LinkedIn account · port 8000 · [Repo](https://github.com/stickerdaniel/linkedin-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/linkedin-mcp-server/)</sub>
 
 <a name="mcp-grafana"></a>
-### #&#8288;48 [mcp-grafana](https://github.com/grafana/mcp-grafana) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;49 [mcp-grafana](https://github.com/grafana/mcp-grafana) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server exposing Grafana dashboards, datasources, alerting and incidents to agents.**
 
@@ -867,7 +885,7 @@ A Go MCP server that lets an MCP client query a Grafana instance: search and pat
 <sub>no GPU · Docker + Compose · Needs Grafana 9.0+, Grafana service account token, uv (for uvx quick start) · [Repo](https://github.com/grafana/mcp-grafana) · [📖 Docs ↗](https://pkg.go.dev/github.com/grafana/mcp-grafana) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-grafana/)</sub>
 
 <a name="grepai"></a>
-### #&#8288;49 [grepai](https://github.com/yoanbernabeu/grepai) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (30) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;50 [grepai](https://github.com/yoanbernabeu/grepai) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **CLI for semantic code search with call-graph tracing and an MCP server.**
 
@@ -884,44 +902,8 @@ grepai indexes a codebase with vector embeddings and answers natural-language qu
 
 <sub>Compose · Needs Ollama, LM Studio, OpenAI · Models: nomic-embed-text · [Repo](https://github.com/yoanbernabeu/grepai) · [📖 Docs ↗](https://yoanbernabeu.github.io/grepai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/grepai/)</sub>
 
-<a name="kubeshark"></a>
-### #&#8288;50 [kubeshark](https://github.com/kubeshark/kubeshark) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
-
-**eBPF network traffic indexing for Kubernetes, with an MCP server for AI agents.**
-
-Kubeshark captures and indexes cluster-wide traffic at the kernel level with eBPF, parses L7 protocols such as HTTP, gRPC, Redis, Kafka and DNS, and decrypts TLS without key management. It offers a web dashboard, a workload dependency map, a CEL-based filter language (KFL) and PCAP export for Wireshark. An MCP server and Claude Code skills let AI agents query traffic for root cause analysis.
-
-- **+** eBPF TLS/mTLS decryption without sidecars or key management
-- **+** Retrospective PCAP export by time, node, workload and IP, with S3, Azure Blob or GCS storage
-- **+** MCP server plus Network RCA and KFL skills installable as a Claude Code plugin
-- **+** Parses HTTP, gRPC, GraphQL, Redis, Kafka and DNS with no code instrumentation
-- **−** Only useful on Kubernetes clusters; no standalone or non-Kubernetes mode is described
-- **−** Kernel-level capture on every node; resource overhead is not documented in the README
-- **−** Port-forward setup is not for production; an ingress controller is recommended
-- **−** KFL is a custom query language that users must learn to filter effectively
-
-<sub>no GPU · Needs Kubernetes, Helm · Models: MCP-compatible assistants (Claude Code, Cursor, Copilot) · port 8899 · [Repo](https://github.com/kubeshark/kubeshark) · [▶️ Demo ↗](https://demo.kubeshark.com/) · [📖 Docs ↗](https://docs.kubeshark.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubeshark/)</sub>
-
-<a name="playwriter"></a>
-### #&#8288;51 [playwriter](https://github.com/remorses/playwriter) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
-
-**Lets agents drive your running Chrome via Playwright, CLI or MCP.**
-
-Playwriter attaches to your already-running Chrome through an extension and exposes the full Playwright API via a CLI and an MCP server with a single `execute` tool. Agents reuse your logins, cookies and extensions instead of launching a fresh browser. A local WebSocket relay on port 19988 bridges the extension and the client, with optional remote control and tunnel access.
-
-- **+** Uses your real Chrome profile: logins, cookies and extensions, no relaunch or debug flags
-- **+** One `execute` tool exposes full Playwright API plus raw CDP, debugger and live code editing
-- **+** Sessions keep persistent `state` between calls and can use named Chrome tab groups
-- **+** Remote control and `serve --token` let another machine or agent drive the browser
-- **−** Requires the Chrome extension and a click on each tab to grant control
-- **−** Remote control is not a sandbox; the agent gets full access to shared tabs
-- **−** Sends anonymous usage telemetry to Strada by default; opt out via env var
-- **−** Agent code runs in your real logged-in sessions, so mistakes affect real accounts
-
-<sub>no GPU · Needs Chrome or Chromium, Playwriter Chrome extension, Node.js, ffmpeg (video recording) · port 19988 · [Repo](https://github.com/remorses/playwriter) · [📖 Docs ↗](https://playwriter.dev/docs/sessions) · [🌐 Site ↗](https://playwriter.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/playwriter/)</sub>
-
 <a name="dev-browser"></a>
-### #&#8288;52 [dev-browser](https://github.com/sawyerhood/dev-browser) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
+### #&#8288;51 [dev-browser](https://github.com/sawyerhood/dev-browser) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · MIT · Nov 2026</sub>
 
 **CLI that lets coding agents drive Chrome with short Puppeteer scripts.**
 
@@ -938,8 +920,44 @@ dev-browser runs JavaScript scripts against a persistent Chrome instance through
 
 <sub>no GPU · Needs Chrome or Chromium · [Repo](https://github.com/sawyerhood/dev-browser) · [▶️ Demo ↗](https://github.com/user-attachments/assets/c6cf7fb9-b1dc-46ed-93b9-6e7240990c53) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dev-browser/)</sub>
 
+<a name="playwriter"></a>
+### #&#8288;52 [playwriter](https://github.com/remorses/playwriter) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
+
+**Lets agents drive your running Chrome via Playwright, CLI or MCP.**
+
+Playwriter attaches to your already-running Chrome through an extension and exposes the full Playwright API via a CLI and an MCP server with a single `execute` tool. Agents reuse your logins, cookies and extensions instead of launching a fresh browser. A local WebSocket relay on port 19988 bridges the extension and the client, with optional remote control and tunnel access.
+
+- **+** Uses your real Chrome profile: logins, cookies and extensions, no relaunch or debug flags
+- **+** One `execute` tool exposes full Playwright API plus raw CDP, debugger and live code editing
+- **+** Sessions keep persistent `state` between calls and can use named Chrome tab groups
+- **+** Remote control and `serve --token` let another machine or agent drive the browser
+- **−** Requires the Chrome extension and a click on each tab to grant control
+- **−** Remote control is not a sandbox; the agent gets full access to shared tabs
+- **−** Sends anonymous usage telemetry to Strada by default; opt out via env var
+- **−** Agent code runs in your real logged-in sessions, so mistakes affect real accounts
+
+<sub>no GPU · Needs Chrome or Chromium, Playwriter Chrome extension, Node.js, ffmpeg (video recording) · port 19988 · [Repo](https://github.com/remorses/playwriter) · [📖 Docs ↗](https://playwriter.dev/docs/sessions) · [🌐 Site ↗](https://playwriter.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/playwriter/)</sub>
+
+<a name="open-computer-use"></a>
+### #&#8288;53 [open-computer-use](https://github.com/ifuryst/open-computer-use) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
+
+**MCP server that lets AI agents control desktop apps on macOS, Linux and Windows.**
+
+open-computer-use exposes Computer Use as an MCP server, built on the accessibility APIs rather than screenshots alone. It ships as an npm package (`open-computer-use` or `ocu`) with installers for Codex, Claude Code, Gemini CLI and opencode. The `ocu mcp` command serves nine core native tools, plus a `query` tool on macOS.
+
+- **+** Runs on macOS 14+, Linux and Windows from one npm package
+- **+** One-command MCP installers for Codex, Claude Code, Gemini CLI and opencode
+- **+** CLI can call single tools, run JS scripts or open a REPL for testing
+- **+** macOS `query` finds controls by text or role without taking a screenshot
+- **−** macOS needs Accessibility and Screen Recording permissions granted manually
+- **−** README says the project is nearly 100% AI-generated
+- **−** Needs Node.js 18 or newer for the npm launcher
+- **−** Linux and Windows setup details are not covered in the README
+
+<sub>no GPU · Needs Node.js 18+, macOS 14.0+ (macOS only) · [Repo](https://github.com/ifuryst/open-computer-use) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-computer-use/)</sub>
+
 <a name="mobilebuildmcp"></a>
-### #&#8288;53 [mobilebuildmcp](https://github.com/getsentry/mobilebuildmcp) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Oct 2026</sub>
+### #&#8288;54 [mobilebuildmcp](https://github.com/getsentry/mobilebuildmcp) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Oct 2026</sub>
 
 **MCP server and CLI for building and testing iOS and macOS projects.**
 
@@ -957,7 +975,7 @@ MobileBuildMCP is a TypeScript MCP server and CLI that lets coding agents drive 
 <sub>no GPU · Needs macOS 14.5+, Xcode 16.x+, Node.js 18+ (not needed with Homebrew) · [Repo](https://github.com/getsentry/mobilebuildmcp) · [📖 Docs ↗](https://github.com/getsentry/xcodebuildmcp.com/blob/main/app/docs/_content/installation.mdx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mobilebuildmcp/)</sub>
 
 <a name="androguard"></a>
-### #&#8288;54 [androguard](https://github.com/androguard/androguard) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;55 [androguard](https://github.com/androguard/androguard) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>
 
 **Python toolkit and MCP server for Android APK reverse engineering.**
 
@@ -974,26 +992,8 @@ Androguard 5 opens APKs and DEX files to inspect the manifest, permissions, clas
 
 <sub>no GPU · Needs Python, Rust toolchain (source install and optional extras), apk-parser, dex-parser · [Repo](https://github.com/androguard/androguard) · [📖 Docs ↗](http://androguard.github.io/androguard/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/androguard/)</sub>
 
-<a name="open-computer-use"></a>
-### #&#8288;55 [open-computer-use](https://github.com/ifuryst/open-computer-use) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
-
-**MCP server that lets AI agents control desktop apps on macOS, Linux and Windows.**
-
-open-computer-use exposes Computer Use as an MCP server, built on the accessibility APIs rather than screenshots alone. It ships as an npm package (`open-computer-use` or `ocu`) with installers for Codex, Claude Code, Gemini CLI and opencode. The `ocu mcp` command serves nine core native tools, plus a `query` tool on macOS.
-
-- **+** Runs on macOS 14+, Linux and Windows from one npm package
-- **+** One-command MCP installers for Codex, Claude Code, Gemini CLI and opencode
-- **+** CLI can call single tools, run JS scripts or open a REPL for testing
-- **+** macOS `query` finds controls by text or role without taking a screenshot
-- **−** macOS needs Accessibility and Screen Recording permissions granted manually
-- **−** README says the project is nearly 100% AI-generated
-- **−** Needs Node.js 18 or newer for the npm launcher
-- **−** Linux and Windows setup details are not covered in the README
-
-<sub>no GPU · Needs Node.js 18+, macOS 14.0+ (macOS only) · [Repo](https://github.com/ifuryst/open-computer-use) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-computer-use/)</sub>
-
 <a name="browsermcp-mcp"></a>
-### #&#8288;56 [mcp](https://github.com/browsermcp/mcp) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;56 [mcp](https://github.com/browsermcp/mcp) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server that lets coding agents drive your own signed-in Chrome.**
 
@@ -1011,7 +1011,7 @@ Browser MCP runs an MCP server (npx @browsermcp/mcp@latest) that forwards a `bro
 <sub>no GPU · Needs Node.js 24+, Chrome or Chromium browser, Browser MCP extension, Playwright · [Repo](https://github.com/browsermcp/mcp) · [📖 Docs ↗](https://browsermcp.io/docs) · [🌐 Site ↗](https://browsermcp.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/browsermcp-mcp/)</sub>
 
 <a name="google-workspace-mcp"></a>
-### #&#8288;57 [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · MIT · Nov 2026</sub>
+### #&#8288;57 [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · MIT · Nov 2026</sub>
 
 **MCP server exposing Gmail, Drive, Calendar, Docs, Sheets and more to AI clients.**
 
@@ -1029,7 +1029,7 @@ Python MCP server with 120+ tools across twelve Google Workspace services, inclu
 <sub>no GPU · Docker + Compose · Needs Google Cloud project with OAuth client, Google Workspace APIs, Valkey/Redis (optional) · port 8000 · [Repo](https://github.com/taylorwilsdon/google_workspace_mcp) · [📖 Docs ↗](https://workspacemcp.com/docs) · [🌐 Site ↗](https://workspacemcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-workspace-mcp/)</sub>
 
 <a name="sem"></a>
-### #&#8288;58 [sem](https://github.com/ataraxy-labs/sem) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;58 [sem](https://github.com/ataraxy-labs/sem) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Nov 2026</sub>
 
 **Entity-level git diff, impact analysis and checks for code and agents.**
 
@@ -1065,7 +1065,7 @@ Argent is a tool set installed with `npx @swmansion/argent@latest init` that let
 <sub>Needs Node.js (npx), iOS simulator / Android emulator or device · [Repo](https://github.com/software-mansion/argent) · [📖 Docs ↗](https://docs.swmansion.com/argent/docs/fundamentals/installation) · [🌐 Site ↗](https://argent.swmansion.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/argent/)</sub>
 
 <a name="ext-apps"></a>
-### #&#8288;60 [ext-apps](https://github.com/modelcontextprotocol/ext-apps) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · custom license · Nov 2026</sub>
+### #&#8288;60 [ext-apps](https://github.com/modelcontextprotocol/ext-apps) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · custom license · Nov 2026</sub>
 
 **SDK for rendering interactive MCP tool UIs inline in chat clients.**
 
@@ -1101,7 +1101,7 @@ WebCodex is a Rust Server and Runner pair that exposes development tools over MC
 <sub>no GPU · Docker + Compose · Needs Node.js 18+, Git, Rust toolchain (build from source) · Models: ChatGPT, Claude, MCP clients · [Repo](https://github.com/yyjeqhc/webcodex) · [📖 Docs ↗](https://github.com/yyjeqhc/webcodex/blob/main/docs/INDEX.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/webcodex/)</sub>
 
 <a name="docs-mcp-server"></a>
-### #&#8288;62 [docs-mcp-server](https://github.com/arabold/docs-mcp-server) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
+### #&#8288;62 [docs-mcp-server](https://github.com/arabold/docs-mcp-server) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (30) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
 
 **Version-aware docs index that feeds library documentation to coding assistants.**
 
@@ -1119,7 +1119,7 @@ Fetches documentation from websites, GitHub repositories, npm, PyPI, local folde
 <sub>no GPU · Docker + Compose · Needs Node.js 22+ or Docker, Optional embedding provider (OpenAI, Ollama, Gemini, Vertex AI, AWS Bedrock, Azure OpenAI) · Models: OpenAI, Ollama, Gemini, Vertex AI, AWS Bedrock · port 6280 · [Repo](https://github.com/arabold/docs-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docs-mcp-server/)</sub>
 
 <a name="figwright"></a>
-### #&#8288;63 [figwright](https://github.com/awdr74100/figwright) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;63 [figwright](https://github.com/awdr74100/figwright) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Two-way Figma MCP server that reads and edits designs through a plugin.**
 
@@ -1137,7 +1137,7 @@ Figwright runs an MCP server over stdio and relays tool calls through a local We
 <sub>no GPU · Needs Node.js 20.19+ or 22.12+, Figma desktop app, MCP client (Claude Code, Cursor, etc.), Figwright Figma plugin · port 3055 · [Repo](https://github.com/awdr74100/figwright) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/figwright/)</sub>
 
 <a name="codedb"></a>
-### #&#8288;64 [codedb](https://github.com/justrach/codedb) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · BSD-3-Clause · Nov 2026</sub>
+### #&#8288;64 [codedb](https://github.com/justrach/codedb) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · BSD-3-Clause · Nov 2026</sub>
 
 **MCP server that gives coding agents symbols, callers and repo context.**
 
@@ -1154,8 +1154,26 @@ codedb is a Zig code-intelligence engine that indexes a local repository and ser
 
 <sub>no GPU · Needs Hosted embeddings service (default hybrid retrieval), DeepWiki remote MCP (optional, installer-registered) · port 7719 · [Repo](https://github.com/justrach/codedb) · [📖 Docs ↗](https://github.com/justrach/codedb/blob/main/docs/mcp.md) · [🌐 Site ↗](https://codedb.codegraff.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codedb/)</sub>
 
+<a name="cloudbase-ai-toolkit"></a>
+### #&#8288;65 [cloudbase-ai-toolkit](https://github.com/tencentcloudbase/cloudbase-ai-toolkit) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+
+**MCP server, skills and plugins connecting AI coding tools to CloudBase.**
+
+Ships the npm package @cloudbase/cloudbase-mcp plus Agent Skills and IDE plugins, so AI coding tools can manage a Tencent CloudBase backend from chat. The MCP server covers PostgreSQL and document databases, cloud functions, Cloud Run, storage, auth, static hosting and logs. It runs locally via npx or as a remote HTTP endpoint with OAuth or static keys.
+
+- **+** Remote MCP endpoint with browser OAuth; no local Node or keys in config
+- **+** Deletes and destructive SQL pause for a confirmation naming the target
+- **+** Setup guides for over 20 IDEs and CLIs, including Cursor and Claude Code
+- **+** MIT licensed; v2.37.x released in November 2026
+- **−** Requires a Tencent CloudBase environment; backend is tied to one vendor
+- **−** Remote mode lacks local file upload and template download
+- **−** International site does not yet expose NoSQL tools in remote mode
+- **−** Usage beyond CloudBase free quotas is billed
+
+<sub>no GPU · Needs Tencent CloudBase environment, Node.js 18.15.0+ (local mode) · [Repo](https://github.com/tencentcloudbase/cloudbase-ai-toolkit) · [▶️ Demo ↗](https://cloud1-5g39elugeec5ba0f-1300855855.tcloudbaseapp.com/gobang/#/) · [📖 Docs ↗](https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/getting-started) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cloudbase-ai-toolkit/)</sub>
+
 <a name="flint-chart"></a>
-### #&#8288;65 [flint-chart](https://github.com/microsoft/flint-chart) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+### #&#8288;66 [flint-chart](https://github.com/microsoft/flint-chart) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
 **Chart spec compiler and MCP server for agents, with five rendering backends.**
 
@@ -1173,7 +1191,7 @@ Flint compiles short, human-editable chart specs (data, semantic types, chart ty
 <sub>no GPU · Needs Node.js (npx), React (optional peer) · [Repo](https://github.com/microsoft/flint-chart) · [▶️ Demo ↗](https://microsoft.github.io/flint-chart/#/gallery) · [📖 Docs ↗](https://microsoft.github.io/flint-chart/#/mcp) · [🌐 Site ↗](https://microsoft.github.io/flint-chart/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flint-chart/)</sub>
 
 <a name="x64dbg-mcp-server"></a>
-### #&#8288;66 [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
+### #&#8288;67 [x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (40) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
 
 **x64dbg plugin that exposes debugger control to MCP clients over HTTP.**
 
@@ -1191,7 +1209,7 @@ A native plugin written in Zig that runs an MCP server inside x64dbg, letting an
 <sub>no GPU · Needs x64dbg · port 9094 · [Repo](https://github.com/duty1g/x64dbg-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/x64dbg-mcp-server/)</sub>
 
 <a name="mcp-server-kubernetes"></a>
-### #&#8288;67 [mcp-server-kubernetes](https://github.com/flux159/mcp-server-kubernetes) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
+### #&#8288;68 [mcp-server-kubernetes](https://github.com/flux159/mcp-server-kubernetes) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
 
 **MCP server that lets coding agents manage Kubernetes clusters via kubectl and Helm.**
 
@@ -1207,24 +1225,6 @@ TypeScript MCP server that wraps kubectl and Helm so an MCP client can get, desc
 - **−** kubectl_generic can run arbitrary kubectl commands outside non-destructive mode
 
 <sub>no GPU · Docker · Needs kubectl, kubeconfig, Helm v3 (optional), Node.js/npx · port 3000 · [Repo](https://github.com/flux159/mcp-server-kubernetes) · [📖 Docs ↗](https://github.com/Flux159/mcp-server-kubernetes/tree/main/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-kubernetes/)</sub>
-
-<a name="cloudbase-ai-toolkit"></a>
-### #&#8288;68 [cloudbase-ai-toolkit](https://github.com/tencentcloudbase/cloudbase-ai-toolkit) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
-
-**MCP server, skills and plugins connecting AI coding tools to CloudBase.**
-
-Ships the npm package @cloudbase/cloudbase-mcp plus Agent Skills and IDE plugins, so AI coding tools can manage a Tencent CloudBase backend from chat. The MCP server covers PostgreSQL and document databases, cloud functions, Cloud Run, storage, auth, static hosting and logs. It runs locally via npx or as a remote HTTP endpoint with OAuth or static keys.
-
-- **+** Remote MCP endpoint with browser OAuth; no local Node or keys in config
-- **+** Deletes and destructive SQL pause for a confirmation naming the target
-- **+** Setup guides for over 20 IDEs and CLIs, including Cursor and Claude Code
-- **+** MIT licensed; v2.37.x released in November 2026
-- **−** Requires a Tencent CloudBase environment; backend is tied to one vendor
-- **−** Remote mode lacks local file upload and template download
-- **−** International site does not yet expose NoSQL tools in remote mode
-- **−** Usage beyond CloudBase free quotas is billed
-
-<sub>no GPU · Needs Tencent CloudBase environment, Node.js 18.15.0+ (local mode) · [Repo](https://github.com/tencentcloudbase/cloudbase-ai-toolkit) · [▶️ Demo ↗](https://cloud1-5g39elugeec5ba0f-1300855855.tcloudbaseapp.com/gobang/#/) · [📖 Docs ↗](https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/getting-started) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cloudbase-ai-toolkit/)</sub>
 
 <a name="mcp-for-blender"></a>
 ### #&#8288;69 [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 35k · MIT · Nov 2026</sub>
@@ -1245,7 +1245,7 @@ Pairs a Blender addon, which runs a socket server inside Blender, with a Python 
 <sub>Docker · Needs Blender 3.0+, Python 3.10+, uv · Models: Poly Haven, Sketchfab, Poly Pizza, Meshy, Tripo · [Repo](https://github.com/ahujasid/mcp-for-blender) · [🌐 Site ↗](https://mcp-for-blender.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-blender/)</sub>
 
 <a name="gitdiagram"></a>
-### #&#8288;70 [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+### #&#8288;70 [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
 
 **Turns a GitHub repository into an interactive architecture diagram.**
 
@@ -1299,7 +1299,7 @@ Gortex indexes repositories with tree-sitter (257 languages/grammars) into a per
 <sub>no GPU · Models: llama.cpp, Anthropic, OpenAI, Ollama, Gemini · [Repo](https://github.com/zzet/gortex) · [📖 Docs ↗](https://github.com/zzet/gortex/blob/main/docs/onboarding.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gortex/)</sub>
 
 <a name="aktools"></a>
-### #&#8288;73 [aktools](https://github.com/akfamily/aktools) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
+### #&#8288;73 [aktools](https://github.com/akfamily/aktools) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
 
 **HTTP API and MCP server exposing AKShare financial data.**
 
@@ -1335,7 +1335,7 @@ A collection of over 3,400 service and application logos, published as SVG, PNG 
 <sub>no GPU · Needs jsDelivr CDN, dashboardicons.com MCP endpoint · [Repo](https://github.com/homarr-labs/dashboard-icons) · [🌐 Site ↗](https://dashboardicons.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dashboard-icons/)</sub>
 
 <a name="sourcebot"></a>
-### #&#8288;75 [sourcebot](https://github.com/sourcebot-dev/sourcebot) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Nov 2026</sub>
+### #&#8288;75 [sourcebot](https://github.com/sourcebot-dev/sourcebot) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Nov 2026</sub>
 
 **Self-hosted code search and MCP server across all your Git repos.**
 
@@ -1370,7 +1370,7 @@ A Go MCP server that talks directly to the Kubernetes API server instead of shel
 <sub>no GPU · Docker · Needs Kubernetes or OpenShift cluster, kubeconfig or in-cluster config · [Repo](https://github.com/containers/kubernetes-mcp-server) · [▶️ Demo ↗](https://www.youtube.com/watch?v=l05jQDSrzVI) · [📖 Docs ↗](https://github.com/containers/kubernetes-mcp-server/tree/main/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubernetes-mcp-server/)</sub>
 
 <a name="jshookmcp"></a>
-### #&#8288;77 [jshookmcp](https://github.com/vmoranv/jshookmcp) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (33) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;77 [jshookmcp](https://github.com/vmoranv/jshookmcp) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · AGPL-3.0 · Nov 2026</sub>
 
 **MCP server for reverse-engineering web pages, WASM, APKs and processes.**
 
@@ -1388,7 +1388,7 @@ jshookmcp is a TypeScript MCP server exposing 735 tools across 36 domains: Chrom
 <sub>no GPU · Needs Node.js 22.22.2+, pnpm 10.x (build from source), ONNX (optional), Z3 (optional), Binaryen (optional), Camoufox (optional), Playwright (optional) · port 3000 · [Repo](https://github.com/vmoranv/jshookmcp) · [📖 Docs ↗](https://vmoranv.github.io/jshookmcp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jshookmcp/)</sub>
 
 <a name="sim-use"></a>
-### #&#8288;78 [sim-use](https://github.com/lycorp-jp/sim-use) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;78 [sim-use](https://github.com/lycorp-jp/sim-use) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Nov 2026</sub>
 
 **CLI that lets AI agents read and tap iOS Simulator and Android screens.**
 
@@ -1406,7 +1406,7 @@ sim-use is a Swift CLI that prints a compact text outline of the current iOS Sim
 <sub>no GPU · Needs macOS 14+, Xcode, Homebrew, adb (Android), Android bridge APK, Swift 6 toolchain (Linux, Android only) · [Repo](https://github.com/lycorp-jp/sim-use) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sim-use/)</sub>
 
 <a name="claude-code-agent-monitor"></a>
-### #&#8288;79 [claude-code-agent-monitor](https://github.com/hoangsonww/claude-code-agent-monitor) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;79 [claude-code-agent-monitor](https://github.com/hoangsonww/claude-code-agent-monitor) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
 
 **Local dashboard for monitoring Claude Code, Cursor and Codex agent sessions.**
 
@@ -1424,7 +1424,7 @@ CCAM collects Claude Code, Cursor and Codex activity through native hooks and tr
 <sub>no GPU · Docker + Compose · Needs Node.js >=22.22, npm >=9, SQLite · Models: Claude Code, Cursor, OpenAI Codex · port 4820 · [Repo](https://github.com/hoangsonww/claude-code-agent-monitor) · [📖 Docs ↗](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/wiki) · [🌐 Site ↗](https://hoangsonww.github.io/Claude-Code-Agent-Monitor/wiki/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-agent-monitor/)</sub>
 
 <a name="claude-context"></a>
-### #&#8288;80 [claude-context](https://github.com/zilliztech/claude-context) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
+### #&#8288;80 [claude-context](https://github.com/zilliztech/claude-context) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
 
 **MCP server adding hybrid semantic code search to coding agents.**
 
@@ -1441,8 +1441,26 @@ Claude Context indexes a codebase into Milvus or Zilliz Cloud and exposes index_
 
 <sub>no GPU · Needs Node.js >= 20, Milvus or Zilliz Cloud, OpenAI API key (default embedding provider) · Models: OpenAI, VoyageAI, Ollama, Gemini · safety checks passed 9 of 13 · [Repo](https://github.com/zilliztech/claude-context) · [📖 Docs ↗](https://github.com/zilliztech/claude-context/tree/master/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-context/)</sub>
 
+<a name="cocoindex-code"></a>
+### #&#8288;81 [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+
+**Semantic code search CLI, MCP server and skill for coding agents.**
+
+cocoindex-code indexes a repository into AST-based chunks and answers natural-language queries through the `ccc` CLI, an MCP `search` tool, or a `ccc` skill for Claude Code, Codex, Cursor and others. Embeddings run locally via sentence-transformers or through a cloud provider with LiteLLM. It also includes `ccc grep` for structural pattern search that needs no index.
+
+- **+** Works as CLI, MCP stdio server, or skill, with plugin bundles for Claude Code, Grok and Oh My Pi
+- **+** Local embeddings need no API key; default model is Snowflake/snowflake-arctic-embed-xs
+- **+** Search filters by language and path glob, with pagination and optional index refresh
+- **+** `ccc grep` does structural syntax-tree matching locally without index, daemon or embeddings
+- **−** Full install pulls about 1 GB of torch and transformers; full Docker image is about 5 GB
+- **−** Docker on macOS runs local embeddings on CPU only, with no Metal access
+- **−** `ccc grep` depends on a cocoindex feature that may not be in a released version
+- **−** The 70% token saving claim comes with no benchmark in the README
+
+<sub>GPU optional · Docker + Compose · Needs CocoIndex, Python (pipx or uv), LiteLLM cloud embedding provider (slim variant), Docker (optional) · Models: sentence-transformers (local), Snowflake/snowflake-arctic-embed-xs, LiteLLM: OpenAI, Voyage, Gemini, Ollama · [Repo](https://github.com/cocoindex-io/cocoindex-code) · [📖 Docs ↗](https://cocoindex.io/docs/getting_started/quickstart) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cocoindex-code/)</sub>
+
 <a name="lanhu-mcp"></a>
-### #&#8288;81 [lanhu-mcp](https://github.com/dsphper/lanhu-mcp) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;82 [lanhu-mcp](https://github.com/dsphper/lanhu-mcp) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **MCP server that feeds Lanhu requirement docs and designs to coding agents.**
 
@@ -1459,8 +1477,26 @@ A FastMCP server in Python that reads Lanhu (蓝湖) Axure requirement pages and
 
 <sub>no GPU · Docker + Compose · Needs Lanhu account cookie, Playwright Chromium, Feishu webhook (optional) · Models: Claude, GPT, Gemini, Kimi, Qwen · port 8000 · [Repo](https://github.com/dsphper/lanhu-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lanhu-mcp/)</sub>
 
+<a name="openlore"></a>
+### #&#8288;83 [openlore](https://github.com/aakarim/openlore) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Nov 2026</sub>
+
+**Shared Markdown knowledge server for agents over SSH, MCP and web.**
+
+OpenLore serves a folder of Markdown as a virtual filesystem that agents read with cat, grep and find over SSH, SFTP, or an MCP endpoint, plus a web view. Access is scoped per identity with ro, publish and rw grants per docset, and writes are atomic with compare-and-swap checks. The shell is an in-memory Go interpreter rather than a real OS shell, and no vector database or ingestion pipeline is involved.
+
+- **+** Plain Markdown with no vector database, ingestion pipeline or SDK
+- **+** Per-identity docset grants (ro, publish, rw) with inbox-style publishing
+- **+** Shell is a Go interpreter: no OS shell escape or process execution
+- **+** Same files over SSH, SFTP/SSHFS, MCP and a web view
+- **−** Retrieval is grep and find over files, with no semantic search
+- **−** Raw SSH has no hostname routing; Render deploy has no public SSH
+- **−** Production use needs HTTPS, token and persistent volume setup
+- **−** No Docker or compose files detected in the repository
+
+<sub>no GPU · Docker · port 8080 · [Repo](https://github.com/aakarim/openlore) · [📖 Docs ↗](https://openlore.sh/docs/) · [🌐 Site ↗](https://openlore.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openlore/)</sub>
+
 <a name="chunkhound"></a>
-### #&#8288;82 [chunkhound](https://github.com/chunkhound/chunkhound) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;84 [chunkhound](https://github.com/chunkhound/chunkhound) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Semantic code search and cited research over a codebase and its git history.**
 
@@ -1478,7 +1514,7 @@ ChunkHound indexes a repository with Tree-sitter and answers questions about it 
 <sub>Needs Python 3.10+, uv, VoyageAI, OpenAI or Ollama for embeddings, Claude Code CLI, Codex CLI, Anthropic, OpenAI or Grok for LLM · Models: VoyageAI, OpenAI, Ollama, Anthropic, Grok · [Repo](https://github.com/chunkhound/chunkhound) · [📖 Docs ↗](https://chunkhound.ai/docs/getting-started/) · [🌐 Site ↗](https://chunkhound.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chunkhound/)</sub>
 
 <a name="mcp-gateway-registry"></a>
-### #&#8288;83 [mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;85 [mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
 
 **Authenticated gateway and registry for MCP servers, A2A agents and skills.**
 
@@ -1496,7 +1532,7 @@ An nginx reverse proxy (data plane) paired with a FastAPI registry (control plan
 <sub>no GPU · Docker + Compose · Needs MongoDB or DocumentDB, Identity provider (Keycloak, Entra ID, Okta, Auth0, Cognito or PingFederate), nginx · Models: OpenAI, Amazon Bedrock, OpenAI-compatible endpoints · port 80 · [Repo](https://github.com/agentic-community/mcp-gateway-registry) · [📖 Docs ↗](https://agentic-community.github.io/mcp-gateway-registry/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-gateway-registry/)</sub>
 
 <a name="ida-pro-mcp"></a>
-### #&#8288;84 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (79) · Freshness: active (81) · Maintenance: fair (53) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
+### #&#8288;86 [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (80) · Freshness: active (81) · Maintenance: fair (53) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
 
 **MCP server that lets LLM clients decompile and annotate binaries in IDA Pro.**
 
@@ -1513,8 +1549,26 @@ Exposes IDA Pro to MCP clients as tools for decompiling, disassembling, cross-re
 
 <sub>no GPU · Needs IDA Pro 8.3+ (9 recommended), idalib, uv, Python 3.11+ · port 13337 · [Repo](https://github.com/mrexodia/ida-pro-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ida-pro-mcp/)</sub>
 
+<a name="phone-harness"></a>
+### #&#8288;87 [phone-harness](https://github.com/phone-harness/phone-harness) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (58) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+
+**CLI that lets coding agents tap, type and read a real iPhone or Android.**
+
+phone-harness is a Python CLI with pre-imported helpers (open_app, tap_text, type_text, screen, screenshot) that agents call to drive a phone. iPhone control goes through the Mac's iPhone Mirroring window with Apple Vision OCR; Android uses adb and the accessibility tree. A hosted cloud service adds remote Androids and iPhones, and a hosted MCP endpoint plus Hermes and OpenClaw plugins are provided.
+
+- **+** Nothing installed on the phone: no jailbreak, no Xcode
+- **+** Same helper API across iPhone, Android and cloud phones
+- **+** Android works from macOS, Linux or Windows over USB or Wi-Fi
+- **+** Ships a skill, hosted MCP endpoint, and Hermes and OpenClaw plugins
+- **−** Local iPhone control needs macOS 15+ and iPhone Mirroring paired to iOS 18+
+- **−** OCR reads text only; unlabeled icons need a screenshot and vision model
+- **−** No multi-touch, camera or Face ID flows; DRM video renders black
+- **−** Hosted MCP supports only cloud phones, which need a Phone Harness Cloud account
+
+<sub>no GPU · Needs adb, uv, Python 3.12, macOS 15+ with iPhone Mirroring (iPhone), Phone Harness Cloud account (cloud phones) · Models: Claude Code, Codex, any MCP client · [Repo](https://github.com/phone-harness/phone-harness) · [📖 Docs ↗](https://phone-harness.com/docs) · [🌐 Site ↗](https://phone-harness.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phone-harness/)</sub>
+
 <a name="mcp-server-cloudflare"></a>
-### #&#8288;85 [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;88 [mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · Apache-2.0 · Oct 2026</sub>
 
 **Remote MCP servers for Cloudflare docs, browser rendering, containers and security.**
 
@@ -1531,44 +1585,26 @@ A set of remote MCP servers hosted under *.mcp.cloudflare.com that let MCP clien
 
 <sub>no GPU · Needs Cloudflare account, Cloudflare API token · [Repo](https://github.com/cloudflare/mcp-server-cloudflare) · [▶️ Demo ↗](https://playground.ai.cloudflare.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-cloudflare/)</sub>
 
-<a name="cocoindex-code"></a>
-### #&#8288;86 [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+<a name="api-anything"></a>
+### #&#8288;89 [api-anything](https://github.com/goodnight000/api-anything) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · MIT · Nov 2026</sub>
 
-**Semantic code search CLI, MCP server and skill for coding agents.**
+**Learns a website's own HTTP requests and exposes them to agents as operations.**
 
-cocoindex-code indexes a repository into AST-based chunks and answers natural-language queries through the `ccc` CLI, an MCP `search` tool, or a `ccc` skill for Claude Code, Codex, Cursor and others. Embeddings run locally via sentence-transformers or through a cloud provider with LiteLLM. It also includes `ccc grep` for structural pattern search that needs no index.
+API Anything records the request a site's page sends for two example inputs, turns what changed into parameters, and replays it later over plain HTTP, falling back to an in-page fetch or page execution if blocked. It runs as an MCP server over stdio, an HTTP/OpenAPI server, a CLI, a TypeScript library and a Python client. It ships 323 read operations across 114 sites and syncs learned operations through a shared catalog.
 
-- **+** Works as CLI, MCP stdio server, or skill, with plugin bundles for Claude Code, Grok and Oh My Pi
-- **+** Local embeddings need no API key; default model is Snowflake/snowflake-arctic-embed-xs
-- **+** Search filters by language and path glob, with pagination and optional index refresh
-- **+** `ccc grep` does structural syntax-tree matching locally without index, daemon or embeddings
-- **−** Full install pulls about 1 GB of torch and transformers; full Docker image is about 5 GB
-- **−** Docker on macOS runs local embeddings on CPU only, with no Metal access
-- **−** `ccc grep` depends on a cocoindex feature that may not be in a released version
-- **−** The 70% token saving claim comes with no benchmark in the README
+- **+** Tier 1 calls are one plain HTTP request, with no browser or account
+- **+** Learning uses no LLM; cookies are stored as references, not values
+- **+** Ships 114 sites and 323 read operations; setup connects Claude Code, Codex, Cursor and others
+- **+** setup --local-only keeps learning and calls on your machine with nothing shared
+- **−** Covers only operations someone has taught it; the catalog is described as young
+- **−** Reddit and similar sites block plain HTTP; there is no CAPTCHA solving
+- **−** Benchmarks cover few sites, one model and a few runs
+- **−** No write operations bundled; writes are off by default
 
-<sub>GPU optional · Docker + Compose · Needs CocoIndex, Python (pipx or uv), LiteLLM cloud embedding provider (slim variant), Docker (optional) · Models: sentence-transformers (local), Snowflake/snowflake-arctic-embed-xs, LiteLLM: OpenAI, Voyage, Gemini, Ollama · [Repo](https://github.com/cocoindex-io/cocoindex-code) · [📖 Docs ↗](https://cocoindex.io/docs/getting_started/quickstart) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cocoindex-code/)</sub>
-
-<a name="openlore"></a>
-### #&#8288;87 [openlore](https://github.com/aakarim/openlore) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Nov 2026</sub>
-
-**Shared Markdown knowledge server for agents over SSH, MCP and web.**
-
-OpenLore serves a folder of Markdown as a virtual filesystem that agents read with cat, grep and find over SSH, SFTP, or an MCP endpoint, plus a web view. Access is scoped per identity with ro, publish and rw grants per docset, and writes are atomic with compare-and-swap checks. The shell is an in-memory Go interpreter rather than a real OS shell, and no vector database or ingestion pipeline is involved.
-
-- **+** Plain Markdown with no vector database, ingestion pipeline or SDK
-- **+** Per-identity docset grants (ro, publish, rw) with inbox-style publishing
-- **+** Shell is a Go interpreter: no OS shell escape or process execution
-- **+** Same files over SSH, SFTP/SSHFS, MCP and a web view
-- **−** Retrieval is grep and find over files, with no semantic search
-- **−** Raw SSH has no hostname routing; Render deploy has no public SSH
-- **−** Production use needs HTTPS, token and persistent volume setup
-- **−** No Docker or compose files detected in the repository
-
-<sub>no GPU · Docker · port 8080 · [Repo](https://github.com/aakarim/openlore) · [📖 Docs ↗](https://openlore.sh/docs/) · [🌐 Site ↗](https://openlore.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openlore/)</sub>
+<sub>no GPU · Needs Node.js >= 22.13, headless browser (for learning and tier 2/3 fallback) · Models: MCP clients (Claude Code, Codex, Cursor, Claude Desktop, Gemini CLI, VS Code, Hermes), Vercel AI SDK, LangChain.js, OpenAI Agents SDK · [Repo](https://github.com/goodnight000/api-anything) · [▶️ Demo ↗](https://api-anything-registry.forth-site.workers.dev) · [📖 Docs ↗](https://github.com/goodnight000/api-anything/blob/main/INSTALL.md) · [🌐 Site ↗](https://api-anything-registry.forth-site.workers.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/api-anything/)</sub>
 
 <a name="obsidian-mcp-server"></a>
-### #&#8288;88 [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 712 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;90 [obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 712 · Apache-2.0 · Nov 2026</sub>
 
 **MCP server for reading, searching and editing Obsidian vault notes.**
 
@@ -1586,7 +1622,7 @@ TypeScript MCP server that talks to the Obsidian Local REST API plugin and expos
 <sub>no GPU · Docker · Needs Obsidian, Obsidian Local REST API plugin (v4.0.0+), Node.js or Bun · [Repo](https://github.com/cyanheads/obsidian-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/obsidian-mcp-server/)</sub>
 
 <a name="responsively-app"></a>
-### #&#8288;89 [responsively-app](https://github.com/responsively-org/responsively-app) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (88) · Freshness: active (92) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;91 [responsively-app](https://github.com/responsively-org/responsively-app) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (88) · Freshness: active (92) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · AGPL-3.0 · Oct 2026</sub>
 
 **Desktop browser that previews a page on many device sizes at once.**
 
@@ -1604,7 +1640,7 @@ Responsively App is an Electron-based browser for macOS, Windows and Linux that 
 <sub>Needs Node.js (npx) for the MCP launcher · port 12720 · [Repo](https://github.com/responsively-org/responsively-app) · [🌐 Site ↗](https://responsively.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/responsively-app/)</sub>
 
 <a name="artemis"></a>
-### #&#8288;90 [artemis](https://github.com/google/artemis) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;92 [artemis](https://github.com/google/artemis) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Sep 2026</sub>
 
 **Drives real Android phones from natural language via CLI, web console, SDK or MCP.**
 
@@ -1621,80 +1657,8 @@ ARTEMIS runs a multimodal agent that operates an Android device or emulator over
 
 <sub>Docker · Needs ADB, scrcpy, FFmpeg, uv, Python 3.12+, Android device or emulator with USB debugging · Models: Gemini, Claude, GPT-4o, Qwen-VL · port 8000 · safety checks passed 12 of 17 · [Repo](https://github.com/google/artemis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/artemis/)</sub>
 
-<a name="phone-harness"></a>
-### #&#8288;91 [phone-harness](https://github.com/phone-harness/phone-harness) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (57) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
-
-**CLI that lets coding agents tap, type and read a real iPhone or Android.**
-
-phone-harness is a Python CLI with pre-imported helpers (open_app, tap_text, type_text, screen, screenshot) that agents call to drive a phone. iPhone control goes through the Mac's iPhone Mirroring window with Apple Vision OCR; Android uses adb and the accessibility tree. A hosted cloud service adds remote Androids and iPhones, and a hosted MCP endpoint plus Hermes and OpenClaw plugins are provided.
-
-- **+** Nothing installed on the phone: no jailbreak, no Xcode
-- **+** Same helper API across iPhone, Android and cloud phones
-- **+** Android works from macOS, Linux or Windows over USB or Wi-Fi
-- **+** Ships a skill, hosted MCP endpoint, and Hermes and OpenClaw plugins
-- **−** Local iPhone control needs macOS 15+ and iPhone Mirroring paired to iOS 18+
-- **−** OCR reads text only; unlabeled icons need a screenshot and vision model
-- **−** No multi-touch, camera or Face ID flows; DRM video renders black
-- **−** Hosted MCP supports only cloud phones, which need a Phone Harness Cloud account
-
-<sub>no GPU · Needs adb, uv, Python 3.12, macOS 15+ with iPhone Mirroring (iPhone), Phone Harness Cloud account (cloud phones) · Models: Claude Code, Codex, any MCP client · [Repo](https://github.com/phone-harness/phone-harness) · [📖 Docs ↗](https://phone-harness.com/docs) · [🌐 Site ↗](https://phone-harness.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phone-harness/)</sub>
-
-<a name="api-anything"></a>
-### #&#8288;92 [api-anything](https://github.com/goodnight000/api-anything) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · MIT · Nov 2026</sub>
-
-**Learns a website's own HTTP requests and exposes them to agents as operations.**
-
-API Anything records the request a site's page sends for two example inputs, turns what changed into parameters, and replays it later over plain HTTP, falling back to an in-page fetch or page execution if blocked. It runs as an MCP server over stdio, an HTTP/OpenAPI server, a CLI, a TypeScript library and a Python client. It ships 323 read operations across 114 sites and syncs learned operations through a shared catalog.
-
-- **+** Tier 1 calls are one plain HTTP request, with no browser or account
-- **+** Learning uses no LLM; cookies are stored as references, not values
-- **+** Ships 114 sites and 323 read operations; setup connects Claude Code, Codex, Cursor and others
-- **+** setup --local-only keeps learning and calls on your machine with nothing shared
-- **−** Covers only operations someone has taught it; the catalog is described as young
-- **−** Reddit and similar sites block plain HTTP; there is no CAPTCHA solving
-- **−** Benchmarks cover few sites, one model and a few runs
-- **−** No write operations bundled; writes are off by default
-
-<sub>no GPU · Needs Node.js >= 22.13, headless browser (for learning and tier 2/3 fallback) · Models: MCP clients (Claude Code, Codex, Cursor, Claude Desktop, Gemini CLI, VS Code, Hermes), Vercel AI SDK, LangChain.js, OpenAI Agents SDK · [Repo](https://github.com/goodnight000/api-anything) · [▶️ Demo ↗](https://api-anything-registry.forth-site.workers.dev) · [📖 Docs ↗](https://github.com/goodnight000/api-anything/blob/main/INSTALL.md) · [🌐 Site ↗](https://api-anything-registry.forth-site.workers.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/api-anything/)</sub>
-
-<a name="terravision"></a>
-### #&#8288;93 [terravision](https://github.com/patrickchugh/terravision) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · AGPL-3.0 · Nov 2026</sub>
-
-**Cloud architecture diagrams from Terraform or a prompt, via CLI or MCP.**
-
-TerraVision draws AWS, Azure and GCP architecture diagrams with official icons, grouped by VPC, subnet, zone or resource group. It builds them from `terraform plan` output locally, or from a plain-English description through an MCP server, Claude Desktop extension or ChatGPT/Codex plugin. Output is PNG, SVG, draw.io or interactive HTML, and a GitHub Action can redraw diagrams in CI.
-
-- **+** Draws from code and a tfvars file, so no cloud account access is needed
-- **+** Runs locally; code is not uploaded anywhere
-- **+** Outputs PNG, SVG, editable draw.io and clickable interactive HTML
-- **+** Ships plugins for Claude, ChatGPT, Codex, plus an MCP server for Copilot and Cursor
-- **−** Requires Graphviz and Git installed; Terraform needed for code-to-diagram
-- **−** AGPL-3.0 license may restrict use in some organisations
-- **−** Terraform generated from a diagram depends on the AI model's quality
-- **−** Does not scan live cloud accounts, so drift from deployed state is not shown
-
-<sub>no GPU · Docker · Needs Graphviz, Git, uv, Terraform (optional) · Models: Ollama, AWS Bedrock · [Repo](https://github.com/patrickchugh/terravision) · [📖 Docs ↗](https://patrickchugh.github.io/terravision/) · [🌐 Site ↗](https://terravision.online/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/terravision/)</sub>
-
-<a name="cli-anything"></a>
-### #&#8288;94 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 60k · Apache-2.0 · Sep 2026</sub>
-
-**Generates command-line wrappers so AI agents can drive desktop and backend software.**
-
-CLI-Anything runs a 7-phase generator inside a coding agent such as Claude Code, Cursor or Codex. It produces a Python (Click) CLI harness with JSON output and a SKILL.md for a target application or codebase. A companion package, cli-anything-hub, installs community-built CLIs from a registry, covering GIMP, Blender, LibreOffice, QGIS, n8n and others.
-
-- **+** Ready-made registry of community CLIs installable with `cli-hub install <name>`
-- **+** Generated CLIs emit structured JSON and ship a SKILL.md for agent discovery
-- **+** Works with several agent hosts: Claude Code, Codex, Cursor, OpenClaw, Pi, OpenCode
-- **+** Apache-2.0 license; README reports 2,461 passing tests
-- **−** Many CLIs only wrap an upstream app, which must be installed separately
-- **−** Generating a new CLI requires a supported AI coding agent, so output quality varies
-- **−** Harness quality is per-CLI and community-contributed; test depth differs between harnesses
-- **−** Windows use with Claude Code needs Git for Windows or WSL for bash and cygpath
-
-<sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · safety checks passed 9 of 13 · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-anything/)</sub>
-
 <a name="ios-simulator-mcp"></a>
-### #&#8288;95 [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (34) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Nov 2026</sub>
+### #&#8288;93 [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Nov 2026</sub>
 
 **MCP server that lets agents tap, type, inspect and record the iOS Simulator.**
 
@@ -1712,7 +1676,7 @@ Node.js MCP server that drives a booted iOS Simulator through Facebook IDB and x
 <sub>no GPU · Needs Node.js 20+, macOS, Xcode, iOS simulators, Facebook IDB · [Repo](https://github.com/joshuayoes/ios-simulator-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ios-simulator-mcp/)</sub>
 
 <a name="matlab-mcp-server"></a>
-### #&#8288;96 [matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · custom license · Nov 2026</sub>
+### #&#8288;94 [matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · custom license · Nov 2026</sub>
 
 **Official MathWorks MCP server that lets AI agents run and check MATLAB code.**
 
@@ -1729,8 +1693,44 @@ A Go stdio MCP server that starts or attaches to a local MATLAB (R2021a or later
 
 <sub>no GPU · Needs MATLAB R2021a or later · [Repo](https://github.com/matlab/matlab-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matlab-mcp-server/)</sub>
 
+<a name="terravision"></a>
+### #&#8288;95 [terravision](https://github.com/patrickchugh/terravision) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · AGPL-3.0 · Nov 2026</sub>
+
+**Cloud architecture diagrams from Terraform or a prompt, via CLI or MCP.**
+
+TerraVision draws AWS, Azure and GCP architecture diagrams with official icons, grouped by VPC, subnet, zone or resource group. It builds them from `terraform plan` output locally, or from a plain-English description through an MCP server, Claude Desktop extension or ChatGPT/Codex plugin. Output is PNG, SVG, draw.io or interactive HTML, and a GitHub Action can redraw diagrams in CI.
+
+- **+** Draws from code and a tfvars file, so no cloud account access is needed
+- **+** Runs locally; code is not uploaded anywhere
+- **+** Outputs PNG, SVG, editable draw.io and clickable interactive HTML
+- **+** Ships plugins for Claude, ChatGPT, Codex, plus an MCP server for Copilot and Cursor
+- **−** Requires Graphviz and Git installed; Terraform needed for code-to-diagram
+- **−** AGPL-3.0 license may restrict use in some organisations
+- **−** Terraform generated from a diagram depends on the AI model's quality
+- **−** Does not scan live cloud accounts, so drift from deployed state is not shown
+
+<sub>no GPU · Docker · Needs Graphviz, Git, uv, Terraform (optional) · Models: Ollama, AWS Bedrock · [Repo](https://github.com/patrickchugh/terravision) · [📖 Docs ↗](https://patrickchugh.github.io/terravision/) · [🌐 Site ↗](https://terravision.online/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/terravision/)</sub>
+
+<a name="cli-anything"></a>
+### #&#8288;96 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 60k · Apache-2.0 · Sep 2026</sub>
+
+**Generates command-line wrappers so AI agents can drive desktop and backend software.**
+
+CLI-Anything runs a 7-phase generator inside a coding agent such as Claude Code, Cursor or Codex. It produces a Python (Click) CLI harness with JSON output and a SKILL.md for a target application or codebase. A companion package, cli-anything-hub, installs community-built CLIs from a registry, covering GIMP, Blender, LibreOffice, QGIS, n8n and others.
+
+- **+** Ready-made registry of community CLIs installable with `cli-hub install <name>`
+- **+** Generated CLIs emit structured JSON and ship a SKILL.md for agent discovery
+- **+** Works with several agent hosts: Claude Code, Codex, Cursor, OpenClaw, Pi, OpenCode
+- **+** Apache-2.0 license; README reports 2,461 passing tests
+- **−** Many CLIs only wrap an upstream app, which must be installed separately
+- **−** Generating a new CLI requires a supported AI coding agent, so output quality varies
+- **−** Harness quality is per-CLI and community-contributed; test depth differs between harnesses
+- **−** Windows use with Claude Code needs Git for Windows or WSL for bash and cygpath
+
+<sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · safety checks passed 9 of 13 · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-anything/)</sub>
+
 <a name="exa-mcp-server"></a>
-### #&#8288;97 [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
+### #&#8288;97 [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
 
 **Exa web search and page-fetch tools for MCP clients.**
 
@@ -1747,8 +1747,26 @@ MCP server that gives agents Exa's web search and page fetching, with the page c
 
 <sub>no GPU · Docker · Needs Exa API (hosted MCP at mcp.exa.ai), Exa API key or OAuth for higher limits and Exa Agent · [Repo](https://github.com/exa-labs/exa-mcp-server) · [📖 Docs ↗](https://docs.exa.ai/reference/exa-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exa-mcp-server/)</sub>
 
+<a name="stealth-browser-mcp"></a>
+### #&#8288;98 [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (47) · Freshness: active (91) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Nov 2026</sub>
+
+**MCP server that drives real Chrome via nodriver to get past anti-bot checks.**
+
+Python MCP server built on FastMCP, nodriver and the Chrome DevTools Protocol that lets an AI agent control a real Chrome, Chromium or Edge instance. It exposes 101 tools for navigation, element interaction, network inspection, element cloning, cookies and CDP execution. Sections can be disabled, down to a 21-tool core, and it runs over stdio or HTTP with an optional bearer token.
+
+- **+** Modular: full 101 tools, 21-tool --minimal mode, or per-section --disable-* flags
+- **+** Network inspection and restricted Python hooks to intercept, block, redirect or modify requests
+- **+** Element cloning extracts CSS, DOM structure, events, animations and assets via CDP
+- **+** Runs over stdio or HTTP; HTTP supports a bearer token via environment variable
+- **−** Anti-bot results vary by site, region, browser and detector version, per the README
+- **−** Exposes CDP, page JS, cookies and interception; README says to trust only local clients
+- **−** Needs a local Chrome, Chromium or Edge install and a Python 3.10+ venv
+- **−** README carries a paid sponsor placement for a proxy provider
+
+<sub>no GPU · Docker · Needs Python 3.10+, Chrome, Chromium or Edge, nodriver, FastMCP · port 8000 · [Repo](https://github.com/vibheksoni/stealth-browser-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stealth-browser-mcp/)</sub>
+
 <a name="mcp-unity"></a>
-### #&#8288;98 [mcp-unity](https://github.com/codergamester/mcp-unity) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;99 [mcp-unity](https://github.com/codergamester/mcp-unity) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **MCP server that lets coding agents drive the Unity Editor.**
 
@@ -1766,7 +1784,7 @@ A Unity package plus a Node.js MCP server that connects to the Editor over WebSo
 <sub>no GPU · Needs Unity 6 or later, Node.js 18 or later, npm 9 or later (for debugging the server) · Models: Cursor, Windsurf, Claude Code, Codex CLI, GitHub Copilot · [Repo](https://github.com/codergamester/mcp-unity) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-unity/)</sub>
 
 <a name="mcp-searxng"></a>
-### #&#8288;99 [mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
+### #&#8288;100 [mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
 
 **MCP server giving AI assistants web search and URL reading through SearXNG.**
 
@@ -1784,7 +1802,7 @@ An MCP server that connects clients such as Claude Desktop and Cursor to an exis
 <sub>no GPU · Docker + Compose · Needs SearXNG instance with JSON output enabled, Node.js 22+ (npm/npx installs) · [Repo](https://github.com/ihor-sokoliuk/mcp-searxng) · [📖 Docs ↗](https://github.com/ihor-sokoliuk/mcp-searxng/blob/main/docs/index.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-searxng/)</sub>
 
 <a name="agentdock"></a>
-### #&#8288;100 [agentdock](https://github.com/uvwt/agentdock) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;101 [agentdock](https://github.com/uvwt/agentdock) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server that lets AI assistants use files, shell and Git on your machines.**
 
@@ -1802,7 +1820,7 @@ AgentDock is a Go MCP server (Streamable HTTP) that gives ChatGPT, Claude or Cod
 <sub>no GPU · Docker + Compose · Needs Cloudflare (optional, for public address), NexusDock (optional, for pairing) · Models: ChatGPT, Claude, Codex · port 8765 · [Repo](https://github.com/uvwt/agentdock) · [📖 Docs ↗](https://docs.nexusdock.co/agentdock/) · [🌐 Site ↗](https://www.nexusdock.co/download/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agentdock/)</sub>
 
 <a name="ix"></a>
-### #&#8288;101 [ix](https://github.com/ix-infrastructure/ix) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;102 [ix](https://github.com/ix-infrastructure/ix) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Local code graph of symbols and calls, queryable by CLI and MCP.**
 
@@ -1820,7 +1838,7 @@ Ix parses a repository with tree-sitter into a graph of symbols, calls and impor
 <sub>Compose · Needs Docker, Docker Compose, ArangoDB, Node.js 22+, Git, ripgrep · [Repo](https://github.com/ix-infrastructure/ix) · [🌐 Site ↗](https://www.ix-infra.com/ix) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ix/)</sub>
 
 <a name="anymd"></a>
-### #&#8288;102 [anymd](https://github.com/sylphxai/anymd) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;103 [anymd](https://github.com/sylphxai/anymd) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Rust MCP server and CLI that converts documents and media to Markdown.**
 
@@ -1837,44 +1855,8 @@ anymd converts PDF, Word, PowerPoint, Excel, EPUB, HTML, URLs, images (OCR) and 
 
 <sub>GPU optional · Docker · Needs Node 18+ (npx install), ffmpeg/ffprobe (audio, video), tesseract (optional OCR) · Models: Qwen3-ASR (local transcripts), local doc-VLM OCR models · [Repo](https://github.com/sylphxai/anymd) · [📖 Docs ↗](https://sylphxai.github.io/anymd/) · [🌐 Site ↗](https://sylphxai.github.io/anymd/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/anymd/)</sub>
 
-<a name="stealth-browser-mcp"></a>
-### #&#8288;103 [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (46) · Freshness: active (91) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Nov 2026</sub>
-
-**MCP server that drives real Chrome via nodriver to get past anti-bot checks.**
-
-Python MCP server built on FastMCP, nodriver and the Chrome DevTools Protocol that lets an AI agent control a real Chrome, Chromium or Edge instance. It exposes 101 tools for navigation, element interaction, network inspection, element cloning, cookies and CDP execution. Sections can be disabled, down to a 21-tool core, and it runs over stdio or HTTP with an optional bearer token.
-
-- **+** Modular: full 101 tools, 21-tool --minimal mode, or per-section --disable-* flags
-- **+** Network inspection and restricted Python hooks to intercept, block, redirect or modify requests
-- **+** Element cloning extracts CSS, DOM structure, events, animations and assets via CDP
-- **+** Runs over stdio or HTTP; HTTP supports a bearer token via environment variable
-- **−** Anti-bot results vary by site, region, browser and detector version, per the README
-- **−** Exposes CDP, page JS, cookies and interception; README says to trust only local clients
-- **−** Needs a local Chrome, Chromium or Edge install and a Python 3.10+ venv
-- **−** README carries a paid sponsor placement for a proxy provider
-
-<sub>no GPU · Docker · Needs Python 3.10+, Chrome, Chromium or Edge, nodriver, FastMCP · port 8000 · [Repo](https://github.com/vibheksoni/stealth-browser-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stealth-browser-mcp/)</sub>
-
-<a name="mcpc"></a>
-### #&#8288;104 [mcpc](https://github.com/apify/mcpc) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
-
-**Command-line client that maps MCP operations to shell commands.**
-
-mcpc is a TypeScript CLI for the Model Context Protocol. It connects to remote (Streamable HTTP) or local stdio servers, keeps named sessions alive through a background bridge process, and exposes tools, prompts, resources, tasks and skills as subcommands. It prints text or spec-consistent JSON, so it works for debugging servers, shell scripting, or as a single Bash tool for AI agents.
-
-- **+** Covers tools, prompts, resources, async tasks and skills over stdio and Streamable HTTP
-- **+** Persistent named sessions work with both stateful and stateless (2026-07-28) servers
-- **+** OAuth 2.1 with credentials in the OS keychain, file fallback on headless Linux
-- **+** `grep` searches tools across sessions, so agents load only the tools they need
-- **−** Requires Node.js or Bun unless installed through Homebrew
-- **−** x402 agentic payments support is marked experimental
-- **−** It is a client only; it does not provide MCP servers or tools itself
-- **−** Bulk auto-discovery skips config entries that reference environment variables
-
-<sub>no GPU · Needs Node.js or Bun, OS keychain (Secret Service on Linux, optional) · [Repo](https://github.com/apify/mcpc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpc/)</sub>
-
 <a name="ghidramcp"></a>
-### #&#8288;105 [ghidramcp](https://github.com/lauriewired/ghidramcp) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;104 [ghidramcp](https://github.com/lauriewired/ghidramcp) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
 
 **MCP server and Ghidra plugin for LLM-driven reverse engineering.**
 
@@ -1892,7 +1874,7 @@ A Ghidra extension that runs an HTTP server inside Ghidra, plus a Python MCP ser
 <sub>no GPU · Needs Ghidra 12.1.4, uv or Python 3.10+, Java 21 (build from source), PyGhidra (headless mode) · Models: Any MCP client · port 8080 · [Repo](https://github.com/lauriewired/ghidramcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ghidramcp/)</sub>
 
 <a name="code2prompt"></a>
-### #&#8288;106 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (69) · Freshness: active (86) · Maintenance: patchy (46) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;105 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (69) · Freshness: active (86) · Maintenance: patchy (46) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **Rust CLI that packs a codebase into one formatted LLM prompt.**
 
@@ -1909,8 +1891,26 @@ code2prompt walks a directory, filters files with glob patterns and .gitignore r
 
 <sub>no GPU · [Repo](https://github.com/mufeedvh/code2prompt) · [📖 Docs ↗](https://code2prompt.dev/docs/welcome/) · [🌐 Site ↗](https://code2prompt.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code2prompt/)</sub>
 
+<a name="mcpc"></a>
+### #&#8288;106 [mcpc](https://github.com/apify/mcpc) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
+
+**Command-line client that maps MCP operations to shell commands.**
+
+mcpc is a TypeScript CLI for the Model Context Protocol. It connects to remote (Streamable HTTP) or local stdio servers, keeps named sessions alive through a background bridge process, and exposes tools, prompts, resources, tasks and skills as subcommands. It prints text or spec-consistent JSON, so it works for debugging servers, shell scripting, or as a single Bash tool for AI agents.
+
+- **+** Covers tools, prompts, resources, async tasks and skills over stdio and Streamable HTTP
+- **+** Persistent named sessions work with both stateful and stateless (2026-07-28) servers
+- **+** OAuth 2.1 with credentials in the OS keychain, file fallback on headless Linux
+- **+** `grep` searches tools across sessions, so agents load only the tools they need
+- **−** Requires Node.js or Bun unless installed through Homebrew
+- **−** x402 agentic payments support is marked experimental
+- **−** It is a client only; it does not provide MCP servers or tools itself
+- **−** Bulk auto-discovery skips config entries that reference environment variables
+
+<sub>no GPU · Needs Node.js or Bun, OS keychain (Secret Service on Linux, optional) · [Repo](https://github.com/apify/mcpc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpc/)</sub>
+
 <a name="codexpro"></a>
-### #&#8288;107 [codexpro](https://github.com/rebel0789/codexpro) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Oct 2026</sub>
+### #&#8288;107 [codexpro](https://github.com/rebel0789/codexpro) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Oct 2026</sub>
 
 **Local MCP server that lets ChatGPT read and edit allowed repos.**
 
@@ -1928,7 +1928,7 @@ CodexPro is a Node.js MCP server that connects a ChatGPT session to repositories
 <sub>no GPU · Needs Node.js 20+, ChatGPT account with custom MCP plugins, HTTPS tunnel (Cloudflare, ngrok or Tailscale Funnel) · Models: ChatGPT · [Repo](https://github.com/rebel0789/codexpro) · [📖 Docs ↗](https://rebel0789.github.io/codexpro/) · [🌐 Site ↗](https://rebel0789.github.io/codexpro/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codexpro/)</sub>
 
 <a name="photoshop-mcp"></a>
-### #&#8288;108 [photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 917 · MIT · Nov 2026</sub>
+### #&#8288;108 [photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 917 · MIT · Nov 2026</sub>
 
 **MCP server that drives Adobe Photoshop with 128 tools and a built-in chat UI.**
 
@@ -1945,98 +1945,8 @@ Exposes 128 Photoshop tools (111 atomic, 17 one-step recipes) over MCP, so Curso
 
 <sub>Needs Adobe Photoshop (Windows or macOS), Node.js 18+ · Models: Claude Code account, Gemini CLI account, AI provider API keys, Jev (TypeSafe AI, opt-in) · [Repo](https://github.com/alisaitteke/photoshop-mcp) · [🌐 Site ↗](https://photoshop-mcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/photoshop-mcp/)</sub>
 
-<a name="git-sim"></a>
-### #&#8288;109 [git-sim](https://github.com/initialcommit-com/git-sim) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · GPL-2.0 · Oct 2026</sub>
-
-**Simulate and visualize Git commands as shareable graphs before running them.**
-
-git-sim is a Python CLI that takes a Git command (merge, rebase, reset and others), draws its effect on your repo as an interactive graph, and leaves the repo unchanged. It also has a live mode that records real Git operations, a preflight risk check, a VS Code extension, a Jupyter magic, a GitHub Action for PRs, and an MCP server and hook for AI agents.
-
-- **+** Simulates commands without touching the repo; prefix git commands with git-sim
-- **+** Preflight reports risk, lost commits and the undo command; wires into Claude Code, Cursor, Codex, Gemini CLI
-- **+** Graph data sits in the URL fragment, so it is not sent to the server; --open-in local works offline
-- **+** Output as link, embed, HTML, PNG, SVG or MP4; also VS Code, Jupyter and GitHub Action
-- **−** Default viewer is hosted at initialcommit.com unless --open-in local is set
-- **−** Public share links store graph data on initialcommit.com servers
-- **−** Animated video output needs Manim; minimal Linux needs libEGL, libGL and fontconfig
-- **−** GPL-2.0 license may limit embedding in proprietary software
-
-<sub>no GPU · Docker · Needs Python 3.10-3.14, Git, Manim (for --animate), libEGL, libGL, fontconfig (Linux) · [Repo](https://github.com/initialcommit-com/git-sim) · [▶️ Demo ↗](https://initialcommit.com/tools/git-sim/viewer?demo=rebase) · [🌐 Site ↗](https://initialcommit.com/tools/git-sim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-sim/)</sub>
-
-<a name="token-savior"></a>
-### #&#8288;110 [token-savior](https://github.com/mibayy/token-savior) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
-
-**MCP server for symbol-level code navigation, persistent memory and Bash output trimming.**
-
-Token Savior is a Python MCP server that indexes a codebase by symbol (functions, classes, imports, call graph) so agents fetch pointers instead of whole files. It adds a SQLite WAL + FTS5 memory store re-injected across sessions, plus opt-in Bash hooks: 34 PostToolUse output compactors and a 10-rule PreToolUse command rewriter. The README's 97.9% tsbench score is self-reported and unverifiable; a later 8-task re-measure showed -45% cost.
-
-- **+** Symbol index with call graph and structural editing that keeps the index in sync
-- **+** Persistent memory in SQLite WAL + FTS5, optional vector search, re-injected next session
-- **+** `ts init` merges hooks for Claude, Cursor, Gemini, Codex and OpenClaw with diff and backup
-- **+** README openly withdraws a flawed benchmark and reports a re-measure with tool-use checks
-- **−** Headline tsbench 97.9% cannot be reproduced; benchmark repo is not public
-- **−** Re-measure on 8 tasks: -45% cost but +40% wall time from indexing
-- **−** PostToolUse compactors do not shrink the current turn; only the rewriter does
-- **−** Needs `alwaysLoad` on Claude Code, otherwise the model rarely calls its tools
-
-<sub>no GPU · Needs Python 3.11+, SQLite, MCP-compatible client · [Repo](https://github.com/mibayy/token-savior) · [🌐 Site ↗](https://mibayy.github.io/token-savior/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/token-savior/)</sub>
-
-<a name="computer-use-linux"></a>
-### #&#8288;111 [computer-use-linux](https://github.com/agent-sh/computer-use-linux) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 904 · MIT · Nov 2026</sub>
-
-**Rust MCP server and CLI for controlling a Linux desktop from AI agents.**
-
-Exposes a local Linux desktop to MCP clients and a CLI: AT-SPI accessibility trees, bounded screenshots, window listing and focus, and Wayland/X11 input (click, drag, scroll, type). Window targeting tries backends for GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc and X11/EWMH. Mutating tools can return a post-action screenshot and fresh tree in one call, and a `doctor` command reports readiness as JSON.
-
-- **+** Covers many compositors: GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc, X11
-- **+** Semantic AT-SPI selectors and element indexes, with pixel coordinates as fallback
-- **+** Post-action screenshot and tree returned in the same tool call
-- **+** Installs via Claude Code/Codex plugins, Pi, npm, cargo or prebuilt x86_64/aarch64 binaries
-- **−** Acts on the real desktop, mouse and focus; isolation needs the separate agent-workspace-linux
-- **−** Wayland input needs /dev/uinput or the RemoteDesktop portal; coordinate actions are otherwise refused
-- **−** GNOME Wayland needs a bundled Shell extension for exact window activation and move/resize
-- **−** X11 text via xdotool can substitute symbols under non-US keyboard layouts
-
-<sub>no GPU · Needs AT-SPI, /dev/uinput or xdg-desktop-portal RemoteDesktop, xdotool (X11), wtype or ydotool (Wayland text), glibc 2.28+ · [Repo](https://github.com/agent-sh/computer-use-linux) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer-use-linux/)</sub>
-
-<a name="reddit-mcp-buddy"></a>
-### #&#8288;112 [reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 904 · MIT · Nov 2026</sub>
-
-**MCP server for browsing and searching Reddit from AI assistants.**
-
-TypeScript MCP server that exposes Reddit browsing, search, post and comment retrieval, user analysis and subreddit lookup as tools over stdio. It requires credentials for an already-approved Reddit API app, and optional posting tools can be enabled with REDDIT_BUDDY_WRITE. Reddit is closing public API access in stages through March 2027, so new users cannot get credentials.
-
-- **+** Six read tools plus opt-in posting tools that stay hidden by default
-- **+** Supports app-only, password-grant and refresh-token OAuth (--oauth flow)
-- **+** NSFW filtering set per call or server-wide via REDDIT_BUDDY_NSFW
-- **+** Installs via npx, a Claude Desktop .mcpb extension, or Docker
-- **−** New users cannot use it: Reddit stopped issuing API access on 2026-10-31
-- **−** Credential-free RSS fallback ends 2026-11-13; then every Reddit tool needs credentials
-- **−** Access closes for unregistered apps from 2027-01-12, fully by March 2027
-- **−** Write tools work over stdio only; the HTTP transport refuses to register them
-
-<sub>no GPU · Docker · Needs Reddit API credentials (approved app), Node.js / npx · [Repo](https://github.com/karanb192/reddit-mcp-buddy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reddit-mcp-buddy/)</sub>
-
-<a name="cursor-talk-to-figma-mcp"></a>
-### #&#8288;113 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (67) · Freshness: active (91) · Maintenance: weak (22) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
-
-**MCP server that lets Cursor or Claude Code read and edit Figma files.**
-
-Connects an AI agent to Figma through three parts: a TypeScript MCP server, a WebSocket relay, and a Figma plugin. The agent joins a channel and calls tools to read document and node info, create frames and text, set auto-layout and styles, replace text in bulk, and export nodes as images. It also ships MCP prompts for design, text replacement and annotation workflows.
-
-- **+** Broad tool set: about 40 tools covering reading, creation, auto layout, styling and components
-- **+** Bulk text replacement and instance override propagation cut repetitive edits
-- **+** Bundled MCP prompts guide multi-step tasks like annotation conversion and prototype-to-connector mapping
-- **+** Plugin is published on the Figma community page, or can be linked locally
-- **−** Needs three pieces running: MCP server, WebSocket server (bun socket) and Figma plugin
-- **−** Requires Bun; Windows WSL needs a manual edit to src/socket.ts
-- **−** Image export is limited and returns base64 as text
-- **−** No tagged releases; setup docs focus on Cursor, with Claude Code only mentioned
-
-<sub>no GPU · Docker · Needs Bun, Figma, WebSocket server (bun socket), Figma plugin · Models: Cursor, Claude Code · [Repo](https://github.com/grab/cursor-talk-to-figma-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cursor-talk-to-figma-mcp/)</sub>
-
 <a name="magic-mcp"></a>
-### #&#8288;114 [magic-mcp](https://github.com/21st-dev/magic-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · ISC · Sep 2026</sub>
+### #&#8288;109 [magic-mcp](https://github.com/21st-dev/magic-mcp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · ISC · Sep 2026</sub>
 
 **MCP proxy that gives coding agents 21st.dev UI component search and generation.**
 
@@ -2054,7 +1964,7 @@ Formerly the Magic MCP server, this package is now a stdio proxy that forwards M
 <sub>no GPU · Docker · Needs 21st.dev API key, hosted 21st MCP server (21st.dev/api/mcp), Node.js/npx · [Repo](https://github.com/21st-dev/magic-mcp) · [📖 Docs ↗](https://21st.dev/mcp) · [🌐 Site ↗](https://21st.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/magic-mcp/)</sub>
 
 <a name="vapi-network"></a>
-### #&#8288;115 [vapi-network](https://github.com/vapi-network/vapi-network) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;110 [vapi-network](https://github.com/vapi-network/vapi-network) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
 
 **Non-custodial CLI and MCP client for paying x402 APIs in USDC on Base.**
 
@@ -2071,8 +1981,116 @@ TypeScript client that discovers x402 API listings, applies local spend policy, 
 
 <sub>no GPU · Needs Node.js and npm, Base network (USDC), vAPI hosted services (Router, catalogue) · Models: Claude (via vAPI Router, Venice), OpenAI GPT (Codex, via Router) · [Repo](https://github.com/vapi-network/vapi-network) · [📖 Docs ↗](https://docs.vapinetwork.ai) · [🌐 Site ↗](https://vapinetwork.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vapi-network/)</sub>
 
+<a name="git-sim"></a>
+### #&#8288;111 [git-sim](https://github.com/initialcommit-com/git-sim) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · GPL-2.0 · Oct 2026</sub>
+
+**Simulate and visualize Git commands as shareable graphs before running them.**
+
+git-sim is a Python CLI that takes a Git command (merge, rebase, reset and others), draws its effect on your repo as an interactive graph, and leaves the repo unchanged. It also has a live mode that records real Git operations, a preflight risk check, a VS Code extension, a Jupyter magic, a GitHub Action for PRs, and an MCP server and hook for AI agents.
+
+- **+** Simulates commands without touching the repo; prefix git commands with git-sim
+- **+** Preflight reports risk, lost commits and the undo command; wires into Claude Code, Cursor, Codex, Gemini CLI
+- **+** Graph data sits in the URL fragment, so it is not sent to the server; --open-in local works offline
+- **+** Output as link, embed, HTML, PNG, SVG or MP4; also VS Code, Jupyter and GitHub Action
+- **−** Default viewer is hosted at initialcommit.com unless --open-in local is set
+- **−** Public share links store graph data on initialcommit.com servers
+- **−** Animated video output needs Manim; minimal Linux needs libEGL, libGL and fontconfig
+- **−** GPL-2.0 license may limit embedding in proprietary software
+
+<sub>no GPU · Docker · Needs Python 3.10-3.14, Git, Manim (for --animate), libEGL, libGL, fontconfig (Linux) · [Repo](https://github.com/initialcommit-com/git-sim) · [▶️ Demo ↗](https://initialcommit.com/tools/git-sim/viewer?demo=rebase) · [🌐 Site ↗](https://initialcommit.com/tools/git-sim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-sim/)</sub>
+
+<a name="coding-tools-mcp"></a>
+### #&#8288;112 [coding-tools-mcp](https://github.com/xytom/coding-tools-mcp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Oct 2026</sub>
+
+**MCP server giving chat clients and agents sandboxed file, patch, exec and git tools.**
+
+Python MCP server that exposes 18 tools (19 in dangerous mode) for reading and searching files, atomic multi-file patches, PTY-backed command execution, and git inspection, confined to one workspace root. Runs over stdio or Streamable HTTP on port 8765 and works with Claude Desktop, Claude Code, Codex, Cursor, Cline, VS Code, Windsurf and Gemini CLI. Permission modes (safe, trusted, dangerous) gate network, shell expansion and destructive commands.
+
+- **+** Rejects absolute paths, .. traversal and symlink escapes; Landlock confinement on Linux
+- **+** Three permission modes, with safe as the default
+- **+** Runs via uvx or npx; works over stdio or Streamable HTTP
+- **+** Bearer and OAuth 2.1 with PKCE built in for remote tunnel access
+- **−** Not a complete OS sandbox; README says to use Docker or a VM for untrusted code
+- **−** Landlock confinement is Linux only; other platforms get a warning
+- **−** Anonymous telemetry is on by default and must be disabled by env var
+- **−** npm package is only a launcher and still needs Python 3.11+ with uv or pipx
+
+<sub>no GPU · Docker + Compose · Needs Python >= 3.11, uv or pipx (for the npm launcher), Docker (optional sandbox), cloudflared, ngrok or Dev Tunnel (optional remote access) · Models: Any MCP client (model-neutral) · port 8765 · [Repo](https://github.com/xytom/coding-tools-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-tools-mcp/)</sub>
+
+<a name="token-savior"></a>
+### #&#8288;113 [token-savior](https://github.com/mibayy/token-savior) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
+
+**MCP server for symbol-level code navigation, persistent memory and Bash output trimming.**
+
+Token Savior is a Python MCP server that indexes a codebase by symbol (functions, classes, imports, call graph) so agents fetch pointers instead of whole files. It adds a SQLite WAL + FTS5 memory store re-injected across sessions, plus opt-in Bash hooks: 34 PostToolUse output compactors and a 10-rule PreToolUse command rewriter. The README's 97.9% tsbench score is self-reported and unverifiable; a later 8-task re-measure showed -45% cost.
+
+- **+** Symbol index with call graph and structural editing that keeps the index in sync
+- **+** Persistent memory in SQLite WAL + FTS5, optional vector search, re-injected next session
+- **+** `ts init` merges hooks for Claude, Cursor, Gemini, Codex and OpenClaw with diff and backup
+- **+** README openly withdraws a flawed benchmark and reports a re-measure with tool-use checks
+- **−** Headline tsbench 97.9% cannot be reproduced; benchmark repo is not public
+- **−** Re-measure on 8 tasks: -45% cost but +40% wall time from indexing
+- **−** PostToolUse compactors do not shrink the current turn; only the rewriter does
+- **−** Needs `alwaysLoad` on Claude Code, otherwise the model rarely calls its tools
+
+<sub>no GPU · Needs Python 3.11+, SQLite, MCP-compatible client · [Repo](https://github.com/mibayy/token-savior) · [🌐 Site ↗](https://mibayy.github.io/token-savior/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/token-savior/)</sub>
+
+<a name="computer-use-linux"></a>
+### #&#8288;114 [computer-use-linux](https://github.com/agent-sh/computer-use-linux) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 904 · MIT · Nov 2026</sub>
+
+**Rust MCP server and CLI for controlling a Linux desktop from AI agents.**
+
+Exposes a local Linux desktop to MCP clients and a CLI: AT-SPI accessibility trees, bounded screenshots, window listing and focus, and Wayland/X11 input (click, drag, scroll, type). Window targeting tries backends for GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc and X11/EWMH. Mutating tools can return a post-action screenshot and fresh tree in one call, and a `doctor` command reports readiness as JSON.
+
+- **+** Covers many compositors: GNOME, KDE, Hyprland, niri, COSMIC, i3, Sway, labwc, X11
+- **+** Semantic AT-SPI selectors and element indexes, with pixel coordinates as fallback
+- **+** Post-action screenshot and tree returned in the same tool call
+- **+** Installs via Claude Code/Codex plugins, Pi, npm, cargo or prebuilt x86_64/aarch64 binaries
+- **−** Acts on the real desktop, mouse and focus; isolation needs the separate agent-workspace-linux
+- **−** Wayland input needs /dev/uinput or the RemoteDesktop portal; coordinate actions are otherwise refused
+- **−** GNOME Wayland needs a bundled Shell extension for exact window activation and move/resize
+- **−** X11 text via xdotool can substitute symbols under non-US keyboard layouts
+
+<sub>no GPU · Needs AT-SPI, /dev/uinput or xdg-desktop-portal RemoteDesktop, xdotool (X11), wtype or ydotool (Wayland text), glibc 2.28+ · [Repo](https://github.com/agent-sh/computer-use-linux) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer-use-linux/)</sub>
+
+<a name="reddit-mcp-buddy"></a>
+### #&#8288;115 [reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 904 · MIT · Nov 2026</sub>
+
+**MCP server for browsing and searching Reddit from AI assistants.**
+
+TypeScript MCP server that exposes Reddit browsing, search, post and comment retrieval, user analysis and subreddit lookup as tools over stdio. It requires credentials for an already-approved Reddit API app, and optional posting tools can be enabled with REDDIT_BUDDY_WRITE. Reddit is closing public API access in stages through March 2027, so new users cannot get credentials.
+
+- **+** Six read tools plus opt-in posting tools that stay hidden by default
+- **+** Supports app-only, password-grant and refresh-token OAuth (--oauth flow)
+- **+** NSFW filtering set per call or server-wide via REDDIT_BUDDY_NSFW
+- **+** Installs via npx, a Claude Desktop .mcpb extension, or Docker
+- **−** New users cannot use it: Reddit stopped issuing API access on 2026-10-31
+- **−** Credential-free RSS fallback ends 2026-11-13; then every Reddit tool needs credentials
+- **−** Access closes for unregistered apps from 2027-01-12, fully by March 2027
+- **−** Write tools work over stdio only; the HTTP transport refuses to register them
+
+<sub>no GPU · Docker · Needs Reddit API credentials (approved app), Node.js / npx · [Repo](https://github.com/karanb192/reddit-mcp-buddy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reddit-mcp-buddy/)</sub>
+
+<a name="cursor-talk-to-figma-mcp"></a>
+### #&#8288;116 [cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (67) · Freshness: active (91) · Maintenance: weak (22) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
+
+**MCP server that lets Cursor or Claude Code read and edit Figma files.**
+
+Connects an AI agent to Figma through three parts: a TypeScript MCP server, a WebSocket relay, and a Figma plugin. The agent joins a channel and calls tools to read document and node info, create frames and text, set auto-layout and styles, replace text in bulk, and export nodes as images. It also ships MCP prompts for design, text replacement and annotation workflows.
+
+- **+** Broad tool set: about 40 tools covering reading, creation, auto layout, styling and components
+- **+** Bulk text replacement and instance override propagation cut repetitive edits
+- **+** Bundled MCP prompts guide multi-step tasks like annotation conversion and prototype-to-connector mapping
+- **+** Plugin is published on the Figma community page, or can be linked locally
+- **−** Needs three pieces running: MCP server, WebSocket server (bun socket) and Figma plugin
+- **−** Requires Bun; Windows WSL needs a manual edit to src/socket.ts
+- **−** Image export is limited and returns base64 as text
+- **−** No tagged releases; setup docs focus on Cursor, with Claude Code only mentioned
+
+<sub>no GPU · Docker · Needs Bun, Figma, WebSocket server (bun socket), Figma plugin · Models: Cursor, Claude Code · [Repo](https://github.com/grab/cursor-talk-to-figma-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cursor-talk-to-figma-mcp/)</sub>
+
 <a name="jadx-ai-mcp"></a>
-### #&#8288;116 [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;117 [jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
 
 **JADX plugin and MCP server that lets LLMs inspect decompiled Android APKs.**
 
@@ -2090,7 +2108,7 @@ A JADX-GUI plugin paired with a separate Python MCP server (jadx-mcp-server). Th
 <sub>no GPU · Needs JADX GUI, Java 11+, Python 3.10+, uv, fastmcp, httpx · Models: Claude Desktop, Cherry Studio, LM Studio, any MCP client · port 8651 · [Repo](https://github.com/zinja-coder/jadx-ai-mcp) · [📖 Docs ↗](https://jadx-ai-mcp.readthedocs.io/en/latest/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jadx-ai-mcp/)</sub>
 
 <a name="mcp2cli"></a>
-### #&#8288;117 [mcp2cli](https://github.com/knowsuchagency/mcp2cli) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
+### #&#8288;118 [mcp2cli](https://github.com/knowsuchagency/mcp2cli) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
 
 **CLI that exposes MCP servers, OpenAPI specs and GraphQL endpoints as commands.**
 
@@ -2108,7 +2126,7 @@ mcp2cli builds a command-line interface at runtime from an MCP server (HTTP/SSE 
 <sub>no GPU · Needs uv, mcp Python SDK (>=1.26,<3) · [Repo](https://github.com/knowsuchagency/mcp2cli) · [🌐 Site ↗](https://www.orangecountyai.com/blog/mcp2cli-one-cli-for-every-api-zero-wasted-tokens) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp2cli/)</sub>
 
 <a name="ida-mcp"></a>
-### #&#8288;118 [ida-mcp](https://github.com/hexrayssa/ida-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
+### #&#8288;119 [ida-mcp](https://github.com/hexrayssa/ida-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Oct 2026</sub>
 
 **Official Hex-Rays MCP server for reverse engineering binaries in IDA.**
 
@@ -2124,26 +2142,8 @@ Exposes IDA databases to MCP-capable agents over stdio or Streamable HTTP, so an
 
 <sub>no GPU · Needs IDA 9.4+ with idalib, Python 3.11+, uv, Git, hcli (optional) · port 8737 · [Repo](https://github.com/hexrayssa/ida-mcp) · [📖 Docs ↗](https://hcli.docs.hex-rays.com/) · [🌐 Site ↗](https://hex-rays.com/blog/hex-rays-ida-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ida-mcp/)</sub>
 
-<a name="coding-tools-mcp"></a>
-### #&#8288;119 [coding-tools-mcp](https://github.com/xytom/coding-tools-mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Oct 2026</sub>
-
-**MCP server giving chat clients and agents sandboxed file, patch, exec and git tools.**
-
-Python MCP server that exposes 18 tools (19 in dangerous mode) for reading and searching files, atomic multi-file patches, PTY-backed command execution, and git inspection, confined to one workspace root. Runs over stdio or Streamable HTTP on port 8765 and works with Claude Desktop, Claude Code, Codex, Cursor, Cline, VS Code, Windsurf and Gemini CLI. Permission modes (safe, trusted, dangerous) gate network, shell expansion and destructive commands.
-
-- **+** Rejects absolute paths, .. traversal and symlink escapes; Landlock confinement on Linux
-- **+** Three permission modes, with safe as the default
-- **+** Runs via uvx or npx; works over stdio or Streamable HTTP
-- **+** Bearer and OAuth 2.1 with PKCE built in for remote tunnel access
-- **−** Not a complete OS sandbox; README says to use Docker or a VM for untrusted code
-- **−** Landlock confinement is Linux only; other platforms get a warning
-- **−** Anonymous telemetry is on by default and must be disabled by env var
-- **−** npm package is only a launcher and still needs Python 3.11+ with uv or pipx
-
-<sub>no GPU · Docker + Compose · Needs Python >= 3.11, uv or pipx (for the npm launcher), Docker (optional sandbox), cloudflared, ngrok or Dev Tunnel (optional remote access) · Models: Any MCP client (model-neutral) · port 8765 · [Repo](https://github.com/xytom/coding-tools-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-tools-mcp/)</sub>
-
 <a name="openserp"></a>
-### #&#8288;120 [openserp](https://github.com/karust/openserp) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
+### #&#8288;120 [openserp](https://github.com/karust/openserp) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
 
 **Self-hosted web search API and MCP server over Google, Bing and other engines.**
 
@@ -2179,7 +2179,7 @@ ok-script lets a coding agent connect over MCP to a running Windows app, game or
 <sub>Needs Python 3.11+, OpenCV, PySide6, adbutils, OnnxOCR, PyAppify · Models: PaddleOCR v5 via OnnxOCR, YOLO, OpenCV template matching · [Repo](https://github.com/ok-oldking/ok-script) · [🌐 Site ↗](https://ok-script.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ok-script/)</sub>
 
 <a name="shadcn-ui-mcp-server"></a>
-### #&#8288;122 [shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · MIT · Oct 2026</sub>
+### #&#8288;122 [shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · MIT · Oct 2026</sub>
 
 **MCP server that gives coding agents shadcn/ui component source, demos and blocks.**
 
@@ -2196,26 +2196,8 @@ An MCP server that fetches shadcn/ui v4 component source, demos, blocks and meta
 
 <sub>no GPU · Docker + Compose · Needs GitHub API, Node.js >= 20 · port 7423 · [Repo](https://github.com/jpisnice/shadcn-ui-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shadcn-ui-mcp-server/)</sub>
 
-<a name="repobrain"></a>
-### #&#8288;123 [repobrain](https://github.com/study8677/repobrain) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
-
-**Per-module AI agents that answer codebase questions with file paths and line numbers.**
-
-RepoBrain runs `rb-refresh` to have model agents read each code module and write knowledge docs into a `.repobrain/` folder in the repo. `rb-ask` then routes a question to the relevant module agent and answers with source references. It works as a CLI, as Claude Code and Codex CLI plugins, or through an optional `rb-mcp` server for other agents and IDEs.
-
-- **+** Knowledge lives in `.repobrain/` inside the repo, so several IDEs and agents share it
-- **+** Refresh is incremental after commits and resumes interrupted runs, keeping the last good generation
-- **+** Native plugins for Claude Code and Codex CLI, plus CLI/JSON output and optional MCP for other hosts
-- **+** Answers cite file paths and line numbers; README links a benchmark on four repos
-- **−** Needs a configured model backend (OpenAI-compatible API or a logged-in headless CLI such as Trae)
-- **−** First build can take several minutes or longer on large repos and consumes model tokens
-- **−** Requires a Git repo with at least one commit and a clean worktree before refresh
-- **−** Answers lag behind code until `rb-refresh` is rerun; `rb-ask` only warns when stale
-
-<sub>no GPU · Docker + Compose · Needs Git, OpenAI-compatible API or headless CLI backend (e.g. Trae) · Models: OpenAI-compatible API, Headless CLI backends (Trae) · [Repo](https://github.com/study8677/repobrain) · [📖 Docs ↗](https://deepwiki.com/study8677/repobrain) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/repobrain/)</sub>
-
 <a name="js-reverse-mcp"></a>
-### #&#8288;124 [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;123 [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Sep 2026</sub>
 
 **MCP server for debugging page JavaScript, breakpoints and network from an AI agent.**
 
@@ -2232,8 +2214,26 @@ JS Reverse MCP exposes 24 tools that let an MCP client list and search page scri
 
 <sub>no GPU · Needs Node.js 20.19+, Google Chrome (stable), Patchright fork (@zhizhuodemao/patchright), CloakBrowser (optional) · [Repo](https://github.com/zhizhuodemao/js-reverse-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/js-reverse-mcp/)</sub>
 
+<a name="repobrain"></a>
+### #&#8288;124 [repobrain](https://github.com/study8677/repobrain) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: patchy (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
+
+**Per-module AI agents that answer codebase questions with file paths and line numbers.**
+
+RepoBrain runs `rb-refresh` to have model agents read each code module and write knowledge docs into a `.repobrain/` folder in the repo. `rb-ask` then routes a question to the relevant module agent and answers with source references. It works as a CLI, as Claude Code and Codex CLI plugins, or through an optional `rb-mcp` server for other agents and IDEs.
+
+- **+** Knowledge lives in `.repobrain/` inside the repo, so several IDEs and agents share it
+- **+** Refresh is incremental after commits and resumes interrupted runs, keeping the last good generation
+- **+** Native plugins for Claude Code and Codex CLI, plus CLI/JSON output and optional MCP for other hosts
+- **+** Answers cite file paths and line numbers; README links a benchmark on four repos
+- **−** Needs a configured model backend (OpenAI-compatible API or a logged-in headless CLI such as Trae)
+- **−** First build can take several minutes or longer on large repos and consumes model tokens
+- **−** Requires a Git repo with at least one commit and a clean worktree before refresh
+- **−** Answers lag behind code until `rb-refresh` is rerun; `rb-ask` only warns when stale
+
+<sub>no GPU · Docker + Compose · Needs Git, OpenAI-compatible API or headless CLI backend (e.g. Trae) · Models: OpenAI-compatible API, Headless CLI backends (Trae) · [Repo](https://github.com/study8677/repobrain) · [📖 Docs ↗](https://deepwiki.com/study8677/repobrain) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/repobrain/)</sub>
+
 <a name="nitrostack"></a>
-### #&#8288;125 [nitrostack](https://github.com/nitrocloudofficial/nitrostack) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (37) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;125 [nitrostack](https://github.com/nitrocloudofficial/nitrostack) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Nov 2026</sub>
 
 **TypeScript framework for building MCP servers with decorators and DI.**
 
@@ -2269,7 +2269,7 @@ Task Master runs as an MCP server or CLI (task-master) and parses a PRD into str
 <sub>no GPU · Needs Node.js, npm, AI provider API key or Claude Code/Codex CLI · Models: Anthropic, OpenAI, Google Gemini, Perplexity, xAI · safety checks passed 12 of 17 · [Repo](https://github.com/eyaltoledano/claude-task-master) · [📖 Docs ↗](https://tryhamster.com/docs/taskmaster) · [🌐 Site ↗](https://tryhamster.com/product/taskmaster) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-task-master/)</sub>
 
 <a name="figma-context-mcp"></a>
-### #&#8288;127 [figma-context-mcp](https://github.com/glips/figma-context-mcp) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: widely used (82) · Freshness: active (85) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Jun 2026</sub>
+### #&#8288;127 [figma-context-mcp](https://github.com/glips/figma-context-mcp) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: widely used (83) · Freshness: active (85) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Jun 2026</sub>
 
 **MCP server that feeds simplified Figma layout and style data to coding agents.**
 
@@ -2287,7 +2287,7 @@ Framelink MCP for Figma (npm package figma-developer-mcp) is an MCP server that 
 <sub>no GPU · Needs Figma API, Figma personal access token, Node.js (npx) · safety checks passed 16 of 18 · [Repo](https://github.com/glips/figma-context-mcp) · [▶️ Demo ↗](https://youtu.be/6G9yb-LrEqg) · [📖 Docs ↗](https://www.framelink.ai/docs/quickstart) · [🌐 Site ↗](https://www.framelink.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/figma-context-mcp/)</sub>
 
 <a name="mcp-server-chart"></a>
-### #&#8288;128 [mcp-server-chart](https://github.com/antvis/mcp-server-chart) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (53) · Freshness: active (93) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · MIT · Aug 2026</sub>
+### #&#8288;128 [mcp-server-chart](https://github.com/antvis/mcp-server-chart) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (54) · Freshness: active (93) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · MIT · Aug 2026</sub>
 
 **MCP server that renders 26+ AntV chart types from tool calls.**
 
@@ -2305,7 +2305,7 @@ TypeScript MCP server exposing one tool per chart type (line, bar, pie, sankey, 
 <sub>no GPU · Docker + Compose · Needs AntV chart rendering service (antv-studio.alipay.com) or self-hosted GPT-Vis-SSR, AMap service (map tools), Node.js · port 1122 · [Repo](https://github.com/antvis/mcp-server-chart) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-chart/)</sub>
 
 <a name="mcpjungle"></a>
-### #&#8288;129 [mcpjungle](https://github.com/mcpjungle/mcpjungle) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MPL-2.0 · Nov 2026</sub>
+### #&#8288;129 [mcpjungle](https://github.com/mcpjungle/mcpjungle) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MPL-2.0 · Nov 2026</sub>
 
 **Self-hosted MCP gateway that exposes many MCP servers through one endpoint.**
 
@@ -2322,26 +2322,8 @@ MCPJungle is a Go gateway that registers stdio and Streamable HTTP MCP servers o
 
 <sub>no GPU · Docker + Compose · Needs Docker (optional), PostgreSQL (optional), SQLite · port 8080 · [Repo](https://github.com/mcpjungle/mcpjungle) · [📖 Docs ↗](https://docs.mcpjungle.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpjungle/)</sub>
 
-<a name="mysql-mcp-server"></a>
-### #&#8288;130 [mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Oct 2026</sub>
-
-**MCP server that lets AI clients query and explore MySQL databases.**
-
-Python MCP server exposing a MySQL database through tools for running SQL, reading schema metadata and sampling table rows. It runs over stdio or SSE/HTTP, supports SSL and SSH tunneling, and offers a multi-database mode when MYSQL_DATABASE is unset. Two MCP prompts, explore_database and analyze_table, wrap the schema and sampling tools.
-
-- **+** Three tools: execute_sql, get_schema_info, get_table_sample (sample capped at 20 rows)
-- **+** Built-in SSH tunneling and SSL modes (DISABLED to VERIFY_IDENTITY) for remote databases
-- **+** Identifier whitelist on schema and sample tools; passwords and SSH keys masked in logs
-- **+** Installs from PyPI and runs via uvx; stdio and SSE transports
-- **−** execute_sql permits INSERT, UPDATE and DELETE; no read-only mode is documented
-- **−** SSE transport has no authentication and binds 0.0.0.0 by default
-- **−** Single SQL statements only; multi-statement queries like USE db; SELECT fail
-- **−** Claude hosts do not find .env; credentials must go in the MCP config env block
-
-<sub>no GPU · Docker · Needs MySQL server, uv (for uvx), SSH jump host (optional) · port 8000 · [Repo](https://github.com/designcomputer/mysql_mcp_server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mysql-mcp-server/)</sub>
-
 <a name="octocode"></a>
-### #&#8288;131 [octocode](https://github.com/bgauryy/octocode) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (9) · Freshness: active (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 967 · MIT · Aug 2026</sub>
+### #&#8288;130 [octocode](https://github.com/bgauryy/octocode) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (10) · Freshness: active (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 967 · MIT · Aug 2026</sub>
 
 **Code research toolset for agents, as an MCP server and CLI.**
 
@@ -2358,26 +2340,44 @@ Octocode gives coding agents one set of tools for searching and reading code, bo
 
 <sub>no GPU · Needs Node.js 20.12+, GitHub token (optional), Language servers for LSP tools · [Repo](https://github.com/bgauryy/octocode) · [📖 Docs ↗](https://github.com/bgauryy/octocode/blob/main/docs/OCTOCODE_TOOLS.md) · [🌐 Site ↗](https://octocode.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/octocode/)</sub>
 
-<a name="bb-browser"></a>
-### #&#8288;132 [bb-browser](https://github.com/epiral/bb-browser) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (62) · Freshness: recent (78) · Maintenance: weak (7) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · MIT · May 2026</sub>
+<a name="mysql-mcp-server"></a>
+### #&#8288;131 [mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Oct 2026</sub>
 
-**CLI and MCP server that lets agents drive your logged-in Chrome.**
+**MCP server that lets AI clients query and explore MySQL databases.**
 
-bb-browser runs site adapters (one JS file per command) inside your real browser tab, using your existing cookies and login state. It ships 103 commands across 36 platforms, such as Twitter, Reddit, GitHub, arXiv and Zhihu, and also offers general automation (snapshot, click, fill, eval, network capture). Agents call it through a CLI or an MCP stdio server, and a local daemon talks to the browser over CDP.
+Python MCP server exposing a MySQL database through tools for running SQL, reading schema metadata and sampling table rows. It runs over stdio or SSE/HTTP, supports SSL and SSH tunneling, and offers a multi-database mode when MYSQL_DATABASE is unset. Two MCP prompts, explore_database and analyze_table, wrap the schema and sampling tools.
 
-- **+** Reuses your real logged-in browser, so no API keys or separate login flows
-- **+** Community adapters are single JS files in the bb-sites repo, in three auth tiers
-- **+** All commands support --json, --jq filtering and --tab for concurrent tabs
-- **+** Works as both CLI and MCP server for Claude Code, Cursor and similar agents
-- **−** Adapters call undocumented site endpoints and page internals, so site changes can break them
-- **−** Acts with your personal accounts, so agent mistakes or prompt injection affect real logins
-- **−** Needs a running local daemon and your Chrome session, which is awkward for headless servers
-- **−** Daemon --host 0.0.0.0 option exposes browser control beyond localhost if misconfigured
+- **+** Three tools: execute_sql, get_schema_info, get_table_sample (sample capped at 20 rows)
+- **+** Built-in SSH tunneling and SSL modes (DISABLED to VERIFY_IDENTITY) for remote databases
+- **+** Identifier whitelist on schema and sample tools; passwords and SSH keys masked in logs
+- **+** Installs from PyPI and runs via uvx; stdio and SSE transports
+- **−** execute_sql permits INSERT, UPDATE and DELETE; no read-only mode is documented
+- **−** SSE transport has no authentication and binds 0.0.0.0 by default
+- **−** Single SQL statements only; multi-statement queries like USE db; SELECT fail
+- **−** Claude hosts do not find .env; credentials must go in the MCP config env block
 
-<sub>no GPU · Docker · Needs Node.js 18+, Chrome (CDP) with bb-browser extension or daemon, OpenClaw (optional) · port 19824 · [Repo](https://github.com/epiral/bb-browser) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bb-browser/)</sub>
+<sub>no GPU · Docker · Needs MySQL server, uv (for uvx), SSH jump host (optional) · port 8000 · [Repo](https://github.com/designcomputer/mysql_mcp_server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mysql-mcp-server/)</sub>
+
+<a name="mcp-google-map"></a>
+### #&#8288;132 [mcp-google-map](https://github.com/cablate/mcp-google-map) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (2) · Freshness: active (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 502 · MIT · Oct 2026</sub>
+
+**MCP server and CLI exposing 18 read-only Google Maps tools to agents.**
+
+Wraps Google Maps Platform (Places, Routes, Geocoding, weather, air quality, elevation, timezone, static maps) as 18 read-only tools, available over MCP stdio, Streamable HTTP at /mcp, or a stateless `exec` CLI. It also ships three Skills (general map research, travel planning, local SEO) packaged as Codex and Claude Code plugins that call the CLI without an MCP server. Requires Node.js 22+ and your own Google Maps API key.
+
+- **+** Same 18 tools via stdio, HTTP, or CLI; plugins need no MCP setup
+- **+** GOOGLE_MAPS_ENABLED_TOOLS allowlist trims the tool list to save context
+- **+** Composite tools: route optimization up to 25 stops, area exploration, local rank tracking
+- **+** Per-session API key isolation via X-Google-Maps-API-Key header in HTTP mode
+- **−** Needs a billing-enabled Google Cloud project; live calls may be billable
+- **−** Read-only tools only; no write or booking actions
+- **−** Weather availability is limited by region
+- **−** Displaying reviews or photos requires you to handle Google attribution and storage rules
+
+<sub>no GPU · Docker · Needs Node.js 22+, Google Maps Platform API key, Places API (New), Routes API, Geocoding API · port 3000 · [Repo](https://github.com/cablate/mcp-google-map) · [📖 Docs ↗](https://github.com/cablate/mcp-google-map/blob/main/skills/google-maps/references/tools-api.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-google-map/)</sub>
 
 <a name="jadx-mcp-server"></a>
-### #&#8288;133 [jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 850 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;133 [jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 850 · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets LLMs inspect decompiled Android APKs in JADX-GUI.**
 
@@ -2394,8 +2394,26 @@ A Python MCP server that forwards tool calls over HTTP to the JADX-AI-MCP plugin
 
 <sub>no GPU · Needs JADX-AI-MCP plugin, jadx-gui, Java 11+, Python 3.10+, uv · Models: Claude Desktop, OpenAI-compatible APIs via example client · port 8651 · [Repo](https://github.com/zinja-coder/jadx-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jadx-mcp-server/)</sub>
 
+<a name="bb-browser"></a>
+### #&#8288;134 [bb-browser](https://github.com/epiral/bb-browser) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (63) · Freshness: recent (78) · Maintenance: weak (7) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · MIT · May 2026</sub>
+
+**CLI and MCP server that lets agents drive your logged-in Chrome.**
+
+bb-browser runs site adapters (one JS file per command) inside your real browser tab, using your existing cookies and login state. It ships 103 commands across 36 platforms, such as Twitter, Reddit, GitHub, arXiv and Zhihu, and also offers general automation (snapshot, click, fill, eval, network capture). Agents call it through a CLI or an MCP stdio server, and a local daemon talks to the browser over CDP.
+
+- **+** Reuses your real logged-in browser, so no API keys or separate login flows
+- **+** Community adapters are single JS files in the bb-sites repo, in three auth tiers
+- **+** All commands support --json, --jq filtering and --tab for concurrent tabs
+- **+** Works as both CLI and MCP server for Claude Code, Cursor and similar agents
+- **−** Adapters call undocumented site endpoints and page internals, so site changes can break them
+- **−** Acts with your personal accounts, so agent mistakes or prompt injection affect real logins
+- **−** Needs a running local daemon and your Chrome session, which is awkward for headless servers
+- **−** Daemon --host 0.0.0.0 option exposes browser control beyond localhost if misconfigured
+
+<sub>no GPU · Docker · Needs Node.js 18+, Chrome (CDP) with bb-browser extension or daemon, OpenClaw (optional) · port 19824 · [Repo](https://github.com/epiral/bb-browser) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bb-browser/)</sub>
+
 <a name="fetcher-mcp"></a>
-### #&#8288;134 [fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;135 [fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **MCP server that fetches JavaScript-rendered web pages via headless Playwright.**
 
@@ -2413,7 +2431,7 @@ Fetcher MCP exposes fetch_url, fetch_urls and browser_install tools that load pa
 <sub>no GPU · Docker + Compose · Needs Node.js, Playwright Chromium · port 3000 · [Repo](https://github.com/jae-jae/fetcher-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fetcher-mcp/)</sub>
 
 <a name="mcpm-sh"></a>
-### #&#8288;135 [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Oct 2026</sub>
+### #&#8288;136 [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Oct 2026</sub>
 
 **CLI that installs MCP servers once and wires them into clients.**
 
@@ -2430,8 +2448,26 @@ MCPM is a Python CLI that keeps a single global list of MCP servers, installed f
 
 <sub>no GPU · Docker · Needs Python 3.10+ · port 6276 · [Repo](https://github.com/pathintegral-institute/mcpm.sh) · [🌐 Site ↗](https://mcpm.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpm-sh/)</sub>
 
+<a name="discord-mcp"></a>
+### #&#8288;137 [discord-mcp](https://github.com/saseq/discord-mcp) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (5) · Freshness: active (94) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 609 · MIT · Oct 2026</sub>
+
+**MCP server exposing Discord server management and messaging as tools.**
+
+A Java (JDA) Model Context Protocol server that lets MCP clients drive a Discord bot. It exposes tools for messages, channels, categories, threads, forums, roles, moderation, webhooks, invites, emojis, voice channels and scheduled events. It runs as an HTTP server with endpoint /mcp on port 8085, with a legacy stdio mode.
+
+- **+** Wide tool coverage: messaging, roles, moderation, threads, forums, webhooks, permission overwrites, events
+- **+** HTTP singleton mode at :8085/mcp serves multiple clients from one container
+- **+** Optional DISCORD_GUILD_ID makes guildId optional across all tools
+- **+** Setup snippets for Claude Code, Codex CLI, Cursor, n8n, OpenClaw and Claude Desktop
+- **−** Needs your own Discord bot token and a bot added to the server
+- **−** Destructive tools (ban, kick, delete channel, delete role) are exposed with no stated confirmation or scoping
+- **−** Message search scans only the latest 1000 messages, not a server-side index
+- **−** Claude Desktop remote connectors need a public HTTPS endpoint; localhost does not work
+
+<sub>no GPU · Docker + Compose · Needs Discord bot token, Docker or Java with Maven · port 8085 · [Repo](https://github.com/saseq/discord-mcp) · [📖 Docs ↗](https://github.com/SaseQ/discord-mcp/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/discord-mcp/)</sub>
+
 <a name="mcp-server-gateway"></a>
-### #&#8288;136 [mcp-server-gateway](https://github.com/harish-gaggar/mcp-server-gateway) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (3) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 587 · custom license · Oct 2026</sub>
+### #&#8288;138 [mcp-server-gateway](https://github.com/harish-gaggar/mcp-server-gateway) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (4) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 587 · custom license · Oct 2026</sub>
 
 **MCP gateway with per-user OAuth, example MCP servers and a LangGraph agent.**
 
@@ -2449,7 +2485,7 @@ Reference stack for running an MCP gateway that proxies OAuth-authenticated, aud
 <sub>no GPU · Needs Docker Compose v2, Redis, Node.js 20+ (smoke tests), Python 3.10+, GitHub OAuth app (optional), Google OIDC (secure mode) · port 8090 · [Repo](https://github.com/harish-gaggar/mcp-server-gateway) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-gateway/)</sub>
 
 <a name="oc"></a>
-### #&#8288;137 [oc](https://github.com/only-cli/oc) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (2) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 551 · MIT · Oct 2026</sub>
+### #&#8288;139 [oc](https://github.com/only-cli/oc) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (3) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 551 · MIT · Oct 2026</sub>
 
 **CLI that renders web pages as compact numbered text for coding agents.**
 
@@ -2466,26 +2502,8 @@ only-cli (`oc`) is a Node CLI that fetches a URL and prints a numbered, token-bu
 
 <sub>no GPU · Needs Node.js 20+, impers (libcurl-impersonate) · [Repo](https://github.com/only-cli/oc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oc/)</sub>
 
-<a name="discord-mcp"></a>
-### #&#8288;138 [discord-mcp](https://github.com/saseq/discord-mcp) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (4) · Freshness: active (94) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 609 · MIT · Oct 2026</sub>
-
-**MCP server exposing Discord server management and messaging as tools.**
-
-A Java (JDA) Model Context Protocol server that lets MCP clients drive a Discord bot. It exposes tools for messages, channels, categories, threads, forums, roles, moderation, webhooks, invites, emojis, voice channels and scheduled events. It runs as an HTTP server with endpoint /mcp on port 8085, with a legacy stdio mode.
-
-- **+** Wide tool coverage: messaging, roles, moderation, threads, forums, webhooks, permission overwrites, events
-- **+** HTTP singleton mode at :8085/mcp serves multiple clients from one container
-- **+** Optional DISCORD_GUILD_ID makes guildId optional across all tools
-- **+** Setup snippets for Claude Code, Codex CLI, Cursor, n8n, OpenClaw and Claude Desktop
-- **−** Needs your own Discord bot token and a bot added to the server
-- **−** Destructive tools (ban, kick, delete channel, delete role) are exposed with no stated confirmation or scoping
-- **−** Message search scans only the latest 1000 messages, not a server-side index
-- **−** Claude Desktop remote connectors need a public HTTPS endpoint; localhost does not work
-
-<sub>no GPU · Docker + Compose · Needs Discord bot token, Docker or Java with Maven · port 8085 · [Repo](https://github.com/saseq/discord-mcp) · [📖 Docs ↗](https://github.com/SaseQ/discord-mcp/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/discord-mcp/)</sub>
-
 <a name="minimax-mcp"></a>
-### #&#8288;139 [minimax-mcp](https://github.com/minimax-ai/minimax-mcp) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
+### #&#8288;140 [minimax-mcp](https://github.com/minimax-ai/minimax-mcp) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
 
 **MCP server for MiniMax text-to-speech, voice cloning, image and video generation.**
 
@@ -2503,7 +2521,7 @@ Official MiniMax MCP server, run with uvx, that exposes the MiniMax API to MCP c
 <sub>no GPU · Needs MiniMax API key, uv · Models: MiniMax-H3-Image, image-01, MiniMax-Hailuo-02 · [Repo](https://github.com/minimax-ai/minimax-mcp) · [🌐 Site ↗](https://www.minimax.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/minimax-mcp/)</sub>
 
 <a name="git-mcp"></a>
-### #&#8288;140 [git-mcp](https://github.com/idosal/git-mcp) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (71) · Freshness: recent (62) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · May 2026</sub>
+### #&#8288;141 [git-mcp](https://github.com/idosal/git-mcp) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (71) · Freshness: recent (62) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · May 2026</sub>
 
 **Remote MCP server that exposes any GitHub repo's docs and code to AI tools.**
 
@@ -2521,7 +2539,7 @@ GitMCP is a remote MCP server that turns a GitHub repository or GitHub Pages sit
 <sub>no GPU · Needs GitHub, Node.js, pnpm · port 5173 · [Repo](https://github.com/idosal/git-mcp) · [▶️ Demo ↗](https://gitmcp.io) · [🌐 Site ↗](https://gitmcp.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-mcp/)</sub>
 
 <a name="mcp-server"></a>
-### #&#8288;141 [mcp-server](https://github.com/portswigger/mcp-server) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13 · GPL-3.0 · Nov 2026</sub>
+### #&#8288;142 [mcp-server](https://github.com/portswigger/mcp-server) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13 · GPL-3.0 · Nov 2026</sub>
 
 **Burp Suite extension that exposes Burp tools to AI clients over MCP.**
 
@@ -2539,7 +2557,7 @@ A Kotlin Burp Suite extension that runs an MCP server inside Burp, listening on 
 <sub>no GPU · Needs Burp Suite, Java, jar command, Gradle · Models: Claude Desktop, Codex, any MCP client · port 9876 · [Repo](https://github.com/portswigger/mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server/)</sub>
 
 <a name="ref-tools-mcp"></a>
-### #&#8288;142 [ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;143 [ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
 
 **MCP server that searches and reads documentation for coding agents.**
 
@@ -2557,7 +2575,7 @@ Ref MCP exposes two tools, ref_search_documentation and ref_read_url, so a codin
 <sub>no GPU · Docker · Needs Ref API key (api.ref.tools), Node.js / npx · [Repo](https://github.com/ref-tools/ref-tools-mcp) · [🌐 Site ↗](https://ref.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ref-tools-mcp/)</sub>
 
 <a name="mantic-sh"></a>
-### #&#8288;143 [mantic.sh](https://github.com/marcoaapfortes/mantic.sh) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (2) · Freshness: active (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 553 · MIT · Jul 2026</sub>
+### #&#8288;144 [mantic.sh](https://github.com/marcoaapfortes/mantic.sh) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 553 · MIT · Jul 2026</sub>
 
 **Local code search CLI and MCP server that ranks files by intent.**
 
@@ -2575,7 +2593,7 @@ Mantic is a TypeScript CLI and MCP server that ranks repository files for a quer
 <sub>no GPU · Needs Node.js, git · Models: transformers.js local embeddings (optional --semantic) · [Repo](https://github.com/marcoaapfortes/mantic.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantic-sh/)</sub>
 
 <a name="pal-mcp-server"></a>
-### #&#8288;144 [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (77) · Freshness: quiet (23) · Maintenance: weak (5) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Dec 2025</sub>
+### #&#8288;145 [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (77) · Freshness: quiet (23) · Maintenance: weak (5) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Dec 2025</sub>
 
 **MCP server that lets Claude Code, Codex CLI and Cursor call multiple LLMs.**
 
@@ -2593,7 +2611,7 @@ PAL is a Python MCP server that exposes tools such as chat, thinkdeep, planner, 
 <sub>GPU optional · Docker + Compose · Needs Python 3.10+, Git, uv, Provider API key (Gemini, OpenAI, OpenRouter, Azure, X.AI, DIAL) or Ollama · Models: Gemini, OpenAI, Anthropic, Grok, Azure OpenAI · safety checks passed 10 of 12 · [Repo](https://github.com/beehiveinnovations/pal-mcp-server) · [📖 Docs ↗](https://github.com/BeehiveInnovations/pal-mcp-server/blob/main/docs/getting-started.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pal-mcp-server/)</sub>
 
 <a name="mcp-server-qdrant"></a>
-### #&#8288;145 [mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (24) · Freshness: active (86) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;146 [mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (25) · Freshness: active (86) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server that stores and searches semantic memories in Qdrant.**
 
@@ -2611,7 +2629,7 @@ Official Qdrant MCP server exposing two tools, `qdrant-store` and `qdrant-find`,
 <sub>Docker · Needs Qdrant (server or local path), FastEmbed · Models: FastEmbed models, sentence-transformers/all-MiniLM-L6-v2 (default) · port 8000 · [Repo](https://github.com/qdrant/mcp-server-qdrant) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-qdrant/)</sub>
 
 <a name="markdownify-mcp"></a>
-### #&#8288;146 [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (41) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · May 2026</sub>
+### #&#8288;147 [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (42) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · May 2026</sub>
 
 **MCP server that converts PDFs, Office files, audio and web pages to Markdown.**
 
@@ -2629,7 +2647,7 @@ Markdownify is a TypeScript MCP server that wraps Microsoft's markitdown to turn
 <sub>no GPU · Docker · Needs bun, Python, markitdown, repomix · [Repo](https://github.com/zcaceres/markdownify-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/markdownify-mcp/)</sub>
 
 <a name="mcp-neo4j"></a>
-### #&#8288;147 [mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (10) · Freshness: active (96) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 991 · MIT · Sep 2026</sub>
+### #&#8288;148 [mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (11) · Freshness: active (96) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 991 · MIT · Sep 2026</sub>
 
 **MCP servers for querying Neo4j, storing memory, and managing Aura.**
 
@@ -2647,7 +2665,7 @@ Four Python MCP servers from Neo4j Labs: Cypher query execution with schema look
 <sub>no GPU · Needs Neo4j database, APOC plugin (cypher server), Neo4j Aura account (aura-api server) · Models: Any MCP client (Claude Desktop, VS Code, Cursor, Windsurf, Gemini CLI) · [Repo](https://github.com/neo4j-contrib/mcp-neo4j) · [🌐 Site ↗](https://neo4j.com/labs/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-neo4j/)</sub>
 
 <a name="gemini-mcp-tool"></a>
-### #&#8288;148 [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: known (35) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · custom license · Jun 2026</sub>
+### #&#8288;149 [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: known (36) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · custom license · Jun 2026</sub>
 
 **MCP server that lets Claude Code hand large-file analysis to Gemini or Antigravity CLI.**
 
@@ -2665,7 +2683,7 @@ A TypeScript MCP server that wraps the Gemini CLI and, from 2026-06-18, defaults
 <sub>no GPU · Needs Node.js 16+, Gemini CLI or Antigravity CLI (agy) · Models: gemini-2.5-pro (default), Gemini 3.5 Flash (agy backend) · [Repo](https://github.com/jamubc/gemini-mcp-tool) · [📖 Docs ↗](https://jamubc.github.io/gemini-mcp-tool/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-mcp-tool/)</sub>
 
 <a name="mcp-for-argocd"></a>
-### #&#8288;149 [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 608 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;150 [mcp-for-argocd](https://github.com/argoproj-labs/mcp-for-argocd) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 608 · Apache-2.0 · Oct 2026</sub>
 
 **MCP server that lets AI assistants query and manage Argo CD applications.**
 
@@ -2682,8 +2700,26 @@ TypeScript MCP server exposing Argo CD's API as tools: list, get, create, update
 
 <sub>no GPU · Docker · Needs Argo CD instance with API access, Argo CD API token, Node.js 18+ · port 3000 · [Repo](https://github.com/argoproj-labs/mcp-for-argocd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-argocd/)</sub>
 
+<a name="universal-db-mcp"></a>
+### #&#8288;151 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: niche (10) · Freshness: recent (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 945 · MIT · Mar 2026</sub>
+
+**MCP and REST server that lets AI assistants query 17 databases.**
+
+Node.js server that exposes MySQL, PostgreSQL, Redis, Oracle, SQL Server, MongoDB, SQLite and ten other databases to AI clients through MCP (stdio, SSE, Streamable HTTP) and a REST API. Tools cover query execution, schema and table info, sample data and enum values. It runs read-only by default, with configurable permission modes, schema caching and data masking.
+
+- **+** Covers 17 databases, including Oracle, ClickHouse, TiDB and several Chinese domestic databases
+- **+** Read-only by default, with safe, readwrite, full and custom permission modes
+- **+** Offers stdio, SSE, Streamable HTTP and REST access from one package
+- **+** Schema caching and masking of phone, email, ID card and bank card data
+- **−** Database passwords are passed as CLI args, URL query strings or headers
+- **−** Performance table gives no baseline, so the quoted speedups are unverified
+- **−** Write and DDL access is one flag away, so it relies on read-only DB accounts
+- **−** Requires Node.js 20 or newer
+
+<sub>no GPU · Compose · Needs Node.js >= 20, A target database (MySQL, PostgreSQL, etc.) · port 3000 · [Repo](https://github.com/anarkh-lee/universal-db-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/universal-db-mcp/)</sub>
+
 <a name="mcp-google-sheets"></a>
-### #&#8288;150 [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (11) · Freshness: recent (74) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · May 2026</sub>
+### #&#8288;152 [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (12) · Freshness: recent (74) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · May 2026</sub>
 
 **MCP server exposing Google Sheets and Drive operations to MCP clients.**
 
@@ -2701,7 +2737,7 @@ Python MCP server that lets clients such as Claude Desktop read, write, create, 
 <sub>no GPU · Docker · Needs Google Sheets API, Google Drive API, uv, Google Cloud service account or OAuth credentials · [Repo](https://github.com/xing5/mcp-google-sheets) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-google-sheets/)</sub>
 
 <a name="devdocs"></a>
-### #&#8288;151 [devdocs](https://github.com/cyberagiinc/devdocs) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: known (32) · Freshness: quiet (28) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;153 [devdocs](https://github.com/cyberagiinc/devdocs) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: known (33) · Freshness: quiet (28) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Feb 2026</sub>
 
 **Documentation crawler that serves scraped docs to LLMs through an MCP server.**
 
@@ -2719,7 +2755,7 @@ DevDocs crawls a documentation site to a chosen depth of 1 to 5 levels using Cra
 <sub>no GPU · Docker + Compose · Needs Docker, Crawl4AI · Models: Claude (via MCP), Cline, Roo Code · port 3001 · [Repo](https://github.com/cyberagiinc/devdocs) · [🌐 Site ↗](https://www.cyberagi.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devdocs/)</sub>
 
 <a name="apple-docs-mcp"></a>
-### #&#8288;152 [apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (20) · Freshness: slowing (39) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Mar 2026</sub>
+### #&#8288;154 [apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (21) · Freshness: slowing (39) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Mar 2026</sub>
 
 **MCP server for searching Apple developer docs and WWDC transcripts.**
 
@@ -2737,7 +2773,7 @@ A TypeScript MCP server, run with npx over stdio, that gives coding assistants 1
 <sub>no GPU · Needs Node.js, npx, Apple Developer Documentation public endpoints · [Repo](https://github.com/kimsungwhee/apple-docs-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apple-docs-mcp/)</sub>
 
 <a name="vectorcode"></a>
-### #&#8288;153 [vectorcode](https://github.com/davidyz/vectorcode) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: niche (7) · Freshness: quiet (26) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 875 · MIT · Dec 2025</sub>
+### #&#8288;155 [vectorcode](https://github.com/davidyz/vectorcode) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: niche (8) · Freshness: quiet (26) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 875 · MIT · Dec 2025</sub>
 
 **Code repository indexer that feeds relevant project context to coding LLMs.**
 
