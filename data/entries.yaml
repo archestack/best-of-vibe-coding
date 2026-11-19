@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-18
+updated_at: 2026-11-19
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -11814,7 +11814,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 45
   - id: anti-slop
     repo: miqdadbadjuber/anti-slop
     name: anti-slop
@@ -13580,7 +13580,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 24
+    score: 23
   - id: claude-code-workflows
     repo: oneredoak/claude-code-workflows
     name: claude-code-workflows
@@ -17086,7 +17086,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 43
+    score: 42
   - id: lint
     repo: shadcn-ui/lint
     name: lint
@@ -19090,7 +19090,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 28
+    score: 27
   - id: sidekick-nvim
     repo: folke/sidekick.nvim
     name: sidekick.nvim
@@ -25364,7 +25364,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 47
+    score: 46
   - id: ai-devkit
     repo: codeaholicguy/ai-devkit
     name: ai-devkit
@@ -47945,7 +47945,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 22
+    score: 21
   - id: claude-skill-web-clone
     repo: jane-xiaoer/claude-skill-web-clone
     name: claude-skill-web-clone
@@ -47992,7 +47992,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 29
+    score: 28
   - id: sidecar
     repo: marcus/sidecar
     name: sidecar
@@ -49242,7 +49242,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 45
   - id: react-native-firebase
     repo: invertase/react-native-firebase
     name: react-native-firebase
@@ -50921,7 +50921,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 52
+    score: 51
   - id: armeria
     repo: line/armeria
     name: armeria
@@ -51348,7 +51348,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 37
+    score: 36
   - id: graphql-php
     repo: webonyx/graphql-php
     name: graphql-php
@@ -52633,7 +52633,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 21
+    score: 20
   - id: bernstein
     repo: sipyourdrink-ltd/bernstein
     name: bernstein
@@ -54921,7 +54921,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 36
+    score: 35
   - id: mysti
     repo: deepmyst/mysti
     name: mysti
@@ -58766,7 +58766,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 4
+    score: 3
   - id: pilot
     repo: qf-studio/pilot
     name: pilot
@@ -60665,7 +60665,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 37
+    score: 36
   - id: backlog-md
     repo: mrlesk/backlog.md
     name: backlog.md
@@ -61686,7 +61686,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 74
+    score: 73
   - id: meteor
     repo: meteor/meteor
     name: meteor
@@ -63480,7 +63480,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 29
+    score: 28
   - id: rag-postgres-openai-python
     repo: azure-samples/rag-postgres-openai-python
     name: rag-postgres-openai-python
@@ -66530,7 +66530,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 30
+    score: 29
   - id: extro
     repo: turbostarter/extro
     name: extro
