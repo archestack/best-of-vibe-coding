@@ -93,8 +93,26 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
+<a name="azure-search-openai-demo"></a>
+### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+
+**RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
+
+Python backend with a web frontend that answers questions over your own documents using Azure OpenAI (gpt-5.4-mini in the sample) and Azure AI Search. It shows citations and the thought process for each answer and exposes retrieval settings in the UI. Deployment uses the Azure Developer CLI (`azd up`), which provisions resources and indexes the sample Zava data.
+
+- **+** Multi-turn chat with citations and per-answer thought process
+- **+** UI settings let you tweak prompts and retrieval options while testing
+- **+** Optional multimodal, speech, Entra login with access control, and Cosmos DB chat history
+- **+** Includes sample data plus docs on evaluation, monitoring and productionizing
+- **−** Tied to Azure services; no other model or search providers listed
+- **−** azd up provisions paid resources, mainly AI Search, that bill immediately
+- **−** README advises against production use without extra security work
+- **−** Deploying needs Azure role assignment and deployment write permissions
+
+<sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
+
 <a name="manticoresearch"></a>
-### #&#8288;6 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;7 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
 
 **C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
 
@@ -112,7 +130,7 @@ Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSO
 <sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
 
 <a name="paradedb"></a>
-### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;8 [paradedb](https://github.com/paradedb/paradedb) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
 
 **Postgres extension adding BM25 full-text, vector and hybrid search.**
 
@@ -128,24 +146,6 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 - **−** Prisma integration is not yet available
 
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
-
-<a name="azure-search-openai-demo"></a>
-### #&#8288;8 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
-
-**RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
-
-Python backend with a web frontend that answers questions over your own documents using Azure OpenAI (gpt-5.4-mini in the sample) and Azure AI Search. It shows citations and the thought process for each answer and exposes retrieval settings in the UI. Deployment uses the Azure Developer CLI (`azd up`), which provisions resources and indexes the sample Zava data.
-
-- **+** Multi-turn chat with citations and per-answer thought process
-- **+** UI settings let you tweak prompts and retrieval options while testing
-- **+** Optional multimodal, speech, Entra login with access control, and Cosmos DB chat history
-- **+** Includes sample data plus docs on evaluation, monitoring and productionizing
-- **−** Tied to Azure services; no other model or search providers listed
-- **−** azd up provisions paid resources, mainly AI Search, that bill immediately
-- **−** README advises against production use without extra security work
-- **−** Deploying needs Azure role assignment and deployment write permissions
-
-<sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="auto-ontology"></a>
 ### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
@@ -238,7 +238,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="orama"></a>
-### #&#8288;14 [orama](https://github.com/oramasearch/orama) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (71) · Freshness: recent (75) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+### #&#8288;14 [orama](https://github.com/oramasearch/orama) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: popular (72) · Freshness: recent (75) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
 
 **In-process full-text, vector and hybrid search library for JavaScript.**
 
@@ -273,25 +273,8 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
-<a name="azure-search-openai-javascript"></a>
-### #&#8288;16 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · Oct 2026</sub>
-
-**TypeScript RAG on Azure AI Search with separate indexer and search services.**
-
-The Node.js counterpart of the Azure RAG sample: a search API, an indexer service and a web app that answer chat and Q&A questions over your documents with citations, using Azure AI Search and Azure OpenAI through LangChain.js. azd up provisions Container Apps for the backend and a Static Web App for the frontend, and the search API speaks the AI chat HTTP protocol so the Python backend can replace it. For TypeScript teams on Azure.
-
-- **+** Indexer, search API and web app are separate services with their own deploys
-- **+** Search API follows the AI chat HTTP protocol; the backend is swappable
-- **+** Tests included; Codespaces and dev container configs
-- **−** Cannot run locally until azd up has provisioned Azure resources
-- **−** No authentication shipped; Entra setup is a linked tutorial
-- **−** Azure OpenAI and Azure AI Search only
-- **−** Less active than the Python sample (seed stars 322 vs 7776)
-
-<sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
-
 <a name="ai-starter-kit"></a>
-### #&#8288;17 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (82) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;16 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (82) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -306,6 +289,23 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 - **−** Heavy setup: pyenv, Poetry, a parsing service and OCR system packages
 
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
+
+<a name="azure-search-openai-javascript"></a>
+### #&#8288;17 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · Oct 2026</sub>
+
+**TypeScript RAG on Azure AI Search with separate indexer and search services.**
+
+The Node.js counterpart of the Azure RAG sample: a search API, an indexer service and a web app that answer chat and Q&A questions over your documents with citations, using Azure AI Search and Azure OpenAI through LangChain.js. azd up provisions Container Apps for the backend and a Static Web App for the frontend, and the search API speaks the AI chat HTTP protocol so the Python backend can replace it. For TypeScript teams on Azure.
+
+- **+** Indexer, search API and web app are separate services with their own deploys
+- **+** Search API follows the AI chat HTTP protocol; the backend is swappable
+- **+** Tests included; Codespaces and dev container configs
+- **−** Cannot run locally until azd up has provisioned Azure resources
+- **−** No authentication shipped; Entra setup is a linked tutorial
+- **−** Azure OpenAI and Azure AI Search only
+- **−** Less active than the Python sample (seed stars 322 vs 7776)
+
+<sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
 ### #&#8288;18 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (50) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
