@@ -41,7 +41,7 @@ Sonic is a Rust search backend that indexes text pushed over its Sonic Channel T
 <sub>Rust · Docker · [Repo](https://github.com/valeriansaliou/sonic) · [▶️ Demo ↗](https://help.crisp.chat/) · [📖 Docs ↗](https://github.com/valeriansaliou/sonic/blob/master/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sonic/)</sub>
 
 <a name="xberg"></a>
-### 🥉 [xberg](https://github.com/xberg-io/xberg) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
+### 🥉 [xberg](https://github.com/xberg-io/xberg) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
 
 **Rust document extraction engine with OCR, tables and 15 language bindings.**
 
@@ -148,7 +148,7 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
 <a name="auto-ontology"></a>
-### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Ontology layer that grounds text-to-SQL agents in certified business definitions.**
 
@@ -291,7 +291,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;17 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (82) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;17 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (82) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -324,25 +324,8 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
-<a name="nextjs-openai-doc-search"></a>
-### #&#8288;19 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (32) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
-
-**Build-time embeddings of your MDX docs into Supabase pgvector.**
-
-A Next.js starter that chunks the .mdx files in pages/ at build time, embeds each section with OpenAI and stores vectors in Supabase pgvector, skipping files whose checksum has not changed. At runtime an Edge function embeds the question, runs a similarity search and streams a completion with the matched sections in the prompt; the schema ships as a Supabase migration. For teams adding chat search to a Next.js docs site.
-
-- **+** Checksum table avoids re-embedding unchanged files on every build
-- **+** pgvector schema is a checked-in Supabase migration
-- **+** One secret (OPENAI_KEY) when deployed with the Vercel Supabase integration
-- **−** Uses the legacy OpenAI text completion endpoint; expect to port it
-- **−** Only .mdx in pages/ is indexed; other sources need code
-- **−** No auth, no conversation history, no tests
-- **−** Design dates from 2023; last commit 2026-05
-
-<sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
-
 <a name="nano-graphrag"></a>
-### #&#8288;20 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: known (44) · Freshness: quiet (18) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;19 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (44) · Freshness: quiet (18) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Compact Python GraphRAG library with swappable LLM, vector and graph storage.**
 
@@ -358,6 +341,23 @@ nano-graphrag is a Python library that builds a knowledge graph from text, gener
 - **−** Library only, no server or UI; last release was 2024-10-01
 
 <sub>Python, OpenAI, Azure OpenAI, Amazon Bedrock, DeepSeek · Needs OpenAI API key (default), Neo4j (optional) · [Repo](https://github.com/gusye1234/nano-graphrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nano-graphrag/)</sub>
+
+<a name="nextjs-openai-doc-search"></a>
+### #&#8288;20 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (32) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+
+**Build-time embeddings of your MDX docs into Supabase pgvector.**
+
+A Next.js starter that chunks the .mdx files in pages/ at build time, embeds each section with OpenAI and stores vectors in Supabase pgvector, skipping files whose checksum has not changed. At runtime an Edge function embeds the question, runs a similarity search and streams a completion with the matched sections in the prompt; the schema ships as a Supabase migration. For teams adding chat search to a Next.js docs site.
+
+- **+** Checksum table avoids re-embedding unchanged files on every build
+- **+** pgvector schema is a checked-in Supabase migration
+- **+** One secret (OPENAI_KEY) when deployed with the Vercel Supabase integration
+- **−** Uses the legacy OpenAI text completion endpoint; expect to port it
+- **−** Only .mdx in pages/ is indexed; other sources need code
+- **−** No auth, no conversation history, no tests
+- **−** Design dates from 2023; last commit 2026-05
+
+<sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
 ### #&#8288;21 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (8) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>

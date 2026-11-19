@@ -111,7 +111,7 @@ Mirage gives AI agents a single Unix-style shell over mounted services such as S
 <sub>TypeScript · Needs E2B (optional sandbox runtime), Credentials for mounted services (S3, Slack, Gmail) · Docker · env example file · [Repo](https://github.com/strukto-ai/mirage) · [📖 Docs ↗](https://docs.mirage.strukto.ai) · [🌐 Site ↗](https://www.strukto.ai/mirage) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mirage/)</sub>
 
 <a name="computer"></a>
-### #&#8288;7 [computer](https://github.com/cloudflare/computer) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · MIT · Nov 2026</sub>
+### #&#8288;7 [computer](https://github.com/cloudflare/computer) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · MIT · Nov 2026</sub>
 
 **Durable Object SQLite filesystem with container, shell and JS execution backends.**
 
@@ -129,7 +129,7 @@ A TypeScript library that keeps a virtual filesystem in a Cloudflare Durable Obj
 <sub>TypeScript · Needs Cloudflare Workers, Durable Objects, Dynamic Workers, Cloudflare Containers · [Repo](https://github.com/cloudflare/computer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer/)</sub>
 
 <a name="agent-autoloop"></a>
-### #&#8288;8 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
+### #&#8288;8 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · MIT · Nov 2026</sub>
 
 **Background scheduler that runs CLI agents on events and asks you only when unsure.**
 
@@ -217,8 +217,26 @@ Mercury Agent is a TypeScript agent that runs as one background process on your 
 
 <sub>TypeScript, DeepSeek, OpenAI, Anthropic, Grok · Needs Node.js 22+ (npm install only), signal-cli (Signal channel), LLM provider API key or local Ollama/LM Studio · env example file · [Repo](https://github.com/cosmicstack-labs/mercury-agent) · [📖 Docs ↗](https://mercuryagent.sh/docs) · [🌐 Site ↗](https://mercuryagent.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mercury-agent/)</sub>
 
+<a name="soduwork"></a>
+### #&#8288;13 [soduwork](https://github.com/mdiri-ai/soduwork) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · MIT · Nov 2026</sub>
+
+**Team workspace that routes requests to agent harnesses with AI review.**
+
+SoduWork is a Hub, admin console and desktop client that dispatches requests to agent harnesses such as Pi, OpenCode, Qwen Code, Kimi Code and Codex. Each request carries acceptance criteria, a separate AI review checks them, and a person signs off. Working methods can be saved as versioned, reviewable plugins shared across a team. The README describes it as a public beta.
+
+- **+** Mixes harnesses and models per step, with a different model reviewing the work
+- **+** Plugins are versioned, reviewed before sharing, and can be granted or revoked
+- **+** Roles, usage and cost tracking, and an audit log are built in
+- **+** Docker deploy script starts Hub, admin console and PostgreSQL on one server
+- **−** Public beta; README advises evaluating before production use
+- **−** Running from source needs Python 3.12+, Node.js 22.19+ and Git
+- **−** Hub usage accounting and update polling cannot be disabled
+- **−** Runners are not a general sandbox; isolation depends on harness and environment
+
+<sub>JavaScript, OpenAI-compatible chat models, DeepSeek, Codex (own OpenAI account), self-hosted models · Needs Python 3.12+, Node.js 22.19+, Git, PostgreSQL (Docker deploy) · [Repo](https://github.com/mdiri-ai/soduwork) · [▶️ Demo ↗](https://soduwork.ai) · [📖 Docs ↗](https://dev.soduwork.ai) · [🌐 Site ↗](https://soduwork.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/soduwork/)</sub>
+
 <a name="agentconnect"></a>
-### #&#8288;13 [agentconnect](https://github.com/agentconnect-md/agentconnect) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;14 [agentconnect](https://github.com/agentconnect-md/agentconnect) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Nov 2026</sub>
 
 **Platform for teams and multiple coding agents to work together in chat and Git tools.**
 
@@ -236,7 +254,7 @@ AgentConnect connects agent runtimes such as Claude Code, Codex, Grok Build, Dee
 <sub>TypeScript, Claude Code, Codex, Grok Build, DeepSeek · Needs PostgreSQL, Logto (browser authentication), Jev (agent routing and model selection) · Docker · env example file · [Repo](https://github.com/agentconnect-md/agentconnect) · [▶️ Demo ↗](https://app.agentconnect.md) · [📖 Docs ↗](https://www.agentconnect.md/docs) · [🌐 Site ↗](https://www.agentconnect.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agentconnect/)</sub>
 
 <a name="google-adk-recipes"></a>
-### #&#8288;14 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;15 [adk-recipes](https://github.com/google/adk-recipes) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Nov 2026</sub>
 
 **Runnable Agent Development Kit recipes, from single patterns to deployable agents.**
 
@@ -252,24 +270,6 @@ A recipe collection for Google's Agent Development Kit: core/ holds single-patte
 - **−** Mixed languages and maturity across folders
 
 <sub>Python, google, google-adk · Needs google-adk, google-api-key-or-vertex-ai · [Repo](https://github.com/google/adk-recipes) · [📖 Docs ↗](https://adk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/google-adk-recipes/)</sub>
-
-<a name="soduwork"></a>
-### #&#8288;15 [soduwork](https://github.com/mdiri-ai/soduwork) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
-
-**Team workspace that routes requests to agent harnesses with AI review.**
-
-SoduWork is a Hub, admin console and desktop client that dispatches requests to agent harnesses such as Pi, OpenCode, Qwen Code, Kimi Code and Codex. Each request carries acceptance criteria, a separate AI review checks them, and a person signs off. Working methods can be saved as versioned, reviewable plugins shared across a team. The README describes it as a public beta.
-
-- **+** Mixes harnesses and models per step, with a different model reviewing the work
-- **+** Plugins are versioned, reviewed before sharing, and can be granted or revoked
-- **+** Roles, usage and cost tracking, and an audit log are built in
-- **+** Docker deploy script starts Hub, admin console and PostgreSQL on one server
-- **−** Public beta; README advises evaluating before production use
-- **−** Running from source needs Python 3.12+, Node.js 22.19+ and Git
-- **−** Hub usage accounting and update polling cannot be disabled
-- **−** Runners are not a general sandbox; isolation depends on harness and environment
-
-<sub>JavaScript, OpenAI-compatible chat models, DeepSeek, Codex (own OpenAI account), self-hosted models · Needs Python 3.12+, Node.js 22.19+, Git, PostgreSQL (Docker deploy) · [Repo](https://github.com/mdiri-ai/soduwork) · [▶️ Demo ↗](https://soduwork.ai) · [📖 Docs ↗](https://dev.soduwork.ai) · [🌐 Site ↗](https://soduwork.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/soduwork/)</sub>
 
 <a name="xmcp"></a>
 ### #&#8288;16 [xmcp](https://github.com/basementstudio/xmcp) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
@@ -290,7 +290,7 @@ xmcp is a TypeScript framework for writing MCP servers where each tool, prompt o
 <sub>TypeScript · Needs Node.js · [Repo](https://github.com/basementstudio/xmcp) · [📖 Docs ↗](https://xmcp.dev/docs) · [🌐 Site ↗](https://xmcp.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xmcp/)</sub>
 
 <a name="agent-swarm"></a>
-### #&#8288;17 [agent-swarm](https://github.com/desplega-ai/agent-swarm) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;17 [agent-swarm](https://github.com/desplega-ai/agent-swarm) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Lead agent that delegates tasks to Claude Code or Codex workers in containers.**
 
@@ -308,7 +308,7 @@ Agent Swarm runs a lead agent that takes tasks from Slack, GitHub/GitLab, email,
 <sub>TypeScript, Claude Code, Codex, pi, opencode · Needs Docker, Docker Compose v2, Bun (installer), Slack/GitHub/other integrations (optional) · Docker · env example file · [Repo](https://github.com/desplega-ai/agent-swarm) · [📖 Docs ↗](https://docs.agent-swarm.dev) · [🌐 Site ↗](https://agent-swarm.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-swarm/)</sub>
 
 <a name="penguin-harness"></a>
-### #&#8288;18 [penguin-harness](https://github.com/prism-shadow/penguin-harness) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;18 [penguin-harness](https://github.com/prism-shadow/penguin-harness) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · Apache-2.0 · Nov 2026</sub>
 
 **Agent framework that evolves an agent's prompts, skills and tools against benchmarks.**
 
@@ -360,7 +360,7 @@ AgenticX is a Python agent SDK and `agx` CLI with a FastAPI/SSE Studio server, c
 <sub>Python, OpenAI, Anthropic, Ollama, Gemini · Needs Python 3.10+, Redis (optional), PostgreSQL or MySQL (Enterprise), Chroma (Desktop knowledge base default), Docker or Microsandbox (optional sandbox) · Docker · [Repo](https://github.com/demondamon/agenticx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agenticx/)</sub>
 
 <a name="rome"></a>
-### #&#8288;21 [rome](https://github.com/rome-os/rome) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 906 · MIT · Nov 2026</sub>
+### #&#8288;21 [rome](https://github.com/rome-os/rome) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 907 · MIT · Nov 2026</sub>
 
 **Agent runtime where agents build and keep installable apps and actions.**
 
@@ -449,8 +449,26 @@ Commonly is a chat workspace where teammates join a pod by link and @mention age
 
 <sub>JavaScript, Claude Code, Codex, OpenCode · Needs Docker, Docker Compose v2, MongoDB, PostgreSQL, bubblewrap (Linux agents) · env example file · [Repo](https://github.com/team-commonly/commonly) · [▶️ Demo ↗](https://commonly.me) · [📖 Docs ↗](https://docs.commonly.me/quickstart) · [🌐 Site ↗](https://commonly.me) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/commonly/)</sub>
 
+<a name="opencrabs"></a>
+### #&#8288;26 [opencrabs](https://github.com/opencrabs/opencrabs) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+
+**Rust terminal AI agent with multi-provider LLM support and local memory.**
+
+OpenCrabs is a single Rust binary that runs an LLM agent in a Ratatui terminal UI. It calls providers directly over HTTPS (Anthropic, OpenAI, Copilot, OpenRouter, Gemini, local Ollama or LM Studio and others), with fallback chains, prompt caching and auto-compaction. State is kept in local SQLite with a 3-tier memory, cron jobs, a /goal loop and an A2A protocol.
+
+- **+** Single 34-36 MB binary with no Node runtime; data stays in ~/.opencrabs
+- **+** Many providers plus fallback chains and any OpenAI-compatible local endpoint
+- **+** Hybrid FTS5 and vector memory search with published benchmark reports
+- **+** Local whisper.cpp speech-to-text; README states zero telemetry
+- **−** Large feature surface (A2A, cron, epistemic engine) makes configuration heavy
+- **−** No Docker image or compose file detected; install is binary or source build
+- **−** Benchmarks and framework comparisons are self-reported by the project
+- **−** Terminal-first; no web UI is described in the visible README
+
+<sub>Rust, Anthropic Claude, OpenAI, GitHub Copilot, OpenRouter · Needs SQLite (embedded), LLM provider API or local LLM server · [Repo](https://github.com/opencrabs/opencrabs) · [📖 Docs ↗](https://docs.opencrabs.com) · [🌐 Site ↗](https://opencrabs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opencrabs/)</sub>
+
 <a name="ai-town"></a>
-### #&#8288;26 [ai-town](https://github.com/a16z-infra/ai-town) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
+### #&#8288;27 [ai-town](https://github.com/a16z-infra/ai-town) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
 
 **Simulated pixel-art town where LLM characters chat, remember and socialize.**
 
@@ -468,7 +486,7 @@ AI Town is a TypeScript starter for a Generative Agents-style simulation: AI cha
 <sub>TypeScript, Ollama (llama3, mxbai-embed-large), OpenAI, Together.ai, OpenAI-compatible APIs · Needs Convex, Ollama, Node.js 18, Clerk (optional), Replicate (optional) · Docker · sign-in: Clerk · [Repo](https://github.com/a16z-infra/ai-town) · [▶️ Demo ↗](https://www.convex.dev/ai-town) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-town/)</sub>
 
 <a name="nasiko"></a>
-### #&#8288;27 [nasiko](https://github.com/nasiko-labs/nasiko) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (84) · Freshness: active (92) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
+### #&#8288;28 [nasiko](https://github.com/nasiko-labs/nasiko) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (84) · Freshness: active (92) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
 
 **Control plane that tracks cost and routes LLM calls for coding agents.**
 
@@ -486,7 +504,7 @@ Nasiko is a single Rust server and CLI that discovers installed coding harnesses
 <sub>Rust, OpenAI, Anthropic · Needs Docker, Postgres, Redis, S3 (RustFS), OTel Collector (optional), Tempo (optional), Loki (optional), Rust toolchain (for CLI) · env example file · [Repo](https://github.com/nasiko-labs/nasiko) · [📖 Docs ↗](https://docs.nasiko.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nasiko/)</sub>
 
 <a name="open-agent-email"></a>
-### #&#8288;28 [open-agent-email](https://github.com/anil-matcha/open-agent-email) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;29 [open-agent-email](https://github.com/anil-matcha/open-agent-email) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Oct 2026</sub>
 
 **Self-hosted email inboxes for AI agents with an approval gate.**
 
@@ -504,7 +522,7 @@ Runs a FastAPI server with its own SMTP listener on port 25 that gives each agen
 <sub>Python · Needs SMTP relay (e.g. Amazon SES), PostgreSQL (optional), Node.js (dashboard) · [Repo](https://github.com/anil-matcha/open-agent-email) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agent-email/)</sub>
 
 <a name="ms-agent"></a>
-### #&#8288;29 [ms-agent](https://github.com/modelscope/ms-agent) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (61) · Freshness: active (95) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;30 [ms-agent](https://github.com/modelscope/ms-agent) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (61) · Freshness: active (95) · Maintenance: patchy (40) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Nov 2026</sub>
 
 **Python agent framework with CLI, TUI and WebUI, skills, sub-agents and MCP.**
 
@@ -522,7 +540,7 @@ MS-Agent is a Python SDK and harness for long-running agents. It handles plannin
 <sub>Python, ModelScope, multiple model providers, Anthropic API format, multimodal input (image, video) · Needs Python 3.12+ (WebUI), Node.js 22.22.0+, pnpm 10.17.1, uv 0.5+, LLM provider API key (ModelScope by default) · Docker · env example file · [Repo](https://github.com/modelscope/ms-agent) · [▶️ Demo ↗](https://modelscope.cn/mcp/playground) · [📖 Docs ↗](https://ms-agent-en.readthedocs.io) · [🌐 Site ↗](https://modelscope.github.io/ms-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ms-agent/)</sub>
 
 <a name="opengenerativeui"></a>
-### #&#8288;30 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Oct 2026</sub>
+### #&#8288;31 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Oct 2026</sub>
 
 **Chat interface that answers with generated interactive UI, charts, maps and tools.**
 
@@ -539,8 +557,26 @@ A Next.js and CopilotKit chat frontend backed by a Python Deep Agent (FastAPI). 
 
 <sub>TypeScript, OpenAI chat-latest, jev-latest · Needs OpenAI API, Jev router (TYPESAFE_API_KEY), Node.js 22+, pnpm 9+, Python 3.12+, uv · Docker · env example file · [Repo](https://github.com/copilotkit/openintelligentui) · [📖 Docs ↗](https://github.com/CopilotKit/OpenIntelligentUI/blob/main/docs/README.md) · [🌐 Site ↗](https://copilotkit.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengenerativeui/)</sub>
 
+<a name="create-context-graph"></a>
+### #&#8288;32 [create-context-graph](https://github.com/neo4j-labs/create-context-graph) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 749 · Apache-2.0 · Oct 2026</sub>
+
+**CLI that scaffolds domain-specific FastAPI and Next.js apps on a Neo4j graph.**
+
+An interactive CLI (uvx or npx) that generates a full-stack app from a domain ontology: a FastAPI backend with an agent, and a Next.js frontend with streaming chat, graph visualization and a document browser. You pick one of 27 industry domains or describe a custom one, plus one of eight agent frameworks. Memory runs on hosted NAMS or self-hosted Neo4j, and data can be imported from sources such as GitHub, Slack and Jira.
+
+- **+** Eight agent frameworks selectable at scaffold time, including PydanticAI, LangGraph, CrewAI and Google ADK
+- **+** 27 prebuilt domain ontologies with sample data, plus LLM-generated custom domains
+- **+** Twelve import connectors, including GitHub, Slack, Jira, Linear, Claude Code and ChatGPT exports
+- **+** Optional MCP server config so Claude Desktop can query the same graph
+- **−** Experimental Neo4j Labs project, not officially supported
+- **−** Default NAMS backend needs a hosted API key and cannot write native edges
+- **−** On NAMS, GDS endpoints and arbitrary Cypher writes return 501
+- **−** No tagged release published
+
+<sub>Python, Anthropic, OpenAI, Google Gemini, LiteLLM providers (Bedrock, Vertex AI, Ollama, Groq, Together) · Needs Neo4j 5+ (self-hosted) or NAMS hosted memory, Python 3.11+, Node.js 18+, Anthropic, OpenAI or Google API key · [Repo](https://github.com/neo4j-labs/create-context-graph) · [📖 Docs ↗](https://create-context-graph.dev/) · [🌐 Site ↗](https://create-context-graph.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/create-context-graph/)</sub>
+
 <a name="exo"></a>
-### #&#8288;31 [exo](https://github.com/exoharness/exo) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
+### #&#8288;33 [exo](https://github.com/exoharness/exo) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
 
 **Runtime that hosts Codex, Claude Code or Pi agents behind an API.**
 
@@ -558,7 +594,7 @@ Exo is a Rust runtime that turns a markdown agent definition into a hosted agent
 <sub>Rust, Codex harness, Claude Code harness, Pi harness, OpenAI · Needs Model provider API key (e.g. OPENAI_API_KEY) · env example file · [Repo](https://github.com/exoharness/exo) · [📖 Docs ↗](https://exoharness.ai/docs) · [🌐 Site ↗](https://exoharness.ai/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exo/)</sub>
 
 <a name="personal-agent-template"></a>
-### #&#8288;32 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 495 · MIT · Nov 2026</sub>
+### #&#8288;34 [personal-agent-template](https://github.com/vercel-labs/personal-agent-template) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 495 · MIT · Nov 2026</sub>
 
 **Nuxt and Eve personal agent with web chat, Slack, GitHub, Linear and memory.**
 
@@ -576,7 +612,7 @@ A forkable template for a personal agent built on the Eve agent framework and Nu
 <sub>TypeScript · Needs Node.js 24+, pnpm, PostgreSQL (NuxtHub), Vercel Blob, Vercel Connect, Better Auth, Eve · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template) · [📖 Docs ↗](https://github.com/vercel-labs/personal-agent-template/blob/main/docs/CUSTOMIZATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/personal-agent-template/)</sub>
 
 <a name="commerce-agents"></a>
-### #&#8288;33 [commerce-agents](https://github.com/anthropics/commerce-agents) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;35 [commerce-agents](https://github.com/anthropics/commerce-agents) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Aug 2026</sub>
 
 **Reference shopping and merchant agents for commerce, built on Claude.**
 
@@ -593,26 +629,8 @@ Python reference implementation of two Claude agents: a customer-facing shopping
 
 <sub>Python, Claude · Needs Anthropic API key, Python 3.11+, Node 22 · env example file · [Repo](https://github.com/anthropics/commerce-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/commerce-agents/)</sub>
 
-<a name="create-context-graph"></a>
-### #&#8288;34 [create-context-graph](https://github.com/neo4j-labs/create-context-graph) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (13) · Freshness: active (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 748 · Apache-2.0 · Oct 2026</sub>
-
-**CLI that scaffolds domain-specific FastAPI and Next.js apps on a Neo4j graph.**
-
-An interactive CLI (uvx or npx) that generates a full-stack app from a domain ontology: a FastAPI backend with an agent, and a Next.js frontend with streaming chat, graph visualization and a document browser. You pick one of 27 industry domains or describe a custom one, plus one of eight agent frameworks. Memory runs on hosted NAMS or self-hosted Neo4j, and data can be imported from sources such as GitHub, Slack and Jira.
-
-- **+** Eight agent frameworks selectable at scaffold time, including PydanticAI, LangGraph, CrewAI and Google ADK
-- **+** 27 prebuilt domain ontologies with sample data, plus LLM-generated custom domains
-- **+** Twelve import connectors, including GitHub, Slack, Jira, Linear, Claude Code and ChatGPT exports
-- **+** Optional MCP server config so Claude Desktop can query the same graph
-- **−** Experimental Neo4j Labs project, not officially supported
-- **−** Default NAMS backend needs a hosted API key and cannot write native edges
-- **−** On NAMS, GDS endpoints and arbitrary Cypher writes return 501
-- **−** No tagged release published
-
-<sub>Python, Anthropic, OpenAI, Google Gemini, LiteLLM providers (Bedrock, Vertex AI, Ollama, Groq, Together) · Needs Neo4j 5+ (self-hosted) or NAMS hosted memory, Python 3.11+, Node.js 18+, Anthropic, OpenAI or Google API key · [Repo](https://github.com/neo4j-labs/create-context-graph) · [📖 Docs ↗](https://create-context-graph.dev/) · [🌐 Site ↗](https://create-context-graph.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/create-context-graph/)</sub>
-
 <a name="golf"></a>
-### #&#8288;35 [golf](https://github.com/golf-mcp/golf) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 842 · Apache-2.0 · Sep 2026</sub>
+### #&#8288;36 [golf](https://github.com/golf-mcp/golf) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 842 · Apache-2.0 · Sep 2026</sub>
 
 **Python framework that compiles tool, resource and prompt files into an MCP server.**
 
@@ -630,7 +648,7 @@ Golf builds an MCP server from a directory of Python files: each file in tools/,
 <sub>Python · Needs Python 3.10+, FastMCP 4.0.0 · [Repo](https://github.com/golf-mcp/golf) · [📖 Docs ↗](https://docs.golf.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/golf/)</sub>
 
 <a name="openai-cua-sample-app"></a>
-### #&#8288;36 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Oct 2026</sub>
+### #&#8288;37 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Oct 2026</sub>
 
 **Reference computer-use agents using Playwright (JS) and PyAutoGUI (Python).**
 
@@ -648,7 +666,7 @@ Two sample computer-use agents built on the OpenAI Responses API. The JavaScript
 <sub>TypeScript, OpenAI models via Responses API · Needs OpenAI API key, Node.js 22.20.0, pnpm 10.26.0, Playwright, uv (Python app), Python 3.10+ (Python app) · env example file · [Repo](https://github.com/openai/openai-cua-sample-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cua-sample-app/)</sub>
 
 <a name="shepherd"></a>
-### #&#8288;37 [shepherd](https://github.com/shepherd-agents/shepherd) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (47) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Sep 2026</sub>
+### #&#8288;38 [shepherd](https://github.com/shepherd-agents/shepherd) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (47) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Sep 2026</sub>
 
 **Python runtime that records agent runs as reviewable, reversible traces.**
 
@@ -666,7 +684,7 @@ Shepherd is a Python framework where a task is a bodiless function whose signatu
 <sub>Python, Claude (via claude CLI, subscription or ANTHROPIC_API_KEY), deterministic offline provider · Needs Python 3.11+, claude CLI (for the agent quickstart) · Docker · env example file · [Repo](https://github.com/shepherd-agents/shepherd) · [📖 Docs ↗](https://docs.shepherd-agents.ai/) · [🌐 Site ↗](https://shepherd-agents.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shepherd/)</sub>
 
 <a name="opentag"></a>
-### #&#8288;38 [OpenTag](https://github.com/copilotkit/opentag) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Oct 2026</sub>
+### #&#8288;39 [OpenTag](https://github.com/copilotkit/opentag) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Oct 2026</sub>
 
 **Slack and Teams knowledge agent on LangGraph and CopilotKit Channels.**
 
@@ -684,7 +702,7 @@ A deployable Slack and Teams agent in two services: a Node runtime (CopilotRunti
 <sub>Python, openai, langgraph, ag-ui, copilotkit · Needs copilotkit-intelligence-account, openai-api-key, slack-workspace, uv · Docker · env example file · [Repo](https://github.com/copilotkit/opentag) · [📖 Docs ↗](https://docs.copilotkit.ai/channels) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opentag/)</sub>
 
 <a name="eve-software-factory-template"></a>
-### #&#8288;39 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;40 [eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
 
 **Multi-agent pipeline that turns GitHub or Linear issues into reviewed draft PRs.**
 
@@ -702,7 +720,7 @@ Foreman is an eve-based agent pipeline that takes tasks from GitHub issues, Line
 <sub>TypeScript · Needs Vercel, Vercel Blob, GitHub App, Linear (optional), eve · GitHub template · env example file · [Repo](https://github.com/vercel-labs/eve-software-factory-template) · [📖 Docs ↗](https://ask-foreman.dev/docs) · [🌐 Site ↗](https://ask-foreman.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eve-software-factory-template/)</sub>
 
 <a name="echo-agent"></a>
-### #&#8288;40 [echo-agent](https://github.com/fuyuxiang/echo-agent) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+### #&#8288;41 [echo-agent](https://github.com/fuyuxiang/echo-agent) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
 
 **Self-hosted Python agent runtime with layered memory and a Tauri desktop app.**
 
@@ -718,24 +736,6 @@ Echo Agent is a Python 3.11+ agent runtime installed from PyPI, with a terminal 
 - **−** Embedding the runtime is source-level only; README advises pinning versions
 
 <sub>Python, Remote model services via API key, Model routing with fallback · Needs Python 3.11+, LLM provider API key · [Repo](https://github.com/fuyuxiang/echo-agent) · [📖 Docs ↗](https://fuyuxiang.github.io/echo-agent/) · [🌐 Site ↗](http://www.ojlab.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/echo-agent/)</sub>
-
-<a name="opencrabs"></a>
-### #&#8288;41 [opencrabs](https://github.com/opencrabs/opencrabs) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (19) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
-
-**Rust terminal AI agent with multi-provider LLM support and local memory.**
-
-OpenCrabs is a single Rust binary that runs an LLM agent in a Ratatui terminal UI. It calls providers directly over HTTPS (Anthropic, OpenAI, Copilot, OpenRouter, Gemini, local Ollama or LM Studio and others), with fallback chains, prompt caching and auto-compaction. State is kept in local SQLite with a 3-tier memory, cron jobs, a /goal loop and an A2A protocol.
-
-- **+** Single 34-36 MB binary with no Node runtime; data stays in ~/.opencrabs
-- **+** Many providers plus fallback chains and any OpenAI-compatible local endpoint
-- **+** Hybrid FTS5 and vector memory search with published benchmark reports
-- **+** Local whisper.cpp speech-to-text; README states zero telemetry
-- **−** Large feature surface (A2A, cron, epistemic engine) makes configuration heavy
-- **−** No Docker image or compose file detected; install is binary or source build
-- **−** Benchmarks and framework comparisons are self-reported by the project
-- **−** Terminal-first; no web UI is described in the visible README
-
-<sub>Rust, Anthropic Claude, OpenAI, GitHub Copilot, OpenRouter · Needs SQLite (embedded), LLM provider API or local LLM server · [Repo](https://github.com/opencrabs/opencrabs) · [📖 Docs ↗](https://docs.opencrabs.com) · [🌐 Site ↗](https://opencrabs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opencrabs/)</sub>
 
 <a name="innovation-lab-examples"></a>
 ### #&#8288;42 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
@@ -841,7 +841,7 @@ A single-graph Python template: a ReAct loop in src/react_agent/graph.py that re
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/react-agent) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-agent/)</sub>
 
 <a name="knowledge-agent-template"></a>
-### #&#8288;48 [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;48 [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Nuxt knowledge agent that greps a synced snapshot repo instead of embedding.**
 
@@ -893,24 +893,8 @@ Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server t
 
 <sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
 
-<a name="new-langgraph-project"></a>
-### #&#8288;51 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 301 · MIT · Nov 2026</sub>
-
-**Blank Python LangGraph scaffold with config, tests and Studio support.**
-
-The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph that returns a fixed string and its runtime context, with langgraph.json, a .env.example and unit plus integration test workflows already in place. Start it with langgraph dev and open it in Studio; there is no model, no tools and no UI. For Python developers who want the LangGraph Platform layout without an opinionated agent.
-
-- **+** Correct langgraph.json, package layout and CI from the first commit
-- **+** No model dependency; add the provider you want
-- **+** Unit and integration test workflows included
-- **−** Does nothing until you add a model call and nodes
-- **−** No chat UI; Studio or the API is the interface
-- **−** Assumes LangGraph Server and Platform as the runtime
-
-<sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
-
 <a name="new-langgraphjs-project"></a>
-### #&#8288;52 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 78 · MIT · Nov 2026</sub>
+### #&#8288;51 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 78 · MIT · Nov 2026</sub>
 
 **Empty TypeScript LangGraph.js scaffold with message history and tests.**
 
@@ -925,8 +909,24 @@ The TypeScript counterpart of the blank LangGraph template: src/agent/graph.ts k
 
 <sub>TypeScript, langgraph · Needs langgraph-cli · GitHub template · env example file · [Repo](https://github.com/langchain-ai/new-langgraphjs-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraphjs-project/)</sub>
 
+<a name="new-langgraph-project"></a>
+### #&#8288;52 [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 301 · MIT · Nov 2026</sub>
+
+**Blank Python LangGraph scaffold with config, tests and Studio support.**
+
+The blank-slate LangGraph template: src/agent/graph.py holds a one-node graph that returns a fixed string and its runtime context, with langgraph.json, a .env.example and unit plus integration test workflows already in place. Start it with langgraph dev and open it in Studio; there is no model, no tools and no UI. For Python developers who want the LangGraph Platform layout without an opinionated agent.
+
+- **+** Correct langgraph.json, package layout and CI from the first commit
+- **+** No model dependency; add the provider you want
+- **+** Unit and integration test workflows included
+- **−** Does nothing until you add a model call and nodes
+- **−** No chat UI; Studio or the API is the interface
+- **−** Assumes LangGraph Server and Platform as the runtime
+
+<sub>Python, langgraph · Needs langgraph-cli · env example file · [Repo](https://github.com/langchain-ai/new-langgraph-project) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/new-langgraph-project/)</sub>
+
 <a name="opengap"></a>
-### #&#8288;53 [opengap](https://github.com/open-gitagent/opengap) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (52) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Jul 2026</sub>
+### #&#8288;53 [opengap](https://github.com/open-gitagent/opengap) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (51) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Jul 2026</sub>
 
 **Git-repo file standard and CLI for defining portable AI agents.**
 
@@ -962,7 +962,7 @@ Exposes registered MCP, HTTP, file and CLI tools as TypeScript namespaces inside
 <sub>TypeScript, unknown · Needs Node.js, @utcp/mcp, @utcp/http, UTCP client · [Repo](https://github.com/universal-tool-calling-protocol/code-mode) · [🌐 Site ↗](https://utcp.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-mode/)</sub>
 
 <a name="ralph-loop-agent"></a>
-### #&#8288;55 [ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 847 · Apache-2.0 · Sep 2026</sub>
+### #&#8288;55 [ralph-loop-agent](https://github.com/vercel-labs/ralph-loop-agent) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 848 · Apache-2.0 · Sep 2026</sub>
 
 **TypeScript library that reruns an AI SDK agent until a completion check passes.**
 
@@ -1051,7 +1051,7 @@ A Turborepo with a Next.js 16 frontend on assistant-ui and a LangGraph.js backen
 <sub>TypeScript, openai, langgraph, assistant-ui · Needs openai-api-key, financial-datasets-api-key, tavily-api-key · [Repo](https://github.com/assistant-ui/assistant-ui-stockbroker) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/assistant-ui-stockbroker/)</sub>
 
 <a name="mcp-agent"></a>
-### #&#8288;60 [mcp-agent](https://github.com/lastmile-ai/mcp-agent) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (76) · Freshness: quiet (17) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;60 [mcp-agent](https://github.com/lastmile-ai/mcp-agent) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (75) · Freshness: quiet (17) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Jan 2026</sub>
 
 **Python framework for building MCP-connected agents with composable workflow patterns.**
 
@@ -1139,7 +1139,7 @@ A Python backend on the OpenAI Agents SDK that routes airline support requests b
 <sub>Python, openai, openai-agents-sdk, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-cs-agents-demo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-cs-agents-demo/)</sub>
 
 <a name="nanoagent"></a>
-### #&#8288;65 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (14) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 784 · MIT · Mar 2026</sub>
+### #&#8288;65 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (14) · Freshness: slowing (41) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 785 · MIT · Mar 2026</sub>
 
 **Single-file Python agent loop with bash, read and write tools.**
 

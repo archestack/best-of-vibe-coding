@@ -199,7 +199,7 @@ PHPStan checks PHP code for type and logic errors before execution, using PHPDoc
 <sub>no GPU · Docker · [Repo](https://github.com/phpstan/phpstan) · [▶️ Demo ↗](https://phpstan.org/try) · [📖 Docs ↗](https://phpstan.org/user-guide/getting-started) · [🌐 Site ↗](https://phpstan.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phpstan/)</sub>
 
 <a name="e2e"></a>
-### #&#8288;12 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [e2e](https://github.com/tester-army/e2e) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Agent-driven end-to-end testing for web and mobile apps.**
 
@@ -289,7 +289,7 @@ Hunk is an interactive terminal diff viewer built on OpenTUI and Pierre diffs. I
 <sub>no GPU · Needs Git (recommended), Node.js 22+ (npm install only), GH_TOKEN or GITHUB_TOKEN (private repos) · [Repo](https://github.com/modem-dev/hunk) · [📖 Docs ↗](https://hunk.dev/docs/) · [🌐 Site ↗](https://hunk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hunk/)</sub>
 
 <a name="larastan"></a>
-### #&#8288;17 [larastan](https://github.com/larastan/larastan) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
+### #&#8288;17 [larastan](https://github.com/larastan/larastan) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
 
 **PHPStan extension that finds type errors and bugs in Laravel code.**
 
@@ -412,26 +412,8 @@ Ginkgo is a Go testing framework built on the standard `testing` package. It pro
 
 <sub>no GPU · Needs Go, Gomega · [Repo](https://github.com/onsi/ginkgo) · [📖 Docs ↗](https://onsi.github.io/ginkgo/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ginkgo/)</sub>
 
-<a name="tflint"></a>
-### #&#8288;24 [tflint](https://github.com/terraform-linters/tflint) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
-
-**Pluggable linter for Terraform configurations.**
-
-TFLint is a Go command-line linter for Terraform code. The core is a plugin framework, and rules come from rulesets: one for the Terraform language is bundled, and AWS, Azure and Google Cloud rulesets install with `tflint --init`. It catches things like invalid instance types, deprecated syntax and unused declarations, and outputs default, JSON, checkstyle, JUnit, compact or SARIF.
-
-- **+** Plugin rulesets for AWS, Azure and GCP catch provider-specific errors such as invalid instance types
-- **+** Custom rules via your own plugin or Rego policies through the OPA ruleset
-- **+** Output formats include JSON, SARIF, JUnit and checkstyle for CI; a setup-tflint GitHub Action exists
-- **+** Has --fix for automatic fixes, --recursive for multi-directory runs, and a language server mode
-- **−** Cloud provider checks need separate plugins installed through tflint --init
-- **−** Release binaries fall under both MPL 2.0 and BUSL 1.1 because of some terraform package files
-- **−** Cosign signature verification is deprecated in favor of GitHub attestations
-- **−** Not AI-based; rule-driven static checks only, so coverage depends on available rulesets
-
-<sub>no GPU · Docker · Needs GitHub (plugin download via tflint --init) · [Repo](https://github.com/terraform-linters/tflint) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tflint/)</sub>
-
 <a name="testsprite-cli"></a>
-### #&#8288;25 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;24 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
 
 **CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents.**
 
@@ -447,6 +429,24 @@ Official CLI for the TestSprite testing service. You write test plans as JSON in
 - **−** Needs Node.js 20.19+, 22.13+ or 24+; the CLI is a client, not a self-hostable engine
 
 <sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [📖 Docs ↗](https://www.testsprite.com/docs) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
+
+<a name="tflint"></a>
+### #&#8288;25 [tflint](https://github.com/terraform-linters/tflint) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
+
+**Pluggable linter for Terraform configurations.**
+
+TFLint is a Go command-line linter for Terraform code. The core is a plugin framework, and rules come from rulesets: one for the Terraform language is bundled, and AWS, Azure and Google Cloud rulesets install with `tflint --init`. It catches things like invalid instance types, deprecated syntax and unused declarations, and outputs default, JSON, checkstyle, JUnit, compact or SARIF.
+
+- **+** Plugin rulesets for AWS, Azure and GCP catch provider-specific errors such as invalid instance types
+- **+** Custom rules via your own plugin or Rego policies through the OPA ruleset
+- **+** Output formats include JSON, SARIF, JUnit and checkstyle for CI; a setup-tflint GitHub Action exists
+- **+** Has --fix for automatic fixes, --recursive for multi-directory runs, and a language server mode
+- **−** Cloud provider checks need separate plugins installed through tflint --init
+- **−** Release binaries fall under both MPL 2.0 and BUSL 1.1 because of some terraform package files
+- **−** Cosign signature verification is deprecated in favor of GitHub attestations
+- **−** Not AI-based; rule-driven static checks only, so coverage depends on available rulesets
+
+<sub>no GPU · Docker · Needs GitHub (plugin download via tflint --init) · [Repo](https://github.com/terraform-linters/tflint) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tflint/)</sub>
 
 <a name="super-linter"></a>
 ### #&#8288;26 [super-linter](https://github.com/super-linter/super-linter) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
@@ -556,8 +556,25 @@ Kodus reviews pull requests with an LLM you configure (bring your own key for Op
 
 <sub>RAM ≥ 8 GB · no GPU · Docker + Compose · Needs Docker, LLM provider API key or OpenAI-compatible endpoint · Models: OpenAI, Anthropic, Google Gemini, Vertex AI, Novita · [Repo](https://github.com/kodustech/kodus-ai) · [📖 Docs ↗](https://docs.kodus.io) · [🌐 Site ↗](https://kodus.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kodus-ai/)</sub>
 
+<a name="alumnium"></a>
+### #&#8288;32 [alumnium](https://github.com/alumnium-hq/alumnium) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+
+**AI-driven end-to-end test library and MCP server for web and mobile apps.**
+
+Alumnium wraps Selenium, Playwright, Appium or Maestro so tests can be written as natural-language actions, checks and data extraction (act/do, check, get). It ships client libraries for Java, Python and TypeScript, and an MCP server that lets a coding agent such as Claude Code open a URL and test an application. The README's examples use an OpenAI API key.
+
+- **+** Layers on existing drivers: Selenium, Playwright, Appium and Maestro
+- **+** Client libraries for Java, Python and TypeScript, plus an MCP mode
+- **+** Natural-language check() assertions and get() data extraction alongside actions
+- **+** MIT license; MCP server can also run over HTTP
+- **−** Needs an LLM provider API key; README examples only show OpenAI
+- **−** Test steps depend on model output, so runs may not be deterministic
+- **−** Java and Python examples use different method names (act vs do)
+
+<sub>Docker · Needs LLM provider API key (OpenAI in examples), Selenium, Playwright, Appium or Maestro · Models: OpenAI · [Repo](https://github.com/alumnium-hq/alumnium) · [📖 Docs ↗](https://alumnium.ai/docs/) · [🌐 Site ↗](https://alumnium.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/alumnium/)</sub>
+
 <a name="memlab"></a>
-### #&#8288;32 [memlab](https://github.com/meta/memlab) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+### #&#8288;33 [memlab](https://github.com/meta/memlab) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
 
 **JavaScript memory leak finder using Puppeteer scenarios and heap snapshot analysis.**
 
@@ -575,7 +592,7 @@ memlab runs a Puppeteer scenario against a web page, compares V8 heap snapshots 
 <sub>no GPU · Needs Node.js 16+, Puppeteer · [Repo](https://github.com/meta/memlab) · [📖 Docs ↗](https://meta.github.io/memlab/docs/intro) · [🌐 Site ↗](https://meta.github.io/memlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memlab/)</sub>
 
 <a name="codediff-nvim"></a>
-### #&#8288;33 [codediff.nvim](https://github.com/esmuellert/codediff.nvim) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
+### #&#8288;34 [codediff.nvim](https://github.com/esmuellert/codediff.nvim) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
 
 **Neovim diff viewer for reviewing coding-agent changes as they land.**
 
@@ -592,26 +609,8 @@ codediff.nvim is a Neovim plugin that shows VSCode-style side-by-side or inline 
 
 <sub>no GPU · Needs Neovim 0.7+ (0.10+ recommended), Git, curl or wget (PowerShell on Windows) · [Repo](https://github.com/esmuellert/codediff.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codediff-nvim/)</sub>
 
-<a name="deepaudit"></a>
-### #&#8288;34 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (56) · Freshness: active (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · AGPL-3.0 · Oct 2026</sub>
-
-**Multi-agent code security auditor with sandboxed PoC verification of findings.**
-
-DeepAudit runs Orchestrator, Recon, Analysis and Verification agents against an imported codebase. They map the attack surface, review code using RAG and AST analysis, then write PoC scripts and run them in a Docker sandbox to filter false positives. The backend is FastAPI and the frontend is React. Ollama can serve local models. The CVE results in the README come from a closed-source version.
-
-- **+** Verification agent runs generated PoCs in a Docker sandbox to confirm exploitability
-- **+** Supports local models through Ollama, so source code can stay on-premises
-- **+** Imports projects from GitHub, GitLab and Gitea, plus paste-code instant analysis
-- **+** Exports reports as PDF, Markdown or JSON
-- **−** Headline CVE findings came from a closed-source version, not this repo
-- **−** AGPL-3.0 license restricts use inside closed network services
-- **−** Needs several containers (frontend, backend, sandbox, Postgres), not a single process
-- **−** No detection benchmarks or false-positive rates in the visible README
-
-<sub>GPU optional · Compose · Needs Docker, PostgreSQL, LLM provider or Ollama · Models: Ollama (Llama3, DeepSeek), cloud LLM APIs · [Repo](https://github.com/lintsinghua/deepaudit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepaudit/)</sub>
-
 <a name="mantis"></a>
-### #&#8288;35 [mantis](https://github.com/google/mantis) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;35 [mantis](https://github.com/google/mantis) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
 
 **Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
 
@@ -718,25 +717,8 @@ A set of hooks for pre-commit that run on staged files before a commit. They che
 
 <sub>no GPU · Needs pre-commit, git, git-lfs (optional, >=2.2.1) · [Repo](https://github.com/pre-commit/pre-commit-hooks) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pre-commit-hooks/)</sub>
 
-<a name="alumnium"></a>
-### #&#8288;41 [alumnium](https://github.com/alumnium-hq/alumnium) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (5) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
-
-**AI-driven end-to-end test library and MCP server for web and mobile apps.**
-
-Alumnium wraps Selenium, Playwright, Appium or Maestro so tests can be written as natural-language actions, checks and data extraction (act/do, check, get). It ships client libraries for Java, Python and TypeScript, and an MCP server that lets a coding agent such as Claude Code open a URL and test an application. The README's examples use an OpenAI API key.
-
-- **+** Layers on existing drivers: Selenium, Playwright, Appium and Maestro
-- **+** Client libraries for Java, Python and TypeScript, plus an MCP mode
-- **+** Natural-language check() assertions and get() data extraction alongside actions
-- **+** MIT license; MCP server can also run over HTTP
-- **−** Needs an LLM provider API key; README examples only show OpenAI
-- **−** Test steps depend on model output, so runs may not be deterministic
-- **−** Java and Python examples use different method names (act vs do)
-
-<sub>Docker · Needs LLM provider API key (OpenAI in examples), Selenium, Playwright, Appium or Maestro · Models: OpenAI · [Repo](https://github.com/alumnium-hq/alumnium) · [📖 Docs ↗](https://alumnium.ai/docs/) · [🌐 Site ↗](https://alumnium.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/alumnium/)</sub>
-
 <a name="eslint-plugin-react"></a>
-### #&#8288;42 [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (65) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Oct 2026</sub>
+### #&#8288;41 [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (65) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Oct 2026</sub>
 
 **React-specific lint rules for ESLint, covering JSX style and component correctness.**
 
@@ -754,7 +736,7 @@ An ESLint plugin that adds React and JSX rules, such as jsx-key, display-name, b
 <sub>no GPU · Needs eslint, npm · [Repo](https://github.com/jsx-eslint/eslint-plugin-react) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eslint-plugin-react/)</sub>
 
 <a name="codegpt"></a>
-### #&#8288;43 [codegpt](https://github.com/appleboy/codegpt) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
+### #&#8288;42 [codegpt](https://github.com/appleboy/codegpt) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
 
 **Go CLI that writes git commit messages and code reviews from diffs.**
 
@@ -770,6 +752,24 @@ CodeGPT is a Go command-line tool that reads your git diff and generates convent
 - **−** No Docker image; install is by script, binary, Homebrew, Chocolatey or go install
 
 <sub>no GPU · Docker · Needs git, API key for an LLM provider, or a local Ollama server · Models: OpenAI (gpt-5, gpt-4o, gpt-4), Azure OpenAI, Gemini, Anthropic, Ollama · [Repo](https://github.com/appleboy/codegpt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codegpt/)</sub>
+
+<a name="deepaudit"></a>
+### #&#8288;43 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (56) · Freshness: active (90) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Nov 2026</sub>
+
+**Multi-agent code security auditor with sandboxed PoC verification of findings.**
+
+DeepAudit runs Orchestrator, Recon, Analysis and Verification agents against an imported codebase. They map the attack surface, review code using RAG and AST analysis, then write PoC scripts and run them in a Docker sandbox to filter false positives. The backend is FastAPI and the frontend is React. Ollama can serve local models. The CVE results in the README come from a closed-source version.
+
+- **+** Verification agent runs generated PoCs in a Docker sandbox to confirm exploitability
+- **+** Supports local models through Ollama, so source code can stay on-premises
+- **+** Imports projects from GitHub, GitLab and Gitea, plus paste-code instant analysis
+- **+** Exports reports as PDF, Markdown or JSON
+- **−** Headline CVE findings came from a closed-source version, not this repo
+- **−** AGPL-3.0 license restricts use inside closed network services
+- **−** Needs several containers (frontend, backend, sandbox, Postgres), not a single process
+- **−** No detection benchmarks or false-positive rates in the visible README
+
+<sub>GPU optional · Docker + Compose · Needs Docker, PostgreSQL, LLM provider or Ollama · Models: Ollama (Llama3, DeepSeek), cloud LLM APIs · [Repo](https://github.com/lintsinghua/deepaudit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepaudit/)</sub>
 
 <a name="ai-codereview-gitlab"></a>
 ### #&#8288;44 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
