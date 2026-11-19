@@ -4,26 +4,8 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
-<a name="penpot"></a>
-### 🥇 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
-
-**Open-source design and prototyping tool with real-time collaboration and design tokens.**
-
-Penpot is a browser-based design and prototyping platform that stores designs in open formats (SVG, CSS, HTML, JSON). It offers native design tokens, components and variants, CSS Grid and Flex layout, an inspect tab that shows code, and a plugin system with an API and webhooks. An MCP server lets AI tools read and act on designs. It can be self-hosted or used on the hosted SaaS.
-
-- **+** Designs use open standards (SVG, CSS, HTML, JSON), with an inspect tab for code
-- **+** Native design tokens, components and variants for design systems
-- **+** MCP server, plugin system and access-token API allow automation and AI workflows
-- **+** Self-hostable (Docker, Kubernetes, Elestio) or usable on the hosted SaaS
-- **−** Admin Console and SSO are only in the paid Enterprise plan
-- **−** Not an AI app starter; the AI features are limited to the MCP server
-- **−** README gives no hardware requirements for self-hosting
-- **−** Clojure codebase may be unfamiliar to many contributors
-
-<sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
-
 <a name="windmill"></a>
-### 🥈 [windmill](https://github.com/windmill-labs/windmill) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
+### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
 
 **Workflow engine and app builder where scripts become UIs, APIs and cron jobs.**
 
@@ -40,25 +22,26 @@ Windmill turns plain scripts in Python, TypeScript, Go, Bash, SQL and other lang
 
 <sub>Rust · Needs PostgreSQL, Caddy (in the compose setup) · Docker · ⚠️ .env file committed · README: alternative to Lovable · [Repo](https://github.com/windmill-labs/windmill) · [▶️ Demo ↗](https://app.windmill.dev) · [📖 Docs ↗](https://www.windmill.dev/docs/intro/) · [🌐 Site ↗](https://www.windmill.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/windmill/)</sub>
 
-<a name="next-ai-draw-io"></a>
-### 🥉 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Nov 2026</sub>
+<a name="penpot"></a>
+### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
 
-**Chat with an AI to create and edit draw.io diagrams.**
+**Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
-Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so diagrams stay editable by hand and export as .drawio, .png, .svg or .drawio.svg. Each AI change is saved as a version you can compare, restore or undo. It also ships as a desktop app and as an MCP server (@next-ai-drawio/mcp-server) for agents such as Claude Code, Cursor and VS Code.
+Penpot is a browser-based design and prototyping platform that stores designs in open formats (SVG, CSS, HTML, JSON). It offers native design tokens, components and variants, CSS Grid and Flex layout, an inspect tab that shows code, and a plugin system with an API and webhooks. An MCP server lets AI tools read and act on designs. It can be self-hosted or used on the hosted SaaS.
 
-- **+** Output is a normal draw.io file, editable by hand and exportable to four formats
-- **+** Per-change version history with compare, restore and Ctrl+Z undo
-- **+** 25 providers including Ollama and an OpenAI-compatible preset; browser-entered keys stay local
-- **+** Also runs as an MCP server and desktop app; admin panel for models and quotas
-- **−** Small models tend to produce broken diagrams; README recommends a capable model
-- **−** Default provider is AWS Bedrock, so provider setup is needed before first run
-- **−** Hosted demo has a usage limit unless you supply your own API key
+- **+** Designs use open standards (SVG, CSS, HTML, JSON), with an inspect tab for code
+- **+** Native design tokens, components and variants for design systems
+- **+** MCP server, plugin system and access-token API allow automation and AI workflows
+- **+** Self-hostable (Docker, Kubernetes, Elestio) or usable on the hosted SaaS
+- **−** Admin Console and SSO are only in the paid Enterprise plan
+- **−** Not an AI app starter; the AI features are limited to the MCP server
+- **−** README gives no hardware requirements for self-hosting
+- **−** Clojure codebase may be unfamiliar to many contributors
 
-<sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
+<sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
 
 <a name="plate"></a>
-### #&#8288;4 [plate](https://github.com/udecode/plate) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
+### 🥉 [plate](https://github.com/udecode/plate) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
 
 **Rich-text editor framework for React built on Slate, with plugins and AI.**
 
@@ -74,8 +57,25 @@ Plate is a plugin-based rich-text editor framework for React, built on slate-rea
 
 <sub>TypeScript · Needs React, slate-react · [Repo](https://github.com/udecode/plate) · [📖 Docs ↗](https://platejs.org/docs) · [🌐 Site ↗](https://platejs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate/)</sub>
 
+<a name="next-ai-draw-io"></a>
+### #&#8288;4 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Nov 2026</sub>
+
+**Chat with an AI to create and edit draw.io diagrams.**
+
+Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so diagrams stay editable by hand and export as .drawio, .png, .svg or .drawio.svg. Each AI change is saved as a version you can compare, restore or undo. It also ships as a desktop app and as an MCP server (@next-ai-drawio/mcp-server) for agents such as Claude Code, Cursor and VS Code.
+
+- **+** Output is a normal draw.io file, editable by hand and exportable to four formats
+- **+** Per-change version history with compare, restore and Ctrl+Z undo
+- **+** 25 providers including Ollama and an OpenAI-compatible preset; browser-entered keys stay local
+- **+** Also runs as an MCP server and desktop app; admin panel for models and quotas
+- **−** Small models tend to produce broken diagrams; README recommends a capable model
+- **−** Default provider is AWS Bedrock, so provider setup is needed before first run
+- **−** Hosted demo has a usage limit unless you supply your own API key
+
+<sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
+
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -93,7 +93,7 @@ Fresh is a Rust terminal text editor that uses standard keybindings, menus and a
 <sub>Rust, claude, codex, opencode, aider · [Repo](https://github.com/sinelaw/fresh) · [📖 Docs ↗](https://getfresh.dev/docs) · [🌐 Site ↗](https://sinelaw.github.io/fresh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fresh/)</sub>
 
 <a name="builder"></a>
-### #&#8288;6 [builder](https://github.com/builderio/builder) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+### #&#8288;6 [builder](https://github.com/builderio/builder) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
 
 **Visual editor and SDKs for drag-and-drop editing with your own components.**
 
@@ -109,8 +109,26 @@ Builder.io is a visual development platform that connects to an existing site or
 
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
+<a name="yn"></a>
+### #&#8288;7 [yn](https://github.com/purocean/yn) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (50) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
+
+**Electron Markdown editor with AI completion and a plugin API.**
+
+Yank Note is a desktop Markdown editor built on the Monaco kernel, with local Markdown files as storage. It adds an AI Copilot for text completion, generation and image generation through OpenAI, Ollama, Gemini, Kimi, Tongyi Qianwen or Flux.1, plus OpenCode agent support. Documents can embed runnable code, PlantUML, Drawio, ECharts, Mermaid and applets.
+
+- **+** Notes stay as plain local Markdown files, with optional per-file encryption
+- **+** AI backends include OpenAI, Ollama, Gemini, Kimi and Tongyi Qianwen
+- **+** Runs JavaScript, PHP, Node.js, Python and bash code blocks inside documents
+- **+** JavaScript plugins load from the home directory's plugins folder
+- **−** README warns it allows command execution and arbitrary file access; untrusted files are risky
+- **−** Encrypted files are decrypted in the front end; a lost password cannot be recovered
+- **−** AGPL-3.0 license limits use in closed-source products
+- **−** Mac App Store build is marked not recommended by the author
+
+<sub>TypeScript, OpenAI, Ollama, Gemini, Kimi · Needs pandoc (export) · [Repo](https://github.com/purocean/yn) · [▶️ Demo ↗](https://demo.yank-note.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yn/)</sub>
+
 <a name="plate-playground-template"></a>
-### #&#8288;7 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
+### #&#8288;8 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
 
 **Next.js rich-text editor template on Plate with AI commands.**
 
@@ -127,7 +145,7 @@ Next.js 16 template with the Plate editor, shadcn/ui and the Plate AI kit (insta
 <sub>TypeScript, Vercel AI Gateway via AI SDK · Needs UploadThing token, Vercel AI Gateway key (user-supplied) · GitHub template · env example file · [Repo](https://github.com/udecode/plate-playground-template) · [📖 Docs ↗](https://platejs.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate-playground-template/)</sub>
 
 <a name="workflow-builder-template"></a>
-### #&#8288;8 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Visual AI workflow builder on Workflow DevKit with real integrations.**
 
@@ -145,7 +163,7 @@ Next.js 16 app with a React Flow canvas, Monaco editor, Better Auth, Drizzle on 
 <sub>TypeScript, Vercel AI Gateway (OpenAI GPT-5) · Needs PostgreSQL, Vercel AI Gateway API key, integration API keys (Resend, Linear, Slack, Stripe and others) · GitHub template · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/workflow-builder-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/workflow-builder-template/)</sub>
 
 <a name="nuxt-ui-editor"></a>
-### #&#8288;9 [editor](https://github.com/nuxt-ui-templates/editor) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 171 · MIT · Nov 2026</sub>
+### #&#8288;10 [editor](https://github.com/nuxt-ui-templates/editor) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 171 · MIT · Nov 2026</sub>
 
 **Nuxt template for a Notion-like TipTap editor with AI completions.**
 
@@ -163,7 +181,7 @@ A Nuxt and Nuxt UI starter that wraps TipTap in a Notion-style WYSIWYG editor wi
 <sub>TypeScript, Any model via Vercel AI Gateway · Needs Vercel AI Gateway (optional), NuxtHub Blob (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;10 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (16) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;11 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (15) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 
