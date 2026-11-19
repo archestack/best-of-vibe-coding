@@ -40,7 +40,7 @@ JeecgBoot is a Spring Boot 4 and Vue3 base for enterprise business systems, with
 <sub>Java, ChatGPT, DeepSeek, Qwen, Zhipu · Needs MySQL 5.7+, Redis, JDK 17, Maven, Node 20+, pnpm 10+, Docker Compose, Nacos (microservice mode) · [Repo](https://github.com/jeecgboot/jeecgboot) · [▶️ Demo ↗](https://boot3.jeecg.com) · [📖 Docs ↗](https://help.jeecg.com) · [🌐 Site ↗](http://www.jeecg.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeecgboot/)</sub>
 
 <a name="ai-website-cloner-template"></a>
-### 🥉 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
+### 🥉 [ai-website-cloner-template](https://github.com/jcodesmore/ai-website-cloner-template) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · MIT · Nov 2026</sub>
 
 **Agent skill that rebuilds a website from a URL as a Next.js app.**
 
@@ -94,7 +94,7 @@ E2B provides JavaScript and Python SDKs that start isolated cloud sandboxes and 
 <sub>Python · Needs E2B API key (hosted), Terraform (self-hosting) · Docker · [Repo](https://github.com/e2b-dev/e2b) · [📖 Docs ↗](https://e2b.dev/docs) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2b/)</sub>
 
 <a name="appsmith"></a>
-### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [appsmith](https://github.com/appsmithorg/appsmith) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · Apache-2.0 · Nov 2026</sub>
 
 **Low-code builder for internal dashboards and admin panels on your own data.**
 
@@ -128,26 +128,8 @@ open-slide is a TypeScript framework where each slide is a React component on a 
 
 <sub>TypeScript, Claude Code, Codex · Needs Node.js, Claude Code or Codex CLI (for agent panel) · [Repo](https://github.com/open-slide/open-slide) · [📖 Docs ↗](https://open-slide.dev/docs) · [🌐 Site ↗](https://open-slide.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-slide/)</sub>
 
-<a name="lowdefy"></a>
-### #&#8288;8 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
-
-**YAML-config framework for building internal web apps and admin tools.**
-
-Lowdefy builds web apps from YAML config instead of hand-written React. Pages are composed from 70+ UI blocks and 50+ logic operators, with connectors for MongoDB, PostgreSQL, MySQL, REST, Google Sheets, S3, Elasticsearch and Stripe. The runtime is built on Hono, Vite and Auth.js and extends through npm plugins. The README pitches the config as a reviewable target for AI-generated apps.
-
-- **+** Schema-validated config is interpreted, not executed, so there are no arbitrary code paths
-- **+** Ships 70+ UI blocks and 10+ data connectors including MongoDB, PostgreSQL and Stripe
-- **+** Auth.js integration with 75+ auth providers, role-based access control and private pages
-- **+** Plugin system for blocks, connections, operators, actions and auth providers via npm
-- **−** No built-in LLM features; the AI role is only generating config for you
-- **−** Logic lives in YAML operators, which gets awkward for complex behavior
-- **−** Custom UI beyond the provided blocks requires writing npm plugins
-- **−** README promotes the maintainer's paid app-building service alongside the project
-
-<sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
-
 <a name="vizro"></a>
-### #&#8288;9 [vizro](https://github.com/mckinsey/vizro) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (37) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;8 [vizro](https://github.com/mckinsey/vizro) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Oct 2026</sub>
 
 **Python toolkit for building Plotly Dash dashboards from YAML, JSON or Pydantic config.**
 
@@ -164,8 +146,44 @@ Vizro is a Python package (`pip install vizro`) that assembles multi-page data d
 
 <sub>Python · Needs Plotly, Dash, Pydantic · [Repo](https://github.com/mckinsey/vizro) · [▶️ Demo ↗](https://huggingface.co/spaces/vizro/demo-first-dashboard) · [📖 Docs ↗](https://vizro.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vizro/)</sub>
 
+<a name="lowdefy"></a>
+### #&#8288;9 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+
+**YAML-config framework for building internal web apps and admin tools.**
+
+Lowdefy builds web apps from YAML config instead of hand-written React. Pages are composed from 70+ UI blocks and 50+ logic operators, with connectors for MongoDB, PostgreSQL, MySQL, REST, Google Sheets, S3, Elasticsearch and Stripe. The runtime is built on Hono, Vite and Auth.js and extends through npm plugins. The README pitches the config as a reviewable target for AI-generated apps.
+
+- **+** Schema-validated config is interpreted, not executed, so there are no arbitrary code paths
+- **+** Ships 70+ UI blocks and 10+ data connectors including MongoDB, PostgreSQL and Stripe
+- **+** Auth.js integration with 75+ auth providers, role-based access control and private pages
+- **+** Plugin system for blocks, connections, operators, actions and auth providers via npm
+- **−** No built-in LLM features; the AI role is only generating config for you
+- **−** Logic lives in YAML operators, which gets awkward for complex behavior
+- **−** Custom UI beyond the provided blocks requires writing npm plugins
+- **−** README promotes the maintainer's paid app-building service alongside the project
+
+<sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
+
+<a name="loopforge"></a>
+### #&#8288;10 [loopforge](https://github.com/tencent/loopforge) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · custom license · Nov 2026</sub>
+
+**Runs coding-agent CLIs in sandboxes with repeatable SOP workflows and approvals.**
+
+LoopForge is a self-hosted Go service where a chat bot (Main Bot) opens a Docker sandbox with your repositories, delegates to project roles and opens a PR. Repeatable delivery is defined as SOPs on a visual canvas, built from agent, script, human-gate and sub-SOP nodes. It wraps ten coding-agent CLIs, including Codex, Claude Code and OpenCode, rather than calling models itself.
+
+- **+** SOP engine with human gates, send-back to a chosen step, and rerun from any node
+- **+** Ten coding-agent CLIs selectable per conversation and per SOP role
+- **+** Demo SOP of script plus approval runs without any API key
+- **+** Tracks requirements, PR/MR status and token cost across chat and SOP runs
+- **−** Sandboxes use the host Docker socket; not suited to untrusted multi-tenant use
+- **−** Signed-in users can read project data across the instance; signup is on by default
+- **−** Chat workbench UI is Chinese only for now
+- **−** Several executors install from npm on first use or are not bundled
+
+<sub>Go, CodeBuddy, Codex, Claude Code, OpenCode · Needs Docker, Docker Compose, MySQL, Git, Python 3, curl · Docker · env example file · [Repo](https://github.com/tencent/loopforge) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/loopforge/)</sub>
+
 <a name="magic"></a>
-### #&#8288;10 [magic](https://github.com/polterguy/magic) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;11 [magic](https://github.com/polterguy/magic) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Self-hosted backend generator that builds secured APIs and apps from plain English.**
 
@@ -183,7 +201,7 @@ Magic Cloudlet is a .NET 10 backend with a React dashboard. It generates databas
 <sub>C#, OpenAI, Ollama, HuggingFace · Needs OpenAI API key (default), Docker Compose, SQLite · README: alternative to Cursor, Lovable, Replit · [Repo](https://github.com/polterguy/magic) · [📖 Docs ↗](https://docs.ainiro.io/getting-started/) · [🌐 Site ↗](https://hyperlambda.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/magic/)</sub>
 
 <a name="runtime"></a>
-### #&#8288;11 [runtime](https://github.com/e2b-dev/runtime) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [runtime](https://github.com/e2b-dev/runtime) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Nov 2026</sub>
 
 **Firecracker microVM sandbox backend for running untrusted AI agent code.**
 
@@ -201,7 +219,7 @@ Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Fir
 <sub>Go · Needs Linux with KVM, Firecracker, PostgreSQL, Redis, ClickHouse, Object storage, Docker Compose (Embed) · [Repo](https://github.com/e2b-dev/runtime) · [📖 Docs ↗](https://docs.e2b.dev/) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/runtime/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;12 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (50) · Freshness: active (91) · Maintenance: patchy (44) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
+### #&#8288;13 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (50) · Freshness: active (91) · Maintenance: patchy (44) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -217,24 +235,6 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 - **−** Long setup guide with several API token permissions to get right
 
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
-
-<a name="loopforge"></a>
-### #&#8288;13 [loopforge](https://github.com/tencent/loopforge) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (34) · Freshness: active (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · custom license · Nov 2026</sub>
-
-**Runs coding-agent CLIs in sandboxes with repeatable SOP workflows and approvals.**
-
-LoopForge is a self-hosted Go service where a chat bot (Main Bot) opens a Docker sandbox with your repositories, delegates to project roles and opens a PR. Repeatable delivery is defined as SOPs on a visual canvas, built from agent, script, human-gate and sub-SOP nodes. It wraps ten coding-agent CLIs, including Codex, Claude Code and OpenCode, rather than calling models itself.
-
-- **+** SOP engine with human gates, send-back to a chosen step, and rerun from any node
-- **+** Ten coding-agent CLIs selectable per conversation and per SOP role
-- **+** Demo SOP of script plus approval runs without any API key
-- **+** Tracks requirements, PR/MR status and token cost across chat and SOP runs
-- **−** Sandboxes use the host Docker socket; not suited to untrusted multi-tenant use
-- **−** Signed-in users can read project data across the instance; signup is on by default
-- **−** Chat workbench UI is Chinese only for now
-- **−** Several executors install from npm on first use or are not bundled
-
-<sub>Go, CodeBuddy, Codex, Claude Code, OpenCode · Needs Docker, Docker Compose, MySQL, Git, Python 3, curl · Docker · [Repo](https://github.com/tencent/loopforge) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/loopforge/)</sub>
 
 <a name="open-lovable"></a>
 ### #&#8288;14 [open-lovable](https://github.com/firecrawl/open-lovable) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: weak (15) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Oct 2026</sub>
@@ -360,7 +360,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;21 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (26) · Freshness: recent (70) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;21 [lealone](https://github.com/lealone/lealone) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (26) · Freshness: recent (70) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
@@ -431,7 +431,7 @@ Next.js 15 app with Drizzle on Postgres that lets signed-in users (GitHub or Ver
 <sub>TypeScript, Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Cursor CLI · Needs PostgreSQL (Neon), Vercel Sandbox credentials, GitHub or Vercel OAuth app, agent API keys (Anthropic, OpenAI, Cursor, Gemini, AI Gateway) · GitHub template · [Repo](https://github.com/vercel-labs/coding-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-agent-template/)</sub>
 
 <a name="claude-artifact-runner"></a>
-### #&#8288;25 [claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) <sub>score [1](../README.md#-how-we-rank "Score 1/100. Adoption: niche (1) · Freshness: quiet (1) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 588 · MIT · Nov 2025</sub>
+### #&#8288;25 [claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) <sub>score [1](../README.md#-how-we-rank "Score 1/100. Adoption: niche (1) · Freshness: quiet (1) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 588 · MIT · Nov 2025</sub>
 
 **CLI that runs, builds or scaffolds React projects from Claude Artifact files.**
 

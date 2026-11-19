@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="windmill"></a>
-### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
+### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
 
 **Workflow engine and app builder where scripts become UIs, APIs and cron jobs.**
 
@@ -75,7 +75,7 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -92,25 +92,8 @@ Fresh is a Rust terminal text editor that uses standard keybindings, menus and a
 
 <sub>Rust, claude, codex, opencode, aider · [Repo](https://github.com/sinelaw/fresh) · [📖 Docs ↗](https://getfresh.dev/docs) · [🌐 Site ↗](https://sinelaw.github.io/fresh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fresh/)</sub>
 
-<a name="builder"></a>
-### #&#8288;6 [builder](https://github.com/builderio/builder) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
-
-**Visual editor and SDKs for drag-and-drop editing with your own components.**
-
-Builder.io is a visual development platform that connects to an existing site or app, so pages can be edited by drag and drop or generated from Figma designs using your own components. Changes are exported as code or published through SDKs. This repository holds the SDKs, usage examples, starter projects and plugins; the editor itself is used through a Builder account.
-
-- **+** Renders pages from your existing components via SDKs
-- **+** Imports Figma designs and exports them as code
-- **+** Repo bundles SDKs, examples, starters and plugins in one place
-- **+** MIT licensed, TypeScript codebase
-- **−** Editor is used through a Builder.io account sign-up
-- **−** README gives no self-hosting instructions
-- **−** Monorepo of SDKs and examples, not a standalone app
-
-<sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
-
 <a name="yn"></a>
-### #&#8288;7 [yn](https://github.com/purocean/yn) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (50) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
 
 **Electron Markdown editor with AI completion and a plugin API.**
 
@@ -126,6 +109,23 @@ Yank Note is a desktop Markdown editor built on the Monaco kernel, with local Ma
 - **−** Mac App Store build is marked not recommended by the author
 
 <sub>TypeScript, OpenAI, Ollama, Gemini, Kimi · Needs pandoc (export) · [Repo](https://github.com/purocean/yn) · [▶️ Demo ↗](https://demo.yank-note.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yn/)</sub>
+
+<a name="builder"></a>
+### #&#8288;7 [builder](https://github.com/builderio/builder) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+
+**Visual editor and SDKs for drag-and-drop editing with your own components.**
+
+Builder.io is a visual development platform that connects to an existing site or app, so pages can be edited by drag and drop or generated from Figma designs using your own components. Changes are exported as code or published through SDKs. This repository holds the SDKs, usage examples, starter projects and plugins; the editor itself is used through a Builder account.
+
+- **+** Renders pages from your existing components via SDKs
+- **+** Imports Figma designs and exports them as code
+- **+** Repo bundles SDKs, examples, starters and plugins in one place
+- **+** MIT licensed, TypeScript codebase
+- **−** Editor is used through a Builder.io account sign-up
+- **−** README gives no self-hosting instructions
+- **−** Monorepo of SDKs and examples, not a standalone app
+
+<sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="plate-playground-template"></a>
 ### #&#8288;8 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
