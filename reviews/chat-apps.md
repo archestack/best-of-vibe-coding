@@ -5,7 +5,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 <sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="claude-quickstarts"></a>
-### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
+### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
 
 **Claude API sample apps for agents, computer use and browser automation.**
 
@@ -23,7 +23,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="chat-js"></a>
-### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js AI chat app scaffold with auth, branching and sharing.**
 
@@ -41,7 +41,7 @@ ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, 
 <sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
 <a name="vercel-chatbot"></a>
-### 🥉 [chatbot](https://github.com/vercel/chatbot) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [chatbot](https://github.com/vercel/chatbot) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js chat template with Auth.js, Postgres history and AI Gateway models.**
 
@@ -145,7 +145,7 @@ Nuxt application built on Nuxt UI components that streams chat responses through
 <sub>Vue, Claude Haiku 5.5, Gemini 3 Flash, GPT-5.6 Luna · Needs Vercel AI Gateway, SQLite / Turso, GitHub OAuth app, NuxtHub Blob · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;9 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (13) · Freshness: active (93) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 671 · MIT · Aug 2026</sub>
+### #&#8288;9 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (14) · Freshness: active (93) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 671 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -228,7 +228,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;14 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (19) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
+### #&#8288;14 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (19) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 
