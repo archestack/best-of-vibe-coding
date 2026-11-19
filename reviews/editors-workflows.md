@@ -75,7 +75,7 @@ Plate is a plugin-based rich-text editor framework for React, built on slate-rea
 <sub>TypeScript · Needs React, slate-react · [Repo](https://github.com/udecode/plate) · [📖 Docs ↗](https://platejs.org/docs) · [🌐 Site ↗](https://platejs.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate/)</sub>
 
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -111,7 +111,7 @@ Yank Note is a desktop Markdown editor built on the Monaco kernel, with local Ma
 <sub>TypeScript, OpenAI, Ollama, Gemini, Kimi · Needs pandoc (export) · [Repo](https://github.com/purocean/yn) · [▶️ Demo ↗](https://demo.yank-note.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yn/)</sub>
 
 <a name="builder"></a>
-### #&#8288;7 [builder](https://github.com/builderio/builder) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+### #&#8288;7 [builder](https://github.com/builderio/builder) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
 
 **Visual editor and SDKs for drag-and-drop editing with your own components.**
 
@@ -128,7 +128,7 @@ Builder.io is a visual development platform that connects to an existing site or
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="shaders"></a>
-### #&#8288;8 [shaders](https://github.com/shader-effects-inc/shaders) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (47) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
+### #&#8288;8 [shaders](https://github.com/shader-effects-inc/shaders) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (48) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
 
 **WebGPU shader effects as components for React, Vue, Svelte, Solid and JS.**
 
@@ -181,7 +181,7 @@ Next.js 16 app with a React Flow canvas, Monaco editor, Better Auth, Drizzle on 
 <sub>TypeScript, Vercel AI Gateway (OpenAI GPT-5) · Needs PostgreSQL, Vercel AI Gateway API key, integration API keys (Resend, Linear, Slack, Stripe and others) · GitHub template · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/workflow-builder-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/workflow-builder-template/)</sub>
 
 <a name="nuxt-ui-editor"></a>
-### #&#8288;11 [editor](https://github.com/nuxt-ui-templates/editor) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 171 · MIT · Nov 2026</sub>
+### #&#8288;11 [editor](https://github.com/nuxt-ui-templates/editor) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (0) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 171 · MIT · Nov 2026</sub>
 
 **Nuxt template for a Notion-like TipTap editor with AI completions.**
 
@@ -199,7 +199,7 @@ A Nuxt and Nuxt UI starter that wraps TipTap in a Notion-style WYSIWYG editor wi
 <sub>TypeScript, Any model via Vercel AI Gateway · Needs Vercel AI Gateway (optional), NuxtHub Blob (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;12 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (15) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;12 [tersa](https://github.com/vercel-labs/tersa) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (16) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 
