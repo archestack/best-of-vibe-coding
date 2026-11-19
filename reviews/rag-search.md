@@ -41,7 +41,7 @@ Sonic is a Rust search backend that indexes text pushed over its Sonic Channel T
 <sub>Rust · Docker · [Repo](https://github.com/valeriansaliou/sonic) · [▶️ Demo ↗](https://help.crisp.chat/) · [📖 Docs ↗](https://github.com/valeriansaliou/sonic/blob/master/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sonic/)</sub>
 
 <a name="xberg"></a>
-### 🥉 [xberg](https://github.com/xberg-io/xberg) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
+### 🥉 [xberg](https://github.com/xberg-io/xberg) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
 
 **Rust document extraction engine with OCR, tables and 15 language bindings.**
 
@@ -59,7 +59,7 @@ Xberg is a Rust engine that detects and reads 107 document formats (PDF, Office,
 <sub>Rust, Whisper ONNX (tiny to large-v3), PaddleOCR, PP-DocLayout-V3, RT-DETR · Needs Tesseract (optional OCR backend), Ollama, LM Studio, vLLM or hosted LLM (structured extraction) · Docker · [Repo](https://github.com/xberg-io/xberg) · [▶️ Demo ↗](https://docs.xberg.io/demo.html) · [📖 Docs ↗](https://docs.xberg.io) · [🌐 Site ↗](https://xberg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xberg/)</sub>
 
 <a name="qmd"></a>
-### #&#8288;4 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### #&#8288;4 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **Local hybrid search over markdown notes and docs, with CLI and MCP server.**
 
@@ -111,26 +111,8 @@ Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSO
 
 <sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
 
-<a name="azure-search-openai-demo"></a>
-### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
-
-**RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
-
-Python backend with a web frontend that answers questions over your own documents using Azure OpenAI (gpt-5.4-mini in the sample) and Azure AI Search. It shows citations and the thought process for each answer and exposes retrieval settings in the UI. Deployment uses the Azure Developer CLI (`azd up`), which provisions resources and indexes the sample Zava data.
-
-- **+** Multi-turn chat with citations and per-answer thought process
-- **+** UI settings let you tweak prompts and retrieval options while testing
-- **+** Optional multimodal, speech, Entra login with access control, and Cosmos DB chat history
-- **+** Includes sample data plus docs on evaluation, monitoring and productionizing
-- **−** Tied to Azure services; no other model or search providers listed
-- **−** azd up provisions paid resources, mainly AI Search, that bill immediately
-- **−** README advises against production use without extra security work
-- **−** Deploying needs Azure role assignment and deployment write permissions
-
-<sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
-
 <a name="paradedb"></a>
-### #&#8288;8 [paradedb](https://github.com/paradedb/paradedb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
 
 **Postgres extension adding BM25 full-text, vector and hybrid search.**
 
@@ -146,6 +128,24 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 - **−** Prisma integration is not yet available
 
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
+
+<a name="azure-search-openai-demo"></a>
+### #&#8288;8 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+
+**RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
+
+Python backend with a web frontend that answers questions over your own documents using Azure OpenAI (gpt-5.4-mini in the sample) and Azure AI Search. It shows citations and the thought process for each answer and exposes retrieval settings in the UI. Deployment uses the Azure Developer CLI (`azd up`), which provisions resources and indexes the sample Zava data.
+
+- **+** Multi-turn chat with citations and per-answer thought process
+- **+** UI settings let you tweak prompts and retrieval options while testing
+- **+** Optional multimodal, speech, Entra login with access control, and Cosmos DB chat history
+- **+** Includes sample data plus docs on evaluation, monitoring and productionizing
+- **−** Tied to Azure services; no other model or search providers listed
+- **−** azd up provisions paid resources, mainly AI Search, that bill immediately
+- **−** README advises against production use without extra security work
+- **−** Deploying needs Azure role assignment and deployment write permissions
+
+<sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="auto-ontology"></a>
 ### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
@@ -166,7 +166,7 @@ Generates an ontology of terms, SQL attributes and relationships from database m
 <sub>Python, NVIDIA NIM (Nemotron), OpenAI-compatible endpoints, self-hosted NIM · Needs PostgreSQL 17 with pgvector, NVIDIA NIM endpoint or OpenAI-compatible LLM, Docker Compose or Kubernetes (Helm), HashiCorp Vault (optional) · Docker · env example file · [Repo](https://github.com/nvidia/auto-ontology) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/auto-ontology/)</sub>
 
 <a name="chat-langchain"></a>
-### #&#8288;10 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
+### #&#8288;10 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
 
 **LangChain docs Q&A agent with a Next.js chat frontend.**
 
@@ -184,7 +184,7 @@ Documentation assistant that answers questions about LangChain, LangGraph and La
 <sub>TypeScript, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
 
 <a name="chat-with-your-data-solution-accelerator"></a>
-### #&#8288;11 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;11 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
 
 **Azure RAG chat app that answers from your documents with citations.**
 
@@ -202,7 +202,7 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
 <a name="rag-api"></a>
-### #&#8288;12 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
+### #&#8288;12 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
 
 **FastAPI service for per-file document embedding and retrieval on pgvector.**
 
@@ -308,7 +308,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;18 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: known (50) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;18 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (50) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -325,7 +325,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="nano-graphrag"></a>
-### #&#8288;19 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (44) · Freshness: quiet (18) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;19 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (45) · Freshness: quiet (18) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Compact Python GraphRAG library with swappable LLM, vector and graph storage.**
 
@@ -343,7 +343,7 @@ nano-graphrag is a Python library that builds a knowledge graph from text, gener
 <sub>Python, OpenAI, Azure OpenAI, Amazon Bedrock, DeepSeek · Needs OpenAI API key (default), Neo4j (optional) · [Repo](https://github.com/gusye1234/nano-graphrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nano-graphrag/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;20 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: known (32) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;20 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (32) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
