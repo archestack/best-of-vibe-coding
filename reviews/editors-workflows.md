@@ -110,25 +110,8 @@ Yank Note is a desktop Markdown editor built on the Monaco kernel, with local Ma
 
 <sub>TypeScript, OpenAI, Ollama, Gemini, Kimi · Needs pandoc (export) · [Repo](https://github.com/purocean/yn) · [▶️ Demo ↗](https://demo.yank-note.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yn/)</sub>
 
-<a name="builder"></a>
-### #&#8288;7 [builder](https://github.com/builderio/builder) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
-
-**Visual editor and SDKs for drag-and-drop editing with your own components.**
-
-Builder.io is a visual development platform that connects to an existing site or app, so pages can be edited by drag and drop or generated from Figma designs using your own components. Changes are exported as code or published through SDKs. This repository holds the SDKs, usage examples, starter projects and plugins; the editor itself is used through a Builder account.
-
-- **+** Renders pages from your existing components via SDKs
-- **+** Imports Figma designs and exports them as code
-- **+** Repo bundles SDKs, examples, starters and plugins in one place
-- **+** MIT licensed, TypeScript codebase
-- **−** Editor is used through a Builder.io account sign-up
-- **−** README gives no self-hosting instructions
-- **−** Monorepo of SDKs and examples, not a standalone app
-
-<sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
-
 <a name="shaders"></a>
-### #&#8288;8 [shaders](https://github.com/shader-effects-inc/shaders) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (48) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
+### #&#8288;7 [shaders](https://github.com/shader-effects-inc/shaders) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · MIT · Nov 2026</sub>
 
 **WebGPU shader effects as components for React, Vue, Svelte, Solid and JS.**
 
@@ -144,6 +127,23 @@ An npm package of 200+ WebGPU effects (gradients, noise, glass, distortions, blu
 - **−** Requires WebGPU support in the browser; the std primitives API is marked experimental
 
 <sub>TypeScript · Needs WebGPU-capable browser, shaders.com account for design editor and CLI sync · [Repo](https://github.com/shader-effects-inc/shaders) · [📖 Docs ↗](https://shaders.com/docs/components) · [🌐 Site ↗](https://shaders.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shaders/)</sub>
+
+<a name="builder"></a>
+### #&#8288;8 [builder](https://github.com/builderio/builder) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+
+**Visual editor and SDKs for drag-and-drop editing with your own components.**
+
+Builder.io is a visual development platform that connects to an existing site or app, so pages can be edited by drag and drop or generated from Figma designs using your own components. Changes are exported as code or published through SDKs. This repository holds the SDKs, usage examples, starter projects and plugins; the editor itself is used through a Builder account.
+
+- **+** Renders pages from your existing components via SDKs
+- **+** Imports Figma designs and exports them as code
+- **+** Repo bundles SDKs, examples, starters and plugins in one place
+- **+** MIT licensed, TypeScript codebase
+- **−** Editor is used through a Builder.io account sign-up
+- **−** README gives no self-hosting instructions
+- **−** Monorepo of SDKs and examples, not a standalone app
+
+<sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="plate-playground-template"></a>
 ### #&#8288;9 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
@@ -163,7 +163,7 @@ Next.js 16 template with the Plate editor, shadcn/ui and the Plate AI kit (insta
 <sub>TypeScript, Vercel AI Gateway via AI SDK · Needs UploadThing token, Vercel AI Gateway key (user-supplied) · GitHub template · env example file · [Repo](https://github.com/udecode/plate-playground-template) · [📖 Docs ↗](https://platejs.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/plate-playground-template/)</sub>
 
 <a name="workflow-builder-template"></a>
-### #&#8288;10 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;10 [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Visual AI workflow builder on Workflow DevKit with real integrations.**
 
