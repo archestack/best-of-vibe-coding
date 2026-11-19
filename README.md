@@ -48,11 +48,11 @@
 
 | Project | Stars this week | Rank |
 |---|--:|---|
+| [modern-web-guidance](reviews/skills-plugins.md#modern-web-guidance) | +16,885 (+273%) | #&#8288;70 in Skills, plugins and prompts |
+| [craft-anything](reviews/coding-agents.md#craft-anything) | +7,105 (+23%) | #&#8288;9 in Coding agents and AI editors |
+| [t3code](reviews/coding-agents.md#t3code) | +7,003 (+12%) | 🥈 in Coding agents and AI editors |
+| [modern-web-guidance-src](reviews/skills-plugins.md#modern-web-guidance-src) | +6,545 (+272%) | #&#8288;128 in Skills, plugins and prompts |
 | [claude-bughunter](reviews/skills-plugins.md#claude-bughunter) | +6,080 (+109%) | #&#8288;248 in Skills, plugins and prompts |
-| [loopforge](reviews/app-builders.md#loopforge) | +3,556 (+878%) | #&#8288;10 in App builder starters |
-| [dsh-purge](reviews/skills-plugins.md#dsh-purge) | +3,228 (+45%) | #&#8288;83 in Skills, plugins and prompts |
-| [ffmpeg-skill](reviews/skills-plugins.md#ffmpeg-skill) | +2,984 (+58%) | #&#8288;73 in Skills, plugins and prompts |
-| [claude-cage](reviews/coding-agents.md#claude-cage) | +2,719 (+67%) | #&#8288;111 in Coding agents and AI editors |
 
 ## ⚡ Pick by vibe
 
