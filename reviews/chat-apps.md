@@ -57,26 +57,8 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
 
-<a name="langchain-nextjs-template"></a>
-### #&#8288;4 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
-
-**Next.js routes for LangChain.js chat, agents, structured output and RAG.**
-
-Five Next.js API routes that each show one LangChain.js pattern: plain chat, Zod structured output, a prebuilt LangGraph.js agent with Tavily search, and RAG as a chain and as an agent over a Supabase pgvector table. Tokens stream to the client through the AI SDK, routes run on Edge functions, and there is no auth or persistence beyond the vector table. For developers learning LangChain.js who want runnable routes to copy.
-
-- **+** Each pattern is one route file you can lift into your own app
-- **+** Hosted demo on Vercel
-- **+** Mock-backed integration tests run without API keys or a live database
-- **+** Supabase adapter reuses the documents table and match_documents function; no migration
-- **−** No auth and no chat history persistence
-- **−** OpenAI only out of the box; other providers need code changes
-- **−** Re-ingesting the same text duplicates vectors; no dedupe
-- **−** Agent and search examples need a Tavily key
-
-<sub>TypeScript, openai, langchain, langgraph, ai-sdk · Needs openai-api-key, supabase, tavily-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/langchain-nextjs-template) · [▶️ Demo ↗](https://langchain-nextjs-template.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchain-nextjs-template/)</sub>
-
 <a name="boardui"></a>
-### #&#8288;5 [boardui](https://github.com/boardui/boardui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
+### #&#8288;4 [boardui](https://github.com/boardui/boardui) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Oct 2026</sub>
 
 **React component library for agent UIs, installed as source via CLI.**
 
@@ -92,6 +74,24 @@ BoardUI is a set of 69 free React components, built on React Aria Components and
 - **−** Install targets Next.js projects only
 
 <sub>TypeScript, Anthropic, OpenAI, Google Gemini, OpenRouter · Needs Node.js, Next.js, LLM provider API key · env example file · [Repo](https://github.com/boardui/boardui) · [📖 Docs ↗](https://www.boardui.com/mcp) · [🌐 Site ↗](https://www.boardui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/boardui/)</sub>
+
+<a name="langchain-nextjs-template"></a>
+### #&#8288;5 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+
+**Next.js routes for LangChain.js chat, agents, structured output and RAG.**
+
+Five Next.js API routes that each show one LangChain.js pattern: plain chat, Zod structured output, a prebuilt LangGraph.js agent with Tavily search, and RAG as a chain and as an agent over a Supabase pgvector table. Tokens stream to the client through the AI SDK, routes run on Edge functions, and there is no auth or persistence beyond the vector table. For developers learning LangChain.js who want runnable routes to copy.
+
+- **+** Each pattern is one route file you can lift into your own app
+- **+** Hosted demo on Vercel
+- **+** Mock-backed integration tests run without API keys or a live database
+- **+** Supabase adapter reuses the documents table and match_documents function; no migration
+- **−** No auth and no chat history persistence
+- **−** OpenAI only out of the box; other providers need code changes
+- **−** Re-ingesting the same text duplicates vectors; no dedupe
+- **−** Agent and search examples need a Tavily key
+
+<sub>TypeScript, openai, langchain, langgraph, ai-sdk · Needs openai-api-key, supabase, tavily-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/langchain-nextjs-template) · [▶️ Demo ↗](https://langchain-nextjs-template.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchain-nextjs-template/)</sub>
 
 <a name="twitterbio"></a>
 ### #&#8288;6 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
@@ -179,7 +179,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;11 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (23) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 896 · MIT · Mar 2026</sub>
+### #&#8288;11 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (24) · Freshness: slowing (47) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 896 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -228,7 +228,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;14 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (19) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
+### #&#8288;14 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (20) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

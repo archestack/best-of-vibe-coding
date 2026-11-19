@@ -40,7 +40,7 @@ pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect bu
 <sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="jarvis"></a>
-### 🥉 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
+### 🥉 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
 
 **Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
 
@@ -145,7 +145,7 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;9 [examples](https://github.com/elevenlabs/examples) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (35) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
+### #&#8288;9 [examples](https://github.com/elevenlabs/examples) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (35) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 
@@ -267,26 +267,8 @@ A Go server that hosts a WebRTC room (Pion), mixes participant audio, and stream
 
 <sub>Go, gpt-realtime-2 (default, configurable) · Needs OpenAI Realtime API, Go 1.24+, Opus library, pkg-config · [Repo](https://github.com/openai/openai-realtime-meeting-assistant) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-meeting-assistant/)</sub>
 
-<a name="openai-realtime-solar-system"></a>
-### #&#8288;16 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (31) · Freshness: slowing (38) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
-
-**Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
-
-A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC and lets you control a Spline 3D solar system by voice. The model calls functions to focus planets, show moons, draw bar or pie charts, fetch the ISS position and switch to an orbit view. Tools, instructions and voice are defined in lib/config.ts, and the scene URL in components/scene.tsx.
-
-- **+** Working example of Realtime API function calls driving UI and Spline animations
-- **+** Small codebase: tools and prompt in lib/config.ts, scene hooks in components/scene.tsx
-- **+** MIT license, runs with npm install and an OPENAI_API_KEY
-- **+** Planets also respond to clicks and keyboard shortcuts, not only voice
-- **−** Requires an OpenAI API key; no other model providers supported
-- **−** Demo, not a template: no auth, persistence or deployment config
-- **−** Echo or background noise can interrupt the model, per the README
-- **−** Custom scenes need Spline event setup; first scene load is heavy
-
-<sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
-
 <a name="openai-fm"></a>
-### #&#8288;17 [openai-fm](https://github.com/openai/openai-fm) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: popular (63) · Freshness: quiet (5) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
+### #&#8288;16 [openai-fm](https://github.com/openai/openai-fm) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: popular (63) · Freshness: quiet (5) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Dec 2025</sub>
 
 **Next.js demo app for trying OpenAI text-to-speech models.**
 
@@ -302,6 +284,24 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 - **−** Maintainers say they may not review all issues or PRs
 
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
+
+<a name="openai-realtime-solar-system"></a>
+### #&#8288;17 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (31) · Freshness: slowing (38) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
+
+**Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
+
+A Next.js app that connects the browser to the OpenAI Realtime API over WebRTC and lets you control a Spline 3D solar system by voice. The model calls functions to focus planets, show moons, draw bar or pie charts, fetch the ISS position and switch to an orbit view. Tools, instructions and voice are defined in lib/config.ts, and the scene URL in components/scene.tsx.
+
+- **+** Working example of Realtime API function calls driving UI and Spline animations
+- **+** Small codebase: tools and prompt in lib/config.ts, scene hooks in components/scene.tsx
+- **+** MIT license, runs with npm install and an OPENAI_API_KEY
+- **+** Planets also respond to clicks and keyboard shortcuts, not only voice
+- **−** Requires an OpenAI API key; no other model providers supported
+- **−** Demo, not a template: no auth, persistence or deployment config
+- **−** Echo or background noise can interrupt the model, per the README
+- **−** Custom scenes need Spline event setup; first scene load is heavy
+
+<sub>TypeScript, OpenAI Realtime · Needs OpenAI Realtime API, Spline · [Repo](https://github.com/openai/openai-realtime-solar-system) · [📖 Docs ↗](https://platform.openai.com/docs/guides/realtime) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-realtime-solar-system/)</sub>
 
 <a name="live-api-web-console"></a>
 ### #&#8288;18 [live-api-web-console](https://github.com/google-gemini/live-api-web-console) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: popular (59) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · Apache-2.0 · Oct 2025</sub>
