@@ -58,7 +58,7 @@ JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` p
 <sub>Python, Claude (Sonnet by default, via Claude Code) · Needs Claude Code CLI 2.1.224+ (logged in), Fish Audio API key, Google Chrome, Python 3.11+, Node.js 18+, Playwright Chromium, OpenSSL (self-signed certs) · env example file · [Repo](https://github.com/ethanplusai/jarvis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jarvis/)</sub>
 
 <a name="pipecat-examples"></a>
-### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 428 · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 433 · BSD-2-Clause · Nov 2026</sub>
 
 **Intermediate and advanced example bots built on the Pipecat voice framework.**
 
@@ -111,7 +111,7 @@ A Python starter for a voice assistant built on LiveKit Agents and LiveKit Cloud
 <sub>Python, LiveKit Inference, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI · Needs LiveKit Cloud, LiveKit CLI, uv · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-python) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-python/)</sub>
 
 <a name="agent-starter-node"></a>
-### #&#8288;7 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Nov 2026</sub>
+### #&#8288;7 [agent-starter-node](https://github.com/livekit-examples/agent-starter-node) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 118 · MIT · Nov 2026</sub>
 
 **Node.js voice AI agent starter for LiveKit Agents.**
 

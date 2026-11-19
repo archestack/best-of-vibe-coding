@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -94,7 +94,7 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
 <a name="azure-search-openai-demo"></a>
-### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;6 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
 
@@ -112,7 +112,7 @@ Python backend with a web frontend that answers questions over your own document
 <sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="manticoresearch"></a>
-### #&#8288;7 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;7 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
 
 **C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
 
@@ -181,7 +181,7 @@ Documentation assistant that answers questions about LangChain, LangGraph and La
 - **−** Prompts and tools are specific to LangChain docs; reuse means rewriting them
 - **−** No Docker or compose files and no tagged releases
 
-<sub>TypeScript, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
+<sub>Python, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
 
 <a name="chat-with-your-data-solution-accelerator"></a>
 ### #&#8288;11 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
@@ -291,7 +291,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="azure-search-openai-javascript"></a>
-### #&#8288;17 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · Oct 2026</sub>
+### #&#8288;17 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · Oct 2026</sub>
 
 **TypeScript RAG on Azure AI Search with separate indexer and search services.**
 
@@ -325,7 +325,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="nano-graphrag"></a>
-### #&#8288;19 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (46) · Freshness: quiet (18) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;19 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (45) · Freshness: quiet (18) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Compact Python GraphRAG library with swappable LLM, vector and graph storage.**
 
@@ -360,7 +360,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;21 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (8) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;21 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (8) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

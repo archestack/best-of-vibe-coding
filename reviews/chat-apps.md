@@ -5,7 +5,7 @@ Chat interfaces and single-feature text apps you fork as the base of a conversat
 <sub>🌐 Also on the web: [Chat apps on archestack.com](https://archestack.com/best-of-vibe-coding/chat-apps/), each project on its own page.</sub>
 
 <a name="claude-quickstarts"></a>
-### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
+### 🥇 [claude-quickstarts](https://github.com/anthropics/claude-quickstarts) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Nov 2026</sub>
 
 **Claude API sample apps for agents, computer use and browser automation.**
 
