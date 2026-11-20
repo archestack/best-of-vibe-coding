@@ -2357,7 +2357,7 @@ entries:
     links:
       demo: null
       website: https://open-codereview.ai
-      docs: https://open-codereview.ai/docs
+      docs: null
     audience: Teams adding LLM pull request review to local workflows or CI
     confidence: 0.9
     facts:
@@ -2967,7 +2967,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/virgiliojr94/book-to-skill/blob/main/docs/usage.md
+      docs: null
     audience: Developers who want books or internal docs queryable from a coding agent
     confidence: 0.85
     facts:
@@ -6582,7 +6582,7 @@ entries:
     links:
       demo: null
       website: https://coplaydev.github.io/unity-mcp/
-      docs: https://coplaydev.github.io/unity-mcp/reference/tools/
+      docs: null
     audience: Unity developers who want an AI assistant to drive the Editor over MCP
     confidence: 0.9
     facts:
@@ -8383,7 +8383,7 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://room.plannotator.ai/
+      demo: null
       website: https://plannotator.ai/
       docs: https://docs.plannotator.ai/open-source/start/installation
     audience: Developers using coding agents who want to review plans and diffs visually
@@ -10623,7 +10623,7 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://github.com/user-attachments/assets/c6cf7fb9-b1dc-46ed-93b9-6e7240990c53
+      demo: null
       website: null
       docs: null
     audience: Developers giving Claude Code, Codex or similar agents browser control
@@ -12225,7 +12225,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/Waishnav/devspace/blob/main/docs/setup.md
+      docs: null
     audience: ChatGPT users who want it to work on local repos through MCP
     confidence: 0.75
     facts:
@@ -14056,7 +14056,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/foryourhealth111-pixel/Vibe-Skills/blob/main/docs/quick-start.en.md
+      docs: null
     audience: Agent users with big local Skill libraries who want planned multi-step delivery
     confidence: 0.7
     facts:
@@ -16159,7 +16159,7 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://nextsystems.ai
+      website: null
       docs: null
     audience: Teams using OpenCode who want agents that follow shared coding standards
     confidence: 0.8
@@ -17707,8 +17707,8 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://aioxsquad.ai
-      docs: https://aioxsquad.ai
+      website: null
+      docs: null
     audience: Developers using Claude Code, Codex or Gemini CLI who want set agent roles
     confidence: 0.7
     facts:
@@ -22150,7 +22150,7 @@ entries:
         - Codex
       web_port: null
     links:
-      demo: https://cbrock84.github.io/headcount/org-chart.html
+      demo: null
       website: null
       docs: null
     audience: Claude Code or Codex users wanting role-based skill packs beyond coding
@@ -23209,7 +23209,7 @@ entries:
     links:
       demo: null
       website: https://plugins.jetbrains.com/plugin/21056-proxy-ai
-      docs: https://docs.tryproxy.io/features
+      docs: null
     audience: JetBrains IDE users wanting a Copilot alternative with their own model provider
     confidence: 0.85
     facts:
@@ -23676,7 +23676,7 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://vibekit.sh
+      website: null
       docs: https://docs.vibekit.sh
     audience: Developers who want to run coding agent CLIs in sandboxes with logging
     confidence: 0.7
@@ -27095,7 +27095,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://aiderdesk.hotovo.com/docs
+      docs: null
     audience: Professional developers who want controlled, reviewable AI coding workflows
     confidence: 0.8
     facts:
@@ -27983,7 +27983,7 @@ entries:
     links:
       demo: https://demo.nextacular.co
       website: null
-      docs: https://docs.nextacular.co
+      docs: null
     audience: Developers launching a multi-tenant SaaS on Next.js and Vercel
     confidence: 0.8
     facts:
@@ -29786,7 +29786,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://docs.helmor.ai
+      docs: null
     audience: Developers running several coding agents in parallel on local repos
     confidence: 0.88
     facts:
@@ -30395,7 +30395,7 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://chrisai.cv
+      website: null
       docs: null
     audience: Claude Code users who want a structured plan-and-close workflow
     confidence: 0.85
@@ -30758,9 +30758,9 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://app.amplication.com
+      demo: null
       website: https://amplication.com
-      docs: https://docs.amplication.com
+      docs: null
     audience: Platform teams standardizing backend service scaffolding across an organization
     confidence: 0.7
     facts:
@@ -30973,7 +30973,7 @@ entries:
     links:
       demo: null
       website: https://www.testsprite.com
-      docs: https://www.testsprite.com/docs
+      docs: null
     audience: Developers using coding agents who want automated end-to-end checks in the loop
     confidence: 0.8
     facts:
@@ -31429,8 +31429,8 @@ entries:
       web_port: 88
     links:
       demo: null
-      website: https://www.oinone.ai
-      docs: https://guide.oinone.ai/en/InstallOrUpgrade/CommunityEdition.html
+      website: null
+      docs: null
     audience: Java teams building enterprise apps (ERP, MES, OMS) on a low-code base
     confidence: 0.6
     facts:
@@ -35324,7 +35324,7 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://playground.memgraph.com/
+      demo: null
       website: https://memgraph.com
       docs: https://memgraph.com/docs
     audience: Engineers building GraphRAG, AI memory or real-time graph analytics on Cypher
@@ -35974,8 +35974,8 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://bradygaster.github.io/squad/
-      docs: https://bradygaster.github.io/squad/docs/get-started/installation/
+      website: null
+      docs: null
     audience: Developers using GitHub Copilot who want a persistent agent team in-repo
     confidence: 0.8
     facts:
@@ -37304,7 +37304,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/open-gitagent/gitagent/blob/main/spec/SPECIFICATION.md
+      docs: null
     audience: Teams versioning agent prompts and policies in git, exporting to many frameworks
     confidence: 0.8
     facts:
@@ -37894,7 +37894,7 @@ entries:
     links:
       demo: null
       website: https://redwoodjs.com
-      docs: https://redwoodjs.com/docs/introduction
+      docs: null
     audience: TypeScript developers building full-stack React apps with a GraphQL API
     confidence: 0.6
     facts:
@@ -39682,7 +39682,7 @@ entries:
     links:
       demo: null
       website: https://www.matrixorigin.io/
-      docs: https://docs.matrixorigin.cn/en/latest/
+      docs: null
     audience: Engineers wanting one MySQL-compatible database for SQL, search and vectors
     confidence: 0.8
     facts:
@@ -40002,8 +40002,8 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://www.opensre.com
-      docs: https://www.opensre.com/docs
+      website: null
+      docs: null
     audience: Platform and DevOps engineers who want an agent to triage CI failures
     confidence: 0.7
     facts:
@@ -43562,7 +43562,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://tech.skaiworldwide.com/docs/en/agensgraph/18/
+      docs: null
     audience: Teams wanting a graph database inside PostgreSQL, incl. GraphRAG
     confidence: 0.85
     facts:
@@ -43699,7 +43699,7 @@ entries:
       model_support: []
       web_port: 3000
     links:
-      demo: https://remix-saas.fly.dev
+      demo: null
       website: null
       docs: https://github.com/dev-xo/remix-saas/tree/main/docs
     audience: Developers starting a Remix-based SaaS with auth and billing
@@ -45275,7 +45275,7 @@ entries:
     links:
       demo: null
       website: https://specstory.com
-      docs: https://docs.specstory.com/overview
+      docs: null
     audience: Developers using AI coding agents who want a searchable session history
     confidence: 0.8
     facts:
@@ -45316,9 +45316,9 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://prismer.cloud/evolution
-      website: https://prismer.cloud
-      docs: https://prismer.cloud/docs
+      demo: null
+      website: null
+      docs: null
     audience: Developers using Claude Code, Cursor or OpenCode who want shared agent memory
     confidence: 0.6
     facts:
@@ -45486,7 +45486,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/ZiChuanLan/agent-purge/blob/main/docs/usage.md
+      docs: null
     audience: Developers using several coding agents who want one shared persona prompt
     confidence: 0.8
     facts:
@@ -49271,7 +49271,7 @@ entries:
     links:
       demo: null
       website: https://rnfirebase.io
-      docs: https://rnfirebase.io/reference
+      docs: null
     audience: React Native developers building mobile apps on Firebase services
     confidence: 0.6
     facts:
@@ -50012,7 +50012,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/kdcokenny/ocx/blob/a23800caf8b53d7511a5c464bc27334cdff91e6f/docs/v2/profiles.mdx
+      docs: null
     audience: OpenCode users who keep separate setups for work, personal and review
     confidence: 0.8
     facts:
@@ -52619,7 +52619,7 @@ entries:
     links:
       demo: null
       website: https://swapper.finance
-      docs: https://docs.swapper.finance/ai-agents/skills
+      docs: null
     audience: Developers giving coding agents a crypto deposit and bridging step
     confidence: 0.85
     facts:
@@ -53629,7 +53629,7 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://jupiterconsole.douyu.com
+      demo: null
       website: http://jupiter.douyu.com/
       docs: http://jupiter.douyu.com/
     audience: Go teams building microservices who want built-in governance tooling
@@ -56520,8 +56520,8 @@ entries:
       web_port: 3000
     links:
       demo: null
-      website: https://christopherkarani.github.io/Wax/
-      docs: https://christopherkarani.github.io/Wax/
+      website: null
+      docs: null
     audience: Developers giving Claude, Codex, Cursor or Swift apps persistent local memory
     confidence: 0.8
     facts:
@@ -57884,7 +57884,7 @@ entries:
       web_port: null
     links:
       demo: https://github.com/StarRocks/demo
-      website: https://starrocks.io/index
+      website: null
       docs: https://docs.starrocks.io/
     audience: Data engineers running real-time or lakehouse analytics on large datasets
     confidence: 0.6
@@ -58012,7 +58012,7 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://www.ferretdb.com/
+      website: null
       docs: https://docs.ferretdb.io/
     audience: Teams wanting a MongoDB-compatible API on open-source PostgreSQL
     confidence: 0.85
@@ -59229,7 +59229,7 @@ entries:
     links:
       demo: null
       website: https://deeptide.sh/
-      docs: https://github.com/a8e-ai/zero-cli/blob/main/docs/tide-spec.md
+      docs: null
     audience: Developers who want a terminal or desktop coding agent built around DeepSeek
     confidence: 0.8
     facts:
@@ -59919,7 +59919,7 @@ entries:
       web_port: 8000
     links:
       demo: https://laravel.demo.aimeos.org
-      website: https://aimeos.org/Laravel
+      website: null
       docs: https://aimeos.org/docs/latest/laravel
     audience: Laravel and PHP developers building or self-hosting an online shop
     confidence: 0.7
@@ -81020,7 +81020,7 @@ entries:
         - mcp-handler 2
       web_port: 3000
     links:
-      demo: https://mcp-for-next-js.vercel.app
+      demo: null
       website: https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js
       docs: null
     audience: Next.js teams exposing tools to MCP clients

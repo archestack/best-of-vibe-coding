@@ -326,7 +326,7 @@ Unity package plus a Python MCP server that connects MCP clients (Claude Desktop
 - **−** Sponsored by Aura, which also sells a separate premium assistant
 - **−** Contributions go to the beta branch while install URL points at main
 
-<sub>no GPU · Compose · Needs Unity 2021.3 LTS to 6.x, Python 3.10+, uv · Models: Any MCP client, Claude, Codex, local LLMs · safety checks passed 17 of 18 · [Repo](https://github.com/coplaydev/unity-mcp) · [📖 Docs ↗](https://coplaydev.github.io/unity-mcp/reference/tools/) · [🌐 Site ↗](https://coplaydev.github.io/unity-mcp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/unity-mcp/)</sub>
+<sub>no GPU · Compose · Needs Unity 2021.3 LTS to 6.x, Python 3.10+, uv · Models: Any MCP client, Claude, Codex, local LLMs · safety checks passed 17 of 18 · [Repo](https://github.com/coplaydev/unity-mcp) · [🌐 Site ↗](https://coplaydev.github.io/unity-mcp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/unity-mcp/)</sub>
 
 <a name="tabularis"></a>
 ### #&#8288;19 [tabularis](https://github.com/tabularisdb/tabularis) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · Apache-2.0 · Nov 2026</sub>
@@ -666,7 +666,7 @@ DevSpace is a Node-based MCP server that exposes selected local project folders 
 - **−** Windows PowerShell or cmd.exe alone is not supported
 - **−** Requires Node >=22.19 and a Bash-compatible shell
 
-<sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📖 Docs ↗](https://github.com/Waishnav/devspace/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
+<sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
 
 <a name="mcphub"></a>
 ### #&#8288;38 [mcphub](https://github.com/samanhappy/mcphub) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Nov 2026</sub>
@@ -954,7 +954,7 @@ dev-browser runs JavaScript scripts against a persistent Chrome instance through
 - **−** Version 1.0 breaks 0.2 scripts; snapshotForAI and page.cua helpers are removed
 - **−** Scripts sharing a named page can still interleave
 
-<sub>no GPU · Needs Chrome or Chromium · [Repo](https://github.com/sawyerhood/dev-browser) · [▶️ Demo ↗](https://github.com/user-attachments/assets/c6cf7fb9-b1dc-46ed-93b9-6e7240990c53) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dev-browser/)</sub>
+<sub>no GPU · Needs Chrome or Chromium · [Repo](https://github.com/sawyerhood/dev-browser) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dev-browser/)</sub>
 
 <a name="androguard"></a>
 ### #&#8288;54 [androguard](https://github.com/androguard/androguard) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Oct 2026</sub>

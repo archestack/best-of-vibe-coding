@@ -1035,7 +1035,7 @@ Next.js App Router project where app/mcp/route.ts hosts a stateless MCP server t
 - **−** Only an echo tool; the README is a few lines
 - **−** No tests or Docker
 
-<sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [▶️ Demo ↗](https://mcp-for-next-js.vercel.app) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
+<sub>JavaScript, MCP TypeScript SDK v2, mcp-handler 2 · [Repo](https://github.com/vercel-labs/mcp-for-next.js) · [🌐 Site ↗](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-for-next-js/)</sub>
 
 <a name="opengap"></a>
 ### #&#8288;59 [opengap](https://github.com/open-gitagent/opengap) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (55) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Jul 2026</sub>
@@ -1053,7 +1053,7 @@ OpenGAP defines an agent as a git repo: agent.yaml and SOUL.md are required, wit
 - **−** Compliance features are aimed at US financial regulation, with little else covered
 - **−** Package was renamed twice (gitagent, gapman, opengap), which complicates searching docs and installs
 
-<sub>TypeScript, Claude, OpenAI, Gemini, GitHub Models · Needs Node.js >= 18, git · [Repo](https://github.com/open-gitagent/opengap) · [📖 Docs ↗](https://github.com/open-gitagent/gitagent/blob/main/spec/SPECIFICATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengap/)</sub>
+<sub>TypeScript, Claude, OpenAI, Gemini, GitHub Models · Needs Node.js >= 18, git · [Repo](https://github.com/open-gitagent/opengap) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengap/)</sub>
 
 <a name="new-langgraphjs-project"></a>
 ### #&#8288;60 [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (1) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 78 · MIT · Nov 2026</sub>

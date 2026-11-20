@@ -1258,7 +1258,7 @@ Jupiter is a Go framework for building governed microservices, used in productio
 - **−** Governance console lives in a separate repo (Juno)
 - **−** Quick start needs Docker Compose for the example's dependencies
 
-<sub>Go · Needs Go >= 1.19, Docker · [Repo](https://github.com/douyu/jupiter) · [▶️ Demo ↗](https://jupiterconsole.douyu.com) · [📖 Docs ↗](http://jupiter.douyu.com/) · [🌐 Site ↗](http://jupiter.douyu.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jupiter/)</sub>
+<sub>Go · Needs Go >= 1.19, Docker · [Repo](https://github.com/douyu/jupiter) · [📖 Docs ↗](http://jupiter.douyu.com/) · [🌐 Site ↗](http://jupiter.douyu.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jupiter/)</sub>
 
 <a name="robyn"></a>
 ### #&#8288;71 [robyn](https://github.com/sparckles/robyn) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: popular (63) · Freshness: active (97) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · BSD-2-Clause · Aug 2026</sub>

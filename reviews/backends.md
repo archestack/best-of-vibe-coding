@@ -1000,7 +1000,7 @@ StarRocks is an MySQL-protocol-compatible analytical database with a cost-based 
 - **−** Speed claims (3x, 5-10x) come from vendor benchmarks, not reproduced in the README
 - **−** No AI, LLM or vector features described; it is an analytics database
 
-<sub>Compose · [Repo](https://github.com/starrocks/starrocks) · [▶️ Demo ↗](https://github.com/StarRocks/demo) · [📖 Docs ↗](https://docs.starrocks.io/) · [🌐 Site ↗](https://starrocks.io/index) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/starrocks/)</sub>
+<sub>Compose · [Repo](https://github.com/starrocks/starrocks) · [▶️ Demo ↗](https://github.com/StarRocks/demo) · [📖 Docs ↗](https://docs.starrocks.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/starrocks/)</sub>
 
 <a name="frappe"></a>
 ### #&#8288;57 [frappe](https://github.com/frappe/frappe) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
@@ -1250,7 +1250,7 @@ A Lerna monorepo of npm packages, each a thin JavaScript layer over the native F
 - **−** License is not identified by the detector (NOASSERTION), so check the LICENSE file
 - **−** Tied to Google's proprietary Firebase services, which makes migrating away costly
 
-<sub>no GPU · Needs Firebase project, Native Firebase iOS SDK, Native Firebase Android SDK · [Repo](https://github.com/invertase/react-native-firebase) · [📖 Docs ↗](https://rnfirebase.io/reference) · [🌐 Site ↗](https://rnfirebase.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-native-firebase/)</sub>
+<sub>no GPU · Needs Firebase project, Native Firebase iOS SDK, Native Firebase Android SDK · [Repo](https://github.com/invertase/react-native-firebase) · [🌐 Site ↗](https://rnfirebase.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-native-firebase/)</sub>
 
 <a name="webiny-js"></a>
 ### #&#8288;71 [webiny-js](https://github.com/webiny/webiny-js) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.1k · custom license · Nov 2026</sub>
@@ -3344,7 +3344,7 @@ MatrixOne is a Go database that speaks the MySQL protocol and runs transactional
 - **−** Full cluster setup has multiple node types, heavier than an embedded database
 - **−** Infrastructure component, not an app starter you fork and run
 
-<sub>no GPU · [Repo](https://github.com/matrixorigin/matrixone) · [📖 Docs ↗](https://docs.matrixorigin.cn/en/latest/) · [🌐 Site ↗](https://www.matrixorigin.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matrixone/)</sub>
+<sub>no GPU · [Repo](https://github.com/matrixorigin/matrixone) · [🌐 Site ↗](https://www.matrixorigin.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matrixone/)</sub>
 
 <a name="ubicloud"></a>
 ### #&#8288;188 [ubicloud](https://github.com/ubicloud/ubicloud) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · AGPL-3.0 · Nov 2026</sub>
@@ -3596,7 +3596,7 @@ Memgraph is an in-memory graph database written in C/C++ that speaks Neo4j-compa
 - **−** Data is held in memory, so dataset size is bounded by RAM
 - **−** A database engine, not a RAG starter; retrieval pipelines must be built on top
 
-<sub>GPU optional · [Repo](https://github.com/memgraph/memgraph) · [▶️ Demo ↗](https://playground.memgraph.com/) · [📖 Docs ↗](https://memgraph.com/docs) · [🌐 Site ↗](https://memgraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memgraph/)</sub>
+<sub>GPU optional · [Repo](https://github.com/memgraph/memgraph) · [📖 Docs ↗](https://memgraph.com/docs) · [🌐 Site ↗](https://memgraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memgraph/)</sub>
 
 <a name="kubeblocks"></a>
 ### #&#8288;202 [kubeblocks](https://github.com/apecloud/kubeblocks) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (30) · Freshness: active (91) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · AGPL-3.0 · Nov 2026</sub>
@@ -4241,7 +4241,7 @@ AgensGraph is a fork of PostgreSQL, not an extension, that stores graphs and rel
 - **−** Upgrading from 2.17 requires following a dedicated upgrade procedure to 2.18
 - **−** AI integrations ship as separate Python packages, with no non-Python equivalents listed
 
-<sub>no GPU · Models: pgvector embeddings, MCP clients, LangChain, LlamaIndex, LightRAG · [Repo](https://github.com/skaiworldwide-oss/agensgraph) · [📖 Docs ↗](https://tech.skaiworldwide.com/docs/en/agensgraph/18/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agensgraph/)</sub>
+<sub>no GPU · Models: pgvector embeddings, MCP clients, LangChain, LlamaIndex, LightRAG · [Repo](https://github.com/skaiworldwide-oss/agensgraph) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agensgraph/)</sub>
 
 <a name="tile38"></a>
 ### #&#8288;238 [tile38](https://github.com/tidwall/tile38) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: weak (18) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
@@ -4959,7 +4959,7 @@ Amplication generates backend microservices (APIs, data models, DTOs) from a mod
 - **−** Self-hosting is documented only as a development setup, not a production deployment guide
 - **−** Local setup needs Node.js, Docker and several services run via npm scripts
 
-<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [▶️ Demo ↗](https://app.amplication.com) · [📖 Docs ↗](https://docs.amplication.com) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
+<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
 
 <a name="laf"></a>
 ### #&#8288;278 [laf](https://github.com/labring/laf) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (56) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · Apache-2.0 · Jul 2026</sub>
@@ -5173,7 +5173,7 @@ FerretDB is a Go proxy that accepts MongoDB 5.0+ wire protocol traffic and trans
 - **−** Eval Docker image keeps data inside the container and is not for production
 - **−** README advises against building from source; use provided binaries or packages
 
-<sub>no GPU · Compose · Needs PostgreSQL, DocumentDB extension · [Repo](https://github.com/ferretdb/ferretdb) · [📖 Docs ↗](https://docs.ferretdb.io/) · [🌐 Site ↗](https://www.ferretdb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ferretdb/)</sub>
+<sub>no GPU · Compose · Needs PostgreSQL, DocumentDB extension · [Repo](https://github.com/ferretdb/ferretdb) · [📖 Docs ↗](https://docs.ferretdb.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ferretdb/)</sub>
 
 <a name="graphql"></a>
 ### #&#8288;290 [graphql](https://github.com/redwoodjs/graphql) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (77) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Dec 2025</sub>
@@ -5191,7 +5191,7 @@ RedwoodJS is an opinionated TypeScript web framework: a React frontend (Vite) ta
 - **−** Bighorn epoch with React Server Components has no production release
 - **−** Opinionated stack with GraphQL and Prisma; swapping parts is not described
 
-<sub>no GPU · Needs Node.js, Prisma-supported database · [Repo](https://github.com/redwoodjs/graphql) · [📖 Docs ↗](https://redwoodjs.com/docs/introduction) · [🌐 Site ↗](https://redwoodjs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql/)</sub>
+<sub>no GPU · Needs Node.js, Prisma-supported database · [Repo](https://github.com/redwoodjs/graphql) · [🌐 Site ↗](https://redwoodjs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql/)</sub>
 
 <a name="gel"></a>
 ### #&#8288;291 [gel](https://github.com/geldata/gel) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (70) · Freshness: quiet (22) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Dec 2025</sub>
