@@ -39,7 +39,7 @@ Nx is a monorepo tool for TypeScript and polyglot codebases, with a core written
 <sub>no GPU · Needs Node.js, Nx Cloud (optional, for remote cache and self-healing CI) · [Repo](https://github.com/nrwl/nx) · [📖 Docs ↗](https://nx.dev/docs) · [🌐 Site ↗](https://nx.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nx/)</sub>
 
 <a name="open-code-review"></a>
-### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 54k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · Apache-2.0 · Nov 2026</sub>
 
 **Go CLI that reviews Git diffs with an LLM agent and line-level comments.**
 
@@ -56,62 +56,8 @@ Open Code Review (`ocr`) reads a Git diff, bundles related files into sub-agent 
 
 <sub>no GPU · Needs Git >= 2.41, LLM provider endpoint (unless delegation mode), Node.js/npm (for npm install) · Models: Built-in and custom LLM providers, Host agent models in delegation mode · [Repo](https://github.com/alibaba/open-code-review) · [🌐 Site ↗](https://open-codereview.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-code-review/)</sub>
 
-<a name="bend"></a>
-### #&#8288;4 [bend](https://github.com/bendlang/bend) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
-
-**Dependent-typed language where AI-written code must prove rules in LAWS.bend.**
-
-Bend 2 is a Python-like language with dependent types and a proof checker, compiling to C, Metal, CUDA and JavaScript. Rules are declared in a LAWS.bend file, and the agent runs `bend PROOF.bend` after each edit so the compiler rejects changes that break a law. Divide-and-conquer calls run in parallel across CPU cores or a GPU.
-
-- **+** Laws are machine-checked, so agent edits that violate them fail to compile
-- **+** Parallel execution on CPU cores or GPU without threads, locks or kernels
-- **+** Installs with one curl script; agent setup is a short AGENTS.md snippet
-- **+** Targets C, Metal, CUDA and JavaScript; JS target suits fast iteration
-- **−** Compiler is about 99% AI-written and not fully audited; README warns to expect bugs
-- **−** Proofs need real effort: no tactics or proof search, and all code is annotated
-- **−** No native Windows support (WSL only); native builds need clang 14+, GPU runs need 19+
-- **−** No TLS, HTTP, JSON or regex libraries; numbers limited to Nat, U32 and F32
-
-<sub>GPU optional · Needs clang 14+ (19+ for GPU calls), Metal or CUDA 12 for GPU, X11 and ALSA headers (Linux, window/audio) · [Repo](https://github.com/bendlang/bend) · [▶️ Demo ↗](https://bend-lang.com/#lab) · [🌐 Site ↗](https://bend-lang.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bend/)</sub>
-
-<a name="pr-agent"></a>
-### #&#8288;5 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
-
-**LLM-based pull request reviewer that runs as a GitHub Action, CLI or webhook.**
-
-PR-Agent posts AI-generated PR descriptions, reviews, code suggestions and Q&A as comments via /describe, /review, /improve and /ask commands. It supports GitHub, GitLab, Bitbucket, Azure DevOps and Gitea, and any model reachable through LiteLLM, including OpenAI, Claude, Gemini and Ollama. Each command uses a single LLM call, and prompts are configurable through TOML files.
-
-- **+** Supports GitHub, GitLab, Bitbucket, Azure DevOps and Gitea
-- **+** Any LiteLLM-reachable model, including local Ollama, so code can stay in your infrastructure
-- **+** One LLM call per command; PR compression handles large diffs
-- **+** Installs as a GitHub Action, pip package, Docker image or webhook server
-- **−** Described as a community-maintained legacy project, separate from Qodo's current product
-- **−** /help_docs is disabled since v0.36.1 because of a credential-exposure issue
-- **−** Docker image moved to pragent/pr-agent from 0.34.2; pinned references need updating
-- **−** Project is still being donated to a foundation, so governance is in flux
-
-<sub>no GPU · Docker + Compose · Needs LLM provider API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
-
-<a name="mobile-dev-inc-maestro"></a>
-### #&#8288;6 [maestro](https://github.com/mobile-dev-inc/maestro) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
-
-**YAML-based UI and end-to-end test framework for Android, iOS and web.**
-
-Maestro runs UI and end-to-end tests written as flat YAML command lists (launchApp, tapOn, assertVisible) against Android, iOS and web apps, driving them through the platform accessibility layer. It installs as a single CLI binary and also ships an MCP server (`maestro mcp`) so coding agents can control a live device and write flows. Flows run on emulators, simulators, browsers and physical Android devices.
-
-- **+** Single binary install; no drivers or SDK needed in the app under test
-- **+** One YAML syntax covers Android, iOS, web, React Native, Flutter and hybrid apps
-- **+** Built-in MCP server in the CLI works with Claude Code, Cursor, Codex and others
-- **+** Automatic waiting and flakiness tolerance remove manual sleep calls
-- **−** Physical iOS devices are not supported
-- **−** Requires Java 17 or higher on the host
-- **−** Maestro Studio IDE is free but closed source
-- **−** Parallel execution at scale needs paid Maestro Cloud
-
-<sub>no GPU · Needs Java 17+ · [Repo](https://github.com/mobile-dev-inc/maestro) · [📖 Docs ↗](https://docs.maestro.dev) · [🌐 Site ↗](https://www.maestro.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mobile-dev-inc-maestro/)</sub>
-
 <a name="midscene"></a>
-### #&#8288;7 [midscene](https://github.com/web-infra-dev/midscene) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
+### #&#8288;4 [midscene](https://github.com/web-infra-dev/midscene) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
 
 **Vision-based E2E testing in natural language for web, mobile and desktop.**
 
@@ -129,7 +75,7 @@ Midscene.js drives web, Android, iOS, HarmonyOS and desktop UIs from screenshots
 <sub>Needs Vision-language model API or self-hosted model, Playwright or Puppeteer (web), ADB (Android), WebDriverAgent (iOS), HDC (HarmonyOS) · Models: GPT, Qwen, Doubao Seed, DeepSeek, Gemini · [Repo](https://github.com/web-infra-dev/midscene) · [📖 Docs ↗](https://midscenejs.com/) · [🌐 Site ↗](https://midscenejs.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/midscene/)</sub>
 
 <a name="react-doctor"></a>
-### #&#8288;8 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
+### #&#8288;5 [react-doctor](https://github.com/millionco/react-doctor) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
 
 **CLI that scans React codebases for state, performance, security and accessibility issues.**
 
@@ -145,25 +91,62 @@ React Doctor runs deterministic checks over a React project and reports issues i
 
 <sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
 
-<a name="knip"></a>
-### #&#8288;9 [knip](https://github.com/webpro-nl/knip) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · ISC · Nov 2026</sub>
+<a name="bend"></a>
+### #&#8288;6 [bend](https://github.com/bendlang/bend) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
 
-**Finds unused dependencies, exports and files in JavaScript and TypeScript projects.**
+**Dependent-typed language where AI-written code must prove rules in LAWS.bend.**
 
-Knip is a linter for JavaScript and TypeScript projects that reports unused dependencies, exports and files, and can fix them. It installs from npm with a config generator (`npm init @knip/config`) and runs as an npm script. Companion packages include a language server, a VS Code extension and an MCP server that lets a coding agent configure Knip.
+Bend 2 is a Python-like language with dependent types and a proof checker, compiling to C, Metal, CUDA and JavaScript. Rules are declared in a LAWS.bend file, and the agent runs `bend PROOF.bend` after each edit so the compiler rejects changes that break a law. Divide-and-conquer calls run in parallel across CPU cores or a GPU.
 
-- **+** Covers unused dependencies, exports and files in a single tool
-- **+** Config generator via `npm init @knip/config` for quick setup
-- **+** Ships a language server and VS Code and Open VSX extensions
-- **+** Official @knip/mcp server lets coding agents configure it
-- **−** Limited to JavaScript and TypeScript projects
-- **−** Not an AI tool; the agent integration only helps with configuration
-- **−** README gives no plugin list or configuration examples; details live on knip.dev
+- **+** Laws are machine-checked, so agent edits that violate them fail to compile
+- **+** Parallel execution on CPU cores or GPU without threads, locks or kernels
+- **+** Installs with one curl script; agent setup is a short AGENTS.md snippet
+- **+** Targets C, Metal, CUDA and JavaScript; JS target suits fast iteration
+- **−** Compiler is about 99% AI-written and not fully audited; README warns to expect bugs
+- **−** Proofs need real effort: no tactics or proof search, and all code is annotated
+- **−** No native Windows support (WSL only); native builds need clang 14+, GPU runs need 19+
+- **−** No TLS, HTTP, JSON or regex libraries; numbers limited to Nat, U32 and F32
 
-<sub>no GPU · Needs npm · [Repo](https://github.com/webpro-nl/knip) · [📖 Docs ↗](https://knip.dev/overview/getting-started) · [🌐 Site ↗](https://knip.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/knip/)</sub>
+<sub>GPU optional · Needs clang 14+ (19+ for GPU calls), Metal or CUDA 12 for GPU, X11 and ALSA headers (Linux, window/audio) · [Repo](https://github.com/bendlang/bend) · [▶️ Demo ↗](https://bend-lang.com/#lab) · [🌐 Site ↗](https://bend-lang.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bend/)</sub>
+
+<a name="pr-agent"></a>
+### #&#8288;7 [pr-agent](https://github.com/the-pr-agent/pr-agent) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
+
+**LLM-based pull request reviewer that runs as a GitHub Action, CLI or webhook.**
+
+PR-Agent posts AI-generated PR descriptions, reviews, code suggestions and Q&A as comments via /describe, /review, /improve and /ask commands. It supports GitHub, GitLab, Bitbucket, Azure DevOps and Gitea, and any model reachable through LiteLLM, including OpenAI, Claude, Gemini and Ollama. Each command uses a single LLM call, and prompts are configurable through TOML files.
+
+- **+** Supports GitHub, GitLab, Bitbucket, Azure DevOps and Gitea
+- **+** Any LiteLLM-reachable model, including local Ollama, so code can stay in your infrastructure
+- **+** One LLM call per command; PR compression handles large diffs
+- **+** Installs as a GitHub Action, pip package, Docker image or webhook server
+- **−** Described as a community-maintained legacy project, separate from Qodo's current product
+- **−** /help_docs is disabled since v0.36.1 because of a credential-exposure issue
+- **−** Docker image moved to pragent/pr-agent from 0.34.2; pinned references need updating
+- **−** Project is still being donated to a foundation, so governance is in flux
+
+<sub>no GPU · Docker + Compose · Needs LLM provider API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
+
+<a name="mobile-dev-inc-maestro"></a>
+### #&#8288;8 [maestro](https://github.com/mobile-dev-inc/maestro) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
+
+**YAML-based UI and end-to-end test framework for Android, iOS and web.**
+
+Maestro runs UI and end-to-end tests written as flat YAML command lists (launchApp, tapOn, assertVisible) against Android, iOS and web apps, driving them through the platform accessibility layer. It installs as a single CLI binary and also ships an MCP server (`maestro mcp`) so coding agents can control a live device and write flows. Flows run on emulators, simulators, browsers and physical Android devices.
+
+- **+** Single binary install; no drivers or SDK needed in the app under test
+- **+** One YAML syntax covers Android, iOS, web, React Native, Flutter and hybrid apps
+- **+** Built-in MCP server in the CLI works with Claude Code, Cursor, Codex and others
+- **+** Automatic waiting and flakiness tolerance remove manual sleep calls
+- **−** Physical iOS devices are not supported
+- **−** Requires Java 17 or higher on the host
+- **−** Maestro Studio IDE is free but closed source
+- **−** Parallel execution at scale needs paid Maestro Cloud
+
+<sub>no GPU · Needs Java 17+ · [Repo](https://github.com/mobile-dev-inc/maestro) · [📖 Docs ↗](https://docs.maestro.dev) · [🌐 Site ↗](https://www.maestro.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mobile-dev-inc-maestro/)</sub>
 
 <a name="infracost"></a>
-### #&#8288;10 [infracost](https://github.com/infracost/infracost) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [infracost](https://github.com/infracost/infracost) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
 
 **Cloud cost estimates for Terraform and CloudFormation in the terminal, editor and PRs.**
 
@@ -181,7 +164,7 @@ Infracost is a Go CLI that estimates cloud cost and checks FinOps policies for T
 <sub>Docker · Needs Infracost account (authentication via infracost setup), Infracost Cloud (optional, for policies and dashboard) · [Repo](https://github.com/infracost/infracost) · [📖 Docs ↗](https://www.infracost.io/docs/) · [🌐 Site ↗](https://www.infracost.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/infracost/)</sub>
 
 <a name="phpstan"></a>
-### #&#8288;11 [phpstan](https://github.com/phpstan/phpstan) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
+### #&#8288;10 [phpstan](https://github.com/phpstan/phpstan) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
 
 **Static analyzer that finds bugs in PHP code without running it.**
 
@@ -199,7 +182,7 @@ PHPStan checks PHP code for type and logic errors before execution, using PHPDoc
 <sub>no GPU · Docker · [Repo](https://github.com/phpstan/phpstan) · [▶️ Demo ↗](https://phpstan.org/try) · [📖 Docs ↗](https://phpstan.org/user-guide/getting-started) · [🌐 Site ↗](https://phpstan.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phpstan/)</sub>
 
 <a name="e2e"></a>
-### #&#8288;12 [e2e](https://github.com/tester-army/e2e) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;11 [e2e](https://github.com/tester-army/e2e) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Agent-driven end-to-end testing for web and mobile apps.**
 
@@ -216,8 +199,43 @@ TypeScript test runner that mixes natural-language agent steps (agent.act, agent
 
 <sub>Needs Node.js, Playwright, agent-device · Models: Claude Code (via ACP), Codex (via ACP), API key providers, local models · [Repo](https://github.com/tester-army/e2e) · [📖 Docs ↗](https://e2e.com/docs) · [🌐 Site ↗](https://e2e.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/e2e/)</sub>
 
+<a name="codex-security"></a>
+### #&#8288;12 [codex-security](https://github.com/openai/codex-security) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+
+**Vulnerability scanner, validator and patcher with a CLI, TypeScript SDK and Codex plugin.**
+
+Codex Security scans repositories, paths or Git diffs for vulnerabilities, validates candidate findings, generates patches and verifies existing fixes. It runs as a Codex plugin, as the `cs` CLI (`@openai/codex-security`), through a TypeScript SDK, or as a GitHub Action. Results can be exported as SARIF, JSON or CSV, or sent to Linear, Jira or GitHub.
+
+- **+** Scans whole repos, selected paths, or diffs against a base revision
+- **+** Exports SARIF, JSON and CSV; integrates with Linear, Jira, GitHub and ServiceNow
+- **+** Supports OpenAI, Amazon Bedrock, OpenRouter, Fireworks AI and Cheaper Inference
+- **+** Ships a GitHub Action, SDK and Docker Compose setup for bulk scans
+- **−** Requires Node.js 22.13+/24/26 and Python 3.10+ installed
+- **−** Needs an OpenAI login or API key, or other provider credentials
+- **−** Some cyber requests and protected findings need Trusted Access for Cyber
+- **−** Local serve command and browser dashboard have been removed
+
+<sub>no GPU · Docker + Compose · Needs Node.js 22.13+, Python 3.10+, OpenAI API key or other provider credentials · Models: OpenAI, Amazon Bedrock, OpenRouter, Fireworks AI, Cheaper Inference · [Repo](https://github.com/openai/codex-security) · [📖 Docs ↗](https://learn.chatgpt.com/docs/security/cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex-security/)</sub>
+
+<a name="knip"></a>
+### #&#8288;13 [knip](https://github.com/webpro-nl/knip) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · ISC · Nov 2026</sub>
+
+**Finds unused dependencies, exports and files in JavaScript and TypeScript projects.**
+
+Knip is a linter for JavaScript and TypeScript projects that reports unused dependencies, exports and files, and can fix them. It installs from npm with a config generator (`npm init @knip/config`) and runs as an npm script. Companion packages include a language server, a VS Code extension and an MCP server that lets a coding agent configure Knip.
+
+- **+** Covers unused dependencies, exports and files in a single tool
+- **+** Config generator via `npm init @knip/config` for quick setup
+- **+** Ships a language server and VS Code and Open VSX extensions
+- **+** Official @knip/mcp server lets coding agents configure it
+- **−** Limited to JavaScript and TypeScript projects
+- **−** Not an AI tool; the agent integration only helps with configuration
+- **−** README gives no plugin list or configuration examples; details live on knip.dev
+
+<sub>no GPU · Needs npm · [Repo](https://github.com/webpro-nl/knip) · [📖 Docs ↗](https://knip.dev/overview/getting-started) · [🌐 Site ↗](https://knip.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/knip/)</sub>
+
 <a name="hunk"></a>
-### #&#8288;13 [hunk](https://github.com/modem-dev/hunk) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · MIT · Nov 2026</sub>
+### #&#8288;14 [hunk](https://github.com/modem-dev/hunk) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.9k · MIT · Nov 2026</sub>
 
 **Terminal diff viewer for reviewing code changes, with inline agent notes.**
 
@@ -235,7 +253,7 @@ Hunk is an interactive terminal diff viewer built on OpenTUI and Pierre diffs. I
 <sub>no GPU · Needs Git (recommended), Node.js 22+ (npm install only), GH_TOKEN or GITHUB_TOKEN (private repos) · [Repo](https://github.com/modem-dev/hunk) · [📖 Docs ↗](https://hunk.dev/docs/) · [🌐 Site ↗](https://hunk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hunk/)</sub>
 
 <a name="no-mistakes"></a>
-### #&#8288;14 [no-mistakes](https://github.com/kunchenguid/no-mistakes) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
+### #&#8288;15 [no-mistakes](https://github.com/kunchenguid/no-mistakes) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
 
 **Local git proxy that runs an AI review, test and lint pipeline before opening a PR.**
 
@@ -252,26 +270,8 @@ no-mistakes adds a `no-mistakes` git remote in front of your real one. Pushing t
 
 <sub>Needs git, a supported coding agent CLI (claude, codex, opencode, etc.) · Models: claude, codex, grok, rovodev, opencode · [Repo](https://github.com/kunchenguid/no-mistakes) · [📖 Docs ↗](https://kunchenguid.github.io/no-mistakes/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/no-mistakes/)</sub>
 
-<a name="codex-security"></a>
-### #&#8288;15 [codex-security](https://github.com/openai/codex-security) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
-
-**Vulnerability scanner, validator and patcher with a CLI, TypeScript SDK and Codex plugin.**
-
-Codex Security scans repositories, paths or Git diffs for vulnerabilities, validates candidate findings, generates patches and verifies existing fixes. It runs as a Codex plugin, as the `cs` CLI (`@openai/codex-security`), through a TypeScript SDK, or as a GitHub Action. Results can be exported as SARIF, JSON or CSV, or sent to Linear, Jira or GitHub.
-
-- **+** Scans whole repos, selected paths, or diffs against a base revision
-- **+** Exports SARIF, JSON and CSV; integrates with Linear, Jira, GitHub and ServiceNow
-- **+** Supports OpenAI, Amazon Bedrock, OpenRouter, Fireworks AI and Cheaper Inference
-- **+** Ships a GitHub Action, SDK and Docker Compose setup for bulk scans
-- **−** Requires Node.js 22.13+/24/26 and Python 3.10+ installed
-- **−** Needs an OpenAI login or API key, or other provider credentials
-- **−** Some cyber requests and protected findings need Trusted Access for Cyber
-- **−** Local serve command and browser dashboard have been removed
-
-<sub>no GPU · Docker + Compose · Needs Node.js 22.13+, Python 3.10+, OpenAI API key or other provider credentials · Models: OpenAI, Amazon Bedrock, OpenRouter, Fireworks AI, Cheaper Inference · [Repo](https://github.com/openai/codex-security) · [📖 Docs ↗](https://learn.chatgpt.com/docs/security/cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex-security/)</sub>
-
 <a name="larastan"></a>
-### #&#8288;16 [larastan](https://github.com/larastan/larastan) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
+### #&#8288;16 [larastan](https://github.com/larastan/larastan) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
 
 **PHPStan extension that finds type errors and bugs in Laravel code.**
 
@@ -289,7 +289,7 @@ Larastan is a PHPStan extension for Laravel, installed as a Composer dev depende
 <sub>no GPU · Needs PHP 8.2+, Laravel 11.15+, Composer, PHPStan · [Repo](https://github.com/larastan/larastan) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/larastan/)</sub>
 
 <a name="keploy"></a>
-### #&#8288;17 [keploy](https://github.com/keploy/keploy) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 20k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;17 [keploy](https://github.com/keploy/keploy) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 20k · Apache-2.0 · Nov 2026</sub>
 
 **Records API traffic with eBPF and replays it as tests and mocks.**
 
@@ -306,8 +306,26 @@ Keploy records API calls, database queries and queue events by capturing traffic
 
 <sub>no GPU · Docker · [Repo](https://github.com/keploy/keploy) · [📖 Docs ↗](https://keploy.io/docs/) · [🌐 Site ↗](https://keploy.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/keploy/)</sub>
 
+<a name="prek"></a>
+### #&#8288;18 [prek](https://github.com/j178/prek) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
+
+**Rust reimplementation of pre-commit that runs Git hooks from a single binary.**
+
+prek runs hooks such as formatters, linters and secret scanners before commit, on demand, or in CI, and installs the toolchains those hooks need. It reads existing pre-commit YAML configs as a drop-in replacement and also supports a native prek.toml. It is not an AI tool itself, though the README mentions an installable skill so agents can use it.
+
+- **+** Single Rust binary, no Python or other runtime required
+- **+** Reads existing pre-commit configs and hooks without changes
+- **+** Workspace mode for monorepos with concurrent runs of independent projects
+- **+** Uses uv for Python environments and shares toolchains across hooks
+- **−** Not AI-specific; it is a general hook runner, so it fits this list loosely
+- **−** Built-in Rust hooks cover only some common hooks, not the full pre-commit ecosystem
+- **−** Building from source needs Rust 1.97 or newer
+- **−** Native prek.toml config is not portable to the original pre-commit
+
+<sub>no GPU · Docker · [Repo](https://github.com/j178/prek) · [📖 Docs ↗](https://prek.j178.dev/) · [🌐 Site ↗](https://prek.j178.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prek/)</sub>
+
 <a name="mockserver-monorepo"></a>
-### #&#8288;18 [mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;19 [mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · Apache-2.0 · Nov 2026</sub>
 
 **HTTP mock server and recording proxy for testing service dependencies.**
 
@@ -325,7 +343,7 @@ MockServer mocks, proxies and records HTTP(S) dependencies on a single port, aut
 <sub>no GPU · Docker · Needs Java 17+ (bundled in Docker image) · Models: OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI · port 1080 · [Repo](https://github.com/mock-server/mockserver-monorepo) · [📖 Docs ↗](https://www.mock-server.com/) · [🌐 Site ↗](https://www.mock-server.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mockserver-monorepo/)</sub>
 
 <a name="pest"></a>
-### #&#8288;19 [pest](https://github.com/pestphp/pest) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Nov 2026</sub>
+### #&#8288;20 [pest](https://github.com/pestphp/pest) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Nov 2026</sub>
 
 **Testing framework for PHP projects, built for developers and AI agents.**
 
@@ -340,26 +358,8 @@ Pest is a PHP testing framework distributed through Composer and Packagist, now 
 
 <sub>no GPU · Needs PHP, Composer · [Repo](https://github.com/pestphp/pest) · [📖 Docs ↗](https://pestphp.com/docs/pest5-now-available) · [🌐 Site ↗](https://pestphp.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pest/)</sub>
 
-<a name="prek"></a>
-### #&#8288;20 [prek](https://github.com/j178/prek) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
-
-**Rust reimplementation of pre-commit that runs Git hooks from a single binary.**
-
-prek runs hooks such as formatters, linters and secret scanners before commit, on demand, or in CI, and installs the toolchains those hooks need. It reads existing pre-commit YAML configs as a drop-in replacement and also supports a native prek.toml. It is not an AI tool itself, though the README mentions an installable skill so agents can use it.
-
-- **+** Single Rust binary, no Python or other runtime required
-- **+** Reads existing pre-commit configs and hooks without changes
-- **+** Workspace mode for monorepos with concurrent runs of independent projects
-- **+** Uses uv for Python environments and shares toolchains across hooks
-- **−** Not AI-specific; it is a general hook runner, so it fits this list loosely
-- **−** Built-in Rust hooks cover only some common hooks, not the full pre-commit ecosystem
-- **−** Building from source needs Rust 1.97 or newer
-- **−** Native prek.toml config is not portable to the original pre-commit
-
-<sub>no GPU · Docker · [Repo](https://github.com/j178/prek) · [📖 Docs ↗](https://prek.j178.dev/) · [🌐 Site ↗](https://prek.j178.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prek/)</sub>
-
 <a name="docker-android"></a>
-### #&#8288;21 [docker-android](https://github.com/budtmo/docker-android) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Nov 2026</sub>
+### #&#8288;21 [docker-android](https://github.com/budtmo/docker-android) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Nov 2026</sub>
 
 **Android emulator in a container with web VNC, for app builds and UI tests.**
 
@@ -394,26 +394,8 @@ A corpus of 386 English front-end rules across 11 categories (HTML, CSS, JavaScr
 
 <sub>no GPU · Needs MCP-compatible client, pnpm (for contributing) · safety checks passed 15 of 17 · [Repo](https://github.com/thedaviddias/front-end-checklist) · [📖 Docs ↗](https://frontendchecklist.io/mcp) · [🌐 Site ↗](https://frontendchecklist.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/front-end-checklist/)</sub>
 
-<a name="pr-lens"></a>
-### #&#8288;23 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
-
-**Posts animated architecture and data-flow diagrams as pull request comments.**
-
-PR Lens reads a pull request diff with an LLM and posts a comment containing animated diagrams of the components touched and the calls between them, with new, changed and removed parts colored. It runs as a hosted GitHub App, a GitHub Action or GitLab/Bitbucket pipeline with your own model key, or through an agent skill and CLI that draw diagrams before a PR exists. An interactive canvas offers walkthroughs and per-arrow payload views.
-
-- **+** Covers GitHub, GitLab and Bitbucket, with an Action, CI component and pipe
-- **+** Action accepts Gemini, OpenAI or any OpenAI-compatible endpoint via base-url
-- **+** Corrections like rename and exclude live in pr-lens.yml and survive reruns
-- **+** Agent skill and CLI validate diagrams locally before any PR is opened
-- **−** Diagrams are LLM-generated, so names can be wrong and need config fixes
-- **−** Diff is sent to the chosen model provider
-- **−** Action comments are static; the checkbox view selection works only in the App
-- **−** On GitLab.com, project access tokens need a paid plan; Free uses a personal token
-
-<sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
-
 <a name="testsprite-cli"></a>
-### #&#8288;24 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;23 [testsprite-cli](https://github.com/testsprite/testsprite-cli) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
 
 **CLI that runs cloud end-to-end tests on your app and feeds failures to coding agents.**
 
@@ -430,8 +412,26 @@ Official CLI for the TestSprite testing service. You write test plans as JSON in
 
 <sub>no GPU · Needs TestSprite cloud account and API key, Node.js 20.19+, 22.13+ or 24+ · [Repo](https://github.com/testsprite/testsprite-cli) · [🌐 Site ↗](https://www.testsprite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testsprite-cli/)</sub>
 
+<a name="pr-lens"></a>
+### #&#8288;24 [pr-lens](https://github.com/coldteadotai/pr-lens) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Nov 2026</sub>
+
+**Posts animated architecture and data-flow diagrams as pull request comments.**
+
+PR Lens reads a pull request diff with an LLM and posts a comment containing animated diagrams of the components touched and the calls between them, with new, changed and removed parts colored. It runs as a hosted GitHub App, a GitHub Action or GitLab/Bitbucket pipeline with your own model key, or through an agent skill and CLI that draw diagrams before a PR exists. An interactive canvas offers walkthroughs and per-arrow payload views.
+
+- **+** Covers GitHub, GitLab and Bitbucket, with an Action, CI component and pipe
+- **+** Action accepts Gemini, OpenAI or any OpenAI-compatible endpoint via base-url
+- **+** Corrections like rename and exclude live in pr-lens.yml and survive reruns
+- **+** Agent skill and CLI validate diagrams locally before any PR is opened
+- **−** Diagrams are LLM-generated, so names can be wrong and need config fixes
+- **−** Diff is sent to the chosen model provider
+- **−** Action comments are static; the checkbox view selection works only in the App
+- **−** On GitLab.com, project access tokens need a paid plan; Free uses a personal token
+
+<sub>Needs GitHub App, GitLab CI or Bitbucket Pipelines, LLM API key (Gemini, OpenAI or compatible), Node.js (npx CLI) · Models: Gemini, OpenAI, OpenAI-compatible /chat/completions · [Repo](https://github.com/coldteadotai/pr-lens) · [▶️ Demo ↗](https://prlens.dev/c/uSdxMcPBFwhfgfaGh-dveQ) · [🌐 Site ↗](https://prlens.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-lens/)</sub>
+
 <a name="ginkgo"></a>
-### #&#8288;25 [ginkgo](https://github.com/onsi/ginkgo) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.1k · MIT · Nov 2026</sub>
+### #&#8288;25 [ginkgo](https://github.com/onsi/ginkgo) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.1k · MIT · Nov 2026</sub>
 
 **BDD-style testing framework for Go with a spec DSL and CLI.**
 
@@ -449,7 +449,7 @@ Ginkgo is a Go testing framework built on the standard `testing` package. It pro
 <sub>no GPU · Needs Go, Gomega · [Repo](https://github.com/onsi/ginkgo) · [📖 Docs ↗](https://onsi.github.io/ginkgo/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ginkgo/)</sub>
 
 <a name="tflint"></a>
-### #&#8288;26 [tflint](https://github.com/terraform-linters/tflint) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
+### #&#8288;26 [tflint](https://github.com/terraform-linters/tflint) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MPL-2.0 · Nov 2026</sub>
 
 **Pluggable linter for Terraform configurations.**
 
@@ -467,7 +467,7 @@ TFLint is a Go command-line linter for Terraform code. The core is a plugin fram
 <sub>no GPU · Docker · Needs GitHub (plugin download via tflint --init) · [Repo](https://github.com/terraform-linters/tflint) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tflint/)</sub>
 
 <a name="super-linter"></a>
-### #&#8288;27 [super-linter](https://github.com/super-linter/super-linter) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
+### #&#8288;27 [super-linter](https://github.com/super-linter/super-linter) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
 
 **Bundle of linters and formatters for many languages, run in CI.**
 
@@ -484,8 +484,26 @@ Super-linter packages linters and formatters for dozens of languages and file ty
 
 <sub>no GPU · Docker · Needs Docker or other OCI-compatible container runtime · [Repo](https://github.com/super-linter/super-linter) · [🌐 Site ↗](https://github.com/marketplace/actions/super-linter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/super-linter/)</sub>
 
+<a name="testkube"></a>
+### #&#8288;28 [testkube](https://github.com/kubeshop/testkube) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · custom license · Nov 2026</sub>
+
+**Kubernetes-native runner that executes any test tool as a workflow in-cluster.**
+
+Testkube runs API, E2E, performance, security and infrastructure tests as TestWorkflows inside a Kubernetes cluster and collects results, logs and artifacts in one place. Tests can be triggered manually, on schedules, from CI/CD or GitOps, on Kubernetes events, through the REST API, or via an MCP server. This repo is the standalone agent; the multi-cluster control plane, SSO/SCIM and Testkube AI are commercial.
+
+- **+** Runs arbitrary test tools and scripts as workflows inside your own Kubernetes cluster
+- **+** Many triggers: schedules, CI/CD, GitOps, Kubernetes events, REST API, MCP
+- **+** Standalone agent needs no control plane; installs via Helm or CLI
+- **+** Ships an MCP server and webhooks for integrating with agents and other tools
+- **−** Requires a Kubernetes cluster; no non-Kubernetes deployment is described
+- **−** Multi-cluster dashboard, SSO/SCIM, RBAC and audit logs sit in the commercial control plane
+- **−** AI workflow generation and remediation are listed under the commercial offering
+- **−** Detected license is NOASSERTION, while the README says MIT
+
+<sub>no GPU · Needs Kubernetes, Helm · [Repo](https://github.com/kubeshop/testkube) · [📖 Docs ↗](https://docs.testkube.io/) · [🌐 Site ↗](https://testkube.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/testkube/)</sub>
+
 <a name="solopi"></a>
-### #&#8288;28 [solopi](https://github.com/alipay/solopi) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;29 [solopi](https://github.com/alipay/solopi) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
 
 **Mobile app test automation with Android record/replay and an agent execution harness.**
 
@@ -503,7 +521,7 @@ SoloPi records and replays UI flows on real Android devices, usually without add
 <sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
 
 <a name="wemake-python-styleguide"></a>
-### #&#8288;29 [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (40) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
+### #&#8288;30 [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
 
 **Strict flake8 plugin that enforces simple, uniform Python and flags complex code.**
 
@@ -521,7 +539,7 @@ wemake-python-styleguide is a flake8 plugin with WPS-prefixed rules for code com
 <sub>no GPU · Docker · Needs flake8, ruff (recommended companion) · [Repo](https://github.com/wemake-services/wemake-python-styleguide) · [▶️ Demo ↗](https://wps.orsinium.dev) · [📖 Docs ↗](https://wemake-python-styleguide.rtfd.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wemake-python-styleguide/)</sub>
 
 <a name="reticle"></a>
-### #&#8288;30 [reticle](https://github.com/reticlehq/reticle) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
+### #&#8288;31 [reticle](https://github.com/reticlehq/reticle) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · custom license · Nov 2026</sub>
 
 **MCP tools that let coding agents verify a running app and return pass, fail or unknown.**
 
@@ -538,26 +556,8 @@ Reticle adds a dev-only SDK to your web or desktop app and exposes reticle_* MCP
 
 <sub>no GPU · Needs Node 20.11+, Chromium browser, MCP-capable coding agent · port 4400 · [Repo](https://github.com/reticlehq/reticle) · [▶️ Demo ↗](https://player.mux.com/ap7hnnu4j36BRV6wEcop1NZVpJTjVSedxpW1AaXdD3I) · [📖 Docs ↗](https://docs.reticle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reticle/)</sub>
 
-<a name="wrkflw"></a>
-### #&#8288;31 [wrkflw](https://github.com/bahdotsh/wrkflw) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (42) · Freshness: active (97) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Nov 2026</sub>
-
-**Validate and run GitHub Actions and GitLab CI workflows locally from a CLI.**
-
-wrkflw is a Rust command-line tool that validates GitHub Actions, Gitea and GitLab CI workflows and executes them on your machine. It runs jobs in Docker, Podman, Kubernetes pods, or container-free emulation, with a terminal UI, watch mode, matrix builds and diff-aware trigger filtering. It also offers JSON output and an MCP server for agent use.
-
-- **+** Runs on Docker, Podman, Kubernetes, emulation, or sandboxed secure emulation
-- **+** Validation exits with CI-friendly codes: 0, 1 and 2
-- **+** Per-job workspaces are kept, so reruns are incremental
-- **+** Flags skipped steps as unverified, giving a verified or partial verdict
-- **−** JavaScript actions outside the built-in set are not run; the step passes as unverified
-- **−** Windows and macOS runners execute as Linux
-- **−** Service containers start only on Docker and Podman
-- **−** Remote trigger supports only workflow_dispatch; no cancel-in-progress
-
-<sub>no GPU · Docker · Needs Docker or Podman (optional), Kubernetes cluster (optional), git (optional) · [Repo](https://github.com/bahdotsh/wrkflw) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wrkflw/)</sub>
-
 <a name="crit"></a>
-### #&#8288;32 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;32 [crit](https://github.com/tomasz-tomczyk/crit) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Browser UI for commenting on a coding agent's plans, diffs and running apps.**
 
@@ -574,8 +574,26 @@ Crit is a single Go binary that opens a local browser review UI for markdown pla
 
 <sub>no GPU · Needs git, gh (GitHub PR sync), glab (GitLab MR sync), a coding agent CLI · [Repo](https://github.com/tomasz-tomczyk/crit) · [🌐 Site ↗](https://crit.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/crit/)</sub>
 
+<a name="wrkflw"></a>
+### #&#8288;33 [wrkflw](https://github.com/bahdotsh/wrkflw) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (44) · Freshness: active (97) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Nov 2026</sub>
+
+**Validate and run GitHub Actions and GitLab CI workflows locally from a CLI.**
+
+wrkflw is a Rust command-line tool that validates GitHub Actions, Gitea and GitLab CI workflows and executes them on your machine. It runs jobs in Docker, Podman, Kubernetes pods, or container-free emulation, with a terminal UI, watch mode, matrix builds and diff-aware trigger filtering. It also offers JSON output and an MCP server for agent use.
+
+- **+** Runs on Docker, Podman, Kubernetes, emulation, or sandboxed secure emulation
+- **+** Validation exits with CI-friendly codes: 0, 1 and 2
+- **+** Per-job workspaces are kept, so reruns are incremental
+- **+** Flags skipped steps as unverified, giving a verified or partial verdict
+- **−** JavaScript actions outside the built-in set are not run; the step passes as unverified
+- **−** Windows and macOS runners execute as Linux
+- **−** Service containers start only on Docker and Podman
+- **−** Remote trigger supports only workflow_dispatch; no cancel-in-progress
+
+<sub>no GPU · Docker · Needs Docker or Podman (optional), Kubernetes cluster (optional), git (optional) · [Repo](https://github.com/bahdotsh/wrkflw) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wrkflw/)</sub>
+
 <a name="kodus-ai"></a>
-### #&#8288;33 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
+### #&#8288;34 [kodus-ai](https://github.com/kodustech/kodus-ai) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · custom license · Nov 2026</sub>
 
 **AI pull request reviewer for GitHub, GitLab, Bitbucket, Azure DevOps and Forgejo.**
 
@@ -592,43 +610,8 @@ Kodus reviews pull requests with an LLM you configure (bring your own key for Op
 
 <sub>RAM ≥ 8 GB · no GPU · Docker + Compose · Needs Docker, LLM provider API key or OpenAI-compatible endpoint · Models: OpenAI, Anthropic, Google Gemini, Vertex AI, Novita · [Repo](https://github.com/kodustech/kodus-ai) · [📖 Docs ↗](https://docs.kodus.io) · [🌐 Site ↗](https://kodus.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kodus-ai/)</sub>
 
-<a name="alumnium"></a>
-### #&#8288;34 [alumnium](https://github.com/alumnium-hq/alumnium) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (11) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
-
-**AI-driven end-to-end test library and MCP server for web and mobile apps.**
-
-Alumnium wraps Selenium, Playwright, Appium or Maestro so tests can be written as natural-language actions, checks and data extraction (act/do, check, get). It ships client libraries for Java, Python and TypeScript, and an MCP server that lets a coding agent such as Claude Code open a URL and test an application. The README's examples use an OpenAI API key.
-
-- **+** Layers on existing drivers: Selenium, Playwright, Appium and Maestro
-- **+** Client libraries for Java, Python and TypeScript, plus an MCP mode
-- **+** Natural-language check() assertions and get() data extraction alongside actions
-- **+** MIT license; MCP server can also run over HTTP
-- **−** Needs an LLM provider API key; README examples only show OpenAI
-- **−** Test steps depend on model output, so runs may not be deterministic
-- **−** Java and Python examples use different method names (act vs do)
-
-<sub>Docker · Needs LLM provider API key (OpenAI in examples), Selenium, Playwright, Appium or Maestro · Models: OpenAI · [Repo](https://github.com/alumnium-hq/alumnium) · [📖 Docs ↗](https://alumnium.ai/docs/) · [🌐 Site ↗](https://alumnium.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/alumnium/)</sub>
-
-<a name="revdiff"></a>
-### #&#8288;35 [revdiff](https://github.com/umputun/revdiff) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 964 · MIT · Nov 2026</sub>
-
-**Terminal diff reviewer that outputs line annotations for AI coding agents.**
-
-revdiff is a Go TUI that shows a file tree and a syntax-highlighted diff for git, Mercurial or Jujutsu repos. You annotate lines or files, and on quit it prints the annotations to stdout. It ships plugins for Claude Code, Codex and pi that open it in a terminal overlay and feed the annotations back to the agent.
-
-- **+** Supports git, Mercurial and Jujutsu, translating HEAD-style refs to hg and jj revsets
-- **+** Also reviews arbitrary files and piped text via --only, --all-files and --stdin
-- **+** Plugins launch it from tmux, Zellij, kitty, wezterm, iTerm2 and others, then return annotations
-- **+** Auto-saves annotations to ~/.config/revdiff/history/ on quit; keybindings and colors are configurable
-- **−** Reviews are manual; it does not generate AI review comments itself
-- **−** Agent plugin overlay requires one of the listed terminals or multiplexers
-- **−** Ghostty and iTerm2 launchers need a Claude Code sandbox exclusion for osascript
-- **−** Blame gutter and commit info popup need Jujutsu 0.27 or newer
-
-<sub>no GPU · Needs git, hg or jj (optional with --only or --stdin) · [Repo](https://github.com/umputun/revdiff) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/revdiff/)</sub>
-
 <a name="memlab"></a>
-### #&#8288;36 [memlab](https://github.com/meta/memlab) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+### #&#8288;35 [memlab](https://github.com/meta/memlab) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
 
 **JavaScript memory leak finder using Puppeteer scenarios and heap snapshot analysis.**
 
@@ -645,62 +628,8 @@ memlab runs a Puppeteer scenario against a web page, compares V8 heap snapshots 
 
 <sub>no GPU · Needs Node.js 16+, Puppeteer · [Repo](https://github.com/meta/memlab) · [📖 Docs ↗](https://meta.github.io/memlab/docs/intro) · [🌐 Site ↗](https://meta.github.io/memlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memlab/)</sub>
 
-<a name="codediff-nvim"></a>
-### #&#8288;37 [codediff.nvim](https://github.com/esmuellert/codediff.nvim) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
-
-**Neovim diff viewer for reviewing coding-agent changes as they land.**
-
-codediff.nvim is a Neovim plugin that shows VSCode-style side-by-side or inline diffs with line- and character-level highlighting. It watches the repository so changes made by a background coding agent appear live, and lets you stage, unstage or discard files and hunks. It also covers revision, PR and history review, plus merge conflict resolution per block or whole file.
-
-- **+** Explorer auto-refreshes via file watching with polling fallback, so agent edits show up live
-- **+** Stage, unstage or discard per file or per hunk from the review view
-- **+** Prebuilt diff library downloads automatically; no compiler needed
-- **+** Built-in merge conflict view with per-block and whole-file accept keymaps
-- **−** Works only inside Neovim; no standalone or GUI mode
-- **−** Gutter signs require Neovim 0.10 or newer
-- **−** Core diff is a native library downloaded from GitHub releases on first use
-- **−** Line stats and move detection are off by default and must be enabled
-
-<sub>no GPU · Needs Neovim 0.7+ (0.10+ recommended), Git, curl or wget (PowerShell on Windows) · [Repo](https://github.com/esmuellert/codediff.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codediff-nvim/)</sub>
-
-<a name="mantis"></a>
-### #&#8288;38 [mantis](https://github.com/google/mantis) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
-
-**Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
-
-Mantis is a set of agent skills plus a Google ADK reference harness that runs a security review pipeline over a file or repository: threat model, hypotheses, research, triage, reproduction, patching and severity calibration. It also includes a GitHub Action for pull request scans, which is untested. The README labels it demonstration-only and says to run it only in isolated environments.
-
-- **+** Covers the full loop: threat model, research, dedup, triage, reproduction, patch with adversarial check
-- **+** Severity calibration rubric aims to limit inflated critical findings
-- **+** Run options: --focus, --exclude, --max-tokens cap, --parallel, exportable knowledge base
-- **+** Skills are separate from the harness, so they can be ported to other frameworks
-- **−** README states it is for demonstration, not production use
-- **−** Pull request GitHub Action has not been run end-to-end on a live project
-- **−** Executes model-generated code; user must provide strong isolation
-- **−** Findings need manual expert verification; hallucinated results are possible
-
-<sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
-
-<a name="deepsec"></a>
-### #&#8288;39 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Nov 2026</sub>
-
-**Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
-
-deepsec runs regex matchers to find candidate sites in a repository, then has AI coding agents investigate each one and emit findings with recommendations. State lives in a `.deepsec/` folder, runs resume after interruption, and large repos can fan out across Vercel Sandbox microVMs. It supports a PR-mode diff review, revalidation of past findings, and export to JSON or markdown.
-
-- **+** Interrupted runs resume and skip files already analyzed
-- **+** Free regex scan stage before paid AI review; `process --diff` limits review to changed files
-- **+** Spend and time caps via `--max-cost-usd` and `--max-duration`
-- **+** Bring your own OpenAI or Anthropic key, or use Vercel AI Gateway
-- **−** README warns full scans of large codebases can cost thousands to tens of thousands of dollars
-- **−** Runs like a coding agent with full shell access; prompt injection from dependencies is a stated risk
-- **−** Distributed execution depends on Vercel Sandbox
-- **−** No tagged release; installed via npx
-
-<sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
-
 <a name="git-lrc"></a>
-### #&#8288;40 [git-lrc](https://github.com/hexmostech/git-lrc) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · custom license · Oct 2026</sub>
+### #&#8288;36 [git-lrc](https://github.com/hexmostech/git-lrc) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · custom license · Nov 2026</sub>
 
 **Git pre-commit hook that runs an AI review on each staged diff.**
 
@@ -717,8 +646,97 @@ git-lrc is a Go CLI that hooks into git commit and sends the staged diff to an A
 
 <sub>no GPU · Needs LiveReview account (Hexmos sign-in), Gemini API key or other AI provider key, codebase-memory-mcp (optional, auto-installed for risk scoring) · Models: Gemini, OpenAI, Claude, DeepSeek, OpenRouter · [Repo](https://github.com/hexmostech/git-lrc) · [🌐 Site ↗](https://hexmos.com/livereview/git-lrc/pricing/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-lrc/)</sub>
 
+<a name="alumnium"></a>
+### #&#8288;37 [alumnium](https://github.com/alumnium-hq/alumnium) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+
+**AI-driven end-to-end test library and MCP server for web and mobile apps.**
+
+Alumnium wraps Selenium, Playwright, Appium or Maestro so tests can be written as natural-language actions, checks and data extraction (act/do, check, get). It ships client libraries for Java, Python and TypeScript, and an MCP server that lets a coding agent such as Claude Code open a URL and test an application. The README's examples use an OpenAI API key.
+
+- **+** Layers on existing drivers: Selenium, Playwright, Appium and Maestro
+- **+** Client libraries for Java, Python and TypeScript, plus an MCP mode
+- **+** Natural-language check() assertions and get() data extraction alongside actions
+- **+** MIT license; MCP server can also run over HTTP
+- **−** Needs an LLM provider API key; README examples only show OpenAI
+- **−** Test steps depend on model output, so runs may not be deterministic
+- **−** Java and Python examples use different method names (act vs do)
+
+<sub>Docker · Needs LLM provider API key (OpenAI in examples), Selenium, Playwright, Appium or Maestro · Models: OpenAI · [Repo](https://github.com/alumnium-hq/alumnium) · [📖 Docs ↗](https://alumnium.ai/docs/) · [🌐 Site ↗](https://alumnium.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/alumnium/)</sub>
+
+<a name="revdiff"></a>
+### #&#8288;38 [revdiff](https://github.com/umputun/revdiff) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 966 · MIT · Nov 2026</sub>
+
+**Terminal diff reviewer that outputs line annotations for AI coding agents.**
+
+revdiff is a Go TUI that shows a file tree and a syntax-highlighted diff for git, Mercurial or Jujutsu repos. You annotate lines or files, and on quit it prints the annotations to stdout. It ships plugins for Claude Code, Codex and pi that open it in a terminal overlay and feed the annotations back to the agent.
+
+- **+** Supports git, Mercurial and Jujutsu, translating HEAD-style refs to hg and jj revsets
+- **+** Also reviews arbitrary files and piped text via --only, --all-files and --stdin
+- **+** Plugins launch it from tmux, Zellij, kitty, wezterm, iTerm2 and others, then return annotations
+- **+** Auto-saves annotations to ~/.config/revdiff/history/ on quit; keybindings and colors are configurable
+- **−** Reviews are manual; it does not generate AI review comments itself
+- **−** Agent plugin overlay requires one of the listed terminals or multiplexers
+- **−** Ghostty and iTerm2 launchers need a Claude Code sandbox exclusion for osascript
+- **−** Blame gutter and commit info popup need Jujutsu 0.27 or newer
+
+<sub>no GPU · Needs git, hg or jj (optional with --only or --stdin) · [Repo](https://github.com/umputun/revdiff) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/revdiff/)</sub>
+
+<a name="mantis"></a>
+### #&#8288;39 [mantis](https://github.com/google/mantis) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
+
+**Agent skills and ADK pipeline that find, reproduce and patch code vulnerabilities.**
+
+Mantis is a set of agent skills plus a Google ADK reference harness that runs a security review pipeline over a file or repository: threat model, hypotheses, research, triage, reproduction, patching and severity calibration. It also includes a GitHub Action for pull request scans, which is untested. The README labels it demonstration-only and says to run it only in isolated environments.
+
+- **+** Covers the full loop: threat model, research, dedup, triage, reproduction, patch with adversarial check
+- **+** Severity calibration rubric aims to limit inflated critical findings
+- **+** Run options: --focus, --exclude, --max-tokens cap, --parallel, exportable knowledge base
+- **+** Skills are separate from the harness, so they can be ported to other frameworks
+- **−** README states it is for demonstration, not production use
+- **−** Pull request GitHub Action has not been run end-to-end on a live project
+- **−** Executes model-generated code; user must provide strong isolation
+- **−** Findings need manual expert verification; hallucinated results are possible
+
+<sub>no GPU · Needs Python 3, python3-venv, Google ADK, Google Cloud ADC (Vertex AI), SQLite · Models: Vertex AI · [Repo](https://github.com/google/mantis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mantis/)</sub>
+
+<a name="codediff-nvim"></a>
+### #&#8288;40 [codediff.nvim](https://github.com/esmuellert/codediff.nvim) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
+
+**Neovim diff viewer for reviewing coding-agent changes as they land.**
+
+codediff.nvim is a Neovim plugin that shows VSCode-style side-by-side or inline diffs with line- and character-level highlighting. It watches the repository so changes made by a background coding agent appear live, and lets you stage, unstage or discard files and hunks. It also covers revision, PR and history review, plus merge conflict resolution per block or whole file.
+
+- **+** Explorer auto-refreshes via file watching with polling fallback, so agent edits show up live
+- **+** Stage, unstage or discard per file or per hunk from the review view
+- **+** Prebuilt diff library downloads automatically; no compiler needed
+- **+** Built-in merge conflict view with per-block and whole-file accept keymaps
+- **−** Works only inside Neovim; no standalone or GUI mode
+- **−** Gutter signs require Neovim 0.10 or newer
+- **−** Core diff is a native library downloaded from GitHub releases on first use
+- **−** Line stats and move detection are off by default and must be enabled
+
+<sub>no GPU · Needs Neovim 0.7+ (0.10+ recommended), Git, curl or wget (PowerShell on Windows) · [Repo](https://github.com/esmuellert/codediff.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codediff-nvim/)</sub>
+
+<a name="deepsec"></a>
+### #&#8288;41 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Nov 2026</sub>
+
+**Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
+
+deepsec runs regex matchers to find candidate sites in a repository, then has AI coding agents investigate each one and emit findings with recommendations. State lives in a `.deepsec/` folder, runs resume after interruption, and large repos can fan out across Vercel Sandbox microVMs. It supports a PR-mode diff review, revalidation of past findings, and export to JSON or markdown.
+
+- **+** Interrupted runs resume and skip files already analyzed
+- **+** Free regex scan stage before paid AI review; `process --diff` limits review to changed files
+- **+** Spend and time caps via `--max-cost-usd` and `--max-duration`
+- **+** Bring your own OpenAI or Anthropic key, or use Vercel AI Gateway
+- **−** README warns full scans of large codebases can cost thousands to tens of thousands of dollars
+- **−** Runs like a coding agent with full shell access; prompt injection from dependencies is a stated risk
+- **−** Distributed execution depends on Vercel Sandbox
+- **−** No tagged release; installed via npx
+
+<sub>no GPU · Needs Node.js, pnpm, Vercel AI Gateway or OpenAI/Anthropic API key, Vercel Sandbox (optional) · Models: OpenAI, Anthropic, Vercel AI Gateway, custom HTTPS provider · [Repo](https://github.com/vercel-labs/deepsec) · [📖 Docs ↗](https://github.com/vercel-labs/deepsec/blob/main/docs/getting-started.md) · [🌐 Site ↗](https://deepsec.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepsec/)</sub>
+
 <a name="pyscn"></a>
-### #&#8288;41 [pyscn](https://github.com/ludo-technologies/pyscn) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;42 [pyscn](https://github.com/ludo-technologies/pyscn) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Static code quality analyzer for Python with a 0-100 score and HTML report.**
 
@@ -735,8 +753,26 @@ pyscn is a Go CLI that parses Python with tree-sitter and reports dead code, dup
 
 <sub>no GPU · [Repo](https://github.com/ludo-technologies/pyscn) · [📖 Docs ↗](https://docs.codescan.dev/pyscn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyscn/)</sub>
 
+<a name="openswarm"></a>
+### #&#8288;43 [openswarm](https://github.com/intrect-io/openswarm) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 870 · MIT · Nov 2026</sub>
+
+**CLI and GitHub Action that reviews, fixes and verifies diffs before a PR.**
+
+OpenSwarm reviews a working-tree or PR diff with an LLM, can fix confirmed findings in isolated sandboxes, re-reviews, and requires repository checks to pass before publishing a PR. It ships a GitHub Action, SARIF output and CI-oriented exit codes. An optional Linear-backed daemon, notifications and per-repo memory sit on top of the gate.
+
+- **+** Exit 1 means reject, exit 2 means the gate did not run
+- **+** Read-only review by default; adapters that cannot enforce it refuse to run
+- **+** Works with Codex, OpenRouter, Ollama, LM Studio or Claude Code
+- **+** Baseline-diff verification in a bubblewrap sandbox ignores pre-existing failures
+- **−** Linux verification needs bubblewrap plus sysctl or seccomp changes in CI and Docker
+- **−** Hosted providers bill per run; the repo's own gate workflow is manual-only
+- **−** Automatic fork PR review needs pull_request_target, which requires careful secret handling
+- **−** Daemon, Linear, TUI and PR autopilot widen the surface beyond the review gate
+
+<sub>GPU optional · Docker + Compose · Needs Node.js 22, bubblewrap (Linux verification), gh CLI, Linear (optional), LLM provider or API key · Models: OpenAI Codex/GPT, OpenRouter models, Atlas Cloud, Ollama, LM Studio · [Repo](https://github.com/intrect-io/openswarm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openswarm/)</sub>
+
 <a name="openqodex"></a>
-### #&#8288;42 [openqodex](https://github.com/openqodex/openqodex) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;44 [openqodex](https://github.com/openqodex/openqodex) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Local pre-push code review for coding agents, using scanners and model reviewers.**
 
@@ -753,8 +789,26 @@ OpenQodex reviews unpushed commits and uncommitted changes on your machine. It r
 
 <sub>no GPU · Needs Node 22+, git, Claude Code or Codex (logged in), osv.dev (network) · Models: Claude Code, Codex · [Repo](https://github.com/openqodex/openqodex) · [📖 Docs ↗](https://github.com/openqodex/openqodex/blob/main/docs/index.md) · [🌐 Site ↗](https://openqodex.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openqodex/)</sub>
 
+<a name="sourcery"></a>
+### #&#8288;45 [sourcery](https://github.com/sourcery-ai/sourcery) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Sep 2026</sub>
+
+**Hosted GitHub pull request reviewer with IDE assistant plugins.**
+
+Sourcery is a GitHub App that reviews pull requests and posts a change summary, high-level feedback and line-by-line comments. It also ships IDE plugins (PyCharm, VS Code, Sublime, Vim) for explaining code, adding tests and docstrings, and suggesting refactors. Reviews run on Sourcery's service using OpenAI and Anthropic models, so PR diffs leave your infrastructure.
+
+- **+** Free for public and open-source repositories
+- **+** Each PR gets a summary plus line-level comments
+- **+** Editor plugins for PyCharm, VS Code, Sublime and Vim
+- **+** Install is a GitHub App; no infrastructure to run
+- **−** Hosted service; the README gives no self-hosting option
+- **−** Code diffs are sent to OpenAI and Anthropic
+- **−** Private repos need a paid Team or Pro plan after 14-day trial
+- **−** README states review quality is not yet at colleague level
+
+<sub>no GPU · Needs GitHub App, OpenAI API, Anthropic API · Models: OpenAI, Anthropic · [Repo](https://github.com/sourcery-ai/sourcery) · [📖 Docs ↗](https://docs.sourcery.ai/) · [🌐 Site ↗](https://sourcery.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sourcery/)</sub>
+
 <a name="pre-commit-hooks"></a>
-### #&#8288;43 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (60) · Freshness: recent (76) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
+### #&#8288;46 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (61) · Freshness: recent (76) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
@@ -771,8 +825,26 @@ A set of hooks for pre-commit that run on staged files before a commit. They che
 
 <sub>no GPU · Needs pre-commit, git, git-lfs (optional, >=2.2.1) · [Repo](https://github.com/pre-commit/pre-commit-hooks) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pre-commit-hooks/)</sub>
 
+<a name="slopo"></a>
+### #&#8288;47 [slopo](https://github.com/rafal-qa/slopo) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 834 · AGPL-3.0 · Oct 2026</sub>
+
+**CLI that finds semantically similar code across a codebase using embeddings.**
+
+Slopo indexes source code into function and block units, embeds them with a configurable model, and clusters similar units, ranking pairs that sit far apart in the codebase higher. `slopo analyze` reports on the whole codebase and `slopo review` on Git changes. It also ships skills for Claude Code and Codex that triage the reports.
+
+- **+** Finds differently written implementations of the same logic, not only copy-paste clones
+- **+** Works with Jina AI, Voyage AI, Ollama, any LiteLLM provider or OpenAI-compatible server
+- **+** Covers 15 languages, including Python, TypeScript, Java, Go, Rust and C#
+- **+** Cluster hashes in an ignore file can be committed and shared across a team
+- **−** Reports a lot of similar code that is not real duplication
+- **−** Needs an embedding model or API key, which adds setup
+- **−** Changing model, dimensions or node thresholds requires deleting slopo.db and re-indexing
+- **−** Pull requests are not accepted; AGPL-3.0 license
+
+<sub>GPU optional · Needs uv, Python 3.14, SQLite, git (for review), embedding provider (Jina AI, Voyage AI, Ollama or LiteLLM-supported) · Models: jina-code-embeddings-0.5b, voyage-4-large, jina-embeddings-v2-base-code (Ollama), LiteLLM providers, OpenAI-compatible servers · [Repo](https://github.com/rafal-qa/slopo) · [▶️ Demo ↗](https://slopo.dev/#demo-claude) · [🌐 Site ↗](https://slopo.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/slopo/)</sub>
+
 <a name="truecourse"></a>
-### #&#8288;44 [truecourse](https://github.com/truecourse-ai/truecourse) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 537 · MIT · Oct 2026</sub>
+### #&#8288;48 [truecourse](https://github.com/truecourse-ai/truecourse) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 537 · MIT · Oct 2026</sub>
 
 **Generates Playwright tests from product docs to find where docs and product disagree.**
 
@@ -790,7 +862,7 @@ TrueCourse reads PRDs, ADRs, READMEs and doc sites, extracts a corpus of claims,
 <sub>no GPU · Docker + Compose · Needs Postgres, Claude Code CLI, Playwright with Chromium, Docker Compose, PostHog telemetry (can be disabled) · Models: claude-opus-5-5 (default, via Claude Code) · port 3000 · [Repo](https://github.com/truecourse-ai/truecourse) · [📖 Docs ↗](https://docs.truecourse.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/truecourse/)</sub>
 
 <a name="eslint-plugin-react"></a>
-### #&#8288;45 [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (70) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Oct 2026</sub>
+### #&#8288;49 [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (71) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Oct 2026</sub>
 
 **React-specific lint rules for ESLint, covering JSX style and component correctness.**
 
@@ -807,26 +879,8 @@ An ESLint plugin that adds React and JSX rules, such as jsx-key, display-name, b
 
 <sub>no GPU · Needs eslint, npm · [Repo](https://github.com/jsx-eslint/eslint-plugin-react) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/eslint-plugin-react/)</sub>
 
-<a name="sourcery"></a>
-### #&#8288;46 [sourcery](https://github.com/sourcery-ai/sourcery) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (28) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Sep 2026</sub>
-
-**Hosted GitHub pull request reviewer with IDE assistant plugins.**
-
-Sourcery is a GitHub App that reviews pull requests and posts a change summary, high-level feedback and line-by-line comments. It also ships IDE plugins (PyCharm, VS Code, Sublime, Vim) for explaining code, adding tests and docstrings, and suggesting refactors. Reviews run on Sourcery's service using OpenAI and Anthropic models, so PR diffs leave your infrastructure.
-
-- **+** Free for public and open-source repositories
-- **+** Each PR gets a summary plus line-level comments
-- **+** Editor plugins for PyCharm, VS Code, Sublime and Vim
-- **+** Install is a GitHub App; no infrastructure to run
-- **−** Hosted service; the README gives no self-hosting option
-- **−** Code diffs are sent to OpenAI and Anthropic
-- **−** Private repos need a paid Team or Pro plan after 14-day trial
-- **−** README states review quality is not yet at colleague level
-
-<sub>no GPU · Needs GitHub App, OpenAI API, Anthropic API · Models: OpenAI, Anthropic · [Repo](https://github.com/sourcery-ai/sourcery) · [📖 Docs ↗](https://docs.sourcery.ai/) · [🌐 Site ↗](https://sourcery.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sourcery/)</sub>
-
 <a name="gritql"></a>
-### #&#8288;47 [gritql](https://github.com/biomejs/gritql) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: known (48) · Freshness: active (95) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+### #&#8288;50 [gritql](https://github.com/biomejs/gritql) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (50) · Freshness: active (95) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
 **Query language for searching and rewriting source code with tree-sitter.**
 
@@ -844,7 +898,7 @@ GritQL is a declarative query language and Rust CLI (`grit`) for searching and r
 <sub>no GPU · [Repo](https://github.com/biomejs/gritql) · [▶️ Demo ↗](https://app.grit.io/studio) · [📖 Docs ↗](https://docs.grit.io/language) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gritql/)</sub>
 
 <a name="deepaudit"></a>
-### #&#8288;48 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (63) · Freshness: active (90) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;51 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (64) · Freshness: active (90) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Nov 2026</sub>
 
 **Multi-agent code security auditor with sandboxed PoC verification of findings.**
 
@@ -862,7 +916,7 @@ DeepAudit runs Orchestrator, Recon, Analysis and Verification agents against an 
 <sub>GPU optional · Docker + Compose · Needs Docker, PostgreSQL, LLM provider or Ollama · Models: Ollama (Llama3, DeepSeek), cloud LLM APIs · [Repo](https://github.com/lintsinghua/deepaudit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepaudit/)</sub>
 
 <a name="codegpt"></a>
-### #&#8288;49 [codegpt](https://github.com/appleboy/codegpt) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
+### #&#8288;52 [codegpt](https://github.com/appleboy/codegpt) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Sep 2026</sub>
 
 **Go CLI that writes git commit messages and code reviews from diffs.**
 
@@ -880,7 +934,7 @@ CodeGPT is a Go command-line tool that reads your git diff and generates convent
 <sub>no GPU · Docker · Needs git, API key for an LLM provider, or a local Ollama server · Models: OpenAI (gpt-5, gpt-4o, gpt-4), Azure OpenAI, Gemini, Anthropic, Ollama · [Repo](https://github.com/appleboy/codegpt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codegpt/)</sub>
 
 <a name="apiauto"></a>
-### #&#8288;50 [apiauto](https://github.com/tommylemon/apiauto) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;53 [apiauto](https://github.com/tommylemon/apiauto) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (34) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · Apache-2.0 · Nov 2026</sub>
 
 **Browser-based HTTP API tester with generated docs, code and regression runs.**
 
@@ -898,7 +952,7 @@ APIAuto is a static single-page web tool for sending HTTP requests (GET, POST, P
 <sub>Needs APIJSON backend (for docs and test cases), Node.js and koa (headless mode) · [Repo](https://github.com/tommylemon/apiauto) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://deepwiki.com/TommyLemon/APIAuto) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apiauto/)</sub>
 
 <a name="go-critic"></a>
-### #&#8288;51 [go-critic](https://github.com/go-critic/go-critic) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Sep 2026</sub>
+### #&#8288;54 [go-critic](https://github.com/go-critic/go-critic) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (32) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Sep 2026</sub>
 
 **Extensible Go linter with about 100 checks for bugs, performance and style.**
 
@@ -915,26 +969,8 @@ go-critic is a Go static analysis tool that runs diagnostics for bugs, performan
 
 <sub>no GPU · Needs Go toolchain · [Repo](https://github.com/go-critic/go-critic) · [📖 Docs ↗](https://go-critic.com/overview) · [🌐 Site ↗](https://go-critic.com/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-critic/)</sub>
 
-<a name="openswarm"></a>
-### #&#8288;52 [openswarm](https://github.com/intrect-io/openswarm) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (6) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 870 · MIT · Nov 2026</sub>
-
-**CLI and GitHub Action that reviews, fixes and verifies diffs before a PR.**
-
-OpenSwarm reviews a working-tree or PR diff with an LLM, can fix confirmed findings in isolated sandboxes, re-reviews, and requires repository checks to pass before publishing a PR. It ships a GitHub Action, SARIF output and CI-oriented exit codes. An optional Linear-backed daemon, notifications and per-repo memory sit on top of the gate.
-
-- **+** Exit 1 means reject, exit 2 means the gate did not run
-- **+** Read-only review by default; adapters that cannot enforce it refuse to run
-- **+** Works with Codex, OpenRouter, Ollama, LM Studio or Claude Code
-- **+** Baseline-diff verification in a bubblewrap sandbox ignores pre-existing failures
-- **−** Linux verification needs bubblewrap plus sysctl or seccomp changes in CI and Docker
-- **−** Hosted providers bill per run; the repo's own gate workflow is manual-only
-- **−** Automatic fork PR review needs pull_request_target, which requires careful secret handling
-- **−** Daemon, Linear, TUI and PR autopilot widen the surface beyond the review gate
-
-<sub>GPU optional · Docker + Compose · Needs Node.js 22, bubblewrap (Linux verification), gh CLI, Linear (optional), LLM provider or API key · Models: OpenAI Codex/GPT, OpenRouter models, Atlas Cloud, Ollama, LM Studio · [Repo](https://github.com/intrect-io/openswarm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openswarm/)</sub>
-
 <a name="ai-codereview-gitlab"></a>
-### #&#8288;53 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;55 [ai-codereview-gitlab](https://github.com/sunmh207/ai-codereview-gitlab) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Oct 2026</sub>
 
 **LLM reviewer for GitLab merge requests and pushes, with chat notifications.**
 
@@ -952,7 +988,7 @@ Receives GitLab webhooks for Push and Merge Request events, sends the diff to a 
 <sub>no GPU · Docker + Compose · Needs GitLab access token, LLM provider API key or Ollama, DingTalk, WeCom or Feishu webhook (optional) · Models: DeepSeek, ZhipuAI, OpenAI, Anthropic, Qwen · port 5001 · [Repo](https://github.com/sunmh207/ai-codereview-gitlab) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-codereview-gitlab/)</sub>
 
 <a name="chatgpt-codereview"></a>
-### #&#8288;54 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (47) · Freshness: active (97) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
+### #&#8288;56 [chatgpt-codereview](https://github.com/anc95/chatgpt-codereview) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (48) · Freshness: active (97) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · ISC · Aug 2026</sub>
 
 **GitHub bot and Action that reviews pull request diffs with an LLM.**
 
@@ -970,7 +1006,7 @@ Probot-based GitHub app that reviews pull requests with OpenAI-compatible models
 <sub>no GPU · Docker · Needs GitHub App or GitHub Actions, OpenAI-compatible API, Azure OpenAI or GitHub Models, Node.js, pm2 (self-hosting) · Models: OpenAI GPT models, Azure OpenAI deployments, GitHub Models · [Repo](https://github.com/anc95/chatgpt-codereview) · [▶️ Demo ↗](https://github.com/apps/cr-gpt) · [📖 Docs ↗](https://github.com/marketplace/actions/chatgpt-codereviewer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-codereview/)</sub>
 
 <a name="run-gemini-cli"></a>
-### #&#8288;55 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (31) · Freshness: active (97) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;57 [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (33) · Freshness: active (97) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
 
 **GitHub Action that runs Gemini CLI for PR review, issue triage and @-mention tasks.**
 
@@ -988,7 +1024,7 @@ A GitHub Action that installs and runs Gemini CLI inside workflows. Prebuilt wor
 <sub>no GPU · Needs GitHub Actions, Gemini CLI, Gemini API key or Google Cloud (Vertex AI / Code Assist) · Models: Gemini · [Repo](https://github.com/google-github-actions/run-gemini-cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/run-gemini-cli/)</sub>
 
 <a name="shippie"></a>
-### #&#8288;56 [shippie](https://github.com/mattzcarey/shippie) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (36) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+### #&#8288;58 [shippie](https://github.com/mattzcarey/shippie) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (38) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
 
 **Code-review agent that comments on pull requests and staged diffs.**
 
@@ -1006,7 +1042,7 @@ Shippie runs an agent loop on the flue framework and pi that reads a diff, explo
 <sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
 <a name="gentleman-guardian-angel"></a>
-### #&#8288;57 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (18) · Freshness: active (89) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jul 2026</sub>
+### #&#8288;59 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (19) · Freshness: active (89) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jul 2026</sub>
 
 **Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
 
@@ -1024,7 +1060,7 @@ GGA is a pure Bash CLI that installs a git pre-commit (or commit-msg) hook and s
 <sub>no GPU · Needs Bash 5.0+, git, an AI provider CLI or API (Claude, Gemini, Codex, Ollama, etc.) · Models: Claude, Gemini, Codex, OpenCode, Cursor Agent · [Repo](https://github.com/gentleman-programming/gentleman-guardian-angel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gentleman-guardian-angel/)</sub>
 
 <a name="shortest"></a>
-### #&#8288;58 [shortest](https://github.com/antiwork/shortest) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (55) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · May 2026</sub>
+### #&#8288;60 [shortest](https://github.com/antiwork/shortest) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (56) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · May 2026</sub>
 
 **Write end-to-end browser tests in plain English, executed by Claude via Playwright.**
 
@@ -1042,7 +1078,7 @@ Shortest is a TypeScript test framework where each test is a natural-language se
 <sub>no GPU · Needs Anthropic API, Playwright, Mailosaur (optional), Clerk, Vercel Postgres, Stripe (web app only) · Models: Anthropic Claude · port 3000 · [Repo](https://github.com/antiwork/shortest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shortest/)</sub>
 
 <a name="claude-code-security-review"></a>
-### #&#8288;59 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (62) · Freshness: slowing (30) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Feb 2026</sub>
+### #&#8288;61 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (63) · Freshness: slowing (30) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Feb 2026</sub>
 
 **GitHub Action that has Claude review pull request diffs for security issues.**
 
