@@ -76,7 +76,7 @@ Python example apps for Pipecat, an open-source framework for voice and multimod
 <sub>TypeScript, OpenAI, Gemini Live, Deepgram, Cartesia · Needs Python 3.11+, OpenAI, Deepgram, Cartesia, Twilio, Daily · Docker · [Repo](https://github.com/pipecat-ai/pipecat-examples) · [📖 Docs ↗](https://docs.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pipecat-examples/)</sub>
 
 <a name="agent-starter-react"></a>
-### #&#8288;5 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 969 · MIT · Oct 2026</sub>
+### #&#8288;5 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (42) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Oct 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 
@@ -181,7 +181,7 @@ Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share
 <sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
 
 <a name="agent-starter-flutter"></a>
-### #&#8288;11 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92 · MIT · Sep 2026</sub>
+### #&#8288;11 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 93 · MIT · Sep 2026</sub>
 
 **Flutter voice agent client for iOS, Android, macOS and web.**
 

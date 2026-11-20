@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -41,7 +41,7 @@ Sonic is a Rust search backend that indexes text pushed over its Sonic Channel T
 <sub>Rust · Docker · [Repo](https://github.com/valeriansaliou/sonic) · [▶️ Demo ↗](https://help.crisp.chat/) · [📖 Docs ↗](https://github.com/valeriansaliou/sonic/blob/master/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sonic/)</sub>
 
 <a name="xberg"></a>
-### 🥉 [xberg](https://github.com/xberg-io/xberg) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
+### 🥉 [xberg](https://github.com/xberg-io/xberg) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
 
 **Rust document extraction engine with OCR, tables and 15 language bindings.**
 
@@ -183,26 +183,8 @@ Documentation assistant that answers questions about LangChain, LangGraph and La
 
 <sub>Python, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
 
-<a name="launchstack"></a>
-### #&#8288;11 [launchstack](https://github.com/deodat-lawson/launchstack) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (20) · Freshness: active (97) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 897 · Apache-2.0 · Nov 2026</sub>
-
-**TypeScript engine for document ingestion, OCR, hybrid RAG and knowledge graphs.**
-
-Launchstack is a pnpm monorepo of TypeScript packages for ingestion, OCR, chunking, embeddings, hybrid retrieval with reranking, Neo4j entity sync and background jobs. A Next.js reference app and a durable worker wire them to Postgres with pgvector and S3-style storage. Chat goes through one OpenAI-compatible endpoint configured by YAML.
-
-- **+** Two-command self-host installer generates secrets and sets up HTTPS for a domain
-- **+** Lite stack uses about 400MB RAM; Docling OCR profile adds about 1.2GB
-- **+** Lint-enforced boundaries keep engine bricks independent of Next.js and the host app
-- **+** Permission-scoped citations and hybrid retrieval with reranking, backed by Postgres with pgvector
-- **−** Packages are not on npm yet; consuming them means running this repository
-- **−** Embeddings have no default; uploads are never searchable until a key is set
-- **−** Needs a separate worker process, or uploaded documents stay queued
-- **−** Wiring the engine into your own host takes seven separate registration calls
-
-<sub>TypeScript, Gemini, Azure OpenAI, OpenAI-compatible chat endpoints, OpenAI-compatible embeddings · Needs Postgres with pgvector, S3-compatible storage, Neo4j (optional), Docling (optional OCR), Inngest (optional) · [Repo](https://github.com/deodat-lawson/launchstack) · [🌐 Site ↗](https://launchstack.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/launchstack/)</sub>
-
 <a name="chat-with-your-data-solution-accelerator"></a>
-### #&#8288;12 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
+### #&#8288;11 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Nov 2026</sub>
 
 **Azure RAG chat app that answers from your documents with citations.**
 
@@ -220,7 +202,7 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
 <a name="rag-api"></a>
-### #&#8288;13 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
+### #&#8288;12 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 927 · MIT · Nov 2026</sub>
 
 **FastAPI service for per-file document embedding and retrieval on pgvector.**
 
@@ -237,8 +219,26 @@ Async FastAPI and Langchain service that ingests documents, embeds them under a 
 
 <sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
 
+<a name="launchstack"></a>
+### #&#8288;13 [launchstack](https://github.com/deodat-lawson/launchstack) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (20) · Freshness: active (97) · Maintenance: patchy (39) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · Apache-2.0 · Nov 2026</sub>
+
+**TypeScript engine for document ingestion, OCR, hybrid RAG and knowledge graphs.**
+
+Launchstack is a pnpm monorepo of TypeScript packages for ingestion, OCR, chunking, embeddings, hybrid retrieval with reranking, Neo4j entity sync and background jobs. A Next.js reference app and a durable worker wire them to Postgres with pgvector and S3-style storage. Chat goes through one OpenAI-compatible endpoint configured by YAML.
+
+- **+** Two-command self-host installer generates secrets and sets up HTTPS for a domain
+- **+** Lite stack uses about 400MB RAM; Docling OCR profile adds about 1.2GB
+- **+** Lint-enforced boundaries keep engine bricks independent of Next.js and the host app
+- **+** Permission-scoped citations and hybrid retrieval with reranking, backed by Postgres with pgvector
+- **−** Packages are not on npm yet; consuming them means running this repository
+- **−** Embeddings have no default; uploads are never searchable until a key is set
+- **−** Needs a separate worker process, or uploaded documents stay queued
+- **−** Wiring the engine into your own host takes seven separate registration calls
+
+<sub>TypeScript, Gemini, Azure OpenAI, OpenAI-compatible chat endpoints, OpenAI-compatible embeddings · Needs Postgres with pgvector, S3-compatible storage, Neo4j (optional), Docling (optional OCR), Inngest (optional) · env example file · [Repo](https://github.com/deodat-lawson/launchstack) · [🌐 Site ↗](https://launchstack.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/launchstack/)</sub>
+
 <a name="langchainrb"></a>
-### #&#8288;14 [langchainrb](https://github.com/patterns-ai-core/langchainrb) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (39) · Freshness: recent (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;14 [langchainrb](https://github.com/patterns-ai-core/langchainrb) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (39) · Freshness: recent (70) · Maintenance: fair (56) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **Ruby library for LLM calls, RAG, vector search and tool-using assistants.**
 
@@ -253,10 +253,10 @@ Langchain.rb is a Ruby gem that wraps LLM providers behind one interface for emb
 - **−** Last release was 2025-05-01, well behind recent commits
 - **−** Ruby only, and Rails integration needs a separate gem
 
-<sub>Ruby, Anthropic, AWS Bedrock, Azure OpenAI, Cohere · Needs Ruby, LLM provider API key or Ollama, vector database client gem (optional) · [Repo](https://github.com/patterns-ai-core/langchainrb) · [📖 Docs ↗](http://rubydoc.info/gems/langchainrb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchainrb/)</sub>
+<sub>Ruby, Anthropic, AWS Bedrock, Azure OpenAI, Cohere · Needs Ruby, LLM provider API key or Ollama, vector database client gem (optional) · env example file · [Repo](https://github.com/patterns-ai-core/langchainrb) · [📖 Docs ↗](http://rubydoc.info/gems/langchainrb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchainrb/)</sub>
 
 <a name="supabaseauthwithssr"></a>
-### #&#8288;15 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 398 · MIT · Oct 2026</sub>
+### #&#8288;15 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -292,7 +292,7 @@ Orama is a TypeScript search engine that runs in the browser, Node, Deno or Bun.
 <sub>TypeScript, OpenAI chat models via secure proxy (e.g. gpt-4o-mini), TensorFlow.js embeddings (512-dimension) · Needs OpenAI API (optional, for chat answers), TensorFlow.js (optional, for embeddings plugin) · [Repo](https://github.com/oramasearch/orama) · [📖 Docs ↗](https://docs.orama.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orama/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;17 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 512 · MIT · Oct 2026</sub>
+### #&#8288;17 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 511 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
@@ -327,7 +327,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="azure-search-openai-javascript"></a>
-### #&#8288;19 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · Oct 2026</sub>
+### #&#8288;19 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 326 · MIT · Oct 2026</sub>
 
 **TypeScript RAG on Azure AI Search with separate indexer and search services.**
 
@@ -360,26 +360,8 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
-<a name="lightningrag"></a>
-### #&#8288;21 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (12) · Freshness: recent (65) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 456 · Apache-2.0 · Apr 2026</sub>
-
-**Go and Vue RAG platform with knowledge bases, agent canvas and admin UI.**
-
-LightningRAG is a Gin (Go) and Vue full-stack app that parses, chunks and embeds documents into pgvector or Elasticsearch, then serves chat and SSE streaming APIs with optional references. It adds a canvas for agent flows (Begin, Retrieval, LLM, Message, Agent nodes) and webhook connectors for Feishu, DingTalk, Slack and others. The admin layer provides JWT, Casbin, dynamic menus and code generation.
-
-- **+** Retrievers include vector, keyword and PageIndex, with optional reranking per request
-- **+** Webhook connectors bind published agents to Feishu, DingTalk, Slack, Teams, Telegram and more
-- **+** Web UI can be embedded into a single Go binary via go:embed
-- **+** Admin features included: JWT, Casbin roles, dynamic menus, Swagger docs
-- **−** Needs MySQL, Redis and a vector store, so setup involves several services
-- **−** No public demo; the README's demo link is struck out as not deployed
-- **−** Much of the README covers generic admin-framework features unrelated to RAG
-- **−** Removing copyright notices requires a separate license despite Apache-2.0
-
-<sub>Go, Pluggable LLM, embedding, rerank, speech, TTS, OCR providers (list in server/rag/README.md) · Needs MySQL > 5.7, Redis, PostgreSQL with pgvector or Elasticsearch, Node > 18.16, Go >= 1.22 · Docker · [Repo](https://github.com/lightningrag/lightningrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightningrag/)</sub>
-
 <a name="nano-graphrag"></a>
-### #&#8288;22 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (50) · Freshness: quiet (17) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;21 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (50) · Freshness: quiet (17) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Compact Python GraphRAG library with swappable LLM, vector and graph storage.**
 
@@ -397,7 +379,7 @@ nano-graphrag is a Python library that builds a knowledge graph from text, gener
 <sub>Python, OpenAI, Azure OpenAI, Amazon Bedrock, DeepSeek · Needs OpenAI API key (default), Neo4j (optional) · [Repo](https://github.com/gusye1234/nano-graphrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nano-graphrag/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;23 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (35) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;22 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (35) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
@@ -412,6 +394,24 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 - **−** Design dates from 2023; last commit 2026-05
 
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
+
+<a name="lightningrag"></a>
+### #&#8288;23 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (12) · Freshness: recent (65) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · Apache-2.0 · Apr 2026</sub>
+
+**Go and Vue RAG platform with knowledge bases, agent canvas and admin UI.**
+
+LightningRAG is a Gin (Go) and Vue full-stack app that parses, chunks and embeds documents into pgvector or Elasticsearch, then serves chat and SSE streaming APIs with optional references. It adds a canvas for agent flows (Begin, Retrieval, LLM, Message, Agent nodes) and webhook connectors for Feishu, DingTalk, Slack and others. The admin layer provides JWT, Casbin, dynamic menus and code generation.
+
+- **+** Retrievers include vector, keyword and PageIndex, with optional reranking per request
+- **+** Webhook connectors bind published agents to Feishu, DingTalk, Slack, Teams, Telegram and more
+- **+** Web UI can be embedded into a single Go binary via go:embed
+- **+** Admin features included: JWT, Casbin roles, dynamic menus, Swagger docs
+- **−** Needs MySQL, Redis and a vector store, so setup involves several services
+- **−** No public demo; the README's demo link is struck out as not deployed
+- **−** Much of the README covers generic admin-framework features unrelated to RAG
+- **−** Removing copyright notices requires a separate license despite Apache-2.0
+
+<sub>Go, Pluggable LLM, embedding, rerank, speech, TTS, OCR providers (list in server/rag/README.md) · Needs MySQL > 5.7, Redis, PostgreSQL with pgvector or Elasticsearch, Node > 18.16, Go >= 1.22 · Docker · [Repo](https://github.com/lightningrag/lightningrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightningrag/)</sub>
 
 <a name="natural-language-postgres"></a>
 ### #&#8288;24 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (7) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
