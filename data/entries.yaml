@@ -2967,7 +2967,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: null
+      docs: https://github.com/virgiliojr94/book-to-skill/blob/HEAD/docs/usage.md
     audience: Developers who want books or internal docs queryable from a coding agent
     confidence: 0.85
     facts:
@@ -50012,7 +50012,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: null
+      docs: https://github.com/kdcokenny/ocx/blob/HEAD/docs/v2/profiles.mdx
     audience: OpenCode users who keep separate setups for work, personal and review
     confidence: 0.8
     facts:
