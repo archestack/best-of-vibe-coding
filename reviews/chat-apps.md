@@ -23,7 +23,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="chat-js"></a>
-### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js AI chat app scaffold with auth, branching and sharing.**
 

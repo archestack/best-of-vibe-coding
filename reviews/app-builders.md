@@ -5,7 +5,7 @@ Prompt-to-app builders and platforms that run coding agents in sandboxes. Back t
 <sub>🌐 Also on the web: [App builder starters on archestack.com](https://archestack.com/best-of-vibe-coding/app-builders/), each project on its own page.</sub>
 
 <a name="dyad"></a>
-### 🥇 [dyad](https://github.com/dyad-sh/dyad) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+### 🥇 [dyad](https://github.com/dyad-sh/dyad) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
 
 **Desktop app that builds apps from prompts on your own machine.**
 
@@ -147,7 +147,7 @@ Vizro is a Python package (`pip install vizro`) that assembles multi-page data d
 <sub>Python · Needs Plotly, Dash, Pydantic · [Repo](https://github.com/mckinsey/vizro) · [▶️ Demo ↗](https://huggingface.co/spaces/vizro/demo-first-dashboard) · [📖 Docs ↗](https://vizro.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vizro/)</sub>
 
 <a name="lowdefy"></a>
-### #&#8288;9 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-config framework for building internal web apps and admin tools.**
 
@@ -165,7 +165,7 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
 
 <a name="loopforge"></a>
-### #&#8288;10 [loopforge](https://github.com/tencent/loopforge) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · custom license · Nov 2026</sub>
+### #&#8288;10 [loopforge](https://github.com/tencent/loopforge) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · custom license · Nov 2026</sub>
 
 **Runs coding-agent CLIs in sandboxes with repeatable SOP workflows and approvals.**
 
@@ -450,7 +450,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (30) · Freshness: recent (70) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (30) · Freshness: recent (70) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
@@ -467,7 +467,7 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
 <a name="chef"></a>
-### #&#8288;27 [chef](https://github.com/convex/chef) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: known (49) · Freshness: slowing (38) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;27 [chef](https://github.com/convex/chef) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: known (48) · Freshness: slowing (38) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 
@@ -485,7 +485,7 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 <sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
 
 <a name="claudable"></a>
-### #&#8288;28 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (46) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
+### #&#8288;28 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: known (44) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
 
 **Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
 
