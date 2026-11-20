@@ -76,7 +76,7 @@ Appwrite is a backend platform that bundles Auth, Databases, Storage, Functions,
 <sub>no GPU · Docker + Compose · Needs Docker · port 80 · [Repo](https://github.com/appwrite/appwrite) · [▶️ Demo ↗](https://cloud.appwrite.io) · [📖 Docs ↗](https://appwrite.io/docs) · [🌐 Site ↗](https://appwrite.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appwrite/)</sub>
 
 <a name="medusa"></a>
-### #&#8288;5 [medusa](https://github.com/medusajs/medusa) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · custom license · Nov 2026</sub>
+### #&#8288;5 [medusa](https://github.com/medusajs/medusa) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · custom license · Nov 2026</sub>
 
 **Node.js commerce platform with modular products, carts, orders and payments.**
 
@@ -166,7 +166,7 @@ Docker Compose is a Go-based Docker CLI plugin that reads a compose.yaml, follow
 <sub>no GPU · Docker · Needs Docker Engine or Docker Desktop · [Repo](https://github.com/docker/compose) · [📖 Docs ↗](https://compose-spec.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/compose/)</sub>
 
 <a name="dragonfly"></a>
-### #&#8288;10 [dragonfly](https://github.com/dragonflydb/dragonfly) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · custom license · Nov 2026</sub>
+### #&#8288;10 [dragonfly](https://github.com/dragonflydb/dragonfly) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · custom license · Nov 2026</sub>
 
 **Multi-threaded in-memory data store compatible with Redis and Memcached APIs.**
 
@@ -184,7 +184,7 @@ Dragonfly is an in-memory data store written in C++ that speaks the Redis and Me
 <sub>no GPU · port 6379 · [Repo](https://github.com/dragonflydb/dragonfly) · [📖 Docs ↗](https://dragonflydb.io/docs) · [🌐 Site ↗](https://www.dragonflydb.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dragonfly/)</sub>
 
 <a name="duckdb"></a>
-### #&#8288;11 [duckdb](https://github.com/duckdb/duckdb) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 43k · MIT · Nov 2026</sub>
+### #&#8288;11 [duckdb](https://github.com/duckdb/duckdb) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 43k · MIT · Nov 2026</sub>
 
 **In-process analytical SQL database that queries CSV, Parquet and JSON files directly.**
 
@@ -255,7 +255,7 @@ Kestra is a Java workflow orchestrator where flows are declared in YAML and edit
 <sub>no GPU · Docker + Compose · Needs Docker, PostgreSQL (production deployments, per cloud templates), Maven Central (slim image plugin auto-install) · Models: OpenAI, Anthropic, Google Gemini, Amazon Bedrock, Ollama · port 8080 · [Repo](https://github.com/kestra-io/kestra) · [📖 Docs ↗](https://kestra.io/docs) · [🌐 Site ↗](https://kestra.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kestra/)</sub>
 
 <a name="scalar"></a>
-### #&#8288;15 [scalar](https://github.com/scalar/scalar) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
+### #&#8288;15 [scalar](https://github.com/scalar/scalar) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Nov 2026</sub>
 
 **OpenAPI API reference renderer and offline-first API client.**
 
@@ -327,7 +327,7 @@ Better Auth is a TypeScript authentication and authorization library that works 
 <sub>no GPU · Compose · Compose runs MongoDB, Redis, PostgreSQL, MySQL · [Repo](https://github.com/better-auth/better-auth) · [🌐 Site ↗](https://better-auth.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/better-auth/)</sub>
 
 <a name="spacetimedb"></a>
-### #&#8288;19 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · custom license · Nov 2026</sub>
+### #&#8288;19 [spacetimedb](https://github.com/clockworklabs/spacetimedb) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · custom license · Nov 2026</sub>
 
 **Relational database that runs your server logic as modules and syncs clients live.**
 
@@ -345,7 +345,7 @@ SpacetimeDB is a relational database that hosts application logic written as mod
 <sub>no GPU · Docker + Compose · port 3000 · [Repo](https://github.com/clockworklabs/spacetimedb) · [📖 Docs ↗](https://spacetimedb.com/docs) · [🌐 Site ↗](https://spacetimedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spacetimedb/)</sub>
 
 <a name="nocobase"></a>
-### #&#8288;20 [nocobase](https://github.com/nocobase/nocobase) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Nov 2026</sub>
+### #&#8288;20 [nocobase](https://github.com/nocobase/nocobase) <sub>score [90](../README.md#-how-we-rank "Score 90/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Nov 2026</sub>
 
 **Open-source application foundation for business systems built by coding agents.**
 
@@ -432,7 +432,7 @@ Turso Database is a Rust rewrite of SQLite that runs in-process and compiles SQL
 <sub>no GPU · Docker · [Repo](https://github.com/tursodatabase/turso) · [🌐 Site ↗](https://turso.tech) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/turso/)</sub>
 
 <a name="ktor"></a>
-### #&#8288;25 [ktor](https://github.com/ktorio/ktor) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;25 [ktor](https://github.com/ktorio/ktor) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
 
 **Kotlin coroutine-based framework for web servers and microservices.**
 
@@ -468,7 +468,7 @@ Spring Boot is an opinionated layer over the Spring platform for building Java s
 <sub>Needs JDK 25 (building from source), Gradle wrapper (building from source) · [Repo](https://github.com/spring-projects/spring-boot) · [📖 Docs ↗](https://docs.spring.io/spring-boot) · [🌐 Site ↗](https://spring.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spring-boot/)</sub>
 
 <a name="orm"></a>
-### #&#8288;27 [orm](https://github.com/prisma/orm) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;27 [orm](https://github.com/prisma/orm) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 48k · Apache-2.0 · Nov 2026</sub>
 
 **TypeScript ORM for PostgreSQL and MongoDB with a plugin SPI and agent skills.**
 
@@ -593,7 +593,7 @@ SeaweedFS is a Go distributed storage system built from master, volume and filer
 <sub>no GPU · Docker + Compose · Needs Optional filer metadata store (PostgreSQL, MySQL, Redis, etc.), weed-vector binary for S3 Vectors · port 8333 · [Repo](https://github.com/seaweedfs/seaweedfs) · [📖 Docs ↗](https://github.com/seaweedfs/seaweedfs/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/seaweedfs/)</sub>
 
 <a name="saleor"></a>
-### #&#8288;34 [saleor](https://github.com/saleor/saleor) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · BSD-3-Clause · Nov 2026</sub>
+### #&#8288;34 [saleor](https://github.com/saleor/saleor) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · BSD-3-Clause · Nov 2026</sub>
 
 **Headless, GraphQL-only commerce backend for composable storefronts.**
 
@@ -645,133 +645,8 @@ Hasura GraphQL Engine exposes data from PostgreSQL and its flavors, MongoDB, Cli
 
 <sub>no GPU · Compose · Needs PostgreSQL, MongoDB, ClickHouse, MS SQL Server · [Repo](https://github.com/hasura/graphql-engine) · [📖 Docs ↗](https://hasura.io/docs/3.0/) · [🌐 Site ↗](https://hasura.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-engine/)</sub>
 
-<a name="rxdb"></a>
-### #&#8288;37 [rxdb](https://github.com/pubkey/rxdb) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Nov 2026</sub>
-
-**Local-first reactive NoSQL database for JavaScript apps with sync.**
-
-RxDB is a NoSQL database that runs inside JavaScript clients: browsers, Node.js, React Native, Electron, Capacitor and Flutter. Queries and single fields are observable through RxJS, so UIs update when data changes. It replicates over a sync protocol of three HTTP endpoints, with plugins for GraphQL, CouchDB, WebSocket, WebRTC, Supabase, Firestore and NATS. It has no AI features and fits this list only as a data layer.
-
-- **+** Swappable storage: LocalStorage, IndexedDB, OPFS, SQLite, memory, FoundationDB, DenoKV
-- **+** Replication plugins for GraphQL, CouchDB, WebSocket, WebRTC, Supabase, Firestore and NATS
-- **+** Observable queries and fields drive realtime UI updates without manual refetching
-- **+** Schema validation, encryption, migration, CRDT and attachments available as plugins
-- **−** Some plugins are sold separately as a premium tier
-- **−** No AI, vector search or LLM features in the README
-- **−** Requires rxjs alongside rxdb as an install dependency
-- **−** Sync needs your own backend implementing the HTTP endpoints or a supported service
-
-<sub>no GPU · Needs rxjs · [Repo](https://github.com/pubkey/rxdb) · [📖 Docs ↗](https://rxdb.info/quickstart.html) · [🌐 Site ↗](https://rxdb.info/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rxdb/)</sub>
-
-<a name="caprover"></a>
-### #&#8288;38 [caprover](https://github.com/caprover/caprover) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
-
-**Self-hosted app and database deployment manager with CLI and web GUI.**
-
-CapRover is a self-hosted deployment platform that runs apps and databases on your own server using Docker Swarm, nginx and Let's Encrypt. It has a web GUI and a CLI for deploying NodeJS, Python, PHP, ASP.NET, Ruby and Go apps, and installs MariaDB, MySQL, MongoDB, Postgres or WordPress from a dropdown. It is pitched as a cheaper alternative to Heroku-style hosting.
-
-- **+** Docker Swarm underneath, so clustering across servers is supported
-- **+** Automatic free HTTPS via Let's Encrypt
-- **+** Customizable nginx template for load balancing
-- **+** No lock-in: apps keep running if CapRover is removed
-- **−** License detected as NOASSERTION, so terms need manual checking
-- **−** No AI features; it is a general deployment tool
-- **−** Depends on Docker Swarm, nginx and NetData stack
-- **−** Pitch focuses on single-server cost savings; no benchmarks given
-
-<sub>no GPU · Needs Docker, Docker Swarm, nginx, Let's Encrypt, NetData · [Repo](https://github.com/caprover/caprover) · [📖 Docs ↗](https://caprover.com/) · [🌐 Site ↗](https://caprover.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/caprover/)</sub>
-
-<a name="node-mongodb-native"></a>
-### #&#8288;39 [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
-
-**Official MongoDB driver for Node.js with TypeScript types.**
-
-The official MongoDB client library for Node.js, installed with `npm install mongodb`. It provides MongoClient, CRUD operations, indexing and a typed error hierarchy, and supports MongoDB servers 4.4+. Optional add-on packages cover zstd and snappy compression, field-level and queryable encryption, and Kerberos and AWS authentication.
-
-- **+** Maintained by MongoDB; releases are GPG-signed and carry npm provenance attestations
-- **+** Ships TypeScript types, checked against typescript 5.6.0 and later
-- **+** Semantic versioning with a documented error class tree safe for instanceof checks
-- **+** Optional packages for field-level encryption, Kerberos and zstd compression
-- **−** Works only with MongoDB; not a general database abstraction or ODM
-- **−** Native add-ons (kerberos, encryption, zstd) can hit C++ compilation problems
-- **−** Non-Node runtimes are still in progress; SCRAM-SHA-1 needs Node.js
-- **−** Experimental features are excluded from semver and may break in any release
-
-<sub>no GPU · Needs MongoDB server 4.4+, Node.js · [Repo](https://github.com/mongodb/node-mongodb-native) · [📖 Docs ↗](https://mongodb.github.io/node-mongodb-native) · [🌐 Site ↗](https://www.mongodb.com/docs/drivers/node) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/node-mongodb-native/)</sub>
-
-<a name="mongo-go-driver"></a>
-### #&#8288;40 [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Nov 2026</sub>
-
-**Official MongoDB driver for Go, with a BSON package.**
-
-Go client library for MongoDB, installed as a Go module (go.mongodb.org/mongo-driver/v2). It provides a mongo.Client with Database and Collection handles, cursors, a bson package, and network compression via snappy, zlib or zstd. Version 2.0 is current, and a migration guide covers upgrading from 1.x.
-
-- **+** Maintained by MongoDB; follows semantic versioning with a v2.0 migration guide
-- **+** Supports snappy, zlib and zstd network compression, negotiated with the server
-- **+** Connect does not block on server discovery; Ping checks reachability explicitly
-- **+** Includes its own bson package, so no extra serialization dependency
-- **−** Requires Go 1.25 or higher; only the last two Go minor versions are supported
-- **−** Needs MongoDB 4.4 or newer; older servers are unsupported
-- **−** Running the driver test suite requires Go 1.26 or higher
-- **−** Upgrading from 1.x to 2.0 involves breaking changes and a migration step
-
-<sub>no GPU · Docker · Needs MongoDB 4.4+ · [Repo](https://github.com/mongodb/mongo-go-driver) · [📖 Docs ↗](https://www.mongodb.com/docs/drivers/go/current/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongo-go-driver/)</sub>
-
-<a name="supabase"></a>
-### #&#8288;41 [supabase](https://github.com/supabase/supabase) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 115k · Apache-2.0 · Nov 2026</sub>
-
-**Postgres backend with auth, generated APIs, storage and realtime.**
-
-Supabase is a Postgres-based backend platform that bundles JWT authentication (GoTrue), auto-generated REST (PostgREST) and GraphQL (pg_graphql) APIs, realtime subscriptions over websockets, S3-backed file storage, and database and edge functions. It also ships a vector/embeddings toolkit and a dashboard. It runs as a hosted service, or you can self-host or develop locally.
-
-- **+** Auth, REST, GraphQL, realtime, storage and edge functions on one Postgres database
-- **+** Official clients for JavaScript/TypeScript, Flutter, Swift and Python
-- **+** Built on existing open-source components such as PostgREST and GoTrue
-- **+** Vector/embeddings toolkit for AI features inside Postgres
-- **−** Self-hosting means running several services: Postgres, Realtime, PostgREST, GoTrue, Storage, Envoy
-- **−** Many client libraries are community-maintained and cover only some features
-- **−** Realtime depends on Postgres replication, so it is tied to the database
-- **−** Hosted platform is the primary path; the README gives no self-host sizing
-
-<sub>no GPU · Compose · Needs PostgreSQL, S3-compatible storage · [Repo](https://github.com/supabase/supabase) · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase/)</sub>
-
-<a name="payload"></a>
-### #&#8288;42 [payload](https://github.com/payloadcms/payload) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>
-
-**Next.js-native headless CMS and app framework with a React admin panel.**
-
-Payload installs into an existing Next.js /app folder and provides a TypeScript headless CMS with auth, versions and drafts, localization, and a customizable React admin. Server components can query the database directly without REST or GraphQL. The README lists website and ecommerce templates plus one-click deploys to Vercel (Neon, Vercel Blob) and Cloudflare (Workers, R2, D1).
-
-- **+** Installs inside an existing Next.js /app folder, so frontend and backend share one codebase
-- **+** Auth, versions and drafts, localization, and field-level access control are built in
-- **+** Generates TypeScript types for your data; hooks exist at document and field level
-- **+** One-click deploy to Vercel (Neon, Blob) or Cloudflare (Workers, R2, D1)
-- **−** README does not mention built-in AI features; it is a general CMS
-- **−** Tied to Next.js and TypeScript for its native setup
-- **−** v2 to v3 required a migration guide, so older projects need upgrade work
-
-<sub>no GPU · Needs Next.js, Database (Neon Postgres or Cloudflare D1 in one-click deploys) · [Repo](https://github.com/payloadcms/payload) · [📖 Docs ↗](https://payloadcms.com/docs/getting-started/what-is-payload) · [🌐 Site ↗](https://payloadcms.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/payload/)</sub>
-
-<a name="dokku"></a>
-### #&#8288;43 [dokku](https://github.com/dokku/dokku) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Nov 2026</sub>
-
-**Self-hosted Heroku-style PaaS that deploys apps with git push.**
-
-Dokku is a small platform-as-a-service written in Go that runs on a single Ubuntu or Debian host and builds and runs apps in Docker containers. You set domains and SSH keys with the dokku CLI, then deploy by pushing to the server. It is a hosting layer, not an AI project, so it fits this list only as a place to run apps.
-
-- **+** Installs with a bootstrap script on Ubuntu 22.04/24.04/26.04 or Debian 11+, amd64 and arm64
-- **+** MIT licensed, with a release on 2026-10-30 and recent commits
-- **+** Imports an existing SSH keypair automatically for git-based deploys
-- **+** Ubuntu and Arch packages, plus documented upgrade and unattended install paths
-- **−** README describes one VM; multi-host clustering is not mentioned
-- **−** Host OS limited to Ubuntu and Debian
-- **−** No AI-specific features; it only hosts apps built elsewhere
-- **−** Managed through CLI and SSH; the README mentions no web UI
-
-<sub>no GPU · Docker · Needs Docker, SSH keypair, Ubuntu or Debian VM · [Repo](https://github.com/dokku/dokku) · [📖 Docs ↗](https://dokku.com/docs/getting-started/installation/) · [🌐 Site ↗](https://dokku.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dokku/)</sub>
-
 <a name="pulumi"></a>
-### #&#8288;44 [pulumi](https://github.com/pulumi/pulumi) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;37 [pulumi](https://github.com/pulumi/pulumi) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
 
 **Infrastructure as code CLI and engine using general-purpose programming languages.**
 
@@ -789,7 +664,7 @@ Pulumi is a CLI, engine and set of language SDKs that provision cloud resources 
 <sub>Needs Cloud provider account (AWS, Azure, GCP, Kubernetes, etc.), Language runtime: Node.js, Python, Go, .NET or JDK 11+ · [Repo](https://github.com/pulumi/pulumi) · [📖 Docs ↗](https://www.pulumi.com/docs/) · [🌐 Site ↗](https://www.pulumi.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pulumi/)</sub>
 
 <a name="temporal"></a>
-### #&#8288;45 [temporal](https://github.com/temporalio/temporal) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · MIT · Nov 2026</sub>
+### #&#8288;38 [temporal](https://github.com/temporalio/temporal) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · MIT · Nov 2026</sub>
 
 **Durable execution server that runs workflows and retries failed steps.**
 
@@ -806,8 +681,26 @@ Temporal is the server side of a durable execution platform, written in Go. It r
 
 <sub>Docker · port 8233 · [Repo](https://github.com/temporalio/temporal) · [📖 Docs ↗](https://docs.temporal.io/) · [🌐 Site ↗](https://temporal.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/temporal/)</sub>
 
+<a name="rxdb"></a>
+### #&#8288;39 [rxdb](https://github.com/pubkey/rxdb) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Nov 2026</sub>
+
+**Local-first reactive NoSQL database for JavaScript apps with sync.**
+
+RxDB is a NoSQL database that runs inside JavaScript clients: browsers, Node.js, React Native, Electron, Capacitor and Flutter. Queries and single fields are observable through RxJS, so UIs update when data changes. It replicates over a sync protocol of three HTTP endpoints, with plugins for GraphQL, CouchDB, WebSocket, WebRTC, Supabase, Firestore and NATS. It has no AI features and fits this list only as a data layer.
+
+- **+** Swappable storage: LocalStorage, IndexedDB, OPFS, SQLite, memory, FoundationDB, DenoKV
+- **+** Replication plugins for GraphQL, CouchDB, WebSocket, WebRTC, Supabase, Firestore and NATS
+- **+** Observable queries and fields drive realtime UI updates without manual refetching
+- **+** Schema validation, encryption, migration, CRDT and attachments available as plugins
+- **−** Some plugins are sold separately as a premium tier
+- **−** No AI, vector search or LLM features in the README
+- **−** Requires rxjs alongside rxdb as an install dependency
+- **−** Sync needs your own backend implementing the HTTP endpoints or a supported service
+
+<sub>no GPU · Needs rxjs · [Repo](https://github.com/pubkey/rxdb) · [📖 Docs ↗](https://rxdb.info/quickstart.html) · [🌐 Site ↗](https://rxdb.info/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rxdb/)</sub>
+
 <a name="rqlite"></a>
-### #&#8288;46 [rqlite](https://github.com/rqlite/rqlite) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Nov 2026</sub>
+### #&#8288;40 [rqlite](https://github.com/rqlite/rqlite) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Nov 2026</sub>
 
 **Distributed, fault-tolerant relational database built on SQLite.**
 
@@ -823,26 +716,26 @@ rqlite replicates a SQLite database across a cluster of nodes and exposes it thr
 
 <sub>no GPU · Docker · port 4001 · [Repo](https://github.com/rqlite/rqlite) · [📖 Docs ↗](https://rqlite.io/docs/quick-start/) · [🌐 Site ↗](https://rqlite.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rqlite/)</sub>
 
-<a name="onedev"></a>
-### #&#8288;47 [onedev](https://github.com/theonedev/onedev) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+<a name="caprover"></a>
+### #&#8288;41 [caprover](https://github.com/caprover/caprover) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
 
-**Self-hosted Git server with CI/CD, issues, packages and AI agents.**
+**Self-hosted app and database deployment manager with CLI and web GUI.**
 
-OneDev is a Java-based self-hosted Git platform that combines code hosting, pull requests, kanban and issue workflows, a GUI-driven CI/CD system, package registries and a wiki. It also offers built-in AI users that review pull requests and fix CI failures, and browser workspaces where terminal agents such as Claude Code, Codex and OpenCode run in dev containers or sandbox VMs.
+CapRover is a self-hosted deployment platform that runs apps and databases on your own server using Docker Swarm, nginx and Let's Encrypt. It has a web GUI and a CLI for deploying NodeJS, Python, PHP, ASP.NET, Ruby and Go apps, and installs MariaDB, MySQL, MongoDB, Postgres or WordPress from a dropdown. It is pitched as a cheaper alternative to Heroku-style hosting.
 
-- **+** Git, CI/CD, issues, packages and wiki in one server, cross-referenced with each other
-- **+** README says a 1 core, 2 GB box handles medium-sized projects
-- **+** Jobs run in containers, on bare metal or sandbox VMs, scaled via Kubernetes or agents
-- **+** Cluster mode replicates projects for availability or distributes them for scale
-- **−** Supports only Linux and Windows (amd64/arm64) and Apple Silicon macOS; Intel Macs and FreeBSD dropped
-- **−** Broad scope (AI users, workspaces, service desk) means more to configure than a plain Git host
-- **−** README gives no Docker instructions; setup is in the external installation guide
-- **−** Issues and pull requests go to the maintainers' own instance, not this repository
+- **+** Docker Swarm underneath, so clustering across servers is supported
+- **+** Automatic free HTTPS via Let's Encrypt
+- **+** Customizable nginx template for load balancing
+- **+** No lock-in: apps keep running if CapRover is removed
+- **−** License detected as NOASSERTION, so terms need manual checking
+- **−** No AI features; it is a general deployment tool
+- **−** Depends on Docker Swarm, nginx and NetData stack
+- **−** Pitch focuses on single-server cost savings; no benchmarks given
 
-<sub>RAM ≥ 2 GB · no GPU · Models: OpenCode, Claude Code, Codex · [Repo](https://github.com/theonedev/onedev) · [▶️ Demo ↗](https://code.onedev.io) · [📖 Docs ↗](https://docs.onedev.io) · [🌐 Site ↗](https://onedev.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/onedev/)</sub>
+<sub>no GPU · Needs Docker, Docker Swarm, nginx, Let's Encrypt, NetData · [Repo](https://github.com/caprover/caprover) · [📖 Docs ↗](https://caprover.com/) · [🌐 Site ↗](https://caprover.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/caprover/)</sub>
 
 <a name="casdoor"></a>
-### #&#8288;48 [casdoor](https://github.com/casdoor/casdoor) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;42 [casdoor](https://github.com/casdoor/casdoor) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted SSO and identity provider with web console.**
 
@@ -859,8 +752,133 @@ Casdoor is a Go identity and access management server that stores users, issues 
 
 <sub>no GPU · Docker + Compose · Needs MySQL, PostgreSQL, SQLite or SQL Server, Redis (optional, needed for multiple replicas) · port 8000 · [Repo](https://github.com/casdoor/casdoor) · [▶️ Demo ↗](https://demo.casdoor.com) · [📖 Docs ↗](https://casdoor.ai/docs/overview) · [🌐 Site ↗](https://casdoor.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/casdoor/)</sub>
 
+<a name="node-mongodb-native"></a>
+### #&#8288;43 [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
+
+**Official MongoDB driver for Node.js with TypeScript types.**
+
+The official MongoDB client library for Node.js, installed with `npm install mongodb`. It provides MongoClient, CRUD operations, indexing and a typed error hierarchy, and supports MongoDB servers 4.4+. Optional add-on packages cover zstd and snappy compression, field-level and queryable encryption, and Kerberos and AWS authentication.
+
+- **+** Maintained by MongoDB; releases are GPG-signed and carry npm provenance attestations
+- **+** Ships TypeScript types, checked against typescript 5.6.0 and later
+- **+** Semantic versioning with a documented error class tree safe for instanceof checks
+- **+** Optional packages for field-level encryption, Kerberos and zstd compression
+- **−** Works only with MongoDB; not a general database abstraction or ODM
+- **−** Native add-ons (kerberos, encryption, zstd) can hit C++ compilation problems
+- **−** Non-Node runtimes are still in progress; SCRAM-SHA-1 needs Node.js
+- **−** Experimental features are excluded from semver and may break in any release
+
+<sub>no GPU · Needs MongoDB server 4.4+, Node.js · [Repo](https://github.com/mongodb/node-mongodb-native) · [📖 Docs ↗](https://mongodb.github.io/node-mongodb-native) · [🌐 Site ↗](https://www.mongodb.com/docs/drivers/node) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/node-mongodb-native/)</sub>
+
+<a name="mongo-go-driver"></a>
+### #&#8288;44 [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Nov 2026</sub>
+
+**Official MongoDB driver for Go, with a BSON package.**
+
+Go client library for MongoDB, installed as a Go module (go.mongodb.org/mongo-driver/v2). It provides a mongo.Client with Database and Collection handles, cursors, a bson package, and network compression via snappy, zlib or zstd. Version 2.0 is current, and a migration guide covers upgrading from 1.x.
+
+- **+** Maintained by MongoDB; follows semantic versioning with a v2.0 migration guide
+- **+** Supports snappy, zlib and zstd network compression, negotiated with the server
+- **+** Connect does not block on server discovery; Ping checks reachability explicitly
+- **+** Includes its own bson package, so no extra serialization dependency
+- **−** Requires Go 1.25 or higher; only the last two Go minor versions are supported
+- **−** Needs MongoDB 4.4 or newer; older servers are unsupported
+- **−** Running the driver test suite requires Go 1.26 or higher
+- **−** Upgrading from 1.x to 2.0 involves breaking changes and a migration step
+
+<sub>no GPU · Docker · Needs MongoDB 4.4+ · [Repo](https://github.com/mongodb/mongo-go-driver) · [📖 Docs ↗](https://www.mongodb.com/docs/drivers/go/current/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongo-go-driver/)</sub>
+
+<a name="supabase"></a>
+### #&#8288;45 [supabase](https://github.com/supabase/supabase) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 115k · Apache-2.0 · Nov 2026</sub>
+
+**Postgres backend with auth, generated APIs, storage and realtime.**
+
+Supabase is a Postgres-based backend platform that bundles JWT authentication (GoTrue), auto-generated REST (PostgREST) and GraphQL (pg_graphql) APIs, realtime subscriptions over websockets, S3-backed file storage, and database and edge functions. It also ships a vector/embeddings toolkit and a dashboard. It runs as a hosted service, or you can self-host or develop locally.
+
+- **+** Auth, REST, GraphQL, realtime, storage and edge functions on one Postgres database
+- **+** Official clients for JavaScript/TypeScript, Flutter, Swift and Python
+- **+** Built on existing open-source components such as PostgREST and GoTrue
+- **+** Vector/embeddings toolkit for AI features inside Postgres
+- **−** Self-hosting means running several services: Postgres, Realtime, PostgREST, GoTrue, Storage, Envoy
+- **−** Many client libraries are community-maintained and cover only some features
+- **−** Realtime depends on Postgres replication, so it is tied to the database
+- **−** Hosted platform is the primary path; the README gives no self-host sizing
+
+<sub>no GPU · Compose · Needs PostgreSQL, S3-compatible storage · [Repo](https://github.com/supabase/supabase) · [📖 Docs ↗](https://supabase.com/docs) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase/)</sub>
+
+<a name="payload"></a>
+### #&#8288;46 [payload](https://github.com/payloadcms/payload) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 46k · MIT · Nov 2026</sub>
+
+**Next.js-native headless CMS and app framework with a React admin panel.**
+
+Payload installs into an existing Next.js /app folder and provides a TypeScript headless CMS with auth, versions and drafts, localization, and a customizable React admin. Server components can query the database directly without REST or GraphQL. The README lists website and ecommerce templates plus one-click deploys to Vercel (Neon, Vercel Blob) and Cloudflare (Workers, R2, D1).
+
+- **+** Installs inside an existing Next.js /app folder, so frontend and backend share one codebase
+- **+** Auth, versions and drafts, localization, and field-level access control are built in
+- **+** Generates TypeScript types for your data; hooks exist at document and field level
+- **+** One-click deploy to Vercel (Neon, Blob) or Cloudflare (Workers, R2, D1)
+- **−** README does not mention built-in AI features; it is a general CMS
+- **−** Tied to Next.js and TypeScript for its native setup
+- **−** v2 to v3 required a migration guide, so older projects need upgrade work
+
+<sub>no GPU · Needs Next.js, Database (Neon Postgres or Cloudflare D1 in one-click deploys) · [Repo](https://github.com/payloadcms/payload) · [📖 Docs ↗](https://payloadcms.com/docs/getting-started/what-is-payload) · [🌐 Site ↗](https://payloadcms.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/payload/)</sub>
+
+<a name="dokku"></a>
+### #&#8288;47 [dokku](https://github.com/dokku/dokku) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Nov 2026</sub>
+
+**Self-hosted Heroku-style PaaS that deploys apps with git push.**
+
+Dokku is a small platform-as-a-service written in Go that runs on a single Ubuntu or Debian host and builds and runs apps in Docker containers. You set domains and SSH keys with the dokku CLI, then deploy by pushing to the server. It is a hosting layer, not an AI project, so it fits this list only as a place to run apps.
+
+- **+** Installs with a bootstrap script on Ubuntu 22.04/24.04/26.04 or Debian 11+, amd64 and arm64
+- **+** MIT licensed, with a release on 2026-10-30 and recent commits
+- **+** Imports an existing SSH keypair automatically for git-based deploys
+- **+** Ubuntu and Arch packages, plus documented upgrade and unattended install paths
+- **−** README describes one VM; multi-host clustering is not mentioned
+- **−** Host OS limited to Ubuntu and Debian
+- **−** No AI-specific features; it only hosts apps built elsewhere
+- **−** Managed through CLI and SSH; the README mentions no web UI
+
+<sub>no GPU · Docker · Needs Docker, SSH keypair, Ubuntu or Debian VM · [Repo](https://github.com/dokku/dokku) · [📖 Docs ↗](https://dokku.com/docs/getting-started/installation/) · [🌐 Site ↗](https://dokku.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dokku/)</sub>
+
+<a name="onedev"></a>
+### #&#8288;48 [onedev](https://github.com/theonedev/onedev) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+
+**Self-hosted Git server with CI/CD, issues, packages and AI agents.**
+
+OneDev is a Java-based self-hosted Git platform that combines code hosting, pull requests, kanban and issue workflows, a GUI-driven CI/CD system, package registries and a wiki. It also offers built-in AI users that review pull requests and fix CI failures, and browser workspaces where terminal agents such as Claude Code, Codex and OpenCode run in dev containers or sandbox VMs.
+
+- **+** Git, CI/CD, issues, packages and wiki in one server, cross-referenced with each other
+- **+** README says a 1 core, 2 GB box handles medium-sized projects
+- **+** Jobs run in containers, on bare metal or sandbox VMs, scaled via Kubernetes or agents
+- **+** Cluster mode replicates projects for availability or distributes them for scale
+- **−** Supports only Linux and Windows (amd64/arm64) and Apple Silicon macOS; Intel Macs and FreeBSD dropped
+- **−** Broad scope (AI users, workspaces, service desk) means more to configure than a plain Git host
+- **−** README gives no Docker instructions; setup is in the external installation guide
+- **−** Issues and pull requests go to the maintainers' own instance, not this repository
+
+<sub>RAM ≥ 2 GB · no GPU · Models: OpenCode, Claude Code, Codex · [Repo](https://github.com/theonedev/onedev) · [▶️ Demo ↗](https://code.onedev.io) · [📖 Docs ↗](https://docs.onedev.io) · [🌐 Site ↗](https://onedev.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/onedev/)</sub>
+
+<a name="emdash-cms-emdash"></a>
+### #&#8288;49 [emdash](https://github.com/emdash-cms/emdash) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+
+**TypeScript CMS on Astro with sandboxed plugins and a built-in MCP server.**
+
+EmDash is an Astro integration that adds an admin panel, REST API, passkey-first auth, media library and plugin system to an Astro site. Content types are defined in the database through the admin UI, with each collection backed by a real SQL table and rich text stored as Portable Text. It runs on Cloudflare (D1, R2, Workers) or on Node.js with SQLite, and includes a WordPress import wizard.
+
+- **+** Plugins run in sandboxed Worker isolates with declared capability manifests
+- **+** Portable storage layers: SQLite, D1, Turso, PostgreSQL; R2, S3 or local files
+- **+** Imports WordPress content from WXR exports, REST API or WordPress.com
+- **+** Ships a CLI, agent skills and a built-in MCP server for AI tools
+- **−** Tied to Astro; the CMS is an integration, not a standalone service
+- **−** First-party plugins and plugin tooling are still on 0.x and may change
+- **−** Plugin sandboxing needs Worker Loaders on Cloudflare or a workerd child process on Node
+- **−** Three starter templates only: blog, marketing and portfolio
+
+<sub>no GPU · Docker + Compose · Needs Astro, Cloudflare D1/R2/Workers or Node.js with SQLite, Optional: PostgreSQL, Turso/libSQL, S3, Redis · port 4321 · [Repo](https://github.com/emdash-cms/emdash) · [📖 Docs ↗](https://docs.emdashcms.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/emdash-cms-emdash/)</sub>
+
 <a name="nocodb"></a>
-### #&#8288;49 [nocodb](https://github.com/nocodb/nocodb) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 66k · custom license · Nov 2026</sub>
+### #&#8288;50 [nocodb](https://github.com/nocodb/nocodb) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 66k · custom license · Nov 2026</sub>
 
 **Spreadsheet-style web UI and REST API on top of SQL databases.**
 
@@ -878,7 +896,7 @@ NocoDB provides an Airtable-like interface for creating and editing tables, with
 <sub>no GPU · Compose · Needs SQLite or PostgreSQL, Redis (auto-upstall setup), Traefik (auto-upstall setup) · port 8080 · [Repo](https://github.com/nocodb/nocodb) · [📖 Docs ↗](https://docs.nocodb.com/) · [🌐 Site ↗](https://www.nocodb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nocodb/)</sub>
 
 <a name="rocksdb"></a>
-### #&#8288;50 [rocksdb](https://github.com/meta/rocksdb) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · GPL-2.0 · Nov 2026</sub>
+### #&#8288;51 [rocksdb](https://github.com/meta/rocksdb) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · GPL-2.0 · Nov 2026</sub>
 
 **Embedded LSM-tree key-value store library for flash and RAM.**
 
@@ -896,7 +914,7 @@ RocksDB is a C++ library that stores persistent key-value data using a log-struc
 <sub>no GPU · [Repo](https://github.com/meta/rocksdb) · [📖 Docs ↗](https://github.com/meta/rocksdb/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rocksdb/)</sub>
 
 <a name="valkey"></a>
-### #&#8288;51 [valkey](https://github.com/valkey-io/valkey) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · BSD-3-Clause · Nov 2026</sub>
+### #&#8288;52 [valkey](https://github.com/valkey-io/valkey) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · BSD-3-Clause · Nov 2026</sub>
 
 **Key/value data structure server forked from Redis, with modules and clustering.**
 
@@ -914,7 +932,7 @@ Valkey is a C data structure server for key/value workloads, forked from Redis b
 <sub>no GPU · Needs C compiler and make, OpenSSL (optional, for TLS), Zstandard 1.4.7+ (optional) · [Repo](https://github.com/valkey-io/valkey) · [🌐 Site ↗](https://valkey.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/valkey/)</sub>
 
 <a name="mongoose"></a>
-### #&#8288;52 [mongoose](https://github.com/automattic/mongoose) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · MIT · Nov 2026</sub>
+### #&#8288;53 [mongoose](https://github.com/automattic/mongoose) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 27k · MIT · Nov 2026</sub>
 
 **MongoDB object modeling library for Node.js with schemas, validation and middleware.**
 
@@ -932,7 +950,7 @@ Mongoose is an ODM for MongoDB built on the official Node.js driver. Schemas def
 <sub>no GPU · Needs MongoDB, Node.js · [Repo](https://github.com/automattic/mongoose) · [📖 Docs ↗](https://mongoosejs.com/docs/api/mongoose.html) · [🌐 Site ↗](https://mongoosejs.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongoose/)</sub>
 
 <a name="tdengine"></a>
-### #&#8288;53 [tdengine](https://github.com/taosdata/tdengine) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;54 [tdengine](https://github.com/taosdata/tdengine) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · AGPL-3.0 · Nov 2026</sub>
 
 **Distributed time-series database for IoT and industrial data, written in C.**
 
@@ -950,7 +968,7 @@ TDengine is a time-series database with built-in caching, stream processing and 
 <sub>RAM ≥ 4 GB · no GPU · Needs CMake 3.21+, Python 3 (tests), Go 1.23+ (taosAdapter, taosKeeper) · [Repo](https://github.com/taosdata/tdengine) · [▶️ Demo ↗](https://cloud.tdengine.com) · [📖 Docs ↗](https://docs.tdengine.com) · [🌐 Site ↗](https://tdengine.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tdengine/)</sub>
 
 <a name="mybatis-plus"></a>
-### #&#8288;54 [mybatis-plus](https://github.com/baomidou/mybatis-plus) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;55 [mybatis-plus](https://github.com/baomidou/mybatis-plus) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
 
 **MyBatis extension adding CRUD mappers, query wrappers and pagination for Java.**
 
@@ -968,7 +986,7 @@ MyBatis-Plus is a Java library layered on MyBatis. Extending BaseMapper gives a 
 <sub>no GPU · Needs MyBatis, Spring Boot (optional starters), JSqlParser (optional), Relational database · [Repo](https://github.com/baomidou/mybatis-plus) · [📖 Docs ↗](https://baomidou.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mybatis-plus/)</sub>
 
 <a name="bytebase"></a>
-### #&#8288;55 [bytebase](https://github.com/bytebase/bytebase) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
+### #&#8288;56 [bytebase](https://github.com/bytebase/bytebase) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · custom license · Nov 2026</sub>
 
 **Database change review, access control and audit platform for SQL and NoSQL.**
 
@@ -985,26 +1003,8 @@ Bytebase sits between users, including AI agents, and databases such as PostgreS
 
 <sub>no GPU · port 8080 · [Repo](https://github.com/bytebase/bytebase) · [📖 Docs ↗](https://docs.bytebase.com) · [🌐 Site ↗](https://www.bytebase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bytebase/)</sub>
 
-<a name="emdash-cms-emdash"></a>
-### #&#8288;56 [emdash](https://github.com/emdash-cms/emdash) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
-
-**TypeScript CMS on Astro with sandboxed plugins and a built-in MCP server.**
-
-EmDash is an Astro integration that adds an admin panel, REST API, passkey-first auth, media library and plugin system to an Astro site. Content types are defined in the database through the admin UI, with each collection backed by a real SQL table and rich text stored as Portable Text. It runs on Cloudflare (D1, R2, Workers) or on Node.js with SQLite, and includes a WordPress import wizard.
-
-- **+** Plugins run in sandboxed Worker isolates with declared capability manifests
-- **+** Portable storage layers: SQLite, D1, Turso, PostgreSQL; R2, S3 or local files
-- **+** Imports WordPress content from WXR exports, REST API or WordPress.com
-- **+** Ships a CLI, agent skills and a built-in MCP server for AI tools
-- **−** Tied to Astro; the CMS is an integration, not a standalone service
-- **−** First-party plugins and plugin tooling are still on 0.x and may change
-- **−** Plugin sandboxing needs Worker Loaders on Cloudflare or a workerd child process on Node
-- **−** Three starter templates only: blog, marketing and portfolio
-
-<sub>no GPU · Docker + Compose · Needs Astro, Cloudflare D1/R2/Workers or Node.js with SQLite, Optional: PostgreSQL, Turso/libSQL, S3, Redis · port 4321 · [Repo](https://github.com/emdash-cms/emdash) · [📖 Docs ↗](https://docs.emdashcms.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/emdash-cms-emdash/)</sub>
-
 <a name="starrocks"></a>
-### #&#8288;57 [starrocks](https://github.com/starrocks/starrocks) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;57 [starrocks](https://github.com/starrocks/starrocks) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed vectorized SQL engine for real-time and data lake analytics.**
 
@@ -1039,7 +1039,7 @@ Frappe Framework is a full-stack web framework using Python and MariaDB on the s
 <sub>no GPU · Needs MariaDB, bench, Docker (optional) · port 8000 · [Repo](https://github.com/frappe/frappe) · [📖 Docs ↗](https://docs.frappe.io/framework) · [🌐 Site ↗](https://frappe.io/framework) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frappe/)</sub>
 
 <a name="flexprice"></a>
-### #&#8288;59 [flexprice](https://github.com/flexprice/flexprice) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;59 [flexprice](https://github.com/flexprice/flexprice) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · AGPL-3.0 · Nov 2026</sub>
 
 **Usage-based billing and metering API with credits, plans and invoicing.**
 
@@ -1056,8 +1056,25 @@ Flexprice is a Go billing backend that ingests usage events through an API or SD
 
 <sub>no GPU · Docker + Compose · Needs PostgreSQL, Kafka, ClickHouse, Temporal, Redis, Docker Compose · port 8080 · [Repo](https://github.com/flexprice/flexprice) · [▶️ Demo ↗](https://www.loom.com/share/60d8308781254fe0bc5be341501f9fd5) · [📖 Docs ↗](https://docs.flexprice.io) · [🌐 Site ↗](https://flexprice.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flexprice/)</sub>
 
+<a name="logto"></a>
+### #&#8288;60 [logto](https://github.com/logto-io/logto) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MPL-2.0 · Nov 2026</sub>
+
+**Self-hostable OIDC, OAuth 2.1 and SAML auth service with multi-tenancy and RBAC.**
+
+Logto is an identity and auth server written in TypeScript that handles sign-in, social login, MFA, enterprise SSO, and organization-level RBAC. It ships pre-built sign-in flows and SDKs for 30+ frameworks, and the README says it also fits Model Context Protocol and agent-based setups. It can be self-hosted with Docker Compose or Node.js on PostgreSQL, or used as the managed Logto Cloud.
+
+- **+** Supports OIDC, OAuth 2.1 and SAML, with enterprise SSO and multi-tenancy built in
+- **+** SDKs for 30+ frameworks including React, Next.js, Angular, Vue, Flutter, Go, Python
+- **+** Docker Compose one-liner for self-hosting; also installable via npm init @logto
+- **+** Organization RBAC, member invites and just-in-time provisioning
+- **−** Node.js install path requires a separately managed PostgreSQL database
+- **−** MPL-2.0 has file-level copyleft, which may matter if you modify and ship it
+- **−** Self-hosting means you operate and patch your own auth service
+
+<sub>no GPU · Docker + Compose · Needs PostgreSQL, Docker (optional), Node.js (optional) · port 3002 · [Repo](https://github.com/logto-io/logto) · [📖 Docs ↗](https://docs.logto.io) · [🌐 Site ↗](https://logto.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/logto/)</sub>
+
 <a name="kysely"></a>
-### #&#8288;60 [kysely](https://github.com/kysely-org/kysely) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
+### #&#8288;61 [kysely](https://github.com/kysely-org/kysely) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
 
 **Type-safe SQL query builder for TypeScript with autocompletion.**
 
@@ -1074,7 +1091,7 @@ Kysely is a TypeScript SQL query builder inspired by Knex.js. It checks table an
 <sub>no GPU · Compose · Needs PostgreSQL, MySQL, MSSQL, SQLite or PGlite database · [Repo](https://github.com/kysely-org/kysely) · [▶️ Demo ↗](https://kyse.link) · [📖 Docs ↗](https://kysely-org.github.io/kysely-apidoc/) · [🌐 Site ↗](https://kysely.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kysely/)</sub>
 
 <a name="redis"></a>
-### #&#8288;61 [redis](https://github.com/redis/redis) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 78k · custom license · Nov 2026</sub>
+### #&#8288;62 [redis](https://github.com/redis/redis) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 78k · custom license · Nov 2026</sub>
 
 **In-memory data structure server used as cache, database and message broker.**
 
@@ -1092,7 +1109,7 @@ Redis is a C server that keeps data primarily in memory and exposes strings, has
 <sub>no GPU · Docker · Needs LLVM 21 (module build), CMake 3.25-3.31.6 (module build), Rust 1.94 (module build), OpenSSL · port 6379 · [Repo](https://github.com/redis/redis) · [📖 Docs ↗](https://redis.io/docs/) · [🌐 Site ↗](https://redis.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/redis/)</sub>
 
 <a name="etcd"></a>
-### #&#8288;62 [etcd](https://github.com/etcd-io/etcd) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 53k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;63 [etcd](https://github.com/etcd-io/etcd) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 53k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed key-value store using Raft, with a gRPC API.**
 
@@ -1109,97 +1126,8 @@ etcd is a replicated key-value store written in Go that uses the Raft consensus 
 
 <sub>no GPU · Docker · Needs goreman (optional, for local example cluster) · port 2379 · [Repo](https://github.com/etcd-io/etcd) · [▶️ Demo ↗](https://etcd.io/docs/latest/demo) · [📖 Docs ↗](https://etcd.io/docs/latest) · [🌐 Site ↗](https://etcd.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/etcd/)</sub>
 
-<a name="openship"></a>
-### #&#8288;63 [openship](https://github.com/oblien/openship) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
-
-**Self-hostable deployment platform that builds and routes apps from Git.**
-
-Openship detects the stack of a GitHub repo, local folder or prebuilt artifact, builds it into a Docker image or bare release, runs it, and configures an OpenResty edge with Let's Encrypt certificates. It can be driven from a desktop app, web dashboard, CLI or JS/TS SDK, and exposes an MCP endpoint and REST API.
-
-- **+** Auto-detects stack, build commands and port; openship.json is optional for overrides
-- **+** Push-to-deploy via GitHub webhook, with rollbacks and monorepo-aware rebuilds
-- **+** Manages databases, domains, TLS, backups and a built-in SMTP mail server
-- **+** Desktop app, dashboard, CLI, SDK and MCP endpoint all work against one instance
-- **−** Hosting apps on the same box needs Linux with Docker; macOS and Windows deploy over SSH
-- **−** API container mounts the host Docker socket, so it should run only on a trusted host
-- **−** Bundles a GPL-licensed iRedMail engine in several distributions despite the Apache-2.0 core
-- **−** Multi-node clusters, load-balancing UI and private networking are still listed as upcoming
-
-<sub>no GPU · Compose · Needs Docker (Compose mode), Postgres, Redis, OpenResty, Node 22+ (npm install) · [Repo](https://github.com/oblien/openship) · [📖 Docs ↗](https://openship.io/docs) · [🌐 Site ↗](https://openship.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openship/)</sub>
-
-<a name="logto"></a>
-### #&#8288;64 [logto](https://github.com/logto-io/logto) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MPL-2.0 · Nov 2026</sub>
-
-**Self-hostable OIDC, OAuth 2.1 and SAML auth service with multi-tenancy and RBAC.**
-
-Logto is an identity and auth server written in TypeScript that handles sign-in, social login, MFA, enterprise SSO, and organization-level RBAC. It ships pre-built sign-in flows and SDKs for 30+ frameworks, and the README says it also fits Model Context Protocol and agent-based setups. It can be self-hosted with Docker Compose or Node.js on PostgreSQL, or used as the managed Logto Cloud.
-
-- **+** Supports OIDC, OAuth 2.1 and SAML, with enterprise SSO and multi-tenancy built in
-- **+** SDKs for 30+ frameworks including React, Next.js, Angular, Vue, Flutter, Go, Python
-- **+** Docker Compose one-liner for self-hosting; also installable via npm init @logto
-- **+** Organization RBAC, member invites and just-in-time provisioning
-- **−** Node.js install path requires a separately managed PostgreSQL database
-- **−** MPL-2.0 has file-level copyleft, which may matter if you modify and ship it
-- **−** Self-hosting means you operate and patch your own auth service
-
-<sub>no GPU · Docker + Compose · Needs PostgreSQL, Docker (optional), Node.js (optional) · port 3002 · [Repo](https://github.com/logto-io/logto) · [📖 Docs ↗](https://docs.logto.io) · [🌐 Site ↗](https://logto.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/logto/)</sub>
-
-<a name="postgrest"></a>
-### #&#8288;65 [postgrest](https://github.com/postgrest/postgrest) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · MIT · Nov 2026</sub>
-
-**REST API server generated directly from an existing PostgreSQL schema.**
-
-PostgREST is a Haskell server, built on Warp and Hasql, that exposes tables and views of an existing PostgreSQL database as a RESTful API. Authentication uses JSON Web Tokens, and authorization is delegated to PostgreSQL roles, with JSON serialization and validation done in SQL. It is stateless and can be scaled horizontally.
-
-- **+** Authorization lives in database roles, giving one source of truth for security
-- **+** Stateless server with a connection pool, so it scales horizontally
-- **+** Generates OpenAPI documentation that Swagger-UI can render
-- **+** API versioning through database schemas and views over underlying tables
-- **−** Works only with PostgreSQL, no other databases
-- **−** Business logic must be written as SQL constraints, views and functions
-- **−** Verifies JWTs but has no built-in user management or login
-- **−** No built-in file storage, realtime or admin UI, unlike full backend platforms
-
-<sub>no GPU · Needs PostgreSQL · [Repo](https://github.com/postgrest/postgrest) · [📖 Docs ↗](https://docs.postgrest.org/en/stable/explanations/install.html) · [🌐 Site ↗](http://postgrest.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/postgrest/)</sub>
-
-<a name="actix-web"></a>
-### #&#8288;66 [actix-web](https://github.com/actix/actix-web) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · Apache-2.0 · Nov 2026</sub>
-
-**Rust web framework for HTTP/1.x and HTTP/2 servers on Tokio.**
-
-Actix Web is a general-purpose Rust web framework with routing macros, middleware, WebSockets, multipart streams and static file serving. It runs on Tokio and supports TLS through OpenSSL or Rustls. It has no AI-specific features; it fits this list as a base for a backend service that exposes models or agents over an API.
-
-- **+** Supports HTTP/1.x, HTTP/2, WebSockets and streaming in one framework
-- **+** Built-in compression (br, gzip, deflate, zstd) and TLS via OpenSSL or Rustls
-- **+** Examples repo covers Postgres, SQLite, MongoDB, Diesel and templating
-- **+** Compatible with Tokio and runs on stable Rust 1.89+
-- **−** No AI, LLM or agent features; model serving must be built by the user
-- **−** Rust-only, so Python AI libraries need a separate service or bindings
-- **−** Experimental features are prefixed and may break in any release
-- **−** Library, not a template; auth, database and layout are left to you
-
-<sub>no GPU · Needs Rust 1.89+, Tokio · [Repo](https://github.com/actix/actix-web) · [📖 Docs ↗](https://docs.rs/actix-web) · [🌐 Site ↗](https://actix.rs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/actix-web/)</sub>
-
-<a name="foundationdb"></a>
-### #&#8288;67 [foundationdb](https://github.com/apple/foundationdb) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
-
-**Distributed ordered key-value store with ACID transactions.**
-
-FoundationDB is a distributed database that stores structured data as an ordered key-value store and applies ACID transactions to all operations. It runs on clusters of commodity servers and is accessed through language bindings. The repo is C++ built with CMake and Ninja, with binary packages on the releases page.
-
-- **+** ACID transactions on every operation over an ordered key-value model
-- **+** Releases validated via simulation and real cluster tests, per the README
-- **+** Supported 8.0 and 7.4 branches with documented upgrade paths
-- **+** Language bindings, plus prebuilt binary packages for download
-- **−** Source build has many dependencies; the Docker build image is the recommended route
-- **−** Source build needs at least 8GB of memory, more when parallel
-- **−** Key-value API only; no SQL or document layer in this repo
-- **−** Windows builds support only Visual Studio with ClangCl
-
-<sub>RAM ≥ 8 GB · no GPU · Needs CMake 3.24.2+, Ninja, Mono, Boost 1.89 · [Repo](https://github.com/apple/foundationdb) · [📖 Docs ↗](https://apple.github.io/foundationdb/) · [🌐 Site ↗](https://www.foundationdb.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/foundationdb/)</sub>
-
 <a name="electric-pglite"></a>
-### #&#8288;68 [electric-pglite](https://github.com/neondatabase/electric-pglite) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;64 [electric-pglite](https://github.com/neondatabase/electric-pglite) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
 
 **Postgres compiled to WASM, run in browser, Node, Bun and Deno.**
 
@@ -1216,8 +1144,115 @@ PGlite packages Postgres built to WebAssembly as a TypeScript library, so it run
 
 <sub>no GPU · [Repo](https://github.com/neondatabase/electric-pglite) · [📖 Docs ↗](https://pglite.dev) · [🌐 Site ↗](https://pglite.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/electric-pglite/)</sub>
 
+<a name="openship"></a>
+### #&#8288;65 [openship](https://github.com/oblien/openship) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
+
+**Self-hostable deployment platform that builds and routes apps from Git.**
+
+Openship detects the stack of a GitHub repo, local folder or prebuilt artifact, builds it into a Docker image or bare release, runs it, and configures an OpenResty edge with Let's Encrypt certificates. It can be driven from a desktop app, web dashboard, CLI or JS/TS SDK, and exposes an MCP endpoint and REST API.
+
+- **+** Auto-detects stack, build commands and port; openship.json is optional for overrides
+- **+** Push-to-deploy via GitHub webhook, with rollbacks and monorepo-aware rebuilds
+- **+** Manages databases, domains, TLS, backups and a built-in SMTP mail server
+- **+** Desktop app, dashboard, CLI, SDK and MCP endpoint all work against one instance
+- **−** Hosting apps on the same box needs Linux with Docker; macOS and Windows deploy over SSH
+- **−** API container mounts the host Docker socket, so it should run only on a trusted host
+- **−** Bundles a GPL-licensed iRedMail engine in several distributions despite the Apache-2.0 core
+- **−** Multi-node clusters, load-balancing UI and private networking are still listed as upcoming
+
+<sub>no GPU · Compose · Needs Docker (Compose mode), Postgres, Redis, OpenResty, Node 22+ (npm install) · [Repo](https://github.com/oblien/openship) · [📖 Docs ↗](https://openship.io/docs) · [🌐 Site ↗](https://openship.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openship/)</sub>
+
+<a name="postgrest"></a>
+### #&#8288;66 [postgrest](https://github.com/postgrest/postgrest) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 28k · MIT · Nov 2026</sub>
+
+**REST API server generated directly from an existing PostgreSQL schema.**
+
+PostgREST is a Haskell server, built on Warp and Hasql, that exposes tables and views of an existing PostgreSQL database as a RESTful API. Authentication uses JSON Web Tokens, and authorization is delegated to PostgreSQL roles, with JSON serialization and validation done in SQL. It is stateless and can be scaled horizontally.
+
+- **+** Authorization lives in database roles, giving one source of truth for security
+- **+** Stateless server with a connection pool, so it scales horizontally
+- **+** Generates OpenAPI documentation that Swagger-UI can render
+- **+** API versioning through database schemas and views over underlying tables
+- **−** Works only with PostgreSQL, no other databases
+- **−** Business logic must be written as SQL constraints, views and functions
+- **−** Verifies JWTs but has no built-in user management or login
+- **−** No built-in file storage, realtime or admin UI, unlike full backend platforms
+
+<sub>no GPU · Needs PostgreSQL · [Repo](https://github.com/postgrest/postgrest) · [📖 Docs ↗](https://docs.postgrest.org/en/stable/explanations/install.html) · [🌐 Site ↗](http://postgrest.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/postgrest/)</sub>
+
+<a name="dapr"></a>
+### #&#8288;67 [dapr](https://github.com/dapr/dapr) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
+
+**Sidecar runtime for durable workflows, agents and distributed app APIs.**
+
+Dapr runs as a sidecar next to your app and exposes building blocks over HTTP and gRPC: workflows with durable execution, service invocation with mTLS, state, pub/sub, actors, secrets, jobs and an LLM Conversation API. SDKs exist for .NET, Java, Python, Go, JavaScript/TypeScript and Rust. It is a CNCF graduated project written in Go, and it runs on Kubernetes, VMs or a laptop.
+
+- **+** Workflows resume from the last completed step after crashes, restarts or rolling deploys
+- **+** Sidecar model works from any language over HTTP and gRPC, with SDKs for six main languages
+- **+** Built-in mTLS, workload identity and deny-by-default access policies
+- **+** CNCF graduated; runs on Kubernetes, VMs, edge and air-gapped setups
+- **−** Not an agent framework; agent logic still comes from your own code or another library
+- **−** Adds a sidecar and component configuration to every deployment
+- **−** Backing stores and brokers must be supplied and configured separately
+- **−** README gives no starter app, so setup follows the separate docs and quickstarts
+
+<sub>no GPU · Docker · Needs State store and message broker of your choice, Kubernetes (optional) · Models: LLMs via the Conversation API (providers unknown) · [Repo](https://github.com/dapr/dapr) · [📖 Docs ↗](https://docs.dapr.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dapr/)</sub>
+
+<a name="actix-web"></a>
+### #&#8288;68 [actix-web](https://github.com/actix/actix-web) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · Apache-2.0 · Nov 2026</sub>
+
+**Rust web framework for HTTP/1.x and HTTP/2 servers on Tokio.**
+
+Actix Web is a general-purpose Rust web framework with routing macros, middleware, WebSockets, multipart streams and static file serving. It runs on Tokio and supports TLS through OpenSSL or Rustls. It has no AI-specific features; it fits this list as a base for a backend service that exposes models or agents over an API.
+
+- **+** Supports HTTP/1.x, HTTP/2, WebSockets and streaming in one framework
+- **+** Built-in compression (br, gzip, deflate, zstd) and TLS via OpenSSL or Rustls
+- **+** Examples repo covers Postgres, SQLite, MongoDB, Diesel and templating
+- **+** Compatible with Tokio and runs on stable Rust 1.89+
+- **−** No AI, LLM or agent features; model serving must be built by the user
+- **−** Rust-only, so Python AI libraries need a separate service or bindings
+- **−** Experimental features are prefixed and may break in any release
+- **−** Library, not a template; auth, database and layout are left to you
+
+<sub>no GPU · Needs Rust 1.89+, Tokio · [Repo](https://github.com/actix/actix-web) · [📖 Docs ↗](https://docs.rs/actix-web) · [🌐 Site ↗](https://actix.rs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/actix-web/)</sub>
+
+<a name="phoenix"></a>
+### #&#8288;69 [phoenix](https://github.com/phoenixframework/phoenix) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
+
+**Elixir web framework for HTTP, WebSocket channels and server-rendered apps.**
+
+Phoenix is a web framework written in Elixir. It includes a `phx.new` Mix task that generates new projects and a JavaScript client (Phoenix.js) for channels. The README describes no AI features. It is a general web and backend framework that you would build an AI app on top of.
+
+- **+** MIT licensed, with the `phx.new` generator for new projects
+- **+** Ships the Phoenix.js client library with its own documentation
+- **+** Maintained: release 2026-10-20, last commit 2026-11-17
+- **+** API docs hosted on HexDocs
+- **−** No built-in AI, LLM or agent features described
+- **−** Requires Elixir and Mix; no Docker or compose files provided
+- **−** A framework, not a ready-to-fork starter with auth or billing
+
+<sub>no GPU · Needs Elixir, Mix · [Repo](https://github.com/phoenixframework/phoenix) · [📖 Docs ↗](https://phoenix.hexdocs.pm) · [🌐 Site ↗](https://www.phoenixframework.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phoenix/)</sub>
+
+<a name="foundationdb"></a>
+### #&#8288;70 [foundationdb](https://github.com/apple/foundationdb) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
+
+**Distributed ordered key-value store with ACID transactions.**
+
+FoundationDB is a distributed database that stores structured data as an ordered key-value store and applies ACID transactions to all operations. It runs on clusters of commodity servers and is accessed through language bindings. The repo is C++ built with CMake and Ninja, with binary packages on the releases page.
+
+- **+** ACID transactions on every operation over an ordered key-value model
+- **+** Releases validated via simulation and real cluster tests, per the README
+- **+** Supported 8.0 and 7.4 branches with documented upgrade paths
+- **+** Language bindings, plus prebuilt binary packages for download
+- **−** Source build has many dependencies; the Docker build image is the recommended route
+- **−** Source build needs at least 8GB of memory, more when parallel
+- **−** Key-value API only; no SQL or document layer in this repo
+- **−** Windows builds support only Visual Studio with ClangCl
+
+<sub>RAM ≥ 8 GB · no GPU · Needs CMake 3.24.2+, Ninja, Mono, Boost 1.89 · [Repo](https://github.com/apple/foundationdb) · [📖 Docs ↗](https://apple.github.io/foundationdb/) · [🌐 Site ↗](https://www.foundationdb.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/foundationdb/)</sub>
+
 <a name="go-admin"></a>
-### #&#8288;69 [go-admin](https://github.com/go-admin-team/go-admin) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Oct 2026</sub>
+### #&#8288;71 [go-admin](https://github.com/go-admin-team/go-admin) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Oct 2026</sub>
 
 **Go admin-panel backend with RBAC, code generation and Vue front ends.**
 
@@ -1235,7 +1270,7 @@ go-admin is a Gin + GORM backend for admin panels, paired with a separate Vue fr
 <sub>no GPU · Docker + Compose · Needs MySQL, PostgreSQL, SQL Server or SQLite, go-admin-ui front end, Node.js 22+ and pnpm 9+ for the UI · port 8000 · [Repo](https://github.com/go-admin-team/go-admin) · [▶️ Demo ↗](https://vue.go-admin.pro/#/login) · [📖 Docs ↗](https://www.go-admin.pro) · [🌐 Site ↗](https://www.go-admin.pro) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-admin/)</sub>
 
 <a name="react-native-firebase"></a>
-### #&#8288;70 [react-native-firebase](https://github.com/invertase/react-native-firebase) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
+### #&#8288;72 [react-native-firebase](https://github.com/invertase/react-native-firebase) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
 
 **Official React Native modules wrapping the native Firebase iOS and Android SDKs.**
 
@@ -1253,7 +1288,7 @@ A Lerna monorepo of npm packages, each a thin JavaScript layer over the native F
 <sub>no GPU · Needs Firebase project, Native Firebase iOS SDK, Native Firebase Android SDK · [Repo](https://github.com/invertase/react-native-firebase) · [🌐 Site ↗](https://rnfirebase.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-native-firebase/)</sub>
 
 <a name="webiny-js"></a>
-### #&#8288;71 [webiny-js](https://github.com/webiny/webiny-js) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.1k · custom license · Nov 2026</sub>
+### #&#8288;73 [webiny-js](https://github.com/webiny/webiny-js) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.1k · custom license · Nov 2026</sub>
 
 **TypeScript headless CMS and website builder deployed to your AWS account.**
 
@@ -1271,7 +1306,7 @@ Webiny is a self-hosted headless CMS with a GraphQL API, a drag-and-drop Website
 <sub>no GPU · Needs AWS account, AWS Lambda, DynamoDB, S3, CloudFront, Pulumi, Node.js 22+, Yarn, OpenSearch (optional) · port 3001 · [Repo](https://github.com/webiny/webiny-js) · [📖 Docs ↗](https://www.webiny.com/docs) · [🌐 Site ↗](https://www.webiny.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/webiny-js/)</sub>
 
 <a name="registry"></a>
-### #&#8288;72 [registry](https://github.com/modelcontextprotocol/registry) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · custom license · Nov 2026</sub>
+### #&#8288;74 [registry](https://github.com/modelcontextprotocol/registry) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · custom license · Nov 2026</sub>
 
 **Official registry server and publisher CLI for listing MCP servers.**
 
@@ -1289,7 +1324,7 @@ Go implementation of the MCP Registry, an HTTP API that gives MCP clients a cata
 <sub>no GPU · Compose · Needs PostgreSQL, Docker, ko · port 8080 · [Repo](https://github.com/modelcontextprotocol/registry) · [📖 Docs ↗](https://registry.modelcontextprotocol.io/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/registry/)</sub>
 
 <a name="harlequin"></a>
-### #&#8288;73 [harlequin](https://github.com/tconbeer/harlequin) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
+### #&#8288;75 [harlequin](https://github.com/tconbeer/harlequin) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
 
 **Terminal SQL IDE with adapters for DuckDB, SQLite, Postgres and other databases.**
 
@@ -1306,8 +1341,26 @@ Harlequin is a Python terminal application for writing and running SQL, browsing
 
 <sub>no GPU · Needs Python 3.9+, uv (recommended installer) · [Repo](https://github.com/tconbeer/harlequin) · [📖 Docs ↗](https://harlequin.sh/docs/getting-started/index) · [🌐 Site ↗](https://harlequin.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/harlequin/)</sub>
 
+<a name="pinot"></a>
+### #&#8288;76 [pinot](https://github.com/apache/pinot) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Nov 2026</sub>
+
+**Distributed real-time OLAP datastore with SQL queries over streaming and batch data.**
+
+Apache Pinot is a column-oriented distributed datastore for low-latency analytical SQL on fresh data. It ingests from Kafka, Pulsar and Kinesis as well as batch sources such as HDFS, S3, ADLS and GCS, and can combine both in one table. It also offers vector similarity search, with a built-in query console and REST API.
+
+- **+** Pluggable indexes: timestamp, inverted, StarTree, Bloom, range, text, JSON, geospatial
+- **+** Real-time ingest from Kafka, Pulsar and Kinesis, with upserts and batch/stream hybrid tables
+- **+** Joins, built-in multitenancy and a Helm chart for Kubernetes clusters
+- **+** Vector index supports semantic search and RAG on the same SQL engine
+- **−** Multi-component cluster to operate; not a single-process database
+- **−** Building from source requires JDK 25+ and a long Maven build
+- **−** Suited to immutable, time-series style analytics rather than transactional workloads
+- **−** Lucene upgrades or downgrades can trigger index rebuilds, adding CPU and load time
+
+<sub>RAM ≥ 6 GB · no GPU · Needs Apache Kafka (optional, for streaming ingest), Kubernetes/Helm (optional, for cluster deployment), JDK 25+ (to build) · port 9000 · [Repo](https://github.com/apache/pinot) · [📖 Docs ↗](https://docs.pinot.apache.org) · [🌐 Site ↗](https://pinot.apache.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pinot/)</sub>
+
 <a name="typeorm"></a>
-### #&#8288;74 [typeorm](https://github.com/typeorm/typeorm) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Nov 2026</sub>
+### #&#8288;77 [typeorm](https://github.com/typeorm/typeorm) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · MIT · Nov 2026</sub>
 
 **TypeScript and JavaScript ORM with decorators, migrations and many database drivers.**
 
@@ -1324,26 +1377,8 @@ TypeORM maps TypeScript and JavaScript classes to database tables using decorato
 
 <sub>no GPU · Compose · Needs A supported database (Postgres, MySQL/MariaDB, SQL Server, Oracle, SAP HANA, Spanner, SQLite or MongoDB) · [Repo](https://github.com/typeorm/typeorm) · [🌐 Site ↗](http://typeorm.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/typeorm/)</sub>
 
-<a name="dapr"></a>
-### #&#8288;75 [dapr](https://github.com/dapr/dapr) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
-
-**Sidecar runtime for durable workflows, agents and distributed app APIs.**
-
-Dapr runs as a sidecar next to your app and exposes building blocks over HTTP and gRPC: workflows with durable execution, service invocation with mTLS, state, pub/sub, actors, secrets, jobs and an LLM Conversation API. SDKs exist for .NET, Java, Python, Go, JavaScript/TypeScript and Rust. It is a CNCF graduated project written in Go, and it runs on Kubernetes, VMs or a laptop.
-
-- **+** Workflows resume from the last completed step after crashes, restarts or rolling deploys
-- **+** Sidecar model works from any language over HTTP and gRPC, with SDKs for six main languages
-- **+** Built-in mTLS, workload identity and deny-by-default access policies
-- **+** CNCF graduated; runs on Kubernetes, VMs, edge and air-gapped setups
-- **−** Not an agent framework; agent logic still comes from your own code or another library
-- **−** Adds a sidecar and component configuration to every deployment
-- **−** Backing stores and brokers must be supplied and configured separately
-- **−** README gives no starter app, so setup follows the separate docs and quickstarts
-
-<sub>no GPU · Docker · Needs State store and message broker of your choice, Kubernetes (optional) · Models: LLMs via the Conversation API (providers unknown) · [Repo](https://github.com/dapr/dapr) · [📖 Docs ↗](https://docs.dapr.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dapr/)</sub>
-
 <a name="dolt"></a>
-### #&#8288;76 [dolt](https://github.com/dolthub/dolt) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;78 [dolt](https://github.com/dolthub/dolt) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · Apache-2.0 · Nov 2026</sub>
 
 **MySQL-compatible SQL database with Git-style branch, merge, push and pull.**
 
@@ -1360,25 +1395,8 @@ Dolt is a SQL database that versions tables the way Git versions files. It runs 
 
 <sub>no GPU · Docker · port 3306 · [Repo](https://github.com/dolthub/dolt) · [📖 Docs ↗](https://dolthub.com/docs/introduction/installation/windows) · [🌐 Site ↗](https://www.dolthub.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dolt/)</sub>
 
-<a name="phoenix"></a>
-### #&#8288;77 [phoenix](https://github.com/phoenixframework/phoenix) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
-
-**Elixir web framework for HTTP, WebSocket channels and server-rendered apps.**
-
-Phoenix is a web framework written in Elixir. It includes a `phx.new` Mix task that generates new projects and a JavaScript client (Phoenix.js) for channels. The README describes no AI features. It is a general web and backend framework that you would build an AI app on top of.
-
-- **+** MIT licensed, with the `phx.new` generator for new projects
-- **+** Ships the Phoenix.js client library with its own documentation
-- **+** Maintained: release 2026-10-20, last commit 2026-11-17
-- **+** API docs hosted on HexDocs
-- **−** No built-in AI, LLM or agent features described
-- **−** Requires Elixir and Mix; no Docker or compose files provided
-- **−** A framework, not a ready-to-fork starter with auth or billing
-
-<sub>no GPU · Needs Elixir, Mix · [Repo](https://github.com/phoenixframework/phoenix) · [📖 Docs ↗](https://phoenix.hexdocs.pm) · [🌐 Site ↗](https://www.phoenixframework.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/phoenix/)</sub>
-
 <a name="questdb"></a>
-### #&#8288;78 [questdb](https://github.com/questdb/questdb) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;79 [questdb](https://github.com/questdb/questdb) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
 **Time-series SQL database for high-rate ingestion and queries over live and historical data.**
 
@@ -1396,7 +1414,7 @@ QuestDB is a time-series database written in zero-GC Java with C++ and Rust on t
 <sub>no GPU · port 9000 · [Repo](https://github.com/questdb/questdb) · [▶️ Demo ↗](https://demo.questdb.io/) · [📖 Docs ↗](https://questdb.com/docs/) · [🌐 Site ↗](https://questdb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/questdb/)</sub>
 
 <a name="doris"></a>
-### #&#8288;79 [doris](https://github.com/apache/doris) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;80 [doris](https://github.com/apache/doris) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
 
 **MPP analytics database for real-time SQL, lakehouse queries and hybrid search.**
 
@@ -1414,7 +1432,7 @@ Apache Doris is an MPP analytics database that serves sub-second SQL queries und
 <sub>Docker · Needs Object storage (decoupled mode) · [Repo](https://github.com/apache/doris) · [📖 Docs ↗](https://doris.apache.org/docs/dev/getting-started/what-is-apache-doris) · [🌐 Site ↗](https://doris.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/doris/)</sub>
 
 <a name="citus"></a>
-### #&#8288;80 [citus](https://github.com/citusdata/citus) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;81 [citus](https://github.com/citusdata/citus) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · AGPL-3.0 · Nov 2026</sub>
 
 **PostgreSQL extension that shards tables across nodes for distributed queries.**
 
@@ -1432,7 +1450,7 @@ Citus is a C-based PostgreSQL extension that adds distributed tables, replicated
 <sub>no GPU · Needs PostgreSQL 18 · [Repo](https://github.com/citusdata/citus) · [📖 Docs ↗](https://docs.citusdata.com/) · [🌐 Site ↗](https://www.citusdata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/citus/)</sub>
 
 <a name="falkordb"></a>
-### #&#8288;81 [falkordb](https://github.com/falkordb/falkordb) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
+### #&#8288;82 [falkordb](https://github.com/falkordb/falkordb) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
 
 **Property graph database on Redis with OpenCypher and sparse-matrix queries.**
 
@@ -1449,80 +1467,8 @@ FalkorDB is a property graph database built as a Redis module in Rust. It stores
 
 <sub>no GPU · Needs Redis, GraphBLAS, LAGraph, RediSearch · port 3000 · [Repo](https://github.com/falkordb/falkordb) · [📖 Docs ↗](https://docs.falkordb.com/) · [🌐 Site ↗](https://www.falkordb.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/falkordb/)</sub>
 
-<a name="pinot"></a>
-### #&#8288;82 [pinot](https://github.com/apache/pinot) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Nov 2026</sub>
-
-**Distributed real-time OLAP datastore with SQL queries over streaming and batch data.**
-
-Apache Pinot is a column-oriented distributed datastore for low-latency analytical SQL on fresh data. It ingests from Kafka, Pulsar and Kinesis as well as batch sources such as HDFS, S3, ADLS and GCS, and can combine both in one table. It also offers vector similarity search, with a built-in query console and REST API.
-
-- **+** Pluggable indexes: timestamp, inverted, StarTree, Bloom, range, text, JSON, geospatial
-- **+** Real-time ingest from Kafka, Pulsar and Kinesis, with upserts and batch/stream hybrid tables
-- **+** Joins, built-in multitenancy and a Helm chart for Kubernetes clusters
-- **+** Vector index supports semantic search and RAG on the same SQL engine
-- **−** Multi-component cluster to operate; not a single-process database
-- **−** Building from source requires JDK 25+ and a long Maven build
-- **−** Suited to immutable, time-series style analytics rather than transactional workloads
-- **−** Lucene upgrades or downgrades can trigger index rebuilds, adding CPU and load time
-
-<sub>RAM ≥ 6 GB · no GPU · Needs Apache Kafka (optional, for streaming ingest), Kubernetes/Helm (optional, for cluster deployment), JDK 25+ (to build) · port 9000 · [Repo](https://github.com/apache/pinot) · [📖 Docs ↗](https://docs.pinot.apache.org) · [🌐 Site ↗](https://pinot.apache.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pinot/)</sub>
-
-<a name="timescaledb"></a>
-### #&#8288;83 [timescaledb](https://github.com/timescale/timescaledb) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · custom license · Nov 2026</sub>
-
-**PostgreSQL extension for time-series and event data with columnar storage.**
-
-TimescaleDB adds hypertables to PostgreSQL, which partition data into time-based chunks, plus a columnstore that accepts direct inserts for analytical queries. It also provides incrementally refreshed continuous aggregates, time_bucket(), and SkipScan for DISTINCT ON queries. It is used through standard SQL and any PostgreSQL client.
-
-- **+** Runs inside PostgreSQL, so existing SQL, clients and extensions keep working
-- **+** Continuous aggregates refresh incrementally, unlike plain materialized views
-- **+** Columnstore compression, README cites 90%+ typical, with direct insert into columnar format
-- **+** Quickstart includes a local start script and worked examples with sample datasets
-- **−** Not an AI project; it is a general time-series database extension
-- **−** License is detected as NOASSERTION; check the license terms before commercial use
-- **−** Some features, such as tiering to S3, are described under hosted Tiger Cloud
-- **−** One-line install script is for local development only, not production
-
-<sub>RAM ≥ 8 GB · no GPU · Needs PostgreSQL, Docker (quickstart), psql · [Repo](https://github.com/timescale/timescaledb) · [📖 Docs ↗](https://docs.tigerdata.com/) · [🌐 Site ↗](https://www.tigerdata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/timescaledb/)</sub>
-
-<a name="dagger"></a>
-### #&#8288;84 [dagger](https://github.com/dagger/dagger) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
-
-**Programmable engine for building, testing and shipping code in containers.**
-
-Dagger runs build, test and deploy pipelines as typed functions that execute in containers, using the same definitions locally, in CI or in the cloud. Pipelines are written with SDKs for Go, Python, TypeScript, PHP, Java, .NET, Elixir and Rust, with content-addressed caching and OpenTelemetry traces for every operation. The README does not mention AI features, so its fit for this list is as delivery infrastructure.
-
-- **+** SDKs for 8 languages generated from one API schema
-- **+** Content-addressed incremental caching shared across local and CI runs
-- **+** Every operation emits OpenTelemetry spans; exports to Jaeger or Honeycomb
-- **+** Same pipeline behavior on laptop, CI server and cloud
-- **−** Requires a Linux container runtime such as Docker, including Docker Desktop on macOS and Windows
-- **−** README describes no AI or LLM features, so it is off-topic for most entries here
-- **−** Pipelines must be rewritten as Dagger code; no import of existing CI YAML is described
-- **−** Not a hosting platform; it does not deploy or run your apps
-
-<sub>Needs Linux container runtime (e.g. Docker) · [Repo](https://github.com/dagger/dagger) · [📖 Docs ↗](https://docs.dagger.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dagger/)</sub>
-
-<a name="sea-orm"></a>
-### #&#8288;85 [sea-orm](https://github.com/seaql/sea-orm) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · Apache-2.0 · Nov 2026</sub>
-
-**Rust ORM with entity relations, migrations and async or sync APIs.**
-
-SeaORM is a Rust ORM built on SQLx and SeaQuery. It maps tables to entities with 1-1, 1-N and M-N relations, loads nested relations without N+1 queries, and persists nested object graphs through ActiveModel. It also includes migrations, an entity-first schema sync mode, a raw SQL macro, and a separate sync crate.
-
-- **+** Entity Loader uses joins for 1-1 and batched loading for 1-N, avoiding N+1
-- **+** sea-orm-cli generates entity files from an existing database
-- **+** Raw SQL macro supports parameter interpolation without string formatting of SQL
-- **+** sea-orm-sync crate offers the same API without an async runtime
-- **−** Default features enable no TLS; you must add an SQLx TLS feature yourself
-- **−** README describes 2.0 as a release candidate with breaking changes
-- **−** SQL Server support is a separate product with commercial access
-- **−** Nested ActiveModel requires the 2.0 dense entity format
-
-<sub>no GPU · Needs SQLx, SeaQuery, Tokio (runtime feature), Postgres, MySQL or SQLite · [Repo](https://github.com/seaql/sea-orm) · [📖 Docs ↗](https://www.sea-ql.org/SeaORM) · [🌐 Site ↗](https://www.sea-ql.org/SeaORM) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sea-orm/)</sub>
-
 <a name="baserow"></a>
-### #&#8288;86 [baserow](https://github.com/baserow/baserow) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · custom license · Nov 2026</sub>
+### #&#8288;83 [baserow](https://github.com/baserow/baserow) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · custom license · Nov 2026</sub>
 
 **No-code database and app builder, positioned as an Airtable alternative.**
 
@@ -1539,7 +1485,7 @@ Baserow is a spreadsheet-style database built on Django, Vue.js and PostgreSQL. 
 <sub>no GPU · Docker + Compose · Needs PostgreSQL · port 80 · [Repo](https://github.com/baserow/baserow) · [📖 Docs ↗](https://baserow.io/docs/index) · [🌐 Site ↗](https://baserow.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/baserow/)</sub>
 
 <a name="vike"></a>
-### #&#8288;87 [vike](https://github.com/vikejs/vike) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Nov 2026</sub>
+### #&#8288;84 [vike](https://github.com/vikejs/vike) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Nov 2026</sub>
 
 **Web framework for React, Vue or Solid apps, positioned as a Next.js/Nuxt replacement.**
 
@@ -1556,8 +1502,98 @@ Vike is a TypeScript web framework presented as a replacement for Next.js and Nu
 
 <sub>no GPU · [Repo](https://github.com/vikejs/vike) · [📖 Docs ↗](https://vike.dev) · [🌐 Site ↗](https://vike.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vike/)</sub>
 
+<a name="timescaledb"></a>
+### #&#8288;85 [timescaledb](https://github.com/timescale/timescaledb) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · custom license · Nov 2026</sub>
+
+**PostgreSQL extension for time-series and event data with columnar storage.**
+
+TimescaleDB adds hypertables to PostgreSQL, which partition data into time-based chunks, plus a columnstore that accepts direct inserts for analytical queries. It also provides incrementally refreshed continuous aggregates, time_bucket(), and SkipScan for DISTINCT ON queries. It is used through standard SQL and any PostgreSQL client.
+
+- **+** Runs inside PostgreSQL, so existing SQL, clients and extensions keep working
+- **+** Continuous aggregates refresh incrementally, unlike plain materialized views
+- **+** Columnstore compression, README cites 90%+ typical, with direct insert into columnar format
+- **+** Quickstart includes a local start script and worked examples with sample datasets
+- **−** Not an AI project; it is a general time-series database extension
+- **−** License is detected as NOASSERTION; check the license terms before commercial use
+- **−** Some features, such as tiering to S3, are described under hosted Tiger Cloud
+- **−** One-line install script is for local development only, not production
+
+<sub>RAM ≥ 8 GB · no GPU · Needs PostgreSQL, Docker (quickstart), psql · [Repo](https://github.com/timescale/timescaledb) · [📖 Docs ↗](https://docs.tigerdata.com/) · [🌐 Site ↗](https://www.tigerdata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/timescaledb/)</sub>
+
+<a name="apijson"></a>
+### #&#8288;86 [apijson](https://github.com/apijson/apijson) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Nov 2026</sub>
+
+**Java ORM serving JSON-defined CRUD APIs over many databases without endpoint code.**
+
+APIJSON is a Java library and JSON-based protocol where clients describe the data shape they want in the request body and the server turns it into queries, so backend developers do not write per-endpoint CRUD code. It supports reads and writes, fuzzy search, remote function calls and multi-table queries in one request, and generates API docs. The README lists many database targets (MySQL, PostgreSQL, Oracle, ClickHouse, Redis, Kafka and others) and community ports in Go, C#, PHP, Node.js, Python and Rust.
+
+- **+** Clients shape responses and join related tables in a single request
+- **+** Wide database coverage: MySQL, PostgreSQL, Oracle, SQL Server, ClickHouse, Redis, Kafka and more
+- **+** Generated API docs and the APIAuto test UI cut backend documentation work
+- **+** Published via JitPack for Maven and Gradle, with Spring Boot demos
+- **−** License is detected as NOASSERTION, so terms need manual checking
+- **−** Core is Java; Go, C#, PHP and Rust ports are separate third-party repos
+- **−** Documentation and community material lean Chinese-first
+- **−** Library rather than a deployable service; no Docker or compose files in the repo
+
+<sub>no GPU · Needs Java 1.8+, A supported database such as MySQL or PostgreSQL · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
+
+<a name="dagger"></a>
+### #&#8288;87 [dagger](https://github.com/dagger/dagger) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
+
+**Programmable engine for building, testing and shipping code in containers.**
+
+Dagger runs build, test and deploy pipelines as typed functions that execute in containers, using the same definitions locally, in CI or in the cloud. Pipelines are written with SDKs for Go, Python, TypeScript, PHP, Java, .NET, Elixir and Rust, with content-addressed caching and OpenTelemetry traces for every operation. The README does not mention AI features, so its fit for this list is as delivery infrastructure.
+
+- **+** SDKs for 8 languages generated from one API schema
+- **+** Content-addressed incremental caching shared across local and CI runs
+- **+** Every operation emits OpenTelemetry spans; exports to Jaeger or Honeycomb
+- **+** Same pipeline behavior on laptop, CI server and cloud
+- **−** Requires a Linux container runtime such as Docker, including Docker Desktop on macOS and Windows
+- **−** README describes no AI or LLM features, so it is off-topic for most entries here
+- **−** Pipelines must be rewritten as Dagger code; no import of existing CI YAML is described
+- **−** Not a hosting platform; it does not deploy or run your apps
+
+<sub>Needs Linux container runtime (e.g. Docker) · [Repo](https://github.com/dagger/dagger) · [📖 Docs ↗](https://docs.dagger.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dagger/)</sub>
+
+<a name="yugabyte-db"></a>
+### #&#8288;88 [yugabyte-db](https://github.com/yugabyte/yugabyte-db) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
+
+**PostgreSQL-compatible distributed SQL database with Raft replication.**
+
+YugabyteDB is a distributed SQL database that reuses the PostgreSQL query layer (YSQL) and also offers a Cassandra-style API (YCQL). Writes are replicated with Raft and use distributed ACID transactions based on the Spanner design, with snapshot, serializable and read committed isolation. Clusters scale by adding nodes and can span zones, regions and clouds, with xCluster asynchronous replication between regions.
+
+- **+** Reuses the PostgreSQL query layer; PostgreSQL 15 fork in the v2025.1 stable release
+- **+** Raft replication with distributed ACID transactions; README cites RPO 0 and RTO of 3 seconds
+- **+** Core includes backups, TLS, encryption at rest, CDC and read replicas under Apache 2.0
+- **+** pgvector with HNSW indexing supports vector similarity search
+- **−** Repo mixes licenses: core is Apache 2.0, managed/ (YugabyteDB Anywhere) is Polyform Free Trial
+- **−** Not a drop-in PostgreSQL: several features, such as parallel query and CBO, are still on the roadmap
+- **−** Multi-node distributed deployment adds operational complexity compared with a single PostgreSQL instance
+- **−** Existing universes keep old defaults after upgrade, so new features may need manual enabling
+
+<sub>[Repo](https://github.com/yugabyte/yugabyte-db) · [📖 Docs ↗](https://docs.yugabyte.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yugabyte-db/)</sub>
+
+<a name="sea-orm"></a>
+### #&#8288;89 [sea-orm](https://github.com/seaql/sea-orm) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · Apache-2.0 · Nov 2026</sub>
+
+**Rust ORM with entity relations, migrations and async or sync APIs.**
+
+SeaORM is a Rust ORM built on SQLx and SeaQuery. It maps tables to entities with 1-1, 1-N and M-N relations, loads nested relations without N+1 queries, and persists nested object graphs through ActiveModel. It also includes migrations, an entity-first schema sync mode, a raw SQL macro, and a separate sync crate.
+
+- **+** Entity Loader uses joins for 1-1 and batched loading for 1-N, avoiding N+1
+- **+** sea-orm-cli generates entity files from an existing database
+- **+** Raw SQL macro supports parameter interpolation without string formatting of SQL
+- **+** sea-orm-sync crate offers the same API without an async runtime
+- **−** Default features enable no TLS; you must add an SQLx TLS feature yourself
+- **−** README describes 2.0 as a release candidate with breaking changes
+- **−** SQL Server support is a separate product with commercial access
+- **−** Nested ActiveModel requires the 2.0 dense entity format
+
+<sub>no GPU · Needs SQLx, SeaQuery, Tokio (runtime feature), Postgres, MySQL or SQLite · [Repo](https://github.com/seaql/sea-orm) · [📖 Docs ↗](https://www.sea-ql.org/SeaORM) · [🌐 Site ↗](https://www.sea-ql.org/SeaORM) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sea-orm/)</sub>
+
 <a name="mongo-python-driver"></a>
-### #&#8288;88 [mongo-python-driver](https://github.com/mongodb/mongo-python-driver) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;90 [mongo-python-driver](https://github.com/mongodb/mongo-python-driver) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · Apache-2.0 · Nov 2026</sub>
 
 **Official Python driver for MongoDB with sync and async APIs.**
 
@@ -1575,7 +1611,7 @@ PyMongo is the native Python driver for MongoDB. It ships three packages: `pymon
 <sub>no GPU · Needs MongoDB server 4.4-9.0, dnspython (for mongodb+srv URIs) · [Repo](https://github.com/mongodb/mongo-python-driver) · [📖 Docs ↗](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongo-python-driver/)</sub>
 
 <a name="kong"></a>
-### #&#8288;89 [kong](https://github.com/kong/kong) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 44k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;91 [kong](https://github.com/kong/kong) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 44k · Apache-2.0 · Nov 2026</sub>
 
 **API gateway with LLM and MCP traffic routing, extended through plugins.**
 
@@ -1593,7 +1629,7 @@ Kong Gateway is a Lua-based API gateway that proxies, routes, load balances and 
 <sub>no GPU · Needs PostgreSQL (optional, not needed in DB-less mode) · Models: OpenAI, Anthropic, GCP Gemini, AWS Bedrock, Azure AI · port 8002 · [Repo](https://github.com/kong/kong) · [📖 Docs ↗](https://docs.konghq.com) · [🌐 Site ↗](https://konghq.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kong/)</sub>
 
 <a name="drizzle-orm"></a>
-### #&#8288;90 [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;92 [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · Apache-2.0 · Nov 2026</sub>
 
 **TypeScript ORM with SQL-like and relational queries for Postgres, MySQL and SQLite.**
 
@@ -1611,7 +1647,7 @@ Drizzle is a TypeScript ORM where you declare SQL schemas in code and query thro
 <sub>no GPU · Needs PostgreSQL, MySQL or SQLite database · [Repo](https://github.com/drizzle-team/drizzle-orm) · [📖 Docs ↗](https://orm.drizzle.team/docs/overview) · [🌐 Site ↗](https://orm.drizzle.team) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/drizzle-orm/)</sub>
 
 <a name="parse-server"></a>
-### #&#8288;91 [parse-server](https://github.com/parse-community/parse-server) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;93 [parse-server](https://github.com/parse-community/parse-server) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Node.js backend with REST, GraphQL, Live Query and Cloud Code.**
 
@@ -1628,26 +1664,8 @@ Parse Server is a Node.js backend that stores objects in MongoDB or PostgreSQL (
 
 <sub>no GPU · Docker · Needs Node.js, MongoDB or PostgreSQL with PostGIS · port 1337 · [Repo](https://github.com/parse-community/parse-server) · [📖 Docs ↗](http://docs.parseplatform.org/parse-server/guide/) · [🌐 Site ↗](http://parseplatform.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/parse-server/)</sub>
 
-<a name="apijson"></a>
-### #&#8288;92 [apijson](https://github.com/apijson/apijson) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · custom license · Nov 2026</sub>
-
-**Java ORM serving JSON-defined CRUD APIs over many databases without endpoint code.**
-
-APIJSON is a Java library and JSON-based protocol where clients describe the data shape they want in the request body and the server turns it into queries, so backend developers do not write per-endpoint CRUD code. It supports reads and writes, fuzzy search, remote function calls and multi-table queries in one request, and generates API docs. The README lists many database targets (MySQL, PostgreSQL, Oracle, ClickHouse, Redis, Kafka and others) and community ports in Go, C#, PHP, Node.js, Python and Rust.
-
-- **+** Clients shape responses and join related tables in a single request
-- **+** Wide database coverage: MySQL, PostgreSQL, Oracle, SQL Server, ClickHouse, Redis, Kafka and more
-- **+** Generated API docs and the APIAuto test UI cut backend documentation work
-- **+** Published via JitPack for Maven and Gradle, with Spring Boot demos
-- **−** License is detected as NOASSERTION, so terms need manual checking
-- **−** Core is Java; Go, C#, PHP and Rust ports are separate third-party repos
-- **−** Documentation and community material lean Chinese-first
-- **−** Library rather than a deployable service; no Docker or compose files in the repo
-
-<sub>no GPU · Needs Java 1.8+, A supported database such as MySQL or PostgreSQL · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
-
 <a name="router"></a>
-### #&#8288;93 [router](https://github.com/tanstack/router) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+### #&#8288;94 [router](https://github.com/tanstack/router) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
 
 **Type-safe client router for React, with a full-stack SSR framework built on it.**
 
@@ -1663,8 +1681,26 @@ TanStack Router is a TypeScript routing library with typed routes, params and lo
 
 <sub>no GPU · [Repo](https://github.com/tanstack/router) · [📖 Docs ↗](https://tanstack.com/router) · [🌐 Site ↗](https://tanstack.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/router/)</sub>
 
+<a name="efcore"></a>
+### #&#8288;95 [efcore](https://github.com/dotnet/efcore) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+
+**Object-database mapper for .NET with LINQ queries, change tracking and migrations.**
+
+Entity Framework Core is Microsoft's ORM for .NET. It maps C# classes to tables, translates LINQ to SQL, tracks changes and manages schema migrations. Database support comes from provider packages (SQL Server, SQLite, Cosmos DB, and others). The repo also ships Microsoft.Data.Sqlite, an ADO.NET provider. It is not an AI project and fits this list only loosely.
+
+- **+** LINQ queries, change tracking and schema migrations in one library
+- **+** Provider plugin API covers SQL Server, SQLite, Cosmos DB, MySQL, PostgreSQL and more
+- **+** Installed as NuGet packages; no server component to run
+- **+** Includes Microsoft.Data.Sqlite, usable standalone as an ADO.NET provider
+- **−** No AI, LLM or agent functionality; off-topic for this list
+- **−** Library only: no auth, storage or API layer, so not a full backend
+- **−** Tied to the .NET ecosystem and C#
+- **−** README says official releases lag well behind daily builds
+
+<sub>no GPU · Needs a .NET SDK, a database provider package such as SQL Server, SQLite or Cosmos DB · [Repo](https://github.com/dotnet/efcore) · [📖 Docs ↗](https://docs.microsoft.com/ef/core/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/efcore/)</sub>
+
 <a name="dexie-js"></a>
-### #&#8288;94 [dexie.js](https://github.com/dexie/dexie.js) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;96 [dexie.js](https://github.com/dexie/dexie.js) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · Apache-2.0 · Nov 2026</sub>
 
 **Typed IndexedDB wrapper with chainable queries, bulk ops and React hooks.**
 
@@ -1682,7 +1718,7 @@ Dexie.js wraps the browser's IndexedDB with a declarative schema, chainable wher
 <sub>no GPU · Needs IndexedDB (browser) · [Repo](https://github.com/dexie/dexie.js) · [▶️ Demo ↗](https://dexie.github.io/Dexie.js/dexie-cloud-todo-app/) · [📖 Docs ↗](https://dexie.org/docs/) · [🌐 Site ↗](https://dexie.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dexie-js/)</sub>
 
 <a name="nakama"></a>
-### #&#8288;95 [nakama](https://github.com/heroiclabs/nakama) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;97 [nakama](https://github.com/heroiclabs/nakama) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Game and app backend with accounts, chat, leaderboards, matchmaking and multiplayer.**
 
@@ -1699,26 +1735,8 @@ Nakama is a Go server that provides user accounts, storage, friends and groups, 
 
 <sub>no GPU · Compose · Needs CockroachDB or Postgres wire-compatible database · port 7351 · [Repo](https://github.com/heroiclabs/nakama) · [📖 Docs ↗](https://heroiclabs.com/docs) · [🌐 Site ↗](https://heroiclabs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nakama/)</sub>
 
-<a name="yugabyte-db"></a>
-### #&#8288;96 [yugabyte-db](https://github.com/yugabyte/yugabyte-db) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
-
-**PostgreSQL-compatible distributed SQL database with Raft replication.**
-
-YugabyteDB is a distributed SQL database that reuses the PostgreSQL query layer (YSQL) and also offers a Cassandra-style API (YCQL). Writes are replicated with Raft and use distributed ACID transactions based on the Spanner design, with snapshot, serializable and read committed isolation. Clusters scale by adding nodes and can span zones, regions and clouds, with xCluster asynchronous replication between regions.
-
-- **+** Reuses the PostgreSQL query layer; PostgreSQL 15 fork in the v2025.1 stable release
-- **+** Raft replication with distributed ACID transactions; README cites RPO 0 and RTO of 3 seconds
-- **+** Core includes backups, TLS, encryption at rest, CDC and read replicas under Apache 2.0
-- **+** pgvector with HNSW indexing supports vector similarity search
-- **−** Repo mixes licenses: core is Apache 2.0, managed/ (YugabyteDB Anywhere) is Polyform Free Trial
-- **−** Not a drop-in PostgreSQL: several features, such as parallel query and CBO, are still on the roadmap
-- **−** Multi-node distributed deployment adds operational complexity compared with a single PostgreSQL instance
-- **−** Existing universes keep old defaults after upgrade, so new features may need manual enabling
-
-<sub>[Repo](https://github.com/yugabyte/yugabyte-db) · [📖 Docs ↗](https://docs.yugabyte.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yugabyte-db/)</sub>
-
 <a name="exposed"></a>
-### #&#8288;97 [exposed](https://github.com/jetbrains/exposed) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;98 [exposed](https://github.com/jetbrains/exposed) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · Apache-2.0 · Nov 2026</sub>
 
 **Kotlin ORM with a typesafe SQL DSL and DAO API over JDBC or R2DBC.**
 
@@ -1736,7 +1754,7 @@ Exposed is a JetBrains SQL library for Kotlin that offers a typesafe DSL wrappin
 <sub>no GPU · Needs Kotlin 2.2+, JDK 8+ (JDK 11+ for R2DBC, JDK 17+ for Spring modules), JDBC or R2DBC database driver · [Repo](https://github.com/jetbrains/exposed) · [📖 Docs ↗](https://www.jetbrains.com/help/exposed/home.html) · [🌐 Site ↗](https://www.jetbrains.com/exposed/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exposed/)</sub>
 
 <a name="mikro-orm"></a>
-### #&#8288;98 [mikro-orm](https://github.com/mikro-orm/mikro-orm) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
+### #&#8288;99 [mikro-orm](https://github.com/mikro-orm/mikro-orm) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
 
 **TypeScript ORM for Node.js with Unit of Work and Identity Map.**
 
@@ -1754,7 +1772,7 @@ MikroORM is a Data Mapper ORM for TypeScript and Node.js that tracks entity chan
 <sub>no GPU · Compose · Needs Node.js, PostgreSQL, MySQL, MariaDB, SQLite, libSQL, MongoDB, MSSQL or Oracle · [Repo](https://github.com/mikro-orm/mikro-orm) · [📖 Docs ↗](https://mikro-orm.io/docs/quick-start) · [🌐 Site ↗](https://mikro-orm.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mikro-orm/)</sub>
 
 <a name="server"></a>
-### #&#8288;99 [server](https://github.com/mariadb/server) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · GPL-2.0 · Nov 2026</sub>
+### #&#8288;100 [server](https://github.com/mariadb/server) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · GPL-2.0 · Nov 2026</sub>
 
 **MySQL-compatible relational database server with built-in vector search.**
 
@@ -1772,7 +1790,7 @@ MariaDB Server is a relational database forked from MySQL that keeps wire-protoc
 <sub>no GPU · [Repo](https://github.com/mariadb/server) · [📖 Docs ↗](https://mariadb.com/docs/) · [🌐 Site ↗](https://mariadb.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/server/)</sub>
 
 <a name="vendure"></a>
-### #&#8288;100 [vendure](https://github.com/vendurehq/vendure) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · custom license · Nov 2026</sub>
+### #&#8288;101 [vendure](https://github.com/vendurehq/vendure) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · custom license · Nov 2026</sub>
 
 **TypeScript headless commerce backend with GraphQL APIs and a plugin system.**
 
@@ -1789,8 +1807,25 @@ Vendure is a Node.js, NestJS and GraphQL commerce backend covering catalog, orde
 
 <sub>no GPU · Compose · Needs Node.js 22.12+, PostgreSQL, MySQL, MariaDB or SQLite · [Repo](https://github.com/vendurehq/vendure) · [📖 Docs ↗](https://docs.vendure.io) · [🌐 Site ↗](https://vendure.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vendure/)</sub>
 
+<a name="che"></a>
+### #&#8288;102 [che](https://github.com/eclipse-che/che) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · EPL-2.0 · Nov 2026</sub>
+
+**Kubernetes-hosted cloud development workspaces with a web IDE, defined by devfiles.**
+
+Eclipse Che runs developer workspaces as pods on a Kubernetes cluster, bundling dependencies, containerized runtimes, a web IDE and project code. A workspace starts from a Git URL or a devfile.yaml, either through the browser factory URL or the chectl CLI. The instance is configured through the CheCluster custom resource. It has no AI features described in the README.
+
+- **+** Opens any Git repository as a workspace via a factory URL
+- **+** Devfile (schemaVersion 2.3.0) defines tools, images, memory limits and commands per project
+- **+** Runs on any Kubernetes cluster; configured through the CheCluster custom resource
+- **+** Embedded Open VSX extension registry and swappable editor definitions
+- **−** Requires a Kubernetes cluster; no single-host or Docker Compose install in the README
+- **−** No AI or coding-agent features, so it is a loose fit for this list
+- **−** Operator-based administration adds overhead for small teams
+
+<sub>Needs Kubernetes · [Repo](https://github.com/eclipse-che/che) · [📖 Docs ↗](https://eclipse.dev/che/docs) · [🌐 Site ↗](https://eclipse.dev/che/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/che/)</sub>
+
 <a name="hexclave"></a>
-### #&#8288;101 [hexclave](https://github.com/hexclave/hexclave) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · custom license · Nov 2026</sub>
+### #&#8288;103 [hexclave](https://github.com/hexclave/hexclave) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.9k · custom license · Nov 2026</sub>
 
 **Auth, teams, payments, emails and analytics service for app users.**
 
@@ -1808,7 +1843,7 @@ Hexclave is a hosted or self-hosted service that handles user-related features f
 <sub>no GPU · Docker · [Repo](https://github.com/hexclave/hexclave) · [📖 Docs ↗](https://docs.hexclave.com) · [🌐 Site ↗](https://hexclave.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hexclave/)</sub>
 
 <a name="erupt"></a>
-### #&#8288;102 [erupt](https://github.com/erupts/erupt) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;104 [erupt](https://github.com/erupts/erupt) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · Apache-2.0 · Nov 2026</sub>
 
 **Annotation-driven Java admin framework where one JPA entity becomes one admin page.**
 
@@ -1826,7 +1861,7 @@ Erupt generates admin UIs, REST endpoints and permission checks from annotations
 <sub>no GPU · Needs Java 17+, Spring Boot 3.x, Maven, JPA database (H2 default; MySQL, PostgreSQL, Oracle, SQL Server, DM), MongoDB (optional), Redis (optional) · Models: OpenAI, Claude, Gemini, DeepSeek, Qwen · port 8080 · [Repo](https://github.com/erupts/erupt) · [▶️ Demo ↗](https://demo.erupt.xyz) · [📖 Docs ↗](https://docs.erupt.xyz) · [🌐 Site ↗](https://www.erupt.xyz) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/erupt/)</sub>
 
 <a name="cal-diy"></a>
-### #&#8288;103 [cal.diy](https://github.com/calcom/cal.diy) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (95) · Freshness: active (93) · Maintenance: patchy (40) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · MIT · Nov 2026</sub>
+### #&#8288;105 [cal.diy](https://github.com/calcom/cal.diy) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (95) · Freshness: active (93) · Maintenance: patchy (40) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 50k · MIT · Nov 2026</sub>
 
 **Self-hosted scheduling app, MIT fork of Cal.com without enterprise features.**
 
@@ -1843,26 +1878,8 @@ Cal.diy is a booking and scheduling web app built on Next.js, tRPC, Prisma and P
 
 <sub>no GPU · Docker + Compose · Needs PostgreSQL >=13, Node.js >=18, Docker Compose, Daily.co (video) · port 3000 · [Repo](https://github.com/calcom/cal.diy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cal-diy/)</sub>
 
-<a name="efcore"></a>
-### #&#8288;104 [efcore](https://github.com/dotnet/efcore) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
-
-**Object-database mapper for .NET with LINQ queries, change tracking and migrations.**
-
-Entity Framework Core is Microsoft's ORM for .NET. It maps C# classes to tables, translates LINQ to SQL, tracks changes and manages schema migrations. Database support comes from provider packages (SQL Server, SQLite, Cosmos DB, and others). The repo also ships Microsoft.Data.Sqlite, an ADO.NET provider. It is not an AI project and fits this list only loosely.
-
-- **+** LINQ queries, change tracking and schema migrations in one library
-- **+** Provider plugin API covers SQL Server, SQLite, Cosmos DB, MySQL, PostgreSQL and more
-- **+** Installed as NuGet packages; no server component to run
-- **+** Includes Microsoft.Data.Sqlite, usable standalone as an ADO.NET provider
-- **−** No AI, LLM or agent functionality; off-topic for this list
-- **−** Library only: no auth, storage or API layer, so not a full backend
-- **−** Tied to the .NET ecosystem and C#
-- **−** README says official releases lag well behind daily builds
-
-<sub>no GPU · Needs a .NET SDK, a database provider package such as SQL Server, SQLite or Cosmos DB · [Repo](https://github.com/dotnet/efcore) · [📖 Docs ↗](https://docs.microsoft.com/ef/core/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/efcore/)</sub>
-
 <a name="keystone"></a>
-### #&#8288;105 [keystone](https://github.com/keystonejs/keystone) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · MIT · Nov 2026</sub>
+### #&#8288;106 [keystone](https://github.com/keystonejs/keystone) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · MIT · Nov 2026</sub>
 
 **Schema-first headless CMS that generates a GraphQL API and admin UI.**
 
@@ -1880,7 +1897,7 @@ Keystone 6 is a Node.js CMS and app framework published on npm as @keystone-6/*.
 <sub>no GPU · Needs Node.js (Maintenance or Active LTS) · [Repo](https://github.com/keystonejs/keystone) · [📖 Docs ↗](https://keystonejs.com/docs) · [🌐 Site ↗](https://keystonejs.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/keystone/)</sub>
 
 <a name="nhost"></a>
-### #&#8288;106 [nhost](https://github.com/nhost/nhost) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Nov 2026</sub>
+### #&#8288;107 [nhost](https://github.com/nhost/nhost) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.4k · MIT · Nov 2026</sub>
 
 **Open-source Firebase alternative on Postgres, Hasura GraphQL, auth and storage.**
 
@@ -1896,25 +1913,8 @@ Nhost bundles PostgreSQL, a Hasura-generated GraphQL API, an auth service, file 
 
 <sub>no GPU · Needs PostgreSQL, Hasura · README: alternative to Firebase · [Repo](https://github.com/nhost/nhost) · [📖 Docs ↗](https://docs.nhost.io) · [🌐 Site ↗](https://nhost.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nhost/)</sub>
 
-<a name="che"></a>
-### #&#8288;107 [che](https://github.com/eclipse-che/che) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · EPL-2.0 · Nov 2026</sub>
-
-**Kubernetes-hosted cloud development workspaces with a web IDE, defined by devfiles.**
-
-Eclipse Che runs developer workspaces as pods on a Kubernetes cluster, bundling dependencies, containerized runtimes, a web IDE and project code. A workspace starts from a Git URL or a devfile.yaml, either through the browser factory URL or the chectl CLI. The instance is configured through the CheCluster custom resource. It has no AI features described in the README.
-
-- **+** Opens any Git repository as a workspace via a factory URL
-- **+** Devfile (schemaVersion 2.3.0) defines tools, images, memory limits and commands per project
-- **+** Runs on any Kubernetes cluster; configured through the CheCluster custom resource
-- **+** Embedded Open VSX extension registry and swappable editor definitions
-- **−** Requires a Kubernetes cluster; no single-host or Docker Compose install in the README
-- **−** No AI or coding-agent features, so it is a loose fit for this list
-- **−** Operator-based administration adds overhead for small teams
-
-<sub>Needs Kubernetes · [Repo](https://github.com/eclipse-che/che) · [📖 Docs ↗](https://eclipse.dev/che/docs) · [🌐 Site ↗](https://eclipse.dev/che/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/che/)</sub>
-
 <a name="laravel-mongodb"></a>
-### #&#8288;108 [laravel-mongodb](https://github.com/mongodb/laravel-mongodb) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Nov 2026</sub>
+### #&#8288;108 [laravel-mongodb](https://github.com/mongodb/laravel-mongodb) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Nov 2026</sub>
 
 **Eloquent model and query builder extensions for MongoDB in Laravel.**
 
@@ -1931,8 +1931,26 @@ Official MongoDB package that extends Laravel's Eloquent models and query builde
 
 <sub>no GPU · Docker + Compose · Needs MongoDB, Laravel, PHP · [Repo](https://github.com/mongodb/laravel-mongodb) · [📖 Docs ↗](https://www.mongodb.com/docs/drivers/php/laravel-mongodb/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/laravel-mongodb/)</sub>
 
+<a name="rainbond"></a>
+### #&#8288;109 [rainbond](https://github.com/goodrain/rainbond) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · custom license · Nov 2026</sub>
+
+**Self-hosted platform that deploys apps to Kubernetes through a web console.**
+
+Rainbond is a Go container platform that builds and deploys applications on Kubernetes from source code, container images, Docker Compose, Helm or application templates, using a graphical console. It tracks application topology, upgrades and rollbacks, and offers a marketplace with one-click install and offline package export/import. It also targets private deployment of AI apps such as Dify or RAGFlow.
+
+- **+** Deploys from source, images, Docker Compose, Helm or templates in one console
+- **+** Marketplace with one-click install, upgrade and offline export/import
+- **+** Manages topology, upgrades and rollbacks across multiple environments and clusters
+- **+** Installs with one shell script; console served on port 7070
+- **−** License is Rainbond Open Source License (Apache 2.0 plus extra conditions), not plain Apache
+- **−** Exposes less Kubernetes detail, so cluster-level control is narrower than Rancher-style tools
+- **−** Console, UI, operator and builder live in separate repositories
+- **−** Recommended 8GB RAM and 50GB disk is heavy for a small single host
+
+<sub>RAM ≥ 8 GB · no GPU · Docker · Needs Kubernetes · port 7070 · [Repo](https://github.com/goodrain/rainbond) · [▶️ Demo ↗](https://run.rainbond.com) · [📖 Docs ↗](https://www.rainbond.com/docs/) · [🌐 Site ↗](https://www.rainbond.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rainbond/)</sub>
+
 <a name="orpc"></a>
-### #&#8288;109 [orpc](https://github.com/middleapi/orpc) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Nov 2026</sub>
+### #&#8288;110 [orpc](https://github.com/middleapi/orpc) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · MIT · Nov 2026</sub>
 
 **TypeScript framework for typesafe APIs with OpenAPI output and MCP tools.**
 
@@ -1949,8 +1967,26 @@ oRPC lets you define API procedures as plain TypeScript functions with Zod, Vali
 
 <sub>no GPU · Needs Redis (optional), Upstash (optional) · Models: Zod, Valibot, ArkType · [Repo](https://github.com/middleapi/orpc) · [📖 Docs ↗](https://orpc.dev/docs/getting-started) · [🌐 Site ↗](https://orpc.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orpc/)</sub>
 
+<a name="mongo-csharp-driver"></a>
+### #&#8288;111 [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Nov 2026</sub>
+
+**Official MongoDB driver for .NET and C#, with typed and BSON document APIs.**
+
+The official MongoDB client library for .NET/C#, distributed on NuGet as MongoDB.Driver. It connects through MongoClient and exposes async insert and find operations on collections, using either untyped BsonDocument or typed classes with lambda filters. It follows semantic versioning since v3.0.0. It is a database driver rather than an AI project, so it fits this list only loosely.
+
+- **+** Maintained by MongoDB, with a release four days before the last commit
+- **+** Supports both untyped BsonDocument and typed class collections with lambda filters
+- **+** Async API for insert and find operations
+- **+** Semantic versioning since v3.0.0 makes upgrades predictable
+- **−** Client library only; needs a separate MongoDB server to be useful
+- **−** No AI, LLM or vector search features described in the README
+- **−** Bug reports go to Jira rather than GitHub issues
+- **−** Works only with MongoDB, not other databases
+
+<sub>no GPU · Compose · Needs MongoDB server · [Repo](https://github.com/mongodb/mongo-csharp-driver) · [📖 Docs ↗](https://www.mongodb.com/docs/drivers/csharp/current/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongo-csharp-driver/)</sub>
+
 <a name="teable"></a>
-### #&#8288;110 [teable](https://github.com/teableio/teable) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+### #&#8288;112 [teable](https://github.com/teableio/teable) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
 
 **Airtable-style collaborative database on PostgreSQL with AI chat and app builder.**
 
@@ -1968,7 +2004,7 @@ Teable is a spreadsheet-style database UI over PostgreSQL, with grid, form, kanb
 <sub>Needs PostgreSQL · [Repo](https://github.com/teableio/teable) · [▶️ Demo ↗](https://teable.ai) · [📖 Docs ↗](https://help.teable.ai) · [🌐 Site ↗](https://teable.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/teable/)</sub>
 
 <a name="dgraph"></a>
-### #&#8288;111 [dgraph](https://github.com/dgraph-io/dgraph) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;113 [dgraph](https://github.com/dgraph-io/dgraph) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed graph database with a GraphQL-inspired query language.**
 
@@ -1986,7 +2022,7 @@ Dgraph is a sharded, distributed graph database written in Go. It provides distr
 <sub>no GPU · Docker · port 8080 · [Repo](https://github.com/dgraph-io/dgraph) · [📖 Docs ↗](https://docs.dgraph.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dgraph/)</sub>
 
 <a name="diesel"></a>
-### #&#8288;112 [diesel](https://github.com/diesel-rs/diesel) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;114 [diesel](https://github.com/diesel-rs/diesel) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Type-checked ORM and query builder for Rust.**
 
@@ -2004,7 +2040,7 @@ Diesel is a Rust crate that builds SQL queries through the type system, so malfo
 <sub>no GPU · Compose · Needs PostgreSQL, MySQL, MariaDB or SQLite · [Repo](https://github.com/diesel-rs/diesel) · [📖 Docs ↗](https://docs.diesel.rs/main/diesel/index.html) · [🌐 Site ↗](https://diesel.rs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/diesel/)</sub>
 
 <a name="databend"></a>
-### #&#8288;113 [databend](https://github.com/databendlabs/databend) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (61) · Freshness: active (97) · Maintenance: healthy (86) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;115 [databend](https://github.com/databendlabs/databend) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (62) · Freshness: active (97) · Maintenance: healthy (86) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · Apache-2.0 · Nov 2026</sub>
 
 **Rust data warehouse with SQL analytics, vector and full-text search on object storage.**
 
@@ -2022,7 +2058,7 @@ Databend is a data warehouse written in Rust that stores tables on object storag
 <sub>Docker + Compose · Needs Object storage (S3, Azure Blob, GCS), BendSQL client · port 8000 · [Repo](https://github.com/databendlabs/databend) · [📖 Docs ↗](https://docs.databend.com/) · [🌐 Site ↗](https://databend.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/databend/)</sub>
 
 <a name="graphql-yoga"></a>
-### #&#8288;114 [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · MIT · Nov 2026</sub>
+### #&#8288;116 [graphql-yoga](https://github.com/graphql-hive/graphql-yoga) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · MIT · Nov 2026</sub>
 
 **GraphQL server library for Node, Deno, Bun and edge runtimes.**
 
@@ -2039,7 +2075,7 @@ GraphQL Yoga is a TypeScript GraphQL server built on the WHATWG Fetch API, so th
 <sub>no GPU · Needs graphql · port 4000 · [Repo](https://github.com/graphql-hive/graphql-yoga) · [📖 Docs ↗](https://www.the-guild.dev/graphql/yoga-server/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-yoga/)</sub>
 
 <a name="angularfire"></a>
-### #&#8288;115 [angularfire](https://github.com/angular/angularfire) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;117 [angularfire](https://github.com/angular/angularfire) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **Angular library wrapping the Firebase JS SDK with DI and RxJS observables.**
 
@@ -2056,26 +2092,26 @@ AngularFire is an Angular library that wraps the Firebase JS SDK so Firebase ser
 
 <sub>no GPU · Needs Angular, Firebase JS SDK, RxJS, Firebase project · [Repo](https://github.com/angular/angularfire) · [▶️ Demo ↗](https://stackblitz.com/edit/angular-fire-start) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/angularfire/)</sub>
 
-<a name="rainbond"></a>
-### #&#8288;116 [rainbond](https://github.com/goodrain/rainbond) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · custom license · Nov 2026</sub>
+<a name="uncloud"></a>
+### #&#8288;118 [uncloud](https://github.com/psviderski/uncloud) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · Apache-2.0 · Nov 2026</sub>
 
-**Self-hosted platform that deploys apps to Kubernetes through a web console.**
+**Multi-machine container orchestrator over a WireGuard mesh, with no control plane.**
 
-Rainbond is a Go container platform that builds and deploys applications on Kubernetes from source code, container images, Docker Compose, Helm or application templates, using a graphical console. It tracks application topology, upgrades and rollbacks, and offers a marketplace with one-click install and offline package export/import. It also targets private deployment of AI apps such as Dify or RAGFlow.
+Uncloud connects Docker hosts (cloud VMs or bare metal) into a WireGuard mesh and deploys Compose-format services across them. Cluster state is shared peer-to-peer via Corrosion (CRDT-backed SQLite), so there is no central control plane or quorum. It includes DNS-based service discovery, a Caddy reverse proxy with Let's Encrypt HTTPS, and a Docker-like `uc` CLI that works over SSH.
 
-- **+** Deploys from source, images, Docker Compose, Helm or templates in one console
-- **+** Marketplace with one-click install, upgrade and offline export/import
-- **+** Manages topology, upgrades and rollbacks across multiple environments and clusters
-- **+** Installs with one shell script; console served on port 7070
-- **−** License is Rainbond Open Source License (Apache 2.0 plus extra conditions), not plain Apache
-- **−** Exposes less Kubernetes detail, so cluster-level control is narrower than Rancher-style tools
-- **−** Console, UI, operator and builder live in separate repositories
-- **−** Recommended 8GB RAM and 50GB disk is heavy for a small single host
+- **+** No control plane or quorum; any machine holds full cluster state
+- **+** Uses Compose files and a Docker-like CLI, no new DSL
+- **+** Built-in Caddy ingress with automatic HTTPS and rolling updates
+- **+** Pushes images directly to machines via Unregistry, sending only missing layers
+- **−** Pre-1.0; README warns of occasional breaking changes between releases
+- **−** Automatic rollback on failed deploys is not implemented yet
+- **−** Imperative model, no state reconciliation like Kubernetes
+- **−** Targets Docker hosts reached over SSH; non-root users need sudo
 
-<sub>RAM ≥ 8 GB · no GPU · Docker · Needs Kubernetes · port 7070 · [Repo](https://github.com/goodrain/rainbond) · [▶️ Demo ↗](https://run.rainbond.com) · [📖 Docs ↗](https://www.rainbond.com/docs/) · [🌐 Site ↗](https://www.rainbond.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rainbond/)</sub>
+<sub>no GPU · Docker · Needs Docker, WireGuard, Caddy, Corrosion, SSH access to machines, Systemd · [Repo](https://github.com/psviderski/uncloud) · [▶️ Demo ↗](https://labs.iximiuz.com/playgrounds/uncloud-cluster-64523f7c) · [📖 Docs ↗](https://uncloud.run/docs) · [🌐 Site ↗](https://uncloud.run) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uncloud/)</sub>
 
 <a name="ministack"></a>
-### #&#8288;117 [ministack](https://github.com/ministackorg/ministack) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
+### #&#8288;119 [ministack](https://github.com/ministackorg/ministack) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
 
 **Local AWS emulator exposing 60+ services on one port for dev and CI.**
 
@@ -2093,7 +2129,7 @@ MiniStack emulates more than 60 AWS services (S3, SQS, DynamoDB, Lambda, Step Fu
 <sub>RAM ≥ 0.03 GB · no GPU · Docker + Compose · Needs Docker (optional, for RDS, ElastiCache, ECS, Lambda containers), Ollama, llama.cpp or vLLM (optional, for Bedrock proxy) · Models: Amazon Bedrock Converse/InvokeModel API, Ollama, llama.cpp, vLLM · port 4566 · [Repo](https://github.com/ministackorg/ministack) · [🌐 Site ↗](https://ministack.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ministack/)</sub>
 
 <a name="easyadminbundle"></a>
-### #&#8288;118 [easyadminbundle](https://github.com/easycorp/easyadminbundle) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Nov 2026</sub>
+### #&#8288;120 [easyadminbundle](https://github.com/easycorp/easyadminbundle) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Nov 2026</sub>
 
 **Admin panel generator for Symfony apps built on Doctrine entities.**
 
@@ -2111,7 +2147,7 @@ EasyAdmin is a Symfony bundle that generates CRUD backends from Doctrine ORM ent
 <sub>no GPU · Compose · Needs PHP 8.2+, Symfony 6.4+, Doctrine ORM, Composer · [Repo](https://github.com/easycorp/easyadminbundle) · [📖 Docs ↗](https://symfony.com/bundles/EasyAdminBundle/current/index.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/easyadminbundle/)</sub>
 
 <a name="mongoid"></a>
-### #&#8288;119 [mongoid](https://github.com/mongodb/mongoid) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
+### #&#8288;121 [mongoid](https://github.com/mongodb/mongoid) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
 
 **Ruby object-document mapper for MongoDB, built on the official Ruby driver.**
 
@@ -2128,26 +2164,8 @@ Mongoid is an ODM that maps Ruby objects to MongoDB documents. It is built on th
 
 <sub>no GPU · Needs MongoDB server 3.6 - 8.2, Ruby (MRI 2.7 - 4.0 or JRuby 9.4/10.0), MongoDB Ruby driver · [Repo](https://github.com/mongodb/mongoid) · [📖 Docs ↗](https://www.mongodb.com/docs/mongoid/current/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongoid/)</sub>
 
-<a name="mongo-csharp-driver"></a>
-### #&#8288;120 [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Nov 2026</sub>
-
-**Official MongoDB driver for .NET and C#, with typed and BSON document APIs.**
-
-The official MongoDB client library for .NET/C#, distributed on NuGet as MongoDB.Driver. It connects through MongoClient and exposes async insert and find operations on collections, using either untyped BsonDocument or typed classes with lambda filters. It follows semantic versioning since v3.0.0. It is a database driver rather than an AI project, so it fits this list only loosely.
-
-- **+** Maintained by MongoDB, with a release four days before the last commit
-- **+** Supports both untyped BsonDocument and typed class collections with lambda filters
-- **+** Async API for insert and find operations
-- **+** Semantic versioning since v3.0.0 makes upgrades predictable
-- **−** Client library only; needs a separate MongoDB server to be useful
-- **−** No AI, LLM or vector search features described in the README
-- **−** Bug reports go to Jira rather than GitHub issues
-- **−** Works only with MongoDB, not other databases
-
-<sub>no GPU · Compose · Needs MongoDB server · [Repo](https://github.com/mongodb/mongo-csharp-driver) · [📖 Docs ↗](https://www.mongodb.com/docs/drivers/csharp/current/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongo-csharp-driver/)</sub>
-
 <a name="django"></a>
-### #&#8288;121 [django](https://github.com/django/django) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92k · BSD-3-Clause · Nov 2026</sub>
+### #&#8288;122 [django](https://github.com/django/django) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 92k · BSD-3-Clause · Nov 2026</sub>
 
 **High-level Python web framework for building web backends.**
 
@@ -2165,7 +2183,7 @@ Django is a general-purpose Python web framework. The README points to the docs:
 <sub>[Repo](https://github.com/django/django) · [📖 Docs ↗](https://docs.djangoproject.com/en/stable/) · [🌐 Site ↗](https://www.djangoproject.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/django/)</sub>
 
 <a name="shardingsphere"></a>
-### #&#8288;122 [shardingsphere](https://github.com/apache/shardingsphere) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (80) · Freshness: active (93) · Maintenance: fair (53) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;123 [shardingsphere](https://github.com/apache/shardingsphere) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (80) · Freshness: active (93) · Maintenance: fair (53) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
 
 **Sharding, read/write splitting and encryption layer over existing SQL databases.**
 
@@ -2183,7 +2201,7 @@ ShardingSphere adds data sharding, read/write splitting, distributed transaction
 <sub>no GPU · Needs Java, MySQL, PostgreSQL, Oracle, SQL Server or other supported database, ZooKeeper or ETCD (registry center, optional) · [Repo](https://github.com/apache/shardingsphere) · [📖 Docs ↗](https://shardingsphere.apache.org/document/current/en/overview/) · [🌐 Site ↗](https://shardingsphere.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shardingsphere/)</sub>
 
 <a name="adonisjs-core"></a>
-### #&#8288;123 [core](https://github.com/adonisjs/core) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+### #&#8288;124 [core](https://github.com/adonisjs/core) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
 
 **TypeScript MVC web framework for Node.js apps and APIs.**
 
@@ -2201,7 +2219,7 @@ AdonisJS core is the main package of a fullstack MVC web framework for Node.js, 
 <sub>no GPU · Needs Node.js · [Repo](https://github.com/adonisjs/core) · [📖 Docs ↗](https://docs.adonisjs.com) · [🌐 Site ↗](https://adonisjs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adonisjs-core/)</sub>
 
 <a name="cakephp"></a>
-### #&#8288;124 [cakephp](https://github.com/cakephp/cakephp) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
+### #&#8288;125 [cakephp](https://github.com/cakephp/cakephp) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
 
 **MVC web application framework for PHP with data mapping and front controller.**
 
@@ -2218,7 +2236,7 @@ CakePHP is a PHP web framework built on MVC, Front Controller and associative da
 <sub>no GPU · Docker · Needs PHP, Composer · [Repo](https://github.com/cakephp/cakephp) · [📖 Docs ↗](https://book.cakephp.org) · [🌐 Site ↗](https://cakephp.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cakephp/)</sub>
 
 <a name="aspire"></a>
-### #&#8288;125 [aspire](https://github.com/microsoft/aspire) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
+### #&#8288;126 [aspire](https://github.com/microsoft/aspire) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
 
 **Code-first toolchain to define, run and deploy distributed apps.**
 
@@ -2235,26 +2253,8 @@ Aspire lets you describe services, frontends, containers, databases and caches i
 
 <sub>[Repo](https://github.com/microsoft/aspire) · [📖 Docs ↗](https://aspire.dev/docs/) · [🌐 Site ↗](https://aspire.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aspire/)</sub>
 
-<a name="uncloud"></a>
-### #&#8288;126 [uncloud](https://github.com/psviderski/uncloud) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · Apache-2.0 · Nov 2026</sub>
-
-**Multi-machine container orchestrator over a WireGuard mesh, with no control plane.**
-
-Uncloud connects Docker hosts (cloud VMs or bare metal) into a WireGuard mesh and deploys Compose-format services across them. Cluster state is shared peer-to-peer via Corrosion (CRDT-backed SQLite), so there is no central control plane or quorum. It includes DNS-based service discovery, a Caddy reverse proxy with Let's Encrypt HTTPS, and a Docker-like `uc` CLI that works over SSH.
-
-- **+** No control plane or quorum; any machine holds full cluster state
-- **+** Uses Compose files and a Docker-like CLI, no new DSL
-- **+** Built-in Caddy ingress with automatic HTTPS and rolling updates
-- **+** Pushes images directly to machines via Unregistry, sending only missing layers
-- **−** Pre-1.0; README warns of occasional breaking changes between releases
-- **−** Automatic rollback on failed deploys is not implemented yet
-- **−** Imperative model, no state reconciliation like Kubernetes
-- **−** Targets Docker hosts reached over SSH; non-root users need sudo
-
-<sub>no GPU · Docker · Needs Docker, WireGuard, Caddy, Corrosion, SSH access to machines, Systemd · [Repo](https://github.com/psviderski/uncloud) · [▶️ Demo ↗](https://labs.iximiuz.com/playgrounds/uncloud-cluster-64523f7c) · [📖 Docs ↗](https://uncloud.run/docs) · [🌐 Site ↗](https://uncloud.run) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uncloud/)</sub>
-
 <a name="restate"></a>
-### #&#8288;127 [restate](https://github.com/restatedev/restate) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
+### #&#8288;127 [restate](https://github.com/restatedev/restate) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
 
 **Durable execution engine for workflows, services and AI agents.**
 
@@ -2271,8 +2271,26 @@ Restate is a server written in Rust that persists the execution progress of your
 
 <sub>no GPU · Docker · port 9070 · [Repo](https://github.com/restatedev/restate) · [📖 Docs ↗](https://docs.restate.dev) · [🌐 Site ↗](https://restate.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/restate/)</sub>
 
+<a name="ravendb"></a>
+### #&#8288;128 [ravendb](https://github.com/ravendb/ravendb) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · custom license · Nov 2026</sub>
+
+**ACID-compliant NoSQL document database with a built-in web studio.**
+
+RavenDB is a document-oriented NoSQL database written in C# with fully ACID transactions and a built-in web UI, the Management Studio. It runs on Linux, macOS, Windows, containers and Raspberry Pi, and is also sold as a hosted service, RavenDB Cloud. Official client SDKs exist for .NET, Node.js, Python, Java, PHP, Go, C++ and Ruby.
+
+- **+** Fully ACID transactions, with security on by default
+- **+** Official clients for eight languages, including .NET, Python, Java and Go
+- **+** Management Studio web UI ships with the server
+- **+** Installs from a download, .deb package or Docker image
+- **−** README says AGPLv3, but detected license is NOASSERTION, so terms need checking
+- **−** README links a developer license request, so some use may need a license
+- **−** Database only: no auth, file storage or API layer for apps
+- **−** Not an AI project: no model or vector features described in README
+
+<sub>no GPU · Docker · port 8080 · [Repo](https://github.com/ravendb/ravendb) · [▶️ Demo ↗](http://live-test.ravendb.net/) · [📖 Docs ↗](https://ravendb.net/docs) · [🌐 Site ↗](https://ravendb.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ravendb/)</sub>
+
 <a name="cockroach"></a>
-### #&#8288;128 [cockroach](https://github.com/cockroachdb/cockroach) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · custom license · Sep 2026</sub>
+### #&#8288;129 [cockroach](https://github.com/cockroachdb/cockroach) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · custom license · Sep 2026</sub>
 
 **Distributed SQL database with horizontal scaling and Postgres wire support.**
 
@@ -2290,7 +2308,7 @@ CockroachDB is a distributed SQL database written in Go, built on a transactiona
 <sub>no GPU · [Repo](https://github.com/cockroachdb/cockroach) · [📖 Docs ↗](https://cockroachlabs.com/docs/stable/) · [🌐 Site ↗](https://www.cockroachlabs.com/product/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cockroach/)</sub>
 
 <a name="influxdb"></a>
-### #&#8288;129 [influxdb](https://github.com/influxdata/influxdb) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;130 [influxdb](https://github.com/influxdata/influxdb) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Oct 2026</sub>
 
 **Time series database for real-time ingest and SQL queries over Parquet.**
 
@@ -2308,7 +2326,7 @@ InfluxDB 3 Core is a time series database written in Rust on Apache Arrow and Da
 <sub>no GPU · Docker · port 8181 · [Repo](https://github.com/influxdata/influxdb) · [📖 Docs ↗](https://docs.influxdata.com/influxdb3/core/) · [🌐 Site ↗](https://www.influxdata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/influxdb/)</sub>
 
 <a name="scylladb"></a>
-### #&#8288;130 [scylladb](https://github.com/scylladb/scylladb) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Nov 2026</sub>
+### #&#8288;131 [scylladb](https://github.com/scylladb/scylladb) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Nov 2026</sub>
 
 **Cassandra- and DynamoDB-compatible distributed database written in C++ on Seastar.**
 
@@ -2326,7 +2344,7 @@ ScyllaDB is a distributed NoSQL database that speaks CQL (the Apache Cassandra A
 <sub>no GPU · Needs Docker or Podman (frozen build toolchain), C++23 compiler, ninja · [Repo](https://github.com/scylladb/scylladb) · [📖 Docs ↗](https://docs.scylladb.com/) · [🌐 Site ↗](https://www.scylladb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/scylladb/)</sub>
 
 <a name="pressly-goose"></a>
-### #&#8288;131 [goose](https://github.com/pressly/goose) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
+### #&#8288;132 [goose](https://github.com/pressly/goose) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
 
 **Database schema migration tool for Go, as CLI and library.**
 
@@ -2344,7 +2362,7 @@ Goose applies versioned schema changes written as SQL files or Go functions, tra
 <sub>no GPU · Docker · Needs A supported database (Postgres, MySQL, SQLite, etc.) · [Repo](https://github.com/pressly/goose) · [📖 Docs ↗](https://pressly.github.io/goose/installation/) · [🌐 Site ↗](https://pressly.github.io/goose/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pressly-goose/)</sub>
 
 <a name="cloudnative-pg"></a>
-### #&#8288;132 [cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;133 [cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · Apache-2.0 · Nov 2026</sub>
 
 **Kubernetes operator that runs and manages PostgreSQL primary/standby clusters.**
 
@@ -2362,7 +2380,7 @@ CloudNativePG is a Go Kubernetes operator that manages the lifecycle of vanilla 
 <sub>no GPU · Docker · Needs Kubernetes, PostgreSQL · [Repo](https://github.com/cloudnative-pg/cloudnative-pg) · [📖 Docs ↗](https://cloudnative-pg.io/docs) · [🌐 Site ↗](https://cloudnative-pg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cloudnative-pg/)</sub>
 
 <a name="servicestack"></a>
-### #&#8288;133 [servicestack](https://github.com/servicestack/servicestack) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · custom license · Nov 2026</sub>
+### #&#8288;134 [servicestack](https://github.com/servicestack/servicestack) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · custom license · Nov 2026</sub>
 
 **.NET web services framework with message-based DTO APIs and typed clients.**
 
@@ -2380,7 +2398,7 @@ ServiceStack is a C# framework for building web services from typed request DTOs
 <sub>no GPU · Docker + Compose · Needs NuGet, RDBMS via OrmLite (optional), RabbitMQ (optional), Redis (optional), Amazon SQS (optional) · [Repo](https://github.com/servicestack/servicestack) · [📖 Docs ↗](https://docs.servicestack.net) · [🌐 Site ↗](https://servicestack.net) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/servicestack/)</sub>
 
 <a name="go-whatsapp-web-multidevice"></a>
-### #&#8288;134 [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
+### #&#8288;135 [go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
 
 **Go server exposing WhatsApp multi-device over REST, webhooks and MCP.**
 
@@ -2398,7 +2416,7 @@ GoWA is a Go service built on whatsmeow that links one or more WhatsApp accounts
 <sub>no GPU · Docker + Compose · Needs WhatsApp account, PostgreSQL (optional, e.g. Neon) · port 3000 · [Repo](https://github.com/aldinokemal/go-whatsapp-web-multidevice) · [📖 Docs ↗](https://github.com/aldinokemal/gowa-docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-whatsapp-web-multidevice/)</sub>
 
 <a name="opennextjs-aws"></a>
-### #&#8288;135 [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Nov 2026</sub>
+### #&#8288;136 [opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Nov 2026</sub>
 
 **Adapter that packages Next.js build output for AWS Lambda or Node servers.**
 
@@ -2415,26 +2433,26 @@ OpenNext takes the Next.js build output and converts it into packages deployable
 
 <sub>no GPU · Needs Next.js, AWS Lambda, Node.js · [Repo](https://github.com/opennextjs/opennextjs-aws) · [📖 Docs ↗](https://opennext.js.org/aws) · [🌐 Site ↗](https://opennext.js.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opennextjs-aws/)</sub>
 
-<a name="ravendb"></a>
-### #&#8288;136 [ravendb](https://github.com/ravendb/ravendb) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · custom license · Nov 2026</sub>
+<a name="devpush"></a>
+### #&#8288;137 [devpush](https://github.com/hunvreus/devpush) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
 
-**ACID-compliant NoSQL document database with a built-in web studio.**
+**Self-hosted deploy platform for Docker Compose apps, triggered by GitHub pushes.**
 
-RavenDB is a document-oriented NoSQL database written in C# with fully ACID transactions and a built-in web UI, the Management Studio. It runs on Linux, macOS, Windows, containers and Raspberry Pi, and is also sold as a hosted service, RavenDB Cloud. Official client SDKs exist for .NET, Node.js, Python, Java, PHP, Go, C++ and Ruby.
+devpush deploys Docker Compose apps from a connected GitHub repository to your own Linux servers. A small agent on each server handles HTTPS, deployment logs, monitoring and backups, while the dashboard runs on Cloudflare Workers or Node. It includes teams, environments, encrypted variables, a REST API and MCP.
 
-- **+** Fully ACID transactions, with security on by default
-- **+** Official clients for eight languages, including .NET, Python, Java and Go
-- **+** Management Studio web UI ships with the server
-- **+** Installs from a download, .deb package or Docker image
-- **−** README says AGPLv3, but detected license is NOASSERTION, so terms need checking
-- **−** README links a developer license request, so some use may need a license
-- **−** Database only: no auth, file storage or API layer for apps
-- **−** Not an AI project: no model or vector features described in README
+- **+** Dashboard runs on Cloudflare Workers or Node, with a small Linux agent per server
+- **+** Built-in HTTPS, deployment logs, monitoring and backups
+- **+** Teams, environments, encrypted variables, REST API and MCP included
+- **+** Installs with one command: npx devpush@latest init
+- **−** Docker Compose is required; Dockerfiles only work inside a Compose file
+- **−** In-place updates do not guarantee zero downtime
+- **−** Only trusted code should be deployed; Docker workloads can access the host
+- **−** Only GitHub is mentioned as a repository source
 
-<sub>no GPU · Docker · port 8080 · [Repo](https://github.com/ravendb/ravendb) · [▶️ Demo ↗](http://live-test.ravendb.net/) · [📖 Docs ↗](https://ravendb.net/docs) · [🌐 Site ↗](https://ravendb.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ravendb/)</sub>
+<sub>no GPU · Docker + Compose · Needs Docker Compose, GitHub, Cloudflare Workers or Node.js · port 7429 · [Repo](https://github.com/hunvreus/devpush) · [▶️ Demo ↗](https://devpu.sh/videos/devpush-demo.mp4) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devpush/)</sub>
 
 <a name="insforge"></a>
-### #&#8288;137 [insforge](https://github.com/insforge/insforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;138 [insforge](https://github.com/insforge/insforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
 
 **Postgres-based backend platform that coding agents operate through an MCP server.**
 
@@ -2451,7 +2469,7 @@ InsForge bundles Postgres, auth, S3-compatible storage, edge functions, an OpenA
 <sub>no GPU · Docker + Compose · Needs Docker with Compose v2, Postgres, S3-compatible store (optional) · Models: OpenAI-compatible gateway across multiple LLM providers · port 7130 · [Repo](https://github.com/insforge/insforge) · [📖 Docs ↗](https://docs.insforge.dev/introduction) · [🌐 Site ↗](https://insforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/insforge/)</sub>
 
 <a name="encore"></a>
-### #&#8288;138 [encore](https://github.com/encoredev/encore) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MPL-2.0 · Nov 2026</sub>
+### #&#8288;139 [encore](https://github.com/encoredev/encore) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MPL-2.0 · Nov 2026</sub>
 
 **Go and TypeScript SDK that declares backend infrastructure in code.**
 
@@ -2468,8 +2486,26 @@ Encore is an infrastructure SDK for Go and TypeScript where databases, Pub/Sub t
 
 <sub>no GPU · Needs Postgres, NSQ, Redis, AWS or Google Cloud (for deployment) · port 9400 · [Repo](https://github.com/encoredev/encore) · [📖 Docs ↗](https://encore.dev/docs) · [🌐 Site ↗](https://encore.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/encore/)</sub>
 
+<a name="cassandra"></a>
+### #&#8288;140 [cassandra](https://github.com/apache/cassandra) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
+
+**Distributed partitioned row-store database queried with CQL.**
+
+Apache Cassandra is a partitioned row-store database written in Java. Tables require a primary key, data is distributed across machines automatically, and the cluster repartitions as nodes are added or removed. It is queried with CQL, which the README describes as SQL minus joins and subqueries, plus collections.
+
+- **+** Automatic partitioning across machines, repartitions when nodes are added or removed
+- **+** CQL syntax is close to SQL, with a bundled cqlsh client
+- **+** Runs as a single node from a tarball for local testing
+- **+** Apache-2.0 licensed with Jira, mailing lists and Slack for support
+- **−** CQL has no joins or subqueries, so data modeling differs from relational databases
+- **−** Not an AI project; the README describes no model or vector features
+- **−** Needs a Java runtime and Python for cqlsh; supported versions only in build.xml
+- **−** No tagged release listed; README banner shows a 7.0-SNAPSHOT trunk build
+
+<sub>no GPU · Needs Java, Python (for cqlsh) · [Repo](https://github.com/apache/cassandra) · [📖 Docs ↗](https://cassandra.apache.org/doc/latest/cassandra/getting-started/index.html) · [🌐 Site ↗](https://cassandra.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cassandra/)</sub>
+
 <a name="kubevela"></a>
-### #&#8288;139 [kubevela](https://github.com/kubevela/kubevela) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.9k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;141 [kubevela](https://github.com/kubevela/kubevela) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.9k · Apache-2.0 · Nov 2026</sub>
 
 **Kubernetes app delivery control plane with CUE workflows and multi-cluster rollout.**
 
@@ -2487,7 +2523,7 @@ KubeVela is a Go application delivery platform built on the Open Application Mod
 <sub>RAM ≥ 1 GB · no GPU · Docker · Needs Kubernetes · [Repo](https://github.com/kubevela/kubevela) · [📖 Docs ↗](https://kubevela.io/docs) · [🌐 Site ↗](https://kubevela.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubevela/)</sub>
 
 <a name="trailbase"></a>
-### #&#8288;140 [trailbase](https://github.com/trailbaseio/trailbase) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · OSL-3.0 · Nov 2026</sub>
+### #&#8288;142 [trailbase](https://github.com/trailbaseio/trailbase) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · OSL-3.0 · Nov 2026</sub>
 
 **Single-executable Firebase alternative on Rust and SQLite with REST and realtime APIs.**
 
@@ -2504,26 +2540,8 @@ TrailBase is a backend server written in Rust that bundles type-safe REST and re
 
 <sub>no GPU · Docker + Compose · Needs SQLite (bundled), Postgres (optional, experimental) · port 4000 · README: alternative to Firebase · [Repo](https://github.com/trailbaseio/trailbase) · [▶️ Demo ↗](https://demo.trailbase.io/_/admin?loginMessage=E-mail:%20admin@localhost%20%E2%80%A2%20Password:%20secret) · [🌐 Site ↗](https://trailbase.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/trailbase/)</sub>
 
-<a name="devpush"></a>
-### #&#8288;141 [devpush](https://github.com/hunvreus/devpush) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
-
-**Self-hosted deploy platform for Docker Compose apps, triggered by GitHub pushes.**
-
-devpush deploys Docker Compose apps from a connected GitHub repository to your own Linux servers. A small agent on each server handles HTTPS, deployment logs, monitoring and backups, while the dashboard runs on Cloudflare Workers or Node. It includes teams, environments, encrypted variables, a REST API and MCP.
-
-- **+** Dashboard runs on Cloudflare Workers or Node, with a small Linux agent per server
-- **+** Built-in HTTPS, deployment logs, monitoring and backups
-- **+** Teams, environments, encrypted variables, REST API and MCP included
-- **+** Installs with one command: npx devpush@latest init
-- **−** Docker Compose is required; Dockerfiles only work inside a Compose file
-- **−** In-place updates do not guarantee zero downtime
-- **−** Only trusted code should be deployed; Docker workloads can access the host
-- **−** Only GitHub is mentioned as a repository source
-
-<sub>no GPU · Docker + Compose · Needs Docker Compose, GitHub, Cloudflare Workers or Node.js · port 7429 · [Repo](https://github.com/hunvreus/devpush) · [▶️ Demo ↗](https://devpu.sh/videos/devpush-demo.mp4) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devpush/)</sub>
-
 <a name="graphjin"></a>
-### #&#8288;142 [graphjin](https://github.com/dosco/graphjin) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;143 [graphjin](https://github.com/dosco/graphjin) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · Apache-2.0 · Nov 2026</sub>
 
 **GraphQL-to-SQL compiler that exposes databases to AI agents over MCP.**
 
@@ -2540,8 +2558,26 @@ GraphJin compiles GraphQL queries into single SQL statements and serves them as 
 
 <sub>no GPU · Docker · Needs PostgreSQL, MySQL, MongoDB, SQLite or other supported database, Model API key for built-in agent (optional) · Models: OpenAI, Anthropic, Google · port 8080 · [Repo](https://github.com/dosco/graphjin) · [📖 Docs ↗](https://graphjin.com/agentic/server-agent/) · [🌐 Site ↗](https://graphjin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphjin/)</sub>
 
+<a name="openmeter"></a>
+### #&#8288;144 [openmeter](https://github.com/openmeterio/openmeter) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
+
+**Usage metering, entitlements and usage-based billing API for AI and API products.**
+
+OpenMeter ingests CloudEvents, aggregates them into per-customer meters in real time, and exposes the results through a REST API with JavaScript, Python and Go SDKs. On top of metering it provides a product catalog (plans, features, add-ons, tiered and package pricing), entitlements for access and usage limits, and an invoice lifecycle with credits. Releases are described as beta and can include breaking changes.
+
+- **+** Covers metering, plans, entitlements, credits and invoicing behind one API, and parts can be used alone
+- **+** Ingests CloudEvents and queries usage by time window or dimension, backed by ClickHouse
+- **+** Official JavaScript and Go SDKs plus a preview Python SDK; webhooks and external invoicing providers supported
+- **+** Compose quickstart ships a ready api_requests_total meter for trying event ingestion
+- **−** Runtime needs Kafka, ClickHouse and PostgreSQL, with Redis and Svix optional; heavy to self-host
+- **−** Releases are beta and may include breaking changes between versions
+- **−** Official Helm chart is for development only, and the Compose stack is not a production topology
+- **−** No operator UI, payment processor or tax engine; Python SDK is preview
+
+<sub>no GPU · Docker + Compose · Needs Kafka, ClickHouse, PostgreSQL, Redis (optional), Svix (optional, webhooks) · port 48888 · [Repo](https://github.com/openmeterio/openmeter) · [📖 Docs ↗](https://openmeter.io/docs) · [🌐 Site ↗](https://openmeter.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openmeter/)</sub>
+
 <a name="convex-backend"></a>
-### #&#8288;143 [convex-backend](https://github.com/convex/convex-backend) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Nov 2026</sub>
+### #&#8288;145 [convex-backend](https://github.com/convex/convex-backend) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · custom license · Nov 2026</sub>
 
 **Reactive database with TypeScript server functions and live-updating clients.**
 
@@ -2558,26 +2594,26 @@ Convex is a reactive database where queries and mutations are written as TypeScr
 
 <sub>no GPU · Needs Docker or prebuilt binary (self-hosting) · [Repo](https://github.com/convex/convex-backend) · [📖 Docs ↗](https://docs.convex.dev/) · [🌐 Site ↗](https://convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/convex-backend/)</sub>
 
-<a name="cassandra"></a>
-### #&#8288;144 [cassandra](https://github.com/apache/cassandra) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
+<a name="peewee"></a>
+### #&#8288;146 [peewee](https://github.com/coleifer/peewee) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (67) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Nov 2026</sub>
 
-**Distributed partitioned row-store database queried with CQL.**
+**Small Python ORM and query builder for SQLite, MySQL, MariaDB and PostgreSQL.**
 
-Apache Cassandra is a partitioned row-store database written in Java. Tables require a primary key, data is distributed across machines automatically, and the cluster repartitions as nodes are added or removed. It is queried with CQL, which the README describes as SQL minus joins and subqueries, plus collections.
+Peewee is a single-module Python ORM with no required dependencies. It defines models and fields, builds composable SQL queries, and supports SQLite, MySQL, MariaDB and PostgreSQL, with asyncio support on aiosqlite, asyncpg and aiomysql. It also ships a diff-based migration runner (pwmigrate) and Flask, FastAPI and Pydantic integrations. It is not an AI project; it fits this list only as a data-layer library.
 
-- **+** Automatic partitioning across machines, repartitions when nodes are added or removed
-- **+** CQL syntax is close to SQL, with a bundled cqlsh client
-- **+** Runs as a single node from a tarball for local testing
-- **+** Apache-2.0 licensed with Jira, mailing lists and Slack for support
-- **−** CQL has no joins or subqueries, so data modeling differs from relational databases
-- **−** Not an AI project; the README describes no model or vector features
-- **−** Needs a Java runtime and Python for cqlsh; supported versions only in build.xml
-- **−** No tagged release listed; README banner shows a 7.0-SNAPSHOT trunk build
+- **+** Single module with no required dependencies; SQLite works through the standard library
+- **+** Covers SQLite, MySQL, MariaDB and PostgreSQL, with sync and asyncio APIs
+- **+** Includes a diff-based migration runner (pwmigrate) and playhouse extensions
+- **+** Documented Flask and FastAPI integration, plus Pydantic utilities
+- **−** Library only: no auth, API server, storage or hosting included
+- **−** No AI or LLM features; unrelated to models, agents or RAG
+- **−** Async API uses separate a-prefixed methods (acreate, asave) alongside the sync ones
+- **−** Database drivers are optional extras that must be installed separately
 
-<sub>no GPU · Needs Java, Python (for cqlsh) · [Repo](https://github.com/apache/cassandra) · [📖 Docs ↗](https://cassandra.apache.org/doc/latest/cassandra/getting-started/index.html) · [🌐 Site ↗](https://cassandra.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cassandra/)</sub>
+<sub>no GPU · Needs pymysql (mysql extra), psycopg2 or psycopg3 (postgres extras), aiosqlite, aiomysql or asyncpg (async extras) · [Repo](https://github.com/coleifer/peewee) · [📖 Docs ↗](https://docs.peewee-orm.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/peewee/)</sub>
 
 <a name="fission"></a>
-### #&#8288;145 [fission](https://github.com/fission/fission) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;147 [fission](https://github.com/fission/fission) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · Apache-2.0 · Nov 2026</sub>
 
 **Kubernetes-native serverless functions with a warm container pool.**
 
@@ -2595,7 +2631,7 @@ Fission runs functions on a Kubernetes cluster from source code alone, using lan
 <sub>no GPU · Needs Kubernetes · [Repo](https://github.com/fission/fission) · [📖 Docs ↗](https://fission.io/docs) · [🌐 Site ↗](https://fission.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fission/)</sub>
 
 <a name="pig"></a>
-### #&#8288;146 [pig](https://github.com/pig-mesh/pig) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;148 [pig](https://github.com/pig-mesh/pig) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · Apache-2.0 · Nov 2026</sub>
 
 **Spring Cloud RBAC admin platform with OAuth2 auth, gateway and code generation.**
 
@@ -2613,7 +2649,7 @@ Pig is a Java 17 admin backend built on Spring Boot 4.1 and Spring Cloud, with a
 <sub>no GPU · Compose · Needs MySQL, Redis, Nacos, JDK 17+, Maven 3.9+, Docker Compose · port 9999 · [Repo](https://github.com/pig-mesh/pig) · [📖 Docs ↗](https://docs.pig4cloud.com/open) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pig/)</sub>
 
 <a name="pg-boss"></a>
-### #&#8288;147 [pg-boss](https://github.com/timgit/pg-boss) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Nov 2026</sub>
+### #&#8288;149 [pg-boss](https://github.com/timgit/pg-boss) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Nov 2026</sub>
 
 **Postgres-backed job queue for Node.js using SKIP LOCKED.**
 
@@ -2631,7 +2667,7 @@ pg-boss is a Node.js library that stores background jobs in PostgreSQL and uses 
 <sub>no GPU · Compose · Needs PostgreSQL 13+, Node.js 22.12+ or Bun · [Repo](https://github.com/timgit/pg-boss) · [📖 Docs ↗](https://pgboss.io/) · [🌐 Site ↗](https://pgboss.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pg-boss/)</sub>
 
 <a name="lakesoul"></a>
-### #&#8288;148 [lakesoul](https://github.com/lakesoul-io/lakesoul) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;150 [lakesoul](https://github.com/lakesoul-io/lakesoul) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · Apache-2.0 · Nov 2026</sub>
 
 **Lakehouse on object storage with a PostgreSQL wire endpoint and vector search.**
 
@@ -2648,26 +2684,8 @@ LakeSoul is a Rust lakehouse engine that stores Parquet or Vortex files in S3, O
 
 <sub>Docker + Compose · Needs PostgreSQL (metadata), Object storage (S3/OSS/HDFS) · [Repo](https://github.com/lakesoul-io/lakesoul) · [📖 Docs ↗](https://lakesoul-io.github.io/docs/engine/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lakesoul/)</sub>
 
-<a name="openmeter"></a>
-### #&#8288;149 [openmeter](https://github.com/openmeterio/openmeter) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
-
-**Usage metering, entitlements and usage-based billing API for AI and API products.**
-
-OpenMeter ingests CloudEvents, aggregates them into per-customer meters in real time, and exposes the results through a REST API with JavaScript, Python and Go SDKs. On top of metering it provides a product catalog (plans, features, add-ons, tiered and package pricing), entitlements for access and usage limits, and an invoice lifecycle with credits. Releases are described as beta and can include breaking changes.
-
-- **+** Covers metering, plans, entitlements, credits and invoicing behind one API, and parts can be used alone
-- **+** Ingests CloudEvents and queries usage by time window or dimension, backed by ClickHouse
-- **+** Official JavaScript and Go SDKs plus a preview Python SDK; webhooks and external invoicing providers supported
-- **+** Compose quickstart ships a ready api_requests_total meter for trying event ingestion
-- **−** Runtime needs Kafka, ClickHouse and PostgreSQL, with Redis and Svix optional; heavy to self-host
-- **−** Releases are beta and may include breaking changes between versions
-- **−** Official Helm chart is for development only, and the Compose stack is not a production topology
-- **−** No operator UI, payment processor or tax engine; Python SDK is preview
-
-<sub>no GPU · Docker + Compose · Needs Kafka, ClickHouse, PostgreSQL, Redis (optional), Svix (optional, webhooks) · port 48888 · [Repo](https://github.com/openmeterio/openmeter) · [📖 Docs ↗](https://openmeter.io/docs) · [🌐 Site ↗](https://openmeter.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openmeter/)</sub>
-
 <a name="mongo"></a>
-### #&#8288;150 [mongo](https://github.com/mongodb/mongo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · custom license · Nov 2026</sub>
+### #&#8288;151 [mongo](https://github.com/mongodb/mongo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · custom license · Nov 2026</sub>
 
 **Source code for the MongoDB document database server and sharding router.**
 
@@ -2685,7 +2703,7 @@ This is the C++ source of MongoDB: `mongod`, the database server, and `mongos`, 
 <sub>no GPU · [Repo](https://github.com/mongodb/mongo) · [📖 Docs ↗](https://docs.mongodb.com/manual/) · [🌐 Site ↗](https://www.mongodb.com/try/download/community) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongo/)</sub>
 
 <a name="apollo-server"></a>
-### #&#8288;151 [apollo-server](https://github.com/apollographql/apollo-server) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
+### #&#8288;152 [apollo-server](https://github.com/apollographql/apollo-server) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · MIT · Nov 2026</sub>
 
 **TypeScript GraphQL server library for Node.js, standalone or federated.**
 
@@ -2703,7 +2721,7 @@ This is the C++ source of MongoDB: `mongod`, the database server, and `mongos`, 
 <sub>no GPU · Needs Node.js, graphql · port 4000 · [Repo](https://github.com/apollographql/apollo-server) · [📖 Docs ↗](https://www.apollographql.com/docs/apollo-server/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apollo-server/)</sub>
 
 <a name="openstatus"></a>
-### #&#8288;152 [openstatus](https://github.com/openstatushq/openstatus) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;153 [openstatus](https://github.com/openstatushq/openstatus) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · AGPL-3.0 · Nov 2026</sub>
 
 **Status pages, uptime monitoring and incident response, configured as code.**
 
@@ -2720,8 +2738,25 @@ openstatus combines public status pages, uptime checks from 28 regions and incid
 
 <sub>no GPU · Compose · Needs Docker, Turso/libSQL, Tinybird, Node.js, pnpm · port 3002 · [Repo](https://github.com/openstatushq/openstatus) · [▶️ Demo ↗](https://status.openstatus.dev) · [📖 Docs ↗](https://www.openstatus.dev/docs) · [🌐 Site ↗](https://www.openstatus.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openstatus/)</sub>
 
+<a name="aws-sam-cli"></a>
+### #&#8288;154 [aws-sam-cli](https://github.com/aws/aws-sam-cli) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · Apache-2.0 · Nov 2026</sub>
+
+**CLI to build, test locally, and deploy AWS Lambda serverless applications.**
+
+AWS SAM CLI builds, packages and deploys serverless apps defined in SAM or CloudFormation templates, covering Lambda, API Gateway, Step Functions, EventBridge, SQS and SNS. It runs Lambda functions and API Gateway locally in Docker containers via `sam local`, works with CDK apps, and syncs changes to the cloud with `sam sync`. It is written in Python and uses Click for the command line.
+
+- **+** Local Lambda and API Gateway emulation in Docker through `sam local`
+- **+** `sam sync` pushes code changes to a cloud dev environment without a full deploy
+- **+** `sam init` scaffolds apps from AWS templates for all supported runtimes
+- **+** `sam pipeline init` generates CI/CD pipelines; `sam logs` and `sam traces` tail CloudWatch and X-Ray
+- **−** Targets AWS only; deployments go through CloudFormation
+- **−** Local emulation requires Docker to be installed and running
+- **−** Not an AI project; no model or LLM features in the README
+
+<sub>no GPU · Docker · Needs Docker, AWS account, AWS CloudFormation · [Repo](https://github.com/aws/aws-sam-cli) · [📖 Docs ↗](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aws-sam-cli/)</sub>
+
 <a name="luban"></a>
-### #&#8288;153 [luban](https://github.com/focus-creative-games/luban) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Oct 2026</sub>
+### #&#8288;155 [luban](https://github.com/focus-creative-games/luban) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Oct 2026</sub>
 
 **Game config pipeline that turns Excel, JSON and XML tables into typed code and data.**
 
@@ -2738,8 +2773,26 @@ Luban is a C# tool that reads game configuration tables (csv, xls/xlsx, json, xm
 
 <sub>no GPU · [Repo](https://github.com/focus-creative-games/luban) · [📖 Docs ↗](https://www.datable.cn/docs/intro) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/luban/)</sub>
 
+<a name="supabase-js"></a>
+### #&#8288;156 [supabase-js](https://github.com/supabase/supabase-js) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+
+**Official JavaScript client SDK for Supabase services.**
+
+Monorepo of the TypeScript client libraries for Supabase: a combined @supabase/supabase-js package plus separate auth, PostgREST, realtime, storage and edge functions clients. It runs in Node.js, Deno, Bun, browsers, React Native and Cloudflare Workers. It is a client for an existing Supabase backend, not a server or starter app.
+
+- **+** Split into auth-js, postgrest-js, realtime-js, storage-js and functions-js packages, usable individually
+- **+** Documented support for Node.js, Deno, Bun, browsers, React Native and Cloudflare Workers
+- **+** MIT license, with npm provenance attestations verifiable via npm audit signatures
+- **+** Written in TypeScript with a stated runtime version support policy
+- **−** Needs a Supabase backend (hosted or self-hosted) to be useful
+- **−** Compatibility guaranteed only with latest service releases; PostgREST minimum is v12
+- **−** Drops end-of-life Node.js versions in minor releases, e.g. Node 20 in 2.110.0
+- **−** Realtime requires native WebSocket support in the runtime
+
+<sub>no GPU · Needs Supabase backend (Auth, PostgREST, Realtime, Storage, Edge Functions) · [Repo](https://github.com/supabase/supabase-js) · [📖 Docs ↗](https://supabase.com/docs/reference/javascript/introduction) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase-js/)</sub>
+
 <a name="omnigraph"></a>
-### #&#8288;154 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · MIT · Nov 2026</sub>
+### #&#8288;157 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · MIT · Nov 2026</sub>
 
 **Graph database on object storage with branching, typed schemas and hybrid retrieval.**
 
@@ -2757,7 +2810,7 @@ Omnigraph is a Rust graph database that stores data in the Lance format on local
 <sub>Docker · Needs S3-compatible object storage (optional), protobuf-compiler (build/CI only) · Models: Embedding providers declared in cluster.yaml · [Repo](https://github.com/modernrelay/omnigraph) · [📖 Docs ↗](https://www.omnigraph.dev/llms.txt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/omnigraph/)</sub>
 
 <a name="pixeltable"></a>
-### #&#8288;155 [pixeltable](https://github.com/pixeltable/pixeltable) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;158 [pixeltable](https://github.com/pixeltable/pixeltable) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Nov 2026</sub>
 
 **Python multimodal database with computed columns and HTTP routes in one file.**
 
@@ -2775,7 +2828,7 @@ Pixeltable stores images, video, audio and documents in tables, and treats trans
 <sub>Needs Python, ANTHROPIC_API_KEY (starter chat /ask route only) · Models: Anthropic (starter kit) · [Repo](https://github.com/pixeltable/pixeltable) · [📖 Docs ↗](https://docs.pixeltable.com/) · [🌐 Site ↗](https://www.pixeltable.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pixeltable/)</sub>
 
 <a name="realm-swift"></a>
-### #&#8288;156 [realm-swift](https://github.com/realm/realm-swift) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;159 [realm-swift](https://github.com/realm/realm-swift) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Sep 2026</sub>
 
 **On-device object database for iOS, macOS, tvOS and watchOS apps.**
 
@@ -2793,7 +2846,7 @@ Realm Swift and Realm Objective-C are an embedded mobile database that stores ob
 <sub>no GPU · Needs Xcode 15.3+ (building from source) · [Repo](https://github.com/realm/realm-swift) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/realm-swift/)</sub>
 
 <a name="tyk"></a>
-### #&#8288;157 [tyk](https://github.com/tyktechnologies/tyk) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
+### #&#8288;160 [tyk](https://github.com/tyktechnologies/tyk) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Nov 2026</sub>
 
 **Go API gateway with auth, rate limiting and MCP traffic control.**
 
@@ -2810,25 +2863,8 @@ Tyk Gateway is an API gateway written in Go that proxies REST, GraphQL, gRPC, TC
 
 <sub>no GPU · Docker + Compose · Needs Redis · port 8080 · [Repo](https://github.com/tyktechnologies/tyk) · [📖 Docs ↗](https://tyk.io/docs/) · [🌐 Site ↗](https://tyk.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tyk/)</sub>
 
-<a name="aws-sam-cli"></a>
-### #&#8288;158 [aws-sam-cli](https://github.com/aws/aws-sam-cli) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · Apache-2.0 · Nov 2026</sub>
-
-**CLI to build, test locally, and deploy AWS Lambda serverless applications.**
-
-AWS SAM CLI builds, packages and deploys serverless apps defined in SAM or CloudFormation templates, covering Lambda, API Gateway, Step Functions, EventBridge, SQS and SNS. It runs Lambda functions and API Gateway locally in Docker containers via `sam local`, works with CDK apps, and syncs changes to the cloud with `sam sync`. It is written in Python and uses Click for the command line.
-
-- **+** Local Lambda and API Gateway emulation in Docker through `sam local`
-- **+** `sam sync` pushes code changes to a cloud dev environment without a full deploy
-- **+** `sam init` scaffolds apps from AWS templates for all supported runtimes
-- **+** `sam pipeline init` generates CI/CD pipelines; `sam logs` and `sam traces` tail CloudWatch and X-Ray
-- **−** Targets AWS only; deployments go through CloudFormation
-- **−** Local emulation requires Docker to be installed and running
-- **−** Not an AI project; no model or LLM features in the README
-
-<sub>no GPU · Docker · Needs Docker, AWS account, AWS CloudFormation · [Repo](https://github.com/aws/aws-sam-cli) · [📖 Docs ↗](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aws-sam-cli/)</sub>
-
 <a name="tsuru"></a>
-### #&#8288;159 [tsuru](https://github.com/tsuru/tsuru) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · BSD-3-Clause · Nov 2026</sub>
+### #&#8288;161 [tsuru](https://github.com/tsuru/tsuru) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · BSD-3-Clause · Nov 2026</sub>
 
 **Extensible PaaS that deploys apps onto Kubernetes clusters via a CLI.**
 
@@ -2846,7 +2882,7 @@ tsuru is a Go-based Platform as a Service that deploys and manages applications 
 <sub>no GPU · Docker + Compose · Needs Kubernetes, Minikube (local dev), Docker or Podman (local dev), Go, yq · [Repo](https://github.com/tsuru/tsuru) · [📖 Docs ↗](https://docs.tsuru.io/) · [🌐 Site ↗](https://tsuru.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tsuru/)</sub>
 
 <a name="objectbox-java"></a>
-### #&#8288;160 [objectbox-java](https://github.com/objectbox/objectbox-java) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (41) · Freshness: active (98) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;162 [objectbox-java](https://github.com/objectbox/objectbox-java) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (42) · Freshness: active (98) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Nov 2026</sub>
 
 **Embedded object database with vector search for Java, Kotlin and Android.**
 
@@ -2863,26 +2899,26 @@ ObjectBox Java is an on-device NoSQL object database for Android and JVM apps on
 
 <sub>[Repo](https://github.com/objectbox/objectbox-java) · [📖 Docs ↗](https://docs.objectbox.io) · [🌐 Site ↗](https://objectbox.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/objectbox-java/)</sub>
 
-<a name="supabase-js"></a>
-### #&#8288;161 [supabase-js](https://github.com/supabase/supabase-js) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+<a name="terraform-hcloud-kube-hetzner"></a>
+### #&#8288;163 [terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Sep 2026</sub>
 
-**Official JavaScript client SDK for Supabase services.**
+**Terraform/OpenTofu module that builds k3s or RKE2 clusters on Hetzner Cloud.**
 
-Monorepo of the TypeScript client libraries for Supabase: a combined @supabase/supabase-js package plus separate auth, PostgREST, realtime, storage and edge functions clients. It runs in Node.js, Deno, Bun, browsers, React Native and Cloudflare Workers. It is a client for an existing Supabase backend, not a server or starter app.
+Kube-Hetzner is a Terraform/OpenTofu module that provisions a Kubernetes cluster on Hetzner Cloud, running k3s or RKE2 on openSUSE Leap Micro nodes. It wires in private networking, firewalls, CSI storage, ingress, cert management, and automatic OS and Kubernetes upgrades. A `createkh` script generates the project folder, `kube.tf`, and node images.
 
-- **+** Split into auth-js, postgrest-js, realtime-js, storage-js and functions-js packages, usable individually
-- **+** Documented support for Node.js, Deno, Bun, browsers, React Native and Cloudflare Workers
-- **+** MIT license, with npm provenance attestations verifiable via npm audit signatures
-- **+** Written in TypeScript with a stated runtime version support policy
-- **−** Needs a Supabase backend (hosted or self-hosted) to be useful
-- **−** Compatibility guaranteed only with latest service releases; PostgREST minimum is v12
-- **−** Drops end-of-life Node.js versions in minor releases, e.g. Node 20 in 2.110.0
-- **−** Realtime requires native WebSocket support in the runtime
+- **+** HA control plane, multi-location pools, and Cluster Autoscaler nodepools
+- **+** Choice of k3s or RKE2, and Flannel, Calico, or Cilium networking
+- **+** Plan-time validation rejects invalid topology and variable combinations before apply
+- **+** State-aware destroy script reports possible Hetzner orphans; ships agent skills for migration and upgrades
+- **−** Hetzner Cloud only; Robot dedicated servers need a separate integration
+- **−** Requires Packer to build Leap Micro images alongside Terraform/OpenTofu and hcloud
+- **−** v2 to v3 upgrade needs a manual migration; blind apply is discouraged
+- **−** Cloudflare Mesh/WARP is not supported as node transport
 
-<sub>no GPU · Needs Supabase backend (Auth, PostgREST, Realtime, Storage, Edge Functions) · [Repo](https://github.com/supabase/supabase-js) · [📖 Docs ↗](https://supabase.com/docs/reference/javascript/introduction) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase-js/)</sub>
+<sub>no GPU · Needs Hetzner Cloud account and API token, OpenTofu or Terraform >= 1.10.1, Packer 1.16.0, kubectl, hcloud CLI · [Repo](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/terraform-hcloud-kube-hetzner/)</sub>
 
 <a name="oceanbase"></a>
-### #&#8288;162 [oceanbase](https://github.com/oceanbase/oceanbase) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;164 [oceanbase](https://github.com/oceanbase/oceanbase) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed MySQL-compatible relational database with Paxos replication and HTAP.**
 
@@ -2900,7 +2936,7 @@ OceanBase Database is a distributed relational database written in C++ and devel
 <sub>[Repo](https://github.com/oceanbase/oceanbase) · [📖 Docs ↗](https://en.oceanbase.com/docs/oceanbase-database) · [🌐 Site ↗](https://en.oceanbase.com/product/opensource) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oceanbase/)</sub>
 
 <a name="micronaut-core"></a>
-### #&#8288;163 [micronaut-core](https://github.com/micronaut-projects/micronaut-core) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;165 [micronaut-core](https://github.com/micronaut-projects/micronaut-core) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
 
 **JVM framework for microservices and HTTP servers with compile-time dependency injection.**
 
@@ -2918,7 +2954,7 @@ Micronaut Framework is a Java, Kotlin and Groovy framework for building HTTP ser
 <sub>no GPU · Needs JVM, Gradle · [Repo](https://github.com/micronaut-projects/micronaut-core) · [🌐 Site ↗](https://micronaut.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/micronaut-core/)</sub>
 
 <a name="armeria"></a>
-### #&#8288;164 [armeria](https://github.com/line/armeria) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;166 [armeria](https://github.com/line/armeria) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (46) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Nov 2026</sub>
 
 **Java microservice framework for gRPC, Thrift and REST services.**
 
@@ -2935,7 +2971,7 @@ Armeria is a Java framework for building reactive microservices, created by the 
 <sub>no GPU · Needs Java 8 or later · [Repo](https://github.com/line/armeria) · [🌐 Site ↗](https://armeria.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/armeria/)</sub>
 
 <a name="prest"></a>
-### #&#8288;165 [prest](https://github.com/prest/prest) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+### #&#8288;167 [prest](https://github.com/prest/prest) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
 **REST and read-only MCP API generated from a PostgreSQL or MySQL database.**
 
@@ -2952,26 +2988,8 @@ pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or My
 
 <sub>no GPU · Docker + Compose · Needs PostgreSQL 9.5+ or MySQL 8.0.19+ · [Repo](https://github.com/prest/prest) · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prest/)</sub>
 
-<a name="terraform-hcloud-kube-hetzner"></a>
-### #&#8288;166 [terraform-hcloud-kube-hetzner](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (36) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Sep 2026</sub>
-
-**Terraform/OpenTofu module that builds k3s or RKE2 clusters on Hetzner Cloud.**
-
-Kube-Hetzner is a Terraform/OpenTofu module that provisions a Kubernetes cluster on Hetzner Cloud, running k3s or RKE2 on openSUSE Leap Micro nodes. It wires in private networking, firewalls, CSI storage, ingress, cert management, and automatic OS and Kubernetes upgrades. A `createkh` script generates the project folder, `kube.tf`, and node images.
-
-- **+** HA control plane, multi-location pools, and Cluster Autoscaler nodepools
-- **+** Choice of k3s or RKE2, and Flannel, Calico, or Cilium networking
-- **+** Plan-time validation rejects invalid topology and variable combinations before apply
-- **+** State-aware destroy script reports possible Hetzner orphans; ships agent skills for migration and upgrades
-- **−** Hetzner Cloud only; Robot dedicated servers need a separate integration
-- **−** Requires Packer to build Leap Micro images alongside Terraform/OpenTofu and hcloud
-- **−** v2 to v3 upgrade needs a manual migration; blind apply is discouraged
-- **−** Cloudflare Mesh/WARP is not supported as node transport
-
-<sub>no GPU · Needs Hetzner Cloud account and API token, OpenTofu or Terraform >= 1.10.1, Packer 1.16.0, kubectl, hcloud CLI · [Repo](https://github.com/mysticaltech/terraform-hcloud-kube-hetzner) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/terraform-hcloud-kube-hetzner/)</sub>
-
 <a name="good-job"></a>
-### #&#8288;167 [good_job](https://github.com/bensheldon/good_job) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
+### #&#8288;168 [good_job](https://github.com/bensheldon/good_job) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
 
 **Multithreaded Postgres-backed Active Job queue for Ruby on Rails.**
 
@@ -2988,79 +3006,8 @@ GoodJob is a Rails gem that runs Active Job background jobs from a Postgres tabl
 
 <sub>no GPU · Needs PostgreSQL 10+, Ruby on Rails 6.1+ · [Repo](https://github.com/bensheldon/good_job) · [▶️ Demo ↗](https://goodjob-demo.herokuapp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/good-job/)</sub>
 
-<a name="sqlc"></a>
-### #&#8288;168 [sqlc](https://github.com/sqlc-dev/sqlc) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (78) · Freshness: active (97) · Maintenance: patchy (39) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Oct 2026</sub>
-
-**SQL compiler that generates type-safe application code from SQL queries.**
-
-sqlc reads SQL queries and generates type-safe code with interfaces to those queries, so application code calls generated functions instead of hand-written database glue. Go, Kotlin, Python and TypeScript are supported through separate sqlc-gen plugins, and other languages can be added as community plugins. It is written in Go and has a browser playground.
-
-- **+** Queries stay in plain SQL; generated code gives typed interfaces to them
-- **+** Language backends are plugins: Go, Kotlin, Python and TypeScript, plus community ones
-- **+** Browser playground at play.sqlc.dev for trying it without installing
-- **+** MIT licensed, written in Go, with downloads and docs published
-- **−** Not a database or backend; it only generates client code for SQL you write
-- **−** Language support lives in separate plugin repositories, each with its own maturity
-- **−** README does not describe how schemas or database engines are configured
-
-<sub>no GPU · Docker + Compose · Compose runs MySQL, PostgreSQL, ClickHouse · [Repo](https://github.com/sqlc-dev/sqlc) · [▶️ Demo ↗](https://play.sqlc.dev/) · [📖 Docs ↗](https://docs.sqlc.dev) · [🌐 Site ↗](https://sqlc.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlc/)</sub>
-
-<a name="readyset"></a>
-### #&#8288;169 [readyset](https://github.com/readysettech/readyset) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · custom license · Nov 2026</sub>
-
-**Wire-compatible caching proxy for Postgres and MySQL reads.**
-
-Readyset sits between an application and a Postgres or MySQL database and serves cached results for chosen SQL reads. It keeps the cache current by consuming the database's replication stream, so there is no manual invalidation and no app rewrite. Written in Rust, it speaks the Postgres and MySQL wire protocols, so existing ORMs and clients connect to it unchanged.
-
-- **+** Cache stays in sync through the database replication stream, with no manual invalidation
-- **+** Wire-compatible with Postgres and MySQL, so existing ORMs and drivers work unchanged
-- **+** Handles complex SQL reads, not just key lookups
-- **+** Install options: Docker image, Linux binary, or a curl quickstart script
-- **−** BSL 1.1 license, not OSI open source until it converts to Apache 2.0 after 4 years
-- **−** Supports only Postgres and MySQL as upstream databases
-- **−** Needs replication access to the primary database
-- **−** Managed offering (Readyset Cloud) is a separate hosted service
-
-<sub>no GPU · Compose · Needs Postgres or MySQL with replication enabled · [Repo](https://github.com/readysettech/readyset) · [▶️ Demo ↗](https://readyset.io/docs/) · [📖 Docs ↗](https://docs.readyset.io) · [🌐 Site ↗](https://readyset.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/readyset/)</sub>
-
-<a name="dynamic-datasource"></a>
-### #&#8288;170 [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Oct 2026</sub>
-
-**Spring Boot starter that routes calls to multiple datasources via @DS.**
-
-Java library for Spring Boot 1.5 to 4.x that picks which DataSource a method call runs against, using an @DS annotation and YAML-declared datasources. It covers read/write splitting, one-master-many-slaves groups, runtime add/remove of datasources, and local multi-datasource transactions, with Seata and Atomikos XA for distributed commits. It is a general JDBC routing library with no AI features, so it fits this list only loosely.
-
-- **+** Separate starters for Spring Boot 2, 3 and 4; CI-tested on JDK 17/21/25/27 and GraalVM Native
-- **+** @DSTransactional gives local multi-datasource transactions with 7 propagation levels, no external coordinator
-- **+** Datasources can be added, removed or lazily created at runtime, useful for per-tenant databases
-- **+** Supports Druid, HikariCP, BeeCP, DBCP2, C3P0, Oracle UCP and ENC(...) encrypted credentials
-- **−** Connection pools and JDBC drivers are not bundled; you must add and align them yourself
-- **−** Full reference docs are in Chinese; the English wiki is still being migrated
-- **−** Only chooses the datasource; no sharding, schema management or ORM of its own
-- **−** Not an AI project; the repo only ships an agent skill for troubleshooting help
-
-<sub>no GPU · Needs Spring Boot, JDK 8+ (JDK 17+ for Boot 3/4), JDBC driver, Connection pool (Druid, HikariCP, etc.) · [Repo](https://github.com/baomidou/dynamic-datasource) · [📖 Docs ↗](https://doc.xiuceyun.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dynamic-datasource/)</sub>
-
-<a name="microfeed"></a>
-### #&#8288;171 [microfeed](https://github.com/microfeed/microfeed) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · AGPL-3.0 · Sep 2026</sub>
-
-**Headless CMS that publishes web, RSS and JSON feeds from Cloudflare Workers.**
-
-microfeed is a CMS that publishes audio, video, images, documents, posts and external links to a website, an RSS feed and a JSON Feed. It runs on Cloudflare Workers with D1 for metadata and R2 for media, and has a built-in email/password admin dashboard. Content can also be managed through an API, webhooks and the @microfeed/cli, which a local AI agent can use to deploy the site and edit content.
-
-- **+** No server to run: Workers, D1 and R2, with free-tier quotas covering small sites
-- **+** Versioned themes stored in D1, with draft preview, explicit activation and rollback
-- **+** Snapshot command exports the database, R2 bucket and migration history to one archive
-- **+** Podcast fields (Podcasting 2.0 tags, transcripts, chapters) plus OpenAPI docs and llms.txt
-- **−** Cloudflare only; other serverless platforms are not supported yet
-- **−** README describes the project as in open alpha
-- **−** AGPL-3.0 license constrains modified hosted deployments
-- **−** Snapshot archives are unencrypted and contain admin password hashes
-
-<sub>no GPU · Needs Cloudflare Workers, Cloudflare D1, Cloudflare R2 · [Repo](https://github.com/microfeed/microfeed) · [▶️ Demo ↗](https://llamacorn.listennotes.com/) · [📖 Docs ↗](https://docs.microfeed.org) · [🌐 Site ↗](https://www.microfeed.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/microfeed/)</sub>
-
 <a name="zenstack"></a>
-### #&#8288;172 [zenstack](https://github.com/zenstackhq/zenstack) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
+### #&#8288;169 [zenstack](https://github.com/zenstackhq/zenstack) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
 
 **Prisma-compatible TypeScript ORM with access control, built on Kysely.**
 
@@ -3077,98 +3024,25 @@ ZenStack V3 is a schema-first TypeScript ORM that keeps Prisma's schema style an
 
 <sub>no GPU · Needs Node.js or Bun, Kysely · [Repo](https://github.com/zenstackhq/zenstack) · [▶️ Demo ↗](https://stackblitz.com/~/github.com/zenstackhq/v3-doc-quick-start?file=zenstack%2fschema.zmodel&file=main.ts&view=editor&showSidebar=0&hideNavigation=1&hideExplorer=1) · [📖 Docs ↗](https://zenstack.dev/docs/) · [🌐 Site ↗](https://zenstack.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zenstack/)</sub>
 
-<a name="serenity"></a>
-### #&#8288;173 [serenity](https://github.com/serenity-is/serenity) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Nov 2026</sub>
+<a name="sqlc"></a>
+### #&#8288;170 [sqlc](https://github.com/sqlc-dev/sqlc) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (79) · Freshness: active (97) · Maintenance: patchy (39) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Oct 2026</sub>
 
-**ASP.NET Core and TypeScript framework for database-driven CRUD business apps.**
+**SQL compiler that generates type-safe application code from SQL queries.**
 
-Serenity is an MIT-licensed application platform for data-centric business apps. The Sergen generator reads database tables and produces C# rows, services, and TypeScript grids, dialogs and types. Attributes on rows drive validation, permissions, lookups and Excel export. It supports SQL Server, PostgreSQL, MySQL, Oracle, Firebird and SQLite. It has no AI features.
+sqlc reads SQL queries and generates type-safe code with interfaces to those queries, so application code calls generated functions instead of hand-written database glue. Go, Kotlin, Python and TypeScript are supported through separate sqlc-gen plugins, and other languages can be added as community plugins. It is written in Go and has a browser playground.
 
-- **+** Sergen generates rows, services, grids and dialogs from existing database tables
-- **+** C# metadata generates TypeScript types, so the C#/TypeScript boundary is checked at build time
-- **+** Row- and field-level permissions, audit logging and soft delete are built in
-- **+** Supports six databases with FluentMigrator migrations; no separate SPA to deploy
-- **−** Tied to the .NET and ASP.NET Core stack; no support for other backend languages
-- **−** Dashboards, email client and other modules are in the paid StartSharp template
-- **−** No AI or LLM features, so it fits this list only as a general app starter
-- **−** Opinionated attribute-driven approach; the generated code must be learned before customizing
+- **+** Queries stay in plain SQL; generated code gives typed interfaces to them
+- **+** Language backends are plugins: Go, Kotlin, Python and TypeScript, plus community ones
+- **+** Browser playground at play.sqlc.dev for trying it without installing
+- **+** MIT licensed, written in Go, with downloads and docs published
+- **−** Not a database or backend; it only generates client code for SQL you write
+- **−** Language support lives in separate plugin repositories, each with its own maturity
+- **−** README does not describe how schemas or database engines are configured
 
-<sub>no GPU · Needs .NET 10 SDK, Node.js 24 LTS, SQL database (SQL Server, PostgreSQL, MySQL, Oracle, Firebird or SQLite) · port 5000 · [Repo](https://github.com/serenity-is/serenity) · [▶️ Demo ↗](https://demo.serenity.is) · [📖 Docs ↗](https://serenity.is/docs) · [🌐 Site ↗](https://serenity.is) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serenity/)</sub>
-
-<a name="arcadedb"></a>
-### #&#8288;174 [arcadedb](https://github.com/arcadedata/arcadedb) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · Apache-2.0 · Nov 2026</sub>
-
-**Multi-model database covering graph, document, key/value, time series and vectors.**
-
-ArcadeDB is an ACID database written in Java that stores graph, document, key/value, time series, vector and geospatial data in one engine. It accepts SQL, Cypher, Gremlin, GraphQL and MongoDB queries, and is reachable over HTTP/JSON, the Postgres wire protocol, and subsets of the Redis and MongoDB protocols. It also ships a built-in MCP server and a Claude Code plugin.
-
-- **+** One engine covers graph, document, key/value, time series, vector and geospatial models
-- **+** Many query languages and protocols: SQL, Cypher, Gremlin, GraphQL, Postgres wire, HTTP/JSON
-- **+** Built-in MCP server plus a Claude Code plugin for AI assistant access
-- **+** Runs embedded on the JVM, as a server, or as an experimental native image
-- **−** Redis and MongoDB drivers implement only a subset of operations
-- **−** Requires Java 21+; Java 17 is supported only on a separate branch
-- **−** GraalVM native-image build is labeled experimental
-- **−** Studio AI assistant is marked Beta
-
-<sub>no GPU · Compose · Needs Java 21+ · port 2480 · [Repo](https://github.com/arcadedata/arcadedb) · [📖 Docs ↗](https://docs.arcadedb.com) · [🌐 Site ↗](https://arcadedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/arcadedb/)</sub>
-
-<a name="harness-harness"></a>
-### #&#8288;175 [harness](https://github.com/harness/harness) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (92) · Freshness: active (97) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Nov 2026</sub>
-
-**Self-hosted Git hosting with CI pipelines, Gitspaces and artifact registries.**
-
-Harness Open Source is a Go server that combines Git repository hosting, Docker-based CI pipelines, hosted development environments (Gitspaces) and artifact registries behind one web UI and REST API. It is the successor to Drone, though pipeline parity with Drone is not yet reached. It has no AI features; it fits this list only as a self-hosted platform for building and shipping apps.
-
-- **+** Code hosting, pipelines, Gitspaces and registries in one server
-- **+** Starts with a single docker run on port 3000
-- **+** Swagger spec served at /swagger, plus a CLI for creating tokens
-- **+** Builds and runs on any OS and architecture Go supports
-- **−** Pipeline features not yet at parity with Drone, which lives on a separate branch
-- **−** Pipelines need access to the host Docker socket
-- **−** Default admin login is admin/changeit and must be changed
-- **−** Contains no AI features; the README describes only DevOps tooling
-
-<sub>no GPU · Docker · Needs Docker · port 3000 · [Repo](https://github.com/harness/harness) · [📖 Docs ↗](https://developer.harness.io/docs/open-source) · [🌐 Site ↗](https://developer.harness.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/harness-harness/)</sub>
-
-<a name="sqlx"></a>
-### #&#8288;176 [sqlx](https://github.com/transact-rs/sqlx) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
-
-**Async Rust SQL toolkit with compile-time checked queries and no DSL.**
-
-SQLx is a Rust crate for talking to PostgreSQL, MySQL/MariaDB and SQLite using async/await on tokio or async-std. Queries are plain SQL; the query macros connect to a development database at build time to verify syntax and types. It includes connection pooling, row streaming, statement caching, migrations and an Any driver, but it is not an ORM.
-
-- **+** Compile-time checked SQL via the query macros, verified by a development database
-- **+** Postgres and MySQL drivers in pure Rust with forbid(unsafe_code)
-- **+** Runs on tokio or async-std, with native-tls or rustls backends
-- **+** Built-in pooling, nested transactions, LISTEN/NOTIFY, migrations and offline query cache
-- **−** Not an ORM; no query builder or model layer
-- **−** Query macros need DATABASE_URL at build time or a prepared offline cache
-- **−** MSSQL support was removed in 0.7 pending a driver rewrite
-- **−** Must pick runtime and TLS feature flags from many combinations
-
-<sub>no GPU · Needs PostgreSQL, MySQL/MariaDB or SQLite, Rust toolchain, tokio or async-std · [Repo](https://github.com/transact-rs/sqlx) · [📖 Docs ↗](https://docs.rs/sqlx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlx/)</sub>
-
-<a name="arangodb"></a>
-### #&#8288;177 [arangodb](https://github.com/arangodb/arangodb) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Nov 2026</sub>
-
-**Multi-model database for graphs, JSON documents and full-text search via AQL.**
-
-ArangoDB is a C++ database that stores key-value pairs, JSON documents and graphs, and queries them with a single language, AQL. It includes ArangoSearch for indexing and ranked text search, and it shards and replicates data across cluster nodes with automatic failover. It is a general data backend rather than an AI starter, suited to graph or search-heavy apps.
-
-- **+** One query language (AQL) covers documents, graphs, joins and ranked full-text search
-- **+** Horizontal sharding, replication and automatic failover in cluster mode
-- **+** Schema-free by default, with optional schema validation and multi-collection transactions
-- **+** Runs on-prem, in the cloud or as a managed service (Arango Managed Platform)
-- **−** SmartGraphs, SmartJoins, Hot Backups and Encryption 360 are listed as Enterprise features
-- **−** Community Edition has no stated dataset limit removal; Enterprise is needed for unlimited size
-- **−** AQL is specific to ArangoDB, so SQL or Cypher queries need rewriting
-- **−** No tagged GitHub release; packages come from the vendor download page
-
-<sub>no GPU · port 8529 · [Repo](https://github.com/arangodb/arangodb) · [📖 Docs ↗](https://docs.arango.ai/) · [🌐 Site ↗](https://arango.ai/downloads/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/arangodb/)</sub>
+<sub>no GPU · Docker + Compose · Compose runs MySQL, PostgreSQL, ClickHouse · [Repo](https://github.com/sqlc-dev/sqlc) · [▶️ Demo ↗](https://play.sqlc.dev/) · [📖 Docs ↗](https://docs.sqlc.dev) · [🌐 Site ↗](https://sqlc.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlc/)</sub>
 
 <a name="hsweb-framework"></a>
-### #&#8288;178 [hsweb-framework](https://github.com/hs-web/hsweb-framework) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;171 [hsweb-framework](https://github.com/hs-web/hsweb-framework) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
 
 **Reactive Java admin-backend framework on Spring WebFlux and R2DBC.**
 
@@ -3186,7 +3060,7 @@ hsweb is a set of Maven modules for building admin backends on Spring Boot 2.x, 
 <sub>no GPU · Needs Java 8, Maven 3, Spring Boot 2.x, H2, MySQL, SQL Server or PostgreSQL · [Repo](https://github.com/hs-web/hsweb-framework) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hsweb-framework/)</sub>
 
 <a name="camel"></a>
-### #&#8288;179 [camel](https://github.com/apache/camel) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;172 [camel](https://github.com/apache/camel) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
 
 **Java integration framework with 350+ connectors, routes in Java, YAML or XML.**
 
@@ -3203,44 +3077,116 @@ Apache Camel connects databases, APIs, message brokers and cloud services throug
 
 <sub>no GPU · Needs Java, Maven · Models: LangChain4j, OpenAI · [Repo](https://github.com/apache/camel) · [📖 Docs ↗](https://camel.apache.org/manual/getting-started.html) · [🌐 Site ↗](https://camel.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/camel/)</sub>
 
-<a name="gorm"></a>
-### #&#8288;180 [gorm](https://github.com/go-gorm/gorm) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Oct 2026</sub>
+<a name="readyset"></a>
+### #&#8288;173 [readyset](https://github.com/readysettech/readyset) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · custom license · Nov 2026</sub>
 
-**ORM library for Go with associations, hooks, migrations and plugins.**
+**Wire-compatible caching proxy for Postgres and MySQL reads.**
 
-GORM is a Go object-relational mapper that maps structs to SQL tables. It covers associations, hooks, eager loading with Preload and Joins, nested transactions with save points, batch operations and auto migrations. A plugin API adds features such as read/write splitting across databases and Prometheus metrics. It has no AI functionality, so it fits this list only loosely.
+Readyset sits between an application and a Postgres or MySQL database and serves cached results for chosen SQL reads. It keeps the cache current by consuming the database's replication stream, so there is no manual invalidation and no app rewrite. Written in Rust, it speaks the Postgres and MySQL wire protocols, so existing ORMs and clients connect to it unchanged.
 
-- **+** Supports Has One, Has Many, Belongs To, Many To Many and polymorphic associations
-- **+** Transactions with nested transactions and save points, plus DryRun and prepared statement modes
-- **+** Plugin API for database resolver (multiple databases, read/write splitting) and Prometheus
-- **+** Companion Gen tool and documentation site at gorm.io
-- **−** Not an AI project; no model, agent or LLM features
-- **−** Library only: no server, auth, storage or hosting included
-- **−** README lists no supported databases or driver setup; those are on the docs site
-- **−** Auto migrations and hooks can hide SQL behavior from the developer
+- **+** Cache stays in sync through the database replication stream, with no manual invalidation
+- **+** Wire-compatible with Postgres and MySQL, so existing ORMs and drivers work unchanged
+- **+** Handles complex SQL reads, not just key lookups
+- **+** Install options: Docker image, Linux binary, or a curl quickstart script
+- **−** BSL 1.1 license, not OSI open source until it converts to Apache 2.0 after 4 years
+- **−** Supports only Postgres and MySQL as upstream databases
+- **−** Needs replication access to the primary database
+- **−** Managed offering (Readyset Cloud) is a separate hosted service
 
-<sub>no GPU · [Repo](https://github.com/go-gorm/gorm) · [📖 Docs ↗](https://gorm.io) · [🌐 Site ↗](https://gorm.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gorm/)</sub>
+<sub>no GPU · Compose · Needs Postgres or MySQL with replication enabled · [Repo](https://github.com/readysettech/readyset) · [▶️ Demo ↗](https://readyset.io/docs/) · [📖 Docs ↗](https://docs.readyset.io) · [🌐 Site ↗](https://readyset.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/readyset/)</sub>
 
-<a name="sequelize"></a>
-### #&#8288;181 [sequelize](https://github.com/sequelize/sequelize) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (87) · Freshness: active (94) · Maintenance: patchy (39) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · MIT · Oct 2026</sub>
+<a name="dynamic-datasource"></a>
+### #&#8288;174 [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (46) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · Apache-2.0 · Oct 2026</sub>
 
-**Promise-based Node.js ORM for Postgres, MySQL, SQLite, SQL Server and more.**
+**Spring Boot starter that routes calls to multiple datasources via @DS.**
 
-Sequelize is a TypeScript/Node.js ORM that maps models to tables across Postgres, MySQL, MariaDB, SQLite, DB2, Microsoft SQL Server, Snowflake, Oracle DB and Db2 for IBM i. It provides transactions, relations, eager and lazy loading, and read replication. Version 6 is the stable line and version 7 is in alpha.
+Java library for Spring Boot 1.5 to 4.x that picks which DataSource a method call runs against, using an @DS annotation and YAML-declared datasources. It covers read/write splitting, one-master-many-slaves groups, runtime add/remove of datasources, and local multi-datasource transactions, with Seata and Atomikos XA for distributed commits. It is a general JDBC routing library with no AI features, so it fits this list only loosely.
 
-- **+** Supports nine SQL databases, including Oracle, Snowflake, DB2 and SQL Server
-- **+** Transactions, relations, eager/lazy loading and read replication built in
-- **+** MIT license with published upgrade guides for v5 to v6 and v6 to v7
-- **+** Extensions exist for CockroachDB, YugabyteDB and GraphQL
-- **−** Not an AI project; it is a general database library
-- **−** Next major version (v7) is still alpha
-- **−** README says new maintainers are being sought to finish v7
-- **−** Library only: no hosted backend, auth or storage
+- **+** Separate starters for Spring Boot 2, 3 and 4; CI-tested on JDK 17/21/25/27 and GraalVM Native
+- **+** @DSTransactional gives local multi-datasource transactions with 7 propagation levels, no external coordinator
+- **+** Datasources can be added, removed or lazily created at runtime, useful for per-tenant databases
+- **+** Supports Druid, HikariCP, BeeCP, DBCP2, C3P0, Oracle UCP and ENC(...) encrypted credentials
+- **−** Connection pools and JDBC drivers are not bundled; you must add and align them yourself
+- **−** Full reference docs are in Chinese; the English wiki is still being migrated
+- **−** Only chooses the datasource; no sharding, schema management or ORM of its own
+- **−** Not an AI project; the repo only ships an agent skill for troubleshooting help
 
-<sub>no GPU · Needs Node.js, A supported SQL database · [Repo](https://github.com/sequelize/sequelize) · [📖 Docs ↗](https://sequelize.org/docs/v6/getting-started) · [🌐 Site ↗](https://sequelize.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sequelize/)</sub>
+<sub>no GPU · Needs Spring Boot, JDK 8+ (JDK 17+ for Boot 3/4), JDBC driver, Connection pool (Druid, HikariCP, etc.) · [Repo](https://github.com/baomidou/dynamic-datasource) · [📖 Docs ↗](https://doc.xiuceyun.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dynamic-datasource/)</sub>
+
+<a name="microfeed"></a>
+### #&#8288;175 [microfeed](https://github.com/microfeed/microfeed) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · AGPL-3.0 · Sep 2026</sub>
+
+**Headless CMS that publishes web, RSS and JSON feeds from Cloudflare Workers.**
+
+microfeed is a CMS that publishes audio, video, images, documents, posts and external links to a website, an RSS feed and a JSON Feed. It runs on Cloudflare Workers with D1 for metadata and R2 for media, and has a built-in email/password admin dashboard. Content can also be managed through an API, webhooks and the @microfeed/cli, which a local AI agent can use to deploy the site and edit content.
+
+- **+** No server to run: Workers, D1 and R2, with free-tier quotas covering small sites
+- **+** Versioned themes stored in D1, with draft preview, explicit activation and rollback
+- **+** Snapshot command exports the database, R2 bucket and migration history to one archive
+- **+** Podcast fields (Podcasting 2.0 tags, transcripts, chapters) plus OpenAPI docs and llms.txt
+- **−** Cloudflare only; other serverless platforms are not supported yet
+- **−** README describes the project as in open alpha
+- **−** AGPL-3.0 license constrains modified hosted deployments
+- **−** Snapshot archives are unencrypted and contain admin password hashes
+
+<sub>no GPU · Needs Cloudflare Workers, Cloudflare D1, Cloudflare R2 · [Repo](https://github.com/microfeed/microfeed) · [▶️ Demo ↗](https://llamacorn.listennotes.com/) · [📖 Docs ↗](https://docs.microfeed.org) · [🌐 Site ↗](https://www.microfeed.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/microfeed/)</sub>
+
+<a name="serenity"></a>
+### #&#8288;176 [serenity](https://github.com/serenity-is/serenity) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Nov 2026</sub>
+
+**ASP.NET Core and TypeScript framework for database-driven CRUD business apps.**
+
+Serenity is an MIT-licensed application platform for data-centric business apps. The Sergen generator reads database tables and produces C# rows, services, and TypeScript grids, dialogs and types. Attributes on rows drive validation, permissions, lookups and Excel export. It supports SQL Server, PostgreSQL, MySQL, Oracle, Firebird and SQLite. It has no AI features.
+
+- **+** Sergen generates rows, services, grids and dialogs from existing database tables
+- **+** C# metadata generates TypeScript types, so the C#/TypeScript boundary is checked at build time
+- **+** Row- and field-level permissions, audit logging and soft delete are built in
+- **+** Supports six databases with FluentMigrator migrations; no separate SPA to deploy
+- **−** Tied to the .NET and ASP.NET Core stack; no support for other backend languages
+- **−** Dashboards, email client and other modules are in the paid StartSharp template
+- **−** No AI or LLM features, so it fits this list only as a general app starter
+- **−** Opinionated attribute-driven approach; the generated code must be learned before customizing
+
+<sub>no GPU · Needs .NET 10 SDK, Node.js 24 LTS, SQL database (SQL Server, PostgreSQL, MySQL, Oracle, Firebird or SQLite) · port 5000 · [Repo](https://github.com/serenity-is/serenity) · [▶️ Demo ↗](https://demo.serenity.is) · [📖 Docs ↗](https://serenity.is/docs) · [🌐 Site ↗](https://serenity.is) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serenity/)</sub>
+
+<a name="arcadedb"></a>
+### #&#8288;177 [arcadedb](https://github.com/arcadedata/arcadedb) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · Apache-2.0 · Nov 2026</sub>
+
+**Multi-model database covering graph, document, key/value, time series and vectors.**
+
+ArcadeDB is an ACID database written in Java that stores graph, document, key/value, time series, vector and geospatial data in one engine. It accepts SQL, Cypher, Gremlin, GraphQL and MongoDB queries, and is reachable over HTTP/JSON, the Postgres wire protocol, and subsets of the Redis and MongoDB protocols. It also ships a built-in MCP server and a Claude Code plugin.
+
+- **+** One engine covers graph, document, key/value, time series, vector and geospatial models
+- **+** Many query languages and protocols: SQL, Cypher, Gremlin, GraphQL, Postgres wire, HTTP/JSON
+- **+** Built-in MCP server plus a Claude Code plugin for AI assistant access
+- **+** Runs embedded on the JVM, as a server, or as an experimental native image
+- **−** Redis and MongoDB drivers implement only a subset of operations
+- **−** Requires Java 21+; Java 17 is supported only on a separate branch
+- **−** GraalVM native-image build is labeled experimental
+- **−** Studio AI assistant is marked Beta
+
+<sub>no GPU · Compose · Needs Java 21+ · port 2480 · [Repo](https://github.com/arcadedata/arcadedb) · [📖 Docs ↗](https://docs.arcadedb.com) · [🌐 Site ↗](https://arcadedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/arcadedb/)</sub>
+
+<a name="harness-harness"></a>
+### #&#8288;178 [harness](https://github.com/harness/harness) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (92) · Freshness: active (97) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Nov 2026</sub>
+
+**Self-hosted Git hosting with CI pipelines, Gitspaces and artifact registries.**
+
+Harness Open Source is a Go server that combines Git repository hosting, Docker-based CI pipelines, hosted development environments (Gitspaces) and artifact registries behind one web UI and REST API. It is the successor to Drone, though pipeline parity with Drone is not yet reached. It has no AI features; it fits this list only as a self-hosted platform for building and shipping apps.
+
+- **+** Code hosting, pipelines, Gitspaces and registries in one server
+- **+** Starts with a single docker run on port 3000
+- **+** Swagger spec served at /swagger, plus a CLI for creating tokens
+- **+** Builds and runs on any OS and architecture Go supports
+- **−** Pipeline features not yet at parity with Drone, which lives on a separate branch
+- **−** Pipelines need access to the host Docker socket
+- **−** Default admin login is admin/changeit and must be changed
+- **−** Contains no AI features; the README describes only DevOps tooling
+
+<sub>no GPU · Docker · Needs Docker · port 3000 · [Repo](https://github.com/harness/harness) · [📖 Docs ↗](https://developer.harness.io/docs/open-source) · [🌐 Site ↗](https://developer.harness.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/harness-harness/)</sub>
 
 <a name="spring-cloud-alibaba"></a>
-### #&#8288;182 [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (87) · Freshness: active (91) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;179 [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (87) · Freshness: active (91) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
 
 **Spring Cloud integrations for Nacos, Sentinel, RocketMQ and Seata.**
 
@@ -3257,26 +3203,44 @@ Java library set that connects Spring Cloud applications to Alibaba middleware t
 
 <sub>no GPU · Needs Nacos, Sentinel, RocketMQ, Seata, Alibaba Cloud OSS, Alibaba Cloud SMS, Alibaba Cloud SchedulerX · [Repo](https://github.com/alibaba/spring-cloud-alibaba) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spring-cloud-alibaba/)</sub>
 
-<a name="tortoise-orm"></a>
-### #&#8288;183 [tortoise-orm](https://github.com/tortoise/tortoise-orm) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · Apache-2.0 · Nov 2026</sub>
+<a name="sqlx"></a>
+### #&#8288;180 [sqlx](https://github.com/transact-rs/sqlx) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
-**Async Python ORM with a Django-like API and built-in migrations.**
+**Async Rust SQL toolkit with compile-time checked queries and no DSL.**
 
-Tortoise ORM is an asyncio object-relational mapper for Python 3.10+ with a Django-style model and query API. It supports SQLite, PostgreSQL, MySQL, Microsoft SQL Server and Oracle, and ships a migration CLI (init, makemigrations, migrate, sqlmigrate). It is a general database library, not an AI project, so it fits the backends category as a data layer for apps.
+SQLx is a Rust crate for talking to PostgreSQL, MySQL/MariaDB and SQLite using async/await on tokio or async-std. Queries are plain SQL; the query macros connect to a development database at build time to verify syntax and types. It includes connection pooling, row streaming, statement caching, migrations and an Any driver, but it is not an ORM.
 
-- **+** Async-native API with Django-like models, filters, prefetch_related and related-field lookups
-- **+** Built-in migrations: autodetect changes, RunPython/RunSQL, reversible ops, SQL preview
-- **+** Covers SQLite, PostgreSQL, MySQL, MS SQL and Oracle, with a choice of drivers for some
-- **+** Publishes benchmarks against other Python ORMs on PostgreSQL 17
-- **−** A library only: no server, auth, storage or hosting, so it is not a full backend
-- **−** MS SQL and Oracle both go through the asyncodbc extra
-- **−** generate_schemas is development-only; production needs the migration framework
-- **−** No AI or LLM features; it is a general-purpose ORM
+- **+** Compile-time checked SQL via the query macros, verified by a development database
+- **+** Postgres and MySQL drivers in pure Rust with forbid(unsafe_code)
+- **+** Runs on tokio or async-std, with native-tls or rustls backends
+- **+** Built-in pooling, nested transactions, LISTEN/NOTIFY, migrations and offline query cache
+- **−** Not an ORM; no query builder or model layer
+- **−** Query macros need DATABASE_URL at build time or a prepared offline cache
+- **−** MSSQL support was removed in 0.7 pending a driver rewrite
+- **−** Must pick runtime and TLS feature flags from many combinations
 
-<sub>no GPU · Needs Python 3.10+, aiosqlite (SQLite default), asyncpg or psycopg (PostgreSQL), aiomysql or asyncmy (MySQL), asyncodbc (MS SQL, Oracle) · [Repo](https://github.com/tortoise/tortoise-orm) · [📖 Docs ↗](https://tortoise.github.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tortoise-orm/)</sub>
+<sub>no GPU · Needs PostgreSQL, MySQL/MariaDB or SQLite, Rust toolchain, tokio or async-std · [Repo](https://github.com/transact-rs/sqlx) · [📖 Docs ↗](https://docs.rs/sqlx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlx/)</sub>
+
+<a name="arangodb"></a>
+### #&#8288;181 [arangodb](https://github.com/arangodb/arangodb) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · custom license · Nov 2026</sub>
+
+**Multi-model database for graphs, JSON documents and full-text search via AQL.**
+
+ArangoDB is a C++ database that stores key-value pairs, JSON documents and graphs, and queries them with a single language, AQL. It includes ArangoSearch for indexing and ranked text search, and it shards and replicates data across cluster nodes with automatic failover. It is a general data backend rather than an AI starter, suited to graph or search-heavy apps.
+
+- **+** One query language (AQL) covers documents, graphs, joins and ranked full-text search
+- **+** Horizontal sharding, replication and automatic failover in cluster mode
+- **+** Schema-free by default, with optional schema validation and multi-collection transactions
+- **+** Runs on-prem, in the cloud or as a managed service (Arango Managed Platform)
+- **−** SmartGraphs, SmartJoins, Hot Backups and Encryption 360 are listed as Enterprise features
+- **−** Community Edition has no stated dataset limit removal; Enterprise is needed for unlimited size
+- **−** AQL is specific to ArangoDB, so SQL or Cypher queries need rewriting
+- **−** No tagged GitHub release; packages come from the vendor download page
+
+<sub>no GPU · port 8529 · [Repo](https://github.com/arangodb/arangodb) · [📖 Docs ↗](https://docs.arango.ai/) · [🌐 Site ↗](https://arango.ai/downloads/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/arangodb/)</sub>
 
 <a name="uptrace-bun"></a>
-### #&#8288;184 [bun](https://github.com/uptrace/bun) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;182 [bun](https://github.com/uptrace/bun) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · BSD-2-Clause · Nov 2026</sub>
 
 **SQL-first Go ORM for PostgreSQL, MySQL, MSSQL, SQLite and Oracle.**
 
@@ -3294,7 +3258,7 @@ Bun is a Go library built on database/sql that maps structs to tables and lets y
 <sub>no GPU · Needs A SQL database (PostgreSQL, MySQL/MariaDB, MSSQL, SQLite or Oracle) · [Repo](https://github.com/uptrace/bun) · [📖 Docs ↗](https://bun.uptrace.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uptrace-bun/)</sub>
 
 <a name="drift"></a>
-### #&#8288;185 [drift](https://github.com/simolus3/drift) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Nov 2026</sub>
+### #&#8288;183 [drift](https://github.com/simolus3/drift) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (33) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Nov 2026</sub>
 
 **Reactive SQLite persistence library for Flutter and Dart with generated type-safe queries.**
 
@@ -3311,8 +3275,80 @@ Drift is a Dart and Flutter library on top of SQLite. Tables and queries are wri
 
 <sub>no GPU · Docker · Needs SQLite · [Repo](https://github.com/simolus3/drift) · [📖 Docs ↗](https://drift.simonbinder.eu/docs/getting-started/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/drift/)</sub>
 
+<a name="gorm"></a>
+### #&#8288;184 [gorm](https://github.com/go-gorm/gorm) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 40k · MIT · Oct 2026</sub>
+
+**ORM library for Go with associations, hooks, migrations and plugins.**
+
+GORM is a Go object-relational mapper that maps structs to SQL tables. It covers associations, hooks, eager loading with Preload and Joins, nested transactions with save points, batch operations and auto migrations. A plugin API adds features such as read/write splitting across databases and Prometheus metrics. It has no AI functionality, so it fits this list only loosely.
+
+- **+** Supports Has One, Has Many, Belongs To, Many To Many and polymorphic associations
+- **+** Transactions with nested transactions and save points, plus DryRun and prepared statement modes
+- **+** Plugin API for database resolver (multiple databases, read/write splitting) and Prometheus
+- **+** Companion Gen tool and documentation site at gorm.io
+- **−** Not an AI project; no model, agent or LLM features
+- **−** Library only: no server, auth, storage or hosting included
+- **−** README lists no supported databases or driver setup; those are on the docs site
+- **−** Auto migrations and hooks can hide SQL behavior from the developer
+
+<sub>no GPU · [Repo](https://github.com/go-gorm/gorm) · [📖 Docs ↗](https://gorm.io) · [🌐 Site ↗](https://gorm.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gorm/)</sub>
+
+<a name="sequelize"></a>
+### #&#8288;185 [sequelize](https://github.com/sequelize/sequelize) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (88) · Freshness: active (94) · Maintenance: patchy (39) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · MIT · Oct 2026</sub>
+
+**Promise-based Node.js ORM for Postgres, MySQL, SQLite, SQL Server and more.**
+
+Sequelize is a TypeScript/Node.js ORM that maps models to tables across Postgres, MySQL, MariaDB, SQLite, DB2, Microsoft SQL Server, Snowflake, Oracle DB and Db2 for IBM i. It provides transactions, relations, eager and lazy loading, and read replication. Version 6 is the stable line and version 7 is in alpha.
+
+- **+** Supports nine SQL databases, including Oracle, Snowflake, DB2 and SQL Server
+- **+** Transactions, relations, eager/lazy loading and read replication built in
+- **+** MIT license with published upgrade guides for v5 to v6 and v6 to v7
+- **+** Extensions exist for CockroachDB, YugabyteDB and GraphQL
+- **−** Not an AI project; it is a general database library
+- **−** Next major version (v7) is still alpha
+- **−** README says new maintainers are being sought to finish v7
+- **−** Library only: no hosted backend, auth or storage
+
+<sub>no GPU · Needs Node.js, A supported SQL database · [Repo](https://github.com/sequelize/sequelize) · [📖 Docs ↗](https://sequelize.org/docs/v6/getting-started) · [🌐 Site ↗](https://sequelize.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sequelize/)</sub>
+
+<a name="tortoise-orm"></a>
+### #&#8288;186 [tortoise-orm](https://github.com/tortoise/tortoise-orm) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.6k · Apache-2.0 · Nov 2026</sub>
+
+**Async Python ORM with a Django-like API and built-in migrations.**
+
+Tortoise ORM is an asyncio object-relational mapper for Python 3.10+ with a Django-style model and query API. It supports SQLite, PostgreSQL, MySQL, Microsoft SQL Server and Oracle, and ships a migration CLI (init, makemigrations, migrate, sqlmigrate). It is a general database library, not an AI project, so it fits the backends category as a data layer for apps.
+
+- **+** Async-native API with Django-like models, filters, prefetch_related and related-field lookups
+- **+** Built-in migrations: autodetect changes, RunPython/RunSQL, reversible ops, SQL preview
+- **+** Covers SQLite, PostgreSQL, MySQL, MS SQL and Oracle, with a choice of drivers for some
+- **+** Publishes benchmarks against other Python ORMs on PostgreSQL 17
+- **−** A library only: no server, auth, storage or hosting, so it is not a full backend
+- **−** MS SQL and Oracle both go through the asyncodbc extra
+- **−** generate_schemas is development-only; production needs the migration framework
+- **−** No AI or LLM features; it is a general-purpose ORM
+
+<sub>no GPU · Needs Python 3.10+, aiosqlite (SQLite default), asyncpg or psycopg (PostgreSQL), aiomysql or asyncmy (MySQL), asyncodbc (MS SQL, Oracle) · [Repo](https://github.com/tortoise/tortoise-orm) · [📖 Docs ↗](https://tortoise.github.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tortoise-orm/)</sub>
+
+<a name="graphql-php"></a>
+### #&#8288;187 [graphql-php](https://github.com/webonyx/graphql-php) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
+
+**PHP implementation of the GraphQL specification, ported from graphql-js.**
+
+graphql-php is a PHP library for building GraphQL servers, based on the JavaScript reference implementation graphql-js. It installs with Composer and is compliant with the October 2021 GraphQL specification, with September 2025 compliance in progress. It is a library rather than a starter app, so you wire it into your own HTTP framework.
+
+- **+** Fully compliant with the October 2021 GraphQL specification
+- **+** Semantic Versioning, with public API elements marked @api in PHPDoc
+- **+** Examples directory with a README per example
+- **+** Docs site includes a class reference; MIT license
+- **−** Repository is planned to move to a new home
+- **−** Only the latest version is actively developed; older ones mainly for sponsors
+- **−** September 2025 specification compliance is still in progress
+- **−** Library only: no HTTP server, UI or AI features included
+
+<sub>no GPU · Needs PHP, Composer · [Repo](https://github.com/webonyx/graphql-php) · [📖 Docs ↗](https://webonyx.github.io/graphql-php) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-php/)</sub>
+
 <a name="remult"></a>
-### #&#8288;186 [remult](https://github.com/remult/remult) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (31) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Nov 2026</sub>
+### #&#8288;188 [remult](https://github.com/remult/remult) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Nov 2026</sub>
 
 **TypeScript entity library that generates CRUD, realtime API and typed client.**
 
@@ -3330,7 +3366,7 @@ Remult uses decorated TypeScript entity classes as a single definition for a RES
 <sub>no GPU · Needs Node.js, PostgreSQL, MySQL, SQLite, MongoDB, MSSQL or Oracle · [Repo](https://github.com/remult/remult) · [▶️ Demo ↗](https://learn.remult.dev/) · [📖 Docs ↗](https://remult.dev/docs) · [🌐 Site ↗](https://remult.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/remult/)</sub>
 
 <a name="matrixone"></a>
-### #&#8288;187 [matrixone](https://github.com/matrixorigin/matrixone) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;189 [matrixone](https://github.com/matrixorigin/matrixone) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
 
 **MySQL-compatible HTAP database with Git-style snapshots and vector search.**
 
@@ -3346,8 +3382,26 @@ MatrixOne is a Go database that speaks the MySQL protocol and runs transactional
 
 <sub>no GPU · [Repo](https://github.com/matrixorigin/matrixone) · [🌐 Site ↗](https://www.matrixorigin.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matrixone/)</sub>
 
+<a name="vercel"></a>
+### #&#8288;190 [vercel](https://github.com/vercel/vercel) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
+
+**Source for the Vercel CLI and builders that deploy apps on git push.**
+
+This is the source repository for the Vercel CLI (`vercel` and `vc`) and the builder packages that deploy projects to the hosted Vercel platform. It is a pnpm and Turborepo monorepo written in TypeScript, with an optional native CLI binary published as `@vercel/vc-native`. It is a deployment tool, not an AI app starter, so it fits this list only loosely.
+
+- **+** Deploys from `git push`, the CLI, or the project import flow
+- **+** Install with `npm i -g vercel`; optional native binary via `@vercel/vc-native`
+- **+** Unit tests run on Vitest; local CLI changes run with `pnpm vercel`
+- **+** Apache-2.0 licensed, with a release in July 2026
+- **−** Deploys to the proprietary hosted Vercel platform; README describes no self-hosting
+- **−** Integration tests need a Vercel account, access token and team ID
+- **−** README describes no AI features or starter code
+- **−** Contributors are asked to discuss changes on Vercel Community before opening a PR
+
+<sub>no GPU · Needs Vercel account, Node.js, pnpm · [Repo](https://github.com/vercel/vercel) · [📖 Docs ↗](https://vercel.com/docs) · [🌐 Site ↗](https://vercel.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel/)</sub>
+
 <a name="apitable"></a>
-### #&#8288;188 [apitable](https://github.com/apitable/apitable) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · AGPL-3.0 · Sep 2026</sub>
+### #&#8288;191 [apitable](https://github.com/apitable/apitable) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · AGPL-3.0 · Sep 2026</sub>
 
 **Self-hosted collaborative database-spreadsheet with REST API, forms and automations.**
 
@@ -3365,7 +3419,7 @@ APITable is a visual database with a spreadsheet-style UI, built on TypeScript (
 <sub>RAM ≥ 8 GB · no GPU · Compose · Needs Docker, Docker Compose v2 · port 80 · [Repo](https://github.com/apitable/apitable) · [▶️ Demo ↗](https://gitpod.io/#https://github.com/apitable/apitable) · [📖 Docs ↗](https://developers.aitable.ai/) · [🌐 Site ↗](https://aitable.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apitable/)</sub>
 
 <a name="ubicloud"></a>
-### #&#8288;189 [ubicloud](https://github.com/ubicloud/ubicloud) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;192 [ubicloud](https://github.com/ubicloud/ubicloud) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · AGPL-3.0 · Nov 2026</sub>
 
 **Open-source IaaS control plane for VMs, Postgres and Kubernetes on bare metal.**
 
@@ -3383,7 +3437,7 @@ Ubicloud is a Ruby control plane (Roda, Sequel, Postgres) that turns leased bare
 <sub>Docker · Needs PostgreSQL, Docker, Bare metal servers (Hetzner, Leaseweb, AWS Bare Metal), Ubuntu 24.04 on data plane hosts · port 3000 · [Repo](https://github.com/ubicloud/ubicloud) · [📖 Docs ↗](https://www.ubicloud.com/docs/architecture/attribute-based-access-control-abac) · [🌐 Site ↗](https://console.ubicloud.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ubicloud/)</sub>
 
 <a name="ihp"></a>
-### #&#8288;190 [ihp](https://github.com/digitallyinduced/ihp) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Nov 2026</sub>
+### #&#8288;193 [ihp](https://github.com/digitallyinduced/ihp) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (48) · Freshness: active (100) · Maintenance: patchy (46) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Nov 2026</sub>
 
 **Haskell web framework with type-safe routing, queries and HTML templates.**
 
@@ -3401,7 +3455,7 @@ IHP is a full-stack Haskell web framework built on Nix, with type-safe routing, 
 <sub>no GPU · Needs Nix, devenv, PostgreSQL, GHC · Models: OpenAI (via ihp-openai) · [Repo](https://github.com/digitallyinduced/ihp) · [📖 Docs ↗](https://ihp.digitallyinduced.com/Guide/) · [🌐 Site ↗](https://ihp.digitallyinduced.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ihp/)</sub>
 
 <a name="spring-cloud-gateway"></a>
-### #&#8288;191 [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.9k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;194 [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.9k · Apache-2.0 · Nov 2026</sub>
 
 **API gateway for Spring Boot 3 with route predicates and per-route filters.**
 
@@ -3418,26 +3472,8 @@ Spring Cloud Gateway is a Java API gateway built on Spring Framework 6 and Sprin
 
 <sub>no GPU · Needs JDK 17, Maven, Spring Boot 3, Docker (tests needing Redis) · [Repo](https://github.com/spring-cloud/spring-cloud-gateway) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spring-cloud-gateway/)</sub>
 
-<a name="graphql-php"></a>
-### #&#8288;192 [graphql-php](https://github.com/webonyx/graphql-php) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
-
-**PHP implementation of the GraphQL specification, ported from graphql-js.**
-
-graphql-php is a PHP library for building GraphQL servers, based on the JavaScript reference implementation graphql-js. It installs with Composer and is compliant with the October 2021 GraphQL specification, with September 2025 compliance in progress. It is a library rather than a starter app, so you wire it into your own HTTP framework.
-
-- **+** Fully compliant with the October 2021 GraphQL specification
-- **+** Semantic Versioning, with public API elements marked @api in PHPDoc
-- **+** Examples directory with a README per example
-- **+** Docs site includes a class reference; MIT license
-- **−** Repository is planned to move to a new home
-- **−** Only the latest version is actively developed; older ones mainly for sponsors
-- **−** September 2025 specification compliance is still in progress
-- **−** Library only: no HTTP server, UI or AI features included
-
-<sub>no GPU · Needs PHP, Composer · [Repo](https://github.com/webonyx/graphql-php) · [📖 Docs ↗](https://webonyx.github.io/graphql-php) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql-php/)</sub>
-
 <a name="octelium"></a>
-### #&#8288;193 [octelium](https://github.com/octelium/octelium) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;195 [octelium](https://github.com/octelium/octelium) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · AGPL-3.0 · Nov 2026</sub>
 
 **Self-hosted zero trust access platform with VPN, tunnels, API and AI gateway.**
 
@@ -3455,7 +3491,7 @@ Octelium is a Kubernetes-based, identity-aware proxy platform that gives humans 
 <sub>RAM ≥ 2 GB · no GPU · Needs Kubernetes, Linux VM or server (Ubuntu 24.04+ or Debian 12+), Domain name · [Repo](https://github.com/octelium/octelium) · [▶️ Demo ↗](https://github.com/octelium/playground) · [📖 Docs ↗](https://octelium.com/docs/octelium/latest/overview/intro) · [🌐 Site ↗](https://octelium.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/octelium/)</sub>
 
 <a name="rbatis"></a>
-### #&#8288;194 [rbatis](https://github.com/rbatis/rbatis) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;196 [rbatis](https://github.com/rbatis/rbatis) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
 
 **Rust ORM and dynamic SQL compiler using compile-time code generation.**
 
@@ -3473,7 +3509,7 @@ Rbatis is a Rust ORM that compiles dynamic SQL written in py_sql, MyBatis-style 
 <sub>no GPU · Needs Rust toolchain, Tokio, A database such as MySQL, PostgreSQL, SQLite or MSSQL · [Repo](https://github.com/rbatis/rbatis) · [📖 Docs ↗](https://docs.rs/rbatis/) · [🌐 Site ↗](https://rbatis.github.io/rbatis.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rbatis/)</sub>
 
 <a name="nornicdb"></a>
-### #&#8288;195 [nornicdb](https://github.com/orneryd/nornicdb) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 932 · MIT · Nov 2026</sub>
+### #&#8288;197 [nornicdb](https://github.com/orneryd/nornicdb) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 932 · MIT · Nov 2026</sub>
 
 **Neo4j-compatible graph database with vector search and historical reads.**
 
@@ -3491,7 +3527,7 @@ NornicDB is a graph database written in Go that accepts Cypher queries over Bolt
 <sub>GPU optional · Docker + Compose · Models: BGE embeddings (bundled in -bge images) · port 7474 · [Repo](https://github.com/orneryd/nornicdb) · [📖 Docs ↗](https://orneryd.github.io/NornicDB/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nornicdb/)</sub>
 
 <a name="bex"></a>
-### #&#8288;196 [bex](https://github.com/bex-co/bex) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 847 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;198 [bex](https://github.com/bex-co/bex) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 847 · Apache-2.0 · Nov 2026</sub>
 
 **Open-source Render-style PaaS that deploys from Git, operable by agents via MCP.**
 
@@ -3509,7 +3545,7 @@ bex is a self-hostable platform-as-a-service written in Go that deploys Dockerfi
 <sub>no GPU · Docker · Needs Docker or OrbStack, Go 1.25+, kubectl, kind, clusterctl, Cluster API, PostgreSQL, Zot registry · README: alternative to Heroku · [Repo](https://github.com/bex-co/bex) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bex/)</sub>
 
 <a name="kratos"></a>
-### #&#8288;197 [kratos](https://github.com/go-kratos/kratos) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · MIT · Oct 2026</sub>
+### #&#8288;199 [kratos](https://github.com/go-kratos/kratos) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · MIT · Oct 2026</sub>
 
 **Go microservice framework with HTTP/gRPC transport and Protobuf code generation.**
 
@@ -3526,26 +3562,8 @@ Kratos is a Go framework for building microservices. It provides a unified HTTP 
 
 <sub>no GPU · Needs Go 1.25+, protoc, protoc-gen-go · port 8000 · [Repo](https://github.com/go-kratos/kratos) · [📖 Docs ↗](https://go-kratos.dev/docs/getting-started/start) · [🌐 Site ↗](https://go-kratos.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kratos/)</sub>
 
-<a name="vercel"></a>
-### #&#8288;198 [vercel](https://github.com/vercel/vercel) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: weak (24) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Nov 2026</sub>
-
-**Source for the Vercel CLI and builders that deploy apps on git push.**
-
-This is the source repository for the Vercel CLI (`vercel` and `vc`) and the builder packages that deploy projects to the hosted Vercel platform. It is a pnpm and Turborepo monorepo written in TypeScript, with an optional native CLI binary published as `@vercel/vc-native`. It is a deployment tool, not an AI app starter, so it fits this list only loosely.
-
-- **+** Deploys from `git push`, the CLI, or the project import flow
-- **+** Install with `npm i -g vercel`; optional native binary via `@vercel/vc-native`
-- **+** Unit tests run on Vitest; local CLI changes run with `pnpm vercel`
-- **+** Apache-2.0 licensed, with a release in July 2026
-- **−** Deploys to the proprietary hosted Vercel platform; README describes no self-hosting
-- **−** Integration tests need a Vercel account, access token and team ID
-- **−** README describes no AI features or starter code
-- **−** Contributors are asked to discuss changes on Vercel Community before opening a PR
-
-<sub>no GPU · Needs Vercel account, Node.js, pnpm · [Repo](https://github.com/vercel/vercel) · [📖 Docs ↗](https://vercel.com/docs) · [🌐 Site ↗](https://vercel.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel/)</sub>
-
 <a name="gitpod"></a>
-### #&#8288;199 [gitpod](https://github.com/gitpod-io/gitpod) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (70) · Freshness: recent (70) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;200 [gitpod](https://github.com/gitpod-io/gitpod) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (70) · Freshness: recent (70) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · AGPL-3.0 · Nov 2026</sub>
 
 **Cloud development environments configured per repo with .gitpod.yml.**
 
@@ -3563,7 +3581,7 @@ Gitpod Classic starts ephemeral, Docker-based Linux workspaces in the cloud from
 <sub>Needs GitHub, GitLab, Bitbucket or Azure DevOps · [Repo](https://github.com/gitpod-io/gitpod) · [📖 Docs ↗](https://www.gitpod.io/docs) · [🌐 Site ↗](https://www.gitpod.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gitpod/)</sub>
 
 <a name="docker-node"></a>
-### #&#8288;200 [docker-node](https://github.com/nodejs/docker-node) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · MIT · Nov 2026</sub>
+### #&#8288;201 [docker-node](https://github.com/nodejs/docker-node) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · MIT · Nov 2026</sub>
 
 **Source for the official Node.js Docker base images on Docker Hub.**
 
@@ -3581,7 +3599,7 @@ Dockerfiles and build automation for the official `node` images, which bundle No
 <sub>no GPU · Needs Docker · [Repo](https://github.com/nodejs/docker-node) · [🌐 Site ↗](https://hub.docker.com/_/node) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-node/)</sub>
 
 <a name="medoo"></a>
-### #&#8288;201 [medoo](https://github.com/catfan/medoo) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.9k · MIT · Oct 2026</sub>
+### #&#8288;202 [medoo](https://github.com/catfan/medoo) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.9k · MIT · Oct 2026</sub>
 
 **Single-file PHP database library with a query builder over PDO.**
 
@@ -3599,7 +3617,7 @@ Medoo is a PHP library that wraps PDO with a array-based API for insert, select 
 <sub>no GPU · Needs PHP 7.3 or later, PDO extension, Composer · [Repo](https://github.com/catfan/medoo) · [📖 Docs ↗](https://medoo.in) · [🌐 Site ↗](https://medoo.in) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/medoo/)</sub>
 
 <a name="ergo"></a>
-### #&#8288;202 [ergo](https://github.com/ergo-services/ergo) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
+### #&#8288;203 [ergo](https://github.com/ergo-services/ergo) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
 
 **Actor model framework for Go with supervision trees and clustering.**
 
@@ -3617,7 +3635,7 @@ Ergo is a Go framework modeled on Erlang/OTP. Isolated processes exchange messag
 <sub>no GPU · [Repo](https://github.com/ergo-services/ergo) · [📖 Docs ↗](https://docs.ergo.services) · [🌐 Site ↗](https://ergo.services) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ergo/)</sub>
 
 <a name="memgraph"></a>
-### #&#8288;203 [memgraph](https://github.com/memgraph/memgraph) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (41) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
+### #&#8288;204 [memgraph](https://github.com/memgraph/memgraph) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
 
 **In-memory graph database with vector search for GraphRAG and analytics.**
 
@@ -3635,7 +3653,7 @@ Memgraph is an in-memory graph database written in C/C++ that speaks Neo4j-compa
 <sub>GPU optional · [Repo](https://github.com/memgraph/memgraph) · [📖 Docs ↗](https://memgraph.com/docs) · [🌐 Site ↗](https://memgraph.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/memgraph/)</sub>
 
 <a name="kubeblocks"></a>
-### #&#8288;204 [kubeblocks](https://github.com/apecloud/kubeblocks) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (30) · Freshness: active (91) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;205 [kubeblocks](https://github.com/apecloud/kubeblocks) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (31) · Freshness: active (91) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · AGPL-3.0 · Nov 2026</sub>
 
 **Kubernetes operator managing many database engines through one set of CRDs.**
 
@@ -3653,7 +3671,7 @@ KubeBlocks is a Go-based Kubernetes operator that uses a unified Cluster CRD to 
 <sub>no GPU · Docker · Needs Kubernetes, Prometheus, Grafana · [Repo](https://github.com/apecloud/kubeblocks) · [📖 Docs ↗](https://kubeblocks.io/docs/preview/user_docs/overview/install-kubeblocks) · [🌐 Site ↗](https://kubeblocks.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubeblocks/)</sub>
 
 <a name="mall"></a>
-### #&#8288;205 [mall](https://github.com/macrozheng/mall) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (99) · Freshness: recent (70) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;206 [mall](https://github.com/macrozheng/mall) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: widely used (99) · Freshness: recent (70) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 85k · Apache-2.0 · Sep 2026</sub>
 
 **Spring Boot e-commerce backend with admin and storefront APIs.**
 
@@ -3671,7 +3689,7 @@ mall is a Java e-commerce system built on Spring Boot 3.5, JDK 17 and MyBatis. I
 <sub>no GPU · Needs MySQL 5.7, Redis 7.0, MongoDB 5.0, RabbitMQ 3.10.5, Elasticsearch 7.17.3, Nginx 1.22, MinIO or Aliyun OSS, Logstash and Kibana (optional) · [Repo](https://github.com/macrozheng/mall) · [▶️ Demo ↗](https://www.macrozheng.com/admin/index.html) · [📖 Docs ↗](https://www.macrozheng.com) · [🌐 Site ↗](https://www.macrozheng.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mall/)</sub>
 
 <a name="couchdb"></a>
-### #&#8288;206 [couchdb](https://github.com/apache/couchdb) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;207 [couchdb](https://github.com/apache/couchdb) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · Apache-2.0 · Nov 2026</sub>
 
 **Document database with an HTTP API, Fauxton admin UI and clustering.**
 
@@ -3688,8 +3706,25 @@ Apache CouchDB is a database written in Erlang, accessed over HTTP, and it ships
 
 <sub>no GPU · Needs Erlang, haproxy (optional, dev cluster) · port 5984 · [Repo](https://github.com/apache/couchdb) · [📖 Docs ↗](https://docs.couchdb.org/) · [🌐 Site ↗](https://couchdb.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/couchdb/)</sub>
 
+<a name="goravel"></a>
+### #&#8288;208 [goravel](https://github.com/goravel/goravel) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.9k · MIT · Nov 2026</sub>
+
+**Laravel-style web application framework for Go.**
+
+Goravel is a Go web framework that mirrors Laravel's structure and APIs, so PHP developers can reuse their conventions. It ships modules for HTTP routing, ORM, migrations, queues, task scheduling, JWT and session auth, cache, mail, gRPC and an Artisan-style CLI. It is a general backend scaffold with no AI-specific features.
+
+- **+** Broad built-in module set: ORM, migrations, queues, scheduler, mail, validation, gRPC
+- **+** Laravel-like API and Artisan console lower the learning curve for PHP developers
+- **+** Auth with JWT and session drivers, plus gates and policies for authorization
+- **+** MIT licensed, with a separate docs site and example repo
+- **−** No AI or model integration; it is a generic web framework
+- **−** Laravel-style facades and conventions may feel unidiomatic to Go developers
+- **−** Extensions come from separate packages rather than the core
+
+<sub>no GPU · Docker + Compose · Needs Go · [Repo](https://github.com/goravel/goravel) · [📖 Docs ↗](https://www.goravel.dev) · [🌐 Site ↗](https://www.goravel.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goravel/)</sub>
+
 <a name="tenancy"></a>
-### #&#8288;207 [tenancy](https://github.com/archtechx/tenancy) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (39) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · MIT · Nov 2026</sub>
+### #&#8288;209 [tenancy](https://github.com/archtechx/tenancy) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (40) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · MIT · Nov 2026</sub>
 
 **Laravel package that adds multi-tenancy without changing application code.**
 
@@ -3707,7 +3742,7 @@ stancl/tenancy is a PHP package that makes an existing Laravel app multi-tenant.
 <sub>no GPU · Docker + Compose · Needs Laravel, PHP · [Repo](https://github.com/archtechx/tenancy) · [📖 Docs ↗](https://v4.tenancyforlaravel.com) · [🌐 Site ↗](https://tenancyforlaravel.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tenancy/)</sub>
 
 <a name="nestjs"></a>
-### #&#8288;208 [nestjs](https://github.com/golevelup/nestjs) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
+### #&#8288;210 [nestjs](https://github.com/golevelup/nestjs) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · MIT · Nov 2026</sub>
 
 **NestJS modules for RabbitMQ, Stripe, Hasura, Pub/Sub and webhooks.**
 
@@ -3725,7 +3760,7 @@ Monorepo of npm packages under the @golevelup scope that add integrations and ut
 <sub>no GPU · Compose · Needs NestJS, RabbitMQ, Stripe, Hasura, Google Cloud Pub/Sub, Graphile Worker · [Repo](https://github.com/golevelup/nestjs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nestjs/)</sub>
 
 <a name="faas"></a>
-### #&#8288;209 [faas](https://github.com/openfaas/faas) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: widely used (85) · Freshness: recent (78) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · custom license · Oct 2026</sub>
+### #&#8288;211 [faas](https://github.com/openfaas/faas) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: widely used (85) · Freshness: recent (78) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · custom license · Oct 2026</sub>
 
 **Serverless functions platform with auto-scaling and language templates.**
 
@@ -3743,7 +3778,7 @@ OpenFaaS packages code or an existing binary as an OCI image and runs it as an H
 <sub>Needs Kubernetes, OpenShift or faasd, OCI/Docker images, faas-cli · [Repo](https://github.com/openfaas/faas) · [📖 Docs ↗](https://docs.openfaas.com) · [🌐 Site ↗](https://www.openfaas.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/faas/)</sub>
 
 <a name="airbyte"></a>
-### #&#8288;210 [airbyte](https://github.com/airbytehq/airbyte) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: widely used (81) · Freshness: active (82) · Maintenance: patchy (38) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
+### #&#8288;212 [airbyte](https://github.com/airbytehq/airbyte) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: widely used (82) · Freshness: active (82) · Maintenance: patchy (38) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · custom license · Nov 2026</sub>
 
 **ELT platform with 700+ connectors for moving data into warehouses, lakes and AI agents.**
 
@@ -3760,25 +3795,26 @@ Airbyte syncs data from APIs, databases and files into warehouses, lakes and AI 
 
 <sub>no GPU · [Repo](https://github.com/airbytehq/airbyte) · [▶️ Demo ↗](https://demo.airbyte.io/) · [📖 Docs ↗](https://docs.airbyte.com/) · [🌐 Site ↗](https://airbyte.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/airbyte/)</sub>
 
-<a name="goravel"></a>
-### #&#8288;211 [goravel](https://github.com/goravel/goravel) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (43) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.9k · MIT · Nov 2026</sub>
+<a name="squidex"></a>
+### #&#8288;213 [squidex](https://github.com/squidex/squidex) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
 
-**Laravel-style web application framework for Go.**
+**Headless CMS with REST API, OData filtering and Swagger, built on ASP.NET Core.**
 
-Goravel is a Go web framework that mirrors Laravel's structure and APIs, so PHP developers can reuse their conventions. It ships modules for HTTP routing, ORM, migrations, queues, task scheduling, JWT and session auth, cache, mail, gRPC and an Artisan-style CLI. It is a general backend scaffold with no AI-specific features.
+Squidex is a headless content management system written in C# on ASP.NET Core with a CQRS architecture. It exposes content through an API with OData filters and Swagger definitions, and leaves the front end to you. It stores data in MongoDB, PostgreSQL, MySQL or SQL Server and has no AI features described in the README.
 
-- **+** Broad built-in module set: ORM, migrations, queues, scheduler, mail, validation, gRPC
-- **+** Laravel-like API and Artisan console lower the learning curve for PHP developers
-- **+** Auth with JWT and session drivers, plus gates and policies for authorization
-- **+** MIT licensed, with a separate docs site and example repo
-- **−** No AI or model integration; it is a generic web framework
-- **−** Laravel-style facades and conventions may feel unidiomatic to Go developers
-- **−** Extensions come from separate packages rather than the core
+- **+** API with OData filtering and Swagger definitions for client generation
+- **+** Supports MongoDB, PostgreSQL, MySQL or SQL Server as the data store
+- **+** Deployment guides for Azure, AWS, GCP, Kubernetes, Docker, Heroku, Render, Vultr and IIS
+- **+** MIT license, with an optional hosted cloud version
+- **−** No built-in front end; you build the UI on top of the API
+- **−** Documentation is described as work in progress
+- **−** Requires the .NET 8 SDK for development, plus Node.js
+- **−** No AI features or AI-specific starters in the README
 
-<sub>no GPU · Docker + Compose · Needs Go · [Repo](https://github.com/goravel/goravel) · [📖 Docs ↗](https://www.goravel.dev) · [🌐 Site ↗](https://www.goravel.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goravel/)</sub>
+<sub>no GPU · Docker · Needs MongoDB, PostgreSQL, MySQL or SQL Server, .NET 8 SDK (development), Node.js (development only) · [Repo](https://github.com/squidex/squidex) · [📖 Docs ↗](https://docs.squidex.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/squidex/)</sub>
 
 <a name="dante-cloud"></a>
-### #&#8288;212 [dante-cloud](https://github.com/dromara/dante-cloud) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 971 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;214 [dante-cloud](https://github.com/dromara/dante-cloud) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 971 · Apache-2.0 · Nov 2026</sub>
 
 **Spring Cloud microservice base that also runs as a monolith from one codebase.**
 
@@ -3796,7 +3832,7 @@ Dante Cloud is a Java microservice foundation built on Spring Boot 4.1, Spring C
 <sub>no GPU · Needs JDK 25+, Nacos, Dante Engine, Spring Boot Admin, EMQX, Minio · [Repo](https://github.com/dromara/dante-cloud) · [📖 Docs ↗](https://www.herodotus.cn) · [🌐 Site ↗](https://www.herodotus.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dante-cloud/)</sub>
 
 <a name="conduit"></a>
-### #&#8288;213 [conduit](https://github.com/conduitplatform/conduit) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
+### #&#8288;215 [conduit](https://github.com/conduitplatform/conduit) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
 
 **Modular backend with auth, database, storage and generated REST/GraphQL APIs.**
 
@@ -3813,62 +3849,8 @@ Conduit is a self-hosted backend built from ready-made modules: authentication, 
 
 <sub>no GPU · Docker + Compose · Needs Docker, Docker Compose, MongoDB or PostgreSQL · [Repo](https://github.com/conduitplatform/conduit) · [📖 Docs ↗](https://getconduit.dev/docs/overview/intro) · [🌐 Site ↗](https://getconduit.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/conduit/)</sub>
 
-<a name="squidex"></a>
-### #&#8288;214 [squidex](https://github.com/squidex/squidex) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
-
-**Headless CMS with REST API, OData filtering and Swagger, built on ASP.NET Core.**
-
-Squidex is a headless content management system written in C# on ASP.NET Core with a CQRS architecture. It exposes content through an API with OData filters and Swagger definitions, and leaves the front end to you. It stores data in MongoDB, PostgreSQL, MySQL or SQL Server and has no AI features described in the README.
-
-- **+** API with OData filtering and Swagger definitions for client generation
-- **+** Supports MongoDB, PostgreSQL, MySQL or SQL Server as the data store
-- **+** Deployment guides for Azure, AWS, GCP, Kubernetes, Docker, Heroku, Render, Vultr and IIS
-- **+** MIT license, with an optional hosted cloud version
-- **−** No built-in front end; you build the UI on top of the API
-- **−** Documentation is described as work in progress
-- **−** Requires the .NET 8 SDK for development, plus Node.js
-- **−** No AI features or AI-specific starters in the README
-
-<sub>no GPU · Docker · Needs MongoDB, PostgreSQL, MySQL or SQL Server, .NET 8 SDK (development), Node.js (development only) · [Repo](https://github.com/squidex/squidex) · [📖 Docs ↗](https://docs.squidex.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/squidex/)</sub>
-
-<a name="fjall"></a>
-### #&#8288;215 [fjall](https://github.com/fjall-rs/fjall) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
-
-**Embeddable LSM-tree key-value storage engine for Rust applications.**
-
-Fjall is a log-structured key-value store written in safe Rust, used as a library via `cargo add fjall`. It offers a thread-safe BTreeMap-like API with range and prefix iteration, multiple keyspaces with cross-keyspace atomicity, LZ4 compression, and optional serializable transactions. It is not a database server and has no query language. It has no AI features.
-
-- **+** 100% safe, stable Rust; embeds in-process with no server to run
-- **+** Optimistic or single-writer serializable transactions over an MVCC LSM-tree
-- **+** Optional key-value separation for large blobs and custom compaction filters
-- **+** Stable disk format; breaking changes come with a major version and migration path
-- **−** Rust-only library; no server, network protocol or query language
-- **−** A database cannot be opened by multiple processes at once
-- **−** Default writes reach OS buffers only; disk durability needs an explicit persist call
-- **−** Not an AI project; fits this list only loosely as a storage backend
-
-<sub>no GPU · [Repo](https://github.com/fjall-rs/fjall) · [📖 Docs ↗](https://docs.rs/fjall) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fjall/)</sub>
-
-<a name="openchoreo"></a>
-### #&#8288;216 [openchoreo](https://github.com/openchoreo/openchoreo) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Nov 2026</sub>
-
-**Kubernetes developer platform with Backstage portal, CI, GitOps and observability.**
-
-OpenChoreo is a CNCF Sandbox developer platform for Kubernetes, written in Go. A control plane maps high-level abstractions (components, endpoints, dependencies, environments) onto Kubernetes resources, alongside data, observability and optional CI planes. Platform teams define ComponentTypes, Traits and Workflows as CRDs, and developers use a Backstage-based portal, CLI, GitOps or AI agents.
-
-- **+** Platform API is Kubernetes CRDs: ComponentTypes, Traits and Workflows, no custom controllers
-- **+** Separate control, data, observability and optional CI planes operate independently
-- **+** Default CI uses Buildpacks and Argo Workflows; deploys from source or prebuilt image
-- **+** Ships Backstage portal, RBAC and observability, so less glue to assemble
-- **−** Requires a Kubernetes cluster; heavier to run than a single-host PaaS
-- **−** Opinionated component and platform model has to be learned and mapped to
-- **−** Not a general backend or database host; scope is deploying and operating workloads
-- **−** CNCF Sandbox stage; roadmap items are still being scheduled by quarter
-
-<sub>no GPU · Docker · Needs Kubernetes, Backstage, Argo Workflows, Buildpacks · [Repo](https://github.com/openchoreo/openchoreo) · [📖 Docs ↗](https://openchoreo.dev/docs/getting-started/quick-start-guide/) · [🌐 Site ↗](https://openchoreo.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openchoreo/)</sub>
-
 <a name="neo4j"></a>
-### #&#8288;217 [neo4j](https://github.com/neo4j/neo4j) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (77) · Freshness: recent (70) · Maintenance: fair (55) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · GPL-3.0 · Oct 2026</sub>
+### #&#8288;216 [neo4j](https://github.com/neo4j/neo4j) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (77) · Freshness: recent (70) · Maintenance: fair (55) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · GPL-3.0 · Oct 2026</sub>
 
 **Graph database with ACID transactions, storing nodes and relationships.**
 
@@ -3886,7 +3868,7 @@ Neo4j is a Java graph database that stores data as nodes and relationships and q
 <sub>no GPU · Needs Java 21 (JDK), Apache Maven 3.9.11+ (build only) · port 7474 · [Repo](https://github.com/neo4j/neo4j) · [🌐 Site ↗](https://neo4j.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/neo4j/)</sub>
 
 <a name="hanami"></a>
-### #&#8288;218 [hanami](https://github.com/hanami/hanami) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
+### #&#8288;217 [hanami](https://github.com/hanami/hanami) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
 
 **Full-stack Ruby web framework built from small, separable libraries.**
 
@@ -3902,26 +3884,26 @@ Hanami is a Ruby web framework that combines a Rack-compatible router, actions, 
 
 <sub>no GPU · Needs Ruby, Bundler · port 2300 · [Repo](https://github.com/hanami/hanami) · [📖 Docs ↗](https://guides.hanamirb.org/getting-started/) · [🌐 Site ↗](https://hanamirb.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hanami/)</sub>
 
-<a name="serverpod"></a>
-### #&#8288;219 [serverpod](https://github.com/serverpod/serverpod) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Nov 2026</sub>
+<a name="fjall"></a>
+### #&#8288;218 [fjall](https://github.com/fjall-rs/fjall) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
 
-**Dart backend for Flutter apps with generated client code and ORM.**
+**Embeddable LSM-tree key-value storage engine for Rust applications.**
 
-Serverpod is an app and web server written in Dart for Flutter projects. It generates client code and models by analyzing the server's endpoints, and includes an ORM, database migrations, caching, authentication, file uploads, streaming and scheduled future calls. Terraform scripts cover deployment to Google Cloud Platform and AWS.
+Fjall is a log-structured key-value store written in safe Rust, used as a library via `cargo add fjall`. It offers a thread-safe BTreeMap-like API with range and prefix iteration, multiple keyspaces with cross-keyspace atomicity, LZ4 compression, and optional serializable transactions. It is not a database server and has no query language. It has no AI features.
 
-- **+** Generates typed client code and models from server endpoints, so remote calls look like local methods
-- **+** Built-in ORM with Dart types and null-safety, plus a database migration system
-- **+** Distributed cache (local or Redis), authenticated socket streaming and persistent future calls
-- **+** Terraform scripts for Google Cloud Platform and AWS
-- **−** Main serverpod package is SSPL, not BSD-3; other packages are BSD-3
-- **−** Server code must be written in Dart, which limits it mostly to Flutter teams
-- **−** Built-in web server is described as experimental
-- **−** Listed auth providers are Google, Apple, Firebase and email; others need custom work
+- **+** 100% safe, stable Rust; embeds in-process with no server to run
+- **+** Optimistic or single-writer serializable transactions over an MVCC LSM-tree
+- **+** Optional key-value separation for large blobs and custom compaction filters
+- **+** Stable disk format; breaking changes come with a major version and migration path
+- **−** Rust-only library; no server, network protocol or query language
+- **−** A database cannot be opened by multiple processes at once
+- **−** Default writes reach OS buffers only; disk durability needs an explicit persist call
+- **−** Not an AI project; fits this list only loosely as a storage backend
 
-<sub>no GPU · Docker · Needs Database, Redis (optional, for shared cache) · [Repo](https://github.com/serverpod/serverpod) · [📖 Docs ↗](https://docs.serverpod.dev) · [🌐 Site ↗](https://serverpod.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverpod/)</sub>
+<sub>no GPU · [Repo](https://github.com/fjall-rs/fjall) · [📖 Docs ↗](https://docs.rs/fjall) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fjall/)</sub>
 
 <a name="data-client"></a>
-### #&#8288;220 [data-client](https://github.com/reactive/data-client) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;219 [data-client](https://github.com/reactive/data-client) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Nov 2026</sub>
 
 **Normalized client-side data cache for React with REST, GraphQL and websocket support.**
 
@@ -3938,8 +3920,62 @@ TypeScript library that defines API resources with schemas (Entity, Collection, 
 
 <sub>no GPU · Needs React, npm · [Repo](https://github.com/reactive/data-client) · [▶️ Demo ↗](https://stackblitz.com/github/reactive/data-client/tree/master/examples/todo-app?file=src%2Fpages%2FHome%2FTodoList.tsx) · [📖 Docs ↗](https://dataclient.io/docs) · [🌐 Site ↗](https://dataclient.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/data-client/)</sub>
 
+<a name="openchoreo"></a>
+### #&#8288;220 [openchoreo](https://github.com/openchoreo/openchoreo) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Nov 2026</sub>
+
+**Kubernetes developer platform with Backstage portal, CI, GitOps and observability.**
+
+OpenChoreo is a CNCF Sandbox developer platform for Kubernetes, written in Go. A control plane maps high-level abstractions (components, endpoints, dependencies, environments) onto Kubernetes resources, alongside data, observability and optional CI planes. Platform teams define ComponentTypes, Traits and Workflows as CRDs, and developers use a Backstage-based portal, CLI, GitOps or AI agents.
+
+- **+** Platform API is Kubernetes CRDs: ComponentTypes, Traits and Workflows, no custom controllers
+- **+** Separate control, data, observability and optional CI planes operate independently
+- **+** Default CI uses Buildpacks and Argo Workflows; deploys from source or prebuilt image
+- **+** Ships Backstage portal, RBAC and observability, so less glue to assemble
+- **−** Requires a Kubernetes cluster; heavier to run than a single-host PaaS
+- **−** Opinionated component and platform model has to be learned and mapped to
+- **−** Not a general backend or database host; scope is deploying and operating workloads
+- **−** CNCF Sandbox stage; roadmap items are still being scheduled by quarter
+
+<sub>no GPU · Docker · Needs Kubernetes, Backstage, Argo Workflows, Buildpacks · [Repo](https://github.com/openchoreo/openchoreo) · [📖 Docs ↗](https://openchoreo.dev/docs/getting-started/quick-start-guide/) · [🌐 Site ↗](https://openchoreo.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openchoreo/)</sub>
+
+<a name="h5i"></a>
+### #&#8288;221 [h5i](https://github.com/h5i-dev/h5i) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 936 · Apache-2.0 · Nov 2026</sub>
+
+**Rust web framework with Lean 4 verifiable kernels and a red-teaming CLI.**
+
+h5i is an Axum-based Rust web framework (h5i-app) that separates application logic into a kernel, translates it to Lean 4 with Aeneas, and lets you prove properties about it. The same kernel can run on servers, on bare-metal devices through a no_std HTTP/1.1 server, and on GPUs with CPU fallback. A separate CLI covers browser automation, HTTP replay, recon crawling, YAML security tests for CI, sandboxes for running agents, and a local dashboard.
+
+- **+** Rust application logic can be extracted to Lean 4 and proved with h5i app prove
+- **+** Same kernel targets servers, no_std embedded devices and GPUs with CPU fallback
+- **+** Axum-compatible, so it deploys to Cloudflare Workers, Vercel and Fly.io
+- **+** Red-team, test and sandbox tooling works without adopting h5i-app
+- **−** Formal verification requires Lean 4 and Aeneas knowledge, a steep learning curve
+- **−** Framework crate is at version 0.5.6, so the API may still change
+- **−** Install is a curl-piped shell script rather than a plain cargo install
+- **−** Scope spans framework, pentest tooling and sandboxes, which makes it broad to adopt
+
+<sub>GPU optional · Docker · Needs Lean 4, Aeneas, Postgres (optional feature) · [Repo](https://github.com/h5i-dev/h5i) · [🌐 Site ↗](https://h5i.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/h5i/)</sub>
+
+<a name="serverpod"></a>
+### #&#8288;222 [serverpod](https://github.com/serverpod/serverpod) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · BSD-3-Clause · Nov 2026</sub>
+
+**Dart backend for Flutter apps with generated client code and ORM.**
+
+Serverpod is an app and web server written in Dart for Flutter projects. It generates client code and models by analyzing the server's endpoints, and includes an ORM, database migrations, caching, authentication, file uploads, streaming and scheduled future calls. Terraform scripts cover deployment to Google Cloud Platform and AWS.
+
+- **+** Generates typed client code and models from server endpoints, so remote calls look like local methods
+- **+** Built-in ORM with Dart types and null-safety, plus a database migration system
+- **+** Distributed cache (local or Redis), authenticated socket streaming and persistent future calls
+- **+** Terraform scripts for Google Cloud Platform and AWS
+- **−** Main serverpod package is SSPL, not BSD-3; other packages are BSD-3
+- **−** Server code must be written in Dart, which limits it mostly to Flutter teams
+- **−** Built-in web server is described as experimental
+- **−** Listed auth providers are Google, Apple, Firebase and email; others need custom work
+
+<sub>no GPU · Docker · Needs Database, Redis (optional, for shared cache) · [Repo](https://github.com/serverpod/serverpod) · [📖 Docs ↗](https://docs.serverpod.dev) · [🌐 Site ↗](https://serverpod.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverpod/)</sub>
+
 <a name="wrangler-action"></a>
-### #&#8288;221 [wrangler-action](https://github.com/cloudflare/wrangler-action) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;223 [wrangler-action](https://github.com/cloudflare/wrangler-action) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Sep 2026</sub>
 
 **GitHub Action that runs Wrangler to deploy Cloudflare Workers and Pages.**
 
@@ -3957,7 +3993,7 @@ A GitHub Action that installs and runs Wrangler (v4 by default, v3 selectable) i
 <sub>no GPU · Needs GitHub Actions, Cloudflare account and API token, Wrangler (npm) · [Repo](https://github.com/cloudflare/wrangler-action) · [📖 Docs ↗](https://developers.cloudflare.com/workers/wrangler/ci-cd/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wrangler-action/)</sub>
 
 <a name="nuxt-hub-core"></a>
-### #&#8288;222 [core](https://github.com/nuxt-hub/core) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;224 [core](https://github.com/nuxt-hub/core) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Nuxt module adding SQL database, blob storage, cache and KV to Nuxt apps.**
 
@@ -3973,26 +4009,26 @@ NuxtHub (@nuxthub/core) is a Nuxt module that adds optional server-side features
 
 <sub>no GPU · [Repo](https://github.com/nuxt-hub/core) · [📖 Docs ↗](https://hub.nuxt.com/docs/getting-started/installation) · [🌐 Site ↗](https://hub.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-hub-core/)</sub>
 
-<a name="h5i"></a>
-### #&#8288;223 [h5i](https://github.com/h5i-dev/h5i) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 936 · Apache-2.0 · Nov 2026</sub>
+<a name="feder-cr-git-ai"></a>
+### #&#8288;225 [git-ai](https://github.com/feder-cr/git-ai) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Nov 2026</sub>
 
-**Rust web framework with Lean 4 verifiable kernels and a red-teaming CLI.**
+**Git server for coding agents that lands concurrent changes by compare-and-swap.**
 
-h5i is an Axum-based Rust web framework (h5i-app) that separates application logic into a kernel, translates it to Lean 4 with Aeneas, and lets you prove properties about it. The same kernel can run on servers, on bare-metal devices through a no_std HTTP/1.1 server, and on GPUs with CPU fallback. A separate CLI covers browser automation, HTTP replay, recon crawling, YAML security tests for CI, sandboxes for running agents, and a local dashboard.
+gitai is a fork of GitLab's Gitaly that implements the server-centric source control design Anthropic described for Scion. Agents fetch sparse trees over gRPC, and changes are rebased and landed with a compare-and-swap, batched per branch instead of queued. Conflicts can go to a resolver you choose (any LLM, a deterministic tool, or none), and the server itself never calls a model.
 
-- **+** Rust application logic can be extracted to Lean 4 and proved with h5i app prove
-- **+** Same kernel targets servers, no_std embedded devices and GPUs with CPU fallback
-- **+** Axum-compatible, so it deploys to Cloudflare Workers, Vercel and Fly.io
-- **+** Red-team, test and sandbox tooling works without adopting h5i-app
-- **−** Formal verification requires Lean 4 and Aeneas knowledge, a steep learning curve
-- **−** Framework crate is at version 0.5.6, so the API may still change
-- **−** Install is a curl-piped shell script rather than a plain cargo install
-- **−** Scope spans framework, pentest tooling and sandboxes, which makes it broad to adopt
+- **+** Batched landing: 200 of 250 changes landed vs 100-106 classic in the 50-agent benchmark
+- **+** Vendor neutral: server makes no LLM calls; resolvers are pluggable or optional
+- **+** Changeset log in SQLite or PostgreSQL, with packs in object storage and stateless nodes
+- **+** Per-agent tokens, RPC allowlist and branch policies; policy reloads on SIGUSR1
+- **−** Version 0.4.2; interfaces may change before 1.0
+- **−** Multi-node tested only on one machine; S3, GCS and Azure buckets untested
+- **−** Build needs Go 1.26, a C toolchain, Meson and Ninja; no Docker image mentioned
+- **−** Benchmark was run on the 0.3.0 tree and not repeated for 0.4.0
 
-<sub>GPU optional · Docker · Needs Lean 4, Aeneas, Postgres (optional feature) · [Repo](https://github.com/h5i-dev/h5i) · [🌐 Site ↗](https://h5i.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/h5i/)</sub>
+<sub>no GPU · Needs Go 1.26, C toolchain, Meson, Ninja, SQLite or PostgreSQL, object storage (file, S3, GCS, Azure) · Models: any LLM provider for optional conflict resolution · [Repo](https://github.com/feder-cr/git-ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/feder-cr-git-ai/)</sub>
 
 <a name="gun"></a>
-### #&#8288;224 [gun](https://github.com/amark/gun) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (79) · Freshness: recent (70) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
+### #&#8288;226 [gun](https://github.com/amark/gun) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (80) · Freshness: recent (70) · Maintenance: patchy (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
 
 **Decentralized realtime graph database that syncs peer-to-peer in browsers and Node.**
 
@@ -4010,7 +4046,7 @@ GUN is a JavaScript graph synchronization engine that stores key/value, document
 <sub>no GPU · Docker · Needs Node.js, npm, @peculiar/webcrypto (Node/React Native, for SEA) · [Repo](https://github.com/amark/gun) · [▶️ Demo ↗](http://try.axe.eco/) · [📖 Docs ↗](https://gun.eco/docs/API) · [🌐 Site ↗](https://gun.eco/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gun/)</sub>
 
 <a name="badger"></a>
-### #&#8288;225 [badger](https://github.com/dgraph-io/badger) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;227 [badger](https://github.com/dgraph-io/badger) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Oct 2026</sub>
 
 **Embeddable key-value database for Go with ACID transactions.**
 
@@ -4028,7 +4064,7 @@ BadgerDB is an embeddable, persistent key-value store written in pure Go, with n
 <sub>no GPU · Needs Go 1.23 or above · [Repo](https://github.com/dgraph-io/badger) · [📖 Docs ↗](https://badger.dgraph.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/badger/)</sub>
 
 <a name="et"></a>
-### #&#8288;226 [et](https://github.com/egametang/et) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · custom license · Aug 2026</sub>
+### #&#8288;228 [et](https://github.com/egametang/et) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · custom license · Aug 2026</sub>
 
 **C# Unity and .NET MMO game framework with AI coding skills and analyzers.**
 
@@ -4045,8 +4081,26 @@ ET10 is a C# framework for online games, with a Unity client and a distributed .
 
 <sub>no GPU · Needs Unity, NET SDK, MongoDB · [Repo](https://github.com/egametang/et) · [🌐 Site ↗](https://et-framework.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/et/)</sub>
 
+<a name="supabase-py"></a>
+### #&#8288;229 [supabase-py](https://github.com/supabase/supabase-py) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (27) · Freshness: active (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+
+**Python client libraries for Supabase auth, database, storage, functions and realtime.**
+
+Monorepo of the official Python SDKs for Supabase services: supabase, supabase_auth, postgrest, storage3, supabase_functions, realtime and supabase_utils. It targets Python 3.12 and later, is pure Python, and is tested on Linux. The main branch holds v3, which is in early development; v2 on its own branch only gets critical and security fixes.
+
+- **+** Covers auth, PostgREST, storage, edge functions and realtime as separate packages
+- **+** Pure Python, expected to run on any CPython platform
+- **+** Supported Python versions are defined and tested in CI
+- **+** MIT licensed, with a release in November 2026
+- **−** Main branch is v3, in early development; no external issues or contributions accepted
+- **−** v2 branch receives only critical bug and security fixes
+- **−** Compatibility guaranteed only with the latest release of each Supabase service
+- **−** Requires Python 3.12 or newer; PyPy is untested
+
+<sub>no GPU · Needs Supabase project or self-hosted Supabase services, Python 3.12+ · [Repo](https://github.com/supabase/supabase-py) · [📖 Docs ↗](https://supabase.com/docs/reference/python/introduction) · [🌐 Site ↗](https://supabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabase-py/)</sub>
+
 <a name="nitric"></a>
-### #&#8288;227 [nitric](https://github.com/nitrictech/nitric) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;230 [nitric](https://github.com/nitrictech/nitric) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Oct 2026</sub>
 
 **Multi-language backend framework that infers cloud infrastructure from app code.**
 
@@ -4064,7 +4118,7 @@ Nitric is a Go-based CLI and framework where you declare APIs, buckets, queues, 
 <sub>no GPU · Needs Pulumi or Terraform (deployment), AWS, GCP or Azure account (deployment) · [Repo](https://github.com/nitrictech/nitric) · [📖 Docs ↗](https://nitric.io/docs) · [🌐 Site ↗](https://nitric.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nitric/)</sub>
 
 <a name="data-api-builder"></a>
-### #&#8288;228 [data-api-builder](https://github.com/azure/data-api-builder) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;231 [data-api-builder](https://github.com/azure/data-api-builder) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Generates REST, GraphQL and MCP endpoints from SQL and Cosmos DB schemas.**
 
@@ -4081,26 +4135,8 @@ Data API builder (DAB) reads a JSON config and exposes tables, views and stored 
 
 <sub>no GPU · Docker · Needs NET 8 runtime or later, One of: Azure SQL, SQL Server, SQLDW, Cosmos DB, PostgreSQL, MySQL · port 5000 · [Repo](https://github.com/azure/data-api-builder) · [📖 Docs ↗](https://learn.microsoft.com/azure/data-api-builder/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/data-api-builder/)</sub>
 
-<a name="feder-cr-git-ai"></a>
-### #&#8288;229 [git-ai](https://github.com/feder-cr/git-ai) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Nov 2026</sub>
-
-**Git server for coding agents that lands concurrent changes by compare-and-swap.**
-
-gitai is a fork of GitLab's Gitaly that implements the server-centric source control design Anthropic described for Scion. Agents fetch sparse trees over gRPC, and changes are rebased and landed with a compare-and-swap, batched per branch instead of queued. Conflicts can go to a resolver you choose (any LLM, a deterministic tool, or none), and the server itself never calls a model.
-
-- **+** Batched landing: 200 of 250 changes landed vs 100-106 classic in the 50-agent benchmark
-- **+** Vendor neutral: server makes no LLM calls; resolvers are pluggable or optional
-- **+** Changeset log in SQLite or PostgreSQL, with packs in object storage and stateless nodes
-- **+** Per-agent tokens, RPC allowlist and branch policies; policy reloads on SIGUSR1
-- **−** Version 0.4.2; interfaces may change before 1.0
-- **−** Multi-node tested only on one machine; S3, GCS and Azure buckets untested
-- **−** Build needs Go 1.26, a C toolchain, Meson and Ninja; no Docker image mentioned
-- **−** Benchmark was run on the 0.3.0 tree and not repeated for 0.4.0
-
-<sub>no GPU · Needs Go 1.26, C toolchain, Meson, Ninja, SQLite or PostgreSQL, object storage (file, S3, GCS, Azure) · Models: any LLM provider for optional conflict resolution · [Repo](https://github.com/feder-cr/git-ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/feder-cr-git-ai/)</sub>
-
 <a name="ent"></a>
-### #&#8288;230 [ent](https://github.com/ent/ent) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (76) · Freshness: active (95) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;232 [ent](https://github.com/ent/ent) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (77) · Freshness: active (95) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · Apache-2.0 · Oct 2026</sub>
 
 **Entity framework for Go that generates typed database code from schemas.**
 
@@ -4117,8 +4153,26 @@ ent models a database schema as Go code and generates a statically typed API for
 
 <sub>no GPU · Needs MySQL, MariaDB, TiDB, PostgreSQL, CockroachDB, SQLite, Gremlin · [Repo](https://github.com/ent/ent) · [📖 Docs ↗](https://entgo.io) · [🌐 Site ↗](https://entgo.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ent/)</sub>
 
+<a name="loopback-next"></a>
+### #&#8288;233 [loopback-next](https://github.com/loopbackio/loopback-next) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (46) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · custom license · Nov 2026</sub>
+
+**TypeScript framework for building REST APIs defined with OpenAPI.**
+
+LoopBack 4 is a TypeScript framework for building API servers that integrate with other systems. A CLI (`npm create loopback` or `npx -p @loopback/cli lb app`) generates projects, and data and endpoints are defined with OpenAPI. It has no AI features, so it is a general backend framework rather than an AI starter.
+
+- **+** Generates API projects from a single CLI command
+- **+** Endpoints and data are defined with OpenAPI
+- **+** Separate API reference, tutorials and examples on the docs site
+- **+** Supports Node.js 22 and 24 LTS
+- **−** No built-in AI, model or agent support
+- **−** No LTS version of LoopBack 4 is offered yet
+- **−** No Docker or compose files in the repository
+- **−** Detected license is NOASSERTION, though the README says MIT
+
+<sub>no GPU · Needs Node.js · [Repo](https://github.com/loopbackio/loopback-next) · [📖 Docs ↗](https://loopback.io/doc/en/lb4/) · [🌐 Site ↗](https://loopback.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/loopback-next/)</sub>
+
 <a name="platform"></a>
-### #&#8288;231 [platform](https://github.com/orchidsoftware/platform) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (42) · Freshness: active (95) · Maintenance: fair (56) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
+### #&#8288;234 [platform](https://github.com/orchidsoftware/platform) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (43) · Freshness: active (95) · Maintenance: fair (56) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
 
 **Laravel package for building admin panels and back-office apps in PHP.**
 
@@ -4135,8 +4189,26 @@ Orchid is a Laravel package for building admin panels, back-office apps and dash
 
 <sub>no GPU · Needs Laravel, PHP · [Repo](https://github.com/orchidsoftware/platform) · [📖 Docs ↗](https://orchid.software/en/docs) · [🌐 Site ↗](https://orchid.software/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/platform/)</sub>
 
+<a name="absinthe"></a>
+### #&#8288;235 [absinthe](https://github.com/absinthe-graphql/absinthe) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · custom license · Oct 2026</sub>
+
+**GraphQL server library for Elixir with Phoenix, Plug and Relay support.**
+
+Absinthe implements the GraphQL spec for Elixir. Schemas are defined with macros that are checked at compile time, and the query pipeline (parser, validations, resolution) can be swapped or extended. It is a Hex dependency, not an AI project, and has no model or LLM features.
+
+- **+** Schema macros are verified at compile time, catching structure errors before runtime
+- **+** Batched and async field resolution addresses N+1 query problems
+- **+** Complexity analysis with configurable limits, plus precompiled documents to block custom queries
+- **+** Pipeline is configurable per document: parser, validations and resolution can be replaced
+- **−** Elixir only; requires Elixir 1.10 or higher
+- **−** Library, not a standalone server: auth, storage and database must be built separately
+- **−** No AI, LLM or MCP functionality, so it is outside this list's usual scope
+- **−** README shows version ~> 1.7.0 and the license is not detected automatically
+
+<sub>no GPU · Needs Elixir 1.10+, Hex · [Repo](https://github.com/absinthe-graphql/absinthe) · [📖 Docs ↗](https://hexdocs.pm/absinthe) · [🌐 Site ↗](https://absinthe-graphql.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/absinthe/)</sub>
+
 <a name="mongoengine"></a>
-### #&#8288;232 [mongoengine](https://github.com/mongoengine/mongoengine) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (38) · Freshness: active (94) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Sep 2026</sub>
+### #&#8288;236 [mongoengine](https://github.com/mongoengine/mongoengine) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (39) · Freshness: active (94) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Sep 2026</sub>
 
 **Python object-document mapper for MongoDB built on PyMongo.**
 
@@ -4154,7 +4226,7 @@ MongoEngine maps Python classes to MongoDB collections, with typed fields, valid
 <sub>no GPU · Docker + Compose · Needs MongoDB, PyMongo >=4.0, Python >=3.10 · [Repo](https://github.com/mongoengine/mongoengine) · [📖 Docs ↗](https://mongoengine-odm.readthedocs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mongoengine/)</sub>
 
 <a name="apl-core"></a>
-### #&#8288;233 [apl-core](https://github.com/linode/apl-core) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;237 [apl-core](https://github.com/linode/apl-core) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Nov 2026</sub>
 
 **Kubernetes platform bundling Istio, Argo CD, Keycloak, Harbor and Tekton.**
 
@@ -4172,7 +4244,7 @@ App Platform (APL) installs a pre-integrated set of Kubernetes apps onto an LKE 
 <sub>no GPU · Docker + Compose · Needs Kubernetes cluster · [Repo](https://github.com/linode/apl-core) · [📖 Docs ↗](https://techdocs.akamai.com/app-platform/docs/getting-started) · [🌐 Site ↗](https://techdocs.akamai.com/app-platform/docs/welcome) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apl-core/)</sub>
 
 <a name="fusio"></a>
-### #&#8288;234 [fusio](https://github.com/apioo/fusio) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;238 [fusio](https://github.com/apioo/fusio) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
 
 **PHP API gateway and management platform with developer portal and MCP support.**
 
@@ -4190,7 +4262,7 @@ Fusio is a self-hosted PHP backend that exposes databases and custom actions (PH
 <sub>no GPU · Needs MySQL, PostgreSQL or SQLite, Nginx or Apache (production), Ollama, OpenAI or Gemini (optional, AI agent) · Models: Ollama, ChatGPT, Gemini · port 8080 · [Repo](https://github.com/apioo/fusio) · [▶️ Demo ↗](https://demo.fusio-project.org) · [📖 Docs ↗](https://docs.fusio-project.org/) · [🌐 Site ↗](https://www.fusio-project.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fusio/)</sub>
 
 <a name="busabase"></a>
-### #&#8288;235 [busabase](https://github.com/busabase/busabase) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 929 · MIT · Nov 2026</sub>
+### #&#8288;239 [busabase](https://github.com/busabase/busabase) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 929 · MIT · Nov 2026</sub>
 
 **Shared database and workspace where multiple AI agents read and write reviewed records.**
 
@@ -4207,44 +4279,8 @@ Busabase is a workspace of typed records, docs, files, skills, whiteboards, work
 
 <sub>no GPU · Needs Postgres (optional), S3-compatible storage (optional) · port 15419 · [Repo](https://github.com/busabase/busabase) · [📖 Docs ↗](https://busabase.com/docs) · [🌐 Site ↗](https://busabase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/busabase/)</sub>
 
-<a name="loopback-next"></a>
-### #&#8288;236 [loopback-next](https://github.com/loopbackio/loopback-next) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · custom license · Nov 2026</sub>
-
-**TypeScript framework for building REST APIs defined with OpenAPI.**
-
-LoopBack 4 is a TypeScript framework for building API servers that integrate with other systems. A CLI (`npm create loopback` or `npx -p @loopback/cli lb app`) generates projects, and data and endpoints are defined with OpenAPI. It has no AI features, so it is a general backend framework rather than an AI starter.
-
-- **+** Generates API projects from a single CLI command
-- **+** Endpoints and data are defined with OpenAPI
-- **+** Separate API reference, tutorials and examples on the docs site
-- **+** Supports Node.js 22 and 24 LTS
-- **−** No built-in AI, model or agent support
-- **−** No LTS version of LoopBack 4 is offered yet
-- **−** No Docker or compose files in the repository
-- **−** Detected license is NOASSERTION, though the README says MIT
-
-<sub>no GPU · Needs Node.js · [Repo](https://github.com/loopbackio/loopback-next) · [📖 Docs ↗](https://loopback.io/doc/en/lb4/) · [🌐 Site ↗](https://loopback.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/loopback-next/)</sub>
-
-<a name="absinthe"></a>
-### #&#8288;237 [absinthe](https://github.com/absinthe-graphql/absinthe) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · custom license · Oct 2026</sub>
-
-**GraphQL server library for Elixir with Phoenix, Plug and Relay support.**
-
-Absinthe implements the GraphQL spec for Elixir. Schemas are defined with macros that are checked at compile time, and the query pipeline (parser, validations, resolution) can be swapped or extended. It is a Hex dependency, not an AI project, and has no model or LLM features.
-
-- **+** Schema macros are verified at compile time, catching structure errors before runtime
-- **+** Batched and async field resolution addresses N+1 query problems
-- **+** Complexity analysis with configurable limits, plus precompiled documents to block custom queries
-- **+** Pipeline is configurable per document: parser, validations and resolution can be replaced
-- **−** Elixir only; requires Elixir 1.10 or higher
-- **−** Library, not a standalone server: auth, storage and database must be built separately
-- **−** No AI, LLM or MCP functionality, so it is outside this list's usual scope
-- **−** README shows version ~> 1.7.0 and the license is not detected automatically
-
-<sub>no GPU · Needs Elixir 1.10+, Hex · [Repo](https://github.com/absinthe-graphql/absinthe) · [📖 Docs ↗](https://hexdocs.pm/absinthe) · [🌐 Site ↗](https://absinthe-graphql.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/absinthe/)</sub>
-
 <a name="ignite"></a>
-### #&#8288;238 [ignite](https://github.com/apache/ignite) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;240 [ignite](https://github.com/apache/ignite) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (45) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed in-memory database with SQL, ACID transactions and compute APIs.**
 
@@ -4262,7 +4298,7 @@ Apache Ignite is a distributed database written in Java that keeps data in memor
 <sub>no GPU · [Repo](https://github.com/apache/ignite) · [📖 Docs ↗](https://ignite.apache.org/docs/latest/) · [🌐 Site ↗](https://ignite.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ignite/)</sub>
 
 <a name="zappa"></a>
-### #&#8288;239 [zappa](https://github.com/zappa/zappa) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (34) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
+### #&#8288;241 [zappa](https://github.com/zappa/zappa) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
 
 **CLI that deploys Python WSGI and ASGI apps to AWS Lambda and API Gateway.**
 
@@ -4280,7 +4316,7 @@ Zappa packages a Python web app with its virtualenv dependencies, uploads it to 
 <sub>no GPU · Needs AWS account, AWS Lambda, API Gateway, S3, Python 3.9-3.14 · [Repo](https://github.com/zappa/zappa) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zappa/)</sub>
 
 <a name="spring-boot-starter"></a>
-### #&#8288;240 [spring-boot-starter](https://github.com/mybatis/spring-boot-starter) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;242 [spring-boot-starter](https://github.com/mybatis/spring-boot-starter) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (38) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Nov 2026</sub>
 
 **Spring Boot auto-configuration and starters for the MyBatis SQL mapper.**
 
@@ -4298,7 +4334,7 @@ Java library that auto-configures MyBatis inside Spring Boot applications, with 
 <sub>no GPU · Needs Java 17+, Spring Boot, MyBatis 3.5, MyBatis-Spring · [Repo](https://github.com/mybatis/spring-boot-starter) · [📖 Docs ↗](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure) · [🌐 Site ↗](https://mybatis.org/spring-boot-starter/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spring-boot-starter/)</sub>
 
 <a name="agensgraph"></a>
-### #&#8288;241 [agensgraph](https://github.com/skaiworldwide-oss/agensgraph) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;243 [agensgraph](https://github.com/skaiworldwide-oss/agensgraph) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Oct 2026</sub>
 
 **PostgreSQL fork with a built-in property graph queried via SQL, openCypher and GQL.**
 
@@ -4316,7 +4352,7 @@ AgensGraph is a fork of PostgreSQL, not an extension, that stores graphs and rel
 <sub>no GPU · Models: pgvector embeddings, MCP clients, LangChain, LlamaIndex, LightRAG · [Repo](https://github.com/skaiworldwide-oss/agensgraph) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agensgraph/)</sub>
 
 <a name="tile38"></a>
-### #&#8288;242 [tile38](https://github.com/tidwall/tile38) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: weak (18) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
+### #&#8288;244 [tile38](https://github.com/tidwall/tile38) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: weak (18) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
 
 **In-memory geospatial database with spatial search and realtime geofencing.**
 
@@ -4334,7 +4370,7 @@ Tile38 is a Go server that stores lat/lon points, bounding boxes, Geohashes, and
 <sub>no GPU · Docker · port 9851 · [Repo](https://github.com/tidwall/tile38) · [📖 Docs ↗](https://tile38.com/commands) · [🌐 Site ↗](https://tile38.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tile38/)</sub>
 
 <a name="beanie"></a>
-### #&#8288;243 [beanie](https://github.com/beanieodm/beanie) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;245 [beanie](https://github.com/beanieodm/beanie) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · Apache-2.0 · Oct 2026</sub>
 
 **Async Python ODM for MongoDB with Pydantic models.**
 
@@ -4352,7 +4388,7 @@ Beanie maps MongoDB collections to Pydantic-based Document classes and exposes a
 <sub>no GPU · Needs MongoDB, Pydantic, PyMongo · [Repo](https://github.com/beanieodm/beanie) · [📖 Docs ↗](https://beanie-odm.dev) · [🌐 Site ↗](https://beanie-odm.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/beanie/)</sub>
 
 <a name="webman"></a>
-### #&#8288;244 [webman](https://github.com/walkor/webman) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (26) · Freshness: active (93) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
+### #&#8288;246 [webman](https://github.com/walkor/webman) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (27) · Freshness: active (93) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
 
 **PHP web framework built on the workerman event-driven server.**
 
@@ -4369,7 +4405,7 @@ webman is a PHP web framework built on workerman, a resident-memory PHP server, 
 <sub>no GPU · Docker + Compose · Needs PHP, workerman · [Repo](https://github.com/walkor/webman) · [📖 Docs ↗](https://webman.workerman.net) · [🌐 Site ↗](https://www.workerman.net/webman) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/webman/)</sub>
 
 <a name="madong-admin-saas"></a>
-### #&#8288;245 [madong-admin-saas](https://github.com/madong-code/madong-admin-saas) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;247 [madong-admin-saas](https://github.com/madong-code/madong-admin-saas) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
 
 **Multi-tenant PHP admin backend on Webman with tenant isolation and plugins.**
 
@@ -4387,7 +4423,7 @@ Madong-Saas is the server side of a multi-tenant admin system built on the Webma
 <sub>no GPU · Needs PHP 8.2-8.4, Composer 2.x, MySQL 5.7/8.0, Redis 5.0+ · port 8500 · [Repo](https://github.com/madong-code/madong-admin-saas) · [📖 Docs ↗](https://madong.tech) · [🌐 Site ↗](https://madong.tech) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/madong-admin-saas/)</sub>
 
 <a name="madong-admin"></a>
-### #&#8288;246 [madong-admin](https://github.com/madong-code/madong-admin) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;248 [madong-admin](https://github.com/madong-code/madong-admin) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · Apache-2.0 · Nov 2026</sub>
 
 **PHP Webman admin backend with plugins, code generator and two admin UIs.**
 
@@ -4405,7 +4441,7 @@ Madong is a PHP 8.2–8.4 backend for admin panels, built on Webman 2.2 with MyS
 <sub>no GPU · Needs PHP 8.2-8.4, MySQL 8.0+, Redis 7.0+, Composer 2.x, Node.js with pnpm, Nginx or Apache · port 8500 · [Repo](https://github.com/madong-code/madong-admin) · [▶️ Demo ↗](http://v5.madong.tech/admin) · [📖 Docs ↗](https://madong.tech) · [🌐 Site ↗](https://madong.tech) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/madong-admin/)</sub>
 
 <a name="wcdb"></a>
-### #&#8288;247 [wcdb](https://github.com/tencent/wcdb) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (66) · Freshness: active (95) · Maintenance: weak (12) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Oct 2026</sub>
+### #&#8288;249 [wcdb](https://github.com/tencent/wcdb) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (67) · Freshness: active (95) · Maintenance: weak (12) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Oct 2026</sub>
 
 **SQLite and SQLCipher-based embedded database with ORM for mobile and desktop apps.**
 
@@ -4423,7 +4459,7 @@ WCDB is the database framework used in WeChat. It wraps SQLite and SQLCipher wit
 <sub>no GPU · Needs SQLite, SQLCipher, Zstd · [Repo](https://github.com/tencent/wcdb) · [📖 Docs ↗](https://github.com/Tencent/wcdb/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wcdb/)</sub>
 
 <a name="faasd"></a>
-### #&#8288;248 [faasd](https://github.com/openfaas/faasd) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (32) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · custom license · Nov 2026</sub>
+### #&#8288;250 [faasd](https://github.com/openfaas/faasd) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · custom license · Nov 2026</sub>
 
 **Single-host serverless functions runtime on containerd, using OpenFaaS components.**
 
@@ -4441,7 +4477,7 @@ faasd runs OpenFaaS on one Linux host without Kubernetes. It is a single Go bina
 <sub>RAM ≥ 2 GB · no GPU · Compose · Needs containerd, CNI, systemd · [Repo](https://github.com/openfaas/faasd) · [📖 Docs ↗](https://docs.openfaas.com/deployment/edge/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/faasd/)</sub>
 
 <a name="butterbase"></a>
-### #&#8288;249 [butterbase](https://github.com/butterbase-ai/butterbase) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;251 [butterbase](https://github.com/butterbase-ai/butterbase) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: known (30) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
 
 **Backend-as-a-service with per-app Postgres, functions, RAG and an MCP server.**
 
@@ -4459,7 +4495,7 @@ Butterbase is a backend-as-a-service that gives each app its own Postgres databa
 <sub>no GPU · Compose · Needs Docker, Node 22+, PostgreSQL, Redis, S3/R2 (LocalStack locally), Deno, Cloudflare Workers (build-runner, dispatch-worker) · port 4000 · [Repo](https://github.com/butterbase-ai/butterbase) · [🌐 Site ↗](https://butterbase.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/butterbase/)</sub>
 
 <a name="lucky"></a>
-### #&#8288;250 [lucky](https://github.com/luckyframework/lucky) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (27) · Freshness: active (97) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Nov 2026</sub>
+### #&#8288;252 [lucky](https://github.com/luckyframework/lucky) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (28) · Freshness: active (97) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Nov 2026</sub>
 
 **Type-safe Crystal web framework with compile-time checked routes and queries.**
 
@@ -4477,7 +4513,7 @@ Lucky is a full-stack web framework written in Crystal. It provides actions for 
 <sub>no GPU · Docker + Compose · Needs Crystal, PostgreSQL · [Repo](https://github.com/luckyframework/lucky) · [📖 Docs ↗](https://luckyframework.org/guides) · [🌐 Site ↗](https://luckyframework.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lucky/)</sub>
 
 <a name="go-spring"></a>
-### #&#8288;251 [go-spring](https://github.com/go-spring/go-spring) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;253 [go-spring](https://github.com/go-spring/go-spring) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Nov 2026</sub>
 
 **Spring Boot-style dependency injection and starter framework for Go services.**
 
@@ -4495,7 +4531,7 @@ Go-Spring is a Go application framework with an IoC container, constructor-based
 <sub>no GPU · [Repo](https://github.com/go-spring/go-spring) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-spring/)</sub>
 
 <a name="libsql"></a>
-### #&#8288;252 [libsql](https://github.com/tursodatabase/libsql) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (76) · Freshness: recent (70) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · MIT · Nov 2026</sub>
+### #&#8288;254 [libsql](https://github.com/tursodatabase/libsql) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (77) · Freshness: recent (70) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · MIT · Nov 2026</sub>
 
 **SQLite fork with embedded replicas, a remote server and multi-language drivers.**
 
@@ -4513,7 +4549,7 @@ libSQL is an open-contribution fork of SQLite maintained by Turso. It keeps the 
 <sub>no GPU · Docker + Compose · [Repo](https://github.com/tursodatabase/libsql) · [📖 Docs ↗](https://docs.turso.tech) · [🌐 Site ↗](https://turso.tech/libsql) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/libsql/)</sub>
 
 <a name="mica"></a>
-### #&#8288;253 [mica](https://github.com/lets-mica/mica) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (22) · Freshness: active (91) · Maintenance: patchy (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · LGPL-3.0 · Nov 2026</sub>
+### #&#8288;255 [mica](https://github.com/lets-mica/mica) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (22) · Freshness: active (91) · Maintenance: patchy (33) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · LGPL-3.0 · Nov 2026</sub>
 
 **Spring Boot and Spring Cloud base components and utilities for Java microservices.**
 
@@ -4530,8 +4566,44 @@ Mica is a Java library set (Maven BOM net.dreamlu:mica-bom) of base components a
 
 <sub>no GPU · Needs JDK 17+, Spring Boot, Maven · [Repo](https://github.com/lets-mica/mica) · [📖 Docs ↗](https://www.dreamlu.net/mica2x/index.html) · [🌐 Site ↗](http://wiki.dreamlu.net) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mica/)</sub>
 
+<a name="sqlite-data"></a>
+### #&#8288;256 [sqlite-data](https://github.com/pointfreeco/sqlite-data) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (19) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
+
+**Swift SQLite persistence library replacing SwiftData, with CloudKit sync.**
+
+SQLiteData is a Swift package built on GRDB and StructuredQueries that gives Apple-platform apps a SwiftData-like API (@Table, @FetchAll, @FetchOne) over a local SQLite database. A SyncEngine can replicate selected tables to CloudKit, including record sharing between iCloud users. It works from SwiftUI, UIKit and @Observable models. It is not an AI project and has no AI features.
+
+- **+** CloudKit sync and sharing via a SyncEngine configured per table
+- **+** Decoding benchmarks near raw SQLite C calls, ahead of GRDB Codable in the README
+- **+** Type-safe query builder plus #sql macro; works in SwiftUI, UIKit and @Observable
+- **+** Includes example apps: Reminders, SyncUps, CloudKitDemo and case studies
+- **−** Swift and Apple platforms only; CloudKit sync ties data to iCloud
+- **−** Expects working SQLite knowledge: schema design, joins, migrations and indices
+- **−** Not an AI project; fits this list only as an app persistence layer
+- **−** You create and migrate the database yourself; no automatic schema as in SwiftData
+
+<sub>no GPU · Needs GRDB, StructuredQueries, CloudKit (optional sync) · [Repo](https://github.com/pointfreeco/sqlite-data) · [📖 Docs ↗](https://swiftpackageindex.com/pointfreeco/sqlite-data/main/documentation/sqlitedata) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlite-data/)</sub>
+
+<a name="piccolo"></a>
+### #&#8288;257 [piccolo](https://github.com/piccolo-orm/piccolo) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (19) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+
+**Async and sync Python ORM and query builder with migrations and admin.**
+
+Piccolo is a Python ORM and query builder that supports both asyncio and sync use, with PostgreSQL and SQLite drivers. It includes a User model, authentication, migrations and a playground, and `piccolo asgi new` scaffolds an ASGI app on one of nine frameworks. Separate packages add an admin GUI and REST endpoints with auth middleware. It has no AI features.
+
+- **+** Same table definitions work as a query builder or as an object-style ORM
+- **+** Scaffolds ASGI apps for Starlette, FastAPI, Litestar, Sanic, Quart, Falcon and others
+- **+** Ships migrations, a User model and auth; admin GUI and REST API are separate packages
+- **+** Fully type annotated, with tab completion in iPython and VSCode
+- **−** Only PostgreSQL and SQLite drivers are listed; no MySQL support mentioned
+- **−** Admin GUI and REST/middleware utilities live in separate packages to install and learn
+- **−** Not an AI project; no model, agent or LLM integration
+- **−** No hosting or deployment layer; it is a library, not a backend service
+
+<sub>no GPU · Needs PostgreSQL or SQLite · [Repo](https://github.com/piccolo-orm/piccolo) · [📖 Docs ↗](https://piccolo-orm.readthedocs.io/en/latest/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/piccolo/)</sub>
+
 <a name="neon"></a>
-### #&#8288;254 [neon](https://github.com/neondatabase/neon) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: widely used (82) · Freshness: recent (75) · Maintenance: weak (9) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;258 [neon](https://github.com/neondatabase/neon) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: widely used (82) · Freshness: recent (75) · Maintenance: weak (9) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Aug 2026</sub>
 
 **Serverless Postgres with separated storage and compute, plus branching.**
 
@@ -4549,7 +4621,7 @@ Neon replaces the PostgreSQL storage layer with a distributed storage engine mad
 <sub>no GPU · Docker + Compose · Needs Rust toolchain, protoc 3.15+, PostgreSQL client, Python 3.11+ and poetry (tests only) · [Repo](https://github.com/neondatabase/neon) · [📖 Docs ↗](https://neon.com/docs) · [🌐 Site ↗](https://neon.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/neon/)</sub>
 
 <a name="boilerplates"></a>
-### #&#8288;255 [boilerplates](https://github.com/christianlempa/boilerplates) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.0k · MIT · Aug 2026</sub>
+### #&#8288;259 [boilerplates](https://github.com/christianlempa/boilerplates) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: weak (7) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.0k · MIT · Aug 2026</sub>
 
 **CLI that renders Docker Compose, Terraform and Ansible templates from git libraries.**
 
@@ -4567,7 +4639,7 @@ Boilerplates is a Python CLI that renders reusable infrastructure templates (Com
 <sub>Needs pipx, git · [Repo](https://github.com/christianlempa/boilerplates) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/boilerplates/)</sub>
 
 <a name="lamp-cloud"></a>
-### #&#8288;256 [lamp-cloud](https://github.com/dromara/lamp-cloud) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (48) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;260 [lamp-cloud](https://github.com/dromara/lamp-cloud) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (49) · Freshness: active (100) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · Apache-2.0 · Oct 2026</sub>
 
 **Java multi-tenant Spring Cloud admin platform with RBAC and code generator.**
 
@@ -4585,7 +4657,7 @@ lamp-cloud is a Java 17 back-end framework for admin systems, built on Spring Cl
 <sub>no GPU · Needs Nacos, Seata, Sentinel, RabbitMQ, MinIO or FastDFS, SkyWalking, lamp-util · [Repo](https://github.com/dromara/lamp-cloud) · [▶️ Demo ↗](https://max-datasource.tangyh.top) · [📖 Docs ↗](https://tangyh.top/doc/%E7%AE%80%E4%BB%8B.html) · [🌐 Site ↗](https://tangyh.top) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lamp-cloud/)</sub>
 
 <a name="olric"></a>
-### #&#8288;257 [olric](https://github.com/olric-data/olric) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (33) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;261 [olric](https://github.com/olric-data/olric) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (34) · Freshness: active (100) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed in-memory key/value cache in Go, embeddable or standalone.**
 
@@ -4603,7 +4675,7 @@ Olric is a distributed in-memory key/value store and cache written in Go. It sha
 <sub>no GPU · Docker + Compose · [Repo](https://github.com/olric-data/olric) · [📖 Docs ↗](https://pkg.go.dev/github.com/olric-data/olric/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/olric/)</sub>
 
 <a name="nixopus"></a>
-### #&#8288;258 [nixopus](https://github.com/nixopus/nixopus) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · custom license · Sep 2026</sub>
+### #&#8288;262 [nixopus](https://github.com/nixopus/nixopus) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · custom license · Sep 2026</sub>
 
 **Self-hosted deployment platform with an AI agent that builds and ships repos.**
 
@@ -4621,7 +4693,7 @@ Nixopus deploys apps from a connected GitHub repo onto your own servers. An LLM 
 <sub>RAM ≥ 1 GB · no GPU · Compose · Needs Docker Engine, Docker Compose V2, Caddy, LLM provider API key, GitHub · Models: OpenRouter, OpenAI, Anthropic, Google, DeepSeek · port 80 · [Repo](https://github.com/nixopus/nixopus) · [▶️ Demo ↗](https://dashboard.nixopus.com) · [📖 Docs ↗](https://docs.nixopus.com) · [🌐 Site ↗](https://nixopus.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nixopus/)</sub>
 
 <a name="sanic"></a>
-### #&#8288;259 [sanic](https://github.com/sanic-org/sanic) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (79) · Freshness: recent (79) · Maintenance: weak (2) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · May 2026</sub>
+### #&#8288;263 [sanic](https://github.com/sanic-org/sanic) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (79) · Freshness: recent (79) · Maintenance: weak (2) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · May 2026</sub>
 
 **Async Python web server and framework with a built-in CLI runner.**
 
@@ -4639,7 +4711,7 @@ Sanic is a Python 3.10+ web server and framework built on async/await. It ships 
 <sub>no GPU · Docker · Needs uvloop, ujson · port 8000 · [Repo](https://github.com/sanic-org/sanic) · [📖 Docs ↗](https://sanic.dev) · [🌐 Site ↗](https://sanic.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sanic/)</sub>
 
 <a name="pouchdb"></a>
-### #&#8288;260 [pouchdb](https://github.com/apache/pouchdb) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (77) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;264 [pouchdb](https://github.com/apache/pouchdb) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (78) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
 **JavaScript document database for browsers and Node.js that syncs with CouchDB.**
 
@@ -4657,7 +4729,7 @@ PouchDB is a JavaScript database inspired by Apache CouchDB, built to run inside
 <sub>no GPU · [Repo](https://github.com/apache/pouchdb) · [📖 Docs ↗](https://pouchdb.com/api.html) · [🌐 Site ↗](https://pouchdb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pouchdb/)</sub>
 
 <a name="pg"></a>
-### #&#8288;261 [pg](https://github.com/go-pg/pg) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (49) · Freshness: recent (78) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · BSD-2-Clause · May 2026</sub>
+### #&#8288;265 [pg](https://github.com/go-pg/pg) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (50) · Freshness: recent (78) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · BSD-2-Clause · May 2026</sub>
 
 **PostgreSQL client and ORM for Go, now in maintenance mode.**
 
@@ -4675,7 +4747,7 @@ go-pg is a Go PostgreSQL client with a struct-based ORM, covering relations (has
 <sub>no GPU · Needs PostgreSQL · [Repo](https://github.com/go-pg/pg) · [📖 Docs ↗](https://pg.uptrace.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pg/)</sub>
 
 <a name="doracms"></a>
-### #&#8288;262 [doracms](https://github.com/doramart/doracms) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (33) · Freshness: recent (70) · Maintenance: patchy (30) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · MIT · Nov 2026</sub>
+### #&#8288;266 [doracms](https://github.com/doramart/doracms) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (34) · Freshness: recent (70) · Maintenance: patchy (30) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.5k · MIT · Nov 2026</sub>
 
 **Content management system on EggJS 3 and Vue 3 with a separate admin panel.**
 
@@ -4693,7 +4765,7 @@ EggCMS (DoraCMS) is a pnpm monorepo with an EggJS 3 server, a Vue 3 user front e
 <sub>no GPU · Docker + Compose · Needs MongoDB or MariaDB, Redis (optional), Nginx (optional), Aliyun OSS or Qiniu (optional) · port 8080 · [Repo](https://github.com/doramart/doracms) · [▶️ Demo ↗](https://demo.doracms.net) · [📖 Docs ↗](https://www.doracms.net/deployment/docker) · [🌐 Site ↗](https://www.doracms.net) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/doracms/)</sub>
 
 <a name="json-server"></a>
-### #&#8288;263 [json-server](https://github.com/typicode/json-server) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: widely used (98) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76k · MIT · Mar 2026</sub>
+### #&#8288;267 [json-server](https://github.com/typicode/json-server) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: widely used (98) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 76k · MIT · Mar 2026</sub>
 
 **Fake REST API served from a single JSON or JSON5 file.**
 
@@ -4711,7 +4783,7 @@ json-server is an npm package that turns a db.json or db.json5 file into a REST 
 <sub>no GPU · Needs Node.js, npm · port 3000 · [Repo](https://github.com/typicode/json-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/json-server/)</sub>
 
 <a name="skytable"></a>
-### #&#8288;264 [skytable](https://github.com/skytable/skytable) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (26) · Freshness: recent (70) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · AGPL-3.0 · Sep 2026</sub>
+### #&#8288;268 [skytable](https://github.com/skytable/skytable) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (27) · Freshness: recent (70) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · AGPL-3.0 · Sep 2026</sub>
 
 **In-memory NoSQL database with a column-oriented model and SQL-like BlueQL.**
 
@@ -4729,7 +4801,7 @@ Skytable is a primarily in-memory NoSQL database written in Rust. It uses multit
 <sub>no GPU · Docker · [Repo](https://github.com/skytable/skytable) · [📖 Docs ↗](https://docs.skytable.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/skytable/)</sub>
 
 <a name="nebula"></a>
-### #&#8288;265 [nebula](https://github.com/vesoft-inc/nebula) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (68) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;269 [nebula](https://github.com/vesoft-inc/nebula) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (68) · Freshness: recent (70) · Maintenance: weak (13) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Sep 2026</sub>
 
 **Distributed graph database with OpenCypher-compatible queries.**
 
@@ -4747,7 +4819,7 @@ NebulaGraph is a graph database written in C++ that separates storage from compu
 <sub>no GPU · Docker · [Repo](https://github.com/vesoft-inc/nebula) · [📖 Docs ↗](https://docs.nebula-graph.io/) · [🌐 Site ↗](https://nebula-graph.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nebula/)</sub>
 
 <a name="sqlboiler"></a>
-### #&#8288;266 [sqlboiler](https://github.com/aarondl/sqlboiler) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (54) · Freshness: recent (72) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · custom license · Nov 2026</sub>
+### #&#8288;270 [sqlboiler](https://github.com/aarondl/sqlboiler) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (55) · Freshness: recent (72) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · custom license · Nov 2026</sub>
 
 **Database-first Go ORM generator that builds typed models from your schema.**
 
@@ -4765,7 +4837,7 @@ SQLBoiler is a command-line code generator that reads an existing database schem
 <sub>no GPU · Needs Go 1.13+, PostgreSQL, MySQL 5.6.30+, MSSQL 2012+ or SQLite3 for generation · [Repo](https://github.com/aarondl/sqlboiler) · [📖 Docs ↗](https://pkg.go.dev/mod/github.com/aarondl/sqlboiler/v4) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlboiler/)</sub>
 
 <a name="qor"></a>
-### #&#8288;267 [qor](https://github.com/qor/qor) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (47) · Freshness: recent (70) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Nov 2026</sub>
+### #&#8288;271 [qor](https://github.com/qor/qor) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: known (48) · Freshness: recent (70) · Maintenance: patchy (32) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Nov 2026</sub>
 
 **Go libraries for building admin panels, CMS and e-commerce back offices.**
 
@@ -4783,7 +4855,7 @@ QOR is a set of Go libraries for business applications, CMSs and e-commerce syst
 <sub>no GPU · Needs Go, Node.js, Gulp · [Repo](https://github.com/qor/qor) · [▶️ Demo ↗](http://demo.getqor.com/admin) · [📖 Docs ↗](https://doc.getqor.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qor/)</sub>
 
 <a name="classic-jazz"></a>
-### #&#8288;268 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
+### #&#8288;272 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
 
 **Local-first synced database with auth and permissions, now legacy.**
 
@@ -4801,7 +4873,7 @@ Classic Jazz is the first-generation Jazz database. It syncs data, files and LLM
 <sub>no GPU · [Repo](https://github.com/garden-co/classic-jazz) · [📖 Docs ↗](https://classic.jazz.tools/docs) · [🌐 Site ↗](https://classic.jazz.tools) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/classic-jazz/)</sub>
 
 <a name="matecloud"></a>
-### #&#8288;269 [matecloud](https://github.com/mateaix/matecloud) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;273 [matecloud](https://github.com/mateaix/matecloud) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Oct 2026</sub>
 
 **Java DDD microservice scaffold on Spring Boot 4 with Spring AI and MCP tools.**
 
@@ -4819,7 +4891,7 @@ MateCloud is a Spring Boot 4, Spring Cloud and Dubbo 3 microservice scaffold. It
 <sub>no GPU · Docker + Compose · Needs JDK 21, Maven 3.9, Docker Compose, MySQL, Redis, RabbitMQ, Nacos, MinIO, Node.js 20 · Models: Anthropic, OpenAI, DeepSeek, Ollama, Zhipu (compatible endpoint) · port 9010 · [Repo](https://github.com/mateaix/matecloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/matecloud/)</sub>
 
 <a name="steedos-platform"></a>
-### #&#8288;270 [steedos-platform](https://github.com/steedos/steedos-platform) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (16) · Freshness: active (91) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;274 [steedos-platform](https://github.com/steedos/steedos-platform) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (16) · Freshness: active (91) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · AGPL-3.0 · Nov 2026</sub>
 
 **Metadata-driven low-code platform that generates enterprise apps, APIs and UI from YAML.**
 
@@ -4837,7 +4909,7 @@ Steedos Platform is a Salesforce-style metadata-driven enterprise app platform i
 <sub>Docker + Compose · Needs MongoDB, PostgreSQL · port 5100 · [Repo](https://github.com/steedos/steedos-platform) · [📖 Docs ↗](https://docs.steedos.com/) · [🌐 Site ↗](https://objectstack.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/steedos-platform/)</sub>
 
 <a name="openwhisk"></a>
-### #&#8288;271 [openwhisk](https://github.com/apache/openwhisk) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (54) · Freshness: recent (70) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;275 [openwhisk](https://github.com/apache/openwhisk) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (54) · Freshness: recent (70) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · Apache-2.0 · Nov 2026</sub>
 
 **Serverless functions platform with triggers, rules and action composition.**
 
@@ -4854,26 +4926,8 @@ Apache OpenWhisk runs functions as serverless actions, exposes them as APIs, and
 
 <sub>Needs Docker, Java, Node.js, Kubernetes (optional) · port 3232 · [Repo](https://github.com/apache/openwhisk) · [🌐 Site ↗](http://openwhisk.apache.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openwhisk/)</sub>
 
-<a name="motor"></a>
-### #&#8288;272 [motor](https://github.com/mongodb/motor) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (25) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
-
-**Non-blocking MongoDB driver for Python asyncio and Tornado.**
-
-Motor is a coroutine-based MongoDB driver for asyncio and Tornado applications, built on PyMongo (>=4.9,<5) and requiring Python 3.11+. It is deprecated as of May 14, 2025 in favor of the PyMongo Async API, with only critical bug fixes until final support ends May 14, 2027. It is a database client library, not an AI project.
-
-- **+** Coroutine API for both asyncio and Tornado
-- **+** Optional extras for gssapi, aws, srv, ocsp, snappy, zstd and client-side encryption
-- **+** Supports the same optional dependencies as PyMongo
-- **+** Installs with a single pip command; documented on ReadTheDocs
-- **−** Deprecated; no new features, and the May 14, 2026 end-of-life date has passed
-- **−** Only critical fixes until support ends May 14, 2027
-- **−** Requires a separate MongoDB server and PyMongo
-- **−** Not an AI tool; fits this list only loosely as a database client
-
-<sub>no GPU · Needs MongoDB, PyMongo >=4.9,<5, Python 3.11+ · [Repo](https://github.com/mongodb/motor) · [📖 Docs ↗](https://motor.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/motor/)</sub>
-
 <a name="go-restful"></a>
-### #&#8288;273 [go-restful](https://github.com/emicklei/go-restful) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (45) · Freshness: recent (76) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Oct 2026</sub>
+### #&#8288;276 [go-restful](https://github.com/emicklei/go-restful) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (46) · Freshness: recent (76) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Oct 2026</sub>
 
 **Go package for building REST web services with routing, filters and JSON/XML.**
 
@@ -4891,7 +4945,7 @@ go-restful is a Go library for defining REST APIs by mapping HTTP methods and pa
 <sub>no GPU · [Repo](https://github.com/emicklei/go-restful) · [📖 Docs ↗](https://pkg.go.dev/github.com/emicklei/go-restful/v3) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-restful/)</sub>
 
 <a name="kubero"></a>
-### #&#8288;274 [kubero](https://github.com/kubero-dev/kubero) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (39) · Freshness: recent (79) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · GPL-3.0 · Oct 2026</sub>
+### #&#8288;277 [kubero](https://github.com/kubero-dev/kubero) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (40) · Freshness: recent (79) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · GPL-3.0 · Oct 2026</sub>
 
 **Self-hosted PaaS that deploys containers and Git apps on Kubernetes.**
 
@@ -4908,8 +4962,26 @@ Kubero is a self-hosted Heroku-style PaaS that runs on Kubernetes through two co
 
 <sub>no GPU · Docker + Compose · Needs Kubernetes, Kubero Operator, Kubero CLI · [Repo](https://github.com/kubero-dev/kubero) · [▶️ Demo ↗](https://demo.kubero.dev) · [📖 Docs ↗](https://www.kubero.dev/docs/) · [🌐 Site ↗](https://www.kubero.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubero/)</sub>
 
+<a name="motor"></a>
+### #&#8288;278 [motor](https://github.com/mongodb/motor) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (26) · Freshness: recent (70) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · Apache-2.0 · Nov 2026</sub>
+
+**Non-blocking MongoDB driver for Python asyncio and Tornado.**
+
+Motor is a coroutine-based MongoDB driver for asyncio and Tornado applications, built on PyMongo (>=4.9,<5) and requiring Python 3.11+. It is deprecated as of May 14, 2025 in favor of the PyMongo Async API, with only critical bug fixes until final support ends May 14, 2027. It is a database client library, not an AI project.
+
+- **+** Coroutine API for both asyncio and Tornado
+- **+** Optional extras for gssapi, aws, srv, ocsp, snappy, zstd and client-side encryption
+- **+** Supports the same optional dependencies as PyMongo
+- **+** Installs with a single pip command; documented on ReadTheDocs
+- **−** Deprecated; no new features, and the May 14, 2026 end-of-life date has passed
+- **−** Only critical fixes until support ends May 14, 2027
+- **−** Requires a separate MongoDB server and PyMongo
+- **−** Not an AI tool; fits this list only loosely as a database client
+
+<sub>no GPU · Needs MongoDB, PyMongo >=4.9,<5, Python 3.11+ · [Repo](https://github.com/mongodb/motor) · [📖 Docs ↗](https://motor.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/motor/)</sub>
+
 <a name="amplication"></a>
-### #&#8288;275 [amplication](https://github.com/amplication/amplication) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (74) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
+### #&#8288;279 [amplication](https://github.com/amplication/amplication) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (75) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
 
 **Generates NestJS and Node.js backend services from data models, with team templates.**
 
@@ -4926,7 +4998,7 @@ Amplication generates backend microservices (APIs, data models, DTOs) from a mod
 <sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
 
 <a name="laf"></a>
-### #&#8288;276 [laf](https://github.com/labring/laf) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (56) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;280 [laf](https://github.com/labring/laf) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (57) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · Apache-2.0 · Jul 2026</sub>
 
 **Cloud development platform with JS/TS cloud functions, database and storage.**
 
@@ -4944,7 +5016,7 @@ laf is a cloud development platform that provides cloud functions written in JS/
 <sub>no GPU · Needs Kubernetes · [Repo](https://github.com/labring/laf) · [▶️ Demo ↗](https://bja.sealos.run) · [🌐 Site ↗](https://laf.run/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/laf/)</sub>
 
 <a name="judge0"></a>
-### #&#8288;277 [judge0](https://github.com/judge0/judge0) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (40) · Freshness: recent (70) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · GPL-3.0 · Oct 2026</sub>
+### #&#8288;281 [judge0](https://github.com/judge0/judge0) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (41) · Freshness: recent (70) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · GPL-3.0 · Oct 2026</sub>
 
 **Sandboxed code execution API for 90+ languages, self-hosted or managed.**
 
@@ -4962,7 +5034,7 @@ Judge0 is an HTTP JSON API that compiles and runs untrusted source code in a san
 <sub>Docker + Compose · Compose runs PostgreSQL, Redis · [Repo](https://github.com/judge0/judge0) · [▶️ Demo ↗](https://ide.judge0.com) · [📖 Docs ↗](https://ce.judge0.com) · [🌐 Site ↗](https://judge0.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/judge0/)</sub>
 
 <a name="pony"></a>
-### #&#8288;278 [pony](https://github.com/ponyorm/pony) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (35) · Freshness: active (97) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Aug 2026</sub>
+### #&#8288;282 [pony](https://github.com/ponyorm/pony) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (36) · Freshness: active (97) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Aug 2026</sub>
 
 **Python ORM that translates generator expressions into SQL queries.**
 
@@ -4979,8 +5051,26 @@ Pony is a Python object-relational mapper that analyzes the abstract syntax tree
 
 <sub>no GPU · Needs SQLite, MySQL, PostgreSQL or Oracle database · [Repo](https://github.com/ponyorm/pony) · [📖 Docs ↗](https://docs.ponyorm.org) · [🌐 Site ↗](https://ponyorm.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pony/)</sub>
 
+<a name="flask-migrate"></a>
+### #&#8288;283 [flask-migrate](https://github.com/miguelgrinberg/flask-migrate) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (24) · Freshness: recent (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Aug 2026</sub>
+
+**Flask extension for SQLAlchemy database migrations using Alembic.**
+
+Flask-Migrate wraps Alembic so Flask apps using SQLAlchemy can create, autogenerate and apply schema migrations through `flask db` subcommands such as init, migrate and upgrade. It adds a `migrations` folder to the project that is committed to version control. It is general database tooling, not AI-specific, so it fits this list only as a backend building block.
+
+- **+** Exposes Alembic through `flask db init`, `migrate` and `upgrade` commands
+- **+** Migration scripts live in a `migrations` folder versioned with the code
+- **+** Installs with a single `pip install Flask-Migrate`
+- **+** MIT licensed, with documentation on readthedocs
+- **−** Autogenerated migrations must be reviewed and edited by hand
+- **−** Alembic does not detect indexes, per the README
+- **−** Only for Flask apps using SQLAlchemy
+- **−** Last release was 2025-01-10; later commits are unreleased
+
+<sub>no GPU · Needs Flask, SQLAlchemy, Alembic, Flask-SQLAlchemy · [Repo](https://github.com/miguelgrinberg/flask-migrate) · [📖 Docs ↗](https://flask-migrate.readthedocs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flask-migrate/)</sub>
+
 <a name="devise-token-auth"></a>
-### #&#8288;279 [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (34) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · WTFPL · Jul 2026</sub>
+### #&#8288;284 [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (34) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · WTFPL · Jul 2026</sub>
 
 **Token-based authentication gem for Rails APIs, built on Devise and OmniAuth.**
 
@@ -4998,7 +5088,7 @@ Devise Token Auth is a Ruby gem that adds token-based authentication to Rails ap
 <sub>no GPU · Needs Rails, Devise, OmniAuth · [Repo](https://github.com/lynndylanhurley/devise_token_auth) · [▶️ Demo ↗](https://stackblitz.com/github/neroniaky/angular-token) · [📖 Docs ↗](https://devise-token-auth.gitbook.io/devise-token-auth) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devise-token-auth/)</sub>
 
 <a name="dicedb"></a>
-### #&#8288;280 [dicedb](https://github.com/dicedb/dicedb) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: popular (65) · Freshness: slowing (50) · Maintenance: weak (8) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Mar 2026</sub>
+### #&#8288;285 [dicedb](https://github.com/dicedb/dicedb) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: popular (65) · Freshness: slowing (50) · Maintenance: weak (8) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Mar 2026</sub>
 
 **Valkey fork that spills evicted keys to disk via RocksDB.**
 
@@ -5016,7 +5106,7 @@ DiceDB is a fork of Valkey (itself a Redis fork) that stays compatible with Redi
 <sub>no GPU · Needs RocksDB (spill module) · [Repo](https://github.com/dicedb/dicedb) · [📖 Docs ↗](https://dicedb.io/docs/conf) · [🌐 Site ↗](https://dicedb.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dicedb/)</sub>
 
 <a name="db"></a>
-### #&#8288;281 [db](https://github.com/upper/db) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (34) · Freshness: recent (70) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
+### #&#8288;286 [db](https://github.com/upper/db) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (35) · Freshness: recent (70) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
 
 **Go data access layer with one API for SQL databases and MongoDB.**
 
@@ -5033,8 +5123,26 @@ upper/db is a Go library that provides a common data access API over PostgreSQL,
 
 <sub>no GPU · Needs PostgreSQL, MySQL, MSSQL, CockroachDB, MongoDB, QL or SQLite (one of) · [Repo](https://github.com/upper/db) · [▶️ Demo ↗](https://tour.upper.io) · [📖 Docs ↗](https://upper.io/v4) · [🌐 Site ↗](https://upper.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/db/)</sub>
 
+<a name="flask-sqlalchemy"></a>
+### #&#8288;287 [flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: known (39) · Freshness: slowing (46) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · BSD-3-Clause · May 2026</sub>
+
+**Flask extension that integrates SQLAlchemy with app config and sessions.**
+
+Flask-SQLAlchemy is a Flask extension that wires SQLAlchemy into a Flask app. It reads the database URI from app config and exposes a db object with Model, session, select and create_all helpers, scoped to the Flask app context. It is a library for adding a database layer, not an AI project or a runnable starter.
+
+- **+** Configures SQLAlchemy from Flask config via SQLALCHEMY_DATABASE_URI
+- **+** Supports SQLAlchemy 2.x style DeclarativeBase with Mapped and mapped_column
+- **+** Maintained under Pallets-Eco, with a commit in May 2026
+- **+** BSD-3-Clause license
+- **−** Library only: no auth, billing, API or AI features included
+- **−** Last tagged release is September 2023
+- **−** Tied to Flask; not usable with other web frameworks
+- **−** Community-maintained, with the README asking for more maintainers
+
+<sub>no GPU · Needs Flask, SQLAlchemy · [Repo](https://github.com/pallets-eco/flask-sqlalchemy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flask-sqlalchemy/)</sub>
+
 <a name="nubase"></a>
-### #&#8288;282 [nubase](https://github.com/ottermind/nubase) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 621 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;288 [nubase](https://github.com/ottermind/nubase) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 621 · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted multi-project backend that coding agents drive over MCP.**
 
@@ -5052,7 +5160,7 @@ Nubase is a Java backend with a Next.js Studio that gives each project its own P
 <sub>no GPU · Docker · Needs PostgreSQL 15 with pgvector, Redis, S3/R2/MinIO (optional storage), Cloudflare Workers for Platforms (optional), LLM provider (optional, for Memory) · Models: OpenAI, Anthropic, OpenAI-compatible providers · port 9999 · [Repo](https://github.com/ottermind/nubase) · [🌐 Site ↗](https://nubase.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nubase/)</sub>
 
 <a name="lowdb"></a>
-### #&#8288;283 [lowdb](https://github.com/typicode/lowdb) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: widely used (81) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Mar 2026</sub>
+### #&#8288;289 [lowdb](https://github.com/typicode/lowdb) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: widely used (82) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Mar 2026</sub>
 
 **Local JSON file database for Node.js and browsers, queried with plain JavaScript.**
 
@@ -5070,7 +5178,7 @@ lowdb is a pure ESM npm library that loads a JSON file into a plain JavaScript o
 <sub>no GPU · [Repo](https://github.com/typicode/lowdb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdb/)</sub>
 
 <a name="buffalo"></a>
-### #&#8288;284 [buffalo](https://github.com/gobuffalo/buffalo) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: popular (58) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · MIT · Mar 2026</sub>
+### #&#8288;290 [buffalo](https://github.com/gobuffalo/buffalo) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: popular (59) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · MIT · Mar 2026</sub>
 
 **Go web framework that generates a full project with frontend, routing and database.**
 
@@ -5088,7 +5196,7 @@ Buffalo generates a Go web project with front-end assets (JavaScript, SCSS), rou
 <sub>no GPU · Docker · Needs Go 1.23 or 1.24, Go modules, Database (optional, via Pop) · [Repo](https://github.com/gobuffalo/buffalo) · [📖 Docs ↗](https://gobuffalo.io/documentation/getting_started/installation) · [🌐 Site ↗](http://gobuffalo.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/buffalo/)</sub>
 
 <a name="incubator-pegasus"></a>
-### #&#8288;285 [incubator-pegasus](https://github.com/apache/incubator-pegasus) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (20) · Freshness: recent (70) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;291 [incubator-pegasus](https://github.com/apache/incubator-pegasus) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (21) · Freshness: recent (70) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed key-value store with strong consistency, built on RocksDB.**
 
@@ -5106,7 +5214,7 @@ Apache Pegasus is a horizontally scalable key-value store written in C++. It use
 <sub>no GPU · Docker + Compose · Needs RocksDB, HDFS (optional, for backups) · [Repo](https://github.com/apache/incubator-pegasus) · [📖 Docs ↗](https://pegasus.apache.org) · [🌐 Site ↗](https://pegasus.apache.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/incubator-pegasus/)</sub>
 
 <a name="vearch"></a>
-### #&#8288;286 [vearch](https://github.com/vearch/vearch) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (23) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;292 [vearch](https://github.com/vearch/vearch) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (23) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Jul 2026</sub>
 
 **Distributed vector database with hybrid vector and scalar-filter search.**
 
@@ -5123,7 +5231,7 @@ Vearch is a distributed vector database for similarity search over embeddings. A
 <sub>[Repo](https://github.com/vearch/vearch) · [📖 Docs ↗](https://vearch.readthedocs.io/en/latest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vearch/)</sub>
 
 <a name="ferretdb"></a>
-### #&#8288;287 [ferretdb](https://github.com/ferretdb/ferretdb) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (65) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;293 [ferretdb](https://github.com/ferretdb/ferretdb) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (66) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Feb 2026</sub>
 
 **MongoDB-compatible proxy that stores documents in PostgreSQL.**
 
@@ -5141,7 +5249,7 @@ FerretDB is a Go proxy that accepts MongoDB 5.0+ wire protocol traffic and trans
 <sub>no GPU · Compose · Needs PostgreSQL, DocumentDB extension · [Repo](https://github.com/ferretdb/ferretdb) · [📖 Docs ↗](https://docs.ferretdb.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ferretdb/)</sub>
 
 <a name="graphql"></a>
-### #&#8288;288 [graphql](https://github.com/redwoodjs/graphql) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (77) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Dec 2025</sub>
+### #&#8288;294 [graphql](https://github.com/redwoodjs/graphql) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (78) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · MIT · Dec 2025</sub>
 
 **Full-stack React framework with GraphQL API and Prisma, now succeeded by RedwoodSDK.**
 
@@ -5158,26 +5266,8 @@ RedwoodJS is an opinionated TypeScript web framework: a React frontend (Vite) ta
 
 <sub>no GPU · Needs Node.js, Prisma-supported database · [Repo](https://github.com/redwoodjs/graphql) · [🌐 Site ↗](https://redwoodjs.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graphql/)</sub>
 
-<a name="gel"></a>
-### #&#8288;289 [gel](https://github.com/geldata/gel) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (70) · Freshness: quiet (22) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Dec 2025</sub>
-
-**Graph-relational database with object types and the EdgeQL query language.**
-
-Gel is a database that models data as object types with properties and links instead of tables and foreign keys. Queries are written in EdgeQL, which returns nested objects rather than flat rows. It ships with a migrations system, a CLI, client libraries in several languages, and an optional managed cloud service.
-
-- **+** EdgeQL returns nested objects, so related data is fetched without JOINs
-- **+** Composable queries allow subqueries and nested mutations
-- **+** Built-in migrations system, CLI and client libraries in multiple languages
-- **+** Schema supports constraints, indexes, computed properties, link properties and mixins
-- **−** Requires learning EdgeQL and its schema language instead of SQL
-- **−** No Docker or compose setup described in the README
-- **−** README quickstart still uses the legacy `edgedb` CLI command
-- **−** Managed hosting is a separate cloud service
-
-<sub>no GPU · [Repo](https://github.com/geldata/gel) · [📖 Docs ↗](https://docs.geldata.com) · [🌐 Site ↗](https://www.geldata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gel/)</sub>
-
 <a name="sled"></a>
-### #&#8288;290 [sled](https://github.com/spacejam/sled) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (60) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.1k · Apache-2.0 · Apr 2026</sub>
+### #&#8288;295 [sled](https://github.com/spacejam/sled) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (61) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.1k · Apache-2.0 · Apr 2026</sub>
 
 **Embedded key-value database for Rust with a BTreeMap-like API.**
 
@@ -5194,8 +5284,26 @@ sled is an embedded Rust database exposing a thread-safe, ordered byte-key API s
 
 <sub>no GPU · [Repo](https://github.com/spacejam/sled) · [📖 Docs ↗](https://docs.rs/sled) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sled/)</sub>
 
+<a name="gel"></a>
+### #&#8288;296 [gel](https://github.com/geldata/gel) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: popular (71) · Freshness: quiet (22) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Dec 2025</sub>
+
+**Graph-relational database with object types and the EdgeQL query language.**
+
+Gel is a database that models data as object types with properties and links instead of tables and foreign keys. Queries are written in EdgeQL, which returns nested objects rather than flat rows. It ships with a migrations system, a CLI, client libraries in several languages, and an optional managed cloud service.
+
+- **+** EdgeQL returns nested objects, so related data is fetched without JOINs
+- **+** Composable queries allow subqueries and nested mutations
+- **+** Built-in migrations system, CLI and client libraries in multiple languages
+- **+** Schema supports constraints, indexes, computed properties, link properties and mixins
+- **−** Requires learning EdgeQL and its schema language instead of SQL
+- **−** No Docker or compose setup described in the README
+- **−** README quickstart still uses the legacy `edgedb` CLI command
+- **−** Managed hosting is a separate cloud service
+
+<sub>no GPU · [Repo](https://github.com/geldata/gel) · [📖 Docs ↗](https://docs.geldata.com) · [🌐 Site ↗](https://www.geldata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gel/)</sub>
+
 <a name="nodejs-backend-architecture-typescript"></a>
-### #&#8288;291 [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (30) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;297 [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: known (30) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Jul 2026</sub>
 
 **Express, TypeScript and MongoDB blog API with JWT auth and Redis caching.**
 
@@ -5213,7 +5321,7 @@ A reference backend for a Medium-style blogging platform, built on Express, Type
 <sub>no GPU · Docker + Compose · Needs MongoDB, Redis, Docker Compose · port 3000 · [Repo](https://github.com/afteracademy/nodejs-backend-architecture-typescript) · [📖 Docs ↗](https://documenter.getpostman.com/view/1552895/2s8Z6u4a6N) · [🌐 Site ↗](https://afteracademy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nodejs-backend-architecture-typescript/)</sub>
 
 <a name="1backend"></a>
-### #&#8288;292 [1backend](https://github.com/1backend/1backend) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (23) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
+### #&#8288;298 [1backend](https://github.com/1backend/1backend) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (24) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
 
 **Microservices platform with auth, routing and registry, plus an LLM runtime.**
 
@@ -5230,8 +5338,26 @@ A reference backend for a Medium-style blogging platform, built on Express, Type
 
 <sub>Compose · Needs Docker · port 11337 · [Repo](https://github.com/1backend/1backend) · [📖 Docs ↗](https://1backend.com/docs/category/running-the-server) · [🌐 Site ↗](https://1backend.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/1backend/)</sub>
 
+<a name="go-backend-clean-architecture"></a>
+### #&#8288;299 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: popular (51) · Freshness: quiet (28) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Feb 2026</sub>
+
+**Go REST API template with Gin, MongoDB and JWT auth in layers.**
+
+A Go backend template organized into router, controller, usecase, repository and domain layers. It ships signup, login, refresh-token, profile and task endpoints on Gin, with MongoDB storage, JWT access and refresh tokens, bcrypt hashing and Viper .env configuration. Unit tests use Testify with Mockery-generated mocks. It has no AI features.
+
+- **+** Clear layer separation behind interfaces, so usecases and repositories are mockable in tests
+- **+** JWT middleware with access and refresh token flow already implemented
+- **+** Runs with go run or docker-compose; API served on port 8080
+- **+** Postman API docs and curl examples for every endpoint
+- **−** Only MongoDB is supported; other databases need a rewritten repository layer
+- **−** Small example domain: users and tasks only, no billing or roles
+- **−** Test coverage is thin; README lists more test cases as a TODO
+- **−** No tagged releases
+
+<sub>no GPU · Docker + Compose · Needs MongoDB, Go, Docker (optional) · port 8080 · [Repo](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) · [📖 Docs ↗](https://documenter.getpostman.com/view/391588/2s8Z75S9xy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-backend-clean-architecture/)</sub>
+
 <a name="framework"></a>
-### #&#8288;293 [framework](https://github.com/top-think/framework) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (28) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Mar 2026</sub>
+### #&#8288;300 [framework](https://github.com/top-think/framework) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (29) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Mar 2026</sub>
 
 **PHP 8 web application framework with ORM and PSR support.**
 
@@ -5249,7 +5375,7 @@ ThinkPHP 8 is a general-purpose PHP web framework requiring PHP 8.0+ and think-o
 <sub>no GPU · Needs PHP 8.0+, Composer, think-orm 3.0+ · port 8000 · [Repo](https://github.com/top-think/framework) · [📖 Docs ↗](https://doc.thinkphp.cn) · [🌐 Site ↗](https://www.thinkphp.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/framework/)</sub>
 
 <a name="kubefirst"></a>
-### #&#8288;294 [kubefirst](https://github.com/konstructio/kubefirst) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (20) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Feb 2026</sub>
+### #&#8288;301 [kubefirst](https://github.com/konstructio/kubefirst) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (21) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Feb 2026</sub>
 
 **CLI that provisions Kubernetes clusters with a GitOps stack on cloud or local.**
 
@@ -5265,26 +5391,8 @@ Kubefirst is a Go CLI that creates a Kubernetes cluster with a GitOps platform o
 
 <sub>Needs Akamai, AWS, Azure, Civo, DigitalOcean, Google Cloud, Vultr, K3s, k3d · [Repo](https://github.com/konstructio/kubefirst) · [📖 Docs ↗](https://kubefirst-pro.konstruct.io/docs/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubefirst/)</sub>
 
-<a name="go-backend-clean-architecture"></a>
-### #&#8288;295 [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (50) · Freshness: quiet (28) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · Apache-2.0 · Feb 2026</sub>
-
-**Go REST API template with Gin, MongoDB and JWT auth in layers.**
-
-A Go backend template organized into router, controller, usecase, repository and domain layers. It ships signup, login, refresh-token, profile and task endpoints on Gin, with MongoDB storage, JWT access and refresh tokens, bcrypt hashing and Viper .env configuration. Unit tests use Testify with Mockery-generated mocks. It has no AI features.
-
-- **+** Clear layer separation behind interfaces, so usecases and repositories are mockable in tests
-- **+** JWT middleware with access and refresh token flow already implemented
-- **+** Runs with go run or docker-compose; API served on port 8080
-- **+** Postman API docs and curl examples for every endpoint
-- **−** Only MongoDB is supported; other databases need a rewritten repository layer
-- **−** Small example domain: users and tasks only, no billing or roles
-- **−** Test coverage is thin; README lists more test cases as a TODO
-- **−** No tagged releases
-
-<sub>no GPU · Docker + Compose · Needs MongoDB, Go, Docker (optional) · port 8080 · [Repo](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) · [📖 Docs ↗](https://documenter.getpostman.com/view/391588/2s8Z75S9xy) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-backend-clean-architecture/)</sub>
-
 <a name="ponzu"></a>
-### #&#8288;296 [ponzu](https://github.com/ponzu-cms/ponzu) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: known (48) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · BSD-3-Clause · Nov 2025</sub>
+### #&#8288;302 [ponzu](https://github.com/ponzu-cms/ponzu) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: known (49) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · BSD-3-Clause · Nov 2025</sub>
 
 **Go CMS and JSON API server with generated content editors.**
 
@@ -5302,7 +5410,7 @@ Ponzu is a Go HTTP server framework and CMS. A CLI generates content types and a
 <sub>no GPU · Docker · Needs Go 1.8+, git · port 8080 · [Repo](https://github.com/ponzu-cms/ponzu) · [📖 Docs ↗](https://docs.ponzu-cms.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ponzu/)</sub>
 
 <a name="userbase"></a>
-### #&#8288;297 [userbase](https://github.com/smallbets/userbase) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: niche (23) · Freshness: quiet (24) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Jan 2026</sub>
+### #&#8288;303 [userbase](https://github.com/smallbets/userbase) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: niche (23) · Freshness: quiet (24) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Jan 2026</sub>
 
 **Browser SDK for user accounts and encrypted data storage without a backend.**
 
