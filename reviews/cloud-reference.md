@@ -652,7 +652,7 @@ Podinfo is a small Go web service that exposes HTTP and gRPC endpoints for healt
 <sub>Go · Needs Kubernetes v1.23+ (for Helm, Kustomize, Timoni installs), Redis (optional, for /cache endpoints), SPIRE agent (optional, for SPIFFE mTLS) · Docker · [Repo](https://github.com/stefanprodan/podinfo) · [📖 Docs ↗](https://fluxcd.io/flux/get-started/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/podinfo/)</sub>
 
 <a name="ultimo"></a>
-### #&#8288;37 [ultimo](https://github.com/ultimo-rs/ultimo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 555 · MIT · Nov 2026</sub>
+### #&#8288;37 [ultimo](https://github.com/ultimo-rs/ultimo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 554 · MIT · Nov 2026</sub>
 
 **Rust web framework on Hyper and Tokio that generates TypeScript clients.**
 
@@ -1027,7 +1027,7 @@ A NestJS, Prisma and PostgreSQL API, using a Todo app as the domain, that is tak
 <sub>TypeScript · Needs PostgreSQL, Redis, Docker Compose, Prometheus, Grafana, Loki, Tempo, Sentry, AWS ECS · Docker · [Repo](https://github.com/prod-forge/backend) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/backend/)</sub>
 
 <a name="taotao-cloud-project"></a>
-### #&#8288;58 [taotao-cloud-project](https://github.com/shuigedeng/taotao-cloud-project) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 379 · Apache-2.0 · Oct 2026</sub>
+### #&#8288;58 [taotao-cloud-project](https://github.com/shuigedeng/taotao-cloud-project) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 379 · Apache-2.0 · Oct 2026</sub>
 
 **Spring Cloud Alibaba microservice scaffold with a B2B2C mall and big-data modules.**
 
@@ -1153,7 +1153,7 @@ Monorepo of example projects maintained by Vercel, split into solutions (demos a
 <sub>TypeScript · Needs pnpm, Next.js, Vercel · [Repo](https://github.com/vercel/examples) · [📖 Docs ↗](https://vercel.com/docs) · [🌐 Site ↗](https://vercel.com/templates) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/examples/)</sub>
 
 <a name="node-typescript-boilerplate"></a>
-### #&#8288;65 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (40) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;65 [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (39) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Oct 2026</sub>
 
 **Framework-free Node.js TypeScript starter with Vitest, ESLint and CI.**
 

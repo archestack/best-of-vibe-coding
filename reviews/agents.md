@@ -22,7 +22,7 @@ DeepSeek Harness (`dsh`) is a TypeScript agent harness built on the Cordis plugi
 <sub>TypeScript · Needs Node.js, pnpm (source build) · [Repo](https://github.com/deepseek-ai/deepseek-harness) · [📖 Docs ↗](https://deepseek-harness.github.io/deepseek-harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepseek-harness/)</sub>
 
 <a name="composio"></a>
-### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### 🥈 [composio](https://github.com/composiohq/composio) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
 
 **TypeScript and Python SDKs that give agents authenticated tools across 1000+ apps.**
 
@@ -146,26 +146,8 @@ A TypeScript library that keeps a virtual filesystem in a Cloudflare Durable Obj
 
 <sub>TypeScript · Needs Cloudflare Workers, Durable Objects, Dynamic Workers, Cloudflare Containers · [Repo](https://github.com/cloudflare/computer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer/)</sub>
 
-<a name="agentteams"></a>
-### #&#8288;9 [agentteams](https://github.com/agentscope-ai/agentteams) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · Apache-2.0 · Nov 2026</sub>
-
-**Coordinates a Manager agent and Worker agents in Matrix rooms.**
-
-AgentTeams runs a Manager agent and multiple Worker agents (OpenClaw, QwenPaw, Hermes, experimental DeepSeek Harness), each in its own container, inside Matrix rooms where humans can watch and intervene. It bundles a Higress AI gateway that holds real credentials, a Tuwunel Matrix server with Element Web, and MinIO shared storage. It installs locally via script or on Kubernetes via Helm.
-
-- **+** Workers hold only gateway tokens; real API keys and GitHub PATs stay in Higress
-- **+** Mixes several agent runtimes in one Matrix room with human intervention
-- **+** One-command local installer plus a Helm chart for Kubernetes 1.24+
-- **+** Built-in Matrix server and Element Web, so no Slack or DingTalk bot setup
-- **−** Runs a full stack: gateway, Matrix server, MinIO, controller, Manager and Worker containers
-- **−** Default install pipes a remote shell script to bash
-- **−** Helm images default to a China-region registry
-- **−** Manager supports only OpenClaw or QwenPaw; DeepSeek Harness Worker is experimental
-
-<sub>Go, OpenAI-compatible APIs, Qwen · Needs Docker, OrbStack or Podman, Higress AI gateway, Tuwunel (Matrix), Element Web, MinIO, Kubernetes 1.24+ and Helm 3.7+ (cluster install) · [Repo](https://github.com/agentscope-ai/agentteams) · [📖 Docs ↗](https://github.com/agentscope-ai/AgentTeams/blob/main/docs/quickstart.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agentteams/)</sub>
-
 <a name="soduwork"></a>
-### #&#8288;10 [soduwork](https://github.com/mdiri-ai/soduwork) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · MIT · Nov 2026</sub>
+### #&#8288;9 [soduwork](https://github.com/mdiri-ai/soduwork) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Nov 2026</sub>
 
 **Team workspace that routes requests to agent harnesses with AI review.**
 
@@ -182,8 +164,26 @@ SoduWork is a Hub, admin console and desktop client that dispatches requests to 
 
 <sub>JavaScript, OpenAI-compatible chat models, DeepSeek, Codex (own OpenAI account), self-hosted models · Needs Python 3.12+, Node.js 22.19+, Git, PostgreSQL (Docker deploy) · [Repo](https://github.com/mdiri-ai/soduwork) · [▶️ Demo ↗](https://soduwork.ai) · [📖 Docs ↗](https://dev.soduwork.ai) · [🌐 Site ↗](https://soduwork.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/soduwork/)</sub>
 
+<a name="agentteams"></a>
+### #&#8288;10 [agentteams](https://github.com/agentscope-ai/agentteams) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · Apache-2.0 · Nov 2026</sub>
+
+**Coordinates a Manager agent and Worker agents in Matrix rooms.**
+
+AgentTeams runs a Manager agent and multiple Worker agents (OpenClaw, QwenPaw, Hermes, experimental DeepSeek Harness), each in its own container, inside Matrix rooms where humans can watch and intervene. It bundles a Higress AI gateway that holds real credentials, a Tuwunel Matrix server with Element Web, and MinIO shared storage. It installs locally via script or on Kubernetes via Helm.
+
+- **+** Workers hold only gateway tokens; real API keys and GitHub PATs stay in Higress
+- **+** Mixes several agent runtimes in one Matrix room with human intervention
+- **+** One-command local installer plus a Helm chart for Kubernetes 1.24+
+- **+** Built-in Matrix server and Element Web, so no Slack or DingTalk bot setup
+- **−** Runs a full stack: gateway, Matrix server, MinIO, controller, Manager and Worker containers
+- **−** Default install pipes a remote shell script to bash
+- **−** Helm images default to a China-region registry
+- **−** Manager supports only OpenClaw or QwenPaw; DeepSeek Harness Worker is experimental
+
+<sub>Go, OpenAI-compatible APIs, Qwen · Needs Docker, OrbStack or Podman, Higress AI gateway, Tuwunel (Matrix), Element Web, MinIO, Kubernetes 1.24+ and Helm 3.7+ (cluster install) · [Repo](https://github.com/agentscope-ai/agentteams) · [📖 Docs ↗](https://github.com/agentscope-ai/AgentTeams/blob/main/docs/quickstart.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agentteams/)</sub>
+
 <a name="epicenter"></a>
-### #&#8288;11 [epicenter](https://github.com/epicenterhq/epicenter) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (69) · Freshness: active (88) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · custom license · Nov 2026</sub>
+### #&#8288;11 [epicenter](https://github.com/epicenterhq/epicenter) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (68) · Freshness: active (88) · Maintenance: healthy (87) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · custom license · Nov 2026</sub>
 
 **Personal data runtime that serves Markdown-backed app actions to CLI and MCP.**
 
@@ -201,7 +201,7 @@ Epicenter keeps one person's app data as Markdown files in a private Git reposit
 <sub>TypeScript · Needs Bun, Git, Rust (Whispering desktop build only) · [Repo](https://github.com/epicenterhq/epicenter) · [🌐 Site ↗](https://epicenter.so) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/epicenter/)</sub>
 
 <a name="docker-agent"></a>
-### #&#8288;12 [docker-agent](https://github.com/docker/docker-agent) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [docker-agent](https://github.com/docker/docker-agent) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
 
 **Docker CLI plugin that runs multi-agent teams defined in YAML.**
 
@@ -432,7 +432,7 @@ AgenticX is a Python agent SDK and `agx` CLI with a FastAPI/SSE Studio server, c
 <sub>Python, OpenAI, Anthropic, Ollama, Gemini · Needs Python 3.10+, Redis (optional), PostgreSQL or MySQL (Enterprise), Chroma (Desktop knowledge base default), Docker or Microsandbox (optional sandbox) · Docker · [Repo](https://github.com/demondamon/agenticx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agenticx/)</sub>
 
 <a name="rome"></a>
-### #&#8288;25 [rome](https://github.com/rome-os/rome) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 914 · MIT · Nov 2026</sub>
+### #&#8288;25 [rome](https://github.com/rome-os/rome) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 916 · MIT · Nov 2026</sub>
 
 **Agent runtime where agents build and keep installable apps and actions.**
 
@@ -684,7 +684,7 @@ A Next.js and CopilotKit chat frontend backed by a Python Deep Agent (FastAPI). 
 <sub>TypeScript, OpenAI chat-latest, jev-latest · Needs OpenAI API, Jev router (TYPESAFE_API_KEY), Node.js 22+, pnpm 9+, Python 3.12+, uv · Docker · env example file · [Repo](https://github.com/copilotkit/openintelligentui) · [📖 Docs ↗](https://github.com/CopilotKit/OpenIntelligentUI/blob/main/docs/README.md) · [🌐 Site ↗](https://copilotkit.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengenerativeui/)</sub>
 
 <a name="agents-universe"></a>
-### #&#8288;39 [agents-universe](https://github.com/agents-universe/agents-universe) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 962 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;39 [agents-universe](https://github.com/agents-universe/agents-universe) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 965 · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted multi-agent platform with Product Owner, Tech Lead and QA roles.**
 
@@ -827,26 +827,8 @@ A forkable template for a personal agent built on the Eve agent framework and Nu
 
 <sub>TypeScript · Needs Node.js 24+, pnpm, PostgreSQL (NuxtHub), Vercel Blob, Vercel Connect, Better Auth, Eve · GitHub template · env example file · sign-in: Better Auth · [Repo](https://github.com/vercel-labs/personal-agent-template) · [📖 Docs ↗](https://github.com/vercel-labs/personal-agent-template/blob/main/docs/CUSTOMIZATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/personal-agent-template/)</sub>
 
-<a name="shepherd"></a>
-### #&#8288;47 [shepherd](https://github.com/shepherd-agents/shepherd) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Sep 2026</sub>
-
-**Python runtime that records agent runs as reviewable, reversible traces.**
-
-Shepherd is a Python framework where a task is a bodiless function whose signature and docstring define what a sandboxed agent (e.g. Claude via the claude CLI) must do. Agent output is held as a retained changeset that you inspect, then select, apply, release or discard. Write permissions come from type annotations such as May[GitRepo, ReadOnly], enforced by macOS Seatbelt or Linux Landlock. The project is in early alpha.
-
-- **+** Agent writes land as retained outputs; nothing touches your files until you accept
-- **+** Per-repository ReadOnly/ReadWrite grants declared in the signature, enforced at the syscall
-- **+** Offline quickstart with a deterministic provider needs no API key
-- **+** Three-way merge of a candidate onto a workspace that has moved on
-- **−** Early alpha; README warns APIs may change between releases
-- **−** Windows unsupported; WSL required
-- **−** Linux Landlock enforcement runs only in a privileged container
-- **−** Grants are whole-profile per binding; sub-path grants not supported yet
-
-<sub>Python, Claude (via claude CLI, subscription or ANTHROPIC_API_KEY), deterministic offline provider · Needs Python 3.11+, claude CLI (for the agent quickstart) · Docker · env example file · [Repo](https://github.com/shepherd-agents/shepherd) · [📖 Docs ↗](https://docs.shepherd-agents.ai/) · [🌐 Site ↗](https://shepherd-agents.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shepherd/)</sub>
-
 <a name="tinyfish-cookbook"></a>
-### #&#8288;48 [tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Nov 2026</sub>
+### #&#8288;47 [tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Nov 2026</sub>
 
 **Example apps and n8n workflows built on the TinyFish web agent API.**
 
@@ -862,6 +844,24 @@ A monorepo of standalone recipes that call TinyFish's hosted Search, Fetch, Agen
 - **−** No release tags and no shared template; each recipe sets up its own stack
 
 <sub>TypeScript · Needs TinyFish API key, TinyFish hosted Search/Fetch/Agent/Browser API, Vercel (for demos), n8n (for workflows) · [Repo](https://github.com/tinyfish-io/tinyfish-cookbook) · [▶️ Demo ↗](https://cookbook-viet-bike-scout.vercel.app/) · [📖 Docs ↗](https://docs.tinyfish.ai/) · [🌐 Site ↗](https://tinyfish.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tinyfish-cookbook/)</sub>
+
+<a name="shepherd"></a>
+### #&#8288;48 [shepherd](https://github.com/shepherd-agents/shepherd) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Sep 2026</sub>
+
+**Python runtime that records agent runs as reviewable, reversible traces.**
+
+Shepherd is a Python framework where a task is a bodiless function whose signature and docstring define what a sandboxed agent (e.g. Claude via the claude CLI) must do. Agent output is held as a retained changeset that you inspect, then select, apply, release or discard. Write permissions come from type annotations such as May[GitRepo, ReadOnly], enforced by macOS Seatbelt or Linux Landlock. The project is in early alpha.
+
+- **+** Agent writes land as retained outputs; nothing touches your files until you accept
+- **+** Per-repository ReadOnly/ReadWrite grants declared in the signature, enforced at the syscall
+- **+** Offline quickstart with a deterministic provider needs no API key
+- **+** Three-way merge of a candidate onto a workspace that has moved on
+- **−** Early alpha; README warns APIs may change between releases
+- **−** Windows unsupported; WSL required
+- **−** Linux Landlock enforcement runs only in a privileged container
+- **−** Grants are whole-profile per binding; sub-path grants not supported yet
+
+<sub>Python, Claude (via claude CLI, subscription or ANTHROPIC_API_KEY), deterministic offline provider · Needs Python 3.11+, claude CLI (for the agent quickstart) · Docker · env example file · [Repo](https://github.com/shepherd-agents/shepherd) · [📖 Docs ↗](https://docs.shepherd-agents.ai/) · [🌐 Site ↗](https://shepherd-agents.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shepherd/)</sub>
 
 <a name="openai-cua-sample-app"></a>
 ### #&#8288;49 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Oct 2026</sub>
@@ -1285,7 +1285,7 @@ A Turborepo with a Next.js 16 frontend on assistant-ui and a LangGraph.js backen
 <sub>TypeScript, openai, langgraph, assistant-ui · Needs openai-api-key, financial-datasets-api-key, tavily-api-key · [Repo](https://github.com/assistant-ui/assistant-ui-stockbroker) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/assistant-ui-stockbroker/)</sub>
 
 <a name="mcp-agent"></a>
-### #&#8288;73 [mcp-agent](https://github.com/lastmile-ai/mcp-agent) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: popular (80) · Freshness: quiet (17) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;73 [mcp-agent](https://github.com/lastmile-ai/mcp-agent) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: popular (80) · Freshness: quiet (17) · Maintenance: weak (9) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Jan 2026</sub>
 
 **Python framework for building MCP-connected agents with composable workflow patterns.**
 
@@ -1303,7 +1303,7 @@ mcp-agent is a Python library that connects LLMs to MCP servers and manages serv
 <sub>Python, OpenAI, Anthropic, Google, Azure · Needs Temporal (optional, durable execution), MCP servers (e.g. uvx, npx), LLM provider API key · [Repo](https://github.com/lastmile-ai/mcp-agent) · [📖 Docs ↗](https://docs.mcp-agent.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-agent/)</sub>
 
 <a name="openai-apps-sdk-examples"></a>
-### #&#8288;74 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: popular (51) · Freshness: recent (53) · Maintenance: weak (1) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
+### #&#8288;74 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (51) · Freshness: recent (53) · Maintenance: weak (1) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Apr 2026</sub>
 
 **Example MCP servers and widgets for ChatGPT apps on the Apps SDK.**
 

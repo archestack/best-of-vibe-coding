@@ -203,7 +203,7 @@ OpenSEO is a self-hostable alternative to Semrush and Ahrefs covering keyword re
 <sub>no GPU · Docker + Compose · Needs DataForSEO API key, Docker Compose or Cloudflare account · [Repo](https://github.com/every-app/open-seo) · [📖 Docs ↗](https://openseo.so/docs/mcp) · [🌐 Site ↗](https://openseo.so) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-seo/)</sub>
 
 <a name="context7"></a>
-### #&#8288;12 [context7](https://github.com/upstash/context7) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 65k · MIT · Nov 2026</sub>
+### #&#8288;12 [context7](https://github.com/upstash/context7) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 65k · MIT · Nov 2026</sub>
 
 **MCP server and CLI that feed current library docs to coding agents.**
 
@@ -382,7 +382,7 @@ OmniGet is a Rust desktop app for Windows, macOS and Linux that downloads video,
 <sub>Needs yt-dlp, FFmpeg, gallery-dl · Models: Claude Code, Codex, Gemini CLI, Ollama, LM Studio · [Repo](https://github.com/tonhowtf/omniget) · [🌐 Site ↗](https://getomniget.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/omniget/)</sub>
 
 <a name="ghidra-mcp"></a>
-### #&#8288;22 [ghidra-mcp](https://github.com/bethington/ghidra-mcp) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;22 [ghidra-mcp](https://github.com/bethington/ghidra-mcp) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server exposing Ghidra reverse-engineering tools to AI clients.**
 
@@ -759,7 +759,7 @@ DevSpace is a Node-based MCP server that exposes selected local project folders 
 <sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
 
 <a name="vapi-network"></a>
-### #&#8288;43 [vapi-network](https://github.com/vapi-network/vapi-network) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;43 [vapi-network](https://github.com/vapi-network/vapi-network) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Nov 2026</sub>
 
 **Non-custodial CLI and MCP client for paying x402 APIs in USDC on Base.**
 
@@ -1047,7 +1047,7 @@ Androguard 5 opens APKs and DEX files to inspect the manifest, permissions, clas
 <sub>no GPU · Needs Python, Rust toolchain (source install and optional extras), apk-parser, dex-parser · [Repo](https://github.com/androguard/androguard) · [📖 Docs ↗](http://androguard.github.io/androguard/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/androguard/)</sub>
 
 <a name="playwriter"></a>
-### #&#8288;59 [playwriter](https://github.com/remorses/playwriter) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
+### #&#8288;59 [playwriter](https://github.com/remorses/playwriter) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
 
 **Lets agents drive your running Chrome via Playwright, CLI or MCP.**
 
@@ -1658,7 +1658,7 @@ OpenLore serves a folder of Markdown as a virtual filesystem that agents read wi
 <sub>no GPU · Docker · port 8080 · [Repo](https://github.com/aakarim/openlore) · [📖 Docs ↗](https://openlore.sh/docs/) · [🌐 Site ↗](https://openlore.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openlore/)</sub>
 
 <a name="api-anything"></a>
-### #&#8288;93 [api-anything](https://github.com/goodnight000/api-anything) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · MIT · Nov 2026</sub>
+### #&#8288;93 [api-anything](https://github.com/goodnight000/api-anything) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Nov 2026</sub>
 
 **Learns a website's own HTTP requests and exposes them to agents as operations.**
 
@@ -1712,7 +1712,7 @@ Node.js MCP server that drives a booted iOS Simulator through Facebook IDB and x
 <sub>no GPU · Needs Node.js 20+, macOS, Xcode, iOS simulators, Facebook IDB · [Repo](https://github.com/joshuayoes/ios-simulator-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ios-simulator-mcp/)</sub>
 
 <a name="matlab-mcp-server"></a>
-### #&#8288;96 [matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · custom license · Nov 2026</sub>
+### #&#8288;96 [matlab-mcp-server](https://github.com/matlab/matlab-mcp-server) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · custom license · Nov 2026</sub>
 
 **Official MathWorks MCP server that lets AI agents run and check MATLAB code.**
 
@@ -1802,7 +1802,7 @@ ARTEMIS runs a multimodal agent that operates an Android device or emulator over
 <sub>Docker · Needs ADB, scrcpy, FFmpeg, uv, Python 3.12+, Android device or emulator with USB debugging · Models: Gemini, Claude, GPT-4o, Qwen-VL · port 8000 · safety checks passed 12 of 17 · [Repo](https://github.com/google/artemis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/artemis/)</sub>
 
 <a name="exa-mcp-server"></a>
-### #&#8288;101 [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
+### #&#8288;101 [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Nov 2026</sub>
 
 **Exa web search and page-fetch tools for MCP clients.**
 
@@ -1838,7 +1838,7 @@ A Unity package plus a Node.js MCP server that connects to the Editor over WebSo
 <sub>no GPU · Needs Unity 6 or later, Node.js 18 or later, npm 9 or later (for debugging the server) · Models: Cursor, Windsurf, Claude Code, Codex CLI, GitHub Copilot · [Repo](https://github.com/codergamester/mcp-unity) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-unity/)</sub>
 
 <a name="mcp-searxng"></a>
-### #&#8288;103 [mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
+### #&#8288;103 [mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Nov 2026</sub>
 
 **MCP server giving AI assistants web search and URL reading through SearXNG.**
 
@@ -1873,26 +1873,8 @@ Ix parses a repository with tree-sitter into a graph of symbols, calls and impor
 
 <sub>Compose · Needs Docker, Docker Compose, ArangoDB, Node.js 22+, Git, ripgrep · [Repo](https://github.com/ix-infrastructure/ix) · [🌐 Site ↗](https://www.ix-infra.com/ix) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ix/)</sub>
 
-<a name="anymd"></a>
-### #&#8288;105 [anymd](https://github.com/sylphxai/anymd) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
-
-**Rust MCP server and CLI that converts documents and media to Markdown.**
-
-anymd converts PDF, Word, PowerPoint, Excel, EPUB, HTML, URLs, images (OCR) and audio/video (metadata, subtitles, transcripts) to Markdown with page anchors. It runs as a stdio MCP server exposing outline, read, search and inspect tools, and as a CLI. Parsing is native Rust and local; the README's own benchmark reports 96.4 overall on 38 documents in 11.5 s.
-
-- **+** Four MCP tools with page-cited output, token budget and cursor pagination
-- **+** Native Rust parsing; no Python, LibreOffice or cloud service needed
-- **+** One-command setup configures Claude Code, Cursor, Codex, VS Code and others
-- **+** Open benchmark with reproducible harness; converted 38/38 docs in 11.5 s
-- **−** cite_check and video timeline/render_frame require paid Pro licence (US$29)
-- **−** Benchmarks are self-published; OmniDocBench image OCR score is 21.4
-- **−** OCR setup downloads about 2 GB of models; ASR weights need explicit opt-in
-- **−** Audio and video features depend on ffmpeg/ffprobe being installed
-
-<sub>GPU optional · Docker · Needs Node 18+ (npx install), ffmpeg/ffprobe (audio, video), tesseract (optional OCR) · Models: Qwen3-ASR (local transcripts), local doc-VLM OCR models · [Repo](https://github.com/sylphxai/anymd) · [📖 Docs ↗](https://sylphxai.github.io/anymd/) · [🌐 Site ↗](https://sylphxai.github.io/anymd/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/anymd/)</sub>
-
 <a name="cli-anything"></a>
-### #&#8288;106 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 61k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;105 [cli-anything](https://github.com/hkuds/cli-anything) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 62k · Apache-2.0 · Sep 2026</sub>
 
 **Generates command-line wrappers so AI agents can drive desktop and backend software.**
 
@@ -1910,7 +1892,7 @@ CLI-Anything runs a 7-phase generator inside a coding agent such as Claude Code,
 <sub>no GPU · Needs Python 3.10+, A supported AI coding agent (for generating new CLIs), Upstream apps the chosen CLI wraps (e.g. GIMP, Blender, LibreOffice) · safety checks passed 9 of 13 · [Repo](https://github.com/hkuds/cli-anything) · [📖 Docs ↗](https://arxiv.org/abs/2606.03854) · [🌐 Site ↗](https://hkuds.github.io/CLI-Anything/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-anything/)</sub>
 
 <a name="agentdock"></a>
-### #&#8288;107 [agentdock](https://github.com/uvwt/agentdock) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;106 [agentdock](https://github.com/uvwt/agentdock) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · Apache-2.0 · Nov 2026</sub>
 
 **MCP server that lets AI assistants use files, shell and Git on your machines.**
 
@@ -1928,7 +1910,7 @@ AgentDock is a Go MCP server (Streamable HTTP) that gives ChatGPT, Claude or Cod
 <sub>no GPU · Docker + Compose · Needs Cloudflare (optional, for public address), NexusDock (optional, for pairing) · Models: ChatGPT, Claude, Codex · port 8765 · [Repo](https://github.com/uvwt/agentdock) · [📖 Docs ↗](https://docs.nexusdock.co/agentdock/) · [🌐 Site ↗](https://www.nexusdock.co/download/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agentdock/)</sub>
 
 <a name="mcpc"></a>
-### #&#8288;108 [mcpc](https://github.com/apify/mcpc) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;107 [mcpc](https://github.com/apify/mcpc) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
 
 **Command-line client that maps MCP operations to shell commands.**
 
@@ -1944,6 +1926,24 @@ mcpc is a TypeScript CLI for the Model Context Protocol. It connects to remote (
 - **−** Bulk auto-discovery skips config entries that reference environment variables
 
 <sub>no GPU · Needs Node.js or Bun, OS keychain (Secret Service on Linux, optional) · [Repo](https://github.com/apify/mcpc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpc/)</sub>
+
+<a name="anymd"></a>
+### #&#8288;108 [anymd](https://github.com/sylphxai/anymd) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+
+**Rust MCP server and CLI that converts documents and media to Markdown.**
+
+anymd converts PDF, Word, PowerPoint, Excel, EPUB, HTML, URLs, images (OCR) and audio/video (metadata, subtitles, transcripts) to Markdown with page anchors. It runs as a stdio MCP server exposing outline, read, search and inspect tools, and as a CLI. Parsing is native Rust and local; the README's own benchmark reports 96.4 overall on 38 documents in 11.5 s.
+
+- **+** Four MCP tools with page-cited output, token budget and cursor pagination
+- **+** Native Rust parsing; no Python, LibreOffice or cloud service needed
+- **+** One-command setup configures Claude Code, Cursor, Codex, VS Code and others
+- **+** Open benchmark with reproducible harness; converted 38/38 docs in 11.5 s
+- **−** cite_check and video timeline/render_frame require paid Pro licence (US$29)
+- **−** Benchmarks are self-published; OmniDocBench image OCR score is 21.4
+- **−** OCR setup downloads about 2 GB of models; ASR weights need explicit opt-in
+- **−** Audio and video features depend on ffmpeg/ffprobe being installed
+
+<sub>GPU optional · Docker · Needs Node 18+ (npx install), ffmpeg/ffprobe (audio, video), tesseract (optional OCR) · Models: Qwen3-ASR (local transcripts), local doc-VLM OCR models · [Repo](https://github.com/sylphxai/anymd) · [📖 Docs ↗](https://sylphxai.github.io/anymd/) · [🌐 Site ↗](https://sylphxai.github.io/anymd/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/anymd/)</sub>
 
 <a name="code2prompt"></a>
 ### #&#8288;109 [code2prompt](https://github.com/mufeedvh/code2prompt) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (73) · Freshness: active (86) · Maintenance: patchy (46) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
@@ -1982,7 +1982,7 @@ serve-sim runs a Swift helper that captures a booted iOS, iPad or Watch simulato
 <sub>Needs macOS (Apple Silicon), Xcode command line tools (xcrun simctl), Node.js 20+ · port 3200 · [Repo](https://github.com/evanbacon/serve-sim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serve-sim/)</sub>
 
 <a name="photoshop-mcp"></a>
-### #&#8288;111 [photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 929 · MIT · Nov 2026</sub>
+### #&#8288;111 [photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 930 · MIT · Nov 2026</sub>
 
 **MCP server that drives Adobe Photoshop with 128 tools and a built-in chat UI.**
 
@@ -2072,7 +2072,7 @@ Kanzo is a single Rust binary that serves a kanban board in the browser and an M
 <sub>no GPU · port 4242 · [Repo](https://github.com/emanuele-em/kanzo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kanzo/)</sub>
 
 <a name="computer-use-linux"></a>
-### #&#8288;116 [computer-use-linux](https://github.com/agent-sh/computer-use-linux) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 912 · MIT · Nov 2026</sub>
+### #&#8288;116 [computer-use-linux](https://github.com/agent-sh/computer-use-linux) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 913 · MIT · Nov 2026</sub>
 
 **Rust MCP server and CLI for controlling a Linux desktop from AI agents.**
 
@@ -2322,26 +2322,8 @@ OpenSERP loads search results for Google, Bing, Yandex, Baidu, DuckDuckGo and Ec
 
 <sub>no GPU · Docker + Compose · Needs Chromium, Node.js 18+ (MCP server), HTTP/SOCKS5 proxies (optional) · port 7000 · [Repo](https://github.com/karust/openserp) · [📖 Docs ↗](https://github.com/karust/openserp/blob/main/docs/openapi.yaml) · [🌐 Site ↗](https://openserp.org/cloud/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openserp/)</sub>
 
-<a name="figma-mcp-bridge"></a>
-### #&#8288;130 [figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 937 · MIT · Nov 2026</sub>
-
-**Figma plugin and MCP server that reads and edits live Figma files locally.**
-
-A Figma development plugin paired with an MCP server that talks to it over WebSocket, so AI tools can read document trees, styles, variables, prototype flows and screenshots without calling the Figma REST API. It also has write tools for creating and editing frames, text, fills, auto-layout and FigJam objects, plus an opt-in run_script tool. Several open files can be targeted by fileKey.
-
-- **+** Avoids Figma API rate limits, which the README puts at 6 requests per month on free plans
-- **+** Runs via npx with no binaries; configured as a standard MCP server entry
-- **+** Over 50 tools covering reads, edits, prototype tracing, FigJam and multiple files by fileKey
-- **+** run_script is off by default and delete_nodes requires confirm: true
-- **−** Needs the Figma desktop app on macOS or Windows; browser Figma cannot import dev plugins
-- **−** Plugin must be imported manually from a release manifest and run in each file
-- **−** No components or instances, variables or styles authoring, or boolean operations
-- **−** Leader HTTP endpoints have no authentication; bound to 127.0.0.1 unless overridden
-
-<sub>no GPU · Needs Figma desktop app, Node.js (npx) · [Repo](https://github.com/gethopp/figma-mcp-bridge) · [▶️ Demo ↗](https://youtu.be/ouygIhFBx0g) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/figma-mcp-bridge/)</sub>
-
 <a name="adobe-premiere-pro-mcp"></a>
-### #&#8288;131 [adobe_premiere_pro_mcp](https://github.com/hetpatel-11/adobe_premiere_pro_mcp) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 907 · MIT · Oct 2026</sub>
+### #&#8288;130 [adobe_premiere_pro_mcp](https://github.com/hetpatel-11/adobe_premiere_pro_mcp) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 910 · MIT · Oct 2026</sub>
 
 **MCP server that drives Adobe Premiere Pro through a CEP panel.**
 
@@ -2357,6 +2339,24 @@ A local Node.js MCP server that exposes 283 catalog tools for editing Premiere P
 - **−** import_ae_comps is not advertised because .aep import can wedge the bridge
 
 <sub>no GPU · Needs Adobe Premiere Pro 2020+, Node.js 20+, MCP Bridge (CEP) panel · Models: Any MCP client (Claude Desktop, Claude Code, Codex, GitHub Copilot in VS Code) · [Repo](https://github.com/hetpatel-11/adobe_premiere_pro_mcp) · [🌐 Site ↗](https://premiere-mcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adobe-premiere-pro-mcp/)</sub>
+
+<a name="figma-mcp-bridge"></a>
+### #&#8288;131 [figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 938 · MIT · Nov 2026</sub>
+
+**Figma plugin and MCP server that reads and edits live Figma files locally.**
+
+A Figma development plugin paired with an MCP server that talks to it over WebSocket, so AI tools can read document trees, styles, variables, prototype flows and screenshots without calling the Figma REST API. It also has write tools for creating and editing frames, text, fills, auto-layout and FigJam objects, plus an opt-in run_script tool. Several open files can be targeted by fileKey.
+
+- **+** Avoids Figma API rate limits, which the README puts at 6 requests per month on free plans
+- **+** Runs via npx with no binaries; configured as a standard MCP server entry
+- **+** Over 50 tools covering reads, edits, prototype tracing, FigJam and multiple files by fileKey
+- **+** run_script is off by default and delete_nodes requires confirm: true
+- **−** Needs the Figma desktop app on macOS or Windows; browser Figma cannot import dev plugins
+- **−** Plugin must be imported manually from a release manifest and run in each file
+- **−** No components or instances, variables or styles authoring, or boolean operations
+- **−** Leader HTTP endpoints have no authentication; bound to 127.0.0.1 unless overridden
+
+<sub>no GPU · Needs Figma desktop app, Node.js (npx) · [Repo](https://github.com/gethopp/figma-mcp-bridge) · [▶️ Demo ↗](https://youtu.be/ouygIhFBx0g) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/figma-mcp-bridge/)</sub>
 
 <a name="shadcn-ui-mcp-server"></a>
 ### #&#8288;132 [shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (49) · Freshness: active (100) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · MIT · Oct 2026</sub>
@@ -2737,7 +2737,7 @@ MCPM is a Python CLI that keeps a single global list of MCP servers, installed f
 <sub>no GPU · Docker · Needs Python 3.10+ · port 6276 · [Repo](https://github.com/pathintegral-institute/mcpm.sh) · [🌐 Site ↗](https://mcpm.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpm-sh/)</sub>
 
 <a name="coderunner"></a>
-### #&#8288;153 [coderunner](https://github.com/instavm/coderunner) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 904 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;153 [coderunner](https://github.com/instavm/coderunner) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 904 · Apache-2.0 · Nov 2026</sub>
 
 **Local Apple-container sandbox that runs agent Python code via MCP.**
 
