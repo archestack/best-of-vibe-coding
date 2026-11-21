@@ -361,7 +361,7 @@ A .NET template, installed with `dotnet new install`, that scaffolds a Clean Arc
 <sub>C# · Needs .NET 10 SDK, Node.js (Angular/React only), Docker or Podman (PostgreSQL/SQL Server only), Aspire · [Repo](https://github.com/jasontaylordev/cleanarchitecture) · [📖 Docs ↗](https://cleanarchitecture.jasontaylor.dev/docs/getting-started/) · [🌐 Site ↗](https://cleanarchitecture.jasontaylor.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cleanarchitecture/)</sub>
 
 <a name="create-better-t-stack"></a>
-### #&#8288;21 [create-better-t-stack](https://github.com/amanvarshney01/create-better-t-stack) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
+### #&#8288;21 [create-better-t-stack](https://github.com/amanvarshney01/create-better-t-stack) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Nov 2026</sub>
 
 **CLI that scaffolds type-safe TypeScript monorepos from a chosen stack.**
 
@@ -665,7 +665,7 @@ ASP.NET Boilerplate is a C# application framework on ASP.NET Core and EF Core, w
 <sub>C# · Needs ASP.NET Core, EF Core · [Repo](https://github.com/aspnetboilerplate/aspnetboilerplate) · [📖 Docs ↗](https://aspnetboilerplate.com/Pages/Documents) · [🌐 Site ↗](https://aspnetboilerplate.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aspnetboilerplate/)</sub>
 
 <a name="sink"></a>
-### #&#8288;38 [sink](https://github.com/miantiao-me/sink) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;38 [sink](https://github.com/miantiao-me/sink) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Oct 2026</sub>
 
 **Link shortener with analytics that runs on Cloudflare Workers.**
 
@@ -826,8 +826,25 @@ Open Mercato is a TypeScript framework on Next.js and PostgreSQL that scaffolds 
 
 <sub>TypeScript, Claude Code, Codex, Cursor, GitHub Copilot (experimental) · Needs Node.js 24, Yarn 4, Docker, PostgreSQL 17 with pgvector, Redis 7, Meilisearch · Docker · [Repo](https://github.com/open-mercato/open-mercato) · [📖 Docs ↗](https://docs.openmercato.com/) · [🌐 Site ↗](https://openmercatocloud.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-mercato/)</sub>
 
+<a name="better-fullstack"></a>
+### #&#8288;47 [better-fullstack](https://github.com/marve10s/better-fullstack) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 825 · MIT · Nov 2026</sub>
+
+**CLI that scaffolds full-stack apps mixing TypeScript, Rust, Go, Python and more.**
+
+Better Fullstack is an npm CLI (npm create better-fullstack@latest) that generates full-stack projects, with stack parts that can be mixed across languages such as TypeScript, Rust, Go, Python, Java, Kotlin, .NET, Elixir, PHP, Ruby and Crystal. A web Stack Builder and an MCP integration let you or an AI agent choose the stack. Generated projects are maintained with the add, update, check and gen commands.
+
+- **+** Mixes stack parts from many languages in one generated project
+- **+** Lifecycle commands (add, update, check, gen) maintain generated projects
+- **+** Web Stack Builder and MCP setup let AI agents configure the stack
+- **+** Runs through npm, pnpm, yarn or bun
+- **−** A generator, not a fixed boilerplate with auth and billing preconfigured
+- **−** Forked from Better T Stack, so it shares that project's lineage
+- **−** No Docker image or compose file provided
+
+<sub>TypeScript · Needs Node.js, npm, pnpm, yarn or bun · [Repo](https://github.com/marve10s/better-fullstack) · [▶️ Demo ↗](https://better-fullstack.dev/new) · [📖 Docs ↗](https://better-fullstack.dev/docs) · [🌐 Site ↗](https://better-fullstack.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/better-fullstack/)</sub>
+
 <a name="ng-alain"></a>
-### #&#8288;47 [ng-alain](https://github.com/ng-alain/ng-alain) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Oct 2026</sub>
+### #&#8288;48 [ng-alain](https://github.com/ng-alain/ng-alain) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Oct 2026</sub>
 
 **Angular admin UI scaffold built on ng-zorro-antd and the @delon component packages.**
 
@@ -844,7 +861,7 @@ NG-ALAIN is an Angular starter for enterprise admin applications, built on ng-zo
 <sub>TypeScript · Needs ng-zorro-antd, @delon · [Repo](https://github.com/ng-alain/ng-alain) · [▶️ Demo ↗](https://ng-alain.surge.sh) · [📖 Docs ↗](https://ng-alain.com/docs/getting-started) · [🌐 Site ↗](https://ng-alain.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ng-alain/)</sub>
 
 <a name="basic"></a>
-### #&#8288;48 [basic](https://github.com/fantastic-admin/basic) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
+### #&#8288;49 [basic](https://github.com/fantastic-admin/basic) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (49) · Freshness: active (100) · Maintenance: fair (59) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · MIT · Oct 2026</sub>
 
 **Vue 3 admin dashboard framework with themes, menu modes and permission control.**
 
@@ -862,7 +879,7 @@ Fantastic-admin is the basic edition of a Vue 3 admin-panel framework built on V
 <sub>Vue · Needs Node.js · GitHub template · [Repo](https://github.com/fantastic-admin/basic) · [🌐 Site ↗](https://fantastic-admin.hurui.me) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/basic/)</sub>
 
 <a name="uni-app"></a>
-### #&#8288;49 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;50 [uni-app](https://github.com/dcloudio/uni-app) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 42k · Apache-2.0 · Nov 2026</sub>
 
 **Vue framework that builds app, web and mini-program clients from one codebase.**
 
@@ -880,7 +897,7 @@ uni-app is a Vue.js framework that compiles one codebase to iOS, Android, Harmon
 <sub>JavaScript · [Repo](https://github.com/dcloudio/uni-app) · [📖 Docs ↗](https://doc.dcloud.net.cn/uni-app-x/ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uni-app/)</sub>
 
 <a name="react-starter-kit"></a>
-### #&#8288;50 [react-starter-kit](https://github.com/kriasoft/react-starter-kit) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (87) · Freshness: recent (70) · Maintenance: patchy (49) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
+### #&#8288;51 [react-starter-kit](https://github.com/kriasoft/react-starter-kit) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (87) · Freshness: recent (70) · Maintenance: patchy (49) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 24k · MIT · Oct 2026</sub>
 
 **Full-stack SaaS monorepo template on React 19, tRPC and Cloudflare Workers.**
 
@@ -898,7 +915,7 @@ A GitHub template for SaaS apps split into three Cloudflare Workers (Astro marke
 <sub>TypeScript · Needs Cloudflare Workers, Neon PostgreSQL, Bun, Resend, Stripe (optional), Terraform · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/kriasoft/react-starter-kit) · [📖 Docs ↗](https://reactstarter.com/getting-started/) · [🌐 Site ↗](https://reactstarter.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-starter-kit/)</sub>
 
 <a name="vue-admin-better"></a>
-### #&#8288;51 [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+### #&#8288;52 [vue-admin-better](https://github.com/zxwk1998/vue-admin-better) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
 
 **Vue 2 and Element UI admin dashboard template with RBAC and JWT.**
 
@@ -916,7 +933,7 @@ Front-end admin template built on Vue 2 and Element UI, with 40+ example pages, 
 <sub>Vue · Needs Node.js, pnpm · [Repo](https://github.com/zxwk1998/vue-admin-better) · [▶️ Demo ↗](https://zxwk1998.github.io/vue-admin-better/) · [🌐 Site ↗](https://vuejs-core.cn/vue-admin-better) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vue-admin-better/)</sub>
 
 <a name="jeesite5"></a>
-### #&#8288;52 [jeesite5](https://github.com/thinkgem/jeesite5) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;53 [jeesite5](https://github.com/thinkgem/jeesite5) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (32) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Oct 2026</sub>
 
 **Spring Boot and Vue3 admin platform with code generation and AI chat modules.**
 
@@ -934,7 +951,7 @@ JeeSite is a Java low-code platform built on Spring Boot 4, Shiro and MyBatis, w
 <sub>JavaScript, Ollama, DeepSeek, OpenAI-compatible APIs · Needs JDK 17 or 21+, Maven 3.8+, MySQL 8.0+ or other supported database (embedded H2 for quick start), Node.js (Vue front end) · [Repo](https://github.com/thinkgem/jeesite5) · [▶️ Demo ↗](https://vue.jeesite.com) · [📖 Docs ↗](https://jeesite.com/docs) · [🌐 Site ↗](https://jeesite.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jeesite5/)</sub>
 
 <a name="dub-link"></a>
-### #&#8288;53 [dub.link](https://github.com/dubinc/dub.link) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
+### #&#8288;54 [dub.link](https://github.com/dubinc/dub.link) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: patchy (43) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 25k · custom license · Oct 2026</sub>
 
 **Link shortener with click analytics and conversion tracking, built on Next.js.**
 
@@ -952,7 +969,7 @@ Dub Links is a link attribution platform for short links and conversion tracking
 <sub>TypeScript · Needs Upstash Redis, Tinybird, PlanetScale, Stripe, Resend, BoxyHQ SAML/SSO, Node v23.11.0, pnpm 9.15.9 · [Repo](https://github.com/dubinc/dub.link) · [📖 Docs ↗](https://dub.co/docs/self-hosting/guide) · [🌐 Site ↗](https://dub.co) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dub-link/)</sub>
 
 <a name="cult-ui"></a>
-### #&#8288;54 [cult-ui](https://github.com/nolly-studio/cult-ui) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.6k · MIT · Oct 2026</sub>
+### #&#8288;55 [cult-ui](https://github.com/nolly-studio/cult-ui) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.6k · MIT · Oct 2026</sub>
 
 **Animated React components distributed as shadcn/ui registry items.**
 
@@ -970,7 +987,7 @@ Cult UI is a library of 150+ animated React components, such as a dynamic island
 <sub>TypeScript · Needs shadcn/ui, Tailwind CSS v4, Motion · [Repo](https://github.com/nolly-studio/cult-ui) · [📖 Docs ↗](https://www.cult-ui.com/docs) · [🌐 Site ↗](https://www.cult-ui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cult-ui/)</sub>
 
 <a name="farm-js"></a>
-### #&#8288;55 [farm.js](https://github.com/farming-labs/farm.js) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 636 · MIT · Nov 2026</sub>
+### #&#8288;56 [farm.js](https://github.com/farming-labs/farm.js) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 636 · MIT · Nov 2026</sub>
 
 **Vite and Nitro full-stack framework that serves pages to people and AI agents.**
 
@@ -988,7 +1005,7 @@ Farm.js is a TypeScript web framework with Next.js-style app-directory routing, 
 <sub>TypeScript · Needs Node.js 22.13+, pnpm · [Repo](https://github.com/farming-labs/farm.js) · [▶️ Demo ↗](https://stackblitz.com/github/farming-labs/farm.js/tree/main/examples/stackblitz?file=src%2Fapp%2Fpage.tsx&title=Farm.js%20Playground) · [📖 Docs ↗](https://farmjs.dev/docs/configuration) · [🌐 Site ↗](https://farmjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/farm-js/)</sub>
 
 <a name="angular-realworld-example-app"></a>
-### #&#8288;56 [angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · custom license · Nov 2026</sub>
+### #&#8288;57 [angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · custom license · Nov 2026</sub>
 
 **Angular front end for the RealWorld "Conduit" blogging app.**
 
@@ -1006,7 +1023,7 @@ A Medium-style blogging front end ("Conduit") written in Angular and TypeScript 
 <sub>TypeScript · Needs Bun, RealWorld-compatible backend API · [Repo](https://github.com/realworld-apps/angular-realworld-example-app) · [▶️ Demo ↗](https://demo.realworld.show) · [📖 Docs ↗](https://docs.realworld.show/introduction/) · [🌐 Site ↗](https://realworld.show) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/angular-realworld-example-app/)</sub>
 
 <a name="go-wind-admin"></a>
-### #&#8288;57 [go-wind-admin](https://github.com/tx7do/go-wind-admin) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 593 · MIT · Nov 2026</sub>
+### #&#8288;58 [go-wind-admin](https://github.com/tx7do/go-wind-admin) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 593 · MIT · Nov 2026</sub>
 
 **Go and Vue/React admin panel scaffold with RBAC, multi-tenancy and AI chat.**
 
@@ -1024,7 +1041,7 @@ Full-stack admin scaffold with a go-kratos backend (Ent or GORM, MySQL or Postgr
 <sub>Go, OpenAI-compatible APIs, Ollama · Needs PostgreSQL or MySQL, Redis, SeaweedFS, pgvector, Go 1.26+, Node.js 20.19+, pnpm · [Repo](https://github.com/tx7do/go-wind-admin) · [▶️ Demo ↗](https://vben.admin.gowind.cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-wind-admin/)</sub>
 
 <a name="shadcn-dashboard-landing-template"></a>
-### #&#8288;58 [shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;59 [shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Admin dashboard and landing page template in Vite and Next.js with shadcn/ui.**
 
@@ -1042,7 +1059,7 @@ Two parallel codebases, one on Vite and one on Next.js 16 App Router, each with 
 <sub>TypeScript · Needs Node.js 20.19+, pnpm or npm · [Repo](https://github.com/shadcnstore/shadcn-dashboard-landing-template) · [▶️ Demo ↗](https://shadcnstore.com/templates/dashboard/shadcn-dashboard-landing-template/dashboard) · [🌐 Site ↗](https://shadcnstore.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shadcn-dashboard-landing-template/)</sub>
 
 <a name="semi-design"></a>
-### #&#8288;59 [semi-design](https://github.com/douyinfe/semi-design) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: popular (75) · Freshness: active (84) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · custom license · Nov 2026</sub>
+### #&#8288;60 [semi-design](https://github.com/douyinfe/semi-design) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: popular (75) · Freshness: active (84) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · custom license · Nov 2026</sub>
 
 **React UI component library with Figma design-to-code and theming tokens.**
 
@@ -1060,7 +1077,7 @@ Semi UI (@douyinfe/semi-ui) is a React component library from ByteDance's Douyin
 <sub>TypeScript · Needs React · [Repo](https://github.com/douyinfe/semi-design) · [📖 Docs ↗](https://semi.design/en-US/start/getting-started) · [🌐 Site ↗](https://semi.design/en-US/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/semi-design/)</sub>
 
 <a name="bootstrap-admin-template"></a>
-### #&#8288;60 [bootstrap-admin-template](https://github.com/puikinsh/bootstrap-admin-template) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Nov 2026</sub>
+### #&#8288;61 [bootstrap-admin-template](https://github.com/puikinsh/bootstrap-admin-template) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Nov 2026</sub>
 
 **Bootstrap 5 admin dashboard template built with Alpine.js and Vite.**
 
@@ -1078,7 +1095,7 @@ Metis is a static front-end admin template with 30 HTML pages: analytics, users,
 <sub>HTML · Needs Node.js 20.19+, npm or yarn · env example file · [Repo](https://github.com/puikinsh/bootstrap-admin-template) · [▶️ Demo ↗](https://preview.colorlib.com/theme/metis/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bootstrap-admin-template/)</sub>
 
 <a name="refine"></a>
-### #&#8288;61 [refine](https://github.com/refinedev/refine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (93) · Freshness: active (96) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
+### #&#8288;62 [refine](https://github.com/refinedev/refine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: widely used (93) · Freshness: active (96) · Maintenance: weak (24) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 36k · MIT · Sep 2026</sub>
 
 **Headless React framework for admin panels, dashboards and internal tools.**
 
@@ -1096,7 +1113,7 @@ Refine Core is a React meta-framework that supplies hooks and components for the
 <sub>TypeScript · Needs Node.js, React, a backend API (REST, GraphQL, Supabase, etc.) · [Repo](https://github.com/refinedev/refine) · [▶️ Demo ↗](https://refine.dev/core/?playground=true) · [📖 Docs ↗](https://refine.dev/core/docs/) · [🌐 Site ↗](https://refine.dev/core/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/refine/)</sub>
 
 <a name="yournextstore"></a>
-### #&#8288;62 [yournextstore](https://github.com/yournextstore/yournextstore) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (62) · Freshness: active (90) · Maintenance: patchy (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
+### #&#8288;63 [yournextstore](https://github.com/yournextstore/yournextstore) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (62) · Freshness: active (90) · Maintenance: patchy (33) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
 
 **Next.js 16 storefront template backed by the Your Next Store API and Stripe.**
 
@@ -1114,7 +1131,7 @@ A Next.js 16 e-commerce storefront using App Router, Tailwind v4 and Shadcn UI, 
 <sub>TypeScript · Needs YNS API (yns.store), Stripe, Node.js 24+, Bun 1.0+ · GitHub template · env example file · [Repo](https://github.com/yournextstore/yournextstore) · [▶️ Demo ↗](https://demo.yournextstore.com) · [🌐 Site ↗](https://yournextstore.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yournextstore/)</sub>
 
 <a name="satus"></a>
-### #&#8288;63 [satus](https://github.com/darkroomengineering/satus) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+### #&#8288;64 [satus](https://github.com/darkroomengineering/satus) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
 
 **Next.js 16 starter for creative marketing sites with optional WebGL and Sanity.**
 
@@ -1132,7 +1149,7 @@ Satus is a Next.js 16 / React 19 template with Tailwind v4 plus CSS Modules, str
 <sub>TypeScript · Needs Node.js >= 24.20, Bun >= 1.4.0, dotenvx, Vercel (optional), Sanity (optional), Shopify (optional), HubSpot (optional), Mailchimp (optional) · GitHub template · env example file · [Repo](https://github.com/darkroomengineering/satus) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/satus/)</sub>
 
 <a name="libraries-dev"></a>
-### #&#8288;64 [libraries.dev](https://github.com/jakubantalik/libraries.dev) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Nov 2026</sub>
+### #&#8288;65 [libraries.dev](https://github.com/jakubantalik/libraries.dev) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Nov 2026</sub>
 
 **React UI effect libraries: border glow, thinking orbs, bot avatars, liquid metal.**
 
@@ -1150,7 +1167,7 @@ Monorepo of separate npm packages (border-beam, thinking-orbs, bot-avatars, liqu
 <sub>TypeScript · Needs React 18+, three (img-fx only) · [Repo](https://github.com/jakubantalik/libraries.dev) · [▶️ Demo ↗](https://libraries.dev) · [🌐 Site ↗](https://libraries.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/libraries-dev/)</sub>
 
 <a name="frappe-ui"></a>
-### #&#8288;65 [frappe-ui](https://github.com/frappe/frappe-ui) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
+### #&#8288;66 [frappe-ui](https://github.com/frappe/frappe-ui) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
 
 **Vue 3 and Tailwind component library for Frappe apps, with agent skill.**
 
@@ -1168,7 +1185,7 @@ Frappe UI is an npm package of 50+ Vue 3 components built on Tailwind CSS and Re
 <sub>TypeScript · Needs Node >=20.19.0, Vite, Vue >=3.5, Tailwind CSS >=3.4 <4, Frappe backend (for data composables) · [Repo](https://github.com/frappe/frappe-ui) · [📖 Docs ↗](https://ui.frappe.io) · [🌐 Site ↗](https://frappe.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frappe-ui/)</sub>
 
 <a name="coreui-free-react-admin-template"></a>
-### #&#8288;66 [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Sep 2026</sub>
+### #&#8288;67 [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Sep 2026</sub>
 
 **React 19 admin dashboard template built on CoreUI components and Vite.**
 
@@ -1186,7 +1203,7 @@ A free React admin dashboard starter using @coreui/react components, Vite, SCSS 
 <sub>JavaScript · Needs Node.js, npm or yarn, @coreui/react · [Repo](https://github.com/coreui/coreui-free-react-admin-template) · [📖 Docs ↗](https://coreui.io/react/docs/templates/installation/) · [🌐 Site ↗](https://coreui.io/product/free-react-admin-template/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coreui-free-react-admin-template/)</sub>
 
 <a name="next-shadcn-admin-dashboard"></a>
-### #&#8288;67 [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Nov 2026</sub>
+### #&#8288;68 [next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Nov 2026</sub>
 
 **Next.js 16 admin dashboard template with shadcn/ui and theme presets.**
 
@@ -1204,7 +1221,7 @@ Admin dashboard template built on Next.js 16 (App Router), TypeScript, Tailwind 
 <sub>TypeScript · Needs Node.js, npm · [Repo](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) · [▶️ Demo ↗](https://studio-admin.arhamkhnz.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-shadcn-admin-dashboard/)</sub>
 
 <a name="pagoda"></a>
-### #&#8288;68 [pagoda](https://github.com/mikestefanello/pagoda) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
+### #&#8288;69 [pagoda](https://github.com/mikestefanello/pagoda) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
 
 **Go full-stack web starter with Echo, Ent, HTMX and SQLite.**
 
@@ -1222,7 +1239,7 @@ Pagoda is a starter kit, not a framework, for server-rendered web apps in Go. It
 <sub>Go · Needs Go, SQLite, Tailwind CLI (optional), Air (optional) · GitHub template · [Repo](https://github.com/mikestefanello/pagoda) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pagoda/)</sub>
 
 <a name="velobase-harness"></a>
-### #&#8288;69 [velobase-harness](https://github.com/velobase/velobase-harness) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 624 · MIT · Oct 2026</sub>
+### #&#8288;70 [velobase-harness](https://github.com/velobase/velobase-harness) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 624 · MIT · Oct 2026</sub>
 
 **Next.js AI SaaS boilerplate with credits, payments, workers and anti-abuse.**
 
@@ -1240,7 +1257,7 @@ Next.js 15 and TypeScript starter that adds the monetization layer an AI app nee
 <sub>TypeScript, multi-LLM chat (providers unknown) · Needs PostgreSQL 16, Redis 7, Docker, Node.js, pnpm, Stripe, NowPayments · GitHub template · Docker · env example file · sign-in: Auth.js · [Repo](https://github.com/velobase/velobase-harness) · [📖 Docs ↗](https://github.com/velobase/velobase-harness/blob/main/docs/en/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/velobase-harness/)</sub>
 
 <a name="free-nextjs-admin-dashboard"></a>
-### #&#8288;70 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;71 [free-nextjs-admin-dashboard](https://github.com/tailadmin/free-nextjs-admin-dashboard) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **Next.js and Tailwind admin dashboard template with charts, tables and auth pages.**
 
@@ -1258,7 +1275,7 @@ TailAdmin is a free admin dashboard template built on Next.js 16, React 19, Type
 <sub>TypeScript · Needs Node.js 20+ · [Repo](https://github.com/tailadmin/free-nextjs-admin-dashboard) · [▶️ Demo ↗](https://nextjs-free-demo.tailadmin.com) · [📖 Docs ↗](https://tailadmin.com/docs) · [🌐 Site ↗](https://tailadmin.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/free-nextjs-admin-dashboard/)</sub>
 
 <a name="tauri-ui"></a>
-### #&#8288;71 [tauri-ui](https://github.com/agmmnn/tauri-ui) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Oct 2026</sub>
+### #&#8288;72 [tauri-ui](https://github.com/agmmnn/tauri-ui) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (63) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · Oct 2026</sub>
 
 **CLI that scaffolds Tauri v2 desktop apps with shadcn/ui and desktop defaults.**
 
@@ -1276,7 +1293,7 @@ create-tauri-ui runs the official shadcn/ui and create-tauri-app setups, then co
 <sub>TypeScript · Needs Bun, Tauri v2 · [Repo](https://github.com/agmmnn/tauri-ui) · [🌐 Site ↗](https://tauriui.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tauri-ui/)</sub>
 
 <a name="vue-pure-admin"></a>
-### #&#8288;72 [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (85) · Freshness: active (96) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Oct 2026</sub>
+### #&#8288;73 [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: widely used (85) · Freshness: active (96) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · MIT · Oct 2026</sub>
 
 **Vue 3 admin dashboard template with Element Plus, Pinia and Tailwind.**
 
@@ -1294,7 +1311,7 @@ Front-end template for back-office admin systems, written as ESM with Vue 3, Vit
 <sub>Vue · Needs Node.js, pnpm · GitHub template · Docker · ⚠️ .env file committed · [Repo](https://github.com/pure-admin/vue-pure-admin) · [▶️ Demo ↗](https://pure-admin.github.io/vue-pure-admin) · [📖 Docs ↗](https://pure-admin.cn/) · [🌐 Site ↗](https://pure-admin.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vue-pure-admin/)</sub>
 
 <a name="aimeos"></a>
-### #&#8288;73 [aimeos](https://github.com/aimeos/aimeos) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
+### #&#8288;74 [aimeos](https://github.com/aimeos/aimeos) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
 
 **Laravel e-commerce shop with admin backend, JSON API and MCP server.**
 
@@ -1312,7 +1329,7 @@ Aimeos is a PHP e-commerce application built on Laravel, installed with `compose
 <sub>JavaScript · Needs PHP >= 8.2, Composer 2.2+, MySQL >= 5.7.8 / MariaDB >= 10.2.2 / PostgreSQL 9.6+ / SQL Server 2019+, Apache or Nginx, Laravel Sanctum (MCP auth), Laravel Passport (optional, OAuth) · env example file · [Repo](https://github.com/aimeos/aimeos) · [▶️ Demo ↗](https://laravel.demo.aimeos.org) · [📖 Docs ↗](https://aimeos.org/docs/latest/laravel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aimeos/)</sub>
 
 <a name="reui"></a>
-### #&#8288;74 [reui](https://github.com/keenthemes/reui) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Oct 2026</sub>
+### #&#8288;75 [reui](https://github.com/keenthemes/reui) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Oct 2026</sub>
 
 **Copy-paste shadcn/ui components and dashboard examples for React.**
 
@@ -1330,7 +1347,7 @@ ReUI is a component registry for shadcn/ui, installed through the shadcn CLI (fo
 <sub>TypeScript · Needs React 18+, Tailwind CSS 4+, shadcn/ui CLI · env example file · [Repo](https://github.com/keenthemes/reui) · [📖 Docs ↗](https://reui.io/docs) · [🌐 Site ↗](https://reui.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/reui/)</sub>
 
 <a name="start-ui-web"></a>
-### #&#8288;75 [start-ui-web](https://github.com/bearstudio/start-ui-web) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+### #&#8288;76 [start-ui-web](https://github.com/bearstudio/start-ui-web) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (31) · Freshness: active (100) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
 
 **TanStack Start web app starter with oRPC, Prisma, Better Auth and shadcn/ui.**
 
@@ -1347,7 +1364,7 @@ Full-stack web starter from BearStudio, scaffolded with `pnpm create start-ui -t
 <sub>TypeScript · Needs Node.js >= 22, pnpm, PostgreSQL, Docker, S3-compatible storage, SMTP server · GitHub template · Docker · env example file · sign-in: Better Auth · [Repo](https://github.com/bearstudio/start-ui-web) · [📖 Docs ↗](https://docs.web.start-ui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/start-ui-web/)</sub>
 
 <a name="antd-admin"></a>
-### #&#8288;76 [antd-admin](https://github.com/zuiidea/antd-admin) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (74) · Freshness: active (94) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Oct 2026</sub>
+### #&#8288;77 [antd-admin](https://github.com/zuiidea/antd-admin) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (74) · Freshness: active (94) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Oct 2026</sub>
 
 **React admin dashboard templates with JWT login, mock API and Ant Design.**
 
@@ -1365,7 +1382,7 @@ Antd Admin is a set of admin-panel templates built on React 19, Ant Design 6, Ta
 <sub>TypeScript · [Repo](https://github.com/zuiidea/antd-admin) · [📖 Docs ↗](https://antd-admin-doc.zuiidea.top) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/antd-admin/)</sub>
 
 <a name="cove"></a>
-### #&#8288;77 [cove](https://github.com/mugnavo/cove) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Unlicense · Nov 2026</sub>
+### #&#8288;78 [cove](https://github.com/mugnavo/cove) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: fair (61) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Unlicense · Nov 2026</sub>
 
 **TanStack Start starter with Drizzle, Postgres and Better Auth.**
 
@@ -1383,7 +1400,7 @@ Cove Stack is a TypeScript starter for TanStack Start (React, Router, Query) wit
 <sub>TypeScript · Needs PostgreSQL, Node.js >= 24, pnpm >= 12, Vite Plus · GitHub template · sign-in: Better Auth · [Repo](https://github.com/mugnavo/cove) · [▶️ Demo ↗](https://cove.mugnavo.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cove/)</sub>
 
 <a name="square-ui"></a>
-### #&#8288;78 [square-ui](https://github.com/zerostaticthemes/square-ui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · custom license · Sep 2026</sub>
+### #&#8288;79 [square-ui](https://github.com/zerostaticthemes/square-ui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: weak (28) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · custom license · Sep 2026</sub>
 
 **Next.js and shadcn/ui admin dashboard templates in Radix and Base UI variants.**
 
@@ -1401,7 +1418,7 @@ Square UI is a collection of free admin templates built with Next.js, TypeScript
 <sub>TypeScript · Needs Next.js, Tailwind CSS, shadcn/ui · [Repo](https://github.com/zerostaticthemes/square-ui) · [▶️ Demo ↗](https://square-ui-chat.vercel.app) · [🌐 Site ↗](https://square.lndevui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/square-ui/)</sub>
 
 <a name="peopleinspace"></a>
-### #&#8288;79 [peopleinspace](https://github.com/joreilly/peopleinspace) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;80 [peopleinspace](https://github.com/joreilly/peopleinspace) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (50) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.4k · Apache-2.0 · Nov 2026</sub>
 
 **Kotlin Multiplatform sample app showing ISS position and people in space.**
 
@@ -1419,7 +1436,7 @@ A Kotlin Multiplatform reference project where Android, Wear OS, iOS, desktop, W
 <sub>Kotlin · Needs JDK 17, Android Studio, Xcode, The Space Devs API, wheretheiss.at API, astroviewer.net · GitHub template · [Repo](https://github.com/joreilly/peopleinspace) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/peopleinspace/)</sub>
 
 <a name="lithium"></a>
-### #&#8288;80 [lithium](https://github.com/wsvincent/lithium) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · custom license · Nov 2026</sub>
+### #&#8288;81 [lithium](https://github.com/wsvincent/lithium) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (40) · Freshness: active (100) · Maintenance: fair (52) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · custom license · Nov 2026</sub>
 
 **Django starter project with allauth login, Bootstrap 5 styling and SQLite.**
 
@@ -1435,23 +1452,6 @@ Lithium is a Django 6.1 starter for Python 3.12+ that ships sign up, login and p
 - **−** No Docker or compose files provided
 
 <sub>Python · Needs Python 3.12+, uv or pip, SQLite · GitHub template · [Repo](https://github.com/wsvincent/lithium) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lithium/)</sub>
-
-<a name="better-fullstack"></a>
-### #&#8288;81 [better-fullstack](https://github.com/marve10s/better-fullstack) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (12) · Freshness: active (100) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 821 · MIT · Nov 2026</sub>
-
-**CLI that scaffolds full-stack apps mixing TypeScript, Rust, Go, Python and more.**
-
-Better Fullstack is an npm CLI (npm create better-fullstack@latest) that generates full-stack projects, with stack parts that can be mixed across languages such as TypeScript, Rust, Go, Python, Java, Kotlin, .NET, Elixir, PHP, Ruby and Crystal. A web Stack Builder and an MCP integration let you or an AI agent choose the stack. Generated projects are maintained with the add, update, check and gen commands.
-
-- **+** Mixes stack parts from many languages in one generated project
-- **+** Lifecycle commands (add, update, check, gen) maintain generated projects
-- **+** Web Stack Builder and MCP setup let AI agents configure the stack
-- **+** Runs through npm, pnpm, yarn or bun
-- **−** A generator, not a fixed boilerplate with auth and billing preconfigured
-- **−** Forked from Better T Stack, so it shares that project's lineage
-- **−** No Docker image or compose file provided
-
-<sub>TypeScript · Needs Node.js, npm, pnpm, yarn or bun · [Repo](https://github.com/marve10s/better-fullstack) · [▶️ Demo ↗](https://better-fullstack.dev/new) · [📖 Docs ↗](https://better-fullstack.dev/docs) · [🌐 Site ↗](https://better-fullstack.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/better-fullstack/)</sub>
 
 <a name="html5-boilerplate"></a>
 ### #&#8288;82 [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: widely used (97) · Freshness: recent (70) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 58k · MIT · Nov 2026</sub>
@@ -1508,7 +1508,7 @@ ShipSwift is a MIT-licensed set of SwiftUI source files for iOS 18+: 44 animatio
 <sub>Swift · Needs Xcode, iOS 18+, Amplify SDK (Cognito), StoreKit 2, VolcEngine ASR · [Repo](https://github.com/signerlabs/shipswift) · [▶️ Demo ↗](https://apps.apple.com/us/app/shipswift-mcp-codebase/id6759209764) · [🌐 Site ↗](https://www.shipswift.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shipswift/)</sub>
 
 <a name="mvp-boilerplate"></a>
-### #&#8288;85 [mvp-boilerplate](https://github.com/devtodollars/mvp-boilerplate) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 995 · MIT · Nov 2026</sub>
+### #&#8288;85 [mvp-boilerplate](https://github.com/devtodollars/mvp-boilerplate) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: fair (55) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 994 · MIT · Nov 2026</sub>
 
 **Flutter and Next.js startup template with Supabase auth and Stripe payments.**
 
@@ -1737,8 +1737,26 @@ Paper is a Next.js 16 / React 19 storefront for a Saleor backend, with product p
 
 <sub>TypeScript · Needs Saleor API (GraphQL), Stripe (optional payments), Node.js and pnpm · Docker · env example file · [Repo](https://github.com/saleor/storefront) · [▶️ Demo ↗](https://storefront.saleor.io/) · [📖 Docs ↗](https://docs.saleor.io/docs/3.x) · [🌐 Site ↗](https://saleor.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/storefront/)</sub>
 
+<a name="south-admin-react"></a>
+### #&#8288;98 [south-admin-react](https://github.com/southliu/south-admin-react) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 581 · MIT · Nov 2026</sub>
+
+**React and Vite admin dashboard frontend with file-based routing and permissions.**
+
+Frontend template for admin back offices, built with React, TypeScript, Vite, Ant Design, zustand and UnoCSS. Routes are generated from the pages folder, with KeepAlive tabs, a virtual-scroll table, and menus and permissions taken from backend endpoints. It has no AI features of its own; the only AI tie-in is Claude Code skills that scaffold pages and clear the demo content.
+
+- **+** Routes are generated from the folder layout, with configurable exclusion rules
+- **+** Menus and page permissions can come from backend endpoints or a static menu file
+- **+** Claude Code skills and VS Code snippets scaffold new pages, models and API files
+- **+** Init script removes demo pages and their imports, with a dry-run preview
+- **−** No AI functionality; it is a generic admin UI, so it fits this list loosely
+- **−** Frontend only; login, menu and permission APIs need one of the separate backend repos
+- **−** README is in Chinese only, and the install notes assume the npmmirror registry
+- **−** pnpm monorepo needs the -w flag for every new dependency
+
+<sub>TypeScript · Needs pnpm, Node.js, backend API (south-admin-gin, fastApi, django or nest) · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/southliu/south-admin-react) · [▶️ Demo ↗](https://southliu.top/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/south-admin-react/)</sub>
+
 <a name="django-base-site"></a>
-### #&#8288;98 [django-base-site](https://github.com/epicserve/django-base-site) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 450 · MIT · Nov 2026</sub>
+### #&#8288;99 [django-base-site](https://github.com/epicserve/django-base-site) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (56) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 450 · MIT · Nov 2026</sub>
 
 **Django 6 and Vue 3 SaaS starter with orgs, teams, and Stripe billing.**
 
@@ -1756,7 +1774,7 @@ Opinionated Django project template for B2B SaaS. It ships a Vue 3 SPA on Vite a
 <sub>Python · Needs Docker, Docker Compose, Just, uv, bun, PostgreSQL, Celery, Silo (S3-compatible storage), Mailpit, Stripe (optional) · [Repo](https://github.com/epicserve/django-base-site) · [📖 Docs ↗](http://django-base-site.readthedocs.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/django-base-site/)</sub>
 
 <a name="shadcn-admin"></a>
-### #&#8288;99 [shadcn-admin](https://github.com/satnaing/shadcn-admin) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: widely used (82) · Freshness: recent (65) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · MIT · Jun 2026</sub>
+### #&#8288;100 [shadcn-admin](https://github.com/satnaing/shadcn-admin) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: widely used (82) · Freshness: recent (65) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · MIT · Jun 2026</sub>
 
 **Vite and shadcn/ui admin dashboard with 10+ pages and RTL support.**
 
@@ -1774,7 +1792,7 @@ A React admin dashboard UI built on shadcn/ui (Tailwind and Radix), Vite and Tan
 <sub>TypeScript · Needs Clerk (partial auth) · GitHub template · env example file · sign-in: Clerk · [Repo](https://github.com/satnaing/shadcn-admin) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shadcn-admin/)</sub>
 
 <a name="saas-boilerplate"></a>
-### #&#8288;100 [saas-boilerplate](https://github.com/ixartz/saas-boilerplate) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (70) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · MIT · Aug 2026</sub>
+### #&#8288;101 [saas-boilerplate](https://github.com/ixartz/saas-boilerplate) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (70) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · MIT · Aug 2026</sub>
 
 **Next.js SaaS starter with Clerk auth, teams, roles and Drizzle ORM.**
 
@@ -1790,24 +1808,6 @@ Next.js 16 and React 19 template with Tailwind CSS 4 and Shadcn UI. It includes 
 - **−** Requires Node.js 24+, which may be newer than some environments
 
 <sub>TypeScript · Needs Clerk, PostgreSQL (Neon suggested; PGlite for local dev), Sentry, Crowdin · GitHub template · ⚠️ .env file committed · sign-in: Clerk · [Repo](https://github.com/ixartz/saas-boilerplate) · [▶️ Demo ↗](https://react-saas.com) · [🌐 Site ↗](https://react-saas.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/saas-boilerplate/)</sub>
-
-<a name="south-admin-react"></a>
-### #&#8288;101 [south-admin-react](https://github.com/southliu/south-admin-react) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 581 · MIT · Nov 2026</sub>
-
-**React and Vite admin dashboard frontend with file-based routing and permissions.**
-
-Frontend template for admin back offices, built with React, TypeScript, Vite, Ant Design, zustand and UnoCSS. Routes are generated from the pages folder, with KeepAlive tabs, a virtual-scroll table, and menus and permissions taken from backend endpoints. It has no AI features of its own; the only AI tie-in is Claude Code skills that scaffold pages and clear the demo content.
-
-- **+** Routes are generated from the folder layout, with configurable exclusion rules
-- **+** Menus and page permissions can come from backend endpoints or a static menu file
-- **+** Claude Code skills and VS Code snippets scaffold new pages, models and API files
-- **+** Init script removes demo pages and their imports, with a dry-run preview
-- **−** No AI functionality; it is a generic admin UI, so it fits this list loosely
-- **−** Frontend only; login, menu and permission APIs need one of the separate backend repos
-- **−** README is in Chinese only, and the install notes assume the npmmirror registry
-- **−** pnpm monorepo needs the -w flag for every new dependency
-
-<sub>TypeScript · Needs pnpm, Node.js, backend API (south-admin-gin, fastApi, django or nest) · GitHub template · ⚠️ .env file committed · [Repo](https://github.com/southliu/south-admin-react) · [▶️ Demo ↗](https://southliu.top/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/south-admin-react/)</sub>
 
 <a name="eladmin"></a>
 ### #&#8288;102 [eladmin](https://github.com/elunez/eladmin) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: widely used (86) · Freshness: recent (70) · Maintenance: weak (9) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 22k · Apache-2.0 · Nov 2026</sub>
@@ -1864,7 +1864,7 @@ Bullet Train is a Ruby on Rails application template for SaaS products. You clon
 <sub>Ruby · Needs PostgreSQL, Redis, Ruby (rbenv), Node.js (nvm), Yarn · Docker · [Repo](https://github.com/bullet-train-co/bullet_train) · [📖 Docs ↗](https://bullettrain.co/docs) · [🌐 Site ↗](https://bullettrain.co) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bullet-train/)</sub>
 
 <a name="flutter-responsive-admin-panel-or-dashboard"></a>
-### #&#8288;105 [flutter-responsive-admin-panel-or-dashboard](https://github.com/abuanwar072/flutter-responsive-admin-panel-or-dashboard) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (69) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
+### #&#8288;105 [flutter-responsive-admin-panel-or-dashboard](https://github.com/abuanwar072/flutter-responsive-admin-panel-or-dashboard) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (68) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Jul 2026</sub>
 
 **Flutter admin dashboard UI with charts, tables and info cards.**
 
@@ -1917,26 +1917,8 @@ A pnpm monorepo: a Fastify server with tRPC routers on port 2022, Drizzle over P
 
 <sub>TypeScript, openai · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/alan345/ai-fullstack-saas-boilerplate) · [▶️ Demo ↗](https://fsb-client.onrender.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-fullstack-saas-boilerplate/)</sub>
 
-<a name="next-starter"></a>
-### #&#8288;108 [next-starter](https://github.com/skolaczk/next-starter) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
-
-**Next.js 16 starter with auth, Stripe, Drizzle and Neon Postgres.**
-
-A TypeScript template for Next.js 16 (App Router, React 19, Tailwind 4, shadcn/ui) with next-auth GitHub login, Stripe payments, and Drizzle ORM on a Neon database. It also configures Jest, Playwright, Biome, Husky, commitlint, next-intl and T3-env. The README lists no AI features, so any model integration has to be added by the user.
-
-- **+** Auth, Stripe, Drizzle and Neon are wired in alongside shadcn/ui components
-- **+** Jest unit tests, Playwright e2e and a GitHub Actions lint workflow come preconfigured
-- **+** next-intl i18n, sitemap, robots.txt and dark mode are included
-- **+** Env variables are validated with T3-env and Zod
-- **−** No AI or LLM integration is included in the README's feature list
-- **−** next-auth is set up with the GitHub provider only
-- **−** Requires external accounts for Neon, Stripe and GitHub OAuth
-- **−** No Docker or compose setup; deployment targets are Vercel and Deplo
-
-<sub>TypeScript · Needs Node.js 22+, Neon Postgres, Stripe, GitHub OAuth (next-auth) · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/skolaczk/next-starter) · [▶️ Demo ↗](https://next-starter-skolaczk.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-starter/)</sub>
-
 <a name="startup-nextjs"></a>
-### #&#8288;109 [startup-nextjs](https://github.com/nextjstemplates/startup-nextjs) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
+### #&#8288;108 [startup-nextjs](https://github.com/nextjstemplates/startup-nextjs) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
 
 **Next.js and Tailwind landing page template for startup and SaaS sites.**
 
@@ -1952,6 +1934,24 @@ A free Next.js 16 and Tailwind CSS v4 website template in TypeScript, with stand
 - **−** No email support in the free version
 
 <sub>TypeScript · GitHub template · [Repo](https://github.com/nextjstemplates/startup-nextjs) · [▶️ Demo ↗](https://startup.nextjstemplates.com/) · [📖 Docs ↗](https://nextjstemplates.com/docs) · [🌐 Site ↗](https://nextjstemplates.com/templates/startup) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/startup-nextjs/)</sub>
+
+<a name="next-starter"></a>
+### #&#8288;109 [next-starter](https://github.com/skolaczk/next-starter) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: patchy (35) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+
+**Next.js 16 starter with auth, Stripe, Drizzle and Neon Postgres.**
+
+A TypeScript template for Next.js 16 (App Router, React 19, Tailwind 4, shadcn/ui) with next-auth GitHub login, Stripe payments, and Drizzle ORM on a Neon database. It also configures Jest, Playwright, Biome, Husky, commitlint, next-intl and T3-env. The README lists no AI features, so any model integration has to be added by the user.
+
+- **+** Auth, Stripe, Drizzle and Neon are wired in alongside shadcn/ui components
+- **+** Jest unit tests, Playwright e2e and a GitHub Actions lint workflow come preconfigured
+- **+** next-intl i18n, sitemap, robots.txt and dark mode are included
+- **+** Env variables are validated with T3-env and Zod
+- **−** No AI or LLM integration is included in the README's feature list
+- **−** next-auth is set up with the GitHub provider only
+- **−** Requires external accounts for Neon, Stripe and GitHub OAuth
+- **−** No Docker or compose setup; deployment targets are Vercel and Deplo
+
+<sub>TypeScript · Needs Node.js 22+, Neon Postgres, Stripe, GitHub OAuth (next-auth) · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/skolaczk/next-starter) · [▶️ Demo ↗](https://next-starter-skolaczk.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-starter/)</sub>
 
 <a name="react"></a>
 ### #&#8288;110 [react](https://github.com/duxianwei520/react) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (61) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · MIT · Jul 2026</sub>
@@ -2044,7 +2044,7 @@ Lightswind UI is a shadcn-style library of 160+ React components (Tailwind, Fram
 <sub>TypeScript · Needs Node.js 18+, React 18 or 19, Tailwind CSS v3 or v4 · [Repo](https://github.com/codewithmuhilan/lightswind-ui-library) · [📖 Docs ↗](https://lightswind.com/components/introduction) · [🌐 Site ↗](https://lightswind.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightswind-ui-library/)</sub>
 
 <a name="nextarter-chakra"></a>
-### #&#8288;115 [nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: weak (21) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 837 · MIT · Nov 2026</sub>
+### #&#8288;115 [nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (21) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 837 · MIT · Nov 2026</sub>
 
 **Next.js 16 starter with Chakra UI v3, TypeScript, Biome and Playwright.**
 
@@ -2458,7 +2458,7 @@ Starter template that wires the Once UI Core package into a Next.js app, with a 
 <sub>TypeScript · Needs Once UI Core · GitHub template · env example file · [Repo](https://github.com/once-ui-system/nextjs-starter) · [▶️ Demo ↗](https://demo.once-ui.com) · [📖 Docs ↗](https://docs.once-ui.com/quick-start) · [🌐 Site ↗](https://once-ui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-starter/)</sub>
 
 <a name="extro"></a>
-### #&#8288;138 [extro](https://github.com/turbostarter/extro) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (3) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 413 · MIT · Aug 2026</sub>
+### #&#8288;138 [extro](https://github.com/turbostarter/extro) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (2) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 413 · MIT · Aug 2026</sub>
 
 **WXT and React browser extension starter with Supabase auth and AI.**
 
@@ -2475,26 +2475,8 @@ Bun-based WXT project for Chrome (MV3) and Firefox (MV2) with every entrypoint (
 
 <sub>TypeScript, Vercel AI SDK, browser built-in AI (experimental) · Needs Supabase project, OpenPanel (analytics, optional) · GitHub template · env example file · [Repo](https://github.com/turbostarter/extro) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/extro/)</sub>
 
-<a name="open-source-saas-boilerpate"></a>
-### #&#8288;139 [open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (14) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 842 · MIT · Jul 2026</sub>
-
-**Flask and React SaaS starter with JWT email auth and PostgreSQL.**
-
-A SaaS web app boilerplate with a Flask backend, a React frontend built with Webpack/Babel, and PostgreSQL. It ships email-confirmed registration, cookie-based JWT login, a profile page, a dashboard with JSON-driven menus, and a transactional email service. The README describes no AI features and no billing.
-
-- **+** Auth included: email-confirmed registration, login, logout, cookie-based JWT with refresh
-- **+** Files named api.py are auto-registered; menus and routes are generated from JSON
-- **+** Docker Compose setup plus init script that creates tables and User/Admin roles
-- **+** User, Role, Account and AccountHistory models with a flask dbupdate command
-- **−** README targets Python 3.5, which is long past end of life
-- **−** No billing or payments described, and no AI integration
-- **−** init script drops all tables in the target database by default
-- **−** Maker brand link may be removed but not replaced with your own brand
-
-<sub>JavaScript · Needs PostgreSQL, SMTP mail server, Python, Node.js · Docker · [Repo](https://github.com/saasforge/open-source-saas-boilerpate) · [🌐 Site ↗](https://www.saasforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-source-saas-boilerpate/)</sub>
-
 <a name="django-react-boilerplate"></a>
-### #&#8288;140 [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (38) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · May 2026</sub>
+### #&#8288;139 [django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: known (38) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · MIT · May 2026</sub>
 
 **Django REST and React TypeScript project template with Celery and Render deploy config.**
 
@@ -2512,7 +2494,7 @@ A Django project template, installed with `django-admin startproject --template`
 <sub>Python · Needs PostgreSQL, Redis, Celery, Mailhog, Sentry, SendGrid, Render.com · [Repo](https://github.com/vintasoftware/django-react-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/django-react-boilerplate/)</sub>
 
 <a name="nextacular"></a>
-### #&#8288;141 [nextacular](https://github.com/nextacular/nextacular) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · May 2026</sub>
+### #&#8288;140 [nextacular](https://github.com/nextacular/nextacular) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (25) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · May 2026</sub>
 
 **Next.js starter for multi-tenant SaaS with workspaces, teams and billing.**
 
@@ -2529,26 +2511,26 @@ Nextacular is a Next.js, Tailwind and Prisma starter for multi-tenant SaaS apps.
 
 <sub>TypeScript · Needs PostgreSQL, Stripe, SMTP email service, Vercel · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/nextacular/nextacular) · [▶️ Demo ↗](https://demo.nextacular.co) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextacular/)</sub>
 
-<a name="next-supabase-stripe-starter"></a>
-### #&#8288;142 [next-supabase-stripe-starter](https://github.com/kolbysisk/next-supabase-stripe-starter) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (12) · Freshness: recent (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 819 · MIT · Apr 2026</sub>
+<a name="open-source-saas-boilerpate"></a>
+### #&#8288;141 [open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (14) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 842 · MIT · Jul 2026</sub>
 
-**Next.js SaaS starter with Supabase auth and Stripe subscriptions.**
+**Flask and React SaaS starter with JWT email auth and PostgreSQL.**
 
-A Next.js 15 template that wires Supabase (Postgres and auth) to Stripe Checkout, subscriptions and the customer portal. Stripe webhooks sync products and subscriptions into Supabase, and a Stripe fixture file defines the pricing. It also includes React Email with Resend, Tailwind and shadcn/ui. It has no AI features built in.
+A SaaS web app boilerplate with a Flask backend, a React frontend built with Webpack/Babel, and PostgreSQL. It ships email-confirmed registration, cookie-based JWT login, a profile page, a dashboard with JSON-driven menus, and a transactional email service. The README describes no AI features and no billing.
 
-- **+** Stripe webhook handler syncs products and subscriptions into Supabase automatically
-- **+** Pricing defined in stripe-fixtures.json, with Zod-typed product metadata
-- **+** Supabase migrations manage the schema from the CLI
-- **+** Live demo available and a step-by-step setup guide
-- **−** No AI functionality included despite the list's theme
-- **−** Setup is long: Supabase, Stripe, Resend, Vercel, CLI migrations and fixtures
-- **−** Deploy flow is built around Vercel; no Docker or compose files
-- **−** No tagged releases; commands mix bun and npm
+- **+** Auth included: email-confirmed registration, login, logout, cookie-based JWT with refresh
+- **+** Files named api.py are auto-registered; menus and routes are generated from JSON
+- **+** Docker Compose setup plus init script that creates tables and User/Admin roles
+- **+** User, Role, Account and AccountHistory models with a flask dbupdate command
+- **−** README targets Python 3.5, which is long past end of life
+- **−** No billing or payments described, and no AI integration
+- **−** init script drops all tables in the target database by default
+- **−** Maker brand link may be removed but not replaced with your own brand
 
-<sub>TypeScript · Needs Supabase, Stripe, Resend, Vercel, Stripe CLI · GitHub template · [Repo](https://github.com/kolbysisk/next-supabase-stripe-starter) · [▶️ Demo ↗](https://next-supabase-stripe-starter-demo-mnqz.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-supabase-stripe-starter/)</sub>
+<sub>JavaScript · Needs PostgreSQL, SMTP mail server, Python, Node.js · Docker · [Repo](https://github.com/saasforge/open-source-saas-boilerpate) · [🌐 Site ↗](https://www.saasforge.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-source-saas-boilerpate/)</sub>
 
 <a name="saas-starter"></a>
-### #&#8288;143 [saas-starter](https://github.com/nextjs/saas-starter) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: widely used (81) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Dec 2025</sub>
+### #&#8288;142 [saas-starter](https://github.com/nextjs/saas-starter) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: widely used (81) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · MIT · Dec 2025</sub>
 
 **Next.js SaaS template with Stripe billing, email/password auth and team dashboard.**
 
@@ -2566,7 +2548,7 @@ A minimal Next.js starter with a landing page, a pricing page wired to Stripe Ch
 <sub>TypeScript · Needs Postgres, Stripe, Stripe CLI, pnpm · env example file · [Repo](https://github.com/nextjs/saas-starter) · [▶️ Demo ↗](https://next-saas-start.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/saas-starter/)</sub>
 
 <a name="yas"></a>
-### #&#8288;144 [yas](https://github.com/nashtech-garage/yas) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: known (35) · Freshness: recent (52) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Jun 2026</sub>
+### #&#8288;143 [yas](https://github.com/nashtech-garage/yas) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: known (35) · Freshness: recent (52) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Jun 2026</sub>
 
 **Java microservice e-commerce sample with Spring Boot, Keycloak, Kafka and Next.js.**
 
@@ -2584,7 +2566,7 @@ YAS (Yet Another Shop) is a pet project for practicing a microservice e-commerce
 <sub>Java · Needs Docker Compose, PostgreSQL, Keycloak, Kafka, Elasticsearch, Grafana, Loki, Prometheus, Tempo · Docker · ⚠️ .env file committed · [Repo](https://github.com/nashtech-garage/yas) · [📖 Docs ↗](https://github.com/nashtech-garage/yas/tree/main/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yas/)</sub>
 
 <a name="nextjs-billing"></a>
-### #&#8288;145 [nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (10) · Freshness: recent (76) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 743 · MIT · Jun 2026</sub>
+### #&#8288;144 [nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (10) · Freshness: recent (76) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 743 · MIT · Jun 2026</sub>
 
 **Next.js subscription billing starter with Lemon Squeezy and GitHub auth.**
 
@@ -2602,7 +2584,7 @@ A Next.js 14 App Router demo for subscription SaaS apps, with Lemon Squeezy bill
 <sub>TypeScript · Needs Lemon Squeezy account, Neon Postgres, GitHub OAuth app, ngrok or similar tunnel for local webhooks · env example file · sign-in: Auth.js · [Repo](https://github.com/lmsqueezy/nextjs-billing) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-billing/)</sub>
 
 <a name="create-t3-turbo"></a>
-### #&#8288;146 [create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (64) · Freshness: quiet (8) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Dec 2025</sub>
+### #&#8288;145 [create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (64) · Freshness: quiet (8) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Dec 2025</sub>
 
 **Turborepo starter for T3 apps: Next.js or TanStack Start, plus Expo.**
 
@@ -2620,7 +2602,7 @@ create-t3-turbo is a pnpm and Turborepo monorepo template that splits a T3 app i
 <sub>TypeScript · Needs pnpm, Turborepo, Supabase Postgres, better-auth, Expo / EAS, Vercel (suggested deployment) · GitHub template · env example file · [Repo](https://github.com/t3-oss/create-t3-turbo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/create-t3-turbo/)</sub>
 
 <a name="cmsaasstarter"></a>
-### #&#8288;147 [cmsaasstarter](https://github.com/scosman/cmsaasstarter) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (39) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Mar 2026</sub>
+### #&#8288;146 [cmsaasstarter](https://github.com/scosman/cmsaasstarter) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (39) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · Mar 2026</sub>
 
 **SvelteKit SaaS template with Supabase auth and Stripe subscriptions.**
 
@@ -2638,7 +2620,7 @@ A SvelteKit boilerplate for SaaS products covering a marketing site, blog, prici
 <sub>Svelte · Needs Supabase (Auth, Postgres), Stripe, Cloudflare Pages (suggested), Node.js / npm · GitHub template · env example file · sign-in: Supabase Auth · [Repo](https://github.com/scosman/cmsaasstarter) · [▶️ Demo ↗](https://saasstarter.work) · [📖 Docs ↗](https://github.com/CriticalMoments/CMSaasStarter#quick-start) · [🌐 Site ↗](https://saasstarter.work) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cmsaasstarter/)</sub>
 
 <a name="railsui"></a>
-### #&#8288;148 [railsui](https://github.com/getrailsui/railsui) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (8) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 619 · custom license · Jun 2026</sub>
+### #&#8288;147 [railsui](https://github.com/getrailsui/railsui) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: niche (8) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 619 · custom license · Jun 2026</sub>
 
 **Rails engine with SaaS app kits and Stimulus components in ERB and Tailwind.**
 
@@ -2654,6 +2636,24 @@ Rails UI is a Rails gem that installs app kits (prebuilt SaaS screens, component
 - **−** License is not identified by detection (NOASSERTION); no auth or billing mentioned
 
 <sub>HTML · Needs Rails 7.0+, tailwindcss-rails, Node.js and jsbundling-rails (build mode only) · [Repo](https://github.com/getrailsui/railsui) · [📖 Docs ↗](https://railsui.com/docs) · [🌐 Site ↗](https://railsui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/railsui/)</sub>
+
+<a name="next-supabase-stripe-starter"></a>
+### #&#8288;148 [next-supabase-stripe-starter](https://github.com/kolbysisk/next-supabase-stripe-starter) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (12) · Freshness: recent (53) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 820 · MIT · Apr 2026</sub>
+
+**Next.js SaaS starter with Supabase auth and Stripe subscriptions.**
+
+A Next.js 15 template that wires Supabase (Postgres and auth) to Stripe Checkout, subscriptions and the customer portal. Stripe webhooks sync products and subscriptions into Supabase, and a Stripe fixture file defines the pricing. It also includes React Email with Resend, Tailwind and shadcn/ui. It has no AI features built in.
+
+- **+** Stripe webhook handler syncs products and subscriptions into Supabase automatically
+- **+** Pricing defined in stripe-fixtures.json, with Zod-typed product metadata
+- **+** Supabase migrations manage the schema from the CLI
+- **+** Live demo available and a step-by-step setup guide
+- **−** No AI functionality included despite the list's theme
+- **−** Setup is long: Supabase, Stripe, Resend, Vercel, CLI migrations and fixtures
+- **−** Deploy flow is built around Vercel; no Docker or compose files
+- **−** No tagged releases; commands mix bun and npm
+
+<sub>TypeScript · Needs Supabase, Stripe, Resend, Vercel, Stripe CLI · GitHub template · env example file · sign-in: Supabase Auth · [Repo](https://github.com/kolbysisk/next-supabase-stripe-starter) · [▶️ Demo ↗](https://next-supabase-stripe-starter-demo-mnqz.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-supabase-stripe-starter/)</sub>
 
 <a name="sidebase"></a>
 ### #&#8288;149 [sidebase](https://github.com/sidebase/sidebase) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (14) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 852 · MIT · Mar 2026</sub>

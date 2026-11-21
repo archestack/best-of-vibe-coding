@@ -59,7 +59,7 @@ Manticore Search is a C++ search database with SQL (MySQL protocol) and HTTP JSO
 <sub>C++, auto-embeddings, LLM-backed CALL CHAT · Needs Manticore Columnar Library (columnar storage), LLM provider (conversational search) · [Repo](https://github.com/manticoresoftware/manticoresearch) · [▶️ Demo ↗](https://play.manticoresearch.com) · [📖 Docs ↗](https://manual.manticoresearch.com) · [🌐 Site ↗](https://manticoresearch.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/manticoresearch/)</sub>
 
 <a name="xberg"></a>
-### #&#8288;4 [xberg](https://github.com/xberg-io/xberg) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
+### #&#8288;4 [xberg](https://github.com/xberg-io/xberg) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · MIT · Nov 2026</sub>
 
 **Rust document extraction engine with OCR, tables and 15 language bindings.**
 
@@ -291,26 +291,8 @@ Orama is a TypeScript search engine that runs in the browser, Node, Deno or Bun.
 
 <sub>TypeScript, OpenAI chat models via secure proxy (e.g. gpt-4o-mini), TensorFlow.js embeddings (512-dimension) · Needs OpenAI API (optional, for chat answers), TensorFlow.js (optional, for embeddings plugin) · [Repo](https://github.com/oramasearch/orama) · [📖 Docs ↗](https://docs.orama.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orama/)</sub>
 
-<a name="ragbits"></a>
-### #&#8288;17 [ragbits](https://github.com/deepsense-ai/ragbits) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: known (37) · Freshness: recent (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · May 2026</sub>
-
-**Modular Python toolkit for LLM prompts, RAG ingestion, agents and chat APIs.**
-
-Ragbits is a set of Python packages for building GenAI apps: typed prompts and LLM calls through LiteLLM, document ingestion and search over pluggable vector stores, agents with MCP and A2A, and a chat API with a UI. Packages install separately or as the `ragbits` bundle, and `create-ragbits-app` scaffolds projects from templates.
-
-- **+** Typed prompts using Python generics and Pydantic input models
-- **+** Ingests 20+ formats via Docling or Unstructured, with S3, GCS and Azure connectors
-- **+** Ray-based distributed ingestion for large datasets
-- **+** Separate packages for core, agents, search, evaluation, guardrails and chat
-- **−** Library, not a deployable app; you write the Python wiring yourself
-- **−** Python only
-- **−** Quickstarts assume hosted OpenAI models; local model setup is in separate docs
-- **−** Broad scope across prompts, RAG, agents and chat means many packages to learn
-
-<sub>Python, 100+ LLMs via LiteLLM, local models, OpenAI · Needs LiteLLM, Qdrant, PgVector, Ray, Docling, Unstructured, OpenTelemetry, promptfoo · [Repo](https://github.com/deepsense-ai/ragbits) · [📖 Docs ↗](https://ragbits.deepsense.ai) · [🌐 Site ↗](https://deepsense.ai/rd-hub/ragbits/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ragbits/)</sub>
-
 <a name="supabaseauthwithssr"></a>
-### #&#8288;18 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
+### #&#8288;17 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -328,7 +310,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
-### #&#8288;19 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 511 · MIT · Oct 2026</sub>
+### #&#8288;18 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 511 · MIT · Oct 2026</sub>
 
 **RAG over Postgres table rows with hybrid search and SQL filters.**
 
@@ -346,7 +328,7 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
 <a name="serverless-chat-langchainjs"></a>
-### #&#8288;20 [serverless-chat-langchainjs](https://github.com/azure-samples/serverless-chat-langchainjs) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 869 · MIT · Oct 2026</sub>
+### #&#8288;19 [serverless-chat-langchainjs](https://github.com/azure-samples/serverless-chat-langchainjs) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (20) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 869 · MIT · Oct 2026</sub>
 
 **RAG chatbot sample on Azure Functions, Cosmos DB and LangChain.js.**
 
@@ -364,7 +346,7 @@ A TypeScript sample that answers questions over PDF documents using LangChain.js
 <sub>TypeScript, Azure OpenAI, Ollama llama3.1, Ollama nomic-embed-text · Needs Azure Static Web Apps, Azure Functions, Azure Cosmos DB for NoSQL, Azure Blob Storage, Azure OpenAI, Azure Developer CLI, Node.js 20+, Ollama (local mode) · [Repo](https://github.com/azure-samples/serverless-chat-langchainjs) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/javascript/ai/get-started-app-chat-template-langchainjs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-chat-langchainjs/)</sub>
 
 <a name="generativeaiexamples"></a>
-### #&#8288;21 [generativeaiexamples](https://github.com/nvidia/generativeaiexamples) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (56) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;20 [generativeaiexamples](https://github.com/nvidia/generativeaiexamples) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (56) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Sep 2026</sub>
 
 **NVIDIA notebooks and sample apps for RAG, agents and NeMo microservices.**
 
@@ -382,7 +364,7 @@ A collection of Jupyter notebooks and example apps showing how to use NVIDIA NIM
 <sub>Jupyter Notebook, NVIDIA NIM endpoints, Llama 3.1, Llama-3.2-1B-Instruct, NV-CLIP · Needs NVIDIA API Catalog key, Docker Compose, NVIDIA NIM, NVIDIA NeMo Microservices, Milvus · [Repo](https://github.com/nvidia/generativeaiexamples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generativeaiexamples/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;22 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (2) · Freshness: active (81) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;21 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (2) · Freshness: active (81) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -399,7 +381,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="azure-search-openai-javascript"></a>
-### #&#8288;23 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · Oct 2026</sub>
+### #&#8288;22 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · Oct 2026</sub>
 
 **TypeScript RAG on Azure AI Search with separate indexer and search services.**
 
@@ -416,7 +398,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;24 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (62) · Freshness: recent (58) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;23 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (62) · Freshness: recent (58) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -431,6 +413,24 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 - **−** Ollama mode skips follow-up questions; vectors are in-memory only
 
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
+
+<a name="ragbits"></a>
+### #&#8288;24 [ragbits](https://github.com/deepsense-ai/ragbits) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (37) · Freshness: recent (69) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · May 2026</sub>
+
+**Modular Python toolkit for LLM prompts, RAG ingestion, agents and chat APIs.**
+
+Ragbits is a set of Python packages for building GenAI apps: typed prompts and LLM calls through LiteLLM, document ingestion and search over pluggable vector stores, agents with MCP and A2A, and a chat API with a UI. Packages install separately or as the `ragbits` bundle, and `create-ragbits-app` scaffolds projects from templates.
+
+- **+** Typed prompts using Python generics and Pydantic input models
+- **+** Ingests 20+ formats via Docling or Unstructured, with S3, GCS and Azure connectors
+- **+** Ray-based distributed ingestion for large datasets
+- **+** Separate packages for core, agents, search, evaluation, guardrails and chat
+- **−** Library, not a deployable app; you write the Python wiring yourself
+- **−** Python only
+- **−** Quickstarts assume hosted OpenAI models; local model setup is in separate docs
+- **−** Broad scope across prompts, RAG, agents and chat means many packages to learn
+
+<sub>Python, 100+ LLMs via LiteLLM, local models, OpenAI · Needs LiteLLM, Qdrant, PgVector, Ray, Docling, Unstructured, OpenTelemetry, promptfoo · [Repo](https://github.com/deepsense-ai/ragbits) · [📖 Docs ↗](https://ragbits.deepsense.ai) · [🌐 Site ↗](https://deepsense.ai/rd-hub/ragbits/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ragbits/)</sub>
 
 <a name="nano-graphrag"></a>
 ### #&#8288;25 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (53) · Freshness: quiet (17) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
