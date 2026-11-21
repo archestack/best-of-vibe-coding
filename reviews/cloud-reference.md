@@ -616,7 +616,7 @@ Kemal is a web framework for the Crystal language with a Sinatra-like routing DS
 <sub>Crystal · Needs Crystal 1.19+ · [Repo](https://github.com/kemalcr/kemal) · [📖 Docs ↗](http://kemalcr.com/guide/) · [🌐 Site ↗](http://kemalcr.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kemal/)</sub>
 
 <a name="api-platform-core"></a>
-### #&#8288;35 [core](https://github.com/api-platform/core) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;35 [api-platform/core](https://github.com/api-platform/core) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **PHP library for building hypermedia REST and GraphQL APIs on Symfony.**
 
@@ -1081,7 +1081,7 @@ Pyramid is a general-purpose Python web framework built on WSGI. Applications us
 <sub>Python · Needs Python · [Repo](https://github.com/pylons/pyramid) · [📖 Docs ↗](https://docs.pylonsproject.org/projects/pyramid/en/main) · [🌐 Site ↗](https://trypyramid.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyramid/)</sub>
 
 <a name="eve"></a>
-### #&#8288;61 [eve](https://github.com/pyeve/eve) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · custom license · Nov 2026</sub>
+### #&#8288;61 [pyeve/eve](https://github.com/pyeve/eve) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: weak (26) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · custom license · Nov 2026</sub>
 
 **Python REST API framework on Flask with MongoDB support.**
 
@@ -1135,7 +1135,7 @@ A Python template with a FastAPI backend and a NiceGUI chat frontend. Models com
 <sub>Python, Ollama, LiteLLM cloud providers, OpenAI, Hugging Face · Needs uv, Make, Bash, Git, Ollama (local inference), Docker Compose 2.24+ (optional) · GitHub template · Docker · env example file · [Repo](https://github.com/aminedjeghri/generative-ai-project-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generative-ai-project-template/)</sub>
 
 <a name="examples"></a>
-### #&#8288;64 [examples](https://github.com/vercel/examples) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (55) · Freshness: active (86) · Maintenance: patchy (37) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
+### #&#8288;64 [vercel/examples](https://github.com/vercel/examples) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (55) · Freshness: active (86) · Maintenance: patchy (37) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
 
 **Vercel's collection of Next.js and edge example apps and reference solutions.**
 

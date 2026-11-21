@@ -23,7 +23,7 @@ LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, device
 <sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
 
 <a name="jarvis"></a>
-### 🥈 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
+### 🥈 [ethanplusai/jarvis](https://github.com/ethanplusai/jarvis) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
 
 **Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
 
@@ -145,7 +145,7 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;9 [examples](https://github.com/elevenlabs/examples) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
+### #&#8288;9 [elevenlabs/examples](https://github.com/elevenlabs/examples) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 

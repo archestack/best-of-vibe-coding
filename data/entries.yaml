@@ -530,7 +530,7 @@ entries:
     score: 83
   - id: skills
     repo: mattpocock/skills
-    name: skills
+    name: mattpocock/skills
     status: listed
     tagline: Agent skills for planning, TDD, debugging and code review
     summary: A collection of Markdown skill files for coding agents, split into engineering and productivity groups. It covers grilling sessions that build a project glossary and ADRs, spec and ticket generation, red-green-refactor TDD, a bug diagnosis loop, and diff review. Installs as a plugin for Claude Code, Codex and GitHub Copilot, via gemini skills install for Gemini CLI, or as editable files through npx skills.
@@ -1188,7 +1188,7 @@ entries:
     score: 86
   - id: agent-skills
     repo: addyosmani/agent-skills
-    name: agent-skills
+    name: addyosmani/agent-skills
     status: listed
     tagline: Markdown engineering skills and slash commands for AI coding agents
     summary: A pack of 26 Markdown SKILL.md workflows, 10 slash commands and 5 reviewer personas that guide coding agents through spec, plan, build, test, review and ship. It installs with the skills CLI (npx skills add) into agents such as Claude Code, Cursor, Codex, Copilot and Gemini CLI, or as a native plugin for several of them. Skills activate based on the task, with shared checklists for security, performance and accessibility.
@@ -2513,7 +2513,7 @@ entries:
     score: 94
   - id: agents
     repo: wshobson/agents
-    name: agents
+    name: wshobson/agents
     status: listed
     tagline: Marketplace of coding-agent plugins, subagents, skills and commands for seven tools
     summary: A Markdown-sourced catalog of 94 plugins (202 agents, 185 skills, 105 commands) covering Python, JavaScript, code review, testing, infrastructure and security. It installs natively into Claude Code, Codex CLI and Cursor, and generates artifacts for OpenCode, Antigravity CLI, GitHub Copilot and Pi via make targets. Individual skills can be installed with gh skill or npx skills.
@@ -3204,7 +3204,7 @@ entries:
     score: 86
   - id: vercel-labs-skills
     repo: vercel-labs/skills
-    name: skills
+    name: vercel-labs/skills
     status: listed
     tagline: CLI that installs reusable agent skills into Claude Code, Cursor and others
     summary: An npx-run CLI that finds, installs, updates and removes SKILL.md-based agent skills for about 79 coding agents, including OpenCode, Claude Code, Codex and Cursor. Skills install per project by default, or globally with -g. It also generates a prompt for one-off skill use, scaffolds new skills with init, and has an experimental sync for skills bundled in npm dependencies.
@@ -3861,7 +3861,7 @@ entries:
     score: 90
   - id: claude-skills
     repo: alirezarezvani/claude-skills
-    name: claude-skills
+    name: alirezarezvani/claude-skills
     status: listed
     tagline: Library of 398 agent skills and plugins for Claude Code and 12 other tools
     summary: A collection of SKILL.md instruction packages, each paired with stdlib-only Python CLI scripts and reference docs. Domains include engineering, product, marketing, compliance, C-level advisory and research. It installs as Claude Code marketplace plugins, and scripts convert or sync the skills for Codex, Gemini CLI, Cursor, Aider, Windsurf and others.
@@ -4932,7 +4932,7 @@ entries:
     score: 75
   - id: google-skills
     repo: google/skills
-    name: skills
+    name: google/skills
     status: listed
     tagline: Agent Skills for Google Cloud, Firebase, Ads and Analytics
     summary: Google's collection of Agent Skills covering Google Cloud services such as GKE, BigQuery, Cloud Run, AlloyDB and Spanner, plus Firebase, Genkit, Google Ads and Analytics APIs. Skills install into coding agents with `npx skills add google/skills`. The repo also bundles plugins (skills plus MCP servers) for Claude Code, Codex and Antigravity CLI.
@@ -5584,7 +5584,7 @@ entries:
     score: 93
   - id: goose
     repo: aaif-goose/goose
-    name: goose
+    name: aaif-goose/goose
     status: listed
     tagline: General-purpose agent with desktop app and CLI, plus Rust agent crates
     summary: goose is a Rust agent for coding, research, writing and automation, available as a desktop app (macOS, Linux, Windows) and a CLI. It connects tools through MCP, talks to over 85 model providers or loads local models in-process, and can run as `goose acp` to serve as an agent backend. The same repo ships oi-kit, an alpha set of Rust crates for composing custom agents.
@@ -5947,7 +5947,7 @@ entries:
     score: 86
   - id: ralph
     repo: snarktank/ralph
-    name: ralph
+    name: snarktank/ralph
     status: listed
     tagline: Bash loop that reruns Amp or Claude Code until every PRD story passes
     summary: Ralph is a bash script (ralph.sh) that repeatedly launches Amp or Claude Code with a fresh context, each time picking the highest-priority story in prd.json where passes is false. It implements one story, runs typecheck and tests, commits on success, and records learnings in progress.txt and AGENTS.md. It also ships prd and ralph skills for writing a PRD and converting it to prd.json.
@@ -6457,7 +6457,7 @@ entries:
     score: 87
   - id: trellis
     repo: mindfold-ai/trellis
-    name: trellis
+    name: mindfold-ai/trellis
     status: listed
     tagline: CLI that stores specs, tasks and session memory in your repo for coding agents
     summary: Trellis is an npm CLI that writes a `.trellis/` directory into your repo holding specs, task PRDs and per-developer journals, then injects the relevant context into coding agent sessions. It runs a four-phase loop (plan, implement, verify, finish) using skills and sub-agents, and generates platform-specific files for 22 AI coding platforms.
@@ -6551,7 +6551,7 @@ entries:
     score: 87
   - id: unity-mcp
     repo: coplaydev/unity-mcp
-    name: unity-mcp
+    name: coplaydev/unity-mcp
     status: listed
     tagline: MCP server that lets AI clients control the Unity Editor
     summary: Unity package plus a Python MCP server that connects MCP clients (Claude Desktop and Code, Cursor, VS Code, Windsurf, Cline, Gemini CLI) to the Unity Editor. It exposes 50 tool entrypoints for creating scenes and GameObjects, editing C# scripts, managing assets, running tests, profiling and building.
@@ -7167,7 +7167,7 @@ entries:
     score: 33
   - id: jeffallan-claude-skills
     repo: jeffallan/claude-skills
-    name: claude-skills
+    name: jeffallan/claude-skills
     status: listed
     tagline: Claude Code plugin with 67 skills and 9 Jira-linked workflow commands
     summary: A Claude Code plugin that installs 67 skills across 12 categories, covering languages, backend and frontend frameworks, infrastructure, testing, DevOps and security. Skills activate from the request text and load reference files (371 in total). It also adds 9 workflow commands for epics, which need an Atlassian MCP server, and a /common-ground command that surfaces Claude's assumptions about the project.
@@ -7452,7 +7452,7 @@ entries:
     score: 74
   - id: huggingface-skills
     repo: huggingface/skills
-    name: skills
+    name: huggingface/skills
     status: listed
     tagline: Agent Skills for Hugging Face Hub, training, evals and SageMaker deployment
     summary: "A collection of SKILL.md folders in the Agent Skills format that teach coding agents Hugging Face workflows: Hub CLI use, TRL and vision model training, evals, Gradio and Spaces, GGUF local models, and SageMaker deployment. The hf-cli skill is installed through the Claude Code, Cursor and Codex marketplaces. Others are added with `hf skills add <skill-name>`. A generated AGENTS.md serves as a fallback for agents without skill support."
@@ -7549,7 +7549,7 @@ entries:
     score: 81
   - id: autoharness
     repo: tigerless-labs/autoharness
-    name: autoharness
+    name: tigerless-labs/autoharness
     status: listed
     tagline: Claude Code plugin that learns, merges and prunes skills from your sessions
     summary: AutoHarness is a Claude Code plugin that watches sessions through hooks and, every N tool calls (default 50), runs a background reflector that proposes skills. A validator writes them to .claude/skills/, merges same-scenario skills, and archives unused ones. It manages only skills it wrote, and /learn distills the current session on demand.
@@ -8071,7 +8071,7 @@ entries:
     score: 68
   - id: mcp
     repo: awslabs/mcp
-    name: mcp
+    name: awslabs/mcp
     status: listed
     tagline: MCP servers that give coding agents access to AWS docs and services
     summary: "A monorepo of MCP servers from AWS Labs, each covering an AWS area: documentation lookup, CloudFormation and CDK, EKS, serverless, databases, cost, and healthcare and lifesciences workflows. Local servers run over stdio via uvx and work with Kiro, Cursor, VS Code, Cline, Windsurf and Claude Code. The README points new users to the Agent Toolkit for AWS, which it calls the successor to these servers."
@@ -8203,7 +8203,7 @@ entries:
     score: 84
   - id: atlas
     repo: pacifio/atlas
-    name: atlas
+    name: pacifio/atlas
     status: listed
     tagline: Desktop IDE and CLI that records coding-agent sessions and links them to commits
     summary: Atlas is a desktop app (macOS, Windows, Linux) and a separate CLI that run Claude Code, Codex and other ACP agents, record each session to a local .atlas/sessions.db, and link sessions to the commits they produced as checkpoints. It adds shared on-device agent memory, @ mentions, and an optional team timeline where members comment on each other's sessions. It also includes an editor, terminal, git and cost dashboards.
@@ -8491,7 +8491,7 @@ entries:
     score: 56
   - id: harness
     repo: revfactory/harness
-    name: harness
+    name: revfactory/harness
     status: listed
     tagline: Claude Code plugin that generates agent teams and skills from a project description
     summary: Harness is a Claude Code plugin that takes a domain description and writes agent definitions into .claude/agents/, skills into .claude/skills/, and a minimal CLAUDE.md pointer. It picks one of three execution modes (workflow scripts, persistent named agents with SendMessage, or one-shot sub-agents) and one of six team patterns. A /harness:evolve skill feeds usage feedback back into the generated harness.
@@ -9185,7 +9185,7 @@ entries:
     score: 88
   - id: copilotforxcode
     repo: intitni/copilotforxcode
-    name: copilotforxcode
+    name: intitni/copilotforxcode
     status: listed
     tagline: Xcode source editor extension adding Copilot, Codeium and ChatGPT-based chat and edits
     summary: A macOS app and Xcode Source Editor Extension that adds code suggestions from GitHub Copilot or Codeium, a chat panel, and a prompt-to-code modification window inside Xcode. A background service app does the work and reads Xcode state through the Accessibility API. Custom commands with template arguments such as {{selected_code}} extend chat and modification.
@@ -9325,7 +9325,7 @@ entries:
     score: 64
   - id: jakubkrehel-skills
     repo: jakubkrehel/skills
-    name: skills
+    name: jakubkrehel/skills
     status: listed
     tagline: Agent skills for reviewing and building UI, type, color and accessibility
     summary: A set of 14 agent skills, written as Markdown SKILL.md files, that guide a coding agent through interface work. They cover review and fixes for accessibility (WCAG 2.2), layout, typography, color, UI polish and product copy, plus workflows such as building UI from Figma, generating component variants, and reviewing a branch or pull request for UI regressions.
@@ -9870,7 +9870,7 @@ entries:
     score: 84
   - id: trailofbits-skills
     repo: trailofbits/skills
-    name: skills
+    name: trailofbits/skills
     status: listed
     tagline: Trail of Bits security-audit skills and plugins for Claude Code and Codex
     summary: "A marketplace of Claude Code and Codex plugins from Trail of Bits, mostly skills for security review: smart contract scanners, Semgrep and CodeQL workflows, differential review, fuzzing and mutation testing guidance. It also includes development helpers such as devcontainer setup, a gh CLI redirect and git cleanup. Install it with `/plugin marketplace add trailofbits/skills` or the Codex equivalent."
@@ -9912,7 +9912,7 @@ entries:
     score: 73
   - id: saas-boilerplate
     repo: ixartz/saas-boilerplate
-    name: saas-boilerplate
+    name: ixartz/saas-boilerplate
     status: listed
     tagline: Next.js SaaS starter with Clerk auth, teams, roles and Drizzle ORM
     summary: Next.js 16 and React 19 template with Tailwind CSS 4 and Shadcn UI. It includes a landing page, user dashboard, Clerk authentication with multi-tenancy, team invites and role-based access, and Drizzle ORM on PostgreSQL (PGlite locally, Neon suggested for production). Also ships next-intl i18n, Sentry, Vitest and Playwright tests. The README lists no built-in AI features.
@@ -10136,7 +10136,7 @@ entries:
     score: 62
   - id: tech-leads-club-agent-skills
     repo: tech-leads-club/agent-skills
-    name: agent-skills
+    name: tech-leads-club/agent-skills
     status: listed
     tagline: Curated skill registry and CLI installer for AI coding agents
     summary: A catalog of SKILL.md-based skills (spec-driven planning, AWS advice, Playwright automation, Figma to code, security review) with an npx CLI that installs them into agents such as Claude Code, Cursor, Copilot, Windsurf and Cline. Skills are fetched from a CDN, cached in ~/.cache/agent-skills, and tracked with a lockfile and audit log. A companion MCP server exposes search and read tools for the catalog.
@@ -10641,7 +10641,7 @@ entries:
     score: 76
   - id: pi-desktop
     repo: vastsa/pi-desktop
-    name: pi-desktop
+    name: vastsa/pi-desktop
     status: listed
     tagline: Desktop app for running coding agents in persistent sessions, with plugins
     summary: PI-Desktop is a desktop app for macOS, Windows and Linux that runs coding agents on local projects. Work is organized as projects and persistent sessions, with Agent, Plan and Goal modes, plus subagents and parallel worker sessions. Plugins add tools, panels, widgets, MCP servers and background services. It is built on the pi agent runtime and connects to OpenAI, Anthropic, compatible APIs, Ollama and LM Studio.
@@ -10777,7 +10777,7 @@ entries:
     score: 72
   - id: autoresearch
     repo: uditgoenka/autoresearch
-    name: autoresearch
+    name: uditgoenka/autoresearch
     status: listed
     tagline: Skill pack that runs metric-gated keep-or-revert loops in coding agents
     summary: Autoresearch installs as a skill for Claude Code, OpenCode, Codex, pi and Muse, adapting Karpathy's autoresearch loop to any codebase. The agent makes one change, commits, runs a verify command, and keeps or reverts based on a numeric metric, logging each run to TSV. It ships 14 subcommands (plan, debug, fix, security, ship, regression and others) plus guardrail hooks for Claude Code and pi.
@@ -11055,7 +11055,7 @@ entries:
     score: 70
   - id: skills-manager
     repo: xingkongliang/skills-manager
-    name: skills-manager
+    name: xingkongliang/skills-manager
     status: listed
     tagline: Desktop app and CLI that manage agent skills across coding tools
     summary: Skills Manager is a Tauri 2 desktop app (Rust backend, React frontend) with a companion CLI. It keeps one central skill library, defaulting to ~/.skills-manager, and syncs skills by symlink or copy into 56 supported agents such as Claude Code, Codex, Cursor and Gemini CLI. It adds presets, tags, upstream update tracking and Git-based backup across devices.
@@ -11145,7 +11145,7 @@ entries:
     score: 85
   - id: ouroboros
     repo: q00/ouroboros
-    name: ouroboros
+    name: q00/ouroboros
     status: listed
     tagline: Spec-first workflow that interviews you, then drives your existing coding agent
     summary: Ouroboros asks clarifying questions until a goal is unambiguous, writes it as a spec (a Seed) with checkable acceptance criteria, hands it to a coding agent you already use, and verifies the result against it. It installs as a CLI, Claude Code plugin and browser console, and connects to Claude Code, Codex CLI, Copilot CLI, Gemini CLI, OpenCode, Goose and others.
@@ -11383,7 +11383,7 @@ entries:
     score: 57
   - id: antfu-skills
     repo: antfu/skills
-    name: skills
+    name: antfu/skills
     status: listed
     tagline: Agent Skills for Vue, Vite and Nuxt, based on Anthony Fu's conventions
     summary: A repository of Agent Skills (markdown files) that coding agents load on demand. It has five hand-maintained skills (project preferences, PR creation, issue triage, interview-style planning, change simplification) and eight generated from upstream docs for Vue, Nuxt, Pinia, Vite, VitePress, Vitest, UnoCSS and pnpm. Install with the skills CLI or the @antfu/skills pack.
@@ -11479,7 +11479,7 @@ entries:
     score: 81
   - id: emdash
     repo: generalaction/emdash
-    name: emdash
+    name: generalaction/emdash
     status: listed
     tagline: Desktop app that runs multiple coding agents in separate Git worktrees
     summary: Emdash Classic is an Electron-style desktop app for macOS, Windows and Linux that launches Claude Code, Codex, OpenCode and other agent CLIs in parallel, each in its own Git worktree and branch. It can work on local repos or remote machines over SSH/SFTP, and handles diff review, PR creation, CI checks and merging. Issues from Linear, GitHub, Jira and others can be sent to an agent.
@@ -11630,7 +11630,7 @@ entries:
     score: 77
   - id: swiftui-agent-skill
     repo: twostraws/swiftui-agent-skill
-    name: swiftui-agent-skill
+    name: twostraws/swiftui-agent-skill
     status: listed
     tagline: Agent skill that steers coding assistants toward modern, accessible SwiftUI code
     summary: SwiftUI Pro is a skill in the Agent Skills format that gives coding assistants rules for writing and reviewing SwiftUI. The rules cover API usage, navigation, layout, animations, state management, performance, VoiceOver accessibility and deprecated API, aimed at mistakes LLMs commonly make. It installs through npx or as a Claude Code plugin and is invoked with /swiftui-pro or $swiftui-pro.
@@ -11726,7 +11726,7 @@ entries:
     score: 67
   - id: dotnet-skills
     repo: dotnet/skills
-    name: skills
+    name: dotnet/skills
     status: listed
     tagline: .NET team's skills and plugins for Copilot, Claude Code, Cursor and Codex
     summary: Official .NET team marketplace of agent skills, grouped into 16 plugins covering MSBuild, NuGet, EF data access, testing, upgrades, ASP.NET Core, Blazor, MAUI, WinForms and .NET AI. It installs through the plugin marketplaces of Copilot CLI, Claude Code, VS Code, Cursor and Codex CLI. It also ships GitHub Copilot custom agents and GitHub Agentic Workflows.
@@ -13050,7 +13050,7 @@ entries:
     score: 63
   - id: ivanmurzak-unity-mcp
     repo: ivanmurzak/unity-mcp
-    name: unity-mcp
+    name: ivanmurzak/unity-mcp
     status: listed
     tagline: Unity Editor and runtime plugin exposing 70+ MCP tools to coding agents
     summary: Unity package that runs an MCP server connected to the Unity Editor, so agents such as Claude Code, Cursor, Codex and Copilot can create GameObjects, edit scenes and assets, write and run C# scripts, run tests and read console logs. It also generates agent skills for the project and can run inside a compiled game for in-game LLM use. Connects over stdio locally or HTTP remotely.
@@ -13893,7 +13893,7 @@ entries:
     score: 75
   - id: avdlee-swiftui-agent-skill
     repo: avdlee/swiftui-agent-skill
-    name: swiftui-agent-skill
+    name: avdlee/swiftui-agent-skill
     status: listed
     tagline: SwiftUI guidance skill for AI coding agents, with Instruments trace analysis
     summary: An Agent Skills package that gives coding agents SwiftUI reference guides covering state management, view composition, performance, navigation, Swift Charts, macOS scenes, Liquid Glass and SDK 27 changes. Reference files load on demand. It also ships Python scripts that wrap xctrace to record and analyse Instruments traces for hangs, hitches and SwiftUI view updates.
@@ -14265,7 +14265,7 @@ entries:
     score: 61
   - id: nvidia-skills
     repo: nvidia/skills
-    name: skills
+    name: nvidia/skills
     status: listed
     tagline: Catalog of NVIDIA-maintained agent skills for Claude Code, Codex, Cursor and Kiro
     summary: A mirror of agent skills maintained in NVIDIA product repos, synced daily and installed with `npx skills add nvidia/skills`. The catalog covers cuOpt, cuDF, CUDA-Q, DOCA, Jetson BSP, Holoscan, BioNeMo, Dynamo, DeepStream and others, with many skills per product. Skills can be installed singly or per agent (claude-code, codex, cursor, kiro-cli, cortex).
@@ -14453,7 +14453,7 @@ entries:
     score: 66
   - id: maestro
     repo: runmaestro/maestro
-    name: maestro
+    name: runmaestro/maestro
     status: listed
     tagline: Desktop app for running many coding agents in parallel with unattended playbooks
     summary: Maestro is a cross-platform desktop app that wraps CLI coding agents (Claude Code, Codex, OpenCode, Factory Droid, plus beta Copilot-CLI, Qwen3 Coder and Oh My Pi) and runs them side by side, each with its own workspace and history. Auto Run executes markdown checklists or free-text goals as playbooks, one fresh session per task, and git worktrees isolate parallel agents. A built-in web server gives phone access, and a maestro-cli runs playbooks headless.
@@ -15674,7 +15674,7 @@ entries:
     score: 32
   - id: android-skills
     repo: android/skills
-    name: skills
+    name: android/skills
     status: listed
     tagline: Official Android development skills for AI coding agents, in SKILL.md format
     summary: A set of SKILL.md files from the Android team that give coding agents task-specific instructions for Android development, such as R8 analysis and Wear Compose M3. They target areas where evaluations show LLMs underperform, not basics like Jetpack Compose. Installed with the Android CLI (`android skills add`) or as a Claude Code or Codex plugin.
@@ -16639,7 +16639,7 @@ entries:
     score: 69
   - id: core
     repo: opensumi/core
-    name: core
+    name: opensumi/core
     status: listed
     tagline: TypeScript framework for building AI-native IDEs for web and Electron
     summary: OpenSumi is a TypeScript framework for assembling IDE products that run as a cloud IDE, in the browser, or on Electron. It acts as an MCP client with tool support, and the README links starter projects including a cloud IDE, an Electron desktop IDE and CodeFuse IDE. Development uses yarn, and docs are on opensumi.com.
@@ -17813,7 +17813,7 @@ entries:
     score: 81
   - id: microsoft-skills
     repo: microsoft/skills
-    name: skills
+    name: microsoft/skills
     status: listed
     tagline: Agent skills library for Azure SDKs and Microsoft Foundry coding agents
     summary: A collection of roughly 175 SKILL.md skills for Azure SDKs and Microsoft Foundry, split by language (Python, .NET, TypeScript, Java, Rust) plus core and language-agnostic Foundry skills. It also ships custom agents, an AGENTS.md template, MCP configs and plugin packages. Install with `npx skills add microsoft/skills`, which copies chosen skills into the agent's directory, such as .github/skills/ for GitHub Copilot.
@@ -17855,7 +17855,7 @@ entries:
     score: 57
   - id: cloudflare-skills
     repo: cloudflare/skills
-    name: skills
+    name: cloudflare/skills
     status: listed
     tagline: Agent Skills and MCP server for building on Cloudflare Workers
     summary: A plugin of 18 Agent Skills covering Workers, Wrangler, Durable Objects, the Agents SDK, Sandbox, Turnstile, email and Cloudflare One. Skills load automatically when a request matches their triggers. The plugin also bundles Cloudflare's remote MCP server, which gives the agent access to the Cloudflare API and current docs.
@@ -18089,7 +18089,7 @@ entries:
     score: 50
   - id: apptension-saas-boilerplate
     repo: apptension/saas-boilerplate
-    name: saas-boilerplate
+    name: apptension/saas-boilerplate
     status: listed
     tagline: React, Django and GraphQL SaaS starter with Stripe billing and multi-tenancy
     summary: Full-stack SaaS boilerplate with a React 19 and Vite frontend, a Django 5.2 and Graphene GraphQL backend, Celery workers, and AWS CDK infrastructure. It ships auth (OAuth, passkeys, 2FA, SAML/OIDC SSO), Stripe subscriptions, multi-tenancy with RBAC, Contentful CMS, and an OpenAI example. An MCP-based AI agent and Plop CRUD generators are included.
@@ -18363,7 +18363,7 @@ entries:
     score: 55
   - id: supabase-mcp
     repo: supabase/mcp
-    name: mcp
+    name: supabase/mcp
     status: listed
     tagline: MCP server that lets AI assistants manage and query Supabase projects
     summary: Official Supabase MCP server, hosted at https://mcp.supabase.com/mcp, that gives clients such as Cursor, Claude and Windsurf tools for managing tables, fetching config and querying data. The TypeScript package @supabase/mcp-server-supabase also exports typed schemas for the Vercel AI SDK and a handler for serving the tools from your own HTTP endpoint. A separate PostgREST MCP server is included.
@@ -18761,7 +18761,7 @@ entries:
     score: 55
   - id: expo-skills
     repo: expo/skills
-    name: skills
+    name: expo/skills
     status: listed
     tagline: Official Expo skills that teach coding agents Expo, EAS and React Native workflows
     summary: A set of SKILL.md packages from the Expo team covering Expo Router, animation, native UI, SDK upgrades, native modules, and EAS build, update, hosting and workflow tasks. It installs as a Claude Code or Codex plugin, or through the skills CLI for Cursor, OpenCode, Copilot, Windsurf and others. The Claude Code and Codex plugin also bundles the Expo MCP server configuration.
@@ -18849,7 +18849,7 @@ entries:
     score: 66
   - id: git-ai
     repo: git-ai-project/git-ai
-    name: git-ai
+    name: git-ai-project/git-ai
     status: listed
     tagline: Git extension that records which agent, model and prompt wrote each line
     summary: Git AI is a Rust git extension that stores line-level AI attribution in Git Notes, linking each AI-written line to the agent, model and session. Coding agents report their edits through `git-ai checkpoint`, so no heuristics are used. It adds `git ai blame` and `git ai stats`, and carries attribution through rebase, squash, stash and cherry-pick.
@@ -18901,7 +18901,7 @@ entries:
     score: 76
   - id: supabase-agent-skills
     repo: supabase/agent-skills
-    name: agent-skills
+    name: supabase/agent-skills
     status: listed
     tagline: Agent Skills that teach coding agents Supabase and Postgres practices
     summary: "Two Agent Skills in the agentskills.io format: one covering Supabase Database, Auth, Edge Functions, Realtime, Storage, the CLI and the MCP server, and a Postgres performance skill with guidance across 8 prioritized categories. Install with `npx skills add supabase/agent-skills` or as Claude Code plugins. The README lists 18+ compatible agents, including Claude Code, Copilot, Cursor and Cline."
@@ -19419,7 +19419,7 @@ entries:
     score: 74
   - id: typesafe-ai-skills
     repo: typesafe-ai/skills
-    name: skills
+    name: typesafe-ai/skills
     status: listed
     tagline: Agent skill that teaches coding agents to build with the TypeSafe API
     summary: A single skill, typesafe-ai, that guides coding agents in designing TypeSafe workflows, finding current docs and cookbooks, and composing typed judgments in code. It installs as a Claude Code plugin or through skills.sh for other agents. It is a client-side add-on for the TypeSafe service, which returns typed decisions and probabilities from System One models.
@@ -20837,7 +20837,7 @@ entries:
     score: 42
   - id: wondelai-skills
     repo: wondelai/skills
-    name: skills
+    name: wondelai/skills
     status: listed
     tagline: SKILL.md collection turning business, UX and coding books into agent skills
     summary: "65 agent skills in the SKILL.md format: 51 frameworks drawn from books and style guides (Clean Code, Refactoring UI, Mom Test, DDIA and others) and 14 metaskills that walk through multi-phase journeys such as creating a website or removing technical debt. Metaskills ask decision questions per phase and store state in the project's docs/ folder. Installs via the Claude Code plugin marketplace, skills.sh, Codex, or Agent Plugins."
@@ -21936,7 +21936,7 @@ entries:
     score: 41
   - id: inferstep-atlas
     repo: inferstep/atlas
-    name: atlas
+    name: inferstep/atlas
     status: listed
     tagline: Local coding agent that plans, tests and repairs code using small GGUF models
     summary: ATLAS is a terminal coding agent that runs a GGUF model through llama-server on your own GPU. A Go proxy drives a multi-phase pipeline of planning, diverse candidate generation, scoring, sandboxed testing and repair, with a Bubbletea TUI as the client. The README marks it experimental and lists known gaps in 3.1.x verification, with fixes planned for 3.2.0.
@@ -22937,7 +22937,7 @@ entries:
     score: 69
   - id: mcollina-skills
     repo: mcollina/skills
-    name: skills
+    name: mcollina/skills
     status: listed
     tagline: Agent skills for Node.js, Fastify, TypeScript, OAuth and GitHub workflows
     summary: A collection of eleven skills for AI coding agents, written by Matteo Collina. They cover Node.js and Node core internals, Fastify, TypeScript types, OAuth 2.0/2.1, neostandard with ESLint 9, Diátaxis documentation, gh CLI usage, and AGENTS.md generation. The repo also has a skill-optimizer skill and docs on cross-model benchmarking.
@@ -25497,7 +25497,7 @@ entries:
     score: 76
   - id: hivemind
     repo: activeloopai/hivemind
-    name: hivemind
+    name: activeloopai/hivemind
     status: listed
     tagline: Shared team memory and auto-generated skills for coding agents
     summary: Hivemind installs hooks or plugins into Claude Code, OpenClaw, Codex, Cursor, Hermes, pi and Claude Cowork (alpha). It captures prompts, tool calls and responses as traces in a Deeplake workspace, and mines them into SKILL.md files shared across the team. Agents recall past work through hybrid lexical and semantic search over those traces.
@@ -25645,7 +25645,7 @@ entries:
     score: 70
   - id: rivet-dev-agents
     repo: rivet-dev/agents
-    name: agents
+    name: rivet-dev/agents
     status: listed
     tagline: Runs coding agents as durable Rivet Actors or in sandboxes over HTTP
     summary: Rivet's agent infrastructure repo holds two projects. Rivet Agents runs agents such as Pi as durable Rivet Actors via the @rivet-dev/pi and @rivet-dev/sandbox-adapter packages. Sandbox Agent runs coding agents inside sandboxes and controls them over HTTP. Both ship on one version line.
@@ -26129,7 +26129,7 @@ entries:
     score: 27
   - id: conductor
     repo: gemini-cli-extensions/conductor
-    name: conductor
+    name: gemini-cli-extensions/conductor
     status: listed
     tagline: Spec-driven development plugin for Antigravity and Claude Code agents
     summary: Conductor is a plugin that makes a coding agent follow a Context, Spec and Plan, Implement protocol. It writes product, tech-stack and workflow files plus per-track spec.md and plan.md into a conductor/ directory in the repo. Slash commands cover setup, new-track, implement, status, revert and review.
@@ -26641,7 +26641,7 @@ entries:
     score: 78
   - id: exo
     repo: exoharness/exo
-    name: exo
+    name: exoharness/exo
     status: listed
     tagline: Runtime that hosts Codex, Claude Code or Pi agents behind an API
     summary: Exo is a Rust runtime that turns a markdown agent definition into a hosted agent with durable conversations, sandboxes, a credential vault and network policies. It separates harness behavior (compaction, tool calling, planning) from infrastructure, and supports Codex, Claude Code and Pi out of the box. It is positioned as a self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.
@@ -28653,7 +28653,7 @@ entries:
     score: 81
   - id: builderio-skills
     repo: builderio/skills
-    name: skills
+    name: builderio/skills
     status: listed
     tagline: Installable agent skills for visual plans, PR recaps and review automation
     summary: A collection of agent skills installed with `npx @agent-native/skills@latest add` into Claude Code, Codex, Cursor, Copilot and similar agents. It includes visual-plan and visual-recap (MDX plans and diff recaps, with an optional PR GitHub Action), webmcp, visual-edit, agent-watchdog and usage-limit skills, plus an experimental Factory set that turns feedback and errors into policy-gated PRs. Also published as a Claude Code and Cowork plugin marketplace.
@@ -29017,7 +29017,7 @@ entries:
     score: 68
   - id: dzhng-skills
     repo: dzhng/skills
-    name: skills
+    name: dzhng/skills
     status: listed
     tagline: Library of agent skills for spec-driven, verifiable autonomous coding loops
     summary: A collection of SKILL.md folders for coding agents, covering exploring unknowns, writing specs, implementing them in slices, reviewing, and visual checks. Install with `npx skills add dzhng/skills` or copy a skill folder into `.claude/skills/`. It targets Claude Code, Codex, opencode, Cursor and other harnesses that support skills.
@@ -29467,7 +29467,7 @@ entries:
     score: 38
   - id: weave
     repo: ataraxy-labs/weave
-    name: weave
+    name: ataraxy-labs/weave
     status: listed
     tagline: Git merge driver that merges functions and classes instead of lines
     summary: Weave registers as a Git merge driver and parses base, ours and theirs with tree-sitter, then merges at the level of functions, classes and keys. Independent additions to the same file resolve without conflict, and real collisions show the entity and the guard that refused. It also has `weave land` for verified merges by agents, an MCP server, and jj support.
@@ -30317,7 +30317,7 @@ entries:
     score: 32
   - id: agentdock
     repo: uvwt/agentdock
-    name: agentdock
+    name: uvwt/agentdock
     status: listed
     tagline: MCP server that lets AI assistants use files, shell and Git on your machines
     summary: AgentDock is a Go MCP server (Streamable HTTP) that gives ChatGPT, Claude or Codex access to files, shell commands, Git, browser automation and Skills on local computers, VPS hosts and containers. Several instances can be connected so one conversation works across machines. It installs from OS packages, Docker or systemd, and pairs with the hosted NexusDock service or a self-hosted one.
@@ -31676,7 +31676,7 @@ entries:
     score: 84
   - id: higgsfield-ai-skills
     repo: higgsfield-ai/skills
-    name: skills
+    name: higgsfield-ai/skills
     status: listed
     tagline: Agent skills that drive Higgsfield for image, video, brand and website generation
     summary: Nine Markdown skills for Claude Code, Cursor, Codex and similar agents that call the Higgsfield CLI. They cover image, video, 3D and audio generation across 30+ models, Soul Character training, product photoshoots, brand kits, marketplace cards, YouTube thumbnails, faceless videos, and full-stack website deploys to Cloudflare. Install via npx skills, gh skill, the Claude Code marketplace, or a setup script.
@@ -32928,7 +32928,7 @@ entries:
     score: 78
   - id: emilkowalski-skills
     repo: emilkowalski/skills
-    name: skills
+    name: emilkowalski/skills
     status: listed
     tagline: Agent skills for UI animation, design review and mobile-native polish
     summary: A set of 17 markdown skill files for coding agents, written by Emil Kowalski, covering UI animation, design review and related frontend work. Skills include animate, review-animations, improve-animations, animation-performance, mobile-native, break-ui, write-swift and a guide to the Sonner toast library. They encode rules such as easing choice so agents avoid common mistakes.
@@ -33362,7 +33362,7 @@ entries:
     score: 75
   - id: inspector
     repo: modelcontextprotocol/inspector
-    name: inspector
+    name: modelcontextprotocol/inspector
     status: listed
     tagline: Inspector for testing and debugging MCP servers via web, CLI or terminal UI
     summary: MCP Inspector is a developer tool for connecting to Model Context Protocol servers and exercising them. One npm package provides a Vite/React web app with a Node backend, a scriptable CLI for CI smoke tests, an Ink-based TUI, and an experimental `mcpdo` connection CLI. OAuth tokens and stdio env values go to the OS keychain when one is available.
@@ -33900,7 +33900,7 @@ entries:
     score: 79
   - id: humanlayer-skills
     repo: humanlayer/skills
-    name: skills
+    name: humanlayer/skills
     status: listed
     tagline: Claude Code skills for research-to-implementation, PR outlines and CLAUDE.md cleanup
     summary: A collection of installable Claude Code skills from HumanLayer, added one at a time with `npx skills add humanlayer/skills --skill NAME`. Skills include rpi (research, design discussion and implementation from local documents), visual-pr, show-me, improve-claude-md, narrow-react-prop-types, and two that set up scheduled coding-agent loops in GitHub Actions.
@@ -34078,7 +34078,7 @@ entries:
     score: 90
   - id: bun
     repo: oven-sh/bun
-    name: bun
+    name: oven-sh/bun
     status: listed
     tagline: JavaScript and TypeScript runtime with bundler, test runner and package manager
     summary: Bun ships as a single `bun` executable that runs JS and TS (including JSX) on JavaScriptCore, as a drop-in Node.js replacement. The same binary provides a Node-compatible package manager, a bundler, a test runner and a single-file executable compiler. It also has built-in APIs for an HTTP server, WebSockets, SQLite, PostgreSQL, Redis and S3.
@@ -34577,7 +34577,7 @@ entries:
     score: 90
   - id: conductor-oss-conductor
     repo: conductor-oss/conductor
-    name: conductor
+    name: conductor-oss/conductor
     status: listed
     tagline: Durable workflow engine that orchestrates microservices and LLM agents from JSON
     summary: Conductor is a Java workflow orchestration server, originally from Netflix, that persists every task and runs versioned JSON workflow graphs. Workers in Java, Python, Go, JavaScript, C#, Ruby or Rust poll for tasks, while built-in tasks cover LLM chat, MCP tool discovery and calls, human approval, loops, forks and sub-workflows. It runs on Redis, Postgres or MySQL, with Elasticsearch or OpenSearch for indexing.
@@ -35427,7 +35427,7 @@ entries:
     score: 83
   - id: davidondrej-skills
     repo: davidondrej/skills
-    name: skills
+    name: davidondrej/skills
     status: listed
     tagline: Collection of Agent Skills for coding and research agents
     summary: A repository of reusable Agent Skills, each a folder with a SKILL.md that an agent loads when a task matches. Skills are grouped under skills/ into agent orchestration, skill authoring, research and web, thinking and docs, and ops and setup. Many of the research skills are powered by DeepAPI.
@@ -35513,7 +35513,7 @@ entries:
     score: 73
   - id: dimillian-skills
     repo: dimillian/skills
-    name: skills
+    name: dimillian/skills
     status: listed
     tagline: Codex skill folders for Apple development, review swarms, and refactors
     summary: A collection of 16 self-contained skills, each a folder with a SKILL.md, installed under $CODEX_HOME/skills. They cover SwiftUI and Swift concurrency work, macOS app packaging, iOS simulator debugging via XcodeBuildMCP, GitHub tasks through the gh CLI, and React performance diagnosis. Two skills run four-agent read-only swarms for diff review and bug investigation.
@@ -35654,7 +35654,7 @@ entries:
     score: 78
   - id: mirage
     repo: strukto-ai/mirage
-    name: mirage
+    name: strukto-ai/mirage
     status: listed
     tagline: Virtual shell that mounts S3, Slack and Gmail as one filesystem for agents
     summary: Mirage gives AI agents a single Unix-style shell over mounted services such as S3, Google Drive, Slack, Gmail and Redis. Commands like grep, ls and jq work across mounts, and each command is routed to an in-process, sandboxed (E2B) or remote runtime. Per-agent profiles allow, ask, deny or hide commands and paths, and a policy script can block actions before they run. Python and TypeScript SDKs exist.
@@ -36944,7 +36944,7 @@ entries:
     score: 79
   - id: scenario-labs-skills
     repo: scenario-labs/skills
-    name: skills
+    name: scenario-labs/skills
     status: listed
     tagline: Agent skills for generating images, video, audio and 3D via the Scenario MCP
     summary: "A collection of about 90 Agent Skills (agentskills.io format) that teach coding agents such as Claude Code, Cursor, Codex and Copilot to generate images, video, audio, textures, skyboxes and 3D assets through the Scenario MCP server. A separate group of expert skills drives locally installed software: ZBrush, Blender, Maya, Unreal Engine, Unity, Godot and Roblox Studio. Installed with `npx skills add`."
@@ -37360,7 +37360,7 @@ entries:
     score: 53
   - id: browsermcp-mcp
     repo: browsermcp/mcp
-    name: mcp
+    name: browsermcp/mcp
     status: listed
     tagline: MCP server that lets coding agents drive your own signed-in Chrome
     summary: Browser MCP runs an MCP server (npx @browsermcp/mcp@latest) that forwards a `browser` tool to a per-user local daemon. The daemon controls Chrome tabs with Playwright through a chrome.debugger extension that only talks to 127.0.0.1. It works with Claude Code, Cursor, VS Code, Codex and Claude Desktop, using your existing profile and logged-in sites.
@@ -37778,7 +37778,7 @@ entries:
     score: 90
   - id: nx
     repo: nrwl/nx
-    name: nx
+    name: nrwl/nx
     status: listed
     tagline: Monorepo build system with task caching, affected-only runs and CI integration
     summary: Nx is a monorepo tool for TypeScript and polyglot codebases, with a core written in Rust and extensibility in TypeScript. It caches task outputs, runs only affected projects, and can be added to an existing npm, pnpm or yarn workspace with `npx nx init`. Its CI layer adds remote caching, task distribution and an AI self-healing step that proposes fixes for failed pipelines.
@@ -42727,7 +42727,7 @@ entries:
     score: 91
   - id: cli
     repo: larksuite/cli
-    name: cli
+    name: larksuite/cli
     status: listed
     tagline: Official Lark/Feishu CLI with agent skills for Calendar, Docs, Mail and more
     summary: "lark-cli is a Go CLI for the Lark/Feishu Open Platform, installed through npm. It offers 200+ commands across messaging, docs, Base, sheets, calendar, mail, tasks and meetings, plus 26 agent skills so coding agents can call them. Commands come in three layers: `+` shortcuts, API commands generated from platform metadata, and a raw `api` call for any endpoint."
@@ -42894,7 +42894,7 @@ entries:
     score: 51
   - id: mobile-dev-inc-maestro
     repo: mobile-dev-inc/maestro
-    name: maestro
+    name: mobile-dev-inc/maestro
     status: listed
     tagline: YAML-based UI and end-to-end test framework for Android, iOS and web
     summary: Maestro runs UI and end-to-end tests written as flat YAML command lists (launchApp, tapOn, assertVisible) against Android, iOS and web apps, driving them through the platform accessibility layer. It installs as a single CLI binary and also ships an MCP server (`maestro mcp`) so coding agents can control a live device and write flows. Flows run on emulators, simulators, browsers and physical Android devices.
@@ -43071,7 +43071,7 @@ entries:
     score: 74
   - id: runtime
     repo: e2b-dev/runtime
-    name: runtime
+    name: e2b-dev/runtime
     status: listed
     tagline: Firecracker microVM sandbox backend for running untrusted AI agent code
     summary: "Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Firecracker, an in-VM agent (envd), an edge proxy and a template builder. Each sandbox is a microVM restored from a snapshot with lazy memory paging, and it can be paused, resumed or forked. A single-host Embed package runs the stack on a Linux machine with KVM."
@@ -45415,7 +45415,7 @@ entries:
     score: 64
   - id: nuxt-hub-core
     repo: nuxt-hub/core
-    name: core
+    name: nuxt-hub/core
     status: listed
     tagline: Nuxt module adding SQL database, blob storage, cache and KV to Nuxt apps
     summary: "NuxtHub (@nuxthub/core) is a Nuxt module that adds optional server-side features to a Nuxt app: a SQL database with automatic migrations, file storage, a cache layer for pages, API routes and server functions, and a globally accessible key-value store. It is distributed on npm and documented at hub.nuxt.com. The README does not name the underlying providers."
@@ -46856,7 +46856,7 @@ entries:
     score: 76
   - id: camel
     repo: apache/camel
-    name: camel
+    name: apache/camel
     status: listed
     tagline: Java integration framework with 350+ connectors, routes in Java, YAML or XML
     summary: Apache Camel connects databases, APIs, message brokers and cloud services through routes written in Java, YAML, or XML, with Enterprise Integration Patterns built in. It runs on Spring Boot, Quarkus, or standalone via the Camel CLI. For AI use, it ships an MCP server exposing the Camel catalog to coding assistants, plus LangChain4j and OpenAI components and A2A protocol support.
@@ -46946,7 +46946,7 @@ entries:
     score: 76
   - id: github-copilotforxcode
     repo: github/copilotforxcode
-    name: copilotforxcode
+    name: github/copilotforxcode
     status: listed
     tagline: GitHub Copilot chat, agent mode and completions inside Xcode
     summary: A macOS host app plus Xcode Source Editor extension that adds GitHub Copilot inline completions, chat and an agent mode to Xcode. Agent mode can edit files, run terminal commands, search the codebase and call configured MCP tools. It requires a GitHub account and signs in with a device code flow.
@@ -47300,7 +47300,7 @@ entries:
     score: 92
   - id: nebula
     repo: vesoft-inc/nebula
-    name: nebula
+    name: vesoft-inc/nebula
     status: listed
     tagline: Distributed graph database with OpenCypher-compatible queries
     summary: NebulaGraph is a graph database written in C++ that separates storage from compute and scales horizontally. It uses the Raft protocol for strong consistency, accepts an OpenCypher-compatible query language, and has role-based access control. The README points to its docs for install and quick start.
@@ -47433,7 +47433,7 @@ entries:
     score: 83
   - id: codex-autoresearch
     repo: leo-lilinxiao/codex-autoresearch
-    name: codex-autoresearch
+    name: leo-lilinxiao/codex-autoresearch
     status: listed
     tagline: Codex skill that loops on a metric, keeping or reverting each change
     summary: A skill for OpenAI Codex that runs an experiment loop in a Git repo. Each iteration changes one thing, commits, and runs a metric command. The commit is kept only if the number improves and an optional guard passes, otherwise it is reverted with git revert. It runs in the foreground via Codex Goal or as a detached controller, and logs history to autoresearch-results/events.jsonl.
@@ -49281,7 +49281,7 @@ entries:
     score: 82
   - id: ui
     repo: creativetimofficial/ui
-    name: ui
+    name: creativetimofficial/ui
     status: listed
     tagline: shadcn/ui-based React components and page blocks installed through a CLI
     summary: Creative Tim UI is a component registry built on shadcn/ui. Its CLI (`npx @creative-tim/ui@latest add <name>`) copies components and page blocks into a Next.js project. Blocks cover modals, account, billing, testimonials, contact, footers, FAQs, blog, ecommerce and Web 3.0 sections.
@@ -49695,7 +49695,7 @@ entries:
     score: 71
   - id: caldoai-skills
     repo: caldoai/skills
-    name: skills
+    name: caldoai/skills
     status: listed
     tagline: Agent skill collection installed via the skills CLI or Claude Code marketplace
     summary: A repository of agent skills for Claude Code, Cursor, Codex and other agents, installed with `npx skills add caldoai/skills` or added as a Claude Code plugin marketplace. It currently lists one skill, untangle-codebase, described only as "Untangle a codebase for agents." Skills can also be copied by hand into ~/.claude/skills/.
@@ -50114,7 +50114,7 @@ entries:
     score: 63
   - id: jarvis
     repo: ethanplusai/jarvis
-    name: jarvis
+    name: ethanplusai/jarvis
     status: listed
     tagline: Voice interface that brainstorms specs and drives Claude Code sessions on macOS
     summary: JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` process on your own subscription brainstorms a design with you, writes it to a spec file in the project, then starts Claude Code runs that plan, review and execute it. It also watches every Claude Code session on the machine and says aloud which ones are waiting on you. Runs are logged in SQLite and shown on a local dashboard.
@@ -50874,7 +50874,7 @@ entries:
     score: 63
   - id: examples
     repo: vercel/examples
-    name: examples
+    name: vercel/examples
     status: listed
     tagline: Vercel's collection of Next.js and edge example apps and reference solutions
     summary: Monorepo of example projects maintained by Vercel, split into solutions (demos and reference architectures) and starter apps meant as starting points. Many entries feed Vercel's template gallery and can be deployed with a Deploy Button. The README covers contribution rules and does not describe any AI-specific features.
@@ -51085,7 +51085,7 @@ entries:
     score: 60
   - id: ignite
     repo: apache/ignite
-    name: ignite
+    name: apache/ignite
     status: listed
     tagline: Distributed in-memory database with SQL, ACID transactions and compute APIs
     summary: Apache Ignite is a distributed database written in Java that keeps data in memory with optional disk persistence. It provides ACID transactions across servers, an ANSI-99 SQL engine reachable over JDBC, ODBC and native APIs, and MapReduce-style compute tasks across nodes. The README describes no AI-specific features.
@@ -51552,7 +51552,7 @@ entries:
     score: 71
   - id: cosscom-ui
     repo: cosscom/ui
-    name: ui
+    name: cosscom/ui
     status: listed
     tagline: React component library on Base UI and Tailwind, copied into your project
     summary: "coss ui is the Cal.com design system: accessible React components built on Base UI primitives and styled with Tailwind CSS, distributed in the copy-and-own style of shadcn/ui. The repo is a Turborepo monorepo with the marketing site, the component docs (Fumadocs), and a legacy Radix-based Origin UI snapshot. It contains no AI features, so it fits this list only as a UI base for app starters."
@@ -53041,7 +53041,7 @@ entries:
     score: 77
   - id: cli-cli
     repo: cli/cli
-    name: cli
+    name: cli/cli
     status: listed
     tagline: Official GitHub command-line client for pull requests, issues and repos
     summary: gh is GitHub's official CLI, written in Go. It runs pull request, issue and other GitHub operations from the terminal, alongside git, on macOS, Windows and Linux. It works with GitHub.com, GitHub Enterprise Cloud and supported Enterprise Server versions, and ships an agent skill that coding agents can use to drive it.
@@ -53124,7 +53124,7 @@ entries:
     score: 91
   - id: harness-harness
     repo: harness/harness
-    name: harness
+    name: harness/harness
     status: listed
     tagline: Self-hosted Git hosting with CI pipelines, Gitspaces and artifact registries
     summary: Harness Open Source is a Go server that combines Git repository hosting, Docker-based CI pipelines, hosted development environments (Gitspaces) and artifact registries behind one web UI and REST API. It is the successor to Drone, though pipeline parity with Drone is not yet reached. It has no AI features; it fits this list only as a self-hosted platform for building and shipping apps.
@@ -57136,7 +57136,7 @@ entries:
     score: 75
   - id: feder-cr-git-ai
     repo: feder-cr/git-ai
-    name: git-ai
+    name: feder-cr/git-ai
     status: listed
     tagline: Git server for coding agents that lands concurrent changes by compare-and-swap
     summary: gitai is a fork of GitLab's Gitaly that implements the server-centric source control design Anthropic described for Scion. Agents fetch sparse trees over gRPC, and changes are rebased and landed with a compare-and-swap, batched per branch instead of queued. Conflicts can go to a resolver you choose (any LLM, a deterministic tool, or none), and the server itself never calls a model.
@@ -57940,7 +57940,7 @@ entries:
     score: 83
   - id: pressly-goose
     repo: pressly/goose
-    name: goose
+    name: pressly/goose
     status: listed
     tagline: Database schema migration tool for Go, as CLI and library
     summary: Goose applies versioned schema changes written as SQL files or Go functions, tracking state in a migrations table (default goose_db_version). It runs as a CLI or is imported as a Go library, with commands such as up, down, redo, status, fix and validate. Drivers include Postgres, MySQL, SQLite, ClickHouse, MSSQL, Spanner, YDB and others.
@@ -58356,7 +58356,7 @@ entries:
     score: 93
   - id: vercel-labs-ui
     repo: vercel-labs/ui
-    name: ui
+    name: vercel-labs/ui
     status: listed
     tagline: Headless UI behavior library for React, Vue, Svelte, Solid and Web Components
     summary: "UI SDK provides framework-agnostic behaviors in @ui-sdk/core: keyboard navigation, focus, selection, dismissal, popups, drag and drop and the ARIA attributes they need. Primitives are defined once with definePrimitive and rendered through adapters for React, Vue, Svelte, Solid and Web Components. It also ships an installable agent skill so coding agents write the primitives. It is in beta under Vercel's beta terms."
@@ -59280,7 +59280,7 @@ entries:
     score: 63
   - id: jezweb-claude-skills
     repo: jezweb/claude-skills
-    name: claude-skills
+    name: jezweb/claude-skills
     status: listed
     tagline: Claude Code plugin marketplace of workflow skills for scaffolding, docs and deploys
     summary: A Claude Code plugin marketplace with ten plugins and about 50 skills, each a recipe that has Claude produce a concrete output. Examples include a Vite + React + Workers scaffold, Shopify and WordPress content, Tailwind and shadcn/ui setup, Stripe payments, MCP server builds and regional business-English style guides. Add it with /plugin marketplace add jezweb/claude-skills, then install plugins individually.
@@ -59712,7 +59712,7 @@ entries:
     score: 69
   - id: eve
     repo: pyeve/eve
-    name: eve
+    name: pyeve/eve
     status: listed
     tagline: Python REST API framework on Flask with MongoDB support
     summary: Eve is a Python framework built on Flask that exposes a database as a configurable REST API. Resources are defined in a settings.py file and the app starts with a few lines of code. It supports MongoDB natively and SQL backends through community extensions.
@@ -59797,7 +59797,7 @@ entries:
     score: 71
   - id: pig
     repo: pig-mesh/pig
-    name: pig
+    name: pig-mesh/pig
     status: listed
     tagline: Spring Cloud RBAC admin platform with OAuth2 auth, gateway and code generation
     summary: Pig is a Java 17 admin backend built on Spring Boot 4.1 and Spring Cloud, with a Vue 3 and Element Plus frontend in the separate pig-ui repo. It includes an OAuth2 authorization server, Spring Cloud Gateway, user and permission management, monitoring, a code generator and a Quartz job console. It runs as microservices or as a single pig-boot application. It has no AI features.
@@ -60883,7 +60883,7 @@ entries:
     score: 80
   - id: blender-skills
     repo: el4cteo/blender-skills
-    name: blender-skills
+    name: el4cteo/blender-skills
     status: listed
     tagline: 28 Blender skills for coding agents, from modeling and rigging to export and QA
     summary: A set of 28 Agent Skills that teach coding agents (Claude Code, Codex, OpenCode, Gemini CLI, Copilot, Cursor) Blender workflows such as hard-surface modeling, Rigify rigging, texture baking, game-engine export and asset QA. It installs as a Claude Code plugin or through a shell or PowerShell installer into ~/.claude/skills and ~/.agents/skills. It targets Blender 5.2 LTS or newer, verified on 5.3, and ships 67 headless Blender tests.
@@ -61168,7 +61168,7 @@ entries:
     score: 20
   - id: pashov-skills
     repo: pashov/skills
-    name: skills
+    name: pashov/skills
     status: listed
     tagline: Solidity audit, pre-audit scan and fuzz-suite skills for AI coding agents
     summary: Three skills for coding agents such as Claude Code, Cursor, Codex, GitHub Copilot and Windsurf. They run a Solidity security audit, a pre-audit scan (threat model, invariants, entry points, git analysis), and generate an Echidna/Medusa fuzz suite for Foundry or Hardhat projects. Each is triggered by a plain-language prompt after installing from the repo.
@@ -61512,7 +61512,7 @@ entries:
     score: 34
   - id: rampstackco-claude-skills
     repo: rampstackco/claude-skills
-    name: claude-skills
+    name: rampstackco/claude-skills
     status: listed
     tagline: Library of 110 Claude Skills for brand, web, SEO and product work
     summary: A collection of 110 Claude Skills, each a SKILL.md with reference files (534 in total), covering brand, design, content, SEO, frontend, ops, growth and product management. It installs as Claude Code plugins from a marketplace, either the full catalog or the starter, SEO and PM subsets. The skills are stack-agnostic except the SEO audit suite, which assumes the Ahrefs MCP.
@@ -61933,7 +61933,7 @@ entries:
     score: 73
   - id: phoenix
     repo: phoenixframework/phoenix
-    name: phoenix
+    name: phoenixframework/phoenix
     status: listed
     tagline: Elixir web framework for HTTP, WebSocket channels and server-rendered apps
     summary: Phoenix is a web framework written in Elixir. It includes a `phx.new` Mix task that generates new projects and a JavaScript client (Phoenix.js) for channels. The README describes no AI features. It is a general web and backend framework that you would build an AI app on top of.
@@ -61974,7 +61974,7 @@ entries:
     score: 80
   - id: adonisjs-core
     repo: adonisjs/core
-    name: core
+    name: adonisjs/core
     status: listed
     tagline: TypeScript MVC web framework for Node.js apps and APIs
     summary: AdonisJS core is the main package of a fullstack MVC web framework for Node.js, written in TypeScript. The README describes it as a framework for building web apps and micro services behind a stable API. It has no AI features of its own, so it works only as a backend base that you add model calls to.
@@ -62188,7 +62188,7 @@ entries:
     score: 58
   - id: router
     repo: tanstack/router
-    name: router
+    name: tanstack/router
     status: listed
     tagline: Type-safe client router for React, with a full-stack SSR framework built on it
     summary: TanStack Router is a TypeScript routing library with typed routes, params and loaders, and schema-validated search params. It includes caching, prefetching, invalidation, nested layouts and error boundaries. TanStack Start builds on it and adds full-document SSR, streaming and server functions. The README describes no AI features, so this is a general web framework, not an AI project.
@@ -63190,7 +63190,7 @@ entries:
     score: 69
   - id: agent
     repo: agentiloop/agent
-    name: agent
+    name: agentiloop/agent
     status: listed
     tagline: Native macOS Swift app that runs an LLM agent loop to control your Mac
     summary: AgentiLoop Agent is a SwiftUI app for macOS 14.6+ that connects 23 LLM providers, plus on-device Apple Intelligence, to a task loop. The loop reads and edits code, builds Xcode projects, runs shell commands as the user or root, and drives Mac apps through the Accessibility API. It also supports MCP servers, sub-agents, voice activation and iMessage remote control.
@@ -63630,7 +63630,7 @@ entries:
     score: 66
   - id: jiweiyeah-skills-manager
     repo: jiweiyeah/skills-manager
-    name: skills-manager
+    name: jiweiyeah/skills-manager
     status: listed
     tagline: Desktop app that syncs one skills folder to many AI coding tools via symlinks
     summary: Skills Manager is a Tauri 2.0 and React 19 desktop app that keeps coding-agent skills in one directory and links them into the config folders of 32 supported tools, including Claude Code, Codex, Cursor and Gemini CLI. Skills can be enabled per tool, browsed from a marketplace, and translated with an LLM. A companion CLI, `skm`, covers init, adopt, list, enable, disable, doctor and fix for headless machines.
@@ -64170,7 +64170,7 @@ entries:
     score: 56
   - id: uptrace-bun
     repo: uptrace/bun
-    name: bun
+    name: uptrace/bun
     status: listed
     tagline: SQL-first Go ORM for PostgreSQL, MySQL, MSSQL, SQLite and Oracle
     summary: Bun is a Go library built on database/sql that maps structs to tables and lets you write queries in a builder that mirrors SQL, including CTEs. It covers relations via struct tags, bulk insert/update/delete, migrations, and query hooks for debug logging and OpenTelemetry. It is a data-access library, not an AI project or a hosted backend.
@@ -65436,7 +65436,7 @@ entries:
     score: 34
   - id: qingwave-weave
     repo: qingwave/weave
-    name: weave
+    name: qingwave/weave
     status: listed
     tagline: Go and Vue3 full-stack starter with JWT auth, RBAC and container management
     summary: Weave is a Go (gin, gorm) backend paired with a Vue3 and element-plus frontend. It ships JWT and OAuth login, RBAC, Redis caching, rate limiting, Swagger docs, Prometheus metrics, a web shell, a code editor and Docker or Kubernetes application management. The README describes no AI features; it is a general application starter.
@@ -68291,7 +68291,7 @@ entries:
     score: 94
   - id: emdash-cms-emdash
     repo: emdash-cms/emdash
-    name: emdash
+    name: emdash-cms/emdash
     status: listed
     tagline: TypeScript CMS on Astro with sandboxed plugins and a built-in MCP server
     summary: EmDash is an Astro integration that adds an admin panel, REST API, passkey-first auth, media library and plugin system to an Astro site. Content types are defined in the database through the admin UI, with each collection backed by a real SQL table and rich text stored as Portable Text. It runs on Cloudflare (D1, R2, Workers) or on Node.js with SQLite, and includes a WordPress import wizard.
@@ -69383,7 +69383,7 @@ entries:
     score: 65
   - id: openui
     repo: wandb/openui
-    name: openui
+    name: wandb/openui
     status: listed
     tagline: Describe a UI in text, preview it live, and convert it to React or Svelte
     summary: OpenUI is a prompt-to-UI generator from Weights & Biases. You describe a component, it renders live in the browser, and you can ask for changes or convert the HTML to React, Svelte or Web Components. A Python backend routes to OpenAI, Groq, Ollama or any LiteLLM-supported model, and the web UI is served on port 7878.
@@ -69570,7 +69570,7 @@ entries:
     score: 63
   - id: framework
     repo: ai-driven-dev/framework
-    name: framework
+    name: ai-driven-dev/framework
     status: listed
     tagline: Skill and plugin suite that runs an SDLC workflow inside AI coding tools
     summary: Nine plugins with 55 skills and 4 agents that cover a delivery flow inside Claude Code, Cursor, GitHub Copilot, Codex, OpenCode, Kilo Code and Antigravity CLI. Slash commands handle project memory, ticket reading, spec writing, planning, implementation, review and opening a draft pull request, and /aidd-orchestrator:01-sdlc chains them. Installed with an npx CLI, a plugin marketplace or flat files.
@@ -70450,7 +70450,7 @@ entries:
     score: 70
   - id: shadcn-ui-ui
     repo: shadcn-ui/ui
-    name: ui
+    name: shadcn-ui/ui
     status: listed
     tagline: Customizable React UI components you copy into your project and own
     summary: shadcn/ui is a set of designed UI components written in TypeScript that you customize and extend, intended as a starting point for your own component library. The README is minimal and points to ui.shadcn.com/docs for usage. It is a UI layer, not an app starter, and the README describes no AI features.
@@ -70530,7 +70530,7 @@ entries:
     score: 60
   - id: nuxt-ui
     repo: nuxt/ui
-    name: ui
+    name: nuxt/ui
     status: listed
     tagline: Accessible Vue component library for Nuxt and Vite, built on Reka UI and Tailwind
     summary: Nuxt UI is a library of typed Vue components built on Reka UI, Tailwind CSS and Tailwind Variants. It installs as a Nuxt module or as a Vite plugin in plain Vue apps. The README links ten starter templates (landing, docs, SaaS, dashboard, chat, editor, calendar and others), and the chat template uses the Vercel AI SDK with GitHub auth and persistent history.
@@ -71020,7 +71020,7 @@ entries:
     score: 35
   - id: framework
     repo: top-think/framework
-    name: framework
+    name: top-think/framework
     status: listed
     tagline: PHP 8 web application framework with ORM and PSR support
     summary: ThinkPHP 8 is a general-purpose PHP web framework requiring PHP 8.0+ and think-orm 3.0+. It follows PSR-2 and PSR-4, installs through Composer, and ships a built-in dev server started with `php think run` on port 8000. It is not an AI project; the README only links to a hosted ThinkChat assistant trained on its manual.
@@ -73043,7 +73043,7 @@ entries:
     score: 63
   - id: arjun988-blender-skills
     repo: arjun988/blender-skills
-    name: blender-skills
+    name: arjun988/blender-skills
     status: listed
     tagline: 94 agent skills that drive Blender through BlenderMCP
     summary: A set of 94 skill folders and 175+ reference files for Cursor, Claude Code, Kiro and Codex covering Blender work such as hard-surface modeling, retopology, UVs, materials, rigging and export to Unity, Unreal and Godot. A blender-director skill routes a request through the relevant skills, and execution runs in a live Blender session via the BlenderMCP addon.
@@ -73089,7 +73089,7 @@ entries:
     score: 56
   - id: api-platform-core
     repo: api-platform/core
-    name: core
+    name: api-platform/core
     status: listed
     tagline: PHP library for building hypermedia REST and GraphQL APIs on Symfony
     summary: API Platform Core is a PHP library that builds REST and GraphQL APIs from resource definitions. A bundle integrates it with Symfony. It supports JSON-LD, Hydra, OpenAPI v2 and v3, JSON:API, HAL and Problem Details, and is one component of the wider API Platform framework.
@@ -73753,7 +73753,7 @@ entries:
     score: 63
   - id: borghei-claude-skills
     repo: borghei/claude-skills
-    name: claude-skills
+    name: borghei/claude-skills
     status: listed
     tagline: 403 skills for Claude and other assistants across business, compliance and code
     summary: A collection of 403 skills across 21 domains, including C-level advisory, project management, engineering, compliance and marketing. Each skill is paired with Python tools (973 total, standard library only) that compute scores and metrics, so numbers do not come from the model. It installs as a Claude plugin marketplace, or through an npx CLI for Cursor, Codex, Gemini CLI, Copilot, Windsurf, Cline, Goose and Aider.
@@ -74400,7 +74400,7 @@ entries:
     score: 24
   - id: aiming-lab-autoharness
     repo: aiming-lab/autoharness
-    name: autoharness
+    name: aiming-lab/autoharness
     status: listed
     tagline: Python governance layer that wraps LLM clients and checks agent tool calls
     summary: "AutoHarness wraps an OpenAI client, or runs its own AgentLoop, and sends every tool call through a governance pipeline: parse, risk classify, permission check, execute, output sanitize, audit log. Rules live in a YAML constitution. It also tracks token budgets, per-call cost and sessions, and can install as a Claude Code hook."
@@ -77557,7 +77557,7 @@ entries:
     score: 62
   - id: hermes-desktop
     repo: dodo-reach/hermes-desktop
-    name: hermes-desktop
+    name: dodo-reach/hermes-desktop
     status: listed
     tagline: Native macOS app for managing Hermes Agent sessions, Kanban, cron and skills
     summary: A Swift macOS app that works against a Hermes Agent install on the same Mac or over SSH. It reads the host's real sessions, Kanban, cron jobs, skills, files and usage, and embeds a local or SSH terminal plus a hosted `hermes --tui` chat. It keeps no mirror or gateway; state stays on the Hermes host.
@@ -78368,7 +78368,7 @@ entries:
     score: 34
   - id: turbo
     repo: tobihagemann/turbo
-    name: turbo
+    name: tobihagemann/turbo
     status: listed
     tagline: Skill plugin for Claude Code and Codex covering plan, build, review and ship
     summary: Turbo is a plugin of Markdown skills for Claude Code and Codex that moves a change through plan, implement, preview, polish, learn and ship stages. It runs the project's own checks, does parallel-agent review with the other model as peer reviewer, and opens and lands the pull request after approval. The Claude Code edition is described as production-tested; the Codex edition is experimental.
@@ -78510,7 +78510,7 @@ entries:
     score: 34
   - id: turbo
     repo: unfoldadmin/turbo
-    name: turbo
+    name: unfoldadmin/turbo
     status: listed
     tagline: Django REST and Next.js monorepo starter with JWT auth and typed API client
     summary: A monorepo template pairing a Django REST backend with a Next.js frontend. It includes JWT login via simplejwt and next-auth, a registration form, profile editing, the Unfold admin theme, and a TypeScript API client generated from the backend's OpenAPI schema. It is a general web boilerplate with no AI features built in.
@@ -80905,7 +80905,7 @@ entries:
     score: 62
   - id: michaelkinsy-pig
     repo: michaelkinsy/pig
-    name: pig
+    name: michaelkinsy/pig
     status: listed
     tagline: Go port of the Pi terminal coding agent, shipped as one native binary
     summary: PiG reimplements Pi, a minimal terminal coding agent, in Go as a single binary that needs no Node.js. It runs Pi's TypeScript extensions unchanged and also supports extensions written in Go, Rust or Python. Extensions, skills and prompts can be bundled into a Piglet, a named agent that can be built into its own executable. It is a pre-stable 0.x release checked against Pi 1.5.0.
@@ -82658,7 +82658,7 @@ entries:
     score: 46
   - id: oaustegard-claude-skills
     repo: oaustegard/claude-skills
-    name: claude-skills
+    name: oaustegard/claude-skills
     status: listed
     tagline: Collection of Claude skills packaged as a Claude Code plugin marketplace
     summary: A repository of Claude skills, each a folder with a SKILL.md and optional resources, published as a Claude Code plugin marketplace and as per-skill ZIP releases for Claude.ai. Skills are designed mainly for the Claude.ai skill compute environment, so behavior in Claude Code may differ. Releases are triggered by bumping metadata.version in a skill's SKILL.md frontmatter.
@@ -82895,7 +82895,7 @@ entries:
     score: 69
   - id: dlyzzt-pi-desktop
     repo: dlyzzt/pi-desktop
-    name: pi-desktop
+    name: dlyzzt/pi-desktop
     status: listed
     tagline: Electron desktop app for the Pi Coding Agent with built-in browser
     summary: Pi Agent Desktop is an Electron and React app that wraps the Pi Coding Agent in a GUI with sessions, project files, Git worktrees, MCP servers, Skills and Plugins. It adds an embedded Chromium browser the agent can drive, managed dev-server processes, and WeChat, Telegram and Feishu/Lark channels. It reads existing Pi CLI data from ~/.pi/agent/ and ships installers for macOS, Windows x64 and Linux x64.
@@ -83129,7 +83129,7 @@ entries:
     score: 54
   - id: thegreencedar-codex-autoresearch
     repo: thegreencedar/codex-autoresearch
-    name: codex-autoresearch
+    name: thegreencedar/codex-autoresearch
     status: listed
     tagline: Codex plugin that optimizes code against a benchmark through repeatable experiments
     summary: A plugin for Codex that improves local code against a repeatable benchmark. You approve a contract (workload, correctness checks, edit scope, time budget), it records a baseline, tries small changes, and keeps or discards each by the METRIC line the benchmark prints. Session state lives in .git/autoresearch/, and finalization produces a patch with evidence; an optional read-only dashboard shows results.
@@ -84627,7 +84627,7 @@ entries:
     score: 57
   - id: gemini-cli-extensions-ralph
     repo: gemini-cli-extensions/ralph
-    name: ralph
+    name: gemini-cli-extensions/ralph
     status: listed
     tagline: Gemini CLI extension that reruns the same prompt in a loop until done
     summary: Ralph is a Gemini CLI extension, written in shell, that repeats an agent task across turns. An AfterAgent hook (hooks/stop-hook.sh) catches the end of each turn, clears the previous turn's context and restarts with the original prompt. The loop ends at a max iteration count (default 5) or when the agent prints a completion promise tag. Progress carries over only through files and git history.
@@ -88177,7 +88177,7 @@ entries:
     score: 56
   - id: elevenlabs-examples
     repo: elevenlabs/examples
-    name: examples
+    name: elevenlabs/examples
     status: listed
     tagline: Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents
     summary: A collection of small ElevenLabs projects covering text-to-speech, Scribe v2 speech-to-text, music, sound effects, voice isolation, dubbing and agents. Each one has a PROMPT.md and setup.sh that scaffold a runnable example/ directory from shared Expo, Next.js, Python or TypeScript templates. Most are quickstarts in TypeScript or Python, plus Next.js browser playgrounds and realtime voice demos.

@@ -40,7 +40,7 @@ Composio is an SDK monorepo (TypeScript, Python, and a CLI) that creates per-use
 <sub>TypeScript, OpenAI, Anthropic, Google GenAI, LangChain · Needs Composio API key (hosted service), Node 22+ for TypeScript SDK, Python 3.10+ for Python SDK · [Repo](https://github.com/composiohq/composio) · [📖 Docs ↗](https://docs.composio.dev) · [🌐 Site ↗](https://composio.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/composio/)</sub>
 
 <a name="conductor-oss-conductor"></a>
-### 🥉 [conductor](https://github.com/conductor-oss/conductor) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [conductor-oss/conductor](https://github.com/conductor-oss/conductor) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · Apache-2.0 · Nov 2026</sub>
 
 **Durable workflow engine that orchestrates microservices and LLM agents from JSON.**
 
@@ -111,7 +111,7 @@ Agent Autoloop is a zero-runtime-dependency Node hub that dispatches events (cro
 <sub>TypeScript, Claude Code, Codex, ACP agents (Gemini CLI, OpenCode), DeepSeek Harness · Needs Node 24+, Git, A logged-in CLI agent (Claude Code, Codex, etc.), curl (macOS/Linux install) · [Repo](https://github.com/kkkkhazix/agent-autoloop) · [📖 Docs ↗](https://github.com/KKKKhazix/agent-autoloop/blob/main/skills/agent-autoloop/SKILL.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-autoloop/)</sub>
 
 <a name="mirage"></a>
-### #&#8288;7 [mirage](https://github.com/strukto-ai/mirage) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;7 [strukto-ai/mirage](https://github.com/strukto-ai/mirage) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Nov 2026</sub>
 
 **Virtual shell that mounts S3, Slack and Gmail as one filesystem for agents.**
 
@@ -415,7 +415,7 @@ PenguinHarness runs agents with a small toolset and keeps the model fixed while 
 <sub>TypeScript, OpenAI, Anthropic, Google Gemini, OpenRouter · Needs Node >= 24 (npm install), Docker (benchmarks), Model provider API key · Docker · env example file · [Repo](https://github.com/prism-shadow/penguin-harness) · [📖 Docs ↗](https://penguin.ooo/docs/) · [🌐 Site ↗](https://penguin.ooo/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penguin-harness/)</sub>
 
 <a name="rivet-dev-agents"></a>
-### #&#8288;24 [agents](https://github.com/rivet-dev/agents) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;24 [rivet-dev/agents](https://github.com/rivet-dev/agents) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Nov 2026</sub>
 
 **Runs coding agents as durable Rivet Actors or in sandboxes over HTTP.**
 
@@ -809,7 +809,7 @@ Unla is a Go gateway that turns REST APIs into MCP servers through YAML configur
 <sub>TypeScript · Needs SQLite, PostgreSQL or MySQL (optional), Redis (optional, config sync) · env example file · [Repo](https://github.com/amoylab/unla) · [📖 Docs ↗](https://docs.unla.amoylab.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/unla/)</sub>
 
 <a name="exo"></a>
-### #&#8288;46 [exo](https://github.com/exoharness/exo) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
+### #&#8288;46 [exoharness/exo](https://github.com/exoharness/exo) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (41) · Freshness: active (100) · Maintenance: patchy (39) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Nov 2026</sub>
 
 **Runtime that hosts Codex, Claude Code or Pi agents behind an API.**
 

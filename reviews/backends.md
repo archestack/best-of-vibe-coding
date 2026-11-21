@@ -5,7 +5,7 @@ Open-source backends you ship apps on (auth, database, storage, APIs) and self-h
 <sub>🌐 Also on the web: [Backends, databases and hosting on archestack.com](https://archestack.com/best-of-vibe-coding/backends/), each project on its own page.</sub>
 
 <a name="bun"></a>
-### 🥇 [bun](https://github.com/oven-sh/bun) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 97k · custom license · Nov 2026</sub>
+### 🥇 [oven-sh/bun](https://github.com/oven-sh/bun) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 97k · custom license · Nov 2026</sub>
 
 **JavaScript and TypeScript runtime with bundler, test runner and package manager.**
 
@@ -914,7 +914,7 @@ TDengine is a time-series database with built-in caching, stream processing and 
 <sub>RAM ≥ 4 GB · no GPU · Needs CMake 3.21+, Python 3 (tests), Go 1.23+ (taosAdapter, taosKeeper) · [Repo](https://github.com/taosdata/tdengine) · [▶️ Demo ↗](https://cloud.tdengine.com) · [📖 Docs ↗](https://docs.tdengine.com) · [🌐 Site ↗](https://tdengine.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tdengine/)</sub>
 
 <a name="emdash-cms-emdash"></a>
-### #&#8288;52 [emdash](https://github.com/emdash-cms/emdash) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+### #&#8288;52 [emdash-cms/emdash](https://github.com/emdash-cms/emdash) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
 
 **TypeScript CMS on Astro with sandboxed plugins and a built-in MCP server.**
 
@@ -1505,7 +1505,7 @@ TimescaleDB adds hypertables to PostgreSQL, which partition data into time-based
 <sub>RAM ≥ 8 GB · no GPU · Needs PostgreSQL, Docker (quickstart), psql · [Repo](https://github.com/timescale/timescaledb) · [📖 Docs ↗](https://docs.tigerdata.com/) · [🌐 Site ↗](https://www.tigerdata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/timescaledb/)</sub>
 
 <a name="phoenix"></a>
-### #&#8288;85 [phoenix](https://github.com/phoenixframework/phoenix) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
+### #&#8288;85 [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
 
 **Elixir web framework for HTTP, WebSocket channels and server-rendered apps.**
 
@@ -1647,7 +1647,7 @@ APIJSON is a Java library and JSON-based protocol where clients describe the dat
 <sub>no GPU · Needs Java 1.8+, A supported database such as MySQL or PostgreSQL · [Repo](https://github.com/apijson/apijson) · [▶️ Demo ↗](http://apijson.cn/api) · [📖 Docs ↗](https://github.com/APIJSON/APIJSON/blob/master/Document.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apijson/)</sub>
 
 <a name="router"></a>
-### #&#8288;93 [router](https://github.com/tanstack/router) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
+### #&#8288;93 [tanstack/router](https://github.com/tanstack/router) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 15k · MIT · Nov 2026</sub>
 
 **Type-safe client router for React, with a full-stack SSR framework built on it.**
 
@@ -2219,7 +2219,7 @@ Dgraph is a sharded, distributed graph database written in Go. It provides distr
 <sub>no GPU · Docker · port 8080 · [Repo](https://github.com/dgraph-io/dgraph) · [📖 Docs ↗](https://docs.dgraph.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dgraph/)</sub>
 
 <a name="adonisjs-core"></a>
-### #&#8288;125 [core](https://github.com/adonisjs/core) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
+### #&#8288;125 [adonisjs/core](https://github.com/adonisjs/core) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Nov 2026</sub>
 
 **TypeScript MVC web framework for Node.js apps and APIs.**
 
@@ -2380,7 +2380,7 @@ ScyllaDB is a distributed NoSQL database that speaks CQL (the Apache Cassandra A
 <sub>no GPU · Needs Docker or Podman (frozen build toolchain), C++23 compiler, ninja · [Repo](https://github.com/scylladb/scylladb) · [📖 Docs ↗](https://docs.scylladb.com/) · [🌐 Site ↗](https://www.scylladb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/scylladb/)</sub>
 
 <a name="pressly-goose"></a>
-### #&#8288;134 [goose](https://github.com/pressly/goose) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
+### #&#8288;134 [pressly/goose](https://github.com/pressly/goose) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · custom license · Nov 2026</sub>
 
 **Database schema migration tool for Go, as CLI and library.**
 
@@ -2685,7 +2685,7 @@ KubeVela is a Go application delivery platform built on the Open Application Mod
 <sub>RAM ≥ 1 GB · no GPU · Docker · Needs Kubernetes · [Repo](https://github.com/kubevela/kubevela) · [📖 Docs ↗](https://kubevela.io/docs) · [🌐 Site ↗](https://kubevela.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubevela/)</sub>
 
 <a name="pig"></a>
-### #&#8288;151 [pig](https://github.com/pig-mesh/pig) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;151 [pig-mesh/pig](https://github.com/pig-mesh/pig) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.7k · Apache-2.0 · Nov 2026</sub>
 
 **Spring Cloud RBAC admin platform with OAuth2 auth, gateway and code generation.**
 
@@ -3330,7 +3330,7 @@ SQLx is a Rust crate for talking to PostgreSQL, MySQL/MariaDB and SQLite using a
 <sub>no GPU · Needs PostgreSQL, MySQL/MariaDB or SQLite, Rust toolchain, tokio or async-std · [Repo](https://github.com/transact-rs/sqlx) · [📖 Docs ↗](https://docs.rs/sqlx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sqlx/)</sub>
 
 <a name="camel"></a>
-### #&#8288;187 [camel](https://github.com/apache/camel) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;187 [apache/camel](https://github.com/apache/camel) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (55) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · Apache-2.0 · Nov 2026</sub>
 
 **Java integration framework with 350+ connectors, routes in Java, YAML or XML.**
 
@@ -3348,7 +3348,7 @@ Apache Camel connects databases, APIs, message brokers and cloud services throug
 <sub>no GPU · Needs Java, Maven · Models: LangChain4j, OpenAI · [Repo](https://github.com/apache/camel) · [📖 Docs ↗](https://camel.apache.org/manual/getting-started.html) · [🌐 Site ↗](https://camel.apache.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/camel/)</sub>
 
 <a name="uptrace-bun"></a>
-### #&#8288;188 [bun](https://github.com/uptrace/bun) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (47) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;188 [uptrace/bun](https://github.com/uptrace/bun) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (47) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · BSD-2-Clause · Nov 2026</sub>
 
 **SQL-first Go ORM for PostgreSQL, MySQL, MSSQL, SQLite and Oracle.**
 
@@ -3366,7 +3366,7 @@ Bun is a Go library built on database/sql that maps structs to tables and lets y
 <sub>no GPU · Needs A SQL database (PostgreSQL, MySQL/MariaDB, MSSQL, SQLite or Oracle) · [Repo](https://github.com/uptrace/bun) · [📖 Docs ↗](https://bun.uptrace.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/uptrace-bun/)</sub>
 
 <a name="harness-harness"></a>
-### #&#8288;189 [harness](https://github.com/harness/harness) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (93) · Freshness: active (97) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;189 [harness/harness](https://github.com/harness/harness) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: widely used (93) · Freshness: active (97) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 39k · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted Git hosting with CI pipelines, Gitspaces and artifact registries.**
 
@@ -4190,7 +4190,7 @@ A GitHub Action that installs and runs Wrangler (v4 by default, v3 selectable) i
 <sub>no GPU · Needs GitHub Actions, Cloudflare account and API token, Wrangler (npm) · [Repo](https://github.com/cloudflare/wrangler-action) · [📖 Docs ↗](https://developers.cloudflare.com/workers/wrangler/ci-cd/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wrangler-action/)</sub>
 
 <a name="nuxt-hub-core"></a>
-### #&#8288;235 [core](https://github.com/nuxt-hub/core) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;235 [nuxt-hub/core](https://github.com/nuxt-hub/core) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **Nuxt module adding SQL database, blob storage, cache and KV to Nuxt apps.**
 
@@ -4297,7 +4297,7 @@ Piccolo is a Python ORM and query builder that supports both asyncio and sync us
 <sub>no GPU · Needs PostgreSQL or SQLite · [Repo](https://github.com/piccolo-orm/piccolo) · [📖 Docs ↗](https://piccolo-orm.readthedocs.io/en/latest/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/piccolo/)</sub>
 
 <a name="feder-cr-git-ai"></a>
-### #&#8288;241 [git-ai](https://github.com/feder-cr/git-ai) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Nov 2026</sub>
+### #&#8288;241 [feder-cr/git-ai](https://github.com/feder-cr/git-ai) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Nov 2026</sub>
 
 **Git server for coding agents that lands concurrent changes by compare-and-swap.**
 
@@ -4369,7 +4369,7 @@ BadgerDB is an embeddable, persistent key-value store written in pure Go, with n
 <sub>no GPU · Needs Go 1.23 or above · [Repo](https://github.com/dgraph-io/badger) · [📖 Docs ↗](https://badger.dgraph.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/badger/)</sub>
 
 <a name="ignite"></a>
-### #&#8288;245 [ignite](https://github.com/apache/ignite) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (48) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;245 [apache/ignite](https://github.com/apache/ignite) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (48) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Nov 2026</sub>
 
 **Distributed in-memory database with SQL, ACID transactions and compute APIs.**
 
@@ -5070,7 +5070,7 @@ json-server is an npm package that turns a db.json or db.json5 file into a REST 
 <sub>no GPU · Needs Node.js, npm · port 3000 · [Repo](https://github.com/typicode/json-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/json-server/)</sub>
 
 <a name="nebula"></a>
-### #&#8288;284 [nebula](https://github.com/vesoft-inc/nebula) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (70) · Freshness: recent (70) · Maintenance: weak (12) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;284 [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (70) · Freshness: recent (70) · Maintenance: weak (12) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Sep 2026</sub>
 
 **Distributed graph database with OpenCypher-compatible queries.**
 
@@ -5733,7 +5733,7 @@ VectorChord (vchord) is a Rust-based PostgreSQL extension that adds a vchordrq i
 <sub>Compose · Needs Docker · port 11337 · [Repo](https://github.com/1backend/1backend) · [📖 Docs ↗](https://1backend.com/docs/category/running-the-server) · [🌐 Site ↗](https://1backend.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/1backend/)</sub>
 
 <a name="framework"></a>
-### #&#8288;321 [framework](https://github.com/top-think/framework) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (31) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Mar 2026</sub>
+### #&#8288;321 [top-think/framework](https://github.com/top-think/framework) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (31) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Mar 2026</sub>
 
 **PHP 8 web application framework with ORM and PSR support.**
 

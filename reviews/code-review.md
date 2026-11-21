@@ -22,7 +22,7 @@ Playwright drives Chromium, Firefox and WebKit through one API, used for end-to-
 <sub>no GPU · Needs Node.js, Browser binaries via npx playwright install · [Repo](https://github.com/microsoft/playwright) · [📖 Docs ↗](https://playwright.dev/docs/intro) · [🌐 Site ↗](https://playwright.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/playwright/)</sub>
 
 <a name="nx"></a>
-### 🥈 [nx](https://github.com/nrwl/nx) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Nov 2026</sub>
+### 🥈 [nrwl/nx](https://github.com/nrwl/nx) <sub>score [94](../README.md#-how-we-rank "Score 94/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · MIT · Nov 2026</sub>
 
 **Monorepo build system with task caching, affected-only runs and CI integration.**
 
@@ -128,7 +128,7 @@ PR-Agent posts AI-generated PR descriptions, reviews, code suggestions and Q&A a
 <sub>no GPU · Docker + Compose · Needs LLM provider API key (e.g. OpenAI), Git provider token · Models: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral · [Repo](https://github.com/the-pr-agent/pr-agent) · [📖 Docs ↗](https://docs.pr-agent.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pr-agent/)</sub>
 
 <a name="mobile-dev-inc-maestro"></a>
-### #&#8288;8 [maestro](https://github.com/mobile-dev-inc/maestro) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;8 [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-based UI and end-to-end test framework for Android, iOS and web.**
 

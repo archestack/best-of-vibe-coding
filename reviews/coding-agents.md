@@ -95,7 +95,7 @@ OmO is an `omo` command-line coding agent built on senpi, a fork of pi. It route
 <sub>no GPU · Needs Model provider account or API keys · Models: Claude, ChatGPT, Kimi, GLM · safety checks passed 9 of 11 · [Repo](https://github.com/code-yeongyu/oh-my-openagent) · [📖 Docs ↗](https://omo.dev/docs) · [🌐 Site ↗](https://omo.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-openagent/)</sub>
 
 <a name="goose"></a>
-### #&#8288;6 [goose](https://github.com/aaif-goose/goose) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 57k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [aaif-goose/goose](https://github.com/aaif-goose/goose) <sub>score [93](../README.md#-how-we-rank "Score 93/100. Adoption: widely used (96) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 57k · Apache-2.0 · Nov 2026</sub>
 
 **General-purpose agent with desktop app and CLI, plus Rust agent crates.**
 
@@ -471,7 +471,7 @@ SuperPlane coordinates coding agents, source control, CI, review and approvals i
 <sub>Docker + Compose · Needs GitHub, Docker Compose or Kubernetes · [Repo](https://github.com/superplanehq/superplane) · [▶️ Demo ↗](https://app.superplane.com/) · [📖 Docs ↗](https://docs.superplane.com/) · [🌐 Site ↗](https://superplane.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/superplane/)</sub>
 
 <a name="atlas"></a>
-### #&#8288;27 [atlas](https://github.com/pacifio/atlas) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;27 [pacifio/atlas](https://github.com/pacifio/atlas) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.2k · Apache-2.0 · Nov 2026</sub>
 
 **Desktop IDE and CLI that records coding-agent sessions and links them to commits.**
 
@@ -579,7 +579,7 @@ Claudian is an Obsidian desktop plugin that embeds existing coding-agent CLIs (C
 <sub>no GPU · Needs Obsidian 1.13.0+, Claude Code, Codex, Grok Build, OpenCode, Pi or DeepSeek Harness CLI, Node.js for npm-installed CLIs · Models: Claude (Anthropic), Codex (OpenAI), Grok (xAI), OpenCode providers, Pi · [Repo](https://github.com/yishentu/claudian) · [🌐 Site ↗](https://community.obsidian.md/plugins/realclaudian) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claudian/)</sub>
 
 <a name="pi-desktop"></a>
-### #&#8288;33 [pi-desktop](https://github.com/vastsa/pi-desktop) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.1k · LGPL-3.0 · Nov 2026</sub>
+### #&#8288;33 [vastsa/pi-desktop](https://github.com/vastsa/pi-desktop) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.1k · LGPL-3.0 · Nov 2026</sub>
 
 **Desktop app for running coding agents in persistent sessions, with plugins.**
 
@@ -741,7 +741,7 @@ GitButler is a Git-based version control client, written in Rust, that works in 
 <sub>no GPU · Needs Git, GitHub, GitLab or Bitbucket (optional, forge integration) · [Repo](https://github.com/gitbutlerapp/gitbutler) · [📖 Docs ↗](https://docs.gitbutler.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gitbutler/)</sub>
 
 <a name="emdash"></a>
-### #&#8288;42 [emdash](https://github.com/generalaction/emdash) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;42 [generalaction/emdash](https://github.com/generalaction/emdash) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · Apache-2.0 · Nov 2026</sub>
 
 **Desktop app that runs multiple coding agents in separate Git worktrees.**
 
@@ -1258,7 +1258,7 @@ Pure Lua replacement for github/copilot.vim that runs the Copilot Language Serve
 <sub>no GPU · Needs Neovim 0.11.0+, GitHub Copilot account, Node.js 22+ (only for nodejs server type), copilot-lsp (optional, for NES), curl, wget or PowerShell (first install) · Models: GitHub Copilot · [Repo](https://github.com/zbirenbaum/copilot.lua) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/copilot-lua/)</sub>
 
 <a name="maestro"></a>
-### #&#8288;71 [maestro](https://github.com/runmaestro/maestro) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;71 [runmaestro/maestro](https://github.com/runmaestro/maestro) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · AGPL-3.0 · Nov 2026</sub>
 
 **Desktop app for running many coding agents in parallel with unattended playbooks.**
 
@@ -3065,7 +3065,7 @@ Ralph TUI runs an autonomous loop around a coding agent CLI. It picks the highes
 <sub>no GPU · Needs Bun, A supported agent CLI (Claude Code, OpenCode, Codex, etc.), Beads (optional tracker), bwrap (optional, Linux sandbox) · Models: Claude Code, OpenCode, Factory Droid, Cursor CLI, Gemini CLI · [Repo](https://github.com/subsy/ralph-tui) · [📖 Docs ↗](https://ralph-tui.com/docs/getting-started/quick-start) · [🌐 Site ↗](https://ralph-tui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ralph-tui/)</sub>
 
 <a name="inferstep-atlas"></a>
-### #&#8288;172 [atlas](https://github.com/inferstep/atlas) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;172 [inferstep/atlas](https://github.com/inferstep/atlas) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · AGPL-3.0 · Oct 2026</sub>
 
 **Local coding agent that plans, tests and repairs code using small GGUF models.**
 
@@ -3782,7 +3782,7 @@ DSCODE is a terminal coding agent for macOS and Linux built on DeepSeek Harness.
 <sub>no GPU · Docker · Needs Git, bubblewrap (Linux), Google Chrome (browser tasks) · Models: DeepSeek, OpenAI/ChatGPT, Antigravity Gemini, OpenRouter, OpenCode Go · [Repo](https://github.com/qiz029/dscode) · [📖 Docs ↗](https://github.com/qiz029/dscode/blob/main/docs/demo.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dscode/)</sub>
 
 <a name="michaelkinsy-pig"></a>
-### #&#8288;212 [pig](https://github.com/michaelkinsy/pig) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 888 · MIT · Nov 2026</sub>
+### #&#8288;212 [michaelkinsy/pig](https://github.com/michaelkinsy/pig) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 888 · MIT · Nov 2026</sub>
 
 **Go port of the Pi terminal coding agent, shipped as one native binary.**
 
@@ -3997,7 +3997,7 @@ Wu is a GPU-rendered desktop code editor written in Rust, forked from Zed and di
 <sub>Needs Claude Code, Codex, OpenCode · [Repo](https://github.com/dstrml/wu) · [📖 Docs ↗](https://wu.dstrml.org) · [🌐 Site ↗](https://wu.dstrml.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wu/)</sub>
 
 <a name="agent"></a>
-### #&#8288;224 [agent](https://github.com/agentiloop/agent) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 657 · custom license · Nov 2026</sub>
+### #&#8288;224 [agentiloop/agent](https://github.com/agentiloop/agent) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 657 · custom license · Nov 2026</sub>
 
 **Native macOS Swift app that runs an LLM agent loop to control your Mac.**
 
@@ -4141,7 +4141,7 @@ dsh-superagent is a coding agent for a single GitHub repository, packaged as a b
 <sub>Needs DeepSeek Harness, GitHub, Feishu (optional) · [Repo](https://github.com/deepseek-ai/dsh-superagent-prototype) · [🌐 Site ↗](https://www.deepseek.com/en/harness/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dsh-superagent-prototype/)</sub>
 
 <a name="github-copilotforxcode"></a>
-### #&#8288;232 [copilotforxcode](https://github.com/github/copilotforxcode) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Sep 2026</sub>
+### #&#8288;232 [github/copilotforxcode](https://github.com/github/copilotforxcode) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Sep 2026</sub>
 
 **GitHub Copilot chat, agent mode and completions inside Xcode.**
 
@@ -4374,7 +4374,7 @@ sidekick.nvim shows Copilot LSP "Next Edit Suggestions" as inline and block diff
 <sub>no GPU · Needs Neovim >= 0.11.2, copilot-language-server, nvim-lspconfig (lsp/copilot.lua), snacks.nvim (optional), tmux or zellij (optional), lsof and ps (optional) · Models: GitHub Copilot (Next Edit Suggestions), Claude CLI, Codex, Gemini, Grok · [Repo](https://github.com/folke/sidekick.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sidekick-nvim/)</sub>
 
 <a name="dlyzzt-pi-desktop"></a>
-### #&#8288;245 [pi-desktop](https://github.com/dlyzzt/pi-desktop) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 355 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;245 [dlyzzt/pi-desktop](https://github.com/dlyzzt/pi-desktop) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 355 · Apache-2.0 · Nov 2026</sub>
 
 **Electron desktop app for the Pi Coding Agent with built-in browser.**
 
@@ -4535,7 +4535,7 @@ Smithers is a CLI and set of npm libraries that run flows stored beside your cod
 <sub>Needs Node.js 22.19+, Model credential required by the flow's model field, GitHub account (hosted app sign-in) · [Repo](https://github.com/smithersai/smithers) · [▶️ Demo ↗](https://smithers.sh/smithersai/smithers) · [📖 Docs ↗](https://smithers.sh/docs/) · [🌐 Site ↗](https://smithers.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/smithers/)</sub>
 
 <a name="copilotforxcode"></a>
-### #&#8288;254 [copilotforxcode](https://github.com/intitni/copilotforxcode) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (73) · Freshness: active (91) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · MIT · Oct 2026</sub>
+### #&#8288;254 [intitni/copilotforxcode](https://github.com/intitni/copilotforxcode) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (73) · Freshness: active (91) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.2k · MIT · Oct 2026</sub>
 
 **Xcode source editor extension adding Copilot, Codeium and ChatGPT-based chat and edits.**
 
@@ -4985,7 +4985,7 @@ Helmor is a desktop app for macOS and Windows that runs several coding agents at
 <sub>no GPU · Needs GitHub or GitLab account, Cloudflare tunnel (mobile companion, experimental) · Models: Claude Code, Codex, Cursor, OpenCode, Kimi Code · [Repo](https://github.com/dohooo/helmor) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/helmor/)</sub>
 
 <a name="core"></a>
-### #&#8288;279 [core](https://github.com/opensumi/core) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (54) · Freshness: recent (70) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
+### #&#8288;279 [opensumi/core](https://github.com/opensumi/core) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (54) · Freshness: recent (70) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
 
 **TypeScript framework for building AI-native IDEs for web and Electron.**
 
@@ -5147,7 +5147,7 @@ ProxyAI is a Kotlin plugin for JetBrains IDEs that adds chat, inline autocomplet
 <sub>Needs JetBrains IDE, Gradle (build from source) · Models: OpenAI, Anthropic, Azure, Mistral, self-hosted models · README: alternative to GitHub Copilot · [Repo](https://github.com/carlrobertoh/proxyai) · [🌐 Site ↗](https://plugins.jetbrains.com/plugin/21056-proxy-ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/proxyai/)</sub>
 
 <a name="hermes-desktop"></a>
-### #&#8288;288 [hermes-desktop](https://github.com/dodo-reach/hermes-desktop) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (40) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Jun 2026</sub>
+### #&#8288;288 [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (40) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Jun 2026</sub>
 
 **Native macOS app for managing Hermes Agent sessions, Kanban, cron and skills.**
 

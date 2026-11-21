@@ -238,7 +238,7 @@ Polar is a billing backend for software products, supporting usage-based billing
 <sub>Python · Needs IPinfo, Sentry · [Repo](https://github.com/polarsource/polar) · [📖 Docs ↗](https://polar.sh/docs) · [🌐 Site ↗](https://polar.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/polar/)</sub>
 
 <a name="shadcn-ui-ui"></a>
-### #&#8288;14 [ui](https://github.com/shadcn-ui/ui) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 129k · MIT · Nov 2026</sub>
+### #&#8288;14 [shadcn-ui/ui](https://github.com/shadcn-ui/ui) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 129k · MIT · Nov 2026</sub>
 
 **Customizable React UI components you copy into your project and own.**
 
@@ -308,7 +308,7 @@ ABP is an application framework on top of ASP.NET Core that supplies infrastruct
 <sub>C# · Needs .NET, ASP.NET Core · [Repo](https://github.com/abpframework/abp) · [📖 Docs ↗](https://abp.io/docs/latest) · [🌐 Site ↗](https://abp.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/abp/)</sub>
 
 <a name="nuxt-ui"></a>
-### #&#8288;18 [ui](https://github.com/nuxt/ui) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Nov 2026</sub>
+### #&#8288;18 [nuxt/ui](https://github.com/nuxt/ui) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Nov 2026</sub>
 
 **Accessible Vue component library for Nuxt and Vite, built on Reka UI and Tailwind.**
 
@@ -683,7 +683,7 @@ Sink is a Nuxt 4 link shortener deployed to Cloudflare Workers. Links live in D1
 <sub>TypeScript, Cloudflare Workers AI (optional) · Needs Cloudflare Workers, Cloudflare D1, Cloudflare Workers KV, Cloudflare Workers Analytics Engine, Cloudflare R2 (optional), Cloudflare Workers AI (optional) · env example file · [Repo](https://github.com/miantiao-me/sink) · [▶️ Demo ↗](https://sink.cool/dashboard) · [📖 Docs ↗](https://docs.sink.cool) · [🌐 Site ↗](https://sink.cool) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sink/)</sub>
 
 <a name="cosscom-ui"></a>
-### #&#8288;39 [ui](https://github.com/cosscom/ui) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
+### #&#8288;39 [cosscom/ui](https://github.com/cosscom/ui) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Nov 2026</sub>
 
 **React component library on Base UI and Tailwind, copied into your project.**
 
@@ -1560,7 +1560,7 @@ Jetstream is a PHP application starter kit for Laravel 11.x and prior versions. 
 <sub>PHP · [Repo](https://github.com/laravel/jetstream) · [🌐 Site ↗](https://laravel.com/starter-kits) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jetstream/)</sub>
 
 <a name="apptension-saas-boilerplate"></a>
-### #&#8288;88 [saas-boilerplate](https://github.com/apptension/saas-boilerplate) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (46) · Freshness: active (93) · Maintenance: weak (30) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
+### #&#8288;88 [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (46) · Freshness: active (93) · Maintenance: weak (30) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Oct 2026</sub>
 
 **React, Django and GraphQL SaaS starter with Stripe billing and multi-tenancy.**
 
@@ -1792,7 +1792,7 @@ A React admin dashboard UI built on shadcn/ui (Tailwind and Radix), Vite and Tan
 <sub>TypeScript · Needs Clerk (partial auth) · GitHub template · env example file · sign-in: Clerk · [Repo](https://github.com/satnaing/shadcn-admin) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shadcn-admin/)</sub>
 
 <a name="saas-boilerplate"></a>
-### #&#8288;101 [saas-boilerplate](https://github.com/ixartz/saas-boilerplate) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (70) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · MIT · Aug 2026</sub>
+### #&#8288;101 [ixartz/saas-boilerplate](https://github.com/ixartz/saas-boilerplate) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (70) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · MIT · Aug 2026</sub>
 
 **Next.js SaaS starter with Clerk auth, teams, roles and Drizzle ORM.**
 
@@ -2080,7 +2080,7 @@ next-forge is a Turborepo monorepo scaffolded with `npx next-forge@latest init`.
 <sub>TypeScript · Needs Node.js 20+, Bun, Stripe CLI, Clerk, Stripe, Resend, Sentry, BetterStack, Arcjet, PostHog, Google Analytics · GitHub template · [Repo](https://github.com/vercel/next-forge) · [▶️ Demo ↗](https://demo.next-forge.com) · [📖 Docs ↗](https://www.next-forge.com/docs) · [🌐 Site ↗](https://www.next-forge.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-forge/)</sub>
 
 <a name="ui"></a>
-### #&#8288;117 [ui](https://github.com/creativetimofficial/ui) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (78) · Freshness: quiet (29) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Mar 2026</sub>
+### #&#8288;117 [creativetimofficial/ui](https://github.com/creativetimofficial/ui) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (78) · Freshness: quiet (29) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · MIT · Mar 2026</sub>
 
 **shadcn/ui-based React components and page blocks installed through a CLI.**
 
@@ -2761,7 +2761,7 @@ A pnpm-based Turborepo with a Next.js app (`docs`) and a shared `@repo/ui` React
 <sub>CSS · Needs pnpm, Node.js, Vercel account (optional, remote caching) · [Repo](https://github.com/dan5py/turborepo-shadcn-ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/turborepo-shadcn-ui/)</sub>
 
 <a name="qingwave-weave"></a>
-### #&#8288;155 [weave](https://github.com/qingwave/weave) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (8) · Freshness: quiet (20) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 602 · Apache-2.0 · Jan 2026</sub>
+### #&#8288;155 [qingwave/weave](https://github.com/qingwave/weave) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (8) · Freshness: quiet (20) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 602 · Apache-2.0 · Jan 2026</sub>
 
 **Go and Vue3 full-stack starter with JWT auth, RBAC and container management.**
 
@@ -2814,7 +2814,7 @@ A Next.js 14 App Router template with tRPC, Prisma on Supabase Postgres, NextAut
 <sub>TypeScript, openai, anthropic, perplexity, groq · Needs postgres, resend, aws-s3, inngest, model-api-keys · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/kleneway/next-ai-starter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-starter/)</sub>
 
 <a name="turbo"></a>
-### #&#8288;158 [turbo](https://github.com/unfoldadmin/turbo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (3) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 414 · MIT · Dec 2025</sub>
+### #&#8288;158 [unfoldadmin/turbo](https://github.com/unfoldadmin/turbo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (3) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 414 · MIT · Dec 2025</sub>
 
 **Django REST and Next.js monorepo starter with JWT auth and typed API client.**
 
