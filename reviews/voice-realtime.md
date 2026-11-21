@@ -22,25 +22,8 @@ LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, device
 
 <sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
 
-<a name="voice-ui-kit"></a>
-### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
-
-**React components and templates for Pipecat voice agent frontends.**
-
-pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate.
-
-- **+** Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
-- **+** Daily and SmallWebRTC transports supported
-- **+** Tailwind 4 theme via CSS variables; Storybook included
-- **+** Four example apps: console, components, Tailwind, Vite
-- **−** Library plus examples, not a deployable app; you assemble the page
-- **−** Requires a running Pipecat server exposing /api/offer or a Daily room
-- **−** No auth or persistence
-
-<sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
-
 <a name="jarvis"></a>
-### 🥉 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
+### 🥈 [jarvis](https://github.com/ethanplusai/jarvis) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
 
 **Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
 
@@ -57,8 +40,25 @@ JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` p
 
 <sub>Python, Claude (Sonnet by default, via Claude Code) · Needs Claude Code CLI 2.1.224+ (logged in), Fish Audio API key, Google Chrome, Python 3.11+, Node.js 18+, Playwright Chromium, OpenSSL (self-signed certs) · env example file · [Repo](https://github.com/ethanplusai/jarvis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jarvis/)</sub>
 
+<a name="voice-ui-kit"></a>
+### 🥉 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
+
+**React components and templates for Pipecat voice agent frontends.**
+
+pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate.
+
+- **+** Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
+- **+** Daily and SmallWebRTC transports supported
+- **+** Tailwind 4 theme via CSS variables; Storybook included
+- **+** Four example apps: console, components, Tailwind, Vite
+- **−** Library plus examples, not a deployable app; you assemble the page
+- **−** Requires a running Pipecat server exposing /api/offer or a Daily room
+- **−** No auth or persistence
+
+<sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
+
 <a name="pipecat-examples"></a>
-### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 436 · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 436 · BSD-2-Clause · Nov 2026</sub>
 
 **Intermediate and advanced example bots built on the Pipecat voice framework.**
 
@@ -145,7 +145,7 @@ Android Studio project on the LiveKit Android SDK giving you a simple voice inte
 <sub>Kotlin · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-android) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-android/)</sub>
 
 <a name="elevenlabs-examples"></a>
-### #&#8288;9 [examples](https://github.com/elevenlabs/examples) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (36) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
+### #&#8288;9 [examples](https://github.com/elevenlabs/examples) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 635 · MIT · Oct 2026</sub>
 
 **Runnable ElevenLabs SDK examples for speech, music, sound effects and voice agents.**
 
@@ -232,7 +232,7 @@ Next.js project that builds an embed-popup.js script and an iframe page so a web
 <sub>TypeScript · Needs LiveKit Cloud project, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-embed) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-embed/)</sub>
 
 <a name="openai-realtime-agents"></a>
-### #&#8288;14 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: widely used (81) · Freshness: quiet (17) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
+### #&#8288;14 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: widely used (81) · Freshness: quiet (17) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.0k · MIT · Jan 2026</sub>
 
 **Next.js demo of multi-agent voice flows on the OpenAI Realtime API.**
 
@@ -286,7 +286,7 @@ OpenAI.fm is the source for the openai.fm demo, a web interface for generating s
 <sub>TypeScript, OpenAI text-to-speech models · Needs OpenAI API, Postgres (optional, sharing only) · env example file · [Repo](https://github.com/openai/openai-fm) · [▶️ Demo ↗](https://openai.fm) · [📖 Docs ↗](https://platform.openai.com/docs/guides/text-to-speech) · [🌐 Site ↗](https://openai.fm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-fm/)</sub>
 
 <a name="openai-realtime-solar-system"></a>
-### #&#8288;17 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (32) · Freshness: slowing (37) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
+### #&#8288;17 [openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (33) · Freshness: slowing (37) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 517 · MIT · Mar 2026</sub>
 
 **Next.js demo: talk to a 3D solar system via OpenAI Realtime.**
 

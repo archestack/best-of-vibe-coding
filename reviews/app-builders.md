@@ -111,7 +111,7 @@ Appsmith is a low-code platform for building internal tools such as dashboards, 
 <sub>TypeScript · Docker · env example file · [Repo](https://github.com/appsmithorg/appsmith) · [📖 Docs ↗](https://docs.appsmith.com) · [🌐 Site ↗](https://www.appsmith.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/appsmith/)</sub>
 
 <a name="open-slide"></a>
-### #&#8288;7 [open-slide](https://github.com/open-slide/open-slide) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
+### #&#8288;7 [open-slide](https://github.com/open-slide/open-slide) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.8k · MIT · Nov 2026</sub>
 
 **React slide deck framework that coding agents write and edit.**
 
@@ -147,7 +147,7 @@ Vizro is a Python package (`pip install vizro`) that assembles multi-page data d
 <sub>Python · Needs Plotly, Dash, Pydantic · [Repo](https://github.com/mckinsey/vizro) · [▶️ Demo ↗](https://huggingface.co/spaces/vizro/demo-first-dashboard) · [📖 Docs ↗](https://vizro.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vizro/)</sub>
 
 <a name="lowdefy"></a>
-### #&#8288;9 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (39) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (40) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-config framework for building internal web apps and admin tools.**
 
@@ -237,7 +237,7 @@ Magic Cloudlet is a .NET 10 backend with a React dashboard. It generates databas
 <sub>C#, OpenAI, Ollama, HuggingFace · Needs OpenAI API key (default), Docker Compose, SQLite · README: alternative to Cursor, Lovable, Replit · [Repo](https://github.com/polterguy/magic) · [📖 Docs ↗](https://docs.ainiro.io/getting-started/) · [🌐 Site ↗](https://hyperlambda.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/magic/)</sub>
 
 <a name="runtime"></a>
-### #&#8288;14 [runtime](https://github.com/e2b-dev/runtime) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (26) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;14 [runtime](https://github.com/e2b-dev/runtime) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: fair (71) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · Apache-2.0 · Nov 2026</sub>
 
 **Firecracker microVM sandbox backend for running untrusted AI agent code.**
 
@@ -273,7 +273,7 @@ Bun and Vite project that runs a coding agent (Cloudflare Think) in a Durable Ob
 <sub>TypeScript, Cloudflare AI Gateway (configured providers) · Needs Cloudflare account with Workers Paid plan, Cloudflare AI Gateway, D1, model provider API key, custom domain with wildcard DNS · [Repo](https://github.com/cloudflare/vibesdk) · [▶️ Demo ↗](https://build.cloudflare.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesdk/)</sub>
 
 <a name="sandboxd"></a>
-### #&#8288;16 [sandboxd](https://github.com/tastyeffectco/sandboxd) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 999 · MIT · Nov 2026</sub>
+### #&#8288;16 [sandboxd](https://github.com/tastyeffectco/sandboxd) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 999 · MIT · Nov 2026</sub>
 
 **Self-hosted engine that runs coding agents in sandboxes with preview URLs.**
 
@@ -450,7 +450,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (32) · Freshness: recent (70) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (33) · Freshness: recent (70) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
@@ -467,7 +467,7 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
 <a name="adorable"></a>
-### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 840 · MIT · Aug 2026</sub>
+### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 840 · MIT · Aug 2026</sub>
 
 **Prompt-to-app builder running agents in persistent Freestyle VMs.**
 
@@ -503,7 +503,7 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 <sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
 
 <a name="claudable"></a>
-### #&#8288;29 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (46) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
+### #&#8288;29 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (47) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
 
 **Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
 
