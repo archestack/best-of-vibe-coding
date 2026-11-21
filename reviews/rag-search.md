@@ -112,7 +112,7 @@ QMD indexes markdown notes, transcripts and docs into a SQLite store and searche
 <sub>TypeScript, GGUF, qwen3-reranker · Needs Node.js or Bun, node-llama-cpp, SQLite · [Repo](https://github.com/tobi/qmd) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qmd/)</sub>
 
 <a name="paradedb"></a>
-### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;7 [paradedb](https://github.com/paradedb/paradedb) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · AGPL-3.0 · Nov 2026</sub>
 
 **Postgres extension adding BM25 full-text, vector and hybrid search.**
 
@@ -273,26 +273,8 @@ Langchain.rb is a Ruby gem that wraps LLM providers behind one interface for emb
 
 <sub>Ruby, Anthropic, AWS Bedrock, Azure OpenAI, Cohere · Needs Ruby, LLM provider API key or Ollama, vector database client gem (optional) · env example file · [Repo](https://github.com/patterns-ai-core/langchainrb) · [📖 Docs ↗](http://rubydoc.info/gems/langchainrb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchainrb/)</sub>
 
-<a name="orama"></a>
-### #&#8288;16 [orama](https://github.com/oramasearch/orama) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (77) · Freshness: recent (74) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
-
-**In-process full-text, vector and hybrid search library for JavaScript.**
-
-Orama is a TypeScript search engine that runs in the browser, Node, Deno or Bun. It indexes documents against a typed schema and supports BM25 full-text, vector and hybrid search, plus filters, facets, geosearch and typo tolerance. An AnswerSession API builds RAG chat on top, calling OpenAI through an optional secure proxy plugin.
-
-- **+** Runs in-process in browser, Node, Deno and Bun with no server required
-- **+** Full-text, vector and hybrid modes in one API with BM25, facets and geosearch
-- **+** Stemming and tokenization for 30 languages
-- **+** Plugin system with official plugins for embeddings, persistence, Docusaurus, Astro and Nextra
-- **−** Index lives in memory; persistence needs a separate plugin
-- **−** Vector search needs embeddings supplied or generated via a plugin
-- **−** Chat answers depend on OpenAI models via the secure proxy plugin
-- **−** Library only, not a standalone search server with its own HTTP API
-
-<sub>TypeScript, OpenAI chat models via secure proxy (e.g. gpt-4o-mini), TensorFlow.js embeddings (512-dimension) · Needs OpenAI API (optional, for chat answers), TensorFlow.js (optional, for embeddings plugin) · [Repo](https://github.com/oramasearch/orama) · [📖 Docs ↗](https://docs.orama.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orama/)</sub>
-
 <a name="supabaseauthwithssr"></a>
-### #&#8288;17 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
+### #&#8288;16 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -308,6 +290,24 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 - **−** One maintainer; large surface area to understand before customizing
 
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
+
+<a name="orama"></a>
+### #&#8288;17 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (77) · Freshness: recent (74) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+
+**In-process full-text, vector and hybrid search library for JavaScript.**
+
+Orama is a TypeScript search engine that runs in the browser, Node, Deno or Bun. It indexes documents against a typed schema and supports BM25 full-text, vector and hybrid search, plus filters, facets, geosearch and typo tolerance. An AnswerSession API builds RAG chat on top, calling OpenAI through an optional secure proxy plugin.
+
+- **+** Runs in-process in browser, Node, Deno and Bun with no server required
+- **+** Full-text, vector and hybrid modes in one API with BM25, facets and geosearch
+- **+** Stemming and tokenization for 30 languages
+- **+** Plugin system with official plugins for embeddings, persistence, Docusaurus, Astro and Nextra
+- **−** Index lives in memory; persistence needs a separate plugin
+- **−** Vector search needs embeddings supplied or generated via a plugin
+- **−** Chat answers depend on OpenAI models via the secure proxy plugin
+- **−** Library only, not a standalone search server with its own HTTP API
+
+<sub>TypeScript, OpenAI chat models via secure proxy (e.g. gpt-4o-mini), TensorFlow.js embeddings (512-dimension) · Needs OpenAI API (optional, for chat answers), TensorFlow.js (optional, for embeddings plugin) · [Repo](https://github.com/oramasearch/orama) · [📖 Docs ↗](https://docs.orama.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orama/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
 ### #&#8288;18 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 511 · MIT · Oct 2026</sub>
@@ -364,7 +364,7 @@ A collection of Jupyter notebooks and example apps showing how to use NVIDIA NIM
 <sub>Jupyter Notebook, NVIDIA NIM endpoints, Llama 3.1, Llama-3.2-1B-Instruct, NV-CLIP · Needs NVIDIA API Catalog key, Docker Compose, NVIDIA NIM, NVIDIA NeMo Microservices, Milvus · [Repo](https://github.com/nvidia/generativeaiexamples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generativeaiexamples/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;21 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (2) · Freshness: active (82) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;21 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (2) · Freshness: active (81) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -468,7 +468,7 @@ A C# reference app that answers questions over your own documents using Azure Op
 <sub>C#, gpt-4o-mini, Azure OpenAI embedding model, GPT-4V (optional) · Needs Azure OpenAI Service, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Docker · [Repo](https://github.com/azure-samples/azure-search-openai-demo-csharp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo-csharp/)</sub>
 
 <a name="lightningrag"></a>
-### #&#8288;27 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: niche (11) · Freshness: recent (65) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;27 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (11) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · Apache-2.0 · Apr 2026</sub>
 
 **Go and Vue RAG platform with knowledge bases, agent canvas and admin UI.**
 
@@ -486,7 +486,7 @@ LightningRAG is a Gin (Go) and Vue full-stack app that parses, chunks and embeds
 <sub>Go, Pluggable LLM, embedding, rerank, speech, TTS, OCR providers (list in server/rag/README.md) · Needs MySQL > 5.7, Redis, PostgreSQL with pgvector or Elasticsearch, Node > 18.16, Go >= 1.22 · Docker · [Repo](https://github.com/lightningrag/lightningrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightningrag/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;28 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (6) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;28 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (6) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
@@ -503,7 +503,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="vectordb"></a>
-### #&#8288;29 [vectordb](https://github.com/epsilla-cloud/vectordb) <sub>score [7](../README.md#-how-we-rank "Score 7/100. Adoption: niche (22) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 874 · Apache-2.0 · Nov 2025</sub>
+### #&#8288;29 [vectordb](https://github.com/epsilla-cloud/vectordb) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (22) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 874 · Apache-2.0 · Nov 2025</sub>
 
 **C++ vector database with REST API and Python, JavaScript and Ruby clients.**
 
