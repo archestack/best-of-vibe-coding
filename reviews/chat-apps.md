@@ -40,26 +40,8 @@ ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, 
 
 <sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
-<a name="chatgpt-telegram-workers"></a>
-### 🥉 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (64) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
-
-**Telegram bot that proxies chat to multiple LLM providers on Cloudflare Workers.**
-
-A TypeScript Telegram bot that forwards messages to LLM providers such as OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq and Cloudflare AI. It runs serverless on Cloudflare Workers, with Vercel and Docker as alternatives, and stores configuration in KV. It adds streaming replies, custom commands for switching models or presets, text-to-image, plugins and a Telegram Mini App admin panel.
-
-- **+** Supports many providers: OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq, Cloudflare AI
-- **+** Runs serverless on Cloudflare Workers; Vercel and Docker also supported
-- **+** Custom commands switch models or system-prompt presets from within Telegram
-- **+** Telegram Mini App admin panel and plugin system for configuration and extension
-- **−** Tied to Telegram as the only chat front end
-- **−** Cloudflare deployment depends on a KV namespace for configuration
-- **−** Provider setup and plugin details are in separate docs, not the README
-- **−** Migrating from v1 to v2 requires following a separate migration guide
-
-<sub>TypeScript, OpenAI, Cloudflare AI, Cohere, Anthropic · Needs Telegram bot token, Cloudflare Workers KV · Docker · [Repo](https://github.com/tbxark/chatgpt-telegram-workers) · [📖 Docs ↗](https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/master/doc/en/DEPLOY.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-telegram-workers/)</sub>
-
 <a name="ant-design-x-vue"></a>
-### #&#8288;4 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+### 🥉 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
 
 **Vue component library for building AI chat interfaces, port of Ant Design X.**
 
@@ -75,6 +57,24 @@ Vue 3 implementation of Ant Design X, a set of UI components for AI conversation
 - **−** Component list and templates are not detailed in the README
 
 <sub>TypeScript, OpenAI-compatible APIs · Needs vue >=3.3, ant-design-vue · [Repo](https://github.com/wzc520pyfm/ant-design-x-vue) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ant-design-x-vue/)</sub>
+
+<a name="chatgpt-telegram-workers"></a>
+### #&#8288;4 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
+
+**Telegram bot that proxies chat to multiple LLM providers on Cloudflare Workers.**
+
+A TypeScript Telegram bot that forwards messages to LLM providers such as OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq and Cloudflare AI. It runs serverless on Cloudflare Workers, with Vercel and Docker as alternatives, and stores configuration in KV. It adds streaming replies, custom commands for switching models or presets, text-to-image, plugins and a Telegram Mini App admin panel.
+
+- **+** Supports many providers: OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq, Cloudflare AI
+- **+** Runs serverless on Cloudflare Workers; Vercel and Docker also supported
+- **+** Custom commands switch models or system-prompt presets from within Telegram
+- **+** Telegram Mini App admin panel and plugin system for configuration and extension
+- **−** Tied to Telegram as the only chat front end
+- **−** Cloudflare deployment depends on a KV namespace for configuration
+- **−** Provider setup and plugin details are in separate docs, not the README
+- **−** Migrating from v1 to v2 requires following a separate migration guide
+
+<sub>TypeScript, OpenAI, Cloudflare AI, Cohere, Anthropic · Needs Telegram bot token, Cloudflare Workers KV · Docker · [Repo](https://github.com/tbxark/chatgpt-telegram-workers) · [📖 Docs ↗](https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/master/doc/en/DEPLOY.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-telegram-workers/)</sub>
 
 <a name="vercel-chatbot"></a>
 ### #&#8288;5 [chatbot](https://github.com/vercel/chatbot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
@@ -198,26 +198,8 @@ Bot on Anything connects a chosen model (OpenAI-compatible API, LinkAI, ERNIE Bo
 
 <sub>Python, OpenAI-compatible API, LinkAI, ERNIE Bot, New Bing · Needs Python 3.7.1-3.10, openai<1.0.0, flask, flask_socketio, slack_bolt, pyTelegramBotAPI, werobot, go-cqhttp (QQ channel) · Docker · [Repo](https://github.com/zhayujie/bot-on-anything) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bot-on-anything/)</sub>
 
-<a name="chatgpt-android"></a>
-### #&#8288;12 [chatgpt-android](https://github.com/skydoves/chatgpt-android) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: popular (67) · Freshness: quiet (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Jan 2026</sub>
-
-**Android ChatGPT client sample built with Jetpack Compose and Stream Chat SDK.**
-
-A Kotlin Android app that sends messages to the OpenAI Chat API and shows the conversation using Stream Chat SDK for Compose UI components. It follows Google's app architecture guidance (UI and data layers, Hilt, Room, WorkManager, Coroutines/Flow) and is split into modules. The README states that features other than chat are not completed.
-
-- **+** Reference for Compose, Hilt, Room and WorkManager in a modularized Android app
-- **+** Minimum SDK 21, so it covers a wide range of Android devices
-- **+** Chat UI uses Stream's Compose components instead of hand-built screens
-- **+** Apache-2.0 licensed
-- **−** Requires a Stream account and API key, plus manual dashboard setup
-- **−** Needs an OpenAI API key; README says rate limits unlock after $5 minimum spend
-- **−** Only the chat feature is finished, per the README
-- **−** Last release was July 2024
-
-<sub>Kotlin, OpenAI Chat API · Needs OpenAI API key, Stream Chat account and API key, Android SDK (min API 21) · [Repo](https://github.com/skydoves/chatgpt-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-android/)</sub>
-
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;13 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (13) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 672 · MIT · Aug 2026</sub>
+### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (13) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 672 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -233,7 +215,7 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
 
 <a name="ai-chat"></a>
-### #&#8288;14 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (7) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
+### #&#8288;13 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (7) · Freshness: recent (77) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
 
 **Laravel 12 chat starter streaming replies through Prism to eight providers.**
 
@@ -249,6 +231,24 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 - **−** PHP 8.3+ and Composer required
 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
+
+<a name="chatgpt-android"></a>
+### #&#8288;14 [chatgpt-android](https://github.com/skydoves/chatgpt-android) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (67) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Jan 2026</sub>
+
+**Android ChatGPT client sample built with Jetpack Compose and Stream Chat SDK.**
+
+A Kotlin Android app that sends messages to the OpenAI Chat API and shows the conversation using Stream Chat SDK for Compose UI components. It follows Google's app architecture guidance (UI and data layers, Hilt, Room, WorkManager, Coroutines/Flow) and is split into modules. The README states that features other than chat are not completed.
+
+- **+** Reference for Compose, Hilt, Room and WorkManager in a modularized Android app
+- **+** Minimum SDK 21, so it covers a wide range of Android devices
+- **+** Chat UI uses Stream's Compose components instead of hand-built screens
+- **+** Apache-2.0 licensed
+- **−** Requires a Stream account and API key, plus manual dashboard setup
+- **−** Needs an OpenAI API key; README says rate limits unlock after $5 minimum spend
+- **−** Only the chat feature is finished, per the README
+- **−** Last release was July 2024
+
+<sub>Kotlin, OpenAI Chat API · Needs OpenAI API key, Stream Chat account and API key, Android SDK (min API 21) · [Repo](https://github.com/skydoves/chatgpt-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-android/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
 ### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (22) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · MIT · Mar 2026</sub>
