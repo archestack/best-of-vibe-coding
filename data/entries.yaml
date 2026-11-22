@@ -68360,7 +68360,7 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: http://demo.getqor.com/admin
+      demo: null
       website: null
       docs: https://doc.getqor.com/
     audience: Go developers building admin panels, CMSs or e-commerce back offices
@@ -73028,7 +73028,7 @@ entries:
     links:
       demo: null
       website: https://amberframework.org/
-      docs: https://docs.amberframework.org/amber
+      docs: null
     audience: Crystal developers building server-rendered web apps and APIs
     confidence: 0.4
     facts:
@@ -73505,7 +73505,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://github.com/aldinokemal/gowa-docs
+      docs: null
     audience: Developers automating WhatsApp messaging or connecting it to AI agents
     confidence: 0.7
     facts:
@@ -75266,7 +75266,7 @@ entries:
     links:
       demo: null
       website: http://wiki.dreamlu.net
-      docs: https://www.dreamlu.net/mica2x/index.html
+      docs: null
     audience: Java developers building Spring Boot or Spring Cloud microservices
     confidence: 0.5
     facts:
@@ -75777,7 +75777,7 @@ entries:
     links:
       demo: https://app.grit.io/studio
       website: null
-      docs: https://docs.grit.io/language
+      docs: null
     audience: Engineers running large codemods, migrations and custom lint rules
     confidence: 0.6
     facts:
@@ -77025,7 +77025,7 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://premiere-mcp.com/
+      website: null
       docs: null
     audience: Video editors and engineers automating Premiere Pro from an MCP client
     confidence: 0.85
@@ -77330,7 +77330,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://lakesoul-io.github.io/docs/engine/overview
+      docs: null
     audience: Data engineers building agent or RAG data layers on object storage
     confidence: 0.6
     facts:

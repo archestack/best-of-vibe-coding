@@ -2574,7 +2574,7 @@ GoWA is a Go service built on whatsmeow that links one or more WhatsApp accounts
 - **−** Dashboard is downloaded from a separate repo at startup, complicating air-gapped setups
 - **−** Scheduled sends are not exactly-once; live newsletter subscriptions are lost on restart
 
-<sub>no GPU · Docker + Compose · Needs WhatsApp account, PostgreSQL (optional, e.g. Neon) · port 3000 · [Repo](https://github.com/aldinokemal/go-whatsapp-web-multidevice) · [📖 Docs ↗](https://github.com/aldinokemal/gowa-docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-whatsapp-web-multidevice/)</sub>
+<sub>no GPU · Docker + Compose · Needs WhatsApp account, PostgreSQL (optional, e.g. Neon) · port 3000 · [Repo](https://github.com/aldinokemal/go-whatsapp-web-multidevice) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-whatsapp-web-multidevice/)</sub>
 
 <a name="devpush"></a>
 ### #&#8288;145 [devpush](https://github.com/hunvreus/devpush) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (46) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
@@ -2790,7 +2790,7 @@ LakeSoul is a Rust lakehouse engine that stores Parquet or Vortex files in S3, O
 - **−** SQL surface is a subset of PostgreSQL, tracked in a separate compatibility matrix
 - **−** Positioned as an analytics lakehouse, not a drop-in OLTP or app backend with auth and APIs
 
-<sub>Docker + Compose · Needs PostgreSQL (metadata), Object storage (S3/OSS/HDFS) · [Repo](https://github.com/lakesoul-io/lakesoul) · [📖 Docs ↗](https://lakesoul-io.github.io/docs/engine/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lakesoul/)</sub>
+<sub>Docker + Compose · Needs PostgreSQL (metadata), Object storage (S3/OSS/HDFS) · [Repo](https://github.com/lakesoul-io/lakesoul) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lakesoul/)</sub>
 
 <a name="omnigraph"></a>
 ### #&#8288;157 [omnigraph](https://github.com/modernrelay/omnigraph) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Nov 2026</sub>
@@ -4797,7 +4797,7 @@ Mica is a Java library set (Maven BOM net.dreamlu:mica-bom) of base components a
 - **−** LGPL-3.0 plus a stated 19999 fee for closed-source modification without consent
 - **−** Known Lombok issue breaks Map/Bean conversion for properties like xX; no fix planned
 
-<sub>no GPU · Needs JDK 17+, Spring Boot, Maven · [Repo](https://github.com/lets-mica/mica) · [📖 Docs ↗](https://www.dreamlu.net/mica2x/index.html) · [🌐 Site ↗](http://wiki.dreamlu.net) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mica/)</sub>
+<sub>no GPU · Needs JDK 17+, Spring Boot, Maven · [Repo](https://github.com/lets-mica/mica) · [🌐 Site ↗](http://wiki.dreamlu.net) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mica/)</sub>
 
 <a name="ruoyi-cloud"></a>
 ### #&#8288;269 [ruoyi-cloud](https://github.com/yangzongzhuan/ruoyi-cloud) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (20) · Freshness: active (95) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
@@ -5103,7 +5103,7 @@ QOR is a set of Go libraries for business applications, CMSs and e-commerce syst
 - **−** Not turnkey; requires Go coding skills to assemble a system
 - **−** Frontend build needs Node.js and Gulp
 
-<sub>no GPU · Needs Go, Node.js, Gulp · [Repo](https://github.com/qor/qor) · [▶️ Demo ↗](http://demo.getqor.com/admin) · [📖 Docs ↗](https://doc.getqor.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qor/)</sub>
+<sub>no GPU · Needs Go, Node.js, Gulp · [Repo](https://github.com/qor/qor) · [📖 Docs ↗](https://doc.getqor.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qor/)</sub>
 
 <a name="classic-jazz"></a>
 ### #&#8288;286 [classic-jazz](https://github.com/garden-co/classic-jazz) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>

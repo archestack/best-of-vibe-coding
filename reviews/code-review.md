@@ -913,7 +913,7 @@ GritQL is a declarative query language and Rust CLI (`grit`) for searching and r
 - **−** README documents install only as a `curl | bash` script
 - **−** README links point to the getgrit org, not the biomejs repository
 
-<sub>no GPU · [Repo](https://github.com/biomejs/gritql) · [▶️ Demo ↗](https://app.grit.io/studio) · [📖 Docs ↗](https://docs.grit.io/language) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gritql/)</sub>
+<sub>no GPU · [Repo](https://github.com/biomejs/gritql) · [▶️ Demo ↗](https://app.grit.io/studio) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gritql/)</sub>
 
 <a name="deepaudit"></a>
 ### #&#8288;52 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (64) · Freshness: active (90) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Nov 2026</sub>
