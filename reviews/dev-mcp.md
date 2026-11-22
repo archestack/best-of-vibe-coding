@@ -2338,7 +2338,7 @@ A local Node.js MCP server that exposes 283 catalog tools for editing Premiere P
 - **−** Premiere 26 has no scripting API to remove effects
 - **−** import_ae_comps is not advertised because .aep import can wedge the bridge
 
-<sub>no GPU · Needs Adobe Premiere Pro 2020+, Node.js 20+, MCP Bridge (CEP) panel · Models: Any MCP client (Claude Desktop, Claude Code, Codex, GitHub Copilot in VS Code) · [Repo](https://github.com/hetpatel-11/adobe_premiere_pro_mcp) · [🌐 Site ↗](https://premiere-mcp.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adobe-premiere-pro-mcp/)</sub>
+<sub>no GPU · Needs Adobe Premiere Pro 2020+, Node.js 20+, MCP Bridge (CEP) panel · Models: Any MCP client (Claude Desktop, Claude Code, Codex, GitHub Copilot in VS Code) · [Repo](https://github.com/hetpatel-11/adobe_premiere_pro_mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adobe-premiere-pro-mcp/)</sub>
 
 <a name="figma-mcp-bridge"></a>
 ### #&#8288;131 [figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (15) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 943 · MIT · Nov 2026</sub>

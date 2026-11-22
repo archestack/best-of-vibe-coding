@@ -1006,7 +1006,7 @@ Amber is a server-side web application framework written in Crystal, modeled on 
 - **−** No AI, model or agent features; it is a general web framework
 - **−** Benchmark link is from 2019 and the README has no current numbers
 
-<sub>Crystal · Needs Crystal, libreadline, libsqlite3, libpq, libmysqlclient, libssl, libyaml, libpcre3, libevent · Docker · [Repo](https://github.com/amberframework/amber) · [📖 Docs ↗](https://docs.amberframework.org/amber) · [🌐 Site ↗](https://amberframework.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amber/)</sub>
+<sub>Crystal · Needs Crystal, libreadline, libsqlite3, libpq, libmysqlclient, libssl, libyaml, libpcre3, libevent · Docker · [Repo](https://github.com/amberframework/amber) · [🌐 Site ↗](https://amberframework.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amber/)</sub>
 
 <a name="backend"></a>
 ### #&#8288;57 [backend](https://github.com/prod-forge/backend) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: fair (77) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 486 · MIT · Nov 2026</sub>
