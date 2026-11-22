@@ -6,10 +6,10 @@
   <img alt="projects" src="https://img.shields.io/badge/1992_projects-ff6b6b?style=for-the-badge" />
   <img alt="stars" src="https://img.shields.io/badge/22.0M_stars_combined-ffd166?style=for-the-badge" />
   <img alt="categories" src="https://img.shields.io/badge/13_categories-5ac4bf?style=for-the-badge" />
-  <img alt="updated" src="https://img.shields.io/badge/updated-2026--11--21-8ac926?style=for-the-badge" />
+  <img alt="updated" src="https://img.shields.io/badge/updated-2026--11--22-8ac926?style=for-the-badge" />
 </p>
 
-<p align="center">Best of Vibe Coding is a ranked list of 1,992 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals. <sub>Updated 2026-11-21 (UTC).</sub></p>
+<p align="center">Best of Vibe Coding is a ranked list of 1,992 open-source projects for building software with AI: starter templates and SaaS boilerplates, coding agents and assistants, editors, skills and plugins, MCP servers for developers, code review, design to code, and the backends and hosting you ship on. Each entry has strengths, weaknesses and a score from public GitHub signals. <sub>Updated 2026-11-22 (UTC).</sub></p>
 
 > [!TIP]
 > 🔎 **Every project fact-checked** on GitHub before it is listed &nbsp;·&nbsp; ✍️ Every entry has strengths **and** weaknesses; starters say what is wired in &nbsp;·&nbsp; ▶️ **Demo links** so you can see it running first
