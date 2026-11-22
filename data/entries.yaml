@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-21
+updated_at: 2026-11-22
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -5990,7 +5990,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 47
+    score: 46
   - id: notebooklm-py
     repo: teng-lin/notebooklm-py
     name: notebooklm-py
@@ -11900,7 +11900,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 54
+    score: 53
   - id: gh-aw
     repo: github/gh-aw
     name: gh-aw
@@ -12520,7 +12520,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 31
+    score: 30
   - id: monkeycode
     repo: chaitin/monkeycode
     name: monkeycode
@@ -22660,7 +22660,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 26
+    score: 25
   - id: amazon-q-developer-cli
     repo: aws/amazon-q-developer-cli
     name: amazon-q-developer-cli
@@ -27402,7 +27402,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 36
+    score: 35
   - id: fluent-korean
     repo: snflkd/fluent-korean
     name: fluent-korean
@@ -28413,7 +28413,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 12
+    score: 11
   - id: composio
     repo: composiohq/composio
     name: composio
@@ -39874,7 +39874,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 67
+    score: 66
   - id: codesandbox-client
     repo: codesandbox/codesandbox-client
     name: codesandbox-client
@@ -42139,7 +42139,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 45
   - id: oceanbase
     repo: oceanbase/oceanbase
     name: oceanbase
@@ -49063,7 +49063,7 @@ entries:
       has_compose: false
       is_template: true
       language: CMake
-    score: 41
+    score: 40
   - id: tabularis
     repo: tabularisdb/tabularis
     name: tabularis
@@ -52994,7 +52994,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 41
+    score: 40
   - id: cal-diy
     repo: calcom/cal.diy
     name: cal.diy
@@ -55634,7 +55634,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 35
+    score: 34
   - id: shardingsphere
     repo: apache/shardingsphere
     name: shardingsphere
@@ -61165,7 +61165,7 @@ entries:
       has_compose: true
       is_template: false
       language: JavaScript
-    score: 20
+    score: 19
   - id: pashov-skills
     repo: pashov/skills
     name: pashov/skills
@@ -65571,7 +65571,7 @@ entries:
   - id: claude-artifact-runner
     repo: claudio-silva/claude-artifact-runner
     name: claude-artifact-runner
-    status: listed
+    status: stale
     tagline: CLI that runs, builds or scaffolds React projects from Claude Artifact files
     summary: An npx tool and Vite project template that takes a Claude Artifact saved as .tsx or .jsx and runs it in a dev server, builds it to a single HTML file or multi-file output, or creates an editable project. The template bundles React 18, Tailwind 3, shadcn/ui, Recharts, Lucide and Three.js to match the Artifacts environment. Several artifacts can be combined into a multi-page app with file-based routing.
     categories:
@@ -69433,7 +69433,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 54
+    score: 53
   - id: create-t3-turbo
     repo: t3-oss/create-t3-turbo
     name: create-t3-turbo
@@ -69979,7 +69979,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 23
+    score: 22
   - id: cortexdb
     repo: liliang-cn/cortexdb
     name: cortexdb
@@ -74350,7 +74350,7 @@ entries:
       has_compose: true
       is_template: false
       language: Shell
-    score: 36
+    score: 35
   - id: async
     repo: x-man-git/async
     name: async
@@ -76303,7 +76303,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 17
+    score: 16
   - id: cass-memory-system
     repo: dicklesworthstone/cass_memory_system
     name: cass_memory_system
@@ -76622,7 +76622,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 29
+    score: 28
   - id: agentbox
     repo: savannahfeder/agentbox
     name: agentbox
@@ -79753,7 +79753,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 52
+    score: 51
   - id: zvec-grep
     repo: zvec-ai/zvec-grep
     name: zvec-grep
@@ -81741,7 +81741,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 27
+    score: 26
   - id: avo
     repo: avo-hq/avo
     name: avo
@@ -85252,7 +85252,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 42
+    score: 41
   - id: a2a-python
     repo: a2aproject/a2a-python
     name: a2a-python
@@ -89694,7 +89694,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 33
+    score: 32
   - id: extro
     repo: turbostarter/extro
     name: extro
@@ -89738,7 +89738,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 31
+    score: 30
   - id: opencode
     repo: anomalyco/opencode
     name: opencode

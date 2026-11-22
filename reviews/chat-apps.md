@@ -181,7 +181,7 @@ Nuxt application built on Nuxt UI components that streams chat responses through
 <sub>Vue, Claude Haiku 5.5, Gemini 3 Flash, GPT-5.6 Luna · Needs Vercel AI Gateway, SQLite / Turso, GitHub OAuth app, NuxtHub Blob · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="bot-on-anything"></a>
-### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (71) · Freshness: recent (58) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
+### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (71) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
 
 **Python framework connecting LLMs to chat channels like Telegram, Slack, Discord.**
 
@@ -251,7 +251,7 @@ A Kotlin Android app that sends messages to the OpenAI Chat API and shows the co
 <sub>Kotlin, OpenAI Chat API · Needs OpenAI API key, Stream Chat account and API key, Android SDK (min API 21) · [Repo](https://github.com/skydoves/chatgpt-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-android/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (22) · Freshness: slowing (46) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · MIT · Mar 2026</sub>
+### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (22) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -300,7 +300,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
+### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 
