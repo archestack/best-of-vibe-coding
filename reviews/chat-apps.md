@@ -300,7 +300,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 883 · MIT · Dec 2025</sub>
+### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 884 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

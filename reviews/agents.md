@@ -58,7 +58,7 @@ Conductor is a Java workflow orchestration server, originally from Netflix, that
 <sub>Java, OpenAI (via llmProvider) · Needs Java 25+, Node.js 16+ (CLI), Redis, Postgres or MySQL, Elasticsearch or OpenSearch · Docker · [Repo](https://github.com/conductor-oss/conductor) · [📖 Docs ↗](https://docs.conductor-oss.org) · [🌐 Site ↗](https://conductor-oss.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/conductor-oss-conductor/)</sub>
 
 <a name="a2ui"></a>
-### #&#8288;4 [a2ui](https://github.com/a2ui-project/a2ui) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;4 [a2ui](https://github.com/a2ui-project/a2ui) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 18k · Apache-2.0 · Nov 2026</sub>
 
 **Protocol and renderers for agents to stream native UI instead of text.**
 
@@ -93,7 +93,7 @@ mcp-use is a TypeScript framework for writing MCP servers with Zod-typed tools a
 <sub>TypeScript · Needs Node.js, npm, zod, React · safety checks passed 14 of 18 · [Repo](https://github.com/mcp-use/mcp-use) · [▶️ Demo ↗](https://inspector.mcp-use.com/inspector) · [📖 Docs ↗](https://docs.mcp-use.com/v2/typescript/getting-started/welcome) · [🌐 Site ↗](https://mcp-use.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-use/)</sub>
 
 <a name="agent-autoloop"></a>
-### #&#8288;6 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Nov 2026</sub>
+### #&#8288;6 [agent-autoloop](https://github.com/kkkkhazix/agent-autoloop) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT · Nov 2026</sub>
 
 **Background scheduler that runs CLI agents on events and asks you only when unsure.**
 
@@ -147,7 +147,7 @@ A TypeScript library that keeps a virtual filesystem in a Cloudflare Durable Obj
 <sub>TypeScript · Needs Cloudflare Workers, Durable Objects, Dynamic Workers, Cloudflare Containers · [Repo](https://github.com/cloudflare/computer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/computer/)</sub>
 
 <a name="soduwork"></a>
-### #&#8288;9 [soduwork](https://github.com/mdiri-ai/soduwork) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.4k · MIT · Nov 2026</sub>
+### #&#8288;9 [soduwork](https://github.com/mdiri-ai/soduwork) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.6k · MIT · Nov 2026</sub>
 
 **Team workspace that routes requests to agent harnesses with AI review.**
 
@@ -272,7 +272,7 @@ Mercury Agent is a TypeScript agent that runs as one background process on your 
 <sub>TypeScript, DeepSeek, OpenAI, Anthropic, Grok · Needs Node.js 22+ (npm install only), signal-cli (Signal channel), LLM provider API key or local Ollama/LM Studio · env example file · [Repo](https://github.com/cosmicstack-labs/mercury-agent) · [📖 Docs ↗](https://mercuryagent.sh/docs) · [🌐 Site ↗](https://mercuryagent.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mercury-agent/)</sub>
 
 <a name="agentconnect"></a>
-### #&#8288;16 [agentconnect](https://github.com/agentconnect-md/agentconnect) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (38) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;16 [agentconnect](https://github.com/agentconnect-md/agentconnect) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (37) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Nov 2026</sub>
 
 **Platform for teams and multiple coding agents to work together in chat and Git tools.**
 
@@ -431,8 +431,26 @@ Rivet's agent infrastructure repo holds two projects. Rivet Agents runs agents s
 
 <sub>TypeScript · Needs Rivet Actors · [Repo](https://github.com/rivet-dev/agents) · [📖 Docs ↗](https://rivet.dev/agents/docs) · [🌐 Site ↗](https://rivet.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rivet-dev-agents/)</sub>
 
+<a name="agenticx"></a>
+### #&#8288;25 [agenticx](https://github.com/demondamon/agenticx) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
+
+**Python multi-agent framework with an Electron desktop client and Go gateway.**
+
+AgenticX is a Python agent SDK and `agx` CLI with a FastAPI/SSE Studio server, covering a ReAct loop, graph workflows, MCP and A2A, memory, knowledge bases and sandboxed code execution. It also ships Near Desktop, an Electron app that talks to a local `agx serve`, and an Enterprise edition with a Go AI Gateway for auth, quota, audit and model relay.
+
+- **+** Core install is about 27 lightweight dependencies; torch and others are optional extras
+- **+** 15+ LLM providers including OpenAI, Anthropic, Ollama, Gemini, with failover routing
+- **+** Supports MCP, A2A, AG-UI and OpenAPI tools, plus Docker, Microsandbox and subprocess sandboxes
+- **+** Ships a desktop client and an enterprise gateway with audit, not just a library
+- **−** Very broad scope; some storage adapters are placeholders or not wired into Studio
+- **−** Studio path does not yet route every operation through the full SafetyLayer
+- **−** Enterprise Cluster Agent Runtime is only planned; Edge Agent is an MVP
+- **−** Near Desktop and Enterprise use independent runtime paths today
+
+<sub>Python, OpenAI, Anthropic, Ollama, Gemini · Needs Python 3.10+, Redis (optional), PostgreSQL or MySQL (Enterprise), Chroma (Desktop knowledge base default), Docker or Microsandbox (optional sandbox) · Docker · [Repo](https://github.com/demondamon/agenticx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agenticx/)</sub>
+
 <a name="relay"></a>
-### #&#8288;25 [relay](https://github.com/agentworkforce/relay) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;26 [relay](https://github.com/agentworkforce/relay) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
 
 **Messaging and enforced workflows for teams running several coding agents.**
 
@@ -450,7 +468,7 @@ Agent Relay connects coding agents such as Claude Code and Codex through shared 
 <sub>Rust, Claude Code, Codex · Needs Node.js 22+ · [Repo](https://github.com/agentworkforce/relay) · [📖 Docs ↗](https://agentrelay.com/docs) · [🌐 Site ↗](https://agentrelay.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/relay/)</sub>
 
 <a name="cotal"></a>
-### #&#8288;26 [cotal](https://github.com/cotal-ai/cotal) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 405 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;27 [cotal](https://github.com/cotal-ai/cotal) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: ready (100) (each out of 100, weighted). Click for how we rank.") · ⭐ 405 · Apache-2.0 · Nov 2026</sub>
 
 **Pub/sub messaging and orchestration for coding agents across machines.**
 
@@ -467,26 +485,8 @@ Cotal connects coding agents such as Claude Code, OpenCode, Codex, Hermes, Jcode
 
 <sub>TypeScript, Claude Code, OpenCode, Codex, Hermes · Needs Node.js 22.10+, NATS + JetStream · Docker · [Repo](https://github.com/cotal-ai/cotal) · [▶️ Demo ↗](https://booth.apps.cotal.ai) · [📖 Docs ↗](https://docs.cotal.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cotal/)</sub>
 
-<a name="agenticx"></a>
-### #&#8288;27 [agenticx](https://github.com/demondamon/agenticx) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · Apache-2.0 · Nov 2026</sub>
-
-**Python multi-agent framework with an Electron desktop client and Go gateway.**
-
-AgenticX is a Python agent SDK and `agx` CLI with a FastAPI/SSE Studio server, covering a ReAct loop, graph workflows, MCP and A2A, memory, knowledge bases and sandboxed code execution. It also ships Near Desktop, an Electron app that talks to a local `agx serve`, and an Enterprise edition with a Go AI Gateway for auth, quota, audit and model relay.
-
-- **+** Core install is about 27 lightweight dependencies; torch and others are optional extras
-- **+** 15+ LLM providers including OpenAI, Anthropic, Ollama, Gemini, with failover routing
-- **+** Supports MCP, A2A, AG-UI and OpenAPI tools, plus Docker, Microsandbox and subprocess sandboxes
-- **+** Ships a desktop client and an enterprise gateway with audit, not just a library
-- **−** Very broad scope; some storage adapters are placeholders or not wired into Studio
-- **−** Studio path does not yet route every operation through the full SafetyLayer
-- **−** Enterprise Cluster Agent Runtime is only planned; Edge Agent is an MVP
-- **−** Near Desktop and Enterprise use independent runtime paths today
-
-<sub>Python, OpenAI, Anthropic, Ollama, Gemini · Needs Python 3.10+, Redis (optional), PostgreSQL or MySQL (Enterprise), Chroma (Desktop knowledge base default), Docker or Microsandbox (optional sandbox) · Docker · [Repo](https://github.com/demondamon/agenticx) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agenticx/)</sub>
-
 <a name="rome"></a>
-### #&#8288;28 [rome](https://github.com/rome-os/rome) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 920 · MIT · Nov 2026</sub>
+### #&#8288;28 [rome](https://github.com/rome-os/rome) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (21) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 921 · MIT · Nov 2026</sub>
 
 **Agent runtime where agents build and keep installable apps and actions.**
 
@@ -504,7 +504,7 @@ Rome is a TypeScript pnpm monorepo with an agent runtime, a web dashboard and an
 <sub>TypeScript · Needs Docker, Docker Compose, Node.js 24+ (development), pnpm 11.6 (development) · Docker · [Repo](https://github.com/rome-os/rome) · [📖 Docs ↗](https://romeos.cc/docs/rome) · [🌐 Site ↗](https://romeos.cc/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rome/)</sub>
 
 <a name="kohakuterrarium"></a>
-### #&#8288;29 [kohakuterrarium](https://github.com/kohaku-lab/kohakuterrarium) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 556 · custom license · Nov 2026</sub>
+### #&#8288;29 [kohakuterrarium](https://github.com/kohaku-lab/kohakuterrarium) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 556 · custom license · Nov 2026</sub>
 
 **Python framework for building agents from tools, triggers and sub-agents.**
 
@@ -738,7 +738,7 @@ A Next.js and CopilotKit chat frontend backed by a Python Deep Agent (FastAPI). 
 <sub>TypeScript, OpenAI chat-latest, jev-latest · Needs OpenAI API, Jev router (TYPESAFE_API_KEY), Node.js 22+, pnpm 9+, Python 3.12+, uv · Docker · env example file · [Repo](https://github.com/copilotkit/openintelligentui) · [📖 Docs ↗](https://github.com/CopilotKit/OpenIntelligentUI/blob/main/docs/README.md) · [🌐 Site ↗](https://copilotkit.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/opengenerativeui/)</sub>
 
 <a name="agents-universe"></a>
-### #&#8288;42 [agents-universe](https://github.com/agents-universe/agents-universe) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 966 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;42 [agents-universe](https://github.com/agents-universe/agents-universe) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (24) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 969 · Apache-2.0 · Nov 2026</sub>
 
 **Self-hosted multi-agent platform with Product Owner, Tech Lead and QA roles.**
 
@@ -827,7 +827,7 @@ Exo is a Rust runtime that turns a markdown agent definition into a hosted agent
 <sub>Rust, Codex harness, Claude Code harness, Pi harness, OpenAI · Needs Model provider API key (e.g. OPENAI_API_KEY) · env example file · [Repo](https://github.com/exoharness/exo) · [📖 Docs ↗](https://exoharness.ai/docs) · [🌐 Site ↗](https://exoharness.ai/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/exo/)</sub>
 
 <a name="innovation-lab-examples"></a>
-### #&#8288;47 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;47 [innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (38) · Freshness: active (100) · Maintenance: fair (53) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Nov 2026</sub>
 
 **Collection of 80+ runnable Python agent examples built on Fetch.ai uAgents.**
 
@@ -1480,7 +1480,7 @@ A Cloudflare Workers control plane that receives Claude Managed Agents webhooks 
 <sub>TypeScript, Claude (Anthropic) · Needs Cloudflare Workers Paid plan, Cloudflare D1, Cloudflare KV, Cloudflare R2, Durable Objects, Anthropic API, Docker (terminal deploy) · Docker · [Repo](https://github.com/cloudflare/claude-managed-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-managed-agents/)</sub>
 
 <a name="nanoagent"></a>
-### #&#8288;84 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (17) · Freshness: slowing (40) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 785 · MIT · Mar 2026</sub>
+### #&#8288;84 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (17) · Freshness: slowing (40) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 786 · MIT · Mar 2026</sub>
 
 **Single-file Python agent loop with bash, read and write tools.**
 
