@@ -4369,7 +4369,7 @@ BadgerDB is an embeddable, persistent key-value store written in pure Go, with n
 <sub>no GPU · Needs Go 1.23 or above · [Repo](https://github.com/dgraph-io/badger) · [📖 Docs ↗](https://badger.dgraph.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/badger/)</sub>
 
 <a name="platform"></a>
-### #&#8288;245 [platform](https://github.com/orchidsoftware/platform) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (46) · Freshness: active (95) · Maintenance: fair (56) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
+### #&#8288;245 [platform](https://github.com/orchidsoftware/platform) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (46) · Freshness: active (94) · Maintenance: fair (56) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.8k · MIT · Nov 2026</sub>
 
 **Laravel package for building admin panels and back-office apps in PHP.**
 
@@ -5248,25 +5248,8 @@ Kubero is a self-hosted Heroku-style PaaS that runs on Kubernetes through two co
 
 <sub>no GPU · Docker + Compose · Needs Kubernetes, Kubero Operator, Kubero CLI · [Repo](https://github.com/kubero-dev/kubero) · [▶️ Demo ↗](https://demo.kubero.dev) · [📖 Docs ↗](https://www.kubero.dev/docs/) · [🌐 Site ↗](https://www.kubero.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kubero/)</sub>
 
-<a name="amplication"></a>
-### #&#8288;294 [amplication](https://github.com/amplication/amplication) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (76) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
-
-**Generates NestJS and Node.js backend services from data models, with team templates.**
-
-Amplication generates backend microservices (APIs, data models, DTOs) from a modeled domain, and pushes the code to your Git repository. Organizations can define their own live templates and plugins so generated services follow shared standards, and the tool handles package updates and versioning. It can be used hosted at app.amplication.com or run locally as an Nx monorepo for development.
-
-- **+** Generates editable service code (APIs, data models, DTOs) that you own and commit to Git
-- **+** Plugin system and custom live templates enforce shared standards across services
-- **+** Handles package updates, patches and versioning of generated services
-- **+** Hosted version available, so no local setup is needed to try it
-- **−** Components under the ee directory use a separate Enterprise Edition license
-- **−** Self-hosting is documented only as a development setup, not a production deployment guide
-- **−** Local setup needs Node.js, Docker and several services run via npm scripts
-
-<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
-
 <a name="laf"></a>
-### #&#8288;295 [laf](https://github.com/labring/laf) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (59) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;294 [laf](https://github.com/labring/laf) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (59) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.5k · Apache-2.0 · Jul 2026</sub>
 
 **Cloud development platform with JS/TS cloud functions, database and storage.**
 
@@ -5284,7 +5267,7 @@ laf is a cloud development platform that provides cloud functions written in JS/
 <sub>no GPU · Needs Kubernetes · [Repo](https://github.com/labring/laf) · [▶️ Demo ↗](https://bja.sealos.run) · [🌐 Site ↗](https://laf.run/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/laf/)</sub>
 
 <a name="keto"></a>
-### #&#8288;296 [keto](https://github.com/ory/keto) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (50) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;295 [keto](https://github.com/ory/keto) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (50) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Jul 2026</sub>
 
 **Open-source Zanzibar-style authorization server for relationship-based permission checks.**
 
@@ -5302,7 +5285,7 @@ Ory Keto is a Go server implementing Google's Zanzibar model. You define namespa
 <sub>no GPU · Docker + Compose · Needs PostgreSQL, MySQL, CockroachDB · [Repo](https://github.com/ory/keto) · [📖 Docs ↗](https://www.ory.com/docs/keto) · [🌐 Site ↗](https://www.ory.com/cloud) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/keto/)</sub>
 
 <a name="judge0"></a>
-### #&#8288;297 [judge0](https://github.com/judge0/judge0) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (44) · Freshness: recent (70) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · GPL-3.0 · Oct 2026</sub>
+### #&#8288;296 [judge0](https://github.com/judge0/judge0) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: known (44) · Freshness: recent (70) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · GPL-3.0 · Oct 2026</sub>
 
 **Sandboxed code execution API for 90+ languages, self-hosted or managed.**
 
@@ -5318,6 +5301,23 @@ Judge0 is an HTTP JSON API that compiles and runs untrusted source code in a san
 - **−** Judge0 Extra CE with additional languages is on a separate `extra` branch
 
 <sub>Docker + Compose · Compose runs PostgreSQL, Redis · [Repo](https://github.com/judge0/judge0) · [▶️ Demo ↗](https://ide.judge0.com) · [📖 Docs ↗](https://ce.judge0.com) · [🌐 Site ↗](https://judge0.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/judge0/)</sub>
+
+<a name="amplication"></a>
+### #&#8288;297 [amplication](https://github.com/amplication/amplication) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: popular (76) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · custom license · Apr 2026</sub>
+
+**Generates NestJS and Node.js backend services from data models, with team templates.**
+
+Amplication generates backend microservices (APIs, data models, DTOs) from a modeled domain, and pushes the code to your Git repository. Organizations can define their own live templates and plugins so generated services follow shared standards, and the tool handles package updates and versioning. It can be used hosted at app.amplication.com or run locally as an Nx monorepo for development.
+
+- **+** Generates editable service code (APIs, data models, DTOs) that you own and commit to Git
+- **+** Plugin system and custom live templates enforce shared standards across services
+- **+** Handles package updates, patches and versioning of generated services
+- **+** Hosted version available, so no local setup is needed to try it
+- **−** Components under the ee directory use a separate Enterprise Edition license
+- **−** Self-hosting is documented only as a development setup, not a production deployment guide
+- **−** Local setup needs Node.js, Docker and several services run via npm scripts
+
+<sub>no GPU · Compose · Needs Node.js, Docker, Git · [Repo](https://github.com/amplication/amplication) · [🌐 Site ↗](https://amplication.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amplication/)</sub>
 
 <a name="pony"></a>
 ### #&#8288;298 [pony](https://github.com/ponyorm/pony) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (38) · Freshness: active (96) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Aug 2026</sub>
@@ -5355,26 +5355,8 @@ go-pg is a Go PostgreSQL client with a struct-based ORM, covering relations (has
 
 <sub>no GPU · Needs PostgreSQL · [Repo](https://github.com/go-pg/pg) · [📖 Docs ↗](https://pg.uptrace.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pg/)</sub>
 
-<a name="devise-token-auth"></a>
-### #&#8288;300 [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (37) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · WTFPL · Jul 2026</sub>
-
-**Token-based authentication gem for Rails APIs, built on Devise and OmniAuth.**
-
-Devise Token Auth is a Ruby gem that adds token-based authentication to Rails apps serving SPAs and mobile clients. It refreshes tokens on each request, expires them after a short time, and keeps a separate session per client or device. It supports email registration, login, password reset and confirmation through Devise, OAuth2 through OmniAuth, and multiple user models.
-
-- **+** Per-device sessions with tokens refreshed on every request and short expiry
-- **+** Email auth via Devise and OAuth2 via OmniAuth in one gem
-- **+** Supports multiple user models in a single Rails app
-- **+** Documented client libraries for Angular, React/Redux, jQuery and Flutter
-- **−** Rails only; no use outside Ruby on Rails apps
-- **−** Depends on Devise and OmniAuth, so inherits their configuration surface
-- **−** No tagged release is listed for the repository
-- **−** Client libraries are separate third-party projects, not maintained here
-
-<sub>no GPU · Needs Rails, Devise, OmniAuth · [Repo](https://github.com/lynndylanhurley/devise_token_auth) · [▶️ Demo ↗](https://stackblitz.com/github/neroniaky/angular-token) · [📖 Docs ↗](https://devise-token-auth.gitbook.io/devise-token-auth) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devise-token-auth/)</sub>
-
 <a name="spring-boot-jwt"></a>
-### #&#8288;301 [spring-boot-jwt](https://github.com/murraco/spring-boot-jwt) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Oct 2026</sub>
+### #&#8288;300 [spring-boot-jwt](https://github.com/murraco/spring-boot-jwt) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · Oct 2026</sub>
 
 **Spring Boot JWT auth service with rotating, revocable refresh tokens.**
 
@@ -5392,7 +5374,7 @@ A Spring Boot 3.5 / Java 17 REST API that implements signup, signin, refresh and
 <sub>no GPU · Docker · Needs Java 17, H2 (default, in-memory), MySQL (optional) · port 8080 · [Repo](https://github.com/murraco/spring-boot-jwt) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spring-boot-jwt/)</sub>
 
 <a name="db"></a>
-### #&#8288;302 [db](https://github.com/upper/db) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
+### #&#8288;301 [db](https://github.com/upper/db) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Oct 2026</sub>
 
 **Go data access layer with one API for SQL databases and MongoDB.**
 
@@ -5409,8 +5391,26 @@ upper/db is a Go library that provides a common data access API over PostgreSQL,
 
 <sub>no GPU · Needs PostgreSQL, MySQL, MSSQL, CockroachDB, MongoDB, QL or SQLite (one of) · [Repo](https://github.com/upper/db) · [▶️ Demo ↗](https://tour.upper.io) · [📖 Docs ↗](https://upper.io/v4) · [🌐 Site ↗](https://upper.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/db/)</sub>
 
+<a name="devise-token-auth"></a>
+### #&#8288;302 [devise_token_auth](https://github.com/lynndylanhurley/devise_token_auth) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (37) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · WTFPL · Jul 2026</sub>
+
+**Token-based authentication gem for Rails APIs, built on Devise and OmniAuth.**
+
+Devise Token Auth is a Ruby gem that adds token-based authentication to Rails apps serving SPAs and mobile clients. It refreshes tokens on each request, expires them after a short time, and keeps a separate session per client or device. It supports email registration, login, password reset and confirmation through Devise, OAuth2 through OmniAuth, and multiple user models.
+
+- **+** Per-device sessions with tokens refreshed on every request and short expiry
+- **+** Email auth via Devise and OAuth2 via OmniAuth in one gem
+- **+** Supports multiple user models in a single Rails app
+- **+** Documented client libraries for Angular, React/Redux, jQuery and Flutter
+- **−** Rails only; no use outside Ruby on Rails apps
+- **−** Depends on Devise and OmniAuth, so inherits their configuration surface
+- **−** No tagged release is listed for the repository
+- **−** Client libraries are separate third-party projects, not maintained here
+
+<sub>no GPU · Needs Rails, Devise, OmniAuth · [Repo](https://github.com/lynndylanhurley/devise_token_auth) · [▶️ Demo ↗](https://stackblitz.com/github/neroniaky/angular-token) · [📖 Docs ↗](https://devise-token-auth.gitbook.io/devise-token-auth) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devise-token-auth/)</sub>
+
 <a name="dicedb"></a>
-### #&#8288;303 [dicedb](https://github.com/dicedb/dicedb) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: popular (67) · Freshness: slowing (49) · Maintenance: weak (8) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Mar 2026</sub>
+### #&#8288;303 [dicedb](https://github.com/dicedb/dicedb) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: popular (67) · Freshness: slowing (48) · Maintenance: weak (8) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Mar 2026</sub>
 
 **Valkey fork that spills evicted keys to disk via RocksDB.**
 
@@ -5464,7 +5464,7 @@ Nubase is a Java backend with a Next.js Studio that gives each project its own P
 <sub>no GPU · Docker · Needs PostgreSQL 15 with pgvector, Redis, S3/R2/MinIO (optional storage), Cloudflare Workers for Platforms (optional), LLM provider (optional, for Memory) · Models: OpenAI, Anthropic, OpenAI-compatible providers · port 9999 · [Repo](https://github.com/ottermind/nubase) · [🌐 Site ↗](https://nubase.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nubase/)</sub>
 
 <a name="buffalo"></a>
-### #&#8288;306 [buffalo](https://github.com/gobuffalo/buffalo) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (61) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · MIT · Mar 2026</sub>
+### #&#8288;306 [buffalo](https://github.com/gobuffalo/buffalo) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (61) · Freshness: recent (54) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · MIT · Mar 2026</sub>
 
 **Go web framework that generates a full project with frontend, routing and database.**
 
@@ -5536,7 +5536,7 @@ lowdb is a pure ESM npm library that loads a JSON file into a plain JavaScript o
 <sub>no GPU · [Repo](https://github.com/typicode/lowdb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdb/)</sub>
 
 <a name="ballcat"></a>
-### #&#8288;310 [ballcat](https://github.com/ballcat-projects/ballcat) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (19) · Freshness: active (94) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;310 [ballcat](https://github.com/ballcat-projects/ballcat) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (19) · Freshness: active (93) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · Jul 2026</sub>
 
 **Java component library for building admin-backend projects quickly.**
 
@@ -5554,7 +5554,7 @@ BallCat is a set of Java components published to Maven Central that provide base
 <sub>no GPU · Needs Java, Maven · [Repo](https://github.com/ballcat-projects/ballcat) · [📖 Docs ↗](https://v2.ballcat.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ballcat/)</sub>
 
 <a name="vearch"></a>
-### #&#8288;311 [vearch](https://github.com/vearch/vearch) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (26) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;311 [vearch](https://github.com/vearch/vearch) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (26) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.3k · Apache-2.0 · Jul 2026</sub>
 
 **Distributed vector database with hybrid vector and scalar-filter search.**
 
@@ -5679,7 +5679,7 @@ Gel is a database that models data as object types with properties and links ins
 <sub>no GPU · [Repo](https://github.com/geldata/gel) · [📖 Docs ↗](https://docs.geldata.com) · [🌐 Site ↗](https://www.geldata.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gel/)</sub>
 
 <a name="nodejs-backend-architecture-typescript"></a>
-### #&#8288;318 [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: known (33) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;318 [nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) <sub>score [27](../README.md#-how-we-rank "Score 27/100. Adoption: known (33) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Jul 2026</sub>
 
 **Express, TypeScript and MongoDB blog API with JWT auth and Redis caching.**
 
@@ -5697,7 +5697,7 @@ A reference backend for a Medium-style blogging platform, built on Express, Type
 <sub>no GPU · Docker + Compose · Needs MongoDB, Redis, Docker Compose · port 3000 · [Repo](https://github.com/afteracademy/nodejs-backend-architecture-typescript) · [📖 Docs ↗](https://documenter.getpostman.com/view/1552895/2s8Z6u4a6N) · [🌐 Site ↗](https://afteracademy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nodejs-backend-architecture-typescript/)</sub>
 
 <a name="1backend"></a>
-### #&#8288;319 [1backend](https://github.com/1backend/1backend) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (27) · Freshness: recent (59) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
+### #&#8288;319 [1backend](https://github.com/1backend/1backend) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (27) · Freshness: recent (58) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · AGPL-3.0 · May 2026</sub>
 
 **Microservices platform with auth, routing and registry, plus an LLM runtime.**
 
@@ -5733,7 +5733,7 @@ VectorChord (vchord) is a Rust-based PostgreSQL extension that adds a vchordrq i
 <sub>no GPU · Needs PostgreSQL, pgvector · [Repo](https://github.com/supervc-stack/vectorchord) · [📖 Docs ↗](https://docs.vectorchord.ai/vectorchord/) · [🌐 Site ↗](https://vectorchord.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vectorchord/)</sub>
 
 <a name="framework"></a>
-### #&#8288;321 [top-think/framework](https://github.com/top-think/framework) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (31) · Freshness: recent (51) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Mar 2026</sub>
+### #&#8288;321 [top-think/framework](https://github.com/top-think/framework) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (31) · Freshness: recent (50) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · custom license · Mar 2026</sub>
 
 **PHP 8 web application framework with ORM and PSR support.**
 
@@ -5751,7 +5751,7 @@ ThinkPHP 8 is a general-purpose PHP web framework requiring PHP 8.0+ and think-o
 <sub>no GPU · Needs PHP 8.0+, Composer, think-orm 3.0+ · port 8000 · [Repo](https://github.com/top-think/framework) · [📖 Docs ↗](https://doc.thinkphp.cn) · [🌐 Site ↗](https://www.thinkphp.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/framework/)</sub>
 
 <a name="kubefirst"></a>
-### #&#8288;322 [kubefirst](https://github.com/konstructio/kubefirst) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (24) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Feb 2026</sub>
+### #&#8288;322 [kubefirst](https://github.com/konstructio/kubefirst) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (24) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Feb 2026</sub>
 
 **CLI that provisions Kubernetes clusters with a GitOps stack on cloud or local.**
 
@@ -5822,7 +5822,7 @@ Userbase is a JavaScript SDK that handles sign-up, login and per-user data persi
 <sub>no GPU · Needs AWS account, Node.js, npm · port 3000 · [Repo](https://github.com/smallbets/userbase) · [📖 Docs ↗](https://userbase.com/docs/) · [🌐 Site ↗](https://userbase.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/userbase/)</sub>
 
 <a name="merchant"></a>
-### #&#8288;326 [merchant](https://github.com/ygwyg/merchant) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (1) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 376 · MIT · Jan 2026</sub>
+### #&#8288;326 [merchant](https://github.com/ygwyg/merchant) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (1) · Freshness: quiet (18) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 376 · MIT · Jan 2026</sub>
 
 **Commerce API for products, inventory, checkout and orders on Cloudflare.**
 

@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-22
+updated_at: 2026-11-23
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -7304,7 +7304,7 @@ entries:
       has_compose: false
       is_template: false
       language: Vim Script
-    score: 30
+    score: 29
   - id: artemis
     repo: google/artemis
     name: artemis
@@ -13436,7 +13436,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 24
+    score: 23
   - id: monid
     repo: monid-ai/monid
     name: monid
@@ -15671,7 +15671,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 31
   - id: android-skills
     repo: android/skills
     name: android/skills
@@ -30767,7 +30767,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 41
+    score: 40
   - id: playwright-cli
     repo: microsoft/playwright-cli
     name: playwright-cli
@@ -33315,7 +33315,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 53
+    score: 52
   - id: unslop
     repo: heydamir/unslop
     name: unslop
@@ -39649,7 +39649,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 22
+    score: 21
   - id: matrixone
     repo: matrixorigin/matrixone
     name: matrixone
@@ -41235,7 +41235,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 35
+    score: 34
   - id: docs-mcp-server
     repo: arabold/docs-mcp-server
     name: docs-mcp-server
@@ -44617,7 +44617,7 @@ entries:
       has_compose: false
       is_template: false
       language: Dart
-    score: 48
+    score: 47
   - id: couchdb
     repo: apache/couchdb
     name: couchdb
@@ -54516,7 +54516,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 17
+    score: 16
   - id: ant-design-pro-blazor
     repo: ant-design-blazor/ant-design-pro-blazor
     name: ant-design-pro-blazor
@@ -57769,7 +57769,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 38
+    score: 37
   - id: aws-cdk
     repo: aws/aws-cdk
     name: aws-cdk
@@ -58674,7 +58674,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 26
+    score: 25
   - id: metaharness
     repo: ruvnet/metaharness
     name: metaharness
@@ -61509,7 +61509,7 @@ entries:
       has_compose: true
       is_template: true
       language: PHP
-    score: 34
+    score: 33
   - id: rampstackco-claude-skills
     repo: rampstackco/claude-skills
     name: rampstackco/claude-skills
@@ -63721,7 +63721,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 34
+    score: 33
   - id: graperoot
     repo: kunal12203/graperoot
     name: graperoot
@@ -67857,7 +67857,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 29
+    score: 28
   - id: power-platform-skills
     repo: microsoft/power-platform-skills
     name: power-platform-skills
@@ -68149,7 +68149,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 32
+    score: 31
   - id: codealmanac
     repo: almanaccode/codealmanac
     name: codealmanac
@@ -70664,7 +70664,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 82
+    score: 81
   - id: kubeblocks
     repo: apecloud/kubeblocks
     name: kubeblocks
@@ -72737,7 +72737,7 @@ entries:
       has_compose: false
       is_template: false
       language: Ruby
-    score: 39
+    score: 38
   - id: good-job
     repo: bensheldon/good_job
     name: good_job
@@ -82018,7 +82018,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 30
+    score: 29
   - id: csghub
     repo: opencsgs/csghub
     name: csghub
@@ -86261,7 +86261,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 32
+    score: 31
   - id: ai-chat
     repo: pushpak1300/ai-chat
     name: ai-chat
@@ -86785,7 +86785,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 19
+    score: 18
   - id: azure-search-openai-javascript
     repo: azure-samples/azure-search-openai-javascript
     name: azure-search-openai-javascript
@@ -88671,7 +88671,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 32
+    score: 31
   - id: mcp-for-next-js
     repo: vercel-labs/mcp-for-next.js
     name: mcp-for-next.js
@@ -89173,7 +89173,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 19
+    score: 18
   - id: plate-playground-template
     repo: udecode/plate-playground-template
     name: plate-playground-template
@@ -89928,7 +89928,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 53
+    score: 52
   - id: onlook
     repo: onlook-dev/onlook
     name: Onlook
