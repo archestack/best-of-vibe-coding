@@ -2521,7 +2521,7 @@ Framelink MCP for Figma (npm package figma-developer-mcp) is an MCP server that 
 <sub>no GPU · Needs Figma API, Figma personal access token, Node.js (npx) · safety checks passed 16 of 18 · [Repo](https://github.com/glips/figma-context-mcp) · [▶️ Demo ↗](https://youtu.be/6G9yb-LrEqg) · [📖 Docs ↗](https://www.framelink.ai/docs/quickstart) · [🌐 Site ↗](https://www.framelink.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/figma-context-mcp/)</sub>
 
 <a name="mcp-server-chart"></a>
-### #&#8288;141 [mcp-server-chart](https://github.com/antvis/mcp-server-chart) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (59) · Freshness: active (93) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · MIT · Aug 2026</sub>
+### #&#8288;141 [mcp-server-chart](https://github.com/antvis/mcp-server-chart) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (59) · Freshness: active (92) · Maintenance: patchy (31) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · MIT · Aug 2026</sub>
 
 **MCP server that renders 26+ AntV chart types from tool calls.**
 
@@ -2719,7 +2719,7 @@ flutter-skill is an MCP server (stdio) and HTTP CLI that connects AI agents such
 <sub>no GPU · Docker · Needs Node.js (npm install), Chrome (web/CDP mode), MCP-compatible AI client · [Repo](https://github.com/ai-dashboad/flutter-skill) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flutter-skill/)</sub>
 
 <a name="bb-browser"></a>
-### #&#8288;152 [bb-browser](https://github.com/epiral/bb-browser) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (68) · Freshness: recent (77) · Maintenance: weak (6) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · MIT · May 2026</sub>
+### #&#8288;152 [bb-browser](https://github.com/epiral/bb-browser) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (68) · Freshness: recent (76) · Maintenance: weak (6) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.3k · MIT · May 2026</sub>
 
 **CLI and MCP server that lets agents drive your logged-in Chrome.**
 
@@ -2827,7 +2827,7 @@ Official Qdrant MCP server exposing two tools, `qdrant-store` and `qdrant-find`,
 <sub>Docker · Needs Qdrant (server or local path), FastEmbed · Models: FastEmbed models, sentence-transformers/all-MiniLM-L6-v2 (default) · port 8000 · [Repo](https://github.com/qdrant/mcp-server-qdrant) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server-qdrant/)</sub>
 
 <a name="git-mcp"></a>
-### #&#8288;158 [git-mcp](https://github.com/idosal/git-mcp) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (75) · Freshness: recent (61) · Maintenance: weak (4) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · May 2026</sub>
+### #&#8288;158 [git-mcp](https://github.com/idosal/git-mcp) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (75) · Freshness: recent (60) · Maintenance: weak (4) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · May 2026</sub>
 
 **Remote MCP server that exposes any GitHub repo's docs and code to AI tools.**
 
@@ -2917,7 +2917,7 @@ A Kotlin Burp Suite extension that runs an MCP server inside Burp, listening on 
 <sub>no GPU · Needs Burp Suite, Java, jar command, Gradle · Models: Claude Desktop, Codex, any MCP client · port 9876 · [Repo](https://github.com/portswigger/mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-server/)</sub>
 
 <a name="octocode"></a>
-### #&#8288;163 [octocode](https://github.com/bgauryy/octocode) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (16) · Freshness: active (87) · Maintenance: weak (7) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 966 · MIT · Aug 2026</sub>
+### #&#8288;163 [octocode](https://github.com/bgauryy/octocode) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (16) · Freshness: active (86) · Maintenance: weak (7) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 966 · MIT · Aug 2026</sub>
 
 **Code research toolset for agents, as an MCP server and CLI.**
 
@@ -2953,7 +2953,7 @@ PAL is a Python MCP server that exposes tools such as chat, thinkdeep, planner, 
 <sub>GPU optional · Docker + Compose · Needs Python 3.10+, Git, uv, Provider API key (Gemini, OpenAI, OpenRouter, Azure, X.AI, DIAL) or Ollama · Models: Gemini, OpenAI, Anthropic, Grok, Azure OpenAI · safety checks passed 10 of 12 · [Repo](https://github.com/beehiveinnovations/pal-mcp-server) · [📖 Docs ↗](https://github.com/BeehiveInnovations/pal-mcp-server/blob/main/docs/getting-started.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pal-mcp-server/)</sub>
 
 <a name="markdownify-mcp"></a>
-### #&#8288;165 [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (48) · Freshness: recent (69) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · May 2026</sub>
+### #&#8288;165 [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (48) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · May 2026</sub>
 
 **MCP server that converts PDFs, Office files, audio and web pages to Markdown.**
 
@@ -3061,7 +3061,7 @@ Python MCP server that gives agents read-only access to Apache Doris over stdio 
 <sub>no GPU · Docker + Compose · Needs Apache Doris 2.0.0+, Python 3.12+ · port 3000 · [Repo](https://github.com/apache/doris-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/doris-mcp-server/)</sub>
 
 <a name="openapi-mcp-server"></a>
-### #&#8288;171 [openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (13) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 907 · MIT · Jul 2026</sub>
+### #&#8288;171 [openapi-mcp-server](https://github.com/janwilmake/openapi-mcp-server) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (13) · Freshness: active (82) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 907 · MIT · Jul 2026</sub>
 
 **MCP server for searching and reading OpenAPI specs via oapis.org.**
 
@@ -3079,7 +3079,7 @@ A Model Context Protocol server, written in TypeScript and run with wrangler, th
 <sub>no GPU · Needs oapis.org, Cloudflare Wrangler · [Repo](https://github.com/janwilmake/openapi-mcp-server) · [▶️ Demo ↗](https://x.com/janwilmake/status/1903497808134496583) · [🌐 Site ↗](https://openapi-mcp.openapisearch.com/mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openapi-mcp-server/)</sub>
 
 <a name="mantic-sh"></a>
-### #&#8288;172 [mantic.sh](https://github.com/marcoaapfortes/mantic.sh) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: niche (6) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 553 · MIT · Jul 2026</sub>
+### #&#8288;172 [mantic.sh](https://github.com/marcoaapfortes/mantic.sh) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (6) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 553 · MIT · Jul 2026</sub>
 
 **Local code search CLI and MCP server that ranks files by intent.**
 

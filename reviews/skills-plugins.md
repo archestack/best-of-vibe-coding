@@ -5573,7 +5573,7 @@ UI Skills is a registry of skills aimed at design engineers, which coding agents
 <sub>no GPU · Needs Node.js (npx), ui-skills.com MCP endpoint · [Repo](https://github.com/ibelick/ui-skills) · [📖 Docs ↗](https://www.ui-skills.com/playbook) · [🌐 Site ↗](https://www.ui-skills.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-skills/)</sub>
 
 <a name="claude-scholar"></a>
-### #&#8288;311 [claude-scholar](https://github.com/galaxy-dawn/claude-scholar) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (68) · Freshness: active (93) · Maintenance: patchy (49) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Oct 2026</sub>
+### #&#8288;311 [claude-scholar](https://github.com/galaxy-dawn/claude-scholar) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: popular (68) · Freshness: active (92) · Maintenance: patchy (49) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Oct 2026</sub>
 
 **Research skills, agents and hooks for Claude Code.**
 
@@ -8370,7 +8370,7 @@ A Claude Code plugin marketplace hosting 117 agents, 175 slash commands, 28 hook
 <sub>no GPU · Docker · Needs Claude Code · Models: Claude · [Repo](https://github.com/davepoon/buildwithclaude) · [📖 Docs ↗](https://code.claude.com/docs/en/plugin-marketplaces) · [🌐 Site ↗](https://www.buildwithclaude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/buildwithclaude/)</sub>
 
 <a name="aiox-core"></a>
-### #&#8288;467 [aiox-core](https://github.com/synkraai/aiox-core) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (49) · Freshness: active (98) · Maintenance: weak (21) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · custom license · Aug 2026</sub>
+### #&#8288;467 [aiox-core](https://github.com/synkraai/aiox-core) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: known (49) · Freshness: active (97) · Maintenance: weak (21) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · custom license · Aug 2026</sub>
 
 **Role-based agent personas and workflows for Claude Code, Codex and Gemini CLI.**
 
@@ -8728,7 +8728,7 @@ Pixel2Motion is a Codex and Claude skill that fits a PNG, JPG or WebP logo to a 
 <sub>no GPU · Needs Python 3.10+, Pillow, numpy, Playwright, Chrome or Chromium · Models: Codex, Claude · [Repo](https://github.com/nolangz/pixel2motion) · [▶️ Demo ↗](https://nolangz.github.io/pixel2motion/) · [📖 Docs ↗](https://github.com/nolangz/pixel2motion/blob/main/SKILL.md) · [🌐 Site ↗](https://www.pixel2motion.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pixel2motion/)</sub>
 
 <a name="deep-research-skills"></a>
-### #&#8288;487 [deep-research-skills](https://github.com/weizhena/deep-research-skills) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (44) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
+### #&#8288;487 [deep-research-skills](https://github.com/weizhena/deep-research-skills) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: known (44) · Freshness: active (99) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Aug 2026</sub>
 
 **Research workflow skills for Claude Code, OpenCode and Codex.**
 
@@ -8980,7 +8980,7 @@ A Claude Code skill that scans a Rails app and writes an upgrade report with OLD
 <sub>no GPU · Needs Claude Code, rails-load-defaults skill, dual-boot skill, next_rails gem · Models: Claude · [Repo](https://github.com/ombulabs/claude-code_rails-upgrade-skill) · [🌐 Site ↗](https://www.fastruby.io/upgrade) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-rails-upgrade-skill/)</sub>
 
 <a name="scroll-world"></a>
-### #&#8288;501 [scroll-world](https://github.com/oso95/scroll-world) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (79) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Jul 2026</sub>
+### #&#8288;501 [scroll-world](https://github.com/oso95/scroll-world) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (79) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Jul 2026</sub>
 
 **Agent skill that builds scroll-scrubbed fly-through landing pages from AI-generated video.**
 
@@ -9106,7 +9106,7 @@ A collection of 17 Agent Skills for Claude Code, Cursor and WorkBuddy. Each skil
 <sub>Needs Claude Code, Cursor or WorkBuddy agent, Node.js (optional, for dynamic-archify renderer) · [Repo](https://github.com/unclecheng-li/ai_animation) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-animation/)</sub>
 
 <a name="cc-thinking-skills"></a>
-### #&#8288;508 [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (34) · Freshness: active (96) · Maintenance: weak (17) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Aug 2026</sub>
+### #&#8288;508 [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (34) · Freshness: active (95) · Maintenance: weak (17) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Aug 2026</sub>
 
 **28 Agent Skills that give coding agents structured reasoning procedures.**
 
@@ -9411,7 +9411,7 @@ An Agent Skills package (SKILL.md plus reference files) that makes a coding agen
 <sub>no GPU · Needs Agent Skills compatible runtime (Claude Code, Codex, Cursor, OpenClaw, Hermes), Node.js with npx for the installer · [Repo](https://github.com/alchaincyf/munger-skill) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/munger-skill/)</sub>
 
 <a name="gsap-skills"></a>
-### #&#8288;525 [gsap-skills](https://github.com/greensock/gsap-skills) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: widely used (87) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Apr 2026</sub>
+### #&#8288;525 [gsap-skills](https://github.com/greensock/gsap-skills) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: widely used (87) · Freshness: recent (54) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Apr 2026</sub>
 
 **Official GSAP skills that teach coding agents correct animation API usage.**
 
@@ -9697,7 +9697,7 @@ Python CLI (`tt`) that reads local session logs from Claude Code, Codex and Kimi
 <sub>no GPU · Needs Python 3.11+, Rich, LiteLLM pricing data (online, with built-in fallback) · Models: Claude Code, Codex, Kimi Code · [Repo](https://github.com/stormzhang/token-tracker) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/token-tracker/)</sub>
 
 <a name="chops"></a>
-### #&#8288;541 [chops](https://github.com/shpigford/chops) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (40) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · custom license · Aug 2026</sub>
+### #&#8288;541 [chops](https://github.com/shpigford/chops) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (40) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · custom license · Aug 2026</sub>
 
 **macOS app to browse and edit coding-agent skills across tools.**
 
@@ -9859,7 +9859,7 @@ GrapeRoot is a launcher (dgc, dg, dgo, graperoot) that scans a project into a lo
 <sub>no GPU · Docker · Needs Python 3.10+, Node.js 18+, One supported AI coding tool · Models: Claude Code, OpenAI Codex CLI, Cursor, Gemini CLI, OpenCode · [Repo](https://github.com/kunal12203/graperoot) · [📖 Docs ↗](https://graperoot.dev/docs) · [🌐 Site ↗](https://graperoot.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/graperoot/)</sub>
 
 <a name="skill-based-architecture"></a>
-### #&#8288;550 [skill-based-architecture](https://github.com/wojisama/skill-based-architecture) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (9) · Freshness: active (99) · Maintenance: weak (23) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 627 · MIT · Nov 2026</sub>
+### #&#8288;550 [skill-based-architecture](https://github.com/wojisama/skill-based-architecture) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (9) · Freshness: active (98) · Maintenance: weak (23) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 627 · MIT · Nov 2026</sub>
 
 **Skill that consolidates scattered agent rule files into one routable project Skill.**
 
@@ -10144,7 +10144,7 @@ Three SKILL.md-based skills that load into both Claude Code and Codex CLI. They 
 <sub>Needs Claude Code or Codex CLI, MATLAB/Octave, Python scientific libraries, PowerPoint (thesis-defense scripts) · Models: Claude Code, Codex CLI · [Repo](https://github.com/zlanqing/codex-claude-academic-skills) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codex-claude-academic-skills/)</sub>
 
 <a name="loopy"></a>
-### #&#8288;566 [loopy](https://github.com/forward-future/loopy) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (50) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Jul 2026</sub>
+### #&#8288;566 [loopy](https://github.com/forward-future/loopy) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: popular (50) · Freshness: active (82) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT · Jul 2026</sub>
 
 **Agent skill and catalog of bounded, self-checking prompt loops.**
 
@@ -10324,7 +10324,7 @@ A file template for Claude Code that adds two custom slash commands, /generate-p
 <sub>no GPU · Needs Claude Code · Models: Claude (via Claude Code) · [Repo](https://github.com/coleam00/context-engineering-intro) · [📖 Docs ↗](https://docs.anthropic.com/en/docs/claude-code) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/context-engineering-intro/)</sub>
 
 <a name="openskills"></a>
-### #&#8288;576 [openskills](https://github.com/numman-ali/openskills) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (79) · Freshness: slowing (34) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jan 2026</sub>
+### #&#8288;576 [openskills](https://github.com/numman-ali/openskills) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (79) · Freshness: slowing (33) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jan 2026</sub>
 
 **CLI that installs SKILL.md skills and lists them in AGENTS.md.**
 
@@ -10396,7 +10396,7 @@ A set of SKILL.md skills and checklists the MiniMax Code team uses, packaged as 
 <sub>no GPU · Needs MiniMax Code, Claude Code or Codex, meegle CLI (req-tpm stack), lark-cli (req-tpm stack) · [Repo](https://github.com/minimax-ai/mcode-stack) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcode-stack/)</sub>
 
 <a name="ainativelang"></a>
-### #&#8288;580 [ainativelang](https://github.com/sbhooley/ainativelang) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (8) · Freshness: active (98) · Maintenance: weak (21) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 596 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;580 [ainativelang](https://github.com/sbhooley/ainativelang) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (8) · Freshness: active (97) · Maintenance: weak (21) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 596 · Apache-2.0 · Nov 2026</sub>
 
 **Workflow language that compiles agent jobs to a deterministic graph, no LLM routing.**
 
@@ -10467,7 +10467,7 @@ An Agent Skills package that has a coding agent ingest URLs, files or pasted tex
 <sub>no GPU · Needs Agent Skills-compatible coding agent, Node.js (npx) · [Repo](https://github.com/astro-han/karpathy-llm-wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/karpathy-llm-wiki/)</sub>
 
 <a name="vibecode-pro-max-kit"></a>
-### #&#8288;584 [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (23) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Jun 2026</sub>
+### #&#8288;584 [vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (23) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · Jun 2026</sub>
 
 **Plan-first workflow kit of agents, skills and hooks for AI coding tools.**
 
@@ -10485,7 +10485,7 @@ Installs 15 agent definitions, 33 skills and 10 hooks into a project via a curl-
 <sub>no GPU · Needs Node.js >= 22, git, bash · Models: Claude Code, Codex CLI, Cursor, Windsurf, Antigravity · [Repo](https://github.com/withkynam/vibecode-pro-max-kit) · [🌐 Site ↗](https://flowser.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibecode-pro-max-kit/)</sub>
 
 <a name="spec-driven-develop"></a>
-### #&#8288;585 [spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (19) · Freshness: active (93) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 994 · MIT · Jul 2026</sub>
+### #&#8288;585 [spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (19) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 994 · MIT · Jul 2026</sub>
 
 **Markdown skills that plan, track and review large AI-agent code changes.**
 
@@ -10575,7 +10575,7 @@ A Claude Code skill that fetches content from WeChat articles, X/Twitter, YouTub
 <sub>no GPU · Needs Google NotebookLM, notebooklm-py, Python 3.9+, Playwright (Chromium), markitdown, Get笔记 API (optional) · Models: Google NotebookLM · [Repo](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/qiaomu-anything-to-notebooklm/)</sub>
 
 <a name="fluent-korean"></a>
-### #&#8288;590 [fluent-korean](https://github.com/snflkd/fluent-korean) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (30) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Aug 2026</sub>
+### #&#8288;590 [fluent-korean](https://github.com/snflkd/fluent-korean) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: known (30) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Aug 2026</sub>
 
 **Claude Code output style that makes Claude write clear, grammatical Korean.**
 
@@ -10809,7 +10809,7 @@ Kibitz watches active Claude Code and Codex sessions and generates running comme
 <sub>no GPU · Needs Node.js 20+, VS Code 1.85+, claude or codex CLI · Models: Claude Code, Codex · [Repo](https://github.com/kibitzsh/kibitz) · [🌐 Site ↗](https://kibitz.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kibitz/)</sub>
 
 <a name="design-md-chrome"></a>
-### #&#8288;603 [design-md-chrome](https://github.com/bergside/design-md-chrome) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (50) · Freshness: recent (74) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · May 2026</sub>
+### #&#8288;603 [design-md-chrome](https://github.com/bergside/design-md-chrome) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: known (50) · Freshness: recent (73) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · May 2026</sub>
 
 **Chrome extension that extracts a site's styles into DESIGN.md or SKILL.md.**
 
@@ -10863,7 +10863,7 @@ An awesome-list style repository bundling Claude Code add-ons: 135 agents, 35 cu
 <sub>no GPU · Needs Claude Code · Models: Claude · [Repo](https://github.com/rohitg00/awesome-claude-code-toolkit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/awesome-claude-code-toolkit/)</sub>
 
 <a name="harmonist"></a>
-### #&#8288;606 [harmonist](https://github.com/gammalabtechnologies/harmonist) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: known (39) · Freshness: active (81) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Jun 2026</sub>
+### #&#8288;606 [harmonist](https://github.com/gammalabtechnologies/harmonist) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: known (39) · Freshness: active (80) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Jun 2026</sub>
 
 **Hook-enforced agent protocol pack for Cursor, Claude Code and other coding assistants.**
 
@@ -10934,26 +10934,8 @@ bmalph is an npm CLI that installs BMAD-METHOD planning agents (analysis, PRD, a
 
 <sub>no GPU · Needs Node.js 20+, Bash, A supported AI coding CLI (claude, codex, opencode, copilot or cursor-agent) for Ralph · Models: Claude Code, OpenAI Codex, OpenCode, Cursor, Windsurf · [Repo](https://github.com/larscowe/bmalph) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bmalph/)</sub>
 
-<a name="open-ralph-wiggum"></a>
-### #&#8288;610 [open-ralph-wiggum](https://github.com/th0rgal/open-ralph-wiggum) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: known (36) · Freshness: recent (79) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Jun 2026</sub>
-
-**Loop runner that re-prompts a coding agent until the task is done.**
-
-Open Ralph Wiggum is a Bun and TypeScript CLI (`ralph`) that implements the Ralph Wiggum loop. It sends the same prompt to a coding agent each iteration until the agent outputs a completion promise or hits a max-iteration limit. It wraps Claude Code, Codex, Copilot CLI, Cursor Agent, Qwen Code and OpenCode, and adds a tasks mode, status monitoring and mid-loop context injection.
-
-- **+** Switches between six agent CLIs with one --agent flag
-- **+** Tasks mode tracks progress in .ralph/ralph-tasks.md and survives restarts
-- **+** --status and --add-context let you monitor and steer a running loop from another terminal
-- **+** Custom prompt templates with variables for iteration, tasks and injected context
-- **−** Requires Bun and a separately installed agent CLI
-- **−** Auto-approves all tool permissions by default (--allow-all is on)
-- **−** Max iterations default to unlimited, so a run can use tokens without a cap
-- **−** Auto-commits after iterations unless --no-commit is passed
-
-<sub>no GPU · Needs Bun, At least one agent CLI: Claude Code, Codex, Copilot CLI, Cursor Agent, Qwen Code or OpenCode · Models: Claude Code, OpenAI Codex, Copilot CLI, Cursor Agent, Qwen Code · [Repo](https://github.com/th0rgal/open-ralph-wiggum) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-ralph-wiggum/)</sub>
-
 <a name="cli-continues"></a>
-### #&#8288;611 [cli-continues](https://github.com/yigitkonur/cli-continues) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: known (32) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · May 2026</sub>
+### #&#8288;610 [cli-continues](https://github.com/yigitkonur/cli-continues) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: known (32) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · May 2026</sub>
 
 **CLI that moves a coding session between 16 AI coding tools.**
 
@@ -10971,7 +10953,7 @@ continues reads local session files from 16 AI coding CLIs and editors, includin
 <sub>no GPU · Needs Node.js 22.5+, At least one supported AI coding tool installed · Models: Claude Code, Codex, GitHub Copilot CLI, Gemini CLI, Cursor · [Repo](https://github.com/yigitkonur/cli-continues) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cli-continues/)</sub>
 
 <a name="codesight"></a>
-### #&#8288;612 [codesight](https://github.com/houseofmvps/codesight) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (28) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jul 2026</sub>
+### #&#8288;611 [codesight](https://github.com/houseofmvps/codesight) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (28) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jul 2026</sub>
 
 **CLI that maps a codebase into compact context files for AI coding assistants.**
 
@@ -10989,7 +10971,7 @@ codesight scans a project and writes a compact map of routes, database models, c
 <sub>no GPU · Needs Node.js >= 18 · [Repo](https://github.com/houseofmvps/codesight) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codesight/)</sub>
 
 <a name="claude-skill-homeassistant"></a>
-### #&#8288;613 [claude-skill-homeassistant](https://github.com/komal-skynet/claude-skill-homeassistant) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (18) · Freshness: active (81) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 986 · MIT · Jul 2026</sub>
+### #&#8288;612 [claude-skill-homeassistant](https://github.com/komal-skynet/claude-skill-homeassistant) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (18) · Freshness: active (81) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 986 · MIT · Jul 2026</sub>
 
 **Claude Code skill for managing Home Assistant config, automations and dashboards.**
 
@@ -11007,7 +10989,7 @@ A Claude Code skill and plugin that teaches Claude a deploy-and-verify workflow 
 <sub>no GPU · Needs Claude Code, Home Assistant, SSH, hass-cli, git, Context7 MCP (optional) · Models: Claude · [Repo](https://github.com/komal-skynet/claude-skill-homeassistant) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-skill-homeassistant/)</sub>
 
 <a name="claude-code-statusline"></a>
-### #&#8288;614 [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (5) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 480 · MIT · Jul 2026</sub>
+### #&#8288;613 [claude-code-statusline](https://github.com/rz1989s/claude-code-statusline) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: niche (5) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 480 · MIT · Jul 2026</sub>
 
 **Configurable multi-line statusline for Claude Code showing git, cost and MCP data.**
 
@@ -11023,6 +11005,24 @@ A Bash statusline script for Claude Code that renders 1 to 9 lines from 28 singl
 - **−** Spread across 31 shell files, which is more to read than a single script
 
 <sub>no GPU · Docker + Compose · Needs bash, jq, curl, Claude Code, AlAdhan API (optional) · [Repo](https://github.com/rz1989s/claude-code-statusline) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-statusline/)</sub>
+
+<a name="open-ralph-wiggum"></a>
+### #&#8288;614 [open-ralph-wiggum](https://github.com/th0rgal/open-ralph-wiggum) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: known (36) · Freshness: recent (79) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Jun 2026</sub>
+
+**Loop runner that re-prompts a coding agent until the task is done.**
+
+Open Ralph Wiggum is a Bun and TypeScript CLI (`ralph`) that implements the Ralph Wiggum loop. It sends the same prompt to a coding agent each iteration until the agent outputs a completion promise or hits a max-iteration limit. It wraps Claude Code, Codex, Copilot CLI, Cursor Agent, Qwen Code and OpenCode, and adds a tasks mode, status monitoring and mid-loop context injection.
+
+- **+** Switches between six agent CLIs with one --agent flag
+- **+** Tasks mode tracks progress in .ralph/ralph-tasks.md and survives restarts
+- **+** --status and --add-context let you monitor and steer a running loop from another terminal
+- **+** Custom prompt templates with variables for iteration, tasks and injected context
+- **−** Requires Bun and a separately installed agent CLI
+- **−** Auto-approves all tool permissions by default (--allow-all is on)
+- **−** Max iterations default to unlimited, so a run can use tokens without a cap
+- **−** Auto-commits after iterations unless --no-commit is passed
+
+<sub>no GPU · Needs Bun, At least one agent CLI: Claude Code, Codex, Copilot CLI, Cursor Agent, Qwen Code or OpenCode · Models: Claude Code, OpenAI Codex, Copilot CLI, Cursor Agent, Qwen Code · [Repo](https://github.com/th0rgal/open-ralph-wiggum) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-ralph-wiggum/)</sub>
 
 <a name="antivibe"></a>
 ### #&#8288;615 [antivibe](https://github.com/mohi-devhub/antivibe) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (22) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Jul 2026</sub>
@@ -11042,26 +11042,8 @@ AntiVibe is a Claude Code skill, built from shell scripts and markdown agent def
 
 <sub>no GPU · Needs Claude Code · Models: Claude · [Repo](https://github.com/mohi-devhub/antivibe) · [📖 Docs ↗](https://github.com/mohi-devhub/antivibe/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/antivibe/)</sub>
 
-<a name="auteur"></a>
-### #&#8288;616 [auteur](https://github.com/agiwhitelist/auteur) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (16) · Freshness: active (95) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 934 · MIT · Aug 2026</sub>
-
-**Agent skill that builds cinematic websites with anti-slop lint and motion checks.**
-
-auteur is an Agent Skill (SKILL.md, reference recipes, Node scripts) that has a coding agent commit to an art direction, generate assets, and build a vanilla WebGL/GSAP site. It then gates the result with slopscan, a zero-dependency linter, and motionqa, a Playwright frame-rate check at DPR 2. Ten live showcase sites are linked.
-
-- **+** slopscan is a zero-dependency Node linter that fails builds on concrete patterns and runs in CI
-- **+** motionqa measures dropped frames and long tasks at DPR 2 on a throttled CPU
-- **+** One npx command installs it for Claude Code, Codex, Cursor, Gemini CLI and other agents
-- **+** Ten live showcase sites, one built by a different model (Kimi K3) from the same SKILL.md
-- **−** Not a component library; every site is authored from scratch with no ready-made components
-- **−** Motion and recon gates need Playwright with Chromium installed
-- **−** Asset generation relies on local media CLIs such as Codex, Gemini or Blender
-- **−** Recon and sourcing phases fetch from third-party sites such as awwwards and Poly Haven
-
-<sub>GPU optional · Needs Node 18+, Playwright (Chromium), Claude Code or another SKILL.md-compatible agent, Codex, Gemini CLI, Blender, ffmpeg (optional) · Models: Claude Code, Codex, Cursor, OpenCode, Gemini CLI · [Repo](https://github.com/agiwhitelist/auteur) · [▶️ Demo ↗](https://agiwhitelist.github.io/auteur/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/auteur/)</sub>
-
 <a name="oh-my-taiyiforge"></a>
-### #&#8288;617 [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (14) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 855 · MIT · Jul 2026</sub>
+### #&#8288;616 [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (14) · Freshness: active (89) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 855 · MIT · Jul 2026</sub>
 
 **Nine-phase state machine that gates AI coding agents with human approvals.**
 
@@ -11079,7 +11061,7 @@ TaiyiForge installs a shared set of skills and slash commands (/taiyi:new, /taiy
 <sub>no GPU · Docker + Compose · Needs Node.js, npm · [Repo](https://github.com/dong90/oh-my-taiyiforge) · [📖 Docs ↗](https://github.com/Dong90/oh-my-taiyiforge/blob/main/docs/QUICKSTART.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/oh-my-taiyiforge/)</sub>
 
 <a name="guizang-game-skill"></a>
-### #&#8288;618 [guizang-game-skill](https://github.com/op7418/guizang-game-skill) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 436 · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;617 [guizang-game-skill](https://github.com/op7418/guizang-game-skill) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 436 · AGPL-3.0 · Nov 2026</sub>
 
 **Skill that guides coding agents through building a browser 3D action game.**
 
@@ -11097,7 +11079,7 @@ A skill for Claude Code, Codex and similar agents that walks them through buildi
 <sub>Needs Node.js 18+, Tripo, Jimeng, Suno · Models: Claude Code, Codex · [Repo](https://github.com/op7418/guizang-game-skill) · [▶️ Demo ↗](https://op7418.github.io/guizang-game-skill/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/guizang-game-skill/)</sub>
 
 <a name="ddc-skills-for-ai-agents-in-construction"></a>
-### #&#8288;619 [ddc_skills_for_ai_agents_in_construction](https://github.com/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 435 · MIT · Oct 2026</sub>
+### #&#8288;618 [ddc_skills_for_ai_agents_in_construction](https://github.com/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 435 · MIT · Oct 2026</sub>
 
 **238 SKILL.md files for construction data automation with coding agents.**
 
@@ -11115,7 +11097,7 @@ A set of SKILL.md instruction files that a coding assistant such as Claude Code 
 <sub>no GPU · Needs Python 3.9+, pandas, openpyxl, ifcopenshell, pdfplumber, Docker (n8n workflows, optional), PostgreSQL or SQLite (optional), OpenAI API key (optional) · Models: Claude Code, Google Antigravity, OpenCode, ClawdBot, Cursor · [Repo](https://github.com/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction) · [▶️ Demo ↗](https://openconstructionestimate.com) · [🌐 Site ↗](https://datadrivenconstruction.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ddc-skills-for-ai-agents-in-construction/)</sub>
 
 <a name="nelson"></a>
-### #&#8288;620 [nelson](https://github.com/aspegio/nelson) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (3) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 424 · MIT · Jul 2026</sub>
+### #&#8288;619 [nelson](https://github.com/aspegio/nelson) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (3) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 424 · MIT · Jul 2026</sub>
 
 **Claude Code plugin for multi-agent missions with risk tiers and a decision log.**
 
@@ -11133,7 +11115,7 @@ Nelson is a Claude Code plugin that wraps complex, multi-file work in a Royal Na
 <sub>no GPU · Needs Claude Code CLI, tmux (optional, for split panes) · Models: Claude (via Claude Code) · [Repo](https://github.com/aspegio/nelson) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nelson/)</sub>
 
 <a name="cyclomatic-complexity-skill"></a>
-### #&#8288;621 [cyclomatic-complexity-skill](https://github.com/saurabhkumar8112/cyclomatic-complexity-skill) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 409 · Apache-2.0 · Aug 2026</sub>
+### #&#8288;620 [cyclomatic-complexity-skill](https://github.com/saurabhkumar8112/cyclomatic-complexity-skill) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 409 · Apache-2.0 · Aug 2026</sub>
 
 **Claude skill that refactors code to lower cyclomatic complexity.**
 
@@ -11151,7 +11133,7 @@ A skill for Claude that measures cyclomatic complexity per function, then refact
 <sub>no GPU · Needs radon, eslint, gocyclo, lizard · Models: Claude · [Repo](https://github.com/saurabhkumar8112/cyclomatic-complexity-skill) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cyclomatic-complexity-skill/)</sub>
 
 <a name="myclaude"></a>
-### #&#8288;622 [myclaude](https://github.com/stellarlinkco/myclaude) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (46) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · AGPL-3.0 · May 2026</sub>
+### #&#8288;621 [myclaude](https://github.com/stellarlinkco/myclaude) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (46) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · AGPL-3.0 · May 2026</sub>
 
 **Claude Code slash-command workflows that delegate coding to Codex, Gemini or OpenCode.**
 
@@ -11169,7 +11151,7 @@ Installs Claude Code modules (do, omo, bmad, requirements, essentials, sparv) as
 <sub>no GPU · Needs Claude Code, Node.js (npx), Codex CLI, Gemini CLI, OpenCode CLI · Models: Codex, Claude, Gemini, OpenCode · [Repo](https://github.com/stellarlinkco/myclaude) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/myclaude/)</sub>
 
 <a name="skillkit"></a>
-### #&#8288;623 [skillkit](https://github.com/rohitg00/skillkit) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (31) · Freshness: recent (76) · Maintenance: weak (4) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Jun 2026</sub>
+### #&#8288;622 [skillkit](https://github.com/rohitg00/skillkit) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (31) · Freshness: recent (76) · Maintenance: weak (4) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · Apache-2.0 · Jun 2026</sub>
 
 **Package manager that installs and translates agent skills across 46 coding agents.**
 
@@ -11185,6 +11167,24 @@ SkillKit is a TypeScript CLI that installs skills from GitHub, GitLab, gists or 
 - **−** Install demo detects 32 agents while the README claims 46 supported
 
 <sub>no GPU · Needs Node.js, npm · Models: Claude, GPT-4, Gemini, Ollama, OpenRouter · port 3737 · [Repo](https://github.com/rohitg00/skillkit) · [📖 Docs ↗](https://skillkit.sh/docs) · [🌐 Site ↗](https://skillkit.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/skillkit/)</sub>
+
+<a name="auteur"></a>
+### #&#8288;623 [auteur](https://github.com/agiwhitelist/auteur) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (16) · Freshness: active (95) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 934 · MIT · Aug 2026</sub>
+
+**Agent skill that builds cinematic websites with anti-slop lint and motion checks.**
+
+auteur is an Agent Skill (SKILL.md, reference recipes, Node scripts) that has a coding agent commit to an art direction, generate assets, and build a vanilla WebGL/GSAP site. It then gates the result with slopscan, a zero-dependency linter, and motionqa, a Playwright frame-rate check at DPR 2. Ten live showcase sites are linked.
+
+- **+** slopscan is a zero-dependency Node linter that fails builds on concrete patterns and runs in CI
+- **+** motionqa measures dropped frames and long tasks at DPR 2 on a throttled CPU
+- **+** One npx command installs it for Claude Code, Codex, Cursor, Gemini CLI and other agents
+- **+** Ten live showcase sites, one built by a different model (Kimi K3) from the same SKILL.md
+- **−** Not a component library; every site is authored from scratch with no ready-made components
+- **−** Motion and recon gates need Playwright with Chromium installed
+- **−** Asset generation relies on local media CLIs such as Codex, Gemini or Blender
+- **−** Recon and sourcing phases fetch from third-party sites such as awwwards and Poly Haven
+
+<sub>GPU optional · Needs Node 18+, Playwright (Chromium), Claude Code or another SKILL.md-compatible agent, Codex, Gemini CLI, Blender, ffmpeg (optional) · Models: Claude Code, Codex, Cursor, OpenCode, Gemini CLI · [Repo](https://github.com/agiwhitelist/auteur) · [▶️ Demo ↗](https://agiwhitelist.github.io/auteur/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/auteur/)</sub>
 
 <a name="registry-broker-skills"></a>
 ### #&#8288;624 [registry-broker-skills](https://github.com/hashgraph-online/registry-broker-skills) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (5) · Freshness: active (92) · Maintenance: weak (7) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 480 · Apache-2.0 · Sep 2026</sub>
@@ -11295,7 +11295,7 @@ A collection of 16 self-contained skills, each a folder with a SKILL.md, install
 <sub>no GPU · Needs Codex, gh CLI, XcodeBuildMCP, Tuist · [Repo](https://github.com/dimillian/skills) · [🌐 Site ↗](https://dimillian.github.io/Skills/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dimillian-skills/)</sub>
 
 <a name="fablize"></a>
-### #&#8288;630 [fablize](https://github.com/fivetaku/fablize) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (15) · Freshness: active (88) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 892 · MIT · Jul 2026</sub>
+### #&#8288;630 [fablize](https://github.com/fivetaku/fablize) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (15) · Freshness: active (87) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 892 · MIT · Jul 2026</sub>
 
 **Claude Code plugin that gates task completion on verification and evidence.**
 
@@ -11367,7 +11367,7 @@ A collection of add-ons for Claude Code: 8 background skills, 8 core agents plus
 <sub>no GPU · Needs Claude Code · Models: Claude · [Repo](https://github.com/alirezarezvani/claude-code-tresor) · [📖 Docs ↗](https://github.com/alirezarezvani/claude-code-tresor/blob/main/documentation/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-tresor/)</sub>
 
 <a name="devops-security-agent-skills"></a>
-### #&#8288;634 [devops-security-agent-skills](https://github.com/bagelhole/devops-security-agent-skills) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (24) · Freshness: recent (71) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · May 2026</sub>
+### #&#8288;634 [devops-security-agent-skills](https://github.com/bagelhole/devops-security-agent-skills) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (24) · Freshness: recent (70) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · May 2026</sub>
 
 **160+ DevOps and security skill files for Claude Code, Cursor and Codex.**
 
@@ -11403,7 +11403,7 @@ Stash is a Go service that exposes an MCP server over SSE so agents can store an
 <sub>Docker + Compose · Needs Postgres with pgvector, OpenAI-compatible embeddings and chat API, or Ollama, Docker Compose · Models: OpenAI-compatible APIs, Ollama, Atlas Cloud · port 8080 · [Repo](https://github.com/alash3al/stash) · [🌐 Site ↗](https://alash3al.github.io/stash/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/stash/)</sub>
 
 <a name="ai-agent-team"></a>
-### #&#8288;636 [ai-agent-team](https://github.com/peterfei/ai-agent-team) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (4) · Freshness: active (86) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 453 · MIT · Jun 2026</sub>
+### #&#8288;636 [ai-agent-team](https://github.com/peterfei/ai-agent-team) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (4) · Freshness: active (85) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 453 · MIT · Jun 2026</sub>
 
 **Claude Code agent roles, slash commands and SQLite-backed thread memory.**
 
@@ -11421,7 +11421,7 @@ An npm package that installs role-based subagents (PM, frontend, backend, fullst
 <sub>no GPU · Needs Claude Code, Git, Node.js, npm · Models: Xenova/all-MiniLM-L6-v2 (local embeddings) · [Repo](https://github.com/peterfei/ai-agent-team) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-agent-team/)</sub>
 
 <a name="claude-code-prompts"></a>
-### #&#8288;637 [claude-code-prompts](https://github.com/repowise-dev/claude-code-prompts) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (24) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · May 2026</sub>
+### #&#8288;637 [claude-code-prompts](https://github.com/repowise-dev/claude-code-prompts) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: niche (24) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · MIT · May 2026</sub>
 
 **Markdown prompt templates for coding agents, modeled on Claude Code patterns.**
 
@@ -11457,7 +11457,7 @@ Claude Conductor is an npm CLI that generates a set of linked markdown files (CL
 <sub>no GPU · Needs Node.js >= 20, Claude Code · Models: Claude Code · [Repo](https://github.com/superbasicstudio/claude-conductor) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-conductor/)</sub>
 
 <a name="continuous-claude-v3"></a>
-### #&#8288;639 [continuous-claude-v3](https://github.com/parcadei/continuous-claude-v3) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (56) · Freshness: quiet (24) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;639 [continuous-claude-v3](https://github.com/parcadei/continuous-claude-v3) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: popular (56) · Freshness: quiet (23) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Claude Code add-on for session handoffs, memory, and a library of skills and agents.**
 
@@ -11511,7 +11511,7 @@ A Claude Code plugin bundling 27 slash commands, 9 skills and 3 auditor subagent
 <sub>no GPU · Needs Claude Code · Models: Claude · [Repo](https://github.com/glittercowboy/taches-cc-resources) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/taches-cc-resources/)</sub>
 
 <a name="ai-prompts"></a>
-### #&#8288;642 [ai-prompts](https://github.com/instructa/ai-prompts) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (21) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · May 2026</sub>
+### #&#8288;642 [ai-prompts](https://github.com/instructa/ai-prompts) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (21) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · May 2026</sub>
 
 **Collection of Cursor-style rule and prompt files for AI coding tools.**
 
@@ -11528,7 +11528,7 @@ A repository of ready-to-use prompts and coding rules, stored as folders under `
 <sub>no GPU · Models: Cursor, GitHub Copilot, Zed, Windsurf, Cline · [Repo](https://github.com/instructa/ai-prompts) · [🌐 Site ↗](https://www.instructa.ai/ai-prompts) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-prompts/)</sub>
 
 <a name="claude-code-bmad-skills"></a>
-### #&#8288;643 [claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (6) · Freshness: recent (66) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 493 · custom license · Jun 2026</sub>
+### #&#8288;643 [claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (6) · Freshness: recent (65) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 493 · custom license · Jun 2026</sub>
 
 **Claude Code plugin that plans work with BMAD and splits it into parallel waves.**
 
@@ -11581,26 +11581,8 @@ An installable skill pack for coding agents, added with `npx skills add`. The on
 
 <sub>no GPU · Needs Node.js/npx, Swapper Finance hosted service, Chainlink CRE and CCIP, Mastercard card processing · [Repo](https://github.com/swapperfinance/swapper-toolkit) · [🌐 Site ↗](https://swapper.finance) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/swapper-toolkit/)</sub>
 
-<a name="claude-code-nvim"></a>
-### #&#8288;646 [claude-code.nvim](https://github.com/greggh/claude-code.nvim) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: known (40) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Feb 2026</sub>
-
-**Neovim plugin that toggles the Claude Code CLI in a terminal split.**
-
-Opens the Claude Code CLI in a Neovim terminal buffer, as a split or floating window, toggled by a command or key such as `<C-,>`. It reloads open buffers when Claude Code changes files on disk and sets the working directory to the git root. Command variants like `--continue`, `--resume` and `--verbose` get their own commands and keymaps.
-
-- **+** Auto-reloads buffers modified on disk by Claude Code, with configurable timer and updatetime
-- **+** Floating or split window with configurable position, size and border
-- **+** CLI flags map to generated commands and keymaps via command_variants
-- **+** Installs through lazy.nvim, packer or vim-plug; MIT license
-- **−** Wraps a terminal only; no diff view or editor-aware context sharing with the CLI
-- **−** Requires the separate Claude Code CLI and plenary.nvim
-- **−** Last tagged release is 2025-03-21, though commits continued into 2026
-- **−** README lists `<leader>ac` and `<leader>cc` toggles inconsistently with the config defaults
-
-<sub>no GPU · Needs Neovim 0.7.0+, Claude Code CLI, plenary.nvim · Models: Claude (via Claude Code CLI) · [Repo](https://github.com/greggh/claude-code.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-nvim/)</sub>
-
 <a name="claude-code-sub-agent-collective"></a>
-### #&#8288;647 [claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (7) · Freshness: recent (54) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 526 · MIT · Apr 2026</sub>
+### #&#8288;646 [claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (7) · Freshness: recent (54) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 526 · MIT · Apr 2026</sub>
 
 **NPX installer adding 30+ TDD-enforcing sub-agents and hooks to Claude Code.**
 
@@ -11616,6 +11598,24 @@ Installs Claude Code sub-agent definitions, a CLAUDE.md rule file, hook scripts 
 - **−** Documentation is scattered across files; research phase can be slow
 
 <sub>no GPU · Needs Claude Code (MCP and hooks), Node.js >= 16, npm >= 8, Context7 MCP, Vitest, Playwright · [Repo](https://github.com/vanzan01/claude-code-sub-agent-collective) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-sub-agent-collective/)</sub>
+
+<a name="claude-code-nvim"></a>
+### #&#8288;647 [claude-code.nvim](https://github.com/greggh/claude-code.nvim) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: known (40) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Feb 2026</sub>
+
+**Neovim plugin that toggles the Claude Code CLI in a terminal split.**
+
+Opens the Claude Code CLI in a Neovim terminal buffer, as a split or floating window, toggled by a command or key such as `<C-,>`. It reloads open buffers when Claude Code changes files on disk and sets the working directory to the git root. Command variants like `--continue`, `--resume` and `--verbose` get their own commands and keymaps.
+
+- **+** Auto-reloads buffers modified on disk by Claude Code, with configurable timer and updatetime
+- **+** Floating or split window with configurable position, size and border
+- **+** CLI flags map to generated commands and keymaps via command_variants
+- **+** Installs through lazy.nvim, packer or vim-plug; MIT license
+- **−** Wraps a terminal only; no diff view or editor-aware context sharing with the CLI
+- **−** Requires the separate Claude Code CLI and plenary.nvim
+- **−** Last tagged release is 2025-03-21, though commits continued into 2026
+- **−** README lists `<leader>ac` and `<leader>cc` toggles inconsistently with the config defaults
+
+<sub>no GPU · Needs Neovim 0.7.0+, Claude Code CLI, plenary.nvim · Models: Claude (via Claude Code CLI) · [Repo](https://github.com/greggh/claude-code.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-code-nvim/)</sub>
 
 <a name="memx"></a>
 ### #&#8288;648 [memx](https://github.com/neoli00/memx) <sub>score [21](../README.md#-how-we-rank "Score 21/100. Adoption: niche (2) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 401 · MIT · May 2026</sub>
@@ -11654,7 +11654,7 @@ Leash launches AI coding agents such as claude, codex, gemini, qwen and opencode
 <sub>no GPU · Docker · Needs Docker, Podman or OrbStack · Models: claude, codex, gemini, qwen, opencode · port 18080 · [Repo](https://github.com/strongdm/leash) · [🌐 Site ↗](https://leash.strongdm.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/leash/)</sub>
 
 <a name="tutor-skills"></a>
-### #&#8288;650 [tutor-skills](https://github.com/bevibing/tutor-skills) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (28) · Freshness: slowing (36) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Feb 2026</sub>
+### #&#8288;650 [tutor-skills](https://github.com/bevibing/tutor-skills) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (28) · Freshness: slowing (35) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Feb 2026</sub>
 
 **Claude Code skills that build Obsidian study vaults and quiz you on them.**
 
@@ -11690,7 +11690,7 @@ AutoHarness wraps an OpenAI client, or runs its own AgentLoop, and sends every t
 <sub>no GPU · Models: OpenAI client · [Repo](https://github.com/aiming-lab/autoharness) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aiming-lab-autoharness/)</sub>
 
 <a name="vibesec-skill"></a>
-### #&#8288;652 [vibesec-skill](https://github.com/behisecc/vibesec-skill) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (29) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;652 [vibesec-skill](https://github.com/behisecc/vibesec-skill) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (29) · Freshness: slowing (31) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Feb 2026</sub>
 
 **Security skill that steers AI coding agents away from common web vulnerabilities.**
 
@@ -11708,7 +11708,7 @@ A skill folder for coding agents that steers generated code away from common web
 <sub>no GPU · Needs Claude Code, Cursor, Codex, GitHub Copilot or Antigravity · Models: Any model used through a supported agent · [Repo](https://github.com/behisecc/vibesec-skill) · [🌐 Site ↗](https://vibesec.sh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vibesec-skill/)</sub>
 
 <a name="mcphub-nvim"></a>
-### #&#8288;653 [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: known (35) · Freshness: quiet (20) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jan 2026</sub>
+### #&#8288;653 [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: known (35) · Freshness: quiet (19) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Jan 2026</sub>
 
 **MCP client plugin for Neovim that connects MCP servers to chat plugins.**
 
@@ -11726,7 +11726,7 @@ mcphub.nvim manages MCP servers from inside Neovim and exposes their tools, reso
 <sub>no GPU · Needs Neovim, Avante.nvim, CodeCompanion.nvim or CopilotChat.nvim · [Repo](https://github.com/ravitemer/mcphub.nvim) · [📖 Docs ↗](https://ravitemer.github.io/mcphub.nvim/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcphub-nvim/)</sub>
 
 <a name="osgrep"></a>
-### #&#8288;654 [osgrep](https://github.com/ryandonofrio3/osgrep) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (22) · Freshness: slowing (30) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;654 [osgrep](https://github.com/ryandonofrio3/osgrep) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (22) · Freshness: quiet (30) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Jan 2026</sub>
 
 **Local semantic code search CLI with call-graph tracing for coding agents.**
 
@@ -11744,7 +11744,7 @@ osgrep is a grep-like CLI that indexes a repository with tree-sitter chunking, e
 <sub>Needs Node.js, npm · Models: Local ONNX embedding models via onnxruntime-node, ColBERT reranking · port 4444 · [Repo](https://github.com/ryandonofrio3/osgrep) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/osgrep/)</sub>
 
 <a name="yupi-skill"></a>
-### #&#8288;655 [yupi-skill](https://github.com/liyupi/yupi-skill) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (5) · Freshness: recent (50) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 467 · MIT · Apr 2026</sub>
+### #&#8288;655 [yupi-skill](https://github.com/liyupi/yupi-skill) <sub>score [16](../README.md#-how-we-rank "Score 16/100. Adoption: niche (5) · Freshness: slowing (50) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 467 · MIT · Apr 2026</sub>
 
 **Persona skill that makes coding agents answer career questions in Yupi's voice.**
 
@@ -11762,7 +11762,7 @@ A skill in AgentSkills format for Claude Code, Cursor and OpenClaw. It makes the
 <sub>no GPU · Needs Claude Code, Cursor or OpenClaw, git · [Repo](https://github.com/liyupi/yupi-skill) · [🌐 Site ↗](https://www.codefather.cn) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yupi-skill/)</sub>
 
 <a name="manim-skill"></a>
-### #&#8288;656 [manim_skill](https://github.com/adithya-s-k/manim_skill) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: niche (27) · Freshness: quiet (23) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jan 2026</sub>
+### #&#8288;656 [manim_skill](https://github.com/adithya-s-k/manim_skill) <sub>score [15](../README.md#-how-we-rank "Score 15/100. Adoption: niche (27) · Freshness: quiet (22) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jan 2026</sub>
 
 **Agent skills with tested Manim CE and ManimGL animation guidance.**
 
@@ -11851,7 +11851,7 @@ SudoLang is a pseudocode language for prompting LLMs, with interfaces, constrain
 <sub>no GPU · Needs VS Code or Cursor (optional, for the extension) · Models: ChatGPT, Bing Chat, Anthropic Claude, Google Gemini/Gemma, Meta Llama · [Repo](https://github.com/paralleldrive/sudolang) · [📖 Docs ↗](https://github.com/paralleldrive/sudolang/blob/main/sudolang.sudo.md) · [🌐 Site ↗](https://paralleldrive.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sudolang/)</sub>
 
 <a name="api2cli"></a>
-### #&#8288;661 [api2cli](https://github.com/alexknowshtml/api2cli) <sub>score [11](../README.md#-how-we-rank "Score 11/100. Adoption: niche (4) · Freshness: slowing (33) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · MIT · Feb 2026</sub>
+### #&#8288;661 [api2cli](https://github.com/alexknowshtml/api2cli) <sub>score [11](../README.md#-how-we-rank "Score 11/100. Adoption: niche (4) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · MIT · Feb 2026</sub>
 
 **Claude Code skill that generates a CLI and a matching skill from API docs.**
 

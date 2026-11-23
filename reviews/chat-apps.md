@@ -199,7 +199,7 @@ Bot on Anything connects a chosen model (OpenAI-compatible API, LinkAI, ERNIE Bo
 <sub>Python, OpenAI-compatible API, LinkAI, ERNIE Bot, New Bing · Needs Python 3.7.1-3.10, openai<1.0.0, flask, flask_socketio, slack_bolt, pyTelegramBotAPI, werobot, go-cqhttp (QQ channel) · Docker · [Repo](https://github.com/zhayujie/bot-on-anything) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bot-on-anything/)</sub>
 
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (13) · Freshness: active (92) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 672 · MIT · Aug 2026</sub>
+### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (13) · Freshness: active (91) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 672 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -233,7 +233,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="chatgpt-android"></a>
-### #&#8288;14 [chatgpt-android](https://github.com/skydoves/chatgpt-android) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (67) · Freshness: quiet (11) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;14 [chatgpt-android](https://github.com/skydoves/chatgpt-android) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (67) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Jan 2026</sub>
 
 **Android ChatGPT client sample built with Jetpack Compose and Stream Chat SDK.**
 

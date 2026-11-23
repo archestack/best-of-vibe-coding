@@ -1351,7 +1351,7 @@ Fork-and-deploy starter that ships a React/TypeScript frontend on Amplify Hostin
 <sub>Python, Strands, LangGraph · Needs AWS account, Amazon Bedrock AgentCore, AWS Cognito, AWS Amplify Hosting, AWS Lambda, AWS CDK or Terraform, Node.js · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
 
 <a name="serverless-express"></a>
-### #&#8288;76 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (56) · Freshness: recent (64) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
+### #&#8288;76 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (56) · Freshness: recent (63) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
 
 **Run Express, Koa or Hapi apps on AWS Lambda or Azure Functions.**
 
@@ -1620,26 +1620,8 @@ Python Quart backend using the openai package with a plain HTML/JS frontend that
 
 <sub>Bicep, Azure OpenAI (openai package) · Needs Azure subscription with Azure OpenAI access, azd CLI · GitHub template · env example file · [Repo](https://github.com/azure-samples/openai-chat-app-quickstart) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app?tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chat-app-quickstart/)</sub>
 
-<a name="symfony-7-es-cqrs-boilerplate"></a>
-### #&#8288;91 [symfony-7-es-cqrs-boilerplate](https://github.com/jorge07/symfony-7-es-cqrs-boilerplate) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (17) · Freshness: active (95) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Aug 2026</sub>
-
-**Symfony 7 reference app for DDD, CQRS and event sourcing.**
-
-PHP 8.3 and Symfony 7 boilerplate showing domain-driven design, CQRS and event sourcing with Symfony Messenger. It includes an event store, a read model, async event subscribers, a REST API with Swagger docs, and a user flow (sign up, change email, sign in, logout). It runs through Docker Compose with MySQL, Elasticsearch/Kibana and RabbitMQ. It has no AI features.
-
-- **+** Working event store, read model and async subscribers in one small codebase
-- **+** Makefile targets for setup, PHPUnit, PHPStan and code style checks
-- **+** Docs cover buses, use cases, projections, async processing and Kubernetes deployment
-- **+** Older Symfony 4, 5 and 6 versions kept on separate branches
-- **−** Contains no AI or model integration; not an AI starter
-- **−** Pinned to Elasticsearch and Kibana 7.11.0, an old release
-- **−** README calls the web UI poor UX; the demo use case is only user accounts
-- **−** Needs MySQL, Elasticsearch and RabbitMQ running, heavy for a small demo
-
-<sub>PHP · Needs MySQL 8.0, Elasticsearch 7.11.0, Kibana 7.11.0, RabbitMQ 3, Docker Compose · GitHub template · env example file · ⚠️ .env file committed · [Repo](https://github.com/jorge07/symfony-7-es-cqrs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/symfony-7-es-cqrs-boilerplate/)</sub>
-
 <a name="flask-restx"></a>
-### #&#8288;92 [flask-restx](https://github.com/python-restx/flask-restx) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (32) · Freshness: slowing (46) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · custom license · Apr 2026</sub>
+### #&#8288;91 [flask-restx](https://github.com/python-restx/flask-restx) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (32) · Freshness: slowing (46) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · custom license · Apr 2026</sub>
 
 **Flask extension for building REST APIs with Swagger documentation.**
 
@@ -1657,7 +1639,7 @@ Flask-RESTX is a Flask extension, forked from Flask-RESTPlus, that provides deco
 <sub>Python · Needs Flask, Werkzeug · [Repo](https://github.com/python-restx/flask-restx) · [📖 Docs ↗](http://flask-restx.readthedocs.io/en/latest/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flask-restx/)</sub>
 
 <a name="itty-router"></a>
-### #&#8288;93 [itty-router](https://github.com/kwhitley/itty-router) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (29) · Freshness: active (80) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Jun 2026</sub>
+### #&#8288;92 [itty-router](https://github.com/kwhitley/itty-router) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (29) · Freshness: active (80) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Jun 2026</sub>
 
 **Tiny TypeScript HTTP router for Cloudflare Workers and other serverless runtimes.**
 
@@ -1673,6 +1655,24 @@ itty-router is a small API router written in TypeScript, with variants from abou
 - **−** AutoRouter export needs `{ ...router }` to strip the proxy
 
 <sub>TypeScript · GitHub template · [Repo](https://github.com/kwhitley/itty-router) · [📖 Docs ↗](https://itty.dev/itty-router) · [🌐 Site ↗](https://itty.dev/itty-router) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/itty-router/)</sub>
+
+<a name="symfony-7-es-cqrs-boilerplate"></a>
+### #&#8288;93 [symfony-7-es-cqrs-boilerplate](https://github.com/jorge07/symfony-7-es-cqrs-boilerplate) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (17) · Freshness: active (94) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Aug 2026</sub>
+
+**Symfony 7 reference app for DDD, CQRS and event sourcing.**
+
+PHP 8.3 and Symfony 7 boilerplate showing domain-driven design, CQRS and event sourcing with Symfony Messenger. It includes an event store, a read model, async event subscribers, a REST API with Swagger docs, and a user flow (sign up, change email, sign in, logout). It runs through Docker Compose with MySQL, Elasticsearch/Kibana and RabbitMQ. It has no AI features.
+
+- **+** Working event store, read model and async subscribers in one small codebase
+- **+** Makefile targets for setup, PHPUnit, PHPStan and code style checks
+- **+** Docs cover buses, use cases, projections, async processing and Kubernetes deployment
+- **+** Older Symfony 4, 5 and 6 versions kept on separate branches
+- **−** Contains no AI or model integration; not an AI starter
+- **−** Pinned to Elasticsearch and Kibana 7.11.0, an old release
+- **−** README calls the web UI poor UX; the demo use case is only user accounts
+- **−** Needs MySQL, Elasticsearch and RabbitMQ running, heavy for a small demo
+
+<sub>PHP · Needs MySQL 8.0, Elasticsearch 7.11.0, Kibana 7.11.0, RabbitMQ 3, Docker Compose · GitHub template · env example file · ⚠️ .env file committed · [Repo](https://github.com/jorge07/symfony-7-es-cqrs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/symfony-7-es-cqrs-boilerplate/)</sub>
 
 <a name="go-gin-example"></a>
 ### #&#8288;94 [go-gin-example](https://github.com/eddycjy/go-gin-example) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (64) · Freshness: slowing (40) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.2k · MIT · Mar 2026</sub>
@@ -1693,7 +1693,7 @@ A layered Go REST API for a blog, built on Gin and GORM with MySQL storage and R
 <sub>Go · Needs MySQL 5.6+, Redis · Docker · [Repo](https://github.com/eddycjy/go-gin-example) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-gin-example/)</sub>
 
 <a name="genai-api"></a>
-### #&#8288;95 [genai-api](https://github.com/louisbrulenaudet/genai-api) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (0) · Freshness: slowing (49) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 113 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;95 [genai-api](https://github.com/louisbrulenaudet/genai-api) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (0) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 113 · Apache-2.0 · Apr 2026</sub>
 
 **Hono API on Cloudflare Workers proxying Gemini with bearer auth.**
 

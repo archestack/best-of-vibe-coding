@@ -292,7 +292,7 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
 
 <a name="orama"></a>
-### #&#8288;17 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (78) · Freshness: recent (74) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+### #&#8288;17 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (78) · Freshness: recent (73) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
 
 **In-process full-text, vector and hybrid search library for JavaScript.**
 
@@ -504,7 +504,7 @@ LightningRAG is a Gin (Go) and Vue full-stack app that parses, chunks and embeds
 <sub>Go, Pluggable LLM, embedding, rerank, speech, TTS, OCR providers (list in server/rag/README.md) · Needs MySQL > 5.7, Redis, PostgreSQL with pgvector or Elasticsearch, Node > 18.16, Go >= 1.22 · Docker · [Repo](https://github.com/lightningrag/lightningrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightningrag/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;29 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: niche (6) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;29 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (6) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 332 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
