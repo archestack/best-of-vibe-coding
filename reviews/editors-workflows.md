@@ -23,7 +23,7 @@ Windmill turns plain scripts in Python, TypeScript, Go, Bash, SQL and other lang
 <sub>Rust · Needs PostgreSQL, Caddy (in the compose setup) · Docker · ⚠️ .env file committed · README: alternative to Lovable · [Repo](https://github.com/windmill-labs/windmill) · [▶️ Demo ↗](https://app.windmill.dev) · [📖 Docs ↗](https://www.windmill.dev/docs/intro/) · [🌐 Site ↗](https://www.windmill.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/windmill/)</sub>
 
 <a name="penpot"></a>
-### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
+### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
@@ -75,7 +75,7 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.5k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -93,7 +93,7 @@ Fresh is a Rust terminal text editor that uses standard keybindings, menus and a
 <sub>Rust, claude, codex, opencode, aider · [Repo](https://github.com/sinelaw/fresh) · [📖 Docs ↗](https://getfresh.dev/docs) · [🌐 Site ↗](https://sinelaw.github.io/fresh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fresh/)</sub>
 
 <a name="yn"></a>
-### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
 
 **Electron Markdown editor with AI completion and a plugin API.**
 

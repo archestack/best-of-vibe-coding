@@ -5,7 +5,7 @@ Retrieval over your own documents or data, answer engines, and natural-language-
 <sub>🌐 Also on the web: [RAG and search on archestack.com](https://archestack.com/best-of-vibe-coding/rag-search/), each project on its own page.</sub>
 
 <a name="xerj"></a>
-### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · Apache-2.0 · Nov 2026</sub>
+### 🥇 [xerj](https://github.com/xerj-org/xerj) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 20k · Apache-2.0 · Nov 2026</sub>
 
 **Elasticsearch-compatible search server that auto-indexes folders for coding agents.**
 
@@ -41,7 +41,7 @@ Sonic is a Rust search backend that indexes text pushed over its Sonic Channel T
 <sub>Rust · Docker · [Repo](https://github.com/valeriansaliou/sonic) · [▶️ Demo ↗](https://help.crisp.chat/) · [📖 Docs ↗](https://github.com/valeriansaliou/sonic/blob/master/CONFIGURATION.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sonic/)</sub>
 
 <a name="manticoresearch"></a>
-### 🥉 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
+### 🥉 [manticoresearch](https://github.com/manticoresoftware/manticoresearch) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (81) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · GPL-3.0 · Nov 2026</sub>
 
 **C++ search database with full-text, vector and hybrid search over SQL and HTTP.**
 
@@ -77,7 +77,7 @@ Xberg is a Rust engine that detects and reads 107 document formats (PDF, Office,
 <sub>Rust, Whisper ONNX (tiny to large-v3), PaddleOCR, PP-DocLayout-V3, RT-DETR · Needs Tesseract (optional OCR backend), Ollama, LM Studio, vLLM or hosted LLM (structured extraction) · Docker · [Repo](https://github.com/xberg-io/xberg) · [▶️ Demo ↗](https://docs.xberg.io/demo.html) · [📖 Docs ↗](https://docs.xberg.io) · [🌐 Site ↗](https://xberg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xberg/)</sub>
 
 <a name="azure-search-openai-demo"></a>
-### #&#8288;5 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;5 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
 
@@ -148,7 +148,7 @@ serviette watches a folder or remote source (Google Drive, S3/MinIO, SharePoint,
 <sub>Python, OpenAI, LiteLLM, SentenceTransformers, Gemini · Needs Pathway license key, Python with pip 23.1+, OpenAI API key (optional, for generated answers), Vector database (embedded DuckDB by default) · [Repo](https://github.com/pathwaycom/serviette) · [📖 Docs ↗](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-app/)</sub>
 
 <a name="auto-ontology"></a>
-### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (84) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 14k · Apache-2.0 · Nov 2026</sub>
 
 **Ontology layer that grounds text-to-SQL agents in certified business definitions.**
 

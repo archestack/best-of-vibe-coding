@@ -39,7 +39,7 @@ Nx is a monorepo tool for TypeScript and polyglot codebases, with a core written
 <sub>no GPU · Needs Node.js, Nx Cloud (optional, for remote cache and self-healing CI) · [Repo](https://github.com/nrwl/nx) · [📖 Docs ↗](https://nx.dev/docs) · [🌐 Site ↗](https://nx.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nx/)</sub>
 
 <a name="open-code-review"></a>
-### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 55k · Apache-2.0 · Nov 2026</sub>
+### 🥉 [open-code-review](https://github.com/alibaba/open-code-review) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 56k · Apache-2.0 · Nov 2026</sub>
 
 **Go CLI that reviews Git diffs with an LLM agent and line-level comments.**
 
@@ -92,7 +92,7 @@ React Doctor runs deterministic checks over a React project and reports issues i
 <sub>no GPU · Needs Node.js, npm · [Repo](https://github.com/millionco/react-doctor) · [📖 Docs ↗](https://react.doctor/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/react-doctor/)</sub>
 
 <a name="bend"></a>
-### #&#8288;6 [bend](https://github.com/bendlang/bend) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [bend](https://github.com/bendlang/bend) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · Apache-2.0 · Nov 2026</sub>
 
 **Dependent-typed language where AI-written code must prove rules in LAWS.bend.**
 
@@ -253,7 +253,7 @@ Hunk is an interactive terminal diff viewer built on OpenTUI and Pierre diffs. I
 <sub>no GPU · Needs Git (recommended), Node.js 22+ (npm install only), GH_TOKEN or GITHUB_TOKEN (private repos) · [Repo](https://github.com/modem-dev/hunk) · [📖 Docs ↗](https://hunk.dev/docs/) · [🌐 Site ↗](https://hunk.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hunk/)</sub>
 
 <a name="no-mistakes"></a>
-### #&#8288;15 [no-mistakes](https://github.com/kunchenguid/no-mistakes) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
+### #&#8288;15 [no-mistakes](https://github.com/kunchenguid/no-mistakes) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.3k · MIT · Nov 2026</sub>
 
 **Local git proxy that runs an AI review, test and lint pipeline before opening a PR.**
 
@@ -325,7 +325,7 @@ MockServer mocks, proxies and records HTTP(S) dependencies on a single port, aut
 <sub>no GPU · Docker · Needs Java 17+ (bundled in Docker image) · Models: OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI · port 1080 · [Repo](https://github.com/mock-server/mockserver-monorepo) · [📖 Docs ↗](https://www.mock-server.com/) · [🌐 Site ↗](https://www.mock-server.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mockserver-monorepo/)</sub>
 
 <a name="prek"></a>
-### #&#8288;19 [prek](https://github.com/j178/prek) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
+### #&#8288;19 [prek](https://github.com/j178/prek) <sub>score [82](../README.md#-how-we-rank "Score 82/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.8k · MIT · Nov 2026</sub>
 
 **Rust reimplementation of pre-commit that runs Git hooks from a single binary.**
 
@@ -485,7 +485,7 @@ Super-linter packages linters and formatters for dozens of languages and file ty
 <sub>no GPU · Docker · Needs Docker or other OCI-compatible container runtime · [Repo](https://github.com/super-linter/super-linter) · [🌐 Site ↗](https://github.com/marketplace/actions/super-linter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/super-linter/)</sub>
 
 <a name="testkube"></a>
-### #&#8288;28 [testkube](https://github.com/kubeshop/testkube) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · custom license · Nov 2026</sub>
+### #&#8288;28 [testkube](https://github.com/kubeshop/testkube) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · custom license · Nov 2026</sub>
 
 **Kubernetes-native runner that executes any test tool as a workflow in-cluster.**
 
@@ -521,7 +521,7 @@ SoloPi records and replays UI flows on real Android devices, usually without add
 <sub>Needs adb, Node.js 22.14.0 (Desktop), npm, Python 3.9+, Android device with USB debugging · [Repo](https://github.com/alipay/solopi) · [🌐 Site ↗](https://www.solopi.cn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/solopi/)</sub>
 
 <a name="wemake-python-styleguide"></a>
-### #&#8288;30 [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
+### #&#8288;30 [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: known (41) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
 
 **Strict flake8 plugin that enforces simple, uniform Python and flags complex code.**
 
@@ -647,7 +647,7 @@ git-lrc is a Go CLI that hooks into git commit and sends the staged diff to an A
 <sub>no GPU · Needs LiveReview account (Hexmos sign-in), Gemini API key or other AI provider key, codebase-memory-mcp (optional, auto-installed for risk scoring) · Models: Gemini, OpenAI, Claude, DeepSeek, OpenRouter · [Repo](https://github.com/hexmostech/git-lrc) · [🌐 Site ↗](https://hexmos.com/livereview/git-lrc/pricing/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/git-lrc/)</sub>
 
 <a name="revdiff"></a>
-### #&#8288;37 [revdiff](https://github.com/umputun/revdiff) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 967 · MIT · Nov 2026</sub>
+### #&#8288;37 [revdiff](https://github.com/umputun/revdiff) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 968 · MIT · Nov 2026</sub>
 
 **Terminal diff reviewer that outputs line annotations for AI coding agents.**
 
@@ -736,7 +736,7 @@ codediff.nvim is a Neovim plugin that shows VSCode-style side-by-side or inline 
 <sub>no GPU · Needs Neovim 0.7+ (0.10+ recommended), Git, curl or wget (PowerShell on Windows) · [Repo](https://github.com/esmuellert/codediff.nvim) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codediff-nvim/)</sub>
 
 <a name="deepsec"></a>
-### #&#8288;42 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.5k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;42 [deepsec](https://github.com/vercel-labs/deepsec) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Nov 2026</sub>
 
 **Agent-driven vulnerability scanner for reviewing all code in large existing repos.**
 
@@ -771,26 +771,8 @@ pyscn is a Go CLI that parses Python with tree-sitter and reports dead code, dup
 
 <sub>no GPU · [Repo](https://github.com/ludo-technologies/pyscn) · [📖 Docs ↗](https://docs.codescan.dev/pyscn/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pyscn/)</sub>
 
-<a name="openswarm"></a>
-### #&#8288;44 [openswarm](https://github.com/intrect-io/openswarm) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 869 · MIT · Nov 2026</sub>
-
-**CLI and GitHub Action that reviews, fixes and verifies diffs before a PR.**
-
-OpenSwarm reviews a working-tree or PR diff with an LLM, can fix confirmed findings in isolated sandboxes, re-reviews, and requires repository checks to pass before publishing a PR. It ships a GitHub Action, SARIF output and CI-oriented exit codes. An optional Linear-backed daemon, notifications and per-repo memory sit on top of the gate.
-
-- **+** Exit 1 means reject, exit 2 means the gate did not run
-- **+** Read-only review by default; adapters that cannot enforce it refuse to run
-- **+** Works with Codex, OpenRouter, Ollama, LM Studio or Claude Code
-- **+** Baseline-diff verification in a bubblewrap sandbox ignores pre-existing failures
-- **−** Linux verification needs bubblewrap plus sysctl or seccomp changes in CI and Docker
-- **−** Hosted providers bill per run; the repo's own gate workflow is manual-only
-- **−** Automatic fork PR review needs pull_request_target, which requires careful secret handling
-- **−** Daemon, Linear, TUI and PR autopilot widen the surface beyond the review gate
-
-<sub>GPU optional · Docker + Compose · Needs Node.js 22, bubblewrap (Linux verification), gh CLI, Linear (optional), LLM provider or API key · Models: OpenAI Codex/GPT, OpenRouter models, Atlas Cloud, Ollama, LM Studio · [Repo](https://github.com/intrect-io/openswarm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openswarm/)</sub>
-
 <a name="openqodex"></a>
-### #&#8288;45 [openqodex](https://github.com/openqodex/openqodex) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;44 [openqodex](https://github.com/openqodex/openqodex) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (16) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Local pre-push code review for coding agents, using scanners and model reviewers.**
 
@@ -807,26 +789,26 @@ OpenQodex reviews unpushed commits and uncommitted changes on your machine. It r
 
 <sub>no GPU · Needs Node 22+, git, Claude Code or Codex (logged in), osv.dev (network) · Models: Claude Code, Codex · [Repo](https://github.com/openqodex/openqodex) · [📖 Docs ↗](https://github.com/openqodex/openqodex/blob/main/docs/index.md) · [🌐 Site ↗](https://openqodex.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openqodex/)</sub>
 
-<a name="sourcery"></a>
-### #&#8288;46 [sourcery](https://github.com/sourcery-ai/sourcery) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Sep 2026</sub>
+<a name="openswarm"></a>
+### #&#8288;45 [openswarm](https://github.com/intrect-io/openswarm) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 869 · MIT · Nov 2026</sub>
 
-**Hosted GitHub pull request reviewer with IDE assistant plugins.**
+**CLI and GitHub Action that reviews, fixes and verifies diffs before a PR.**
 
-Sourcery is a GitHub App that reviews pull requests and posts a change summary, high-level feedback and line-by-line comments. It also ships IDE plugins (PyCharm, VS Code, Sublime, Vim) for explaining code, adding tests and docstrings, and suggesting refactors. Reviews run on Sourcery's service using OpenAI and Anthropic models, so PR diffs leave your infrastructure.
+OpenSwarm reviews a working-tree or PR diff with an LLM, can fix confirmed findings in isolated sandboxes, re-reviews, and requires repository checks to pass before publishing a PR. It ships a GitHub Action, SARIF output and CI-oriented exit codes. An optional Linear-backed daemon, notifications and per-repo memory sit on top of the gate.
 
-- **+** Free for public and open-source repositories
-- **+** Each PR gets a summary plus line-level comments
-- **+** Editor plugins for PyCharm, VS Code, Sublime and Vim
-- **+** Install is a GitHub App; no infrastructure to run
-- **−** Hosted service; the README gives no self-hosting option
-- **−** Code diffs are sent to OpenAI and Anthropic
-- **−** Private repos need a paid Team or Pro plan after 14-day trial
-- **−** README states review quality is not yet at colleague level
+- **+** Exit 1 means reject, exit 2 means the gate did not run
+- **+** Read-only review by default; adapters that cannot enforce it refuse to run
+- **+** Works with Codex, OpenRouter, Ollama, LM Studio or Claude Code
+- **+** Baseline-diff verification in a bubblewrap sandbox ignores pre-existing failures
+- **−** Linux verification needs bubblewrap plus sysctl or seccomp changes in CI and Docker
+- **−** Hosted providers bill per run; the repo's own gate workflow is manual-only
+- **−** Automatic fork PR review needs pull_request_target, which requires careful secret handling
+- **−** Daemon, Linear, TUI and PR autopilot widen the surface beyond the review gate
 
-<sub>no GPU · Needs GitHub App, OpenAI API, Anthropic API · Models: OpenAI, Anthropic · [Repo](https://github.com/sourcery-ai/sourcery) · [📖 Docs ↗](https://docs.sourcery.ai/) · [🌐 Site ↗](https://sourcery.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sourcery/)</sub>
+<sub>GPU optional · Docker + Compose · Needs Node.js 22, bubblewrap (Linux verification), gh CLI, Linear (optional), LLM provider or API key · Models: OpenAI Codex/GPT, OpenRouter models, Atlas Cloud, Ollama, LM Studio · [Repo](https://github.com/intrect-io/openswarm) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openswarm/)</sub>
 
 <a name="pre-commit-hooks"></a>
-### #&#8288;47 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (62) · Freshness: recent (76) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
+### #&#8288;46 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: popular (62) · Freshness: recent (76) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
@@ -844,7 +826,7 @@ A set of hooks for pre-commit that run on staged files before a commit. They che
 <sub>no GPU · Needs pre-commit, git, git-lfs (optional, >=2.2.1) · [Repo](https://github.com/pre-commit/pre-commit-hooks) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pre-commit-hooks/)</sub>
 
 <a name="slopo"></a>
-### #&#8288;48 [slopo](https://github.com/rafal-qa/slopo) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 834 · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;47 [slopo](https://github.com/rafal-qa/slopo) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (7) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 834 · AGPL-3.0 · Oct 2026</sub>
 
 **CLI that finds semantically similar code across a codebase using embeddings.**
 
@@ -860,6 +842,24 @@ Slopo indexes source code into function and block units, embeds them with a conf
 - **−** Pull requests are not accepted; AGPL-3.0 license
 
 <sub>GPU optional · Needs uv, Python 3.14, SQLite, git (for review), embedding provider (Jina AI, Voyage AI, Ollama or LiteLLM-supported) · Models: jina-code-embeddings-0.5b, voyage-4-large, jina-embeddings-v2-base-code (Ollama), LiteLLM providers, OpenAI-compatible servers · [Repo](https://github.com/rafal-qa/slopo) · [▶️ Demo ↗](https://slopo.dev/#demo-claude) · [🌐 Site ↗](https://slopo.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/slopo/)</sub>
+
+<a name="sourcery"></a>
+### #&#8288;48 [sourcery](https://github.com/sourcery-ai/sourcery) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Sep 2026</sub>
+
+**Hosted GitHub pull request reviewer with IDE assistant plugins.**
+
+Sourcery is a GitHub App that reviews pull requests and posts a change summary, high-level feedback and line-by-line comments. It also ships IDE plugins (PyCharm, VS Code, Sublime, Vim) for explaining code, adding tests and docstrings, and suggesting refactors. Reviews run on Sourcery's service using OpenAI and Anthropic models, so PR diffs leave your infrastructure.
+
+- **+** Free for public and open-source repositories
+- **+** Each PR gets a summary plus line-level comments
+- **+** Editor plugins for PyCharm, VS Code, Sublime and Vim
+- **+** Install is a GitHub App; no infrastructure to run
+- **−** Hosted service; the README gives no self-hosting option
+- **−** Code diffs are sent to OpenAI and Anthropic
+- **−** Private repos need a paid Team or Pro plan after 14-day trial
+- **−** README states review quality is not yet at colleague level
+
+<sub>no GPU · Needs GitHub App, OpenAI API, Anthropic API · Models: OpenAI, Anthropic · [Repo](https://github.com/sourcery-ai/sourcery) · [📖 Docs ↗](https://docs.sourcery.ai/) · [🌐 Site ↗](https://sourcery.ai/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/sourcery/)</sub>
 
 <a name="truecourse"></a>
 ### #&#8288;49 [truecourse](https://github.com/truecourse-ai/truecourse) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (3) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 537 · MIT · Oct 2026</sub>
@@ -916,7 +916,7 @@ GritQL is a declarative query language and Rust CLI (`grit`) for searching and r
 <sub>no GPU · [Repo](https://github.com/biomejs/gritql) · [▶️ Demo ↗](https://app.grit.io/studio) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gritql/)</sub>
 
 <a name="deepaudit"></a>
-### #&#8288;52 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (64) · Freshness: active (90) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;52 [deepaudit](https://github.com/lintsinghua/deepaudit) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: popular (64) · Freshness: active (90) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.3k · AGPL-3.0 · Nov 2026</sub>
 
 **Multi-agent code security auditor with sandboxed PoC verification of findings.**
 
@@ -1042,7 +1042,7 @@ A GitHub Action that installs and runs Gemini CLI inside workflows. Prebuilt wor
 <sub>no GPU · Needs GitHub Actions, Gemini CLI, Gemini API key or Google Cloud (Vertex AI / Code Assist) · Models: Gemini · [Repo](https://github.com/google-github-actions/run-gemini-cli) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/run-gemini-cli/)</sub>
 
 <a name="shippie"></a>
-### #&#8288;59 [shippie](https://github.com/mattzcarey/shippie) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (38) · Freshness: active (86) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
+### #&#8288;59 [shippie](https://github.com/mattzcarey/shippie) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: known (37) · Freshness: active (86) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Jul 2026</sub>
 
 **Code-review agent that comments on pull requests and staged diffs.**
 
