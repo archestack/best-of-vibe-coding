@@ -69568,7 +69568,7 @@ entries:
       is_template: false
       language: JavaScript
     score: 63
-  - id: framework
+  - id: ai-driven-dev-framework
     repo: ai-driven-dev/framework
     name: ai-driven-dev/framework
     status: listed
@@ -78508,7 +78508,7 @@ entries:
       is_template: false
       language: Python
     score: 34
-  - id: turbo
+  - id: unfoldadmin-turbo
     repo: unfoldadmin/turbo
     name: unfoldadmin/turbo
     status: listed

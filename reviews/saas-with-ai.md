@@ -2813,7 +2813,7 @@ A Next.js 14 App Router template with tRPC, Prisma on Supabase Postgres, NextAut
 
 <sub>TypeScript, openai, anthropic, perplexity, groq · Needs postgres, resend, aws-s3, inngest, model-api-keys · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/kleneway/next-ai-starter) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-starter/)</sub>
 
-<a name="turbo"></a>
+<a name="unfoldadmin-turbo"></a>
 ### #&#8288;158 [unfoldadmin/turbo](https://github.com/unfoldadmin/turbo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (3) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 415 · MIT · Dec 2025</sub>
 
 **Django REST and Next.js monorepo starter with JWT auth and typed API client.**
@@ -2829,6 +2829,6 @@ A monorepo template pairing a Django REST backend with a Next.js frontend. It in
 - **−** New accounts are inactive until a superuser activates them in admin
 - **−** No client-side request examples; tests cover only the backend
 
-<sub>TypeScript · Needs Docker Compose, Django, Django REST framework, Next.js, next-auth, uv, pnpm, Tailwind CSS · [Repo](https://github.com/unfoldadmin/turbo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/turbo/)</sub>
+<sub>TypeScript · Needs Docker Compose, Django, Django REST framework, Next.js, next-auth, uv, pnpm, Tailwind CSS · [Repo](https://github.com/unfoldadmin/turbo) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/unfoldadmin-turbo/)</sub>
 
 <sub>Written from each project README and checked facts; see [how this works](../README.md#-how-this-works). Wrong? [Tell us](https://github.com/archestack/best-of-vibe-coding/issues/new/choose).</sub>
