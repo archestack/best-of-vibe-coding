@@ -701,7 +701,7 @@ coss ui is the Cal.com design system: accessible React components built on Base 
 <sub>TypeScript · Needs Base UI, Tailwind CSS, Next.js, Bun, Turborepo · [Repo](https://github.com/cosscom/ui) · [🌐 Site ↗](https://coss.com/ui) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/cosscom-ui/)</sub>
 
 <a name="spartan"></a>
-### #&#8288;40 [spartan](https://github.com/spartan-ng/spartan) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
+### #&#8288;40 [spartan](https://github.com/spartan-ng/spartan) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · MIT · Nov 2026</sub>
 
 **Accessible Angular UI primitives with copy-paste shadcn-style components.**
 
@@ -719,7 +719,7 @@ Nx monorepo with spartan/ui: headless Angular primitives (brain, on npm) plus sh
 <sub>TypeScript · Needs Node.js, pnpm, Supabase (Postgres), Nx, AnalogJs, Drizzle, tRPC · [Repo](https://github.com/spartan-ng/spartan) · [📖 Docs ↗](https://www.spartan.ng/documentation/introduction) · [🌐 Site ↗](https://www.spartan.ng) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spartan/)</sub>
 
 <a name="cabloy"></a>
-### #&#8288;41 [cabloy](https://github.com/cabloy/cabloy) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 987 · MIT · Nov 2026</sub>
+### #&#8288;41 [cabloy](https://github.com/cabloy/cabloy) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 988 · MIT · Nov 2026</sub>
 
 **Node.js fullstack TypeScript framework pairing Koa backend with Vue frontend.**
 
@@ -755,7 +755,7 @@ Tolgee is a translation management platform positioned as an alternative to Crow
 <sub>TypeScript, DeepL, Google Translate, AWS Translate, Azure Translator · Docker · [Repo](https://github.com/tolgee/tolgee-platform) · [▶️ Demo ↗](https://app.tolgee.io) · [📖 Docs ↗](https://docs.tolgee.io/) · [🌐 Site ↗](https://tolgee.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tolgee-platform/)</sub>
 
 <a name="open-mercato"></a>
-### #&#8288;43 [open-mercato](https://github.com/open-mercato/open-mercato) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (84) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
+### #&#8288;43 [open-mercato](https://github.com/open-mercato/open-mercato) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (34) · Freshness: active (100) · Maintenance: healthy (85) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
 
 **Next.js and PostgreSQL framework with prebuilt CRM, sales and warehouse modules.**
 
@@ -1544,7 +1544,7 @@ An opinionated full-stack JavaScript starter scaffolded with `npx create-sails`,
 <sub>JavaScript · Needs Node.js, Sails, Inertia, Tailwind CSS · [Repo](https://github.com/sailscastshq/boring-stack) · [▶️ Demo ↗](https://stackblitz.com/github/sailscastshq/boring-stack/tree/main/templates/mellow-react) · [📖 Docs ↗](https://docs.sailscasts.com/boring-stack/) · [🌐 Site ↗](https://sailscasts.com/boring) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/boring-stack/)</sub>
 
 <a name="jetstream"></a>
-### #&#8288;87 [jetstream](https://github.com/laravel/jetstream) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (53) · Freshness: active (99) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
+### #&#8288;87 [jetstream](https://github.com/laravel/jetstream) <sub>score [55](../README.md#-how-we-rank "Score 55/100. Adoption: popular (52) · Freshness: active (99) · Maintenance: patchy (30) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
 
 **Laravel starter kit for Laravel 11.x and earlier.**
 

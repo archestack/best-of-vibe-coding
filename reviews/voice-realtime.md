@@ -22,8 +22,25 @@ LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, device
 
 <sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
 
+<a name="voice-ui-kit"></a>
+### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
+
+**React components and templates for Pipecat voice agent frontends.**
+
+pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate.
+
+- **+** Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
+- **+** Daily and SmallWebRTC transports supported
+- **+** Tailwind 4 theme via CSS variables; Storybook included
+- **+** Four example apps: console, components, Tailwind, Vite
+- **−** Library plus examples, not a deployable app; you assemble the page
+- **−** Requires a running Pipecat server exposing /api/offer or a Daily room
+- **−** No auth or persistence
+
+<sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
+
 <a name="jarvis"></a>
-### 🥈 [ethanplusai/jarvis](https://github.com/ethanplusai/jarvis) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
+### 🥉 [ethanplusai/jarvis](https://github.com/ethanplusai/jarvis) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: known (47) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · custom license · Sep 2026</sub>
 
 **Voice interface that brainstorms specs and drives Claude Code sessions on macOS.**
 
@@ -39,23 +56,6 @@ JARVIS is a voice front end for Claude Code on macOS. A long-lived `claude -p` p
 - **−** Spawned runs use --dangerously-skip-permissions by default, with full privileges on your machine
 
 <sub>Python, Claude (Sonnet by default, via Claude Code) · Needs Claude Code CLI 2.1.224+ (logged in), Fish Audio API key, Google Chrome, Python 3.11+, Node.js 18+, Playwright Chromium, OpenSSL (self-signed certs) · env example file · [Repo](https://github.com/ethanplusai/jarvis) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jarvis/)</sub>
-
-<a name="voice-ui-kit"></a>
-### 🥉 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
-
-**React components and templates for Pipecat voice agent frontends.**
-
-pnpm workspace publishing @pipecat-ai/voice-ui-kit: React components (connect button, control bar, voice visualizer, audio controls), hooks, a ConsoleTemplate debug UI and a ThemeProvider on Tailwind 4. Works over the Pipecat Daily or SmallWebRTC transports; examples cover the console template, custom components, Tailwind and Vite. For teams building a browser frontend for a Pipecat bot; the bot is separate.
-
-- **+** Drop-in ConsoleTemplate for testing and benchmarking a Pipecat bot
-- **+** Daily and SmallWebRTC transports supported
-- **+** Tailwind 4 theme via CSS variables; Storybook included
-- **+** Four example apps: console, components, Tailwind, Vite
-- **−** Library plus examples, not a deployable app; you assemble the page
-- **−** Requires a running Pipecat server exposing /api/offer or a Daily room
-- **−** No auth or persistence
-
-<sub>TypeScript · Needs Pipecat bot server, Daily account (optional transport) · [Repo](https://github.com/pipecat-ai/voice-ui-kit) · [📖 Docs ↗](https://voiceuikit.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/voice-ui-kit/)</sub>
 
 <a name="pipecat-examples"></a>
 ### #&#8288;4 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 438 · BSD-2-Clause · Nov 2026</sub>
@@ -76,7 +76,7 @@ Python example apps for Pipecat, an open-source framework for voice and multimod
 <sub>TypeScript, OpenAI, Gemini Live, Deepgram, Cartesia · Needs Python 3.11+, OpenAI, Deepgram, Cartesia, Twilio, Daily · Docker · [Repo](https://github.com/pipecat-ai/pipecat-examples) · [📖 Docs ↗](https://docs.pipecat.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/pipecat-examples/)</sub>
 
 <a name="agent-starter-react"></a>
-### #&#8288;5 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 970 · MIT · Nov 2026</sub>
+### #&#8288;5 [agent-starter-react](https://github.com/livekit-examples/agent-starter-react) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: known (43) · Freshness: active (100) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 971 · MIT · Nov 2026</sub>
 
 **Next.js voice assistant frontend for LiveKit Agents.**
 

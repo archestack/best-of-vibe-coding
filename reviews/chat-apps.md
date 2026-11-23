@@ -181,7 +181,7 @@ Nuxt application built on Nuxt UI components that streams chat responses through
 <sub>Vue, Claude Haiku 5.5, Gemini 3 Flash, GPT-5.6 Luna · Needs Vercel AI Gateway, SQLite / Turso, GitHub OAuth app, NuxtHub Blob · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="bot-on-anything"></a>
-### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (71) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
+### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (71) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
 
 **Python framework connecting LLMs to chat channels like Telegram, Slack, Discord.**
 
