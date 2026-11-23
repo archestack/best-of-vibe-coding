@@ -5447,7 +5447,7 @@ Installs an SEO and GEO audit skill into a project for Claude Code, Codex, Curso
 
 <sub>no GPU · Needs Node.js 18+, curl, awk · Models: Claude Code, OpenAI Codex CLI, Cursor, Gemini CLI, GitHub Copilot · [Repo](https://github.com/umutxyp/seo-promt-master) · [📖 Docs ↗](https://github.com/umutxyp/Seo-Promt-Master/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/seo-promt-master/)</sub>
 
-<a name="framework"></a>
+<a name="ai-driven-dev-framework"></a>
 ### #&#8288;304 [ai-driven-dev/framework](https://github.com/ai-driven-dev/framework) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 572 · MIT · Nov 2026</sub>
 
 **Skill and plugin suite that runs an SDLC workflow inside AI coding tools.**
@@ -5463,7 +5463,7 @@ Nine plugins with 55 skills and 4 agents that cover a delivery flow inside Claud
 - **−** Needs Node 22.12 or later for the setup CLI
 - **−** Quality depends on the host coding tool and the model behind it
 
-<sub>no GPU · Needs Node 22.12+, An AI coding tool (Claude Code, Cursor, Copilot, Codex, OpenCode, Kilo Code or Antigravity CLI) · [Repo](https://github.com/ai-driven-dev/framework) · [📖 Docs ↗](https://github.com/ai-driven-dev/framework/blob/main/docs/INSTALL.md) · [🌐 Site ↗](https://www.ai-driven-dev.fr/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/framework/)</sub>
+<sub>no GPU · Needs Node 22.12+, An AI coding tool (Claude Code, Cursor, Copilot, Codex, OpenCode, Kilo Code or Antigravity CLI) · [Repo](https://github.com/ai-driven-dev/framework) · [📖 Docs ↗](https://github.com/ai-driven-dev/framework/blob/main/docs/INSTALL.md) · [🌐 Site ↗](https://www.ai-driven-dev.fr/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-driven-dev-framework/)</sub>
 
 <a name="genie"></a>
 ### #&#8288;305 [genie](https://github.com/automagik-si/genie) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (2) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 354 · Apache-2.0 · Nov 2026</sub>
