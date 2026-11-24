@@ -129,7 +129,7 @@ open-slide is a TypeScript framework where each slide is a React component on a 
 <sub>TypeScript, Claude Code, Codex · Needs Node.js, Claude Code or Codex CLI (for agent panel) · [Repo](https://github.com/open-slide/open-slide) · [📖 Docs ↗](https://open-slide.dev/docs) · [🌐 Site ↗](https://open-slide.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-slide/)</sub>
 
 <a name="vizro"></a>
-### #&#8288;8 [vizro](https://github.com/mckinsey/vizro) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;8 [vizro](https://github.com/mckinsey/vizro) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · Apache-2.0 · Nov 2026</sub>
 
 **Python toolkit for building Plotly Dash dashboards from YAML, JSON or Pydantic config.**
 
@@ -165,7 +165,7 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
 
 <a name="loopforge"></a>
-### #&#8288;10 [loopforge](https://github.com/tencent/loopforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.8k · custom license · Nov 2026</sub>
+### #&#8288;10 [loopforge](https://github.com/tencent/loopforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · custom license · Nov 2026</sub>
 
 **Runs coding-agent CLIs in sandboxes with repeatable SOP workflows and approvals.**
 
@@ -183,7 +183,7 @@ LoopForge is a self-hosted Go service where a chat bot (Main Bot) opens a Docker
 <sub>Go, CodeBuddy, Codex, Claude Code, OpenCode · Needs Docker, Docker Compose, MySQL, Git, Python 3, curl · Docker · env example file · [Repo](https://github.com/tencent/loopforge) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/loopforge/)</sub>
 
 <a name="raea"></a>
-### #&#8288;11 [raea](https://github.com/shinyobjectz/raea) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · custom license · Nov 2026</sub>
+### #&#8288;11 [raea](https://github.com/shinyobjectz/raea) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · custom license · Nov 2026</sub>
 
 **Render video, 3D and games from React and TypeScript on a local GPU.**
 
@@ -255,7 +255,7 @@ Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Fir
 <sub>Go · Needs Linux with KVM, Firecracker, PostgreSQL, Redis, ClickHouse, Object storage, Docker Compose (Embed) · [Repo](https://github.com/e2b-dev/runtime) · [📖 Docs ↗](https://docs.e2b.dev/) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/runtime/)</sub>
 
 <a name="sandboxd"></a>
-### #&#8288;15 [sandboxd](https://github.com/tastyeffectco/sandboxd) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
+### #&#8288;15 [sandboxd](https://github.com/tastyeffectco/sandboxd) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: niche (14) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Nov 2026</sub>
 
 **Self-hosted engine that runs coding agents in sandboxes with preview URLs.**
 
@@ -362,7 +362,7 @@ MonkeyCode is a web platform where AI agents carry out development tasks inside 
 <sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="openui"></a>
-### #&#8288;21 [wandb/openui](https://github.com/wandb/openui) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (87) · Freshness: recent (80) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Jun 2026</sub>
+### #&#8288;21 [wandb/openui](https://github.com/wandb/openui) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (87) · Freshness: recent (79) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Jun 2026</sub>
 
 **Describe a UI in text, preview it live, and convert it to React or Svelte.**
 
@@ -450,7 +450,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (33) · Freshness: recent (70) · Maintenance: patchy (42) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (33) · Freshness: recent (70) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
@@ -467,7 +467,7 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
 <a name="adorable"></a>
-### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 839 · MIT · Aug 2026</sub>
+### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 838 · MIT · Aug 2026</sub>
 
 **Prompt-to-app builder running agents in persistent Freestyle VMs.**
 
@@ -485,7 +485,7 @@ Adorable is a Next.js app where a chat agent writes and runs code inside a Frees
 <sub>TypeScript, OpenAI, Anthropic · Needs Freestyle VMs (API key), OpenAI or Anthropic API key · [Repo](https://github.com/freestyle-sh/adorable) · [🌐 Site ↗](https://freestyle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adorable/)</sub>
 
 <a name="chef"></a>
-### #&#8288;28 [chef](https://github.com/convex/chef) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (48) · Freshness: slowing (37) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
+### #&#8288;28 [chef](https://github.com/convex/chef) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: known (48) · Freshness: slowing (36) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
 
 **Prompt-to-app builder that generates full-stack web apps on a Convex backend.**
 

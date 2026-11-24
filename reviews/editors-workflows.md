@@ -41,7 +41,7 @@ Penpot is a browser-based design and prototyping platform that stores designs in
 <sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
 
 <a name="plate"></a>
-### 🥉 [plate](https://github.com/udecode/plate) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
+### 🥉 [plate](https://github.com/udecode/plate) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (80) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
 
 **Rich-text editor framework for React built on Slate, with plugins and AI.**
 
@@ -164,7 +164,7 @@ beUI is a library of Framer Motion components for React and Next.js, built with 
 <sub>TypeScript · Needs React, Next.js, Tailwind CSS, Framer Motion, shadcn/ui CLI, Bun (to run the repo locally) · env example file · [Repo](https://github.com/starc007/ui-components) · [📖 Docs ↗](https://beui.dev/docs/ai-agents) · [🌐 Site ↗](https://beui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-components/)</sub>
 
 <a name="andesine"></a>
-### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
+### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
 
 **Collaborative content workspace with structured collections, publishing and an MCP server.**
 
@@ -233,7 +233,7 @@ A Nuxt and Nuxt UI starter that wraps TipTap in a Notion-style WYSIWYG editor wi
 <sub>TypeScript, Any model via Vercel AI Gateway · Needs Vercel AI Gateway (optional), NuxtHub Blob (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;14 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (17) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;14 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (17) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 

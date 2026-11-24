@@ -95,7 +95,7 @@ Python backend with a web frontend that answers questions over your own document
 <sub>Python, Azure OpenAI GPT (gpt-5.4-mini) · Needs Azure OpenAI, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Azure Cosmos DB (optional) · [Repo](https://github.com/azure-samples/azure-search-openai-demo) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template?toc=%2Fazure%2Fdeveloper%2Fai%2Ftoc.json&bc=%2Fazure%2Fdeveloper%2Fai%2Fbreadcrumb%2Ftoc.json&tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo/)</sub>
 
 <a name="qmd"></a>
-### #&#8288;6 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 31k · MIT · Nov 2026</sub>
+### #&#8288;6 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Nov 2026</sub>
 
 **Local hybrid search over markdown notes and docs, with CLI and MCP server.**
 
@@ -398,7 +398,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;23 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (62) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;23 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (61) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -415,7 +415,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="ragbits"></a>
-### #&#8288;24 [ragbits](https://github.com/deepsense-ai/ragbits) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (37) · Freshness: recent (69) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · May 2026</sub>
+### #&#8288;24 [ragbits](https://github.com/deepsense-ai/ragbits) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (37) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · May 2026</sub>
 
 **Modular Python toolkit for LLM prompts, RAG ingestion, agents and chat APIs.**
 
@@ -433,7 +433,7 @@ Ragbits is a set of Python packages for building GenAI apps: typed prompts and L
 <sub>Python, 100+ LLMs via LiteLLM, local models, OpenAI · Needs LiteLLM, Qdrant, PgVector, Ray, Docling, Unstructured, OpenTelemetry, promptfoo · [Repo](https://github.com/deepsense-ai/ragbits) · [📖 Docs ↗](https://ragbits.deepsense.ai) · [🌐 Site ↗](https://deepsense.ai/rd-hub/ragbits/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ragbits/)</sub>
 
 <a name="nano-graphrag"></a>
-### #&#8288;25 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (53) · Freshness: quiet (17) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;25 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (53) · Freshness: quiet (16) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Compact Python GraphRAG library with swappable LLM, vector and graph storage.**
 
@@ -451,7 +451,7 @@ nano-graphrag is a Python library that builds a knowledge graph from text, gener
 <sub>Python, OpenAI, Azure OpenAI, Amazon Bedrock, DeepSeek · Needs OpenAI API key (default), Neo4j (optional) · [Repo](https://github.com/gusye1234/nano-graphrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nano-graphrag/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;26 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (39) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;26 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (39) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
@@ -486,7 +486,7 @@ A C# reference app that answers questions over your own documents using Azure Op
 <sub>C#, gpt-4o-mini, Azure OpenAI embedding model, GPT-4V (optional) · Needs Azure OpenAI Service, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Docker · [Repo](https://github.com/azure-samples/azure-search-openai-demo-csharp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo-csharp/)</sub>
 
 <a name="lightningrag"></a>
-### #&#8288;28 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (11) · Freshness: recent (64) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 455 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;28 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (11) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 456 · Apache-2.0 · Apr 2026</sub>
 
 **Go and Vue RAG platform with knowledge bases, agent canvas and admin UI.**
 
@@ -504,7 +504,7 @@ LightningRAG is a Gin (Go) and Vue full-stack app that parses, chunks and embeds
 <sub>Go, Pluggable LLM, embedding, rerank, speech, TTS, OCR providers (list in server/rag/README.md) · Needs MySQL > 5.7, Redis, PostgreSQL with pgvector or Elasticsearch, Node > 18.16, Go >= 1.22 · Docker · [Repo](https://github.com/lightningrag/lightningrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightningrag/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;29 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (6) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;29 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (6) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 
@@ -521,7 +521,7 @@ A Next.js app where the AI SDK and GPT-4o turn a plain-English question into SQL
 <sub>TypeScript, openai, ai-sdk · Needs postgres, openai-api-key · env example file · [Repo](https://github.com/vercel-labs/natural-language-postgres) · [▶️ Demo ↗](https://natural-language-postgres.vercel.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/natural-language-postgres/)</sub>
 
 <a name="vectordb"></a>
-### #&#8288;30 [vectordb](https://github.com/epsilla-cloud/vectordb) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (22) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 874 · Apache-2.0 · Nov 2025</sub>
+### #&#8288;30 [vectordb](https://github.com/epsilla-cloud/vectordb) <sub>score [6](../README.md#-how-we-rank "Score 6/100. Adoption: niche (21) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 874 · Apache-2.0 · Nov 2025</sub>
 
 **C++ vector database with REST API and Python, JavaScript and Ruby clients.**
 
@@ -539,7 +539,7 @@ Epsilla is a vector database written in C++ that stores vectors as a field type 
 <sub>C++ · [Repo](https://github.com/epsilla-cloud/vectordb) · [📖 Docs ↗](https://epsilla-inc.gitbook.io/epsilladb/) · [🌐 Site ↗](https://cloud.epsilla.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vectordb/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;31 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (0) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 208 · MIT · Dec 2025</sub>
+### #&#8288;31 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [2](../README.md#-how-we-rank "Score 2/100. Adoption: niche (0) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 208 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 
