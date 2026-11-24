@@ -5,7 +5,7 @@ Backend service templates (FastAPI, Express, Hono) that expose models or agents 
 <sub>🌐 Also on the web: [Backend and cloud templates on archestack.com](https://archestack.com/best-of-vibe-coding/cloud-reference/), each project on its own page.</sub>
 
 <a name="trpc"></a>
-### 🥇 [trpc](https://github.com/trpc/trpc) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · MIT · Nov 2026</sub>
+### 🥇 [trpc](https://github.com/trpc/trpc) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (95) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 41k · MIT · Nov 2026</sub>
 
 **TypeScript library for typesafe APIs without schemas or code generation.**
 
@@ -131,7 +131,7 @@ FastAPI service that fetches posts, authors, comments, sounds, hashtags, live ro
 <sub>Python, FunASR ONNX (Paraformer, FSMN-VAD, CT-Transformer) · Needs PostgreSQL, Redis, CloakBrowser (headless, container), FunASR ONNX models (optional) · Docker · env example file · [Repo](https://github.com/evil0ctal/douyin_tiktok_download_api) · [▶️ Demo ↗](https://demo.douyin.wtf) · [📖 Docs ↗](https://douyin.wtf) · [🌐 Site ↗](https://douyin.wtf) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/douyin-tiktok-download-api/)</sub>
 
 <a name="vapor"></a>
-### #&#8288;8 [vapor](https://github.com/vapor/vapor) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · MIT · Nov 2026</sub>
+### #&#8288;8 [vapor](https://github.com/vapor/vapor) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: widely used (89) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · MIT · Nov 2026</sub>
 
 **HTTP web framework for building APIs and websites in Swift.**
 
@@ -148,8 +148,26 @@ Vapor is a server-side HTTP web framework written in Swift, aimed at websites, A
 
 <sub>Swift · Needs Swift 6.0+ · [Repo](https://github.com/vapor/vapor) · [📖 Docs ↗](https://docs.vapor.codes/4.0/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vapor/)</sub>
 
+<a name="goa"></a>
+### #&#8288;9 [goa](https://github.com/goadesign/goa) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
+
+**Design-first Go framework that generates HTTP, gRPC and JSON-RPC services.**
+
+Goa takes a service contract written in a Go DSL and generates server and client code, request validation, CLI clients, OpenAPI specs and protobuf definitions for HTTP, gRPC and JSON-RPC. You implement the generated service interface in plain Go. The repo also ships a coding-agent skill, and a companion project, Goa-AI, covers agents and MCP servers.
+
+- **+** One design generates HTTP, gRPC and JSON-RPC transports plus Go clients and a CLI
+- **+** Emits OpenAPI and Protocol Buffer definitions from the same contract
+- **+** Supports streaming over WebSocket, SSE and gRPC streams
+- **+** Generated interfaces let the Go compiler flag code needing updates after a design change
+- **−** Requires Go 1.27.3 or later as of v3.35.0
+- **−** gRPC output needs protoc and Go protobuf generators installed
+- **−** Upgrading from v3.30.x involves intentional source and transport changes
+- **−** Go only; the contract is written in a Go DSL
+
+<sub>Go · Needs Go 1.27.3+, protoc (for gRPC and JSON-RPC example) · [Repo](https://github.com/goadesign/goa) · [📖 Docs ↗](https://goa.design/docs/1-goa/) · [🌐 Site ↗](https://goa.design) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goa/)</sub>
+
 <a name="hono"></a>
-### #&#8288;9 [hono](https://github.com/honojs/hono) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
+### #&#8288;10 [hono](https://github.com/honojs/hono) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (92) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 33k · MIT · Nov 2026</sub>
 
 **TypeScript web framework for Workers, Deno, Bun and Node.js.**
 
@@ -166,7 +184,7 @@ Hono is a web framework built on Web Standard APIs, with no dependencies. The sa
 <sub>TypeScript · [Repo](https://github.com/honojs/hono) · [📖 Docs ↗](https://hono.dev) · [🌐 Site ↗](https://hono.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hono/)</sub>
 
 <a name="gf"></a>
-### #&#8288;10 [gf](https://github.com/gogf/gf) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
+### #&#8288;11 [gf](https://github.com/gogf/gf) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (80) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · MIT · Nov 2026</sub>
 
 **Modular Go application framework with an HTTP server and CLI scaffolding.**
 
@@ -184,7 +202,7 @@ GoFrame is a general-purpose Go framework that can be used as a full application
 <sub>Go · Needs Go 1.25+ · [Repo](https://github.com/gogf/gf) · [📖 Docs ↗](https://goframe.org/en) · [🌐 Site ↗](https://goframe.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gf/)</sub>
 
 <a name="aws-cdk"></a>
-### #&#8288;11 [aws-cdk](https://github.com/aws/aws-cdk) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;12 [aws-cdk](https://github.com/aws/aws-cdk) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (79) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 13k · Apache-2.0 · Nov 2026</sub>
 
 **Define AWS infrastructure in code and deploy it through CloudFormation.**
 
@@ -200,24 +218,6 @@ AWS CDK is a framework for defining AWS resources as constructs in TypeScript, J
 - **−** Collects anonymous telemetry; opt-out is documented separately
 
 <sub>TypeScript · Needs AWS account, AWS CloudFormation, Node.js >= 20 · [Repo](https://github.com/aws/aws-cdk) · [📖 Docs ↗](https://docs.aws.amazon.com/cdk/latest/guide) · [🌐 Site ↗](https://constructs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aws-cdk/)</sub>
-
-<a name="goa"></a>
-### #&#8288;12 [goa](https://github.com/goadesign/goa) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
-
-**Design-first Go framework that generates HTTP, gRPC and JSON-RPC services.**
-
-Goa takes a service contract written in a Go DSL and generates server and client code, request validation, CLI clients, OpenAPI specs and protobuf definitions for HTTP, gRPC and JSON-RPC. You implement the generated service interface in plain Go. The repo also ships a coding-agent skill, and a companion project, Goa-AI, covers agents and MCP servers.
-
-- **+** One design generates HTTP, gRPC and JSON-RPC transports plus Go clients and a CLI
-- **+** Emits OpenAPI and Protocol Buffer definitions from the same contract
-- **+** Supports streaming over WebSocket, SSE and gRPC streams
-- **+** Generated interfaces let the Go compiler flag code needing updates after a design change
-- **−** Requires Go 1.27.3 or later as of v3.35.0
-- **−** gRPC output needs protoc and Go protobuf generators installed
-- **−** Upgrading from v3.30.x involves intentional source and transport changes
-- **−** Go only; the contract is written in a Go DSL
-
-<sub>Go · Needs Go 1.27.3+, protoc (for gRPC and JSON-RPC example) · [Repo](https://github.com/goadesign/goa) · [📖 Docs ↗](https://goa.design/docs/1-goa/) · [🌐 Site ↗](https://goa.design) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/goa/)</sub>
 
 <a name="django-rest-framework"></a>
 ### #&#8288;13 [django-rest-framework](https://github.com/encode/django-rest-framework) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 30k · custom license · Nov 2026</sub>
@@ -382,7 +382,7 @@ The AWS SAM transform is a CloudFormation macro, enabled with `Transform: AWS::S
 <sub>Python · Needs AWS CloudFormation, AWS SAM CLI, AWS Lambda · [Repo](https://github.com/aws/serverless-application-model) · [📖 Docs ↗](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html) · [🌐 Site ↗](https://aws.amazon.com/serverless/sam/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-application-model/)</sub>
 
 <a name="oapi-codegen"></a>
-### #&#8288;22 [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.7k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;22 [oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.7k · Apache-2.0 · Nov 2026</sub>
 
 **Go code generator that turns OpenAPI specs into servers, clients and types.**
 
@@ -418,7 +418,7 @@ Play is a JVM web framework for building REST-style web and mobile backends in J
 <sub>Scala · Needs JVM, Java or Scala build tool · [Repo](https://github.com/playframework/playframework) · [📖 Docs ↗](https://www.playframework.com/documentation/latest/Installing) · [🌐 Site ↗](https://www.playframework.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/playframework/)</sub>
 
 <a name="powertools-lambda-python"></a>
-### #&#8288;24 [powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT-0 · Nov 2026</sub>
+### #&#8288;24 [powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.3k · MIT-0 · Nov 2026</sub>
 
 **Python toolkit for AWS Lambda: logging, tracing, metrics, event handlers, idempotency.**
 
@@ -436,7 +436,7 @@ A Python library of independent utilities for AWS Lambda functions. It covers st
 <sub>Python · Needs AWS Lambda, AWS X-Ray, CloudWatch, DynamoDB, Redis or Valkey (optional, idempotency), AWS KMS (optional, data masking) · [Repo](https://github.com/aws-powertools/powertools-lambda-python) · [📖 Docs ↗](https://docs.powertools.aws.dev/lambda/python/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/powertools-lambda-python/)</sub>
 
 <a name="chi"></a>
-### #&#8288;25 [chi](https://github.com/go-chi/chi) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
+### #&#8288;25 [chi](https://github.com/go-chi/chi) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: widely used (87) · Freshness: active (100) · Maintenance: fair (68) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · MIT · Nov 2026</sub>
 
 **Composable HTTP router for Go REST services, built on net/http.**
 
@@ -453,8 +453,26 @@ chi is a Go router built on a Patricia radix trie, with a core under 1000 LOC an
 
 <sub>Go · [Repo](https://github.com/go-chi/chi) · [📖 Docs ↗](https://pkg.go.dev/github.com/go-chi/chi/v5) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chi/)</sub>
 
+<a name="javalin"></a>
+### #&#8288;26 [javalin](https://github.com/javalin/javalin) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
+
+**Lightweight web framework for Java and Kotlin with WebSockets and HTTP/2.**
+
+Javalin is a web library for Java and Kotlin that handles HTTP routing, WebSockets, HTTP/2, async requests, static files, JSON mapping and file uploads. It avoids annotations, reflection and base classes to extend, so handlers are plain lambdas registered on a config object. It has no AI features; it fits this list only as a generic backend service base, with plugins for OpenAPI and SSL.
+
+- **+** No annotations, reflection or required base classes; handlers are plain lambdas
+- **+** Same API in Java and Kotlin, with examples for both
+- **+** Built-in WebSockets, static files, JSON mapping and file uploads
+- **+** Plugin system, including OpenAPI 3.0 generation and SSL (PEM, PKCS12, JKS)
+- **−** No AI, model or agent integration; only a generic HTTP backend
+- **−** Not a template: no auth, database or billing wired in
+- **−** OpenAPI support is a separate plugin that relies on annotations
+- **−** Dependency, JSON mapper and database choices are left to you
+
+<sub>Kotlin · Needs JVM (Java or Kotlin), Maven or Gradle · [Repo](https://github.com/javalin/javalin) · [📖 Docs ↗](https://javalin.io/documentation) · [🌐 Site ↗](https://javalin.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/javalin/)</sub>
+
 <a name="gqlgen"></a>
-### #&#8288;26 [gqlgen](https://github.com/99designs/gqlgen) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
+### #&#8288;27 [gqlgen](https://github.com/99designs/gqlgen) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · MIT · Oct 2026</sub>
 
 **Schema-first GraphQL server generator for Go with typed resolvers.**
 
@@ -470,24 +488,6 @@ gqlgen is a Go library and code generator that reads a GraphQL schema (SDL) and 
 - **−** Nested fields need custom models or explicit resolvers to avoid over-fetching
 
 <sub>Go · Needs Go toolchain · [Repo](https://github.com/99designs/gqlgen) · [📖 Docs ↗](https://gqlgen.com/getting-started/) · [🌐 Site ↗](https://gqlgen.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gqlgen/)</sub>
-
-<a name="flask"></a>
-### #&#8288;27 [flask](https://github.com/pallets/flask) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: widely used (98) · Freshness: active (92) · Maintenance: fair (55) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · BSD-3-Clause · Oct 2026</sub>
-
-**Minimal Python WSGI web framework built on Werkzeug and Jinja.**
-
-Flask is a Python web framework that runs on WSGI and wraps Werkzeug for routing and Jinja for templating. It does not enforce dependencies or project layout, so you pick your own database, auth and AI libraries, with community extensions for more. It has no AI features of its own and is only a base for an API or web backend.
-
-- **+** Small core with no enforced dependencies or project layout
-- **+** Built on Werkzeug and Jinja, with a large community extension set
-- **+** A working app is one decorated function; `flask run` serves it locally
-- **+** BSD-3-Clause license with an active release and commit history
-- **−** No built-in AI, model, or agent integration; you wire in every library
-- **−** WSGI only per the README, so async and streaming need extra setup
-- **−** No bundled auth, database layer or billing; each needs an extension
-- **−** No Docker or compose files in the repo
-
-<sub>Python · Needs Werkzeug, Jinja · [Repo](https://github.com/pallets/flask) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flask/)</sub>
 
 <a name="go-clean-template"></a>
 ### #&#8288;28 [go-clean-template](https://github.com/evrone/go-clean-template) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (66) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.7k · MIT · Nov 2026</sub>
@@ -507,8 +507,26 @@ A Go service template that shows how to layer a microservice with Clean Architec
 
 <sub>Go · Needs PostgreSQL, RabbitMQ, NATS, Jaeger (optional) · GitHub template · Docker · env example file · [Repo](https://github.com/evrone/go-clean-template) · [🌐 Site ↗](https://evrone.com/go-clean-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-clean-template/)</sub>
 
+<a name="flask"></a>
+### #&#8288;29 [flask](https://github.com/pallets/flask) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (98) · Freshness: active (92) · Maintenance: fair (55) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · BSD-3-Clause · Oct 2026</sub>
+
+**Minimal Python WSGI web framework built on Werkzeug and Jinja.**
+
+Flask is a Python web framework that runs on WSGI and wraps Werkzeug for routing and Jinja for templating. It does not enforce dependencies or project layout, so you pick your own database, auth and AI libraries, with community extensions for more. It has no AI features of its own and is only a base for an API or web backend.
+
+- **+** Small core with no enforced dependencies or project layout
+- **+** Built on Werkzeug and Jinja, with a large community extension set
+- **+** A working app is one decorated function; `flask run` serves it locally
+- **+** BSD-3-Clause license with an active release and commit history
+- **−** No built-in AI, model, or agent integration; you wire in every library
+- **−** WSGI only per the README, so async and streaming need extra setup
+- **−** No bundled auth, database layer or billing; each needs an extension
+- **−** No Docker or compose files in the repo
+
+<sub>Python · Needs Werkzeug, Jinja · [Repo](https://github.com/pallets/flask) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flask/)</sub>
+
 <a name="iris"></a>
-### #&#8288;29 [iris](https://github.com/kataras/iris) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · BSD-3-Clause · Nov 2026</sub>
+### #&#8288;30 [iris](https://github.com/kataras/iris) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: widely used (88) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 26k · BSD-3-Clause · Nov 2026</sub>
 
 **Go web framework with typed routing, dependency injection and built-in middleware.**
 
@@ -526,7 +544,7 @@ Iris is a Go web framework for building APIs and websites. Version 14 uses gener
 <sub>Go · Needs Go · [Repo](https://github.com/kataras/iris) · [📖 Docs ↗](https://pkg.go.dev/github.com/kataras/iris/v14@v14.0.1) · [🌐 Site ↗](https://iris-go.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/iris/)</sub>
 
 <a name="functions-samples"></a>
-### #&#8288;30 [functions-samples](https://github.com/firebase/functions-samples) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;31 [functions-samples](https://github.com/firebase/functions-samples) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (77) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 12k · Apache-2.0 · Oct 2026</sub>
 
 **Official Cloud Functions for Firebase samples for each trigger type and use case.**
 
@@ -543,8 +561,26 @@ Google's collection of Cloud Functions for Firebase samples in Node (1st and 2nd
 
 <sub>JavaScript · Needs Firebase project (Blaze plan) · [Repo](https://github.com/firebase/functions-samples) · [📖 Docs ↗](https://firebase.google.com/docs/functions) · [🌐 Site ↗](https://firebase.google.com/features/functions) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/functions-samples/)</sub>
 
+<a name="go-openai"></a>
+### #&#8288;32 [go-openai](https://github.com/sashabaranov/go-openai) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Nov 2026</sub>
+
+**Unofficial Go client library for the OpenAI API.**
+
+A Go module that wraps the OpenAI API: Responses (with streaming and previous-response chaining), Chat Completions, embeddings, images, audio, moderation, files, fine-tuning, batches and vector stores. The base URL is configurable for compatible endpoints, and there is a default Azure OpenAI config. It is a library to import into Go services, not a runnable app.
+
+- **+** Covers Responses, Chat Completions, embeddings, images, audio, moderation, files, fine-tuning and batches
+- **+** Model IDs accepted as strings, so new models work before constants are added
+- **+** Configurable BaseURL and DefaultAzureConfig for compatible endpoints and Azure OpenAI
+- **+** Runnable examples for Responses, tools, images and speech to text
+- **−** Library only: no server, UI or agent loop included
+- **−** Unofficial, so it can lag behind OpenAI API changes
+- **−** Assistants API support is described as legacy
+- **−** Targets the OpenAI API shape; other providers only work through compatible endpoints
+
+<sub>Go, OpenAI GPT-6 and GPT-5 series, GPT-4o, OpenAI-compatible endpoints, Azure OpenAI · Needs OpenAI API key, Go 1.18+ · [Repo](https://github.com/sashabaranov/go-openai) · [📖 Docs ↗](https://pkg.go.dev/github.com/sashabaranov/go-openai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-openai/)</sub>
+
 <a name="full-stack-ai-agent-template"></a>
-### #&#8288;31 [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;33 [full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **Project generator for FastAPI and Next.js apps with agents and RAG.**
 
@@ -561,26 +597,8 @@ CLI (pip install fastapi-fullstack) scaffolding a FastAPI backend and Next.js fr
 
 <sub>Python, Pydantic AI, Pydantic Deep Agents, LangChain, LangGraph · Needs PostgreSQL, Redis (optional), Milvus, Qdrant, pgvector or ChromaDB (RAG), Stripe (billing), LLM provider API key · [Repo](https://github.com/vstorm-co/full-stack-ai-agent-template) · [📖 Docs ↗](https://vstorm-co.github.io/full-stack-ai-agent-template/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/full-stack-ai-agent-template/)</sub>
 
-<a name="javalin"></a>
-### #&#8288;32 [javalin](https://github.com/javalin/javalin) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.4k · Apache-2.0 · Nov 2026</sub>
-
-**Lightweight web framework for Java and Kotlin with WebSockets and HTTP/2.**
-
-Javalin is a web library for Java and Kotlin that handles HTTP routing, WebSockets, HTTP/2, async requests, static files, JSON mapping and file uploads. It avoids annotations, reflection and base classes to extend, so handlers are plain lambdas registered on a config object. It has no AI features; it fits this list only as a generic backend service base, with plugins for OpenAPI and SSL.
-
-- **+** No annotations, reflection or required base classes; handlers are plain lambdas
-- **+** Same API in Java and Kotlin, with examples for both
-- **+** Built-in WebSockets, static files, JSON mapping and file uploads
-- **+** Plugin system, including OpenAPI 3.0 generation and SSL (PEM, PKCS12, JKS)
-- **−** No AI, model or agent integration; only a generic HTTP backend
-- **−** Not a template: no auth, database or billing wired in
-- **−** OpenAPI support is a separate plugin that relies on annotations
-- **−** Dependency, JSON mapper and database choices are left to you
-
-<sub>Kotlin · Needs JVM (Java or Kotlin), Maven or Gradle · [Repo](https://github.com/javalin/javalin) · [📖 Docs ↗](https://javalin.io/documentation) · [🌐 Site ↗](https://javalin.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/javalin/)</sub>
-
 <a name="huma"></a>
-### #&#8288;33 [huma](https://github.com/danielgtaylor/huma) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
+### #&#8288;34 [huma](https://github.com/danielgtaylor/huma) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (51) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
 **Go framework for REST/RPC APIs built from typed handlers and OpenAPI 3.1.**
 
@@ -598,7 +616,7 @@ Huma is a Go micro framework that runs on a router you choose (chi, the Go 1.22+
 <sub>Go · Needs Go 1.26+, Go HTTP router such as chi (optional) · [Repo](https://github.com/danielgtaylor/huma) · [📖 Docs ↗](https://pkg.go.dev/github.com/danielgtaylor/huma/v2) · [🌐 Site ↗](https://huma.rocks/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/huma/)</sub>
 
 <a name="kemal"></a>
-### #&#8288;34 [kemal](https://github.com/kemalcr/kemal) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
+### #&#8288;35 [kemal](https://github.com/kemalcr/kemal) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (47) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · MIT · Nov 2026</sub>
 
 **Sinatra-style web framework for Crystal with routing, WebSockets and JSON.**
 
@@ -616,7 +634,7 @@ Kemal is a web framework for the Crystal language with a Sinatra-like routing DS
 <sub>Crystal · Needs Crystal 1.19+ · [Repo](https://github.com/kemalcr/kemal) · [📖 Docs ↗](http://kemalcr.com/guide/) · [🌐 Site ↗](http://kemalcr.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kemal/)</sub>
 
 <a name="api-platform-core"></a>
-### #&#8288;35 [api-platform/core](https://github.com/api-platform/core) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;36 [api-platform/core](https://github.com/api-platform/core) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (35) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **PHP library for building hypermedia REST and GraphQL APIs on Symfony.**
 
@@ -632,24 +650,6 @@ API Platform Core is a PHP library that builds REST and GraphQL APIs from resour
 - **−** A library to add to a project, not a forkable starter
 
 <sub>PHP · Needs PHP, Symfony (optional, via bundle) · [Repo](https://github.com/api-platform/core) · [📖 Docs ↗](https://api-platform.com/docs/core) · [🌐 Site ↗](https://api-platform.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/api-platform-core/)</sub>
-
-<a name="go-openai"></a>
-### #&#8288;36 [go-openai](https://github.com/sashabaranov/go-openai) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Sep 2026</sub>
-
-**Unofficial Go client library for the OpenAI API.**
-
-A Go module that wraps the OpenAI API: Responses (with streaming and previous-response chaining), Chat Completions, embeddings, images, audio, moderation, files, fine-tuning, batches and vector stores. The base URL is configurable for compatible endpoints, and there is a default Azure OpenAI config. It is a library to import into Go services, not a runnable app.
-
-- **+** Covers Responses, Chat Completions, embeddings, images, audio, moderation, files, fine-tuning and batches
-- **+** Model IDs accepted as strings, so new models work before constants are added
-- **+** Configurable BaseURL and DefaultAzureConfig for compatible endpoints and Azure OpenAI
-- **+** Runnable examples for Responses, tools, images and speech to text
-- **−** Library only: no server, UI or agent loop included
-- **−** Unofficial, so it can lag behind OpenAI API changes
-- **−** Assistants API support is described as legacy
-- **−** Targets the OpenAI API shape; other providers only work through compatible endpoints
-
-<sub>Go, OpenAI GPT-6 and GPT-5 series, GPT-4o, OpenAI-compatible endpoints, Azure OpenAI · Needs OpenAI API key, Go 1.18+ · [Repo](https://github.com/sashabaranov/go-openai) · [📖 Docs ↗](https://pkg.go.dev/github.com/sashabaranov/go-openai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-openai/)</sub>
 
 <a name="podinfo"></a>
 ### #&#8288;37 [podinfo](https://github.com/stefanprodan/podinfo) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (59) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · Apache-2.0 · Nov 2026</sub>
@@ -864,26 +864,8 @@ userver is a C++ framework for writing asynchronous services. Blocking I/O suspe
 
 <sub>C++ · Needs PostgreSQL (optional), MongoDB (optional), Redis/Valkey (optional), ClickHouse (optional), Kafka (optional) · [Repo](https://github.com/userver-framework/userver) · [📖 Docs ↗](https://userver.tech/de/d6a/md_en_2index.html) · [🌐 Site ↗](https://userver.tech/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/userver/)</sub>
 
-<a name="quart"></a>
-### #&#8288;49 [quart](https://github.com/pallets/quart) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Sep 2026</sub>
-
-**Async Python web framework, a Flask reimplementation on asyncio.**
-
-Quart is an asyncio reimplementation of Flask for rendering templates, serving JSON APIs and WebSockets, and streaming request and response bodies. It keeps Flask's API, so migrating is mostly renaming imports from flask to quart and adding async and await. It is a general web framework with no AI-specific features.
-
-- **+** Flask-compatible API; migration is mostly find-and-replace plus async/await
-- **+** Native WebSocket and streaming request/response support
-- **+** Several Flask extensions work with Quart, plus its own extension ecosystem
-- **+** Installs with pip; `quart run` starts a dev server on port 5000
-- **−** No built-in AI, model or agent integration; you wire that yourself
-- **−** Dev server is not for production; deployment needs a separate setup
-- **−** Only some Flask extensions work, so compatibility needs checking per extension
-- **−** No auth, database or billing scaffolding included
-
-<sub>Python · [Repo](https://github.com/pallets/quart) · [📖 Docs ↗](https://quart.palletsprojects.com/en/latest/tutorials/deployment.html) · [🌐 Site ↗](https://quart.palletsprojects.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/quart/)</sub>
-
 <a name="chalice"></a>
-### #&#8288;50 [chalice](https://github.com/aws/chalice) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;49 [chalice](https://github.com/aws/chalice) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: popular (76) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · Apache-2.0 · Oct 2026</sub>
 
 **Python framework for writing and deploying AWS Lambda apps with decorators.**
 
@@ -900,26 +882,26 @@ Chalice is a Python framework and CLI for building serverless apps on AWS Lambda
 
 <sub>Python · Needs AWS account and credentials, AWS Lambda, Amazon API Gateway, Python 3.10+ · [Repo](https://github.com/aws/chalice) · [📖 Docs ↗](https://aws.github.io/chalice/) · [🌐 Site ↗](https://aws.github.io/chalice/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chalice/)</sub>
 
-<a name="deepkit"></a>
-### #&#8288;51 [deepkit](https://github.com/marcj/deepkit) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · MIT · Nov 2026</sub>
+<a name="quart"></a>
+### #&#8288;50 [quart](https://github.com/pallets/quart) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (45) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · MIT · Sep 2026</sub>
 
-**TypeScript framework with runtime types for validation, ORM, HTTP and RPC.**
+**Async Python web framework, a Flask reimplementation on asyncio.**
 
-Deepkit preserves TypeScript types at runtime through a compiler plugin, so one type definition drives validation, serialization, database mapping, HTTP routing, RPC and dependency injection. It ships as 40+ npm packages, including an ORM for PostgreSQL, MySQL, SQLite and MongoDB, and a binary RPC over WebSocket/TCP. It is a general backend framework with no AI features.
+Quart is an asyncio reimplementation of Flask for rendering templates, serving JSON APIs and WebSockets, and streaming request and response bodies. It keeps Flask's API, so migrating is mostly renaming imports from flask to quart and adding async and await. It is a general web framework with no AI-specific features.
 
-- **+** One type definition serves validation, serialization, ORM, HTTP and DI, with no schema duplication
-- **+** Modular: 40+ independent packages, so the HTTP router or injector can be used alone
-- **+** ORM supports PostgreSQL, MySQL, SQLite and MongoDB
-- **+** Quick start via npm init @deepkit/app@latest
-- **−** Depends on a type-compiler transformer; contributors must run a postinstall step to build it
-- **−** No AI or LLM features; it is a general backend framework, not an AI starter
-- **−** Some integrations (OpenAPI, GraphQL, Remix, Stripe) are community packages outside this repo
-- **−** Bundlers like Webpack and Nx need separate setups to apply the type compiler
+- **+** Flask-compatible API; migration is mostly find-and-replace plus async/await
+- **+** Native WebSocket and streaming request/response support
+- **+** Several Flask extensions work with Quart, plus its own extension ecosystem
+- **+** Installs with pip; `quart run` starts a dev server on port 5000
+- **−** No built-in AI, model or agent integration; you wire that yourself
+- **−** Dev server is not for production; deployment needs a separate setup
+- **−** Only some Flask extensions work, so compatibility needs checking per extension
+- **−** No auth, database or billing scaffolding included
 
-<sub>TypeScript · Needs Node.js, PostgreSQL, MySQL, SQLite or MongoDB (optional) · Docker · [Repo](https://github.com/marcj/deepkit) · [📖 Docs ↗](https://deepkit.io/documentation/introduction) · [🌐 Site ↗](https://deepkit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepkit/)</sub>
+<sub>Python · [Repo](https://github.com/pallets/quart) · [📖 Docs ↗](https://quart.palletsprojects.com/en/latest/tutorials/deployment.html) · [🌐 Site ↗](https://quart.palletsprojects.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/quart/)</sub>
 
 <a name="amber"></a>
-### #&#8288;52 [amber](https://github.com/amberframework/amber) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;51 [amber](https://github.com/amberframework/amber) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **Rails- and Phoenix-inspired web framework for the Crystal language.**
 
@@ -937,7 +919,7 @@ Amber is a server-side web application framework written in Crystal, modeled on 
 <sub>Crystal · Needs Crystal, libreadline, libsqlite3, libpq, libmysqlclient, libssl, libyaml, libpcre3, libevent · Docker · [Repo](https://github.com/amberframework/amber) · [🌐 Site ↗](https://amberframework.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/amber/)</sub>
 
 <a name="dropwizard"></a>
-### #&#8288;53 [dropwizard](https://github.com/dropwizard/dropwizard) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;52 [dropwizard](https://github.com/dropwizard/dropwizard) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: patchy (47) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.6k · Apache-2.0 · Nov 2026</sub>
 
 **Java framework bundling Jetty, Jersey and Jackson for REST services.**
 
@@ -953,6 +935,24 @@ Dropwizard is a Java library that wires Jetty, Jersey, Jackson, Logback, Hiberna
 - **−** No Docker image or compose file in the repository
 
 <sub>Java · Needs Java · [Repo](https://github.com/dropwizard/dropwizard) · [📖 Docs ↗](https://www.dropwizard.io/en/stable/) · [🌐 Site ↗](http://www.dropwizard.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/dropwizard/)</sub>
+
+<a name="deepkit"></a>
+### #&#8288;53 [deepkit](https://github.com/marcj/deepkit) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (44) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · MIT · Nov 2026</sub>
+
+**TypeScript framework with runtime types for validation, ORM, HTTP and RPC.**
+
+Deepkit preserves TypeScript types at runtime through a compiler plugin, so one type definition drives validation, serialization, database mapping, HTTP routing, RPC and dependency injection. It ships as 40+ npm packages, including an ORM for PostgreSQL, MySQL, SQLite and MongoDB, and a binary RPC over WebSocket/TCP. It is a general backend framework with no AI features.
+
+- **+** One type definition serves validation, serialization, ORM, HTTP and DI, with no schema duplication
+- **+** Modular: 40+ independent packages, so the HTTP router or injector can be used alone
+- **+** ORM supports PostgreSQL, MySQL, SQLite and MongoDB
+- **+** Quick start via npm init @deepkit/app@latest
+- **−** Depends on a type-compiler transformer; contributors must run a postinstall step to build it
+- **−** No AI or LLM features; it is a general backend framework, not an AI starter
+- **−** Some integrations (OpenAPI, GraphQL, Remix, Stripe) are community packages outside this repo
+- **−** Bundlers like Webpack and Nx need separate setups to apply the type compiler
+
+<sub>TypeScript · Needs Node.js, PostgreSQL, MySQL, SQLite or MongoDB (optional) · Docker · [Repo](https://github.com/marcj/deepkit) · [📖 Docs ↗](https://deepkit.io/documentation/introduction) · [🌐 Site ↗](https://deepkit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deepkit/)</sub>
 
 <a name="typescript-express-starter"></a>
 ### #&#8288;54 [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.9k · MIT · Oct 2026</sub>
@@ -1045,7 +1045,7 @@ A Java monorepo on Spring Boot 4.1.2, Spring Cloud Alibaba and JDK 25, built wit
 <sub>Java · Needs JDK 25, Gradle 9.8.2, Nacos, MySQL, Redis, RocketMQ, Kafka, Elasticsearch · [Repo](https://github.com/shuigedeng/taotao-cloud-project) · [📖 Docs ↗](https://docs.taotaocloud.top) · [🌐 Site ↗](https://start.taotaocloud.top/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/taotao-cloud-project/)</sub>
 
 <a name="pyramid"></a>
-### #&#8288;59 [pyramid](https://github.com/pylons/pyramid) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (48) · Freshness: active (100) · Maintenance: patchy (44) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · custom license · Nov 2026</sub>
+### #&#8288;59 [pyramid](https://github.com/pylons/pyramid) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: known (48) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · custom license · Nov 2026</sub>
 
 **Small Python WSGI web framework with explicit route and view configuration.**
 
@@ -1189,7 +1189,7 @@ NestJS 12 and TypeScript API starter using Prisma on MongoDB (replica set requir
 <sub>TypeScript · Needs MongoDB 8+ (replica set), Redis 8+, Node.js >= 24.15.0, pnpm, AWS S3, AWS SES, Firebase FCM, Sentry (optional), HashiCorp Vault (optional) · GitHub template · env example file · sign-in: Passport · [Repo](https://github.com/andrechristikan/ack-nestjs-boilerplate) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ack-nestjs-boilerplate/)</sub>
 
 <a name="genlayer-project-boilerplate"></a>
-### #&#8288;67 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: widely used (83) · Freshness: recent (67) · Maintenance: weak (18) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
+### #&#8288;67 [genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: widely used (83) · Freshness: recent (66) · Maintenance: weak (18) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · MIT · Jun 2026</sub>
 
 **GenLayer starter with a Python betting contract, tests, and Next.js frontend.**
 
@@ -1224,26 +1224,8 @@ Aggregate Maven project for Spring Cloud microservices, with base apps for user,
 
 <sub>Needs Nacos, RabbitMQ, Sentinel, Maven, SQL database (type unknown) · [Repo](https://github.com/zhoutaoo/springcloud) · [📖 Docs ↗](https://opensabre.github.io/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/springcloud/)</sub>
 
-<a name="wild-workouts-go-ddd-example"></a>
-### #&#8288;69 [wild-workouts-go-ddd-example](https://github.com/threedotslabs/wild-workouts-go-ddd-example) <sub>score [54](../README.md#-how-we-rank "Score 54/100. Adoption: popular (61) · Freshness: recent (70) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Aug 2026</sub>
-
-**Go example app showing DDD, CQRS and Clean Architecture via refactoring.**
-
-Wild Workouts is a training-scheduling web app written in Go, built as a companion to a series of threedots.tech articles. It is split into services that talk over gRPC and deploy to Google Cloud Run with Firebase auth, with a Vue frontend. Tagged releases map to articles and show refactoring toward DDD Lite, the repository pattern, CQRS and Clean Architecture.
-
-- **+** Tagged releases (v1.0 to v2.7) match articles, so refactoring steps can be diffed
-- **+** Covers repository pattern, CQRS, database integration tests and microservice test architecture
-- **+** Terraform setup provisions the Google Cloud project, Cloud Run and Firebase
-- **+** Live demo and local docker-compose run are provided
-- **−** Not an AI project; the README mentions no model or LLM integration
-- **−** Last tagged release is 2021-04-01; README says the article series is still in progress
-- **−** Cloud deployment needs a Google Cloud billing account and Firebase
-- **−** Reference example to read, not a reusable template or library
-
-<sub>Go · Needs Google Cloud Run, Firebase, Terraform, Docker Compose · Docker · ⚠️ .env file committed · [Repo](https://github.com/threedotslabs/wild-workouts-go-ddd-example) · [▶️ Demo ↗](https://threedotslabs-wildworkouts.web.app/) · [🌐 Site ↗](https://threedots.tech) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wild-workouts-go-ddd-example/)</sub>
-
 <a name="jupiter"></a>
-### #&#8288;70 [jupiter](https://github.com/douyu/jupiter) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (51) · Freshness: active (82) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;69 [jupiter](https://github.com/douyu/jupiter) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: popular (51) · Freshness: active (82) · Maintenance: patchy (40) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Sep 2026</sub>
 
 **Go microservice framework with service governance, CLI scaffolding and a console.**
 
@@ -1261,7 +1243,7 @@ Jupiter is a Go framework for building governed microservices, used in productio
 <sub>Go · Needs Go >= 1.19, Docker · [Repo](https://github.com/douyu/jupiter) · [📖 Docs ↗](http://jupiter.douyu.com/) · [🌐 Site ↗](http://jupiter.douyu.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/jupiter/)</sub>
 
 <a name="connexion"></a>
-### #&#8288;71 [connexion](https://github.com/spec-first/connexion) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (53) · Freshness: active (81) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;70 [connexion](https://github.com/spec-first/connexion) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: popular (53) · Freshness: active (81) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Nov 2026</sub>
 
 **Python framework that builds REST APIs from an OpenAPI specification.**
 
@@ -1279,7 +1261,7 @@ Connexion is a Python web framework where the OpenAPI (or Swagger) spec drives t
 <sub>Python · Needs Python, OpenAPI specification, uvicorn (optional), Flask (optional) · [Repo](https://github.com/spec-first/connexion) · [📖 Docs ↗](https://connexion.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/connexion/)</sub>
 
 <a name="robyn"></a>
-### #&#8288;72 [robyn](https://github.com/sparckles/robyn) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (65) · Freshness: active (96) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · BSD-2-Clause · Aug 2026</sub>
+### #&#8288;71 [robyn](https://github.com/sparckles/robyn) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (65) · Freshness: active (96) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.4k · BSD-2-Clause · Aug 2026</sub>
 
 **Async Python web framework with a Rust runtime, with MCP and agent routing.**
 
@@ -1297,7 +1279,7 @@ Robyn is a Python web framework (3.10+) whose HTTP runtime is written in Rust an
 <sub>Python · Needs Python >=3.10, Rust (source builds only) · [Repo](https://github.com/sparckles/robyn) · [📖 Docs ↗](https://robyn.tech/documentation) · [🌐 Site ↗](https://robyn.tech) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/robyn/)</sub>
 
 <a name="go-zero-looklook"></a>
-### #&#8288;73 [go-zero-looklook](https://github.com/mikaelemmmm/go-zero-looklook) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (55) · Freshness: recent (70) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Sep 2026</sub>
+### #&#8288;72 [go-zero-looklook](https://github.com/mikaelemmmm/go-zero-looklook) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: popular (55) · Freshness: recent (70) · Maintenance: patchy (41) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Sep 2026</sub>
 
 **go-zero microservice example app with Kafka, asynq, tracing and CI/CD.**
 
@@ -1315,7 +1297,7 @@ A reference microservice backend in Go on the go-zero framework. HTTP API servic
 <sub>Go · Needs MySQL, Redis, Kafka, Elasticsearch, Docker Compose · [Repo](https://github.com/mikaelemmmm/go-zero-looklook) · [📖 Docs ↗](https://github.com/Mikaelemmmm/go-zero-looklook/tree/main/doc) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-zero-looklook/)</sub>
 
 <a name="whatsmars"></a>
-### #&#8288;74 [whatsmars](https://github.com/javahongxi/whatsmars) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;73 [whatsmars](https://github.com/javahongxi/whatsmars) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (36) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · Apache-2.0 · Nov 2026</sub>
 
 **Java sample modules for Spring Boot, Dubbo, Redis, RocketMQ and Elasticsearch.**
 
@@ -1333,7 +1315,7 @@ A multi-module Java 17+ repository of example code for the Spring Boot 3.5.x eco
 <sub>Java, LangChain4j · Needs Java 17+, Redis, Dubbo, RocketMQ, Elasticsearch, ZooKeeper, Nacos · [Repo](https://github.com/javahongxi/whatsmars) · [🌐 Site ↗](http://hongxi.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/whatsmars/)</sub>
 
 <a name="fullstack-solution-template-for-agentcore"></a>
-### #&#8288;75 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 608 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;74 [fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: niche (10) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 608 · Apache-2.0 · Nov 2026</sub>
 
 **React and AgentCore starter for deploying a secured agent chat app on AWS.**
 
@@ -1351,7 +1333,7 @@ Fork-and-deploy starter that ships a React/TypeScript frontend on Amplify Hostin
 <sub>Python, Strands, LangGraph · Needs AWS account, Amazon Bedrock AgentCore, AWS Cognito, AWS Amplify Hosting, AWS Lambda, AWS CDK or Terraform, Node.js · Docker · [Repo](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fullstack-solution-template-for-agentcore/)</sub>
 
 <a name="serverless-express"></a>
-### #&#8288;76 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (56) · Freshness: recent (63) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
+### #&#8288;75 [serverless-express](https://github.com/codegenieapp/serverless-express) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (56) · Freshness: recent (63) · Maintenance: patchy (33) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Apr 2026</sub>
 
 **Run Express, Koa or Hapi apps on AWS Lambda or Azure Functions.**
 
@@ -1369,7 +1351,7 @@ An npm library (@codegenie/serverless-express) that wraps an existing Node.js we
 <sub>JavaScript · Needs AWS Lambda, Amazon API Gateway, Azure Functions, Node.js · [Repo](https://github.com/codegenieapp/serverless-express) · [🌐 Site ↗](https://codegenie.codes) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-express/)</sub>
 
 <a name="practical-cleanarchitecture"></a>
-### #&#8288;77 [practical.cleanarchitecture](https://github.com/phongnguyend/practical.cleanarchitecture) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (34) · Freshness: active (84) · Maintenance: patchy (30) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
+### #&#8288;76 [practical.cleanarchitecture](https://github.com/phongnguyend/practical.cleanarchitecture) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (34) · Freshness: active (84) · Maintenance: patchy (30) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.5k · MIT · Nov 2026</sub>
 
 **.NET clean architecture sample built as monolith, modular monolith and microservices.**
 
@@ -1385,6 +1367,24 @@ A C# sample solution (ClassifiedAds) that implements one classified-ads app in m
 - **−** README publishes a default account username and password
 
 <sub>C# · Needs SQL Server, RabbitMQ, Kafka, Redis, Elasticsearch, Azure Blob Storage, Amazon S3 · [Repo](https://github.com/phongnguyend/practical.cleanarchitecture) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/practical-cleanarchitecture/)</sub>
+
+<a name="wild-workouts-go-ddd-example"></a>
+### #&#8288;77 [wild-workouts-go-ddd-example](https://github.com/threedotslabs/wild-workouts-go-ddd-example) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (61) · Freshness: recent (70) · Maintenance: weak (22) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Aug 2026</sub>
+
+**Go example app showing DDD, CQRS and Clean Architecture via refactoring.**
+
+Wild Workouts is a training-scheduling web app written in Go, built as a companion to a series of threedots.tech articles. It is split into services that talk over gRPC and deploy to Google Cloud Run with Firebase auth, with a Vue frontend. Tagged releases map to articles and show refactoring toward DDD Lite, the repository pattern, CQRS and Clean Architecture.
+
+- **+** Tagged releases (v1.0 to v2.7) match articles, so refactoring steps can be diffed
+- **+** Covers repository pattern, CQRS, database integration tests and microservice test architecture
+- **+** Terraform setup provisions the Google Cloud project, Cloud Run and Firebase
+- **+** Live demo and local docker-compose run are provided
+- **−** Not an AI project; the README mentions no model or LLM integration
+- **−** Last tagged release is 2021-04-01; README says the article series is still in progress
+- **−** Cloud deployment needs a Google Cloud billing account and Firebase
+- **−** Reference example to read, not a reusable template or library
+
+<sub>Go · Needs Google Cloud Run, Firebase, Terraform, Docker Compose · Docker · ⚠️ .env file committed · [Repo](https://github.com/threedotslabs/wild-workouts-go-ddd-example) · [▶️ Demo ↗](https://threedotslabs-wildworkouts.web.app/) · [🌐 Site ↗](https://threedots.tech) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/wild-workouts-go-ddd-example/)</sub>
 
 <a name="docker-flask-example"></a>
 ### #&#8288;78 [docker-flask-example](https://github.com/nickjj/docker-flask-example) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: patchy (38) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 762 · MIT · Nov 2026</sub>
@@ -1531,7 +1531,7 @@ Deploys a web chat app on Azure Container Apps backed by a Microsoft Foundry Age
 <sub>Bicep, gpt-5-mini (default), other Azure AI models configurable · Needs Microsoft Foundry, Foundry Agent Service, Azure Container Apps, Azure Container Registry, Azure Storage, Azure AI Search (optional), Application Insights (optional), Log Analytics (optional) · [Repo](https://github.com/azure-samples/get-started-with-ai-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/get-started-with-ai-agents/)</sub>
 
 <a name="typescript-action"></a>
-### #&#8288;86 [typescript-action](https://github.com/actions/typescript-action) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (33) · Freshness: recent (61) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · May 2026</sub>
+### #&#8288;86 [typescript-action](https://github.com/actions/typescript-action) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (33) · Freshness: recent (60) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.4k · MIT · May 2026</sub>
 
 **Template repo for writing GitHub Actions in TypeScript.**
 
@@ -1585,7 +1585,7 @@ A Python Quart backend uses the openai package to send user messages and uploade
 <sub>Jupyter Notebook, GPT-4o (Azure OpenAI), OpenAI-compatible endpoints · Needs Azure OpenAI, Azure Container Apps, Azure Container Registry, Azure Developer CLI · env example file · [Repo](https://github.com/azure-samples/openai-chat-vision-quickstart) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-app-chat-vision?tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chat-vision-quickstart/)</sub>
 
 <a name="fastapi-clean-example"></a>
-### #&#8288;89 [fastapi-clean-example](https://github.com/ivan-borovets/fastapi-clean-example) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 601 · MIT · Nov 2026</sub>
+### #&#8288;89 [fastapi-clean-example](https://github.com/ivan-borovets/fastapi-clean-example) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 602 · MIT · Nov 2026</sub>
 
 **FastAPI example app structured with clean architecture and Alembic migrations.**
 
@@ -1621,7 +1621,7 @@ Python Quart backend using the openai package with a plain HTML/JS frontend that
 <sub>Bicep, Azure OpenAI (openai package) · Needs Azure subscription with Azure OpenAI access, azd CLI · GitHub template · env example file · [Repo](https://github.com/azure-samples/openai-chat-app-quickstart) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app?tabs=github-codespaces) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chat-app-quickstart/)</sub>
 
 <a name="flask-restx"></a>
-### #&#8288;91 [flask-restx](https://github.com/python-restx/flask-restx) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (31) · Freshness: slowing (46) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · custom license · Apr 2026</sub>
+### #&#8288;91 [flask-restx](https://github.com/python-restx/flask-restx) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (32) · Freshness: slowing (45) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · custom license · Apr 2026</sub>
 
 **Flask extension for building REST APIs with Swagger documentation.**
 
@@ -1639,7 +1639,7 @@ Flask-RESTX is a Flask extension, forked from Flask-RESTPlus, that provides deco
 <sub>Python · Needs Flask, Werkzeug · [Repo](https://github.com/python-restx/flask-restx) · [📖 Docs ↗](http://flask-restx.readthedocs.io/en/latest/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/flask-restx/)</sub>
 
 <a name="itty-router"></a>
-### #&#8288;92 [itty-router](https://github.com/kwhitley/itty-router) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (29) · Freshness: active (80) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Jun 2026</sub>
+### #&#8288;92 [itty-router](https://github.com/kwhitley/itty-router) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (29) · Freshness: recent (80) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.1k · MIT · Jun 2026</sub>
 
 **Tiny TypeScript HTTP router for Cloudflare Workers and other serverless runtimes.**
 
@@ -1693,7 +1693,7 @@ A layered Go REST API for a blog, built on Gin and GORM with MySQL storage and R
 <sub>Go · Needs MySQL 5.6+, Redis · Docker · [Repo](https://github.com/eddycjy/go-gin-example) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/go-gin-example/)</sub>
 
 <a name="genai-api"></a>
-### #&#8288;95 [genai-api](https://github.com/louisbrulenaudet/genai-api) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (0) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 113 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;95 [genai-api](https://github.com/louisbrulenaudet/genai-api) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (0) · Freshness: slowing (48) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 113 · Apache-2.0 · Apr 2026</sub>
 
 **Hono API on Cloudflare Workers proxying Gemini with bearer auth.**
 
@@ -1711,7 +1711,7 @@ Hono TypeScript worker exposing POST /completion that forwards OpenAI-style mess
 <sub>TypeScript, Gemini 2.5 Flash, 2.5 Flash Lite, 2.0 Flash, 2.0 Flash Lite via Cloudflare AI Gateway, OpenAI SDK client · Needs Cloudflare account with AI Gateway, Google AI Studio API key · GitHub template · [Repo](https://github.com/louisbrulenaudet/genai-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/genai-api/)</sub>
 
 <a name="cookiecutter-django-rest"></a>
-### #&#8288;96 [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (24) · Freshness: quiet (5) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Dec 2025</sub>
+### #&#8288;96 [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) <sub>score [9](../README.md#-how-we-rank "Score 9/100. Adoption: niche (24) · Freshness: quiet (4) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.6k · MIT · Dec 2025</sub>
 
 **Cookiecutter template for Django REST Framework APIs with auth and tests.**
 
