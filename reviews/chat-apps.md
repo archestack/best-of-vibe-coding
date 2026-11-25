@@ -266,7 +266,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
 <a name="zola"></a>
-### #&#8288;16 [zola](https://github.com/ibelick/zola) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: known (40) · Freshness: quiet (6) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;16 [zola](https://github.com/ibelick/zola) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: known (41) · Freshness: quiet (6) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
 

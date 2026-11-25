@@ -450,7 +450,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (32) · Freshness: recent (70) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: known (33) · Freshness: recent (70) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
