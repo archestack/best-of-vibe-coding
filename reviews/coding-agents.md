@@ -7,20 +7,20 @@ Agents, assistants and editors that read your repo, write code and run commands,
 <a name="claw-code"></a>
 ### 🥇 [claw-code](https://github.com/ultraworkers/claw-code) <sub>score [97](../README.md#-how-we-rank "Score 97/100. Adoption: widely used (100) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 195k · MIT · Nov 2026</sub>
 
-**Rust CLI coding agent harness using Anthropic and OpenAI-compatible APIs.**
+**Rust CLI coding agent harness for prompts and sessions via API keys.**
 
-Claw Code is a Rust implementation of the `claw` command-line coding agent, built from source with cargo. It runs one-shot prompts or interactive sessions using an API key, and the docs cover local OpenAI-compatible servers such as Ollama, llama.cpp and vLLM. The README describes the repo as an agent-managed exhibit, not the production project, and points to LazyCodex and Gajae-Code for real work.
+Claw Code is a Rust implementation of the `claw` CLI agent harness, built from source in the `rust/` workspace. It runs one-shot prompts or interactive sessions using an API key (Anthropic, OpenAI and others), and `claw doctor` checks key, model access and tool configuration. The README says the repo is an agent-maintained exhibit and points to LazyCodex or Gajae-Code for real work.
 
-- **+** `claw doctor` checks API key, model access and tool configuration after build
-- **+** Docs cover local OpenAI-compatible providers: Ollama, llama.cpp, vLLM
-- **+** Build steps documented for macOS, Linux and Windows PowerShell
-- **+** MIT license; workspace test suite and deterministic mock-service parity harness
-- **−** README says it is not the serious production project and points elsewhere
-- **−** Build-from-source only; `cargo install claw-code` installs a deprecated stub
+- **+** Rust workspace builds a single `claw` binary with prompt and interactive modes
+- **+** `claw doctor` validates API key, model access and tool config after build
+- **+** Docs cover local OpenAI-compatible providers (Ollama, llama.cpp, vLLM) and Windows PowerShell
+- **+** Mock parity harness and `cargo test --workspace` test suite
+- **−** README says it is not the serious production project and points to other tools
+- **−** Build from source only; `cargo install claw-code` installs a deprecated stub
 - **−** Requires an API key; Claude subscription login is not supported
 - **−** No ACP/Zed daemon yet; `claw acp serve` only returns status
 
-<sub>no GPU · Docker + Compose · Needs Rust toolchain (cargo), LLM API key · Models: Anthropic API, OpenAI-compatible APIs, Ollama, llama.cpp, vLLM · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claw-code/)</sub>
+<sub>no GPU · Docker + Compose · Needs Rust toolchain (cargo), LLM API key · Models: Anthropic API, OpenAI API, OpenAI-compatible local servers (Ollama, llama.cpp, vLLM) · [Repo](https://github.com/ultraworkers/claw-code) · [📖 Docs ↗](https://github.com/ultraworkers/claw-code/blob/main/USAGE.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claw-code/)</sub>
 
 <a name="t3code"></a>
 ### 🥈 [t3code](https://github.com/pingdotgg/t3code) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 75k · MIT · Nov 2026</sub>
@@ -707,20 +707,20 @@ Emdash Classic is an Electron-style desktop app for macOS, Windows and Linux tha
 <a name="chat-on-steroids"></a>
 ### #&#8288;40 [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) <sub>score [86](../README.md#-how-we-rank "Score 86/100. Adoption: popular (63) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
 
-**Desktop app that lets ChatGPT edit local files and run terminals via MCP.**
+**Desktop app that lets ChatGPT edit local files and run commands via MCP.**
 
-Desktop app (Windows, macOS Apple silicon, Linux) that connects a ChatGPT conversation to local files, shell and desktop tools through a custom MCP server and a browser extension for Chrome, Edge or Brave. It adds worker sub-agents, Goal and Loop modes for long tasks, and Compact & Resume to carry history into a new chat. It drives the ChatGPT web UI rather than calling Codex or a public API.
+Chat On Steroids is an Electron-style desktop app (Windows, macOS, Linux) that connects your ChatGPT conversation to local tools over MCP, so ChatGPT can read and edit files, run tests and keep terminals open. A browser extension for Chrome, Edge or Brave drives the ChatGPT UI. It adds parallel workers, Goal/Loop modes, per-folder permissions and ntfy or Telegram notifications. It is an unofficial beta and does not call Codex directly.
 
-- **+** Reuses an existing ChatGPT plan; no separate model API billing described
-- **+** Workers keep context between tasks and run independent jobs in parallel
-- **+** Prebuilt installers for Windows x64, macOS arm64 and Linux x64 (DEB)
-- **+** MIT licensed, UI available in 12 languages
-- **−** Automates the ChatGPT browser UI, which is not a public API; account restrictions possible
-- **−** Windows and macOS builds are unsigned; macOS prompts for a password after each update
-- **−** Setup requires a tunnel, restricted OpenAI API key and custom MCP app in ChatGPT
-- **−** Locked to ChatGPT; needs a plan that supports custom MCP apps
+- **+** Folder-level access control: choose which folders ChatGPT may touch and what it may do
+- **+** Workers run independent jobs in parallel and keep context between tasks
+- **+** Telegram bot can show status, pause or stop chats, and deny approvals remotely
+- **+** Installers for Windows x64, macOS Apple silicon and Linux x64 DEB
+- **−** Depends on automating the ChatGPT web UI, which is not a public API
+- **−** Setup needs a tunnel, restricted API key and custom MCP app in ChatGPT
+- **−** Windows and macOS builds are unsigned; macOS asks for a password after each update
+- **−** Requires a ChatGPT plan that allows custom MCP apps; usage limits still apply
 
-<sub>no GPU · Needs ChatGPT account with custom MCP app support, Chrome 125+, Edge or Brave, OpenAI tunnel and restricted API key, Linux Secret Service keyring · Models: ChatGPT models (account-dependent) · [Repo](https://github.com/totec448-spec/chat-on-steroids) · [📖 Docs ↗](https://github.com/totec448-spec/chat-on-steroids/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-on-steroids/)</sub>
+<sub>no GPU · Needs ChatGPT account with custom MCP app support, OpenAI tunnel and restricted API key, Chrome 125+, Edge or Brave with browser extension, Secret Service keyring (Linux) · Models: ChatGPT models available to your account · [Repo](https://github.com/totec448-spec/chat-on-steroids) · [📖 Docs ↗](https://github.com/totec448-spec/chat-on-steroids/blob/main/docs/setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-on-steroids/)</sub>
 
 <a name="openinterpreter"></a>
 ### #&#8288;41 [openinterpreter](https://github.com/openinterpreter/openinterpreter) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: widely used (97) · Freshness: active (100) · Maintenance: fair (76) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 69k · Apache-2.0 · Nov 2026</sub>
@@ -779,20 +779,20 @@ M3E Canvas is a static Next.js app where you drag Material 3 Expressive parts on
 <a name="kirocrew"></a>
 ### #&#8288;44 [kirocrew](https://github.com/kirodotdev/kirocrew) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: healthy (96) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · Apache-2.0 · Nov 2026</sub>
 
-**Persistent agent workspace with memory, schedules and unattended tasks.**
+**Persistent agent workspace with scheduled tasks, memory, and Slack/Discord access.**
 
-Kiro Crew is a Python Gateway that drives agent sessions through ACP harnesses (default kiro-cli) and keeps sessions, memory, lessons, schedules and task checkpoints across restarts. You reach it from a desktop app, web dashboard, CLI, or messaging channels such as Slack and Discord. It runs checkpointed long tasks, scheduled jobs, webhooks and subagents, gated by approvals and OS sandboxing.
+Kiro Crew is a Python Gateway that runs agent sessions on your own machine or a remote host, driven by kiro-cli through ACP by default. It keeps sessions, memory, schedules and task checkpoints across restarts, and runs long tasks, recurring jobs and webhook-triggered work unattended. You reach it from a desktop app, web dashboard, CLI, Slack or Discord, and extend it with MCP servers, markdown skills, hooks and installable Apps.
 
-- **+** Sessions, memory, schedules and task checkpoints survive Gateway restarts
-- **+** Same agent state reachable from desktop, dashboard, CLI, Slack, Discord, Telegram and Teams
-- **+** Approvals, OS sandboxing, credential redaction and audit events; dashboard binds to loopback by default
-- **+** Extensible with MCP servers, markdown skills, hooks and installable Apps
-- **−** Default backend needs kiro-cli installed and signed in separately
-- **−** Sends a daily anonymous telemetry heartbeat by default; opt-out required
+- **+** Sessions, memory, schedules and checkpoints persist across Gateway restarts
+- **+** Runs scheduled jobs, scripts and webhook-triggered work without a terminal open
+- **+** Same state reachable from desktop app, dashboard, CLI, Slack and Discord
+- **+** Approvals, OS sandboxing, credential redaction and audit events; dashboard binds to loopback
+- **−** Default agent needs kiro-cli installed and signed in separately
+- **−** Sends a daily anonymous heartbeat by default; opt-out via setting or env var
 - **−** Source build needs Python 3.12+ and Node.js 22.12+
-- **−** Self-learning and skill synthesis are described without any benchmarks in the README
+- **−** Windows is supported only through a separate native source install guide
 
-<sub>no GPU · Docker + Compose · Needs kiro-cli, Python 3.12+, Node.js 22.12+ · Models: Kiro models via kiro-cli, Other ACP harnesses · port 5476 · [Repo](https://github.com/kirodotdev/kirocrew) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kirocrew/)</sub>
+<sub>Docker + Compose · Needs kiro-cli, Python 3.12+, Node.js 22.12+ (source build) · Models: Kiro models via kiro-cli (ACP), Other verified ACP harnesses · port 5476 · [Repo](https://github.com/kirodotdev/kirocrew) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/kirocrew/)</sub>
 
 <a name="cindy"></a>
 ### #&#8288;45 [cindy](https://github.com/makecindy/cindy) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (78) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10k · Apache-2.0 · Nov 2026</sub>
@@ -851,20 +851,20 @@ gh-aw is a GitHub CLI extension where a workflow is Markdown with YAML frontmatt
 <a name="code-graph-rag"></a>
 ### #&#8288;48 [code-graph-rag](https://github.com/vitali87/code-graph-rag) <sub>score [84](../README.md#-how-we-rank "Score 84/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · MIT · Nov 2026</sub>
 
-**Tree-sitter code knowledge graph you query and edit in plain English.**
+**CLI that indexes a codebase into a graph for natural-language queries and edits.**
 
-Parses a multi-language repository with Tree-sitter into a knowledge graph stored in an embedded SQLite file by default, with Memgraph and Neo4j as opt-in backends. A CLI agent (cgr) turns natural-language questions into Cypher, retrieves source, finds dead code, and applies AST-based edits with a diff preview. It also runs as an MCP server for Claude Code and other clients.
+Code-Graph-RAG parses a multi-language repository with Tree-sitter into a knowledge graph stored in an embedded SQLite file by default. The `cgr` CLI turns natural-language questions into Cypher queries, retrieves source, applies AST-based edits with diff preview, and finds dead code. It also runs as an MCP server, and can merge runtime call traces into the graph.
 
-- **+** Embedded SQLite graph by default: no database server, Docker or cmake needed
-- **+** 14 languages fully supported under one graph schema, plus an ast-grep tier for more
-- **+** Optional compiler frontends (libclang, go/types, Roslyn, javac, Jedi) and runtime trace merging
-- **+** Runs as an MCP server for Claude Code and other MCP clients
-- **−** PyPI and GitHub releases follow every 50th version; newest code needs a git install
-- **−** Needs Python 3.12+ and ripgrep; older system interpreters need manual pinning
-- **−** --clean deletes every project in the shared graph, not only the current repo
-- **−** Managed cloud and air-gapped deployments are sold as paid enterprise services
+- **+** Embedded SQLite graph by default, so no database server is needed
+- **+** Fully supports 14 languages under one graph schema, including mixed-language monorepos
+- **+** Compiler frontends and runtime traces (`cgr trace`) add facts static parsing misses
+- **+** Exposes the graph to Claude Code and other clients through an MCP server
+- **−** PyPI releases ship only every 50th version, so installs lag the newest git tag
+- **−** Native extension limits installs to CPython 3.12+ on Linux, macOS and Windows x64
+- **−** Ruby, Kotlin, Swift and others get only structural support via ast-grep
+- **−** `--clean` deletes every project in the shared graph, not just the current repo
 
-<sub>Docker · Needs Python 3.12+, ripgrep, Memgraph (optional), Neo4j (optional), Qdrant (optional) · [Repo](https://github.com/vitali87/code-graph-rag) · [📖 Docs ↗](https://docs.code-graph-rag.com) · [🌐 Site ↗](https://code-graph-rag.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-graph-rag/)</sub>
+<sub>Docker · Needs Python 3.12+, ripgrep, Memgraph (optional), Neo4j (optional), Qdrant (optional, with Memgraph stack) · [Repo](https://github.com/vitali87/code-graph-rag) · [📖 Docs ↗](https://docs.code-graph-rag.com/) · [🌐 Site ↗](https://code-graph-rag.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/code-graph-rag/)</sub>
 
 <a name="vibe-kanban"></a>
 ### #&#8288;49 [vibe-kanban](https://github.com/bloopai/vibe-kanban) <sub>score [83](../README.md#-how-we-rank "Score 83/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: fair (62) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · Apache-2.0 · Nov 2026</sub>
@@ -1117,20 +1117,19 @@ Codeg is a Rust-based workspace that talks to coding agents over the Agent Clien
 <a name="gptme"></a>
 ### #&#8288;63 [gptme](https://github.com/gptme/gptme) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (99) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.5k · MIT · Nov 2026</sub>
 
-**Terminal-based AI agent that runs shell, Python, browser and file tools.**
+**Terminal AI agent that runs shell, Python, browser and file tools.**
 
-gptme is a Python CLI agent that executes shell commands and Python, edits files with patch tools, browses via Playwright and reads images. It works with Anthropic, OpenAI, Google, DeepSeek, OpenRouter, or local models through Ollama and OpenAI-compatible servers. It also ships a Textual TUI, a web UI with REST server, an MCP client and server, ACP support for Zed and JetBrains, and a scaffold for scheduled autonomous agents.
+gptme is a Python CLI agent that runs shell commands and Python, edits files with patch tools, browses via Playwright, and feeds output back to the model to self-correct. It works with Anthropic, OpenAI, Google, DeepSeek, OpenRouter and local servers such as Ollama, llama.cpp and vLLM. It also ships a Textual TUI, a web UI with REST server, an MCP client and server, and ACP support for Zed and JetBrains.
 
-- **+** Provider-agnostic: hosted APIs, OpenRouter, or local Ollama, LM Studio, vLLM and llama.cpp
-- **+** Acts as MCP client and server, and as an ACP agent in Zed and JetBrains
-- **+** Plugins, skills, hooks and lessons extend behavior without forking
-- **+** Runs headless via gptme service init with systemd timers for scheduled agents
-- **−** Executes shell and Python locally; sandboxing (Docker, Wasmtime) is a separate option
+- **+** Provider-agnostic: hosted APIs, OpenRouter, or local via Ollama, LM Studio, vLLM, llama.cpp
+- **+** Acts as both MCP client and MCP server, plus ACP for Zed and JetBrains
+- **+** Plugins, skills, hooks and lessons extend it; sandboxed execution via Docker or Wasmtime
+- **+** Runs headless for CI and systemd-scheduled agents via gptme service init
+- **−** Runs code in your local environment by default; sandboxing is a separate option
 - **−** RAG tool needs the separate gptme-rag package
-- **−** Large surface area (TUI, web UI, server, desktop app) spread across several repos
-- **−** Hosted gptme.ai cloud service exists; its terms and limits are unknown from the README
+- **−** Several features live in add-on repos (gptme-contrib, webui, agent template)
 
-<sub>GPU optional · Compose · Needs Playwright (browser tool), Docker or Wasmtime (optional sandboxing), gptme-rag (optional, rag tool) · Models: Anthropic, OpenAI, Google Gemini, SpaceXAI Grok, DeepSeek · [Repo](https://github.com/gptme/gptme) · [▶️ Demo ↗](https://chat.gptme.org) · [📖 Docs ↗](https://gptme.org/docs/) · [🌐 Site ↗](https://gptme.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gptme/)</sub>
+<sub>GPU optional · Compose · Needs Python, Playwright (browser tool), gptme-rag (rag tool), Ollama or OpenAI-compatible server (local models) · Models: Anthropic, OpenAI, Google Gemini, DeepSeek, OpenRouter · [Repo](https://github.com/gptme/gptme) · [▶️ Demo ↗](https://chat.gptme.org) · [📖 Docs ↗](https://gptme.org/docs/) · [🌐 Site ↗](https://gptme.org/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gptme/)</sub>
 
 <a name="autonomous-company"></a>
 ### #&#8288;64 [autonomous-company](https://github.com/maxmiksa/autonomous-company) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.2k · MIT · Oct 2026</sub>
@@ -1224,20 +1223,20 @@ Coucou is a Swift/SwiftUI macOS app (with Tauri builds for Windows and Linux, pl
 <a name="codepilot"></a>
 ### #&#8288;69 [codepilot](https://github.com/op7418/codepilot) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (69) · Freshness: active (100) · Maintenance: fair (74) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · custom license · Nov 2026</sub>
 
-**Desktop AI agent client for Claude Code workflows across many model providers.**
+**Desktop client for chat and coding agents across many AI providers.**
 
-CodePilot is an Electron and Next.js desktop app that runs chat and coding sessions against 17+ providers, including Anthropic, OpenRouter, Bedrock, Vertex, Ollama and custom OpenAI- or Anthropic-compatible endpoints. It adds MCP server management, skills, session rewind, a git panel, and a remote bridge for Telegram, Feishu, Discord, QQ and WeChat. File editing and shell commands need the Claude Code CLI installed.
+CodePilot is an Electron and Next.js desktop app for macOS, Windows and Linux that runs chat and coding sessions against 17+ providers, including Anthropic, OpenRouter, Bedrock, Vertex, Ollama and custom OpenAI- or Anthropic-compatible endpoints. It adds MCP servers, skills, a persistent assistant workspace, a task scheduler and bridges to Telegram, Discord, Feishu, QQ and WeChat. Data is stored locally in SQLite.
 
-- **+** Switch among 17+ providers and models mid-conversation, including Ollama and custom endpoints
-- **+** Manages MCP servers (stdio/sse/http) with runtime status, plus skills and a skills.sh marketplace
-- **+** Session pause, resume and rewind to checkpoint, split-screen sessions, token and cost charts
-- **+** Local SQLite storage; builds for macOS, Windows and Linux, with in-app updates on macOS and Windows
-- **−** BSL-1.1 license: commercial use needs a separate license; converts to Apache 2.0 in 2029
-- **−** File editing, terminal and git actions require the separate Claude Code CLI
-- **−** Windows builds are unsigned and trigger SmartScreen; Linux updates are manual
-- **−** Interface is English and Chinese only
+- **+** Switch providers and models mid-conversation across 17+ providers plus custom endpoints
+- **+** Session rewind to checkpoints, split-screen sessions, and token and cost charts
+- **+** MCP servers over stdio, sse or http, with runtime status monitoring
+- **+** Chat history stays local in SQLite; signed macOS builds update in-app
+- **−** BSL-1.1 license: commercial use needs a separate license until the 2029-03-16 change date
+- **−** File editing, terminal commands and git operations need the Claude Code CLI installed separately
+- **−** Windows builds are unsigned, and Linux updates are manual downloads
+- **−** Interface is English and Chinese only; image generation is limited to Gemini
 
-<sub>no GPU · Needs Claude Code CLI (optional, for file editing and terminal), Node.js 18+ (build from source), Provider API keys · Models: Anthropic, OpenRouter, AWS Bedrock, Google Vertex AI, Ollama · port 3000 · [Repo](https://github.com/op7418/codepilot) · [📖 Docs ↗](https://www.codepilot.sh/docs) · [🌐 Site ↗](https://www.codepilot.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codepilot/)</sub>
+<sub>Needs Node.js 24+ (build from source), Claude Code CLI (optional) · Models: Anthropic, OpenRouter, AWS Bedrock, Google Vertex AI, Ollama · port 3000 · [Repo](https://github.com/op7418/codepilot) · [📖 Docs ↗](https://www.codepilot.sh/docs) · [🌐 Site ↗](https://www.codepilot.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/codepilot/)</sub>
 
 <a name="maka"></a>
 ### #&#8288;70 [maka](https://github.com/apache/maka) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.0k · Apache-2.0 · Nov 2026</sub>
@@ -1332,20 +1331,20 @@ stagewise is an IDE with a built-in coding agent that can read a browser tab's c
 <a name="hapi"></a>
 ### #&#8288;75 [hapi](https://github.com/tiann/hapi) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · AGPL-3.0 · Nov 2026</sub>
 
-**Remote control for coding agent CLI sessions from phone or web.**
+**Remote control for local Claude Code, Codex and other coding agent sessions.**
 
-HAPI wraps official coding agent CLIs (Claude Code, Codex, Cursor Agent, OpenCode, Copilot and others) and runs a hub, so you can watch, approve and continue the same sessions from native iOS/Android apps, a web/PWA client or a Telegram Mini App. Sessions move between local terminal and remote without a restart. The hub can use an E2E encrypted relay, Cloudflare Tunnel or Tailscale.
+HAPI wraps official coding agent CLIs (Claude Code, Codex, Cursor Agent, OpenCode, Copilot and others) and runs a hub so you can watch, approve and continue sessions from a web/PWA client, native iOS/Android apps or a Telegram Mini App. The hub can expose itself through an end-to-end encrypted relay (WireGuard + TLS), Cloudflare Tunnel or Tailscale. Sessions can move between local terminal and remote without restarting.
 
-- **+** Wraps the official CLIs of ten agents instead of replacing them
-- **+** Approve agent requests from a phone; web terminal and file browser included
-- **+** SwiftUI and Kotlin Compose native clients live in the same repo
-- **+** Self-host via Cloudflare Tunnel or Tailscale, or use the WireGuard+TLS relay
-- **−** AGPL-3.0 license restricts use in closed network services
+- **+** Wraps the official agent CLIs, so the terminal workflow stays the same
+- **+** Supports about ten agents behind one hub, including Claude Code, Codex and OpenCode
+- **+** Web/PWA client is free and includes remote terminal and voice assistant
+- **+** Self-hosted access via Cloudflare Tunnel or Tailscale as alternatives to the relay
+- **−** Native iOS and Android apps are paid
+- **−** AGPL-3.0 license limits use in closed network services
+- **−** No Docker or Compose files provided; source build requires Bun 1.4.4
 - **−** Shared Codex sessions require Codex 0.154.0 or newer
-- **−** Native apps are built from source; store availability is not stated
-- **−** No Docker or compose files; building from source needs Bun 1.4.0
 
-<sub>no GPU · Needs Bun 1.4.0 (build from source), Agent CLIs (Claude Code, Codex, etc.), Cloudflare Tunnel or Tailscale (optional) · Models: Claude Code, Codex, Cursor Agent, Grok Build, OpenCode · [Repo](https://github.com/tiann/hapi) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hapi/)</sub>
+<sub>no GPU · Needs Bun 1.4.4 (build from source), Claude Code / Codex / other agent CLIs, Optional: Cloudflare Tunnel or Tailscale · Models: Claude Code, Codex, Cursor Agent, Grok Build, OpenCode · [Repo](https://github.com/tiann/hapi) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/hapi/)</sub>
 
 <a name="gnhf"></a>
 ### #&#8288;76 [gnhf](https://github.com/kunchenguid/gnhf) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (82) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Nov 2026</sub>
@@ -1688,20 +1687,20 @@ Forge is a Rust CLI coding agent that reads files, writes patches and runs comma
 <a name="mistral-vibe"></a>
 ### #&#8288;95 [mistral-vibe](https://github.com/mistralai/mistral-vibe) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (80) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · Apache-2.0 · Nov 2026</sub>
 
-**Terminal coding agent from Mistral with file, shell and subagent tools.**
+**Terminal coding agent that reads, edits and runs commands in your repo.**
 
-Mistral Vibe is a Python CLI that lets Mistral models read, edit and search a codebase and run shell commands from a chat prompt. It has approval-based agent profiles (ask, plan, accept-edits, auto-approve), subagents via a task tool, skills, slash commands and MCP server configuration. A programmatic mode (-p) adds limits on turns, cost, tokens and time, with JSON output and exit codes for scripting.
+Mistral Vibe is a Python CLI coding agent from Mistral AI. You describe a task in the terminal, and it reads your code, edits files and runs commands, asking for approval before risky actions. Sign-in uses a Mistral account or an API key, and it also has a programmatic mode and use from other IDEs.
 
-- **+** Scriptable -p mode with --max-turns, --max-price, --max-tokens, --time-limit and defined exit codes
-- **+** Agent profiles control approvals: ask, plan (read-only), accept-edits (default), auto-approve
-- **+** Supports subagents, custom skills, slash commands, MCP servers and custom agent files
-- **+** Trust-folder prompt guards against running in unvetted directories
-- **−** Officially supports UNIX only; Windows works but is not a target
-- **−** Built around Mistral's models; other provider support is not stated in the visible README
-- **−** Needs a modern terminal emulator; older terminals may render badly
-- **−** Some features are experimental, such as --agent-socket
+- **+** Installs with one curl script on macOS/Linux or `uv tool install` on any platform
+- **+** Asks for approval before risky actions; permissions model is documented
+- **+** Programmatic mode and use from other IDEs are documented
+- **+** Telemetry can be turned off with `enable_telemetry = false` in config.toml
+- **−** Does not accept pull requests; only bug reports and feature requests
+- **−** Needs a GIL-enabled Python 3.12+; some Python versions break installs
+- **−** Sign-in is a Mistral account or API key; other providers not stated
+- **−** Telemetry and crash reporting are on unless disabled in config
 
-<sub>no GPU · Needs Python 3.12+, Mistral API key, uv (Windows install) · Models: Mistral models, Mistral Medium 3.5 (vision) · [Repo](https://github.com/mistralai/mistral-vibe) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mistral-vibe/)</sub>
+<sub>no GPU · Needs Python 3.12+ (GIL build), uv (Windows install), Mistral account or API key · Models: Mistral models via Mistral API · [Repo](https://github.com/mistralai/mistral-vibe) · [📖 Docs ↗](https://docs.mistral.ai/vibe/code/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mistral-vibe/)</sub>
 
 <a name="rewrite"></a>
 ### #&#8288;96 [rewrite](https://github.com/openrewrite/rewrite) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (80) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · Apache-2.0 · Nov 2026</sub>

@@ -1265,20 +1265,20 @@ LoopX stores goals, todos, leases, decisions and evidence in a local SQLite stor
 <a name="aidlc-workflows"></a>
 ### #&#8288;71 [aidlc-workflows](https://github.com/awslabs/aidlc-workflows) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (92) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · MIT-0 · Nov 2026</sub>
 
-**Approval-gated delivery workflows for AI coding assistants.**
+**Staged, approval-gated workflow layer for AI coding assistants.**
 
-AI-DLC installs a harness-neutral workflow engine into Claude Code, Kiro CLI and IDE, Codex CLI, Cursor, opencode and GitHub Copilot. A single /aidlc command picks one of 11 workflow profiles, runs 33 stages across 5 phases with 14 agents, and stops at human approval gates. State, a 119-event audit trail and learned rules persist per project.
+AI-DLC installs a harness-neutral workflow engine and an `aidlc` CLI that run inside Claude Code, Kiro, Codex CLI, Cursor, opencode and GitHub Copilot. A request such as `/aidlc Build a REST API` is routed to one of 11 workflow profiles spanning 5 phases and 33 stages, with 14 agents, human approval gates and a 134-event audit trail. It is a methodology layer on top of existing assistants, not a standalone agent.
 
-- **+** Same engine across seven harnesses, configured with `aidlc config --harness`
-- **+** Human approval gates and a 119-event audit trail
-- **+** 11 workflow profiles, including bug fix, infrastructure, security and proof of concept
-- **+** Native installer; Bun and Node.js not needed for normal install
-- **−** Needs a separate harness and model provider; AI-DLC supplies neither
-- **−** Install is a curl-to-shell script; manual path requires Bun
-- **−** Large surface (33 stages, 14 agents, 93 tools) means a learning curve
-- **−** Recommended model is Claude Opus 4.8; quality on other models unknown
+- **+** Same engine across Claude Code, Kiro, Codex CLI, Cursor, opencode and Copilot
+- **+** Human approval gates plus persistent state, team knowledge and audit trail
+- **+** 11 workflow profiles for features, bug fixes, infrastructure, security and PoCs
+- **+** Native installer needs no Bun or Node.js; `aidlc doctor` checks setup
+- **−** Needs a separate assistant and model; recommends Claude Opus 4.8
+- **−** Install is a curl-pipe-to-shell script; manual copy path requires Bun
+- **−** Harness version minimums and renamed Kiro flags complicate upgrades
+- **−** 33 stages and 14 agents add process overhead for small tasks
 
-<sub>no GPU · Needs Claude Code, Kiro, Codex CLI, Cursor, opencode or GitHub Copilot, Bun (manual-copy install only), Amazon Bedrock (optional) · Models: Claude Opus 4.8 (recommended), Amazon Bedrock, Provider set by harness · [Repo](https://github.com/awslabs/aidlc-workflows) · [📖 Docs ↗](https://github.com/awslabs/aidlc-workflows/blob/main/docs/guide/01-getting-started.md) · [🌐 Site ↗](https://awslabs.github.io/aidlc-workflows/roadmap.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aidlc-workflows/)</sub>
+<sub>no GPU · Needs Claude Code, Kiro, Codex CLI, Cursor, opencode or GitHub Copilot, Bun (manual-copy install only) · Models: Claude Opus 4.8 (recommended), Amazon Bedrock, Provider set by the chosen harness · [Repo](https://github.com/awslabs/aidlc-workflows) · [📖 Docs ↗](https://github.com/awslabs/aidlc-workflows/blob/main/docs/guide/01-getting-started.md) · [🌐 Site ↗](https://awslabs.github.io/aidlc-workflows/roadmap.html) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/aidlc-workflows/)</sub>
 
 <a name="animal-island-ui"></a>
 ### #&#8288;72 [animal-island-ui](https://github.com/guokaigdg/animal-island-ui) <sub>score [85](../README.md#-how-we-rank "Score 85/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · MIT · Nov 2026</sub>
@@ -3008,19 +3008,20 @@ Official .NET team marketplace of agent skills, grouped into 16 plugins covering
 <a name="observal"></a>
 ### #&#8288;168 [observal](https://github.com/observal/observal) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Nov 2026</sub>
 
-**Self-hosted registry and telemetry for internal coding agent skills, MCP servers and hooks.**
+**Self-hosted registry for sharing coding agent skills, MCP servers and hooks.**
 
-Observal is a server plus CLI that stores an organization's coding agent resources (agents, skills, MCP servers, hooks, prompts, sandboxes) in one reviewed registry. It generates per-harness config for Claude Code, Cursor, Kiro, Codex, Copilot, OpenCode and others, and captures session traces through installed telemetry hooks. It also publishes approved resources over ARD and lets agents delegate tasks over A2A.
+Agentic Resource Registry (formerly Observal) is a self-hosted server plus the `observal` CLI. It stores skills, MCP servers, hooks, prompts, sandboxes and agent files behind admin review and versioning. It installs them into harnesses such as Claude Code, Cursor, Codex, Kiro and OpenCode, and captures session traces to report usage back to authors.
 
-- **+** One install command renders an agent into each supported harness's config format
-- **+** Admin review, version diffs and forking of approved releases keep registry changes auditable
-- **+** Session traces and usage data feed reports on which agents and tools get used
-- **+** Implements ARD v0.91 discovery and A2A v1.0 delegation with team-private visibility rules
-- **−** Needs a multi-service stack (API, web UI, Postgres, ClickHouse) on Docker Engine 24+ with Compose v2
-- **−** Telemetry hooks are installed into each developer's harness via the CLI, adding a per-machine setup step
-- **−** Value depends on an organization already having many internal agent resources to catalog
+- **+** Generates per-harness config for about nine coding tools from one registry entry
+- **+** Review workflow, version diffs and forking of approved releases, with a fork API
+- **+** Telemetry hooks capture session traces and feed usage reports back to authors
+- **+** Publishes approved resources through an ARD search API and supports A2A delegation
+- **−** Server stack uses Postgres and ClickHouse, heavier than a single-binary tool
+- **−** Needs a CLI install and telemetry patch on every developer machine
+- **−** Value depends on team-wide adoption; little use for a solo developer
+- **−** Renamed from Observal, so old links and package names may confuse
 
-<sub>Docker + Compose · Needs Docker Engine 24+ with Compose v2, PostgreSQL, ClickHouse · Models: Claude Code, Cursor, Kiro, Codex, GitHub Copilot · [Repo](https://github.com/observal/observal) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/observal/)</sub>
+<sub>no GPU · Docker + Compose · Needs Docker Engine >= 24.0 with Compose v2, PostgreSQL, ClickHouse · port 8000 · [Repo](https://github.com/observal/observal) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/observal/)</sub>
 
 <a name="stop-that-shit"></a>
 ### #&#8288;169 [stop-that-shit](https://github.com/lennney/stop-that-shit) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
@@ -3942,20 +3943,20 @@ A repository of Agent Skills (markdown files) that coding agents load on demand.
 <a name="peon-ping"></a>
 ### #&#8288;220 [peon-ping](https://github.com/peonping/peon-ping) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · MIT · Nov 2026</sub>
 
-**Plays game character voice lines and banners when AI coding agents finish or need input.**
+**Game character voice lines and overlay banners when coding agents finish or need input.**
 
-peon-ping registers hooks and adapters for Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode and about a dozen other agents. It plays sound-pack voice lines (Warcraft, StarCraft, Portal and others) and shows overlay banners and terminal tab titles on events such as task complete, permission needed, error and rate limit. It ships a `peon` CLI, an MCP server, SSH relay and phone notifications via ntfy.
+peon-ping registers hooks and adapters for Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode and other agents. It plays sound-pack voice lines (Warcraft, StarCraft, Portal and others) and shows overlay banners on task completion, permission prompts, errors, rate limits and rapid prompts. It ships a `peon` CLI for volume, packs, per-directory pack bindings and ntfy phone alerts, and implements the open CESP sound pack spec.
 
-- **+** Adapters for 20+ agents and IDEs, plus any MCP client
-- **+** Per-event sound categories following the open CESP pack spec
-- **+** Per-directory and per-IDE pack bindings, path exclusions, and Focus/DND detection
-- **+** Installs via Homebrew, shell script, PowerShell, or Nix with Home Manager module
+- **+** Adapters for 20+ agents and IDEs, plus an MCP server for any MCP client
+- **+** Installs via Homebrew, shell script, PowerShell, or Nix with a Home Manager module
+- **+** Per-directory and per-IDE pack bindings, path exclusions, and Focus/Do Not Disturb detection
+- **+** Audio relay for SSH, devcontainers and Codespaces; ntfy push for phone alerts
 - **−** Windows lacks some CLI commands such as setup, rotation, preview and mobile
-- **−** WSL2 on Windows 11 24H2+ needs ffmpeg to play MP3 packs
-- **−** Written in Shell; installer is piped from curl by default
-- **−** Overlay banners listed only for macOS, WSL and MSYS2, not plain Linux
+- **−** On WSL2 with Windows 11 24H2+, MP3 packs need ffmpeg to transcode
+- **−** Overlay banners are listed only for macOS, WSL and MSYS2, not native Linux
+- **−** Non-Claude agents need separate adapter wiring; Nix IDE hooks are opt-in
 
-<sub>no GPU · Needs ffmpeg (WSL2 on Windows 11 24H2+, MP3 packs), ntfy (optional, phone notifications) · Models: Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI · [Repo](https://github.com/peonping/peon-ping) · [▶️ Demo ↗](https://peonping.com/) · [🌐 Site ↗](https://peonping.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/peon-ping/)</sub>
+<sub>no GPU · Needs ffmpeg (WSL2 on Windows 11 24H2+, for MP3 packs), ntfy (optional, phone notifications) · [Repo](https://github.com/peonping/peon-ping) · [▶️ Demo ↗](https://peonping.com/) · [🌐 Site ↗](https://peonping.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/peon-ping/)</sub>
 
 <a name="simpleenglish"></a>
 ### #&#8288;221 [simpleenglish](https://github.com/aminblg/simpleenglish) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · MIT · Nov 2026</sub>
@@ -6882,20 +6883,20 @@ Adds a /council command that sends a decision to up to 18 analytical personas, s
 <a name="longmemory"></a>
 ### #&#8288;384 [longmemory](https://github.com/caviraoss/longmemory) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (60) · Freshness: active (87) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Nov 2026</sub>
 
-**Temporal, access-controlled memory store for LLM agents, backed by SQLite.**
+**Temporal agent memory engine on SQLite with CLI, HTTP, MCP and dashboard.**
 
-LongMemory is a TypeScript memory engine that ingests events, documents and coding-agent sessions into an immutable graph stored in SQLite. It offers strict, historical, associative and world-grounded recall with separate recorded and valid time. The engine is exposed as an npm library, CLI, HTTP API, MCP server, Next.js dashboard and VS Code extension, plus a zero-dependency Python HTTP client.
+LongMemory is a TypeScript memory engine for LLM agents that stores immutable memories in SQLite with separate recorded and valid time. It offers strict, historical, associative and world-grounded recall under a token budget, and runs as an npm library, CLI, HTTP service, or MCP server with 13 governed tools. It also imports session logs from Claude Code, Codex, Gemini CLI and others, and ships a Next.js dashboard and VS Code extension.
 
-- **+** Recorded time and valid time are separate, so historical recall returns superseded facts
-- **+** Runs in-memory or on SQLite with no external database; reopening restores state
-- **+** One engine across npm, CLI, HTTP, MCP (13 tools), dashboard and VS Code
-- **+** Imports sessions from Claude Code, Codex, OpenCode, Gemini CLI, Copilot Chat and Cline
+- **+** Separates recorded time from valid time, so historical recall returns superseded facts
+- **+** Same engine via npm, CLI, HTTP, stdio and Streamable HTTP MCP, dashboard, VS Code
+- **+** Session porter imports Claude Code, Codex, OpenCode, Gemini CLI and Cline logs read-only
+- **+** Embeddings via OpenAI-compatible APIs, Gemini, Bedrock, Ollama or local HTTP models
 - **−** Python package is only an HTTP client; the engine needs the TypeScript service
-- **−** Last tagged release is 2025-12-12, well behind recent commits
-- **−** Embedding providers must be configured separately (OpenAI-compatible, Gemini, Bedrock, Ollama)
-- **−** Hosted deployments require setting an API key and mounting persistent storage at /data
+- **−** Last tagged release is 2025-12-20, well behind recent commits
+- **−** Large surface (assets, CodeGraph, wiki, connectors) adds concepts to learn before basic use
+- **−** Dashboard is optional and needs a Compose profile or a separate build
 
-<sub>no GPU · Docker + Compose · Needs SQLite, Node.js, pnpm · Models: OpenAI-compatible APIs, Gemini, AWS Bedrock, Ollama, Siray · port 7331 · [Repo](https://github.com/caviraoss/longmemory) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/longmemory/)</sub>
+<sub>Docker + Compose · Needs SQLite, Embedding provider (OpenAI-compatible, Gemini, Bedrock, Ollama, or local HTTP) · Models: OpenAI-compatible APIs, Gemini, AWS Bedrock, Ollama, Siray · port 7331 · [Repo](https://github.com/caviraoss/longmemory) · [📖 Docs ↗](https://github.com/CaviraOSS/LongMemory/blob/main/docs/mcp.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/longmemory/)</sub>
 
 <a name="go-modern-guidelines"></a>
 ### #&#8288;385 [go-modern-guidelines](https://github.com/jetbrains/go-modern-guidelines) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: fair (51) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · Apache-2.0 · Sep 2026</sub>
