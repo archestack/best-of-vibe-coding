@@ -628,18 +628,18 @@ entries:
     repo: ultraworkers/claw-code
     name: claw-code
     status: listed
-    tagline: Rust CLI coding agent harness using Anthropic and OpenAI-compatible APIs
-    summary: Claw Code is a Rust implementation of the `claw` command-line coding agent, built from source with cargo. It runs one-shot prompts or interactive sessions using an API key, and the docs cover local OpenAI-compatible servers such as Ollama, llama.cpp and vLLM. The README describes the repo as an agent-managed exhibit, not the production project, and points to LazyCodex and Gajae-Code for real work.
+    tagline: Rust CLI coding agent harness for prompts and sessions via API keys
+    summary: Claw Code is a Rust implementation of the `claw` CLI agent harness, built from source in the `rust/` workspace. It runs one-shot prompts or interactive sessions using an API key (Anthropic, OpenAI and others), and `claw doctor` checks key, model access and tool configuration. The README says the repo is an agent-maintained exhibit and points to LazyCodex or Gajae-Code for real work.
     categories:
       - coding-agents
     strengths:
-      - "`claw doctor` checks API key, model access and tool configuration after build"
-      - "Docs cover local OpenAI-compatible providers: Ollama, llama.cpp, vLLM"
-      - Build steps documented for macOS, Linux and Windows PowerShell
-      - MIT license; workspace test suite and deterministic mock-service parity harness
+      - Rust workspace builds a single `claw` binary with prompt and interactive modes
+      - "`claw doctor` validates API key, model access and tool config after build"
+      - Docs cover local OpenAI-compatible providers (Ollama, llama.cpp, vLLM) and Windows PowerShell
+      - Mock parity harness and `cargo test --workspace` test suite
     weaknesses:
-      - README says it is not the serious production project and points elsewhere
-      - Build-from-source only; `cargo install claw-code` installs a deprecated stub
+      - README says it is not the serious production project and points to other tools
+      - Build from source only; `cargo install claw-code` installs a deprecated stub
       - Requires an API key; Claude subscription login is not supported
       - No ACP/Zed daemon yet; `claw acp serve` only returns status
     specs:
@@ -650,16 +650,14 @@ entries:
         - LLM API key
       model_support:
         - Anthropic API
-        - OpenAI-compatible APIs
-        - Ollama
-        - llama.cpp
-        - vLLM
+        - OpenAI API
+        - OpenAI-compatible local servers (Ollama, llama.cpp, vLLM)
       web_port: null
     links:
       demo: null
       website: null
       docs: https://github.com/ultraworkers/claw-code/blob/main/USAGE.md
-    audience: Developers who want to inspect or build a Rust CLI coding agent
+    audience: Engineers inspecting a Rust coding-agent CLI harness
     confidence: 0.8
     facts:
       stars: 194726
@@ -10826,27 +10824,26 @@ entries:
     repo: op7418/codepilot
     name: codepilot
     status: listed
-    tagline: Desktop AI agent client for Claude Code workflows across many model providers
-    summary: CodePilot is an Electron and Next.js desktop app that runs chat and coding sessions against 17+ providers, including Anthropic, OpenRouter, Bedrock, Vertex, Ollama and custom OpenAI- or Anthropic-compatible endpoints. It adds MCP server management, skills, session rewind, a git panel, and a remote bridge for Telegram, Feishu, Discord, QQ and WeChat. File editing and shell commands need the Claude Code CLI installed.
+    tagline: Desktop client for chat and coding agents across many AI providers
+    summary: CodePilot is an Electron and Next.js desktop app for macOS, Windows and Linux that runs chat and coding sessions against 17+ providers, including Anthropic, OpenRouter, Bedrock, Vertex, Ollama and custom OpenAI- or Anthropic-compatible endpoints. It adds MCP servers, skills, a persistent assistant workspace, a task scheduler and bridges to Telegram, Discord, Feishu, QQ and WeChat. Data is stored locally in SQLite.
     categories:
       - coding-agents
     strengths:
-      - Switch among 17+ providers and models mid-conversation, including Ollama and custom endpoints
-      - Manages MCP servers (stdio/sse/http) with runtime status, plus skills and a skills.sh marketplace
-      - Session pause, resume and rewind to checkpoint, split-screen sessions, token and cost charts
-      - Local SQLite storage; builds for macOS, Windows and Linux, with in-app updates on macOS and Windows
+      - Switch providers and models mid-conversation across 17+ providers plus custom endpoints
+      - Session rewind to checkpoints, split-screen sessions, and token and cost charts
+      - MCP servers over stdio, sse or http, with runtime status monitoring
+      - Chat history stays local in SQLite; signed macOS builds update in-app
     weaknesses:
-      - "BSL-1.1 license: commercial use needs a separate license; converts to Apache 2.0 in 2029"
-      - File editing, terminal and git actions require the separate Claude Code CLI
-      - Windows builds are unsigned and trigger SmartScreen; Linux updates are manual
-      - Interface is English and Chinese only
+      - "BSL-1.1 license: commercial use needs a separate license until the 2029-03-16 change date"
+      - File editing, terminal commands and git operations need the Claude Code CLI installed separately
+      - Windows builds are unsigned, and Linux updates are manual downloads
+      - Interface is English and Chinese only; image generation is limited to Gemini
     specs:
       ram_min_gb: null
-      gpu: none
+      gpu: unknown
       external_deps:
-        - Claude Code CLI (optional, for file editing and terminal)
-        - Node.js 18+ (build from source)
-        - Provider API keys
+        - Node.js 24+ (build from source)
+        - Claude Code CLI (optional)
       model_support:
         - Anthropic
         - OpenRouter
@@ -10854,17 +10851,17 @@ entries:
         - Google Vertex AI
         - Ollama
         - LiteLLM
-        - OpenAI-compatible endpoints
         - Zhipu GLM
         - Kimi
         - MiniMax
+        - OpenAI-compatible endpoints
       web_port: 3000
     links:
       demo: null
       website: https://www.codepilot.sh
       docs: https://www.codepilot.sh/docs
-    audience: Developers wanting a multi-provider desktop client for Claude Code-style agents
-    confidence: 0.85
+    audience: Developers wanting a desktop agent client that works with many model providers
+    confidence: 0.78
     facts:
       stars: 6521
       license: NOASSERTION
@@ -11995,21 +11992,21 @@ entries:
     repo: apodexai/frontieragent
     name: frontieragent
     status: listed
-    tagline: Terminal agent runtime with single-agent and parallel sub-agent research workflows
-    summary: "FrontierAgent is a Python terminal UI and agent runtime for long-horizon research and file-based work. It has two modes: a stateful ReAct agent, and an Agent Team where a coordinator delegates to parallel sub-agents through a task board. Shell and file tools run in a task-scoped sandbox with /inputs, /workspace and /outputs, with diff approval, checkpoints and /revert. It also bundles a benchmark runner for BrowseComp, HLE, GDPval and others."
+    tagline: Terminal agent with ReAct and parallel sub-agent modes for research and file work
+    summary: FrontierAgent is a Python agent runtime with a `frontier-agent` TUI that runs either a single stateful ReAct agent or an Agent Team, where a coordinator delegates to parallel sub-agents through a task board. Shell and file tools work in a task-scoped sandbox with /inputs, /workspace and /outputs, and writes need approval. The same workflow engine drives a benchmark harness covering BrowseComp, HLE, GDPval and others.
     categories:
       - agents
       - coding-agents
     strengths:
-      - Agent Team mode with live task board and bounded parallel sub-agents
-      - Read-only /inputs, writable /workspace and /outputs; mutations need approval and are revertable
-      - Works with any OpenAI-compatible endpoint; optional keyless Parallel MCP for web search
-      - Bundled benchmark harness with resumable runs and per-failure reruns
+      - Agent Team mode with live task board and parallel sub-agents
+      - Approval gates with diffs, local traces, /revert and --resume checkpoints
+      - Works with any OpenAI-compatible endpoint; no model hosting required
+      - Includes a resumable benchmark runner for 14 listed benchmarks
     weaknesses:
-      - Aimed at research and file deliverables rather than code editing in an IDE
-      - Agent Team concurrency multiplies with runner concurrency, raising simultaneous model calls
-      - Prebuilt GHCR image is private and needs docker login; otherwise build from source
-      - Local SGLang serving depends on pinned NVIDIA driver and CUDA tracks
+      - Tuned for Apodex-1.1 models; results with other endpoints are not documented
+      - Web search needs Serper, Parallel MCP or Keenable; Jina key for fetch
+      - Local SGLang serving is pinned to specific NVIDIA driver and CUDA tracks
+      - Prebuilt GHCR image is private; most users must build it
     specs:
       ram_min_gb: null
       gpu: optional
@@ -12017,20 +12014,21 @@ entries:
         - Python 3.12
         - uv
         - OpenAI-compatible model endpoint
-        - Serper or Jina API keys (optional)
         - Docker (optional)
-        - SGLang (optional)
+        - Serper, Parallel MCP or Keenable (optional, web search)
+        - Jina (optional, web fetch)
+        - SGLang (optional, local serving)
       model_support:
         - OpenAI-compatible endpoints
         - Apodex-1.1
-        - SGLang-served models
+        - Apodex-1.0 (SGLang)
       web_port: null
     links:
-      demo: null
+      demo: https://www.apodex.ai
       website: https://www.apodex.com/
       docs: null
-    audience: Engineers running long-horizon research agents or benchmarking agent workflows
-    confidence: 0.8
+    audience: Engineers running long-horizon research or file-based agent tasks and benchmarks
+    confidence: 0.7
     facts:
       stars: 5446
       license: Apache-2.0
@@ -12045,21 +12043,21 @@ entries:
     repo: vitali87/code-graph-rag
     name: code-graph-rag
     status: listed
-    tagline: Tree-sitter code knowledge graph you query and edit in plain English
-    summary: Parses a multi-language repository with Tree-sitter into a knowledge graph stored in an embedded SQLite file by default, with Memgraph and Neo4j as opt-in backends. A CLI agent (cgr) turns natural-language questions into Cypher, retrieves source, finds dead code, and applies AST-based edits with a diff preview. It also runs as an MCP server for Claude Code and other clients.
+    tagline: CLI that indexes a codebase into a graph for natural-language queries and edits
+    summary: Code-Graph-RAG parses a multi-language repository with Tree-sitter into a knowledge graph stored in an embedded SQLite file by default. The `cgr` CLI turns natural-language questions into Cypher queries, retrieves source, applies AST-based edits with diff preview, and finds dead code. It also runs as an MCP server, and can merge runtime call traces into the graph.
     categories:
       - coding-agents
       - dev-mcp
     strengths:
-      - "Embedded SQLite graph by default: no database server, Docker or cmake needed"
-      - 14 languages fully supported under one graph schema, plus an ast-grep tier for more
-      - Optional compiler frontends (libclang, go/types, Roslyn, javac, Jedi) and runtime trace merging
-      - Runs as an MCP server for Claude Code and other MCP clients
+      - Embedded SQLite graph by default, so no database server is needed
+      - Fully supports 14 languages under one graph schema, including mixed-language monorepos
+      - Compiler frontends and runtime traces (`cgr trace`) add facts static parsing misses
+      - Exposes the graph to Claude Code and other clients through an MCP server
     weaknesses:
-      - PyPI and GitHub releases follow every 50th version; newest code needs a git install
-      - Needs Python 3.12+ and ripgrep; older system interpreters need manual pinning
-      - --clean deletes every project in the shared graph, not only the current repo
-      - Managed cloud and air-gapped deployments are sold as paid enterprise services
+      - PyPI releases ship only every 50th version, so installs lag the newest git tag
+      - Native extension limits installs to CPython 3.12+ on Linux, macOS and Windows x64
+      - Ruby, Kotlin, Swift and others get only structural support via ast-grep
+      - "`--clean` deletes every project in the shared graph, not just the current repo"
     specs:
       ram_min_gb: null
       gpu: unknown
@@ -12068,15 +12066,15 @@ entries:
         - ripgrep
         - Memgraph (optional)
         - Neo4j (optional)
-        - Qdrant (optional)
+        - Qdrant (optional, with Memgraph stack)
       model_support: []
       web_port: null
     links:
       demo: null
       website: https://code-graph-rag.com
-      docs: https://docs.code-graph-rag.com
-    audience: Engineers wanting graph-grounded code Q&A and edits across mixed-language repos
-    confidence: 0.78
+      docs: https://docs.code-graph-rag.com/
+    audience: Engineers who want graph-grounded Q&A and edits over large or polyglot repos
+    confidence: 0.8
     facts:
       stars: 5406
       license: MIT
@@ -12136,28 +12134,28 @@ entries:
     repo: tiann/hapi
     name: hapi
     status: listed
-    tagline: Remote control for coding agent CLI sessions from phone or web
-    summary: HAPI wraps official coding agent CLIs (Claude Code, Codex, Cursor Agent, OpenCode, Copilot and others) and runs a hub, so you can watch, approve and continue the same sessions from native iOS/Android apps, a web/PWA client or a Telegram Mini App. Sessions move between local terminal and remote without a restart. The hub can use an E2E encrypted relay, Cloudflare Tunnel or Tailscale.
+    tagline: Remote control for local Claude Code, Codex and other coding agent sessions
+    summary: HAPI wraps official coding agent CLIs (Claude Code, Codex, Cursor Agent, OpenCode, Copilot and others) and runs a hub so you can watch, approve and continue sessions from a web/PWA client, native iOS/Android apps or a Telegram Mini App. The hub can expose itself through an end-to-end encrypted relay (WireGuard + TLS), Cloudflare Tunnel or Tailscale. Sessions can move between local terminal and remote without restarting.
     categories:
       - coding-agents
       - agents
     strengths:
-      - Wraps the official CLIs of ten agents instead of replacing them
-      - Approve agent requests from a phone; web terminal and file browser included
-      - SwiftUI and Kotlin Compose native clients live in the same repo
-      - Self-host via Cloudflare Tunnel or Tailscale, or use the WireGuard+TLS relay
+      - Wraps the official agent CLIs, so the terminal workflow stays the same
+      - Supports about ten agents behind one hub, including Claude Code, Codex and OpenCode
+      - Web/PWA client is free and includes remote terminal and voice assistant
+      - Self-hosted access via Cloudflare Tunnel or Tailscale as alternatives to the relay
     weaknesses:
-      - AGPL-3.0 license restricts use in closed network services
+      - Native iOS and Android apps are paid
+      - AGPL-3.0 license limits use in closed network services
+      - No Docker or Compose files provided; source build requires Bun 1.4.4
       - Shared Codex sessions require Codex 0.154.0 or newer
-      - Native apps are built from source; store availability is not stated
-      - No Docker or compose files; building from source needs Bun 1.4.0
     specs:
       ram_min_gb: null
       gpu: none
       external_deps:
-        - Bun 1.4.0 (build from source)
-        - Agent CLIs (Claude Code, Codex, etc.)
-        - Cloudflare Tunnel or Tailscale (optional)
+        - Bun 1.4.4 (build from source)
+        - Claude Code / Codex / other agent CLIs
+        - "Optional: Cloudflare Tunnel or Tailscale"
       model_support:
         - Claude Code
         - Codex
@@ -12174,8 +12172,8 @@ entries:
       demo: null
       website: null
       docs: null
-    audience: Developers running agent CLIs who want to monitor and approve them remotely
-    confidence: 0.85
+    audience: Developers who want to supervise local coding agent sessions from a phone
+    confidence: 0.8
     facts:
       stars: 5449
       license: AGPL-3.0
@@ -12190,21 +12188,21 @@ entries:
     repo: waishnav/devspace
     name: devspace
     status: listed
-    tagline: Self-hosted MCP server that lets ChatGPT edit and run code in local projects
-    summary: DevSpace is a Node-based MCP server that exposes selected local project folders to ChatGPT or other MCP clients. The client can read, write and edit files, search code, run shell commands, and use isolated Git worktrees. You expose the `/mcp` endpoint through your own HTTPS tunnel and approve connections with an Owner password.
+    tagline: MCP server that gives ChatGPT and Claude your local repo and coding agents
+    summary: DevSpace runs locally and exposes an MCP endpoint (/mcp on port 7676) through a tunnel you provide, so ChatGPT, Claude or Grok Bot can open an allowed folder, edit files, run shell commands and show a diff review card. It also has a `devspace agents` CLI that lets one coding agent hand work to Codex, Claude Code, OpenCode, Pi, Cursor, Copilot or Grok Build, using Git worktrees for parallel writers.
     categories:
       - dev-mcp
       - coding-agents
     strengths:
-      - Access limited to folder roots you allow; connections need an Owner password
-      - Reads AGENTS.md and CLAUDE.md and discovers local agent skills
-      - Isolated Git worktrees for parallel coding sessions
-      - Works with Linux, macOS and Windows via Git Bash or WSL
+      - Runs locally with your own credentials; no DevSpace-hosted service
+      - Delegates to existing agent CLIs and subscriptions, with per-task Git worktrees
+      - Markdown agent profiles map named roles like planner and reviewer to models
+      - Owner password approval on connect; you choose which root folders a host may open
     weaknesses:
-      - Connected client gets shell execution on your machine
-      - Needs a public HTTPS tunnel you set up yourself for ChatGPT
-      - Windows PowerShell or cmd.exe alone is not supported
-      - Requires Node >=22.19 and a Bash-compatible shell
+      - Connected hosts get shell execution on your machine, so the trust surface is large
+      - Needs a public HTTPS tunnel you set up for ChatGPT or Claude connectors
+      - Windows needs Git Bash or WSL; PowerShell and cmd.exe alone are unsupported
+      - Dynamic workflows are experimental and gated behind an environment variable
     specs:
       ram_min_gb: null
       gpu: none
@@ -12212,17 +12210,26 @@ entries:
         - Node >=22.19 <27
         - Git
         - Bash
-        - HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy)
+        - Tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or HTTPS reverse proxy)
+        - SQLite
       model_support:
-        - ChatGPT (MCP connector)
-        - Other MCP clients
+        - ChatGPT
+        - Claude
+        - Grok Bot
+        - Codex
+        - Claude Code
+        - OpenCode
+        - Pi
+        - Cursor
+        - Copilot
+        - Grok Build
       web_port: 7676
     links:
       demo: null
-      website: null
-      docs: null
-    audience: ChatGPT users who want it to work on local repos through MCP
-    confidence: 0.75
+      website: https://devspace.run
+      docs: https://devspace.run/docs
+    audience: Developers wiring ChatGPT, Claude or coding agents to their local repos
+    confidence: 0.8
     facts:
       stars: 5538
       license: MIT
@@ -12237,38 +12244,37 @@ entries:
     repo: awslabs/aidlc-workflows
     name: aidlc-workflows
     status: listed
-    tagline: Approval-gated delivery workflows for AI coding assistants
-    summary: AI-DLC installs a harness-neutral workflow engine into Claude Code, Kiro CLI and IDE, Codex CLI, Cursor, opencode and GitHub Copilot. A single /aidlc command picks one of 11 workflow profiles, runs 33 stages across 5 phases with 14 agents, and stops at human approval gates. State, a 119-event audit trail and learned rules persist per project.
+    tagline: Staged, approval-gated workflow layer for AI coding assistants
+    summary: AI-DLC installs a harness-neutral workflow engine and an `aidlc` CLI that run inside Claude Code, Kiro, Codex CLI, Cursor, opencode and GitHub Copilot. A request such as `/aidlc Build a REST API` is routed to one of 11 workflow profiles spanning 5 phases and 33 stages, with 14 agents, human approval gates and a 134-event audit trail. It is a methodology layer on top of existing assistants, not a standalone agent.
     categories:
       - skills-plugins
       - coding-agents
     strengths:
-      - Same engine across seven harnesses, configured with `aidlc config --harness`
-      - Human approval gates and a 119-event audit trail
-      - 11 workflow profiles, including bug fix, infrastructure, security and proof of concept
-      - Native installer; Bun and Node.js not needed for normal install
+      - Same engine across Claude Code, Kiro, Codex CLI, Cursor, opencode and Copilot
+      - Human approval gates plus persistent state, team knowledge and audit trail
+      - 11 workflow profiles for features, bug fixes, infrastructure, security and PoCs
+      - Native installer needs no Bun or Node.js; `aidlc doctor` checks setup
     weaknesses:
-      - Needs a separate harness and model provider; AI-DLC supplies neither
-      - Install is a curl-to-shell script; manual path requires Bun
-      - Large surface (33 stages, 14 agents, 93 tools) means a learning curve
-      - Recommended model is Claude Opus 4.8; quality on other models unknown
+      - Needs a separate assistant and model; recommends Claude Opus 4.8
+      - Install is a curl-pipe-to-shell script; manual copy path requires Bun
+      - Harness version minimums and renamed Kiro flags complicate upgrades
+      - 33 stages and 14 agents add process overhead for small tasks
     specs:
       ram_min_gb: null
       gpu: none
       external_deps:
         - Claude Code, Kiro, Codex CLI, Cursor, opencode or GitHub Copilot
         - Bun (manual-copy install only)
-        - Amazon Bedrock (optional)
       model_support:
         - Claude Opus 4.8 (recommended)
         - Amazon Bedrock
-        - Provider set by harness
+        - Provider set by the chosen harness
       web_port: null
     links:
       demo: null
       website: https://awslabs.github.io/aidlc-workflows/roadmap.html
       docs: https://github.com/awslabs/aidlc-workflows/blob/main/docs/guide/01-getting-started.md
-    audience: Teams adding gated, auditable delivery workflows to AI coding assistants
+    audience: Teams wanting auditable workflows in their existing AI coding assistant
     confidence: 0.8
     facts:
       stars: 6221
@@ -12284,36 +12290,35 @@ entries:
     repo: mistralai/mistral-vibe
     name: mistral-vibe
     status: listed
-    tagline: Terminal coding agent from Mistral with file, shell and subagent tools
-    summary: Mistral Vibe is a Python CLI that lets Mistral models read, edit and search a codebase and run shell commands from a chat prompt. It has approval-based agent profiles (ask, plan, accept-edits, auto-approve), subagents via a task tool, skills, slash commands and MCP server configuration. A programmatic mode (-p) adds limits on turns, cost, tokens and time, with JSON output and exit codes for scripting.
+    tagline: Terminal coding agent that reads, edits and runs commands in your repo
+    summary: Mistral Vibe is a Python CLI coding agent from Mistral AI. You describe a task in the terminal, and it reads your code, edits files and runs commands, asking for approval before risky actions. Sign-in uses a Mistral account or an API key, and it also has a programmatic mode and use from other IDEs.
     categories:
       - coding-agents
     strengths:
-      - Scriptable -p mode with --max-turns, --max-price, --max-tokens, --time-limit and defined exit codes
-      - "Agent profiles control approvals: ask, plan (read-only), accept-edits (default), auto-approve"
-      - Supports subagents, custom skills, slash commands, MCP servers and custom agent files
-      - Trust-folder prompt guards against running in unvetted directories
+      - Installs with one curl script on macOS/Linux or `uv tool install` on any platform
+      - Asks for approval before risky actions; permissions model is documented
+      - Programmatic mode and use from other IDEs are documented
+      - Telemetry can be turned off with `enable_telemetry = false` in config.toml
     weaknesses:
-      - Officially supports UNIX only; Windows works but is not a target
-      - Built around Mistral's models; other provider support is not stated in the visible README
-      - Needs a modern terminal emulator; older terminals may render badly
-      - Some features are experimental, such as --agent-socket
+      - Does not accept pull requests; only bug reports and feature requests
+      - Needs a GIL-enabled Python 3.12+; some Python versions break installs
+      - Sign-in is a Mistral account or API key; other providers not stated
+      - Telemetry and crash reporting are on unless disabled in config
     specs:
       ram_min_gb: null
       gpu: none
       external_deps:
-        - Python 3.12+
-        - Mistral API key
+        - Python 3.12+ (GIL build)
         - uv (Windows install)
+        - Mistral account or API key
       model_support:
-        - Mistral models
-        - Mistral Medium 3.5 (vision)
+        - Mistral models via Mistral API
       web_port: null
     links:
       demo: null
       website: null
-      docs: null
-    audience: Developers who want a scriptable terminal coding agent using Mistral models
+      docs: https://docs.mistral.ai/vibe/code/overview
+    audience: Developers who want a terminal coding agent backed by Mistral models
     confidence: 0.85
     facts:
       stars: 5463
@@ -12329,42 +12334,33 @@ entries:
     repo: peonping/peon-ping
     name: peon-ping
     status: listed
-    tagline: Plays game character voice lines and banners when AI coding agents finish or need input
-    summary: peon-ping registers hooks and adapters for Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode and about a dozen other agents. It plays sound-pack voice lines (Warcraft, StarCraft, Portal and others) and shows overlay banners and terminal tab titles on events such as task complete, permission needed, error and rate limit. It ships a `peon` CLI, an MCP server, SSH relay and phone notifications via ntfy.
+    tagline: Game character voice lines and overlay banners when coding agents finish or need input
+    summary: peon-ping registers hooks and adapters for Claude Code, Codex, Cursor, Copilot, Gemini CLI, OpenCode and other agents. It plays sound-pack voice lines (Warcraft, StarCraft, Portal and others) and shows overlay banners on task completion, permission prompts, errors, rate limits and rapid prompts. It ships a `peon` CLI for volume, packs, per-directory pack bindings and ntfy phone alerts, and implements the open CESP sound pack spec.
     categories:
       - skills-plugins
     strengths:
-      - Adapters for 20+ agents and IDEs, plus any MCP client
-      - Per-event sound categories following the open CESP pack spec
-      - Per-directory and per-IDE pack bindings, path exclusions, and Focus/DND detection
-      - Installs via Homebrew, shell script, PowerShell, or Nix with Home Manager module
+      - Adapters for 20+ agents and IDEs, plus an MCP server for any MCP client
+      - Installs via Homebrew, shell script, PowerShell, or Nix with a Home Manager module
+      - Per-directory and per-IDE pack bindings, path exclusions, and Focus/Do Not Disturb detection
+      - Audio relay for SSH, devcontainers and Codespaces; ntfy push for phone alerts
     weaknesses:
       - Windows lacks some CLI commands such as setup, rotation, preview and mobile
-      - WSL2 on Windows 11 24H2+ needs ffmpeg to play MP3 packs
-      - Written in Shell; installer is piped from curl by default
-      - Overlay banners listed only for macOS, WSL and MSYS2, not plain Linux
+      - On WSL2 with Windows 11 24H2+, MP3 packs need ffmpeg to transcode
+      - Overlay banners are listed only for macOS, WSL and MSYS2, not native Linux
+      - Non-Claude agents need separate adapter wiring; Nix IDE hooks are opt-in
     specs:
       ram_min_gb: null
       gpu: none
       external_deps:
-        - ffmpeg (WSL2 on Windows 11 24H2+, MP3 packs)
+        - ffmpeg (WSL2 on Windows 11 24H2+, for MP3 packs)
         - ntfy (optional, phone notifications)
-      model_support:
-        - Claude Code
-        - Codex
-        - Cursor
-        - GitHub Copilot
-        - Gemini CLI
-        - OpenCode
-        - Windsurf
-        - Amp
-        - any MCP client
+      model_support: []
       web_port: null
     links:
       demo: https://peonping.com/
       website: https://peonping.com/
       docs: null
-    audience: Developers running AI coding agents who tab away and miss prompts
+    audience: Developers running AI coding agents who want audible and visual alerts
     confidence: 0.85
     facts:
       stars: 5122
@@ -12432,37 +12428,38 @@ entries:
     repo: callstack/agent-device
     name: agent-device
     status: listed
-    tagline: CLI and MCP server that lets coding agents drive and verify mobile apps
-    summary: agent-device lets coding agents open, inspect and control apps on iOS, Android, HarmonyOS, TV platforms, web, macOS and Linux. It exposes the same runtime as a CLI, a stdio MCP server (`agent-device mcp`) and a typed Node.js client. Agents read accessibility-tree snapshots, act through refs and selectors, and save screenshots, video and logs as evidence.
+    tagline: CLI and MCP server that lets coding agents drive mobile, TV, web and desktop apps
+    summary: agent-device lets coding agents open apps on iOS, Android, HarmonyOS, tvOS, Android TV, Fire OS, web, macOS and Linux, read accessibility-tree snapshots, and act through refs and selectors. It runs as a CLI, a stdio MCP server (`agent-device mcp`), or a typed Node.js client. Sessions are scoped per git worktree, runs can be saved as `.ad` replay scripts or exported as Maestro YAML, and remote device clouds are supported.
     categories:
       - dev-mcp
       - code-review
     strengths:
-      - Same session model across CLI, MCP server and typed Node.js API
-      - Token-efficient accessibility snapshots with refs instead of screenshot-only reasoning
-      - Records runs as .ad replay scripts for CI, with strict Maestro YAML export
-      - Per-worktree sessions and device claims keep parallel agents off each other's simulators
+      - Same runtime exposed as CLI, stdio MCP server and typed Node.js API
+      - Token-efficient accessibility snapshots instead of screenshot-only reasoning
+      - Worktree-scoped sessions and device claims keep parallel agents off each other's simulators
+      - Saves runs as .ad replay scripts for CI; exports strict Maestro YAML
     weaknesses:
-      - HarmonyOS and Vega OS backends support only a subset of commands
-      - Reliability depends on clear accessibility labels, roles and test IDs in the app
-      - Web automation needs Node.js 24 and agent-browser; core CLI needs Node.js 22.12
-      - Backends depend on platform toolchains such as XCTest, ADB and HDC being installed
+      - Command support varies by target; HarmonyOS and Vega OS cover only a subset
+      - Snapshot reliability depends on the app's accessibility labels, roles and test IDs
+      - Requires Node.js 22.12+; web automation needs Node.js 24+
+      - Web support is basic and delegates to agent-browser
     specs:
       ram_min_gb: null
-      gpu: unknown
+      gpu: none
       external_deps:
-        - Node.js 22.12+ (24+ for web)
-        - XCTest/iOS Simulator (iOS, tvOS)
+        - Node.js 22.12+
+        - XCTest (iOS)
         - ADB (Android)
         - HDC (HarmonyOS)
+        - AT-SPI (Linux)
         - agent-browser (web)
       model_support: []
       web_port: null
     links:
       demo: null
       website: https://agent-device.dev/
-      docs: https://oss.callstack.com/agent-device/
-    audience: Mobile and React Native developers who want coding agents to verify app changes
+      docs: https://agent-device.dev/docs/quick-start
+    audience: Mobile and React Native developers letting coding agents verify app changes
     confidence: 0.85
     facts:
       stars: 5493
@@ -12525,37 +12522,36 @@ entries:
     repo: chaitin/monkeycode
     name: monkeycode
     status: listed
-    tagline: AI development platform that runs coding tasks in server-side environments
-    summary: MonkeyCode is a web platform where AI agents carry out development tasks inside server-side environments, with build, test and preview done remotely. It adds model management, task management, requirement/SPEC management and automated PR/MR review for engineering teams. It can be used online or installed inside a private network with an install script.
+    tagline: Team AI workbench for office, coding and design tasks with admin controls
+    summary: MonkeyAI (百智办公) is a self-hostable workbench where team members describe office, coding or design tasks in natural language and an AI produces the deliverable. An admin panel shares models, knowledge bases, skills, MCP connectors and rules across the team, with permission control, usage audit, statistics and billing. Desktop clients exist for Windows, macOS and Linux, plus a web client.
     categories:
       - app-builders
       - coding-agents
     strengths:
-      - Runs tasks in server-side dev environments, no local setup needed
-      - Integrates GLM, Kimi, MiniMax, Qwen and DeepSeek, switchable per task
-      - Includes requirement/SPEC management, team collaboration and PR/MR review
-      - Private deployment possible; source is auditable under AGPL-3.0
+      - Admin panel covers shared resources, permissions, usage audit, statistics and billing
+      - Connects your own model services and MCP connectors
+      - Desktop clients for Windows, macOS (arm64, x64) and Linux, plus web
+      - Public demo server and demo admin console with login provided
     weaknesses:
-      - No local IDE, local CLI or code completion, per its own comparison table
-      - Self-hosting needs a dev environment host of at least 8C/16 GB/100 GB
-      - Install is a curl-piped script; no Docker or Compose files detected
-      - AGPL-3.0 adds source-disclosure obligations for network use
+      - Free edition limited to 10 seats; cloud desktop and support are paid only
+      - README and docs are in Chinese only
+      - Android, iOS, Linux ARM64 and HarmonyOS clients not yet available
+      - Install uses a curl-piped shell script from the vendor's server
     specs:
-      ram_min_gb: 4
+      ram_min_gb: 1
       gpu: none
-      external_deps: []
+      external_deps:
+        - External LLM provider
+        - MCP connectors (optional)
       model_support:
-        - GLM
-        - Kimi
-        - MiniMax
-        - Qwen
-        - DeepSeek
+        - Team-configured model services
+        - MCP connectors
       web_port: null
     links:
-      demo: https://monkeycode-ai.net/
-      website: https://monkeycode-ai.net/
-      docs: https://monkeycode.docs.baizhi.cloud/
-    audience: Engineering teams wanting a shared, self-hosted AI coding platform
+      demo: https://demo.work.baizhi.cloud/
+      website: https://work.baizhi.cloud/
+      docs: https://work.docs.baizhi.cloud/
+    audience: Chinese-speaking teams wanting a self-hosted, admin-managed AI workspace
     confidence: 0.7
     facts:
       stars: 5357
@@ -12571,37 +12567,37 @@ entries:
     repo: totec448-spec/chat-on-steroids
     name: chat-on-steroids
     status: listed
-    tagline: Desktop app that lets ChatGPT edit local files and run terminals via MCP
-    summary: Desktop app (Windows, macOS Apple silicon, Linux) that connects a ChatGPT conversation to local files, shell and desktop tools through a custom MCP server and a browser extension for Chrome, Edge or Brave. It adds worker sub-agents, Goal and Loop modes for long tasks, and Compact & Resume to carry history into a new chat. It drives the ChatGPT web UI rather than calling Codex or a public API.
+    tagline: Desktop app that lets ChatGPT edit local files and run commands via MCP
+    summary: Chat On Steroids is an Electron-style desktop app (Windows, macOS, Linux) that connects your ChatGPT conversation to local tools over MCP, so ChatGPT can read and edit files, run tests and keep terminals open. A browser extension for Chrome, Edge or Brave drives the ChatGPT UI. It adds parallel workers, Goal/Loop modes, per-folder permissions and ntfy or Telegram notifications. It is an unofficial beta and does not call Codex directly.
     categories:
       - coding-agents
     strengths:
-      - Reuses an existing ChatGPT plan; no separate model API billing described
-      - Workers keep context between tasks and run independent jobs in parallel
-      - Prebuilt installers for Windows x64, macOS arm64 and Linux x64 (DEB)
-      - MIT licensed, UI available in 12 languages
+      - "Folder-level access control: choose which folders ChatGPT may touch and what it may do"
+      - Workers run independent jobs in parallel and keep context between tasks
+      - Telegram bot can show status, pause or stop chats, and deny approvals remotely
+      - Installers for Windows x64, macOS Apple silicon and Linux x64 DEB
     weaknesses:
-      - Automates the ChatGPT browser UI, which is not a public API; account restrictions possible
-      - Windows and macOS builds are unsigned; macOS prompts for a password after each update
-      - Setup requires a tunnel, restricted OpenAI API key and custom MCP app in ChatGPT
-      - Locked to ChatGPT; needs a plan that supports custom MCP apps
+      - Depends on automating the ChatGPT web UI, which is not a public API
+      - Setup needs a tunnel, restricted API key and custom MCP app in ChatGPT
+      - Windows and macOS builds are unsigned; macOS asks for a password after each update
+      - Requires a ChatGPT plan that allows custom MCP apps; usage limits still apply
     specs:
       ram_min_gb: null
       gpu: none
       external_deps:
         - ChatGPT account with custom MCP app support
-        - Chrome 125+, Edge or Brave
         - OpenAI tunnel and restricted API key
-        - Linux Secret Service keyring
+        - Chrome 125+, Edge or Brave with browser extension
+        - Secret Service keyring (Linux)
       model_support:
-        - ChatGPT models (account-dependent)
+        - ChatGPT models available to your account
       web_port: null
     links:
       demo: null
       website: null
       docs: https://github.com/totec448-spec/chat-on-steroids/blob/main/docs/setup.md
-    audience: ChatGPT subscribers wanting Codex-style local coding without a separate API
-    confidence: 0.8
+    audience: ChatGPT subscribers who want Codex-style local coding without the Codex CLI
+    confidence: 0.72
     facts:
       stars: 5207
       license: MIT
@@ -12616,21 +12612,21 @@ entries:
     repo: prest/prest
     name: prest
     status: listed
-    tagline: REST and read-only MCP API generated from a PostgreSQL or MySQL database
-    summary: pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or MySQL (8.0.19+) database as REST endpoints at /{database}/{schema}/{table}, with auth, ACL and custom SQL routes. It also serves a read-only MCP endpoint so AI clients can query the same data. It can serve several databases from a registry or an allow-list.
+    tagline: Go server that exposes PostgreSQL or MySQL as REST and read-only MCP APIs
+    summary: pREST is a Go service that sits in front of an existing PostgreSQL (9.5+) or MySQL (8.0.19+) database and serves CRUD over GET /{database}/{schema}/{table}. It adds custom SQL routes from query script templates, auth, ACLs, and a read-only MCP endpoint for AI clients. One instance can serve several databases through a registry or an allow-list.
     categories:
       - backends
       - dev-mcp
     strengths:
-      - Generates CRUD REST routes straight from an existing Postgres or MySQL schema
-      - Custom SQL query scripts support bound parameters via sqlVal, sqlList and ident helpers
-      - Serves multiple databases via a [[databases]] registry or pg.allowed_databases
-      - Built-in read-only MCP endpoint, plus auth and ACL configuration
+      - Instant REST CRUD on an existing Postgres or MySQL schema, no handwritten backend
+      - Read-only MCP endpoint built in, with docs for Cursor and Claude clients
+      - Query templates can bind values (sqlVal, sqlList, ident) instead of screened interpolation
+      - Serves multiple databases per instance; config can be passed as a JSON env var
     weaknesses:
-      - Only PostgreSQL and MySQL; MariaDB, TiDB and Aurora MySQL are roadmap items
-      - Interpolated query-script values are screened and rejected if they contain quotes or SQL keywords
-      - MySQL support is newer (v2.5.0) and with prepare = false interpolates placeholders
-      - MCP endpoint is read-only, so AI clients cannot write through it
+      - MySQL support is newer (v2.5.0); MariaDB, TiDB and Aurora MySQL are still roadmap
+      - On MySQL, schema must equal database, so other-schema paths return 404
+      - Interpolated query-script values are refused if they contain quotes or SQL keywords
+      - MySQL with default prepare = false interpolates placeholders instead of sending values out of band
     specs:
       ram_min_gb: null
       gpu: none
@@ -12642,8 +12638,8 @@ entries:
       demo: null
       website: https://docs.prestd.com/
       docs: https://docs.prestd.com/
-    audience: Developers who want an instant REST or MCP API over an existing SQL database
-    confidence: 0.85
+    audience: Developers who want a REST or MCP API over an existing SQL database
+    confidence: 0.8
     facts:
       stars: 4640
       license: MIT
@@ -12755,42 +12751,41 @@ entries:
     repo: caviraoss/longmemory
     name: longmemory
     status: listed
-    tagline: Temporal, access-controlled memory store for LLM agents, backed by SQLite
-    summary: LongMemory is a TypeScript memory engine that ingests events, documents and coding-agent sessions into an immutable graph stored in SQLite. It offers strict, historical, associative and world-grounded recall with separate recorded and valid time. The engine is exposed as an npm library, CLI, HTTP API, MCP server, Next.js dashboard and VS Code extension, plus a zero-dependency Python HTTP client.
+    tagline: Temporal agent memory engine on SQLite with CLI, HTTP, MCP and dashboard
+    summary: LongMemory is a TypeScript memory engine for LLM agents that stores immutable memories in SQLite with separate recorded and valid time. It offers strict, historical, associative and world-grounded recall under a token budget, and runs as an npm library, CLI, HTTP service, or MCP server with 13 governed tools. It also imports session logs from Claude Code, Codex, Gemini CLI and others, and ships a Next.js dashboard and VS Code extension.
     categories:
       - skills-plugins
       - dev-mcp
     strengths:
-      - Recorded time and valid time are separate, so historical recall returns superseded facts
-      - Runs in-memory or on SQLite with no external database; reopening restores state
-      - One engine across npm, CLI, HTTP, MCP (13 tools), dashboard and VS Code
-      - Imports sessions from Claude Code, Codex, OpenCode, Gemini CLI, Copilot Chat and Cline
+      - Separates recorded time from valid time, so historical recall returns superseded facts
+      - Same engine via npm, CLI, HTTP, stdio and Streamable HTTP MCP, dashboard, VS Code
+      - Session porter imports Claude Code, Codex, OpenCode, Gemini CLI and Cline logs read-only
+      - Embeddings via OpenAI-compatible APIs, Gemini, Bedrock, Ollama or local HTTP models
     weaknesses:
       - Python package is only an HTTP client; the engine needs the TypeScript service
-      - Last tagged release is 2025-12-12, well behind recent commits
-      - Embedding providers must be configured separately (OpenAI-compatible, Gemini, Bedrock, Ollama)
-      - Hosted deployments require setting an API key and mounting persistent storage at /data
+      - Last tagged release is 2025-12-20, well behind recent commits
+      - Large surface (assets, CodeGraph, wiki, connectors) adds concepts to learn before basic use
+      - Dashboard is optional and needs a Compose profile or a separate build
     specs:
       ram_min_gb: null
-      gpu: none
+      gpu: unknown
       external_deps:
         - SQLite
-        - Node.js
-        - pnpm
+        - Embedding provider (OpenAI-compatible, Gemini, Bedrock, Ollama, or local HTTP)
       model_support:
         - OpenAI-compatible APIs
         - Gemini
         - AWS Bedrock
         - Ollama
         - Siray
-        - local HTTP models
+        - local HTTP embedding models
       web_port: 7331
     links:
       demo: null
       website: null
-      docs: null
-    audience: Developers adding persistent memory to coding agents or LLM apps
-    confidence: 0.6
+      docs: https://github.com/CaviraOSS/LongMemory/blob/main/docs/mcp.md
+    audience: Developers adding persistent, auditable memory to agents or coding assistants
+    confidence: 0.72
     facts:
       stars: 4585
       license: Apache-2.0
@@ -12805,27 +12800,24 @@ entries:
     repo: docker/docker-agent
     name: docker-agent
     status: listed
-    tagline: Docker CLI plugin that runs multi-agent teams defined in YAML
-    summary: "docker-agent is a Go CLI plugin (`docker agent run agent.yaml`) that runs agents declared in YAML: model, instructions, and toolsets, including any MCP server. Agents can delegate to other agents, and configs can be pushed to and pulled from OCI registries. It supports OpenAI, Anthropic, Gemini, AWS Bedrock, Mistral, xAI and Docker Model Runner, plus built-in RAG with BM25, embeddings and reranking."
+    tagline: Declarative YAML multi-agent runner with MCP tools and OCI sharing
+    summary: docker-agent runs AI agents defined in YAML, with per-agent model, instructions and toolsets, and lets agents delegate to each other. Tools come from built-in think, todo and memory tools plus any MCP server (local, remote or Docker-based). Agents can be pushed to and pulled from OCI registries, and it works with cloud providers or Docker Model Runner for local models.
     categories:
       - agents
     strengths:
-      - Agents, tools and models declared in versionable YAML, no code required
-      - Works with local, remote or Docker-based MCP servers as toolsets
-      - Agent configs can be shared through any OCI registry
-      - Many providers supported, plus local models via Docker Model Runner
+      - Agents defined in versionable YAML, no code required
+      - Supports OpenAI, Anthropic, Gemini, Bedrock, Mistral, xAI and Docker Model Runner
+      - Agents can be packaged and shared through any OCI registry
+      - Built-in RAG with BM25, embeddings, hybrid search and reranking
     weaknesses:
-      - Collects anonymous usage telemetry; opt-out details are only in the docs
-      - Needs a cloud provider API key or Docker Model Runner to do anything
-      - Configuration is YAML-centric; custom logic needs MCP tools rather than code hooks
+      - Collects anonymous usage telemetry
+      - Configuration is YAML-only; custom logic needs MCP servers or external tools
+      - Needs a provider API key or Docker Model Runner before first use
     specs:
       ram_min_gb: null
       gpu: optional
       external_deps:
-        - Docker CLI (plugin)
-        - LLM provider API key or Docker Model Runner
-        - MCP servers (optional)
-        - OCI registry (optional)
+        - Model provider API key or Docker Model Runner
       model_support:
         - OpenAI
         - Anthropic
@@ -12902,36 +12894,34 @@ entries:
     repo: gptme/gptme
     name: gptme
     status: listed
-    tagline: Terminal-based AI agent that runs shell, Python, browser and file tools
-    summary: gptme is a Python CLI agent that executes shell commands and Python, edits files with patch tools, browses via Playwright and reads images. It works with Anthropic, OpenAI, Google, DeepSeek, OpenRouter, or local models through Ollama and OpenAI-compatible servers. It also ships a Textual TUI, a web UI with REST server, an MCP client and server, ACP support for Zed and JetBrains, and a scaffold for scheduled autonomous agents.
+    tagline: Terminal AI agent that runs shell, Python, browser and file tools
+    summary: gptme is a Python CLI agent that runs shell commands and Python, edits files with patch tools, browses via Playwright, and feeds output back to the model to self-correct. It works with Anthropic, OpenAI, Google, DeepSeek, OpenRouter and local servers such as Ollama, llama.cpp and vLLM. It also ships a Textual TUI, a web UI with REST server, an MCP client and server, and ACP support for Zed and JetBrains.
     categories:
       - coding-agents
       - skills-plugins
     strengths:
-      - "Provider-agnostic: hosted APIs, OpenRouter, or local Ollama, LM Studio, vLLM and llama.cpp"
-      - Acts as MCP client and server, and as an ACP agent in Zed and JetBrains
-      - Plugins, skills, hooks and lessons extend behavior without forking
-      - Runs headless via gptme service init with systemd timers for scheduled agents
+      - "Provider-agnostic: hosted APIs, OpenRouter, or local via Ollama, LM Studio, vLLM, llama.cpp"
+      - Acts as both MCP client and MCP server, plus ACP for Zed and JetBrains
+      - Plugins, skills, hooks and lessons extend it; sandboxed execution via Docker or Wasmtime
+      - Runs headless for CI and systemd-scheduled agents via gptme service init
     weaknesses:
-      - Executes shell and Python locally; sandboxing (Docker, Wasmtime) is a separate option
+      - Runs code in your local environment by default; sandboxing is a separate option
       - RAG tool needs the separate gptme-rag package
-      - Large surface area (TUI, web UI, server, desktop app) spread across several repos
-      - Hosted gptme.ai cloud service exists; its terms and limits are unknown from the README
+      - Several features live in add-on repos (gptme-contrib, webui, agent template)
     specs:
       ram_min_gb: null
       gpu: optional
       external_deps:
+        - Python
         - Playwright (browser tool)
-        - Docker or Wasmtime (optional sandboxing)
-        - gptme-rag (optional, rag tool)
+        - gptme-rag (rag tool)
+        - Ollama or OpenAI-compatible server (local models)
       model_support:
         - Anthropic
         - OpenAI
         - Google Gemini
-        - SpaceXAI Grok
         - DeepSeek
         - OpenRouter
-        - Requesty
         - Ollama
         - LM Studio
         - vLLM
@@ -12941,7 +12931,7 @@ entries:
       demo: https://chat.gptme.org
       website: https://gptme.org/
       docs: https://gptme.org/docs/
-    audience: Developers wanting a self-controlled, provider-agnostic terminal coding agent
+    audience: Developers wanting a terminal coding agent that works with any LLM provider
     confidence: 0.85
     facts:
       stars: 4492
@@ -12957,37 +12947,37 @@ entries:
     repo: kirodotdev/kirocrew
     name: kirocrew
     status: listed
-    tagline: Persistent agent workspace with memory, schedules and unattended tasks
-    summary: Kiro Crew is a Python Gateway that drives agent sessions through ACP harnesses (default kiro-cli) and keeps sessions, memory, lessons, schedules and task checkpoints across restarts. You reach it from a desktop app, web dashboard, CLI, or messaging channels such as Slack and Discord. It runs checkpointed long tasks, scheduled jobs, webhooks and subagents, gated by approvals and OS sandboxing.
+    tagline: Persistent agent workspace with scheduled tasks, memory, and Slack/Discord access
+    summary: Kiro Crew is a Python Gateway that runs agent sessions on your own machine or a remote host, driven by kiro-cli through ACP by default. It keeps sessions, memory, schedules and task checkpoints across restarts, and runs long tasks, recurring jobs and webhook-triggered work unattended. You reach it from a desktop app, web dashboard, CLI, Slack or Discord, and extend it with MCP servers, markdown skills, hooks and installable Apps.
     categories:
       - coding-agents
     strengths:
-      - Sessions, memory, schedules and task checkpoints survive Gateway restarts
-      - Same agent state reachable from desktop, dashboard, CLI, Slack, Discord, Telegram and Teams
-      - Approvals, OS sandboxing, credential redaction and audit events; dashboard binds to loopback by default
-      - Extensible with MCP servers, markdown skills, hooks and installable Apps
+      - Sessions, memory, schedules and checkpoints persist across Gateway restarts
+      - Runs scheduled jobs, scripts and webhook-triggered work without a terminal open
+      - Same state reachable from desktop app, dashboard, CLI, Slack and Discord
+      - Approvals, OS sandboxing, credential redaction and audit events; dashboard binds to loopback
     weaknesses:
-      - Default backend needs kiro-cli installed and signed in separately
-      - Sends a daily anonymous telemetry heartbeat by default; opt-out required
+      - Default agent needs kiro-cli installed and signed in separately
+      - Sends a daily anonymous heartbeat by default; opt-out via setting or env var
       - Source build needs Python 3.12+ and Node.js 22.12+
-      - Self-learning and skill synthesis are described without any benchmarks in the README
+      - Windows is supported only through a separate native source install guide
     specs:
       ram_min_gb: null
-      gpu: none
+      gpu: unknown
       external_deps:
         - kiro-cli
         - Python 3.12+
-        - Node.js 22.12+
+        - Node.js 22.12+ (source build)
       model_support:
-        - Kiro models via kiro-cli
-        - Other ACP harnesses
+        - Kiro models via kiro-cli (ACP)
+        - Other verified ACP harnesses
       web_port: 5476
     links:
       demo: null
       website: null
       docs: null
-    audience: Developers who want a self-hosted, always-on agent that works unattended
-    confidence: 0.72
+    audience: Developers wanting a self-hosted, always-on agent workspace built on kiro-cli
+    confidence: 0.8
     facts:
       stars: 5059
       license: Apache-2.0
@@ -13003,20 +12993,20 @@ entries:
     name: ms-agent
     status: listed
     tagline: Python agent framework with CLI, TUI and WebUI, skills, sub-agents and MCP
-    summary: MS-Agent is a Python SDK and harness for long-running agents. It handles planning, permissions, context compression, project memory and cron jobs, and supports sub-agents, sequential or DAG workflows, Agent Skills and MCP tools. The same agent logic runs from a CLI, a terminal UI or a browser WebUI, and the repo ships example apps for deep research, code generation and video generation.
+    summary: MS-Agent is a Python framework for long-running agent tasks. It combines models, tools, skills and sub-agents under a harness that handles planning, permissions, context compaction and project memory. One SDK drives a CLI, a TUI and a browser WebUI, and the repo ships workflows such as deep research, code generation and financial research.
     categories:
       - agents
       - coding-agents
     strengths:
-      - One Python SDK drives CLI, TUI and WebUI, so agent logic is reused across interfaces
-      - Context compaction, project memory and cron scheduling target long-running tasks
-      - Supports MCP, ACP/A2A, Agent Skills and DAG or sequential multi-agent workflows
-      - "Bundled apps: deep research, Code Genesis, FinResearch, Singularity Cinema"
+      - Same SDK backs CLI, TUI, WebUI and Python embedding
+      - Supports MCP, ACP/A2A, Agent Skills, sequential and DAG workflows
+      - Context compression and project memory for long tasks
+      - "Ships ready workflows: deep research, code generation, financial research"
     weaknesses:
-      - WebUI must be installed from source; needs Python 3.12+, Node.js 22.22.0+, pnpm and uv
-      - No Docker or compose files detected in the repo
-      - Default provider is ModelScope and needs an API key from its token page
-      - README is dominated by a long news log; the many bundled apps make scope broad
+      - WebUI installs only from source and needs Python 3.12+, Node 22.22+, pnpm and uv
+      - First launch needs internet to build the backend env and frontend
+      - Default provider is ModelScope, which requires an access token
+      - Broad scope with many sub-projects makes it heavier than a minimal agent library
     specs:
       ram_min_gb: null
       gpu: none
@@ -13025,19 +13015,19 @@ entries:
         - Node.js 22.22.0+
         - pnpm 10.17.1
         - uv 0.5+
-        - LLM provider API key (ModelScope by default)
+        - LLM provider API key
       model_support:
-        - ModelScope
+        - ModelScope API
         - multiple model providers
         - Anthropic API format
-        - multimodal input (image, video)
+        - multimodal input
       web_port: 8000
     links:
       demo: https://modelscope.cn/mcp/playground
       website: https://modelscope.github.io/ms-agent/
       docs: https://ms-agent-en.readthedocs.io
-    audience: Python developers building long-running multi-agent assistants
-    confidence: 0.72
+    audience: Engineers building long-running, multi-agent assistants in Python
+    confidence: 0.8
     facts:
       stars: 4431
       license: Apache-2.0
@@ -13052,43 +13042,36 @@ entries:
     repo: ivanmurzak/unity-mcp
     name: ivanmurzak/unity-mcp
     status: listed
-    tagline: Unity Editor and runtime plugin exposing 70+ MCP tools to coding agents
-    summary: Unity package that runs an MCP server connected to the Unity Editor, so agents such as Claude Code, Cursor, Codex and Copilot can create GameObjects, edit scenes and assets, write and run C# scripts, run tests and read console logs. It also generates agent skills for the project and can run inside a compiled game for in-game LLM use. Connects over stdio locally or HTTP remotely.
+    tagline: Unity package exposing Editor and runtime tools to AI agents over MCP
+    summary: Unity-MCP (AI Game Developer) is a Unity package, `com.ivanmurzak.unity.mcp`, plus a Node-based CLI that lets MCP clients such as Claude Code, Codex, Cursor and Copilot read and change scenes, prefabs, assets and C# code, run tests and take screenshots. It can use a local gamedev-mcp-server on 127.0.0.1 or the ai-game.dev cloud relay, and any C# method becomes a tool with an `[AiTool]` attribute.
     categories:
       - dev-mcp
     strengths:
-      - 70+ built-in tools covering assets, scenes, components, scripts, console logs, tests and screenshots
-      - "Works with many MCP clients: Claude, Codex, Cursor, Copilot, Gemini, Cline, Rider, VS Code"
-      - Runs in compiled games, not only the Editor, for in-game AI and debugging
-      - Custom tools can be added in project C# code; extension packages exist for Terrain, Timeline and others
+      - RQL query tools cut tool calls and tokens versus one-tool-per-action servers, per the project's benchmark
+      - Custom C# tools via `[AiTool]`, including runtime tools inside a built game
+      - CLI covers install, compile, test and RQL queries for scripts and CI
+      - CI tests on Unity 2022.3, 6000.0, 6000.3 and 6000.6; optional extension packs
     weaknesses:
-      - Unity-only; no use outside Unity projects
-      - Project path cannot contain spaces
-      - CLI quick start includes sign-in to ai-game.dev; local-only requirements unclear in the README
-      - Reflection and dynamic Roslyn script execution give agents broad access to the project
+      - Unity-only; requires Unity 2022.3 or newer
+      - Cloud is the default and relays tool calls via ai-game.dev, with 90-day event metadata
+      - Local server defaults to auth `none`; any local process can call tools
+      - "`script-execute` runs arbitrary C# with Editor rights"
     specs:
       ram_min_gb: null
-      gpu: unknown
+      gpu: none
       external_deps:
-        - Unity Editor
-        - Node.js and npm (for unity-mcp-cli)
-        - Docker (optional, for hosting the MCP server)
+        - Unity 2022.3+
+        - Node.js 22.14+ (CLI only)
+        - gamedev-mcp-server (local mode) or ai-game.dev account (cloud mode)
       model_support:
-        - Claude
-        - Codex
-        - Cursor
-        - GitHub Copilot
-        - Gemini
-        - Cline
-        - Kilo Code
-        - Open Code
+        - "Any MCP client: Claude Code, Codex, Cursor, GitHub Copilot, Gemini"
       web_port: null
     links:
       demo: null
       website: https://ai-game.dev
-      docs: https://ai-game.dev/docs/tools
-    audience: Unity developers who want AI coding agents to operate the Editor
-    confidence: 0.8
+      docs: https://github.com/IvanMurzak/Unity-MCP/blob/main/docs/installation.md
+    audience: Unity developers who want Claude Code, Cursor or Codex to edit their projects
+    confidence: 0.85
     facts:
       stars: 4690
       license: Apache-2.0
@@ -13103,43 +13086,35 @@ entries:
     repo: observal/observal
     name: observal
     status: listed
-    tagline: Self-hosted registry and telemetry for internal coding agent skills, MCP servers and hooks
-    summary: Observal is a server plus CLI that stores an organization's coding agent resources (agents, skills, MCP servers, hooks, prompts, sandboxes) in one reviewed registry. It generates per-harness config for Claude Code, Cursor, Kiro, Codex, Copilot, OpenCode and others, and captures session traces through installed telemetry hooks. It also publishes approved resources over ARD and lets agents delegate tasks over A2A.
+    tagline: Self-hosted registry for sharing coding agent skills, MCP servers and hooks
+    summary: Agentic Resource Registry (formerly Observal) is a self-hosted server plus the `observal` CLI. It stores skills, MCP servers, hooks, prompts, sandboxes and agent files behind admin review and versioning. It installs them into harnesses such as Claude Code, Cursor, Codex, Kiro and OpenCode, and captures session traces to report usage back to authors.
     categories:
       - skills-plugins
     strengths:
-      - One install command renders an agent into each supported harness's config format
-      - Admin review, version diffs and forking of approved releases keep registry changes auditable
-      - Session traces and usage data feed reports on which agents and tools get used
-      - Implements ARD v0.91 discovery and A2A v1.0 delegation with team-private visibility rules
+      - Generates per-harness config for about nine coding tools from one registry entry
+      - Review workflow, version diffs and forking of approved releases, with a fork API
+      - Telemetry hooks capture session traces and feed usage reports back to authors
+      - Publishes approved resources through an ARD search API and supports A2A delegation
     weaknesses:
-      - Needs a multi-service stack (API, web UI, Postgres, ClickHouse) on Docker Engine 24+ with Compose v2
-      - Telemetry hooks are installed into each developer's harness via the CLI, adding a per-machine setup step
-      - Value depends on an organization already having many internal agent resources to catalog
+      - Server stack uses Postgres and ClickHouse, heavier than a single-binary tool
+      - Needs a CLI install and telemetry patch on every developer machine
+      - Value depends on team-wide adoption; little use for a solo developer
+      - Renamed from Observal, so old links and package names may confuse
     specs:
       ram_min_gb: null
-      gpu: unknown
+      gpu: none
       external_deps:
-        - Docker Engine 24+ with Compose v2
+        - Docker Engine >= 24.0 with Compose v2
         - PostgreSQL
         - ClickHouse
-      model_support:
-        - Claude Code
-        - Cursor
-        - Kiro
-        - Codex
-        - GitHub Copilot
-        - OpenCode
-        - Pi
-        - Antigravity CLI
-        - Goose
-      web_port: null
+      model_support: []
+      web_port: 8000
     links:
       demo: null
       website: null
       docs: null
     audience: Platform teams managing shared coding agent resources across developers
-    confidence: 0.6
+    confidence: 0.75
     facts:
       stars: 4168
       license: Apache-2.0

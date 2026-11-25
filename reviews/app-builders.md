@@ -346,20 +346,20 @@ Next.js 14 app that takes a chat prompt, has an LLM generate code, and runs it i
 <a name="monkeycode"></a>
 ### #&#8288;20 [monkeycode](https://github.com/chaitin/monkeycode) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · AGPL-3.0 · Nov 2026</sub>
 
-**AI development platform that runs coding tasks in server-side environments.**
+**Team AI workbench for office, coding and design tasks with admin controls.**
 
-MonkeyCode is a web platform where AI agents carry out development tasks inside server-side environments, with build, test and preview done remotely. It adds model management, task management, requirement/SPEC management and automated PR/MR review for engineering teams. It can be used online or installed inside a private network with an install script.
+MonkeyAI (百智办公) is a self-hostable workbench where team members describe office, coding or design tasks in natural language and an AI produces the deliverable. An admin panel shares models, knowledge bases, skills, MCP connectors and rules across the team, with permission control, usage audit, statistics and billing. Desktop clients exist for Windows, macOS and Linux, plus a web client.
 
-- **+** Runs tasks in server-side dev environments, no local setup needed
-- **+** Integrates GLM, Kimi, MiniMax, Qwen and DeepSeek, switchable per task
-- **+** Includes requirement/SPEC management, team collaboration and PR/MR review
-- **+** Private deployment possible; source is auditable under AGPL-3.0
-- **−** No local IDE, local CLI or code completion, per its own comparison table
-- **−** Self-hosting needs a dev environment host of at least 8C/16 GB/100 GB
-- **−** Install is a curl-piped script; no Docker or Compose files detected
-- **−** AGPL-3.0 adds source-disclosure obligations for network use
+- **+** Admin panel covers shared resources, permissions, usage audit, statistics and billing
+- **+** Connects your own model services and MCP connectors
+- **+** Desktop clients for Windows, macOS (arm64, x64) and Linux, plus web
+- **+** Public demo server and demo admin console with login provided
+- **−** Free edition limited to 10 seats; cloud desktop and support are paid only
+- **−** README and docs are in Chinese only
+- **−** Android, iOS, Linux ARM64 and HarmonyOS clients not yet available
+- **−** Install uses a curl-piped shell script from the vendor's server
 
-<sub>TypeScript, GLM, Kimi, MiniMax, Qwen · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://monkeycode-ai.net/) · [📖 Docs ↗](https://monkeycode.docs.baizhi.cloud/) · [🌐 Site ↗](https://monkeycode-ai.net/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
+<sub>TypeScript, Team-configured model services, MCP connectors · Needs External LLM provider, MCP connectors (optional) · [Repo](https://github.com/chaitin/monkeycode) · [▶️ Demo ↗](https://demo.work.baizhi.cloud/) · [📖 Docs ↗](https://work.docs.baizhi.cloud/) · [🌐 Site ↗](https://work.baizhi.cloud/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/monkeycode/)</sub>
 
 <a name="openui"></a>
 ### #&#8288;21 [wandb/openui](https://github.com/wandb/openui) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (87) · Freshness: recent (79) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Jun 2026</sub>

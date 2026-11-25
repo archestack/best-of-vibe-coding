@@ -3099,18 +3099,18 @@ Armeria is a Java framework for building reactive microservices, created by the 
 <a name="prest"></a>
 ### #&#8288;174 [prest](https://github.com/prest/prest) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: known (44) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · MIT · Nov 2026</sub>
 
-**REST and read-only MCP API generated from a PostgreSQL or MySQL database.**
+**Go server that exposes PostgreSQL or MySQL as REST and read-only MCP APIs.**
 
-pREST is a Go service that exposes tables in an existing PostgreSQL (9.5+) or MySQL (8.0.19+) database as REST endpoints at /{database}/{schema}/{table}, with auth, ACL and custom SQL routes. It also serves a read-only MCP endpoint so AI clients can query the same data. It can serve several databases from a registry or an allow-list.
+pREST is a Go service that sits in front of an existing PostgreSQL (9.5+) or MySQL (8.0.19+) database and serves CRUD over GET /{database}/{schema}/{table}. It adds custom SQL routes from query script templates, auth, ACLs, and a read-only MCP endpoint for AI clients. One instance can serve several databases through a registry or an allow-list.
 
-- **+** Generates CRUD REST routes straight from an existing Postgres or MySQL schema
-- **+** Custom SQL query scripts support bound parameters via sqlVal, sqlList and ident helpers
-- **+** Serves multiple databases via a [[databases]] registry or pg.allowed_databases
-- **+** Built-in read-only MCP endpoint, plus auth and ACL configuration
-- **−** Only PostgreSQL and MySQL; MariaDB, TiDB and Aurora MySQL are roadmap items
-- **−** Interpolated query-script values are screened and rejected if they contain quotes or SQL keywords
-- **−** MySQL support is newer (v2.5.0) and with prepare = false interpolates placeholders
-- **−** MCP endpoint is read-only, so AI clients cannot write through it
+- **+** Instant REST CRUD on an existing Postgres or MySQL schema, no handwritten backend
+- **+** Read-only MCP endpoint built in, with docs for Cursor and Claude clients
+- **+** Query templates can bind values (sqlVal, sqlList, ident) instead of screened interpolation
+- **+** Serves multiple databases per instance; config can be passed as a JSON env var
+- **−** MySQL support is newer (v2.5.0); MariaDB, TiDB and Aurora MySQL are still roadmap
+- **−** On MySQL, schema must equal database, so other-schema paths return 404
+- **−** Interpolated query-script values are refused if they contain quotes or SQL keywords
+- **−** MySQL with default prepare = false interpolates placeholders instead of sending values out of band
 
 <sub>no GPU · Docker + Compose · Needs PostgreSQL 9.5+ or MySQL 8.0.19+ · [Repo](https://github.com/prest/prest) · [📖 Docs ↗](https://docs.prestd.com/) · [🌐 Site ↗](https://docs.prestd.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/prest/)</sub>
 

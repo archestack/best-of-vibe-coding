@@ -221,19 +221,19 @@ Atmosphere is a JVM framework where an @Agent-annotated class streams LLM tokens
 <a name="docker-agent"></a>
 ### #&#8288;13 [docker-agent](https://github.com/docker/docker-agent) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
 
-**Docker CLI plugin that runs multi-agent teams defined in YAML.**
+**Declarative YAML multi-agent runner with MCP tools and OCI sharing.**
 
-docker-agent is a Go CLI plugin (`docker agent run agent.yaml`) that runs agents declared in YAML: model, instructions, and toolsets, including any MCP server. Agents can delegate to other agents, and configs can be pushed to and pulled from OCI registries. It supports OpenAI, Anthropic, Gemini, AWS Bedrock, Mistral, xAI and Docker Model Runner, plus built-in RAG with BM25, embeddings and reranking.
+docker-agent runs AI agents defined in YAML, with per-agent model, instructions and toolsets, and lets agents delegate to each other. Tools come from built-in think, todo and memory tools plus any MCP server (local, remote or Docker-based). Agents can be pushed to and pulled from OCI registries, and it works with cloud providers or Docker Model Runner for local models.
 
-- **+** Agents, tools and models declared in versionable YAML, no code required
-- **+** Works with local, remote or Docker-based MCP servers as toolsets
-- **+** Agent configs can be shared through any OCI registry
-- **+** Many providers supported, plus local models via Docker Model Runner
-- **−** Collects anonymous usage telemetry; opt-out details are only in the docs
-- **−** Needs a cloud provider API key or Docker Model Runner to do anything
-- **−** Configuration is YAML-centric; custom logic needs MCP tools rather than code hooks
+- **+** Agents defined in versionable YAML, no code required
+- **+** Supports OpenAI, Anthropic, Gemini, Bedrock, Mistral, xAI and Docker Model Runner
+- **+** Agents can be packaged and shared through any OCI registry
+- **+** Built-in RAG with BM25, embeddings, hybrid search and reranking
+- **−** Collects anonymous usage telemetry
+- **−** Configuration is YAML-only; custom logic needs MCP servers or external tools
+- **−** Needs a provider API key or Docker Model Runner before first use
 
-<sub>Go, OpenAI, Anthropic, Gemini, AWS Bedrock · Needs Docker CLI (plugin), LLM provider API key or Docker Model Runner, MCP servers (optional), OCI registry (optional) · Docker · [Repo](https://github.com/docker/docker-agent) · [📖 Docs ↗](https://docker.github.io/docker-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-agent/)</sub>
+<sub>Go, OpenAI, Anthropic, Gemini, AWS Bedrock · Needs Model provider API key or Docker Model Runner · Docker · [Repo](https://github.com/docker/docker-agent) · [📖 Docs ↗](https://docker.github.io/docker-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/docker-agent/)</sub>
 
 <a name="skybridge"></a>
 ### #&#8288;14 [skybridge](https://github.com/alpic-ai/skybridge) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: known (48) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.2k · MIT · Nov 2026</sub>
@@ -506,20 +506,20 @@ KohakuTerrarium is a Python framework where an agent (a "creature") is a control
 <a name="frontieragent"></a>
 ### #&#8288;29 [frontieragent](https://github.com/apodexai/frontieragent) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: fair (57) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · Apache-2.0 · Nov 2026</sub>
 
-**Terminal agent runtime with single-agent and parallel sub-agent research workflows.**
+**Terminal agent with ReAct and parallel sub-agent modes for research and file work.**
 
-FrontierAgent is a Python terminal UI and agent runtime for long-horizon research and file-based work. It has two modes: a stateful ReAct agent, and an Agent Team where a coordinator delegates to parallel sub-agents through a task board. Shell and file tools run in a task-scoped sandbox with /inputs, /workspace and /outputs, with diff approval, checkpoints and /revert. It also bundles a benchmark runner for BrowseComp, HLE, GDPval and others.
+FrontierAgent is a Python agent runtime with a `frontier-agent` TUI that runs either a single stateful ReAct agent or an Agent Team, where a coordinator delegates to parallel sub-agents through a task board. Shell and file tools work in a task-scoped sandbox with /inputs, /workspace and /outputs, and writes need approval. The same workflow engine drives a benchmark harness covering BrowseComp, HLE, GDPval and others.
 
-- **+** Agent Team mode with live task board and bounded parallel sub-agents
-- **+** Read-only /inputs, writable /workspace and /outputs; mutations need approval and are revertable
-- **+** Works with any OpenAI-compatible endpoint; optional keyless Parallel MCP for web search
-- **+** Bundled benchmark harness with resumable runs and per-failure reruns
-- **−** Aimed at research and file deliverables rather than code editing in an IDE
-- **−** Agent Team concurrency multiplies with runner concurrency, raising simultaneous model calls
-- **−** Prebuilt GHCR image is private and needs docker login; otherwise build from source
-- **−** Local SGLang serving depends on pinned NVIDIA driver and CUDA tracks
+- **+** Agent Team mode with live task board and parallel sub-agents
+- **+** Approval gates with diffs, local traces, /revert and --resume checkpoints
+- **+** Works with any OpenAI-compatible endpoint; no model hosting required
+- **+** Includes a resumable benchmark runner for 14 listed benchmarks
+- **−** Tuned for Apodex-1.1 models; results with other endpoints are not documented
+- **−** Web search needs Serper, Parallel MCP or Keenable; Jina key for fetch
+- **−** Local SGLang serving is pinned to specific NVIDIA driver and CUDA tracks
+- **−** Prebuilt GHCR image is private; most users must build it
 
-<sub>Python, OpenAI-compatible endpoints, Apodex-1.1, SGLang-served models · Needs Python 3.12, uv, OpenAI-compatible model endpoint, Serper or Jina API keys (optional), Docker (optional), SGLang (optional) · Docker · env example file · [Repo](https://github.com/apodexai/frontieragent) · [🌐 Site ↗](https://www.apodex.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frontieragent/)</sub>
+<sub>Python, OpenAI-compatible endpoints, Apodex-1.1, Apodex-1.0 (SGLang) · Needs Python 3.12, uv, OpenAI-compatible model endpoint, Docker (optional), Serper, Parallel MCP or Keenable (optional, web search), Jina (optional, web fetch), SGLang (optional, local serving) · Docker · env example file · [Repo](https://github.com/apodexai/frontieragent) · [▶️ Demo ↗](https://www.apodex.ai) · [🌐 Site ↗](https://www.apodex.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/frontieragent/)</sub>
 
 <a name="bindu"></a>
 ### #&#8288;30 [bindu](https://github.com/getbindu/bindu) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: weak (22) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 10.0k · custom license · Sep 2026</sub>
@@ -706,18 +706,18 @@ Runs a FastAPI server with its own SMTP listener on port 25 that gives each agen
 
 **Python agent framework with CLI, TUI and WebUI, skills, sub-agents and MCP.**
 
-MS-Agent is a Python SDK and harness for long-running agents. It handles planning, permissions, context compression, project memory and cron jobs, and supports sub-agents, sequential or DAG workflows, Agent Skills and MCP tools. The same agent logic runs from a CLI, a terminal UI or a browser WebUI, and the repo ships example apps for deep research, code generation and video generation.
+MS-Agent is a Python framework for long-running agent tasks. It combines models, tools, skills and sub-agents under a harness that handles planning, permissions, context compaction and project memory. One SDK drives a CLI, a TUI and a browser WebUI, and the repo ships workflows such as deep research, code generation and financial research.
 
-- **+** One Python SDK drives CLI, TUI and WebUI, so agent logic is reused across interfaces
-- **+** Context compaction, project memory and cron scheduling target long-running tasks
-- **+** Supports MCP, ACP/A2A, Agent Skills and DAG or sequential multi-agent workflows
-- **+** Bundled apps: deep research, Code Genesis, FinResearch, Singularity Cinema
-- **−** WebUI must be installed from source; needs Python 3.12+, Node.js 22.22.0+, pnpm and uv
-- **−** No Docker or compose files detected in the repo
-- **−** Default provider is ModelScope and needs an API key from its token page
-- **−** README is dominated by a long news log; the many bundled apps make scope broad
+- **+** Same SDK backs CLI, TUI, WebUI and Python embedding
+- **+** Supports MCP, ACP/A2A, Agent Skills, sequential and DAG workflows
+- **+** Context compression and project memory for long tasks
+- **+** Ships ready workflows: deep research, code generation, financial research
+- **−** WebUI installs only from source and needs Python 3.12+, Node 22.22+, pnpm and uv
+- **−** First launch needs internet to build the backend env and frontend
+- **−** Default provider is ModelScope, which requires an access token
+- **−** Broad scope with many sub-projects makes it heavier than a minimal agent library
 
-<sub>Python, ModelScope, multiple model providers, Anthropic API format, multimodal input (image, video) · Needs Python 3.12+ (WebUI), Node.js 22.22.0+, pnpm 10.17.1, uv 0.5+, LLM provider API key (ModelScope by default) · Docker · env example file · [Repo](https://github.com/modelscope/ms-agent) · [▶️ Demo ↗](https://modelscope.cn/mcp/playground) · [📖 Docs ↗](https://ms-agent-en.readthedocs.io) · [🌐 Site ↗](https://modelscope.github.io/ms-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ms-agent/)</sub>
+<sub>Python, ModelScope API, multiple model providers, Anthropic API format, multimodal input · Needs Python 3.12+ (WebUI), Node.js 22.22.0+, pnpm 10.17.1, uv 0.5+, LLM provider API key · Docker · env example file · [Repo](https://github.com/modelscope/ms-agent) · [▶️ Demo ↗](https://modelscope.cn/mcp/playground) · [📖 Docs ↗](https://ms-agent-en.readthedocs.io) · [🌐 Site ↗](https://modelscope.github.io/ms-agent/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ms-agent/)</sub>
 
 <a name="opengenerativeui"></a>
 ### #&#8288;41 [OpenGenerativeUI](https://github.com/copilotkit/openintelligentui) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: patchy (32) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · MIT · Oct 2026</sub>

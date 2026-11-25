@@ -546,20 +546,20 @@ jCodeMunch indexes a repository locally with tree-sitter (70+ languages) and exp
 <a name="agent-device"></a>
 ### #&#8288;31 [agent-device](https://github.com/callstack/agent-device) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (95) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
 
-**CLI and MCP server that lets coding agents drive and verify mobile apps.**
+**CLI and MCP server that lets coding agents drive mobile, TV, web and desktop apps.**
 
-agent-device lets coding agents open, inspect and control apps on iOS, Android, HarmonyOS, TV platforms, web, macOS and Linux. It exposes the same runtime as a CLI, a stdio MCP server (`agent-device mcp`) and a typed Node.js client. Agents read accessibility-tree snapshots, act through refs and selectors, and save screenshots, video and logs as evidence.
+agent-device lets coding agents open apps on iOS, Android, HarmonyOS, tvOS, Android TV, Fire OS, web, macOS and Linux, read accessibility-tree snapshots, and act through refs and selectors. It runs as a CLI, a stdio MCP server (`agent-device mcp`), or a typed Node.js client. Sessions are scoped per git worktree, runs can be saved as `.ad` replay scripts or exported as Maestro YAML, and remote device clouds are supported.
 
-- **+** Same session model across CLI, MCP server and typed Node.js API
-- **+** Token-efficient accessibility snapshots with refs instead of screenshot-only reasoning
-- **+** Records runs as .ad replay scripts for CI, with strict Maestro YAML export
-- **+** Per-worktree sessions and device claims keep parallel agents off each other's simulators
-- **−** HarmonyOS and Vega OS backends support only a subset of commands
-- **−** Reliability depends on clear accessibility labels, roles and test IDs in the app
-- **−** Web automation needs Node.js 24 and agent-browser; core CLI needs Node.js 22.12
-- **−** Backends depend on platform toolchains such as XCTest, ADB and HDC being installed
+- **+** Same runtime exposed as CLI, stdio MCP server and typed Node.js API
+- **+** Token-efficient accessibility snapshots instead of screenshot-only reasoning
+- **+** Worktree-scoped sessions and device claims keep parallel agents off each other's simulators
+- **+** Saves runs as .ad replay scripts for CI; exports strict Maestro YAML
+- **−** Command support varies by target; HarmonyOS and Vega OS cover only a subset
+- **−** Snapshot reliability depends on the app's accessibility labels, roles and test IDs
+- **−** Requires Node.js 22.12+; web automation needs Node.js 24+
+- **−** Web support is basic and delegates to agent-browser
 
-<sub>Needs Node.js 22.12+ (24+ for web), XCTest/iOS Simulator (iOS, tvOS), ADB (Android), HDC (HarmonyOS), agent-browser (web) · [Repo](https://github.com/callstack/agent-device) · [📖 Docs ↗](https://oss.callstack.com/agent-device/) · [🌐 Site ↗](https://agent-device.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-device/)</sub>
+<sub>no GPU · Needs Node.js 22.12+, XCTest (iOS), ADB (Android), HDC (HarmonyOS), AT-SPI (Linux), agent-browser (web) · [Repo](https://github.com/callstack/agent-device) · [📖 Docs ↗](https://agent-device.dev/docs/quick-start) · [🌐 Site ↗](https://agent-device.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-device/)</sub>
 
 <a name="dembrandt"></a>
 ### #&#8288;32 [dembrandt](https://github.com/dembrandt/dembrandt) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Nov 2026</sub>
@@ -761,20 +761,20 @@ wigolo gives coding and self-hosted agents one tool surface for web search (18 e
 <a name="devspace"></a>
 ### #&#8288;43 [devspace](https://github.com/waishnav/devspace) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Nov 2026</sub>
 
-**Self-hosted MCP server that lets ChatGPT edit and run code in local projects.**
+**MCP server that gives ChatGPT and Claude your local repo and coding agents.**
 
-DevSpace is a Node-based MCP server that exposes selected local project folders to ChatGPT or other MCP clients. The client can read, write and edit files, search code, run shell commands, and use isolated Git worktrees. You expose the `/mcp` endpoint through your own HTTPS tunnel and approve connections with an Owner password.
+DevSpace runs locally and exposes an MCP endpoint (/mcp on port 7676) through a tunnel you provide, so ChatGPT, Claude or Grok Bot can open an allowed folder, edit files, run shell commands and show a diff review card. It also has a `devspace agents` CLI that lets one coding agent hand work to Codex, Claude Code, OpenCode, Pi, Cursor, Copilot or Grok Build, using Git worktrees for parallel writers.
 
-- **+** Access limited to folder roots you allow; connections need an Owner password
-- **+** Reads AGENTS.md and CLAUDE.md and discovers local agent skills
-- **+** Isolated Git worktrees for parallel coding sessions
-- **+** Works with Linux, macOS and Windows via Git Bash or WSL
-- **−** Connected client gets shell execution on your machine
-- **−** Needs a public HTTPS tunnel you set up yourself for ChatGPT
-- **−** Windows PowerShell or cmd.exe alone is not supported
-- **−** Requires Node >=22.19 and a Bash-compatible shell
+- **+** Runs locally with your own credentials; no DevSpace-hosted service
+- **+** Delegates to existing agent CLIs and subscriptions, with per-task Git worktrees
+- **+** Markdown agent profiles map named roles like planner and reviewer to models
+- **+** Owner password approval on connect; you choose which root folders a host may open
+- **−** Connected hosts get shell execution on your machine, so the trust surface is large
+- **−** Needs a public HTTPS tunnel you set up for ChatGPT or Claude connectors
+- **−** Windows needs Git Bash or WSL; PowerShell and cmd.exe alone are unsupported
+- **−** Dynamic workflows are experimental and gated behind an environment variable
 
-<sub>no GPU · Needs Node >=22.19 <27, Git, Bash, HTTPS tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or reverse proxy) · Models: ChatGPT (MCP connector), Other MCP clients · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
+<sub>no GPU · Needs Node >=22.19 <27, Git, Bash, Tunnel (Cloudflare Tunnel, ngrok, Pinggy, Tailscale Funnel or HTTPS reverse proxy), SQLite · Models: ChatGPT, Claude, Grok Bot, Codex, Claude Code · port 7676 · [Repo](https://github.com/waishnav/devspace) · [📖 Docs ↗](https://devspace.run/docs) · [🌐 Site ↗](https://devspace.run) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/devspace/)</sub>
 
 <a name="mcphub"></a>
 ### #&#8288;44 [mcphub](https://github.com/samanhappy/mcphub) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: known (45) · Freshness: active (100) · Maintenance: healthy (94) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.8k · Apache-2.0 · Nov 2026</sub>
@@ -851,20 +851,20 @@ RuVector is a Rust vector store with Node.js, Python and WASM bindings. It persi
 <a name="ivanmurzak-unity-mcp"></a>
 ### #&#8288;48 [ivanmurzak/unity-mcp](https://github.com/ivanmurzak/unity-mcp) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.7k · Apache-2.0 · Nov 2026</sub>
 
-**Unity Editor and runtime plugin exposing 70+ MCP tools to coding agents.**
+**Unity package exposing Editor and runtime tools to AI agents over MCP.**
 
-Unity package that runs an MCP server connected to the Unity Editor, so agents such as Claude Code, Cursor, Codex and Copilot can create GameObjects, edit scenes and assets, write and run C# scripts, run tests and read console logs. It also generates agent skills for the project and can run inside a compiled game for in-game LLM use. Connects over stdio locally or HTTP remotely.
+Unity-MCP (AI Game Developer) is a Unity package, `com.ivanmurzak.unity.mcp`, plus a Node-based CLI that lets MCP clients such as Claude Code, Codex, Cursor and Copilot read and change scenes, prefabs, assets and C# code, run tests and take screenshots. It can use a local gamedev-mcp-server on 127.0.0.1 or the ai-game.dev cloud relay, and any C# method becomes a tool with an `[AiTool]` attribute.
 
-- **+** 70+ built-in tools covering assets, scenes, components, scripts, console logs, tests and screenshots
-- **+** Works with many MCP clients: Claude, Codex, Cursor, Copilot, Gemini, Cline, Rider, VS Code
-- **+** Runs in compiled games, not only the Editor, for in-game AI and debugging
-- **+** Custom tools can be added in project C# code; extension packages exist for Terrain, Timeline and others
-- **−** Unity-only; no use outside Unity projects
-- **−** Project path cannot contain spaces
-- **−** CLI quick start includes sign-in to ai-game.dev; local-only requirements unclear in the README
-- **−** Reflection and dynamic Roslyn script execution give agents broad access to the project
+- **+** RQL query tools cut tool calls and tokens versus one-tool-per-action servers, per the project's benchmark
+- **+** Custom C# tools via `[AiTool]`, including runtime tools inside a built game
+- **+** CLI covers install, compile, test and RQL queries for scripts and CI
+- **+** CI tests on Unity 2022.3, 6000.0, 6000.3 and 6000.6; optional extension packs
+- **−** Unity-only; requires Unity 2022.3 or newer
+- **−** Cloud is the default and relays tool calls via ai-game.dev, with 90-day event metadata
+- **−** Local server defaults to auth `none`; any local process can call tools
+- **−** `script-execute` runs arbitrary C# with Editor rights
 
-<sub>Needs Unity Editor, Node.js and npm (for unity-mcp-cli), Docker (optional, for hosting the MCP server) · Models: Claude, Codex, Cursor, GitHub Copilot, Gemini · [Repo](https://github.com/ivanmurzak/unity-mcp) · [📖 Docs ↗](https://ai-game.dev/docs/tools) · [🌐 Site ↗](https://ai-game.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ivanmurzak-unity-mcp/)</sub>
+<sub>no GPU · Needs Unity 2022.3+, Node.js 22.14+ (CLI only), gamedev-mcp-server (local mode) or ai-game.dev account (cloud mode) · Models: Any MCP client: Claude Code, Codex, Cursor, GitHub Copilot, Gemini · [Repo](https://github.com/ivanmurzak/unity-mcp) · [📖 Docs ↗](https://github.com/IvanMurzak/Unity-MCP/blob/main/docs/installation.md) · [🌐 Site ↗](https://ai-game.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ivanmurzak-unity-mcp/)</sub>
 
 <a name="linkedin-mcp-server"></a>
 ### #&#8288;49 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.3k · Apache-2.0 · Nov 2026</sub>
