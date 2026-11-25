@@ -23,7 +23,7 @@ LiveKit server is a distributed WebRTC SFU written in Go on Pion. People, device
 <sub>Go · Docker · [Repo](https://github.com/livekit/livekit) · [▶️ Demo ↗](https://meet.livekit.io) · [📖 Docs ↗](https://docs.livekit.io) · [🌐 Site ↗](https://livekit.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livekit/)</sub>
 
 <a name="voice-ui-kit"></a>
-### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 419 · BSD-2-Clause · Nov 2026</sub>
+### 🥈 [voice-ui-kit](https://github.com/pipecat-ai/voice-ui-kit) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: niche (25) · Freshness: active (100) · Maintenance: healthy (93) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 420 · BSD-2-Clause · Nov 2026</sub>
 
 **React components and templates for Pipecat voice agent frontends.**
 
@@ -129,7 +129,7 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="agent-starter-android"></a>
-### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 106 · MIT · Nov 2026</sub>
+### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 107 · MIT · Nov 2026</sub>
 
 **Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
 
@@ -163,7 +163,7 @@ A collection of small ElevenLabs projects covering text-to-speech, Scribe v2 spe
 <sub>TypeScript, ElevenLabs TTS, Scribe v2, ElevenLabs Music, ElevenLabs Agents Platform · Needs ElevenLabs API, pnpm, cursor CLI (for generation) · [Repo](https://github.com/elevenlabs/examples) · [📖 Docs ↗](https://elevenlabs.io/docs/api-reference/getting-started) · [🌐 Site ↗](https://elevenlabs.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/elevenlabs-examples/)</sub>
 
 <a name="agent-starter-swift"></a>
-### #&#8288;10 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 98 · MIT · Oct 2026</sub>
+### #&#8288;10 [agent-starter-swift](https://github.com/livekit-examples/agent-starter-swift) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 99 · MIT · Nov 2026</sub>
 
 **SwiftUI voice agent client for iOS, macOS and visionOS on LiveKit.**
 
@@ -181,7 +181,7 @@ Xcode project on the LiveKit Swift SDK with voice, text, camera and screen-share
 <sub>Swift · Needs LiveKit Cloud project, a LiveKit agent, token server · GitHub template · [Repo](https://github.com/livekit-examples/agent-starter-swift) · [📖 Docs ↗](https://docs.livekit.io/agents/overview/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-swift/)</sub>
 
 <a name="agent-starter-flutter"></a>
-### #&#8288;11 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (23) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 94 · MIT · Sep 2026</sub>
+### #&#8288;11 [agent-starter-flutter](https://github.com/livekit-examples/agent-starter-flutter) <sub>score [37](../README.md#-how-we-rank "Score 37/100. Adoption: niche (6) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 94 · MIT · Sep 2026</sub>
 
 **Flutter voice agent client for iOS, Android, macOS and web.**
 

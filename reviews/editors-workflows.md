@@ -23,7 +23,7 @@ Windmill turns plain scripts in Python, TypeScript, Go, Bash, SQL and other lang
 <sub>Rust · Needs PostgreSQL, Caddy (in the compose setup) · Docker · ⚠️ .env file committed · README: alternative to Lovable · [Repo](https://github.com/windmill-labs/windmill) · [▶️ Demo ↗](https://app.windmill.dev) · [📖 Docs ↗](https://www.windmill.dev/docs/intro/) · [🌐 Site ↗](https://www.windmill.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/windmill/)</sub>
 
 <a name="penpot"></a>
-### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
+### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
@@ -93,7 +93,7 @@ Fresh is a Rust terminal text editor that uses standard keybindings, menus and a
 <sub>Rust, claude, codex, opencode, aider · [Repo](https://github.com/sinelaw/fresh) · [📖 Docs ↗](https://getfresh.dev/docs) · [🌐 Site ↗](https://sinelaw.github.io/fresh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fresh/)</sub>
 
 <a name="yn"></a>
-### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (87) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (61) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
 
 **Electron Markdown editor with AI completion and a plugin API.**
 
@@ -129,7 +129,7 @@ An npm package of 200+ WebGPU effects (gradients, noise, glass, distortions, blu
 <sub>TypeScript · Needs WebGPU-capable browser, shaders.com account for design editor and CLI sync · [Repo](https://github.com/shader-effects-inc/shaders) · [📖 Docs ↗](https://shaders.com/docs/components) · [🌐 Site ↗](https://shaders.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shaders/)</sub>
 
 <a name="builder"></a>
-### #&#8288;8 [builder](https://github.com/builderio/builder) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+### #&#8288;8 [builder](https://github.com/builderio/builder) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
 
 **Visual editor and SDKs for drag-and-drop editing with your own components.**
 
@@ -146,7 +146,7 @@ Builder.io is a visual development platform that connects to an existing site or
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="ui-components"></a>
-### #&#8288;9 [ui-components](https://github.com/starc007/ui-components) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
+### #&#8288;9 [ui-components](https://github.com/starc007/ui-components) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
 
 **Animated React and Next.js components installed via the shadcn registry.**
 
@@ -164,7 +164,7 @@ beUI is a library of Framer Motion components for React and Next.js, built with 
 <sub>TypeScript · Needs React, Next.js, Tailwind CSS, Framer Motion, shadcn/ui CLI, Bun (to run the repo locally) · env example file · [Repo](https://github.com/starc007/ui-components) · [📖 Docs ↗](https://beui.dev/docs/ai-agents) · [🌐 Site ↗](https://beui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-components/)</sub>
 
 <a name="andesine"></a>
-### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (69) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
+### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
 
 **Collaborative content workspace with structured collections, publishing and an MCP server.**
 
