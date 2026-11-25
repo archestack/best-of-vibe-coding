@@ -1060,7 +1060,7 @@ Shippie runs an agent loop on the flue framework and pi that reads a diff, explo
 <sub>no GPU · Docker · Needs Anthropic, OpenAI, OpenRouter or Cloudflare Workers AI API key, Node >= 22.19, GitHub Actions or GitLab CI (optional) · Models: Anthropic, OpenAI, OpenRouter, Cloudflare Workers AI · [Repo](https://github.com/mattzcarey/shippie) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shippie/)</sub>
 
 <a name="gentleman-guardian-angel"></a>
-### #&#8288;60 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (20) · Freshness: active (88) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jul 2026</sub>
+### #&#8288;60 [gentleman-guardian-angel](https://github.com/gentleman-programming/gentleman-guardian-angel) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: niche (20) · Freshness: active (87) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · MIT · Jul 2026</sub>
 
 **Git pre-commit hook that reviews staged files against AGENTS.md using any LLM.**
 
@@ -1078,7 +1078,7 @@ GGA is a pure Bash CLI that installs a git pre-commit (or commit-msg) hook and s
 <sub>no GPU · Needs Bash 5.0+, git, an AI provider CLI or API (Claude, Gemini, Codex, Ollama, etc.) · Models: Claude, Gemini, Codex, OpenCode, Cursor Agent · [Repo](https://github.com/gentleman-programming/gentleman-guardian-angel) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gentleman-guardian-angel/)</sub>
 
 <a name="shortest"></a>
-### #&#8288;61 [shortest](https://github.com/antiwork/shortest) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (57) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · May 2026</sub>
+### #&#8288;61 [shortest](https://github.com/antiwork/shortest) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: popular (57) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.7k · MIT · May 2026</sub>
 
 **Write end-to-end browser tests in plain English, executed by Claude via Playwright.**
 
@@ -1096,7 +1096,7 @@ Shortest is a TypeScript test framework where each test is a natural-language se
 <sub>no GPU · Needs Anthropic API, Playwright, Mailosaur (optional), Clerk, Vercel Postgres, Stripe (web app only) · Models: Anthropic Claude · port 3000 · [Repo](https://github.com/antiwork/shortest) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shortest/)</sub>
 
 <a name="claude-code-security-review"></a>
-### #&#8288;62 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (63) · Freshness: quiet (29) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Feb 2026</sub>
+### #&#8288;62 [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) <sub>score [29](../README.md#-how-we-rank "Score 29/100. Adoption: popular (63) · Freshness: quiet (28) · Maintenance: weak (6) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.1k · MIT · Feb 2026</sub>
 
 **GitHub Action that has Claude review pull request diffs for security issues.**
 

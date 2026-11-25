@@ -251,7 +251,7 @@ A Kotlin Android app that sends messages to the OpenAI Chat API and shows the co
 <sub>Kotlin, OpenAI Chat API · Needs OpenAI API key, Stream Chat account and API key, Android SDK (min API 21) · [Repo](https://github.com/skydoves/chatgpt-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-android/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (22) · Freshness: slowing (45) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · MIT · Mar 2026</sub>
+### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (22) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -300,7 +300,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 884 · MIT · Dec 2025</sub>
+### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 884 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 

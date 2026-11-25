@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-24
+updated_at: 2026-11-25
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -3817,7 +3817,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 53
+    score: 52
   - id: cmux
     repo: manaflow-ai/cmux
     name: cmux
@@ -9003,7 +9003,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 42
+    score: 41
   - id: e2e
     repo: tester-army/e2e
     name: e2e
@@ -9953,7 +9953,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 51
+    score: 50
   - id: repowise
     repo: repowise-dev/repowise
     name: repowise
@@ -10596,7 +10596,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 41
+    score: 40
   - id: dev-browser
     repo: sawyerhood/dev-browser
     name: dev-browser
@@ -11808,7 +11808,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 48
+    score: 47
   - id: anti-slop
     repo: miqdadbadjuber/anti-slop
     name: anti-slop
@@ -13527,7 +13527,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 21
+    score: 20
   - id: continuous-claude-v3
     repo: parcadei/continuous-claude-v3
     name: continuous-claude-v3
@@ -14357,7 +14357,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 41
+    score: 40
   - id: toad
     repo: batrachianai/toad
     name: toad
@@ -15880,7 +15880,7 @@ entries:
     links:
       demo: null
       website: https://maka.apache.org/en/
-      docs: https://github.com/apache/maka/blob/main/docs/README.md
+      docs: null
     audience: Engineers who want a local, auditable coding agent with their own model
     confidence: 0.85
     facts:
@@ -17079,7 +17079,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 45
+    score: 44
   - id: lint
     repo: shadcn-ui/lint
     name: lint
@@ -19083,7 +19083,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 30
+    score: 29
   - id: sidekick-nvim
     repo: folke/sidekick.nvim
     name: sidekick.nvim
@@ -19506,7 +19506,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 57
+    score: 56
   - id: native-subtitle-quote-image
     repo: chengyi-ai/native-subtitle-quote-image
     name: native-subtitle-quote-image
@@ -20054,7 +20054,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 31
   - id: classic-jazz
     repo: garden-co/classic-jazz
     name: classic-jazz
@@ -22702,7 +22702,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 30
+    score: 29
   - id: design-dna
     repo: zanwei/design-dna
     name: design-dna
@@ -26319,7 +26319,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 35
+    score: 34
   - id: azure-skills
     repo: microsoft/azure-skills
     name: azure-skills
@@ -28742,7 +28742,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 55
+    score: 54
   - id: gemini-skills
     repo: google-gemini/gemini-skills
     name: gemini-skills
@@ -30937,7 +30937,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 31
+    score: 30
   - id: testsprite-cli
     repo: testsprite/testsprite-cli
     name: testsprite-cli
@@ -37506,7 +37506,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 47
+    score: 46
   - id: athas
     repo: athasdev/athas
     name: athas
@@ -42891,7 +42891,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 51
+    score: 50
   - id: mobile-dev-inc-maestro
     repo: mobile-dev-inc/maestro
     name: mobile-dev-inc/maestro
@@ -46261,7 +46261,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 15
+    score: 14
   - id: crit
     repo: tomasz-tomczyk/crit
     name: crit
@@ -47617,7 +47617,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 31
   - id: osgrep
     repo: ryandonofrio3/osgrep
     name: osgrep
@@ -54558,7 +54558,7 @@ entries:
       has_compose: false
       is_template: true
       language: HTML
-    score: 31
+    score: 30
   - id: ok-script
     repo: ok-oldking/ok-script
     name: ok-script
@@ -59077,7 +59077,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 12
+    score: 11
   - id: copilot-api
     repo: caozhiyuan/copilot-api
     name: copilot-api
@@ -65709,7 +65709,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 45
+    score: 44
   - id: alumnium
     repo: alumnium-hq/alumnium
     name: alumnium
@@ -69479,7 +69479,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 25
+    score: 24
   - id: app-store-compliance
     repo: mjmirza/app-store-compliance
     name: app-store-compliance
@@ -74397,7 +74397,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 24
+    score: 23
   - id: aiming-lab-autoharness
     repo: aiming-lab/autoharness
     name: aiming-lab/autoharness
@@ -76806,7 +76806,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 43
+    score: 42
   - id: vtcode
     repo: vinhnx/vtcode
     name: vtcode
@@ -77810,7 +77810,7 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://absinthe-graphql.org
+      website: null
       docs: https://hexdocs.pm/absinthe
     audience: Elixir and Phoenix developers building GraphQL APIs
     confidence: 0.4
@@ -78213,7 +78213,7 @@ entries:
       web_port: 5000
     links:
       demo: null
-      website: https://www.saasforge.dev
+      website: null
       docs: null
     audience: Developers starting a Flask and React SaaS who need auth and a dashboard
     confidence: 0.8
@@ -80349,7 +80349,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://docs.aws.amazon.com/blocks/latest/devguide/what-is-blocks.html
+      docs: null
     audience: TypeScript developers building full-stack apps to deploy on AWS
     confidence: 0.85
     facts:
@@ -80614,8 +80614,8 @@ entries:
       web_port: null
     links:
       demo: null
-      website: https://start.taotaocloud.top/
-      docs: https://docs.taotaocloud.top
+      website: null
+      docs: null
     audience: Java teams wanting a Spring Cloud Alibaba microservice scaffold
     confidence: 0.6
     facts:
@@ -81643,7 +81643,7 @@ entries:
     links:
       demo: http://demo.robustmq.com:58080
       website: https://robustmq.com/
-      docs: https://robustmq.com/QuickGuide/Overview.html
+      docs: null
     audience: Engineers needing an MQTT broker or testing agent messaging over NATS
     confidence: 0.8
     facts:
@@ -82006,7 +82006,7 @@ entries:
     links:
       demo: null
       website: null
-      docs: https://docs.magnitude.run
+      docs: null
     audience: Developers automating browsers or testing web apps with vision LLMs
     confidence: 0.6
     facts:
@@ -85749,9 +85749,9 @@ entries:
       model_support: []
       web_port: null
     links:
-      demo: https://context.space/integrations
-      website: https://context.space
-      docs: https://api.context.space/v1/docs
+      demo: null
+      website: null
+      docs: null
     audience: Developers who want agents to call SaaS APIs through MCP without handling OAuth
     confidence: 0.8
     facts:

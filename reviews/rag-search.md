@@ -398,7 +398,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;23 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (61) · Freshness: recent (57) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;23 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [35](../README.md#-how-we-rank "Score 35/100. Adoption: popular (61) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -539,7 +539,7 @@ Epsilla is a vector database written in C++ that stores vectors as a field type 
 <sub>C++ · [Repo](https://github.com/epsilla-cloud/vectordb) · [📖 Docs ↗](https://epsilla-inc.gitbook.io/epsilladb/) · [🌐 Site ↗](https://cloud.epsilla.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vectordb/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;31 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [2](../README.md#-how-we-rank "Score 2/100. Adoption: niche (0) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 208 · MIT · Dec 2025</sub>
+### #&#8288;31 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [2](../README.md#-how-we-rank "Score 2/100. Adoption: niche (0) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 208 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 
