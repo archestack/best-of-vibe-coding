@@ -23,7 +23,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="chat-js"></a>
-### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js AI chat app scaffold with auth, branching and sharing.**
 
@@ -41,7 +41,7 @@ ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, 
 <sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
 <a name="chatgpt-telegram-workers"></a>
-### 🥉 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
+### 🥉 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
 
 **Telegram bot that proxies chat to multiple LLM providers on Cloudflare Workers.**
 
@@ -59,7 +59,7 @@ A TypeScript Telegram bot that forwards messages to LLM providers such as OpenAI
 <sub>TypeScript, OpenAI, Cloudflare AI, Cohere, Anthropic · Needs Telegram bot token, Cloudflare Workers KV · Docker · [Repo](https://github.com/tbxark/chatgpt-telegram-workers) · [📖 Docs ↗](https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/master/doc/en/DEPLOY.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-telegram-workers/)</sub>
 
 <a name="ant-design-x-vue"></a>
-### #&#8288;4 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+### #&#8288;4 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
 
 **Vue component library for building AI chat interfaces, port of Ant Design X.**
 
@@ -112,7 +112,7 @@ BoardUI is a set of 69 free React components, built on React Aria Components and
 <sub>TypeScript, Anthropic, OpenAI, Google Gemini, OpenRouter · Needs Node.js, Next.js, LLM provider API key · env example file · [Repo](https://github.com/boardui/boardui) · [📖 Docs ↗](https://www.boardui.com/mcp) · [🌐 Site ↗](https://www.boardui.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/boardui/)</sub>
 
 <a name="langchain-nextjs-template"></a>
-### #&#8288;7 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
+### #&#8288;7 [langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · MIT · Nov 2026</sub>
 
 **Next.js routes for LangChain.js chat, agents, structured output and RAG.**
 
@@ -146,7 +146,7 @@ A one-page Next.js app: a form builds a prompt, sends it to Together AI and stre
 <sub>TypeScript, together · Needs together-api-key · env example file · [Repo](https://github.com/nutlope/twitterbio) · [▶️ Demo ↗](https://www.twitterbio.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/twitterbio/)</sub>
 
 <a name="gemini-chatbot"></a>
-### #&#8288;9 [gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (36) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Oct 2026</sub>
+### #&#8288;9 [gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: known (37) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Oct 2026</sub>
 
 **Next.js chatbot template defaulting to Gemini with NextAuth and Postgres.**
 
@@ -199,7 +199,7 @@ Bot on Anything connects a chosen model (OpenAI-compatible API, LinkAI, ERNIE Bo
 <sub>Python, OpenAI-compatible API, LinkAI, ERNIE Bot, New Bing · Needs Python 3.7.1-3.10, openai<1.0.0, flask, flask_socketio, slack_bolt, pyTelegramBotAPI, werobot, go-cqhttp (QQ channel) · Docker · [Repo](https://github.com/zhayujie/bot-on-anything) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bot-on-anything/)</sub>
 
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (13) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 671 · MIT · Aug 2026</sub>
+### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (14) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 671 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -233,7 +233,7 @@ A Laravel 12 application with Inertia and Vue 3 that streams model replies over 
 <sub>PHP, prism, openai, anthropic, google · Needs php-8.3, composer, sqlite-or-mysql-or-postgres, provider-api-keys · GitHub template · env example file · [Repo](https://github.com/pushpak1300/ai-chat) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-chat/)</sub>
 
 <a name="chatgpt-android"></a>
-### #&#8288;14 [chatgpt-android](https://github.com/skydoves/chatgpt-android) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (67) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Jan 2026</sub>
+### #&#8288;14 [chatgpt-android](https://github.com/skydoves/chatgpt-android) <sub>score [23](../README.md#-how-we-rank "Score 23/100. Adoption: popular (68) · Freshness: quiet (10) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.9k · Apache-2.0 · Jan 2026</sub>
 
 **Android ChatGPT client sample built with Jetpack Compose and Stream Chat SDK.**
 
@@ -251,7 +251,7 @@ A Kotlin Android app that sends messages to the OpenAI Chat API and shows the co
 <sub>Kotlin, OpenAI Chat API · Needs OpenAI API key, Stream Chat account and API key, Android SDK (min API 21) · [Repo](https://github.com/skydoves/chatgpt-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-android/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (22) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 899 · MIT · Mar 2026</sub>
+### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (23) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 899 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 
@@ -266,7 +266,7 @@ Two reference apps for embedding OpenAI ChatKit: one self-hosted integration whe
 <sub>Python, openai, chatkit · Needs openai-api-key · [Repo](https://github.com/openai/openai-chatkit-starter-app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-starter-app/)</sub>
 
 <a name="zola"></a>
-### #&#8288;16 [zola](https://github.com/ibelick/zola) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: known (41) · Freshness: quiet (5) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;16 [zola](https://github.com/ibelick/zola) <sub>score [19](../README.md#-how-we-rank "Score 19/100. Adoption: known (42) · Freshness: quiet (5) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Multi-provider chat UI on Next.js with Ollama detection and BYOK.**
 
