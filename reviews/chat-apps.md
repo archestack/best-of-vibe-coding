@@ -23,7 +23,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="chat-js"></a>
-### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (30) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: known (30) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js AI chat app scaffold with auth, branching and sharing.**
 
@@ -40,26 +40,8 @@ ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, 
 
 <sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
-<a name="chatgpt-telegram-workers"></a>
-### 🥉 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
-
-**Telegram bot that proxies chat to multiple LLM providers on Cloudflare Workers.**
-
-A TypeScript Telegram bot that forwards messages to LLM providers such as OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq and Cloudflare AI. It runs serverless on Cloudflare Workers, with Vercel and Docker as alternatives, and stores configuration in KV. It adds streaming replies, custom commands for switching models or presets, text-to-image, plugins and a Telegram Mini App admin panel.
-
-- **+** Supports many providers: OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq, Cloudflare AI
-- **+** Runs serverless on Cloudflare Workers; Vercel and Docker also supported
-- **+** Custom commands switch models or system-prompt presets from within Telegram
-- **+** Telegram Mini App admin panel and plugin system for configuration and extension
-- **−** Tied to Telegram as the only chat front end
-- **−** Cloudflare deployment depends on a KV namespace for configuration
-- **−** Provider setup and plugin details are in separate docs, not the README
-- **−** Migrating from v1 to v2 requires following a separate migration guide
-
-<sub>TypeScript, OpenAI, Cloudflare AI, Cohere, Anthropic · Needs Telegram bot token, Cloudflare Workers KV · Docker · [Repo](https://github.com/tbxark/chatgpt-telegram-workers) · [📖 Docs ↗](https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/master/doc/en/DEPLOY.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-telegram-workers/)</sub>
-
 <a name="ant-design-x-vue"></a>
-### #&#8288;4 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (50) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+### 🥉 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
 
 **Vue component library for building AI chat interfaces, port of Ant Design X.**
 
@@ -75,6 +57,24 @@ Vue 3 implementation of Ant Design X, a set of UI components for AI conversation
 - **−** Component list and templates are not detailed in the README
 
 <sub>TypeScript, OpenAI-compatible APIs · Needs vue >=3.3, ant-design-vue · [Repo](https://github.com/wzc520pyfm/ant-design-x-vue) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ant-design-x-vue/)</sub>
+
+<a name="chatgpt-telegram-workers"></a>
+### #&#8288;4 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (65) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
+
+**Telegram bot that proxies chat to multiple LLM providers on Cloudflare Workers.**
+
+A TypeScript Telegram bot that forwards messages to LLM providers such as OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq and Cloudflare AI. It runs serverless on Cloudflare Workers, with Vercel and Docker as alternatives, and stores configuration in KV. It adds streaming replies, custom commands for switching models or presets, text-to-image, plugins and a Telegram Mini App admin panel.
+
+- **+** Supports many providers: OpenAI, Anthropic, Cohere, Mistral, DeepSeek, Groq, Cloudflare AI
+- **+** Runs serverless on Cloudflare Workers; Vercel and Docker also supported
+- **+** Custom commands switch models or system-prompt presets from within Telegram
+- **+** Telegram Mini App admin panel and plugin system for configuration and extension
+- **−** Tied to Telegram as the only chat front end
+- **−** Cloudflare deployment depends on a KV namespace for configuration
+- **−** Provider setup and plugin details are in separate docs, not the README
+- **−** Migrating from v1 to v2 requires following a separate migration guide
+
+<sub>TypeScript, OpenAI, Cloudflare AI, Cohere, Anthropic · Needs Telegram bot token, Cloudflare Workers KV · Docker · [Repo](https://github.com/tbxark/chatgpt-telegram-workers) · [📖 Docs ↗](https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/master/doc/en/DEPLOY.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-telegram-workers/)</sub>
 
 <a name="vercel-chatbot"></a>
 ### #&#8288;5 [chatbot](https://github.com/vercel/chatbot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (91) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
@@ -94,7 +94,7 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
 
 <a name="boardui"></a>
-### #&#8288;6 [boardui](https://github.com/boardui/boardui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;6 [boardui](https://github.com/boardui/boardui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (34) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **React component library for agent UIs, installed as source via CLI.**
 
@@ -163,7 +163,7 @@ An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js A
 <sub>TypeScript, google, ai-sdk · Needs postgres, vercel-blob, google-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel-labs/gemini-chatbot) · [▶️ Demo ↗](https://gemini.vercel.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-chatbot/)</sub>
 
 <a name="nuxt-ui-chat"></a>
-### #&#8288;10 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 381 · MIT · Nov 2026</sub>
+### #&#8288;10 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 381 · MIT · Nov 2026</sub>
 
 **Nuxt chat app template with GitHub auth, SQLite history and AI SDK streaming.**
 
@@ -181,7 +181,7 @@ Nuxt application built on Nuxt UI components that streams chat responses through
 <sub>Vue, Claude Haiku 5.5, Gemini 3 Flash, GPT-5.6 Luna · Needs Vercel AI Gateway, SQLite / Turso, GitHub OAuth app, NuxtHub Blob · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="bot-on-anything"></a>
-### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (72) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
+### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: popular (73) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
 
 **Python framework connecting LLMs to chat channels like Telegram, Slack, Discord.**
 
@@ -215,7 +215,7 @@ Four ChatKit scenarios, each a FastAPI backend on the ChatKit Python SDK plus a 
 <sub>openai, chatkit · Needs openai-api-key, uv · [Repo](https://github.com/openai/openai-chatkit-advanced-samples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openai-chatkit-advanced-samples/)</sub>
 
 <a name="ai-chat"></a>
-### #&#8288;13 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (7) · Freshness: recent (76) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
+### #&#8288;13 [ai-chat](https://github.com/pushpak1300/ai-chat) <sub>score [25](../README.md#-how-we-rank "Score 25/100. Adoption: niche (8) · Freshness: recent (76) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 383 · MIT · Jun 2026</sub>
 
 **Laravel 12 chat starter streaming replies through Prism to eight providers.**
 
