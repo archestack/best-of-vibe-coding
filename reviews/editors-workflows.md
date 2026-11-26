@@ -23,7 +23,7 @@ Windmill turns plain scripts in Python, TypeScript, Go, Bash, SQL and other lang
 <sub>Rust · Needs PostgreSQL, Caddy (in the compose setup) · Docker · ⚠️ .env file committed · README: alternative to Lovable · [Repo](https://github.com/windmill-labs/windmill) · [▶️ Demo ↗](https://app.windmill.dev) · [📖 Docs ↗](https://www.windmill.dev/docs/intro/) · [🌐 Site ↗](https://www.windmill.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/windmill/)</sub>
 
 <a name="penpot"></a>
-### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
+### 🥈 [penpot](https://github.com/penpot/penpot) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (99) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 63k · MPL-2.0 · Nov 2026</sub>
 
 **Open-source design and prototyping tool with real-time collaboration and design tokens.**
 
@@ -75,7 +75,7 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -146,7 +146,7 @@ Builder.io is a visual development platform that connects to an existing site or
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="ui-components"></a>
-### #&#8288;9 [ui-components](https://github.com/starc007/ui-components) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
+### #&#8288;9 [ui-components](https://github.com/starc007/ui-components) <sub>score [67](../README.md#-how-we-rank "Score 67/100. Adoption: known (37) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
 
 **Animated React and Next.js components installed via the shadcn registry.**
 
@@ -164,7 +164,7 @@ beUI is a library of Framer Motion components for React and Next.js, built with 
 <sub>TypeScript · Needs React, Next.js, Tailwind CSS, Framer Motion, shadcn/ui CLI, Bun (to run the repo locally) · env example file · [Repo](https://github.com/starc007/ui-components) · [📖 Docs ↗](https://beui.dev/docs/ai-agents) · [🌐 Site ↗](https://beui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-components/)</sub>
 
 <a name="andesine"></a>
-### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (73) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
+### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [62](../README.md#-how-we-rank "Score 62/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
 
 **Collaborative content workspace with structured collections, publishing and an MCP server.**
 
