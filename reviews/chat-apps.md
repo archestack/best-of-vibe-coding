@@ -41,7 +41,7 @@ ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, 
 <sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
 <a name="ant-design-x-vue"></a>
-### 🥉 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+### 🥉 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.9k · MIT · Nov 2026</sub>
 
 **Vue component library for building AI chat interfaces, port of Ant Design X.**
 
@@ -163,7 +163,7 @@ An earlier cut of the Vercel chatbot template pinned to Google Gemini: Next.js A
 <sub>TypeScript, google, ai-sdk · Needs postgres, vercel-blob, google-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel-labs/gemini-chatbot) · [▶️ Demo ↗](https://gemini.vercel.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/gemini-chatbot/)</sub>
 
 <a name="nuxt-ui-chat"></a>
-### #&#8288;10 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 381 · MIT · Nov 2026</sub>
+### #&#8288;10 [chat](https://github.com/nuxt-ui-templates/chat) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 382 · MIT · Nov 2026</sub>
 
 **Nuxt chat app template with GitHub auth, SQLite history and AI SDK streaming.**
 
@@ -199,7 +199,7 @@ Bot on Anything connects a chosen model (OpenAI-compatible API, LinkAI, ERNIE Bo
 <sub>Python, OpenAI-compatible API, LinkAI, ERNIE Bot, New Bing · Needs Python 3.7.1-3.10, openai<1.0.0, flask, flask_socketio, slack_bolt, pyTelegramBotAPI, werobot, go-cqhttp (QQ channel) · Docker · [Repo](https://github.com/zhayujie/bot-on-anything) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/bot-on-anything/)</sub>
 
 <a name="openai-chatkit-advanced-samples"></a>
-### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (14) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 671 · MIT · Aug 2026</sub>
+### #&#8288;12 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (14) · Freshness: active (90) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 672 · MIT · Aug 2026</sub>
 
 **ChatKit feature demos with FastAPI backends and React frontends.**
 
@@ -251,7 +251,7 @@ A Kotlin Android app that sends messages to the OpenAI Chat API and shows the co
 <sub>Kotlin, OpenAI Chat API · Needs OpenAI API key, Stream Chat account and API key, Android SDK (min API 21) · [Repo](https://github.com/skydoves/chatgpt-android) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-android/)</sub>
 
 <a name="openai-chatkit-starter-app"></a>
-### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (23) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 899 · MIT · Mar 2026</sub>
+### #&#8288;15 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (23) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 900 · MIT · Mar 2026</sub>
 
 **Minimal self-hosted and managed OpenAI ChatKit reference apps.**
 

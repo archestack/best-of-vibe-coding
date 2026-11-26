@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="windmill"></a>
-### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
+### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
 
 **Workflow engine and app builder where scripts become UIs, APIs and cron jobs.**
 
@@ -198,7 +198,7 @@ Andesine is a team content workspace with a real-time Markdown editor, structure
 <sub>TypeScript · env example file · [Repo](https://github.com/vriteio/andesine) · [📖 Docs ↗](https://andesine.app/docs) · [🌐 Site ↗](https://andesine.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/andesine/)</sub>
 
 <a name="livecodes"></a>
-### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (29) · Freshness: active (98) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (29) · Freshness: active (98) · Maintenance: fair (57) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Browser-based code playground supporting 90+ languages, embeddable via an SDK.**
 
