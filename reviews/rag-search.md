@@ -184,7 +184,7 @@ zg indexes a project into a .zvec-grep/ directory and searches it with exact tex
 <sub>Rust, local/potion-retrieval-32m, Qwen3.7 Text Embedding · Needs Node.js/npm for install, zvec · [Repo](https://github.com/zvec-ai/zvec-grep) · [📖 Docs ↗](https://zvec.org/en/docs/zvec-grep/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zvec-grep/)</sub>
 
 <a name="chinese-poetry-api"></a>
-### #&#8288;11 [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) <sub>score [65](../README.md#-how-we-rank "Score 65/100. Adoption: popular (52) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.6k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;11 [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · GPL-3.0 · Nov 2026</sub>
 
 **Chinese classical poetry API with REST, GraphQL, MCP and optional semantic search.**
 
@@ -199,7 +199,7 @@ Go service that serves about 400,000 Chinese poems (Tang poetry, Song ci, Yuan q
 - **−** Building with plain `go` requires the `sqlite_fts5` tag, or search fails
 - **−** Documentation is in Chinese only; the dataset comes in via git submodules
 
-<sub>Go, bge-m3 · Needs SQLite with FTS5, Ollama or OpenAI-compatible embeddings API (optional, semantic search), Git submodules (dataset) · Docker · [Repo](https://github.com/palemoky/chinese-poetry-api) · [▶️ Demo ↗](https://poetry.palemoky.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chinese-poetry-api/)</sub>
+<sub>Go, bge-m3 · Needs SQLite with FTS5, Ollama or OpenAI-compatible embeddings API (optional, semantic search), Git submodules (dataset) · Docker · env example file · [Repo](https://github.com/palemoky/chinese-poetry-api) · [▶️ Demo ↗](https://poetry.palemoky.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chinese-poetry-api/)</sub>
 
 <a name="chat-langchain"></a>
 ### #&#8288;12 [chat-langchain](https://github.com/langchain-ai/chat-langchain) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.5k · MIT · Nov 2026</sub>
@@ -291,26 +291,8 @@ Langchain.rb is a Ruby gem that wraps LLM providers behind one interface for emb
 
 <sub>Ruby, Anthropic, AWS Bedrock, Azure OpenAI, Cohere · Needs Ruby, LLM provider API key or Ollama, vector database client gem (optional) · env example file · [Repo](https://github.com/patterns-ai-core/langchainrb) · [📖 Docs ↗](http://rubydoc.info/gems/langchainrb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchainrb/)</sub>
 
-<a name="llm-apps-java-spring-ai"></a>
-### #&#8288;17 [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: niche (17) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 788 · Apache-2.0 · Nov 2026</sub>
-
-**Spring AI sample projects for chat, RAG, tool calling and observability in Java.**
-
-A collection of small Java 25 sample applications built on Spring AI. Each folder covers one topic: chat models, embeddings, prompts, structured output, tool calling, chat memory, guardrails, document ingestion, several RAG flows and LLM observability. Most samples use Ollama, some have Mistral AI and OpenAI variants, and retrieval samples use PGVector.
-
-- **+** Covers sequential, branching and conditional RAG flows with Ollama and PGVector
-- **+** Same pattern often shown for Ollama, OpenAI and Mistral AI side by side
-- **+** Includes chat memory variants: in-memory, JDBC, Spring Security, vector store
-- **+** Includes observability samples for models and PGVector
-- **−** Separate sample modules, not one forkable app with auth or billing
-- **−** Vector stores, evaluation and agents sections are marked coming soon
-- **−** Requires Java 25, which many teams have not adopted
-- **−** Only PGVector is shown as a vector store
-
-<sub>Java, Ollama, OpenAI, Mistral AI, ONNX Transformers · Needs Java 25, Podman or Docker, Ollama, PGVector · [Repo](https://github.com/thomasvitale/llm-apps-java-spring-ai) · [📖 Docs ↗](https://docs.spring.io/spring-ai/reference/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-apps-java-spring-ai/)</sub>
-
 <a name="orama"></a>
-### #&#8288;18 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (79) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
+### #&#8288;17 [orama](https://github.com/oramasearch/orama) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: popular (79) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 11k · custom license · Jul 2026</sub>
 
 **In-process full-text, vector and hybrid search library for JavaScript.**
 
@@ -328,7 +310,7 @@ Orama is a TypeScript search engine that runs in the browser, Node, Deno or Bun.
 <sub>TypeScript, OpenAI chat models via secure proxy (e.g. gpt-4o-mini), TensorFlow.js embeddings (512-dimension) · Needs OpenAI API (optional, for chat answers), TensorFlow.js (optional, for embeddings plugin) · [Repo](https://github.com/oramasearch/orama) · [📖 Docs ↗](https://docs.orama.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orama/)</sub>
 
 <a name="supabaseauthwithssr"></a>
-### #&#8288;19 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
+### #&#8288;18 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [45](../README.md#-how-we-rank "Score 45/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -344,6 +326,24 @@ A Next.js 16 app on AI SDK v7 and Claude with complete Supabase SSR auth (signup
 - **−** One maintainer; large surface area to understand before customizing
 
 <sub>TypeScript, anthropic, ai-sdk, mistral, voyage · Needs supabase, anthropic-api-key, mistral-api-key, voyage-api-key, exa-api-key · env example file · sign-in: Supabase Auth · [Repo](https://github.com/electriccodeguy/supabaseauthwithssr) · [▶️ Demo ↗](https://www.supa-chat.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/supabaseauthwithssr/)</sub>
+
+<a name="llm-apps-java-spring-ai"></a>
+### #&#8288;19 [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (17) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 790 · Apache-2.0 · Nov 2026</sub>
+
+**Spring AI sample projects for chat, RAG, tool calling and observability in Java.**
+
+A collection of small Java 25 sample applications built on Spring AI. Each folder covers one topic: chat models, embeddings, prompts, structured output, tool calling, chat memory, guardrails, document ingestion, several RAG flows and LLM observability. Most samples use Ollama, some have Mistral AI and OpenAI variants, and retrieval samples use PGVector.
+
+- **+** Covers sequential, branching and conditional RAG flows with Ollama and PGVector
+- **+** Same pattern often shown for Ollama, OpenAI and Mistral AI side by side
+- **+** Includes chat memory variants: in-memory, JDBC, Spring Security, vector store
+- **+** Includes observability samples for models and PGVector
+- **−** Separate sample modules, not one forkable app with auth or billing
+- **−** Vector stores, evaluation and agents sections are marked coming soon
+- **−** Requires Java 25, which many teams have not adopted
+- **−** Only PGVector is shown as a vector store
+
+<sub>Java, Ollama, OpenAI, Mistral AI, ONNX Transformers · Needs Java 25, Podman or Docker, Ollama, PGVector · [Repo](https://github.com/thomasvitale/llm-apps-java-spring-ai) · [📖 Docs ↗](https://docs.spring.io/spring-ai/reference/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-apps-java-spring-ai/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
 ### #&#8288;20 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 512 · MIT · Oct 2026</sub>
