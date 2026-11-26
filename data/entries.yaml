@@ -95,7 +95,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 53
+    score: 52
   - id: fullstack-solution-template-for-agentcore
     repo: awslabs/fullstack-solution-template-for-agentcore
     name: fullstack-solution-template-for-agentcore
@@ -189,7 +189,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 20
+    score: 21
   - id: azure-ai-travel-agents
     repo: azure-samples/azure-ai-travel-agents
     name: azure-ai-travel-agents
@@ -3006,7 +3006,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 54
+    score: 55
   - id: github-mcp-server
     repo: github/github-mcp-server
     name: github-mcp-server
@@ -3455,7 +3455,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 89
+    score: 90
   - id: open-lovable
     repo: firecrawl/open-lovable
     name: open-lovable
@@ -3798,7 +3798,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 52
+    score: 53
   - id: cmux
     repo: manaflow-ai/cmux
     name: cmux
@@ -4054,7 +4054,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 90
+    score: 91
   - id: grok-build
     repo: xai-org/grok-build
     name: grok-build
@@ -4645,7 +4645,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 73
+    score: 74
   - id: react-starter-kit
     repo: kriasoft/react-starter-kit
     name: react-starter-kit
@@ -6064,7 +6064,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 81
+    score: 82
   - id: agent-skills-for-context-engineering
     repo: muratcankoylan/agent-skills-for-context-engineering
     name: agent-skills-for-context-engineering
@@ -6529,7 +6529,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 86
+    score: 87
   - id: unity-mcp
     repo: coplaydev/unity-mcp
     name: coplaydev/unity-mcp
@@ -7430,7 +7430,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: huggingface-skills
     repo: huggingface/skills
     name: huggingface/skills
@@ -7478,7 +7478,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 62
+    score: 63
   - id: video-shotcraft
     repo: vincentwei1021/video-shotcraft
     name: video-shotcraft
@@ -8002,7 +8002,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 78
+    score: 79
   - id: trail-code
     repo: trailhq/trail-code
     name: trail-code
@@ -8469,7 +8469,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 56
+    score: 57
   - id: harness
     repo: revfactory/harness
     name: revfactory/harness
@@ -8984,7 +8984,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 41
+    score: 42
   - id: e2e
     repo: tester-army/e2e
     name: e2e
@@ -9122,7 +9122,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 64
+    score: 65
   - id: superpowers-zh
     repo: jnmetacode/superpowers-zh
     name: superpowers-zh
@@ -9303,7 +9303,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 63
+    score: 64
   - id: jakubkrehel-skills
     repo: jakubkrehel/skills
     name: jakubkrehel/skills
@@ -9399,7 +9399,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 75
+    score: 76
   - id: kimi-code
     repo: moonshotai/kimi-code
     name: kimi-code
@@ -9890,7 +9890,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: saas-boilerplate
     repo: ixartz/saas-boilerplate
     name: ixartz/saas-boilerplate
@@ -9934,7 +9934,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 50
+    score: 51
   - id: repowise
     repo: repowise-dev/repowise
     name: repowise
@@ -10577,7 +10577,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 40
+    score: 41
   - id: dev-browser
     repo: sawyerhood/dev-browser
     name: dev-browser
@@ -10755,7 +10755,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 71
+    score: 72
   - id: autoresearch
     repo: uditgoenka/autoresearch
     name: uditgoenka/autoresearch
@@ -10854,7 +10854,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 81
   - id: n8n-skills
     repo: czlonkowski/n8n-skills
     name: n8n-skills
@@ -10989,7 +10989,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 29
+    score: 30
   - id: awesome-codex-subagents
     repo: voltagent/awesome-codex-subagents
     name: awesome-codex-subagents
@@ -11270,7 +11270,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 76
+    score: 77
   - id: magic-mcp
     repo: 21st-dev/magic-mcp
     name: magic-mcp
@@ -11314,7 +11314,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 63
+    score: 64
   - id: ip-as-logo-skill
     repo: s1dashu/ip-as-logo-skill
     name: ip-as-logo-skill
@@ -11703,7 +11703,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: dotnet-skills
     repo: dotnet/skills
     name: dotnet/skills
@@ -11880,7 +11880,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 53
+    score: 54
   - id: gh-aw
     repo: github/gh-aw
     name: gh-aw
@@ -12112,7 +12112,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 63
+    score: 64
   - id: hapi
     repo: tiann/hapi
     name: hapi
@@ -12268,7 +12268,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 85
+    score: 86
   - id: mistral-vibe
     repo: mistralai/mistral-vibe
     name: mistral-vibe
@@ -12354,7 +12354,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 68
+    score: 69
   - id: obsidian-mind
     repo: breferrari/obsidian-mind
     name: obsidian-mind
@@ -12545,7 +12545,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 57
+    score: 58
   - id: chat-on-steroids
     repo: totec448-spec/chat-on-steroids
     name: chat-on-steroids
@@ -12632,7 +12632,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 70
+    score: 71
   - id: chef
     repo: convex/chef
     name: chef
@@ -12681,7 +12681,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 26
   - id: council-of-high-intelligence
     repo: 0xnyk/council-of-high-intelligence
     name: council-of-high-intelligence
@@ -13155,7 +13155,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 87
+    score: 88
   - id: bb
     repo: get-bb/bb
     name: bb
@@ -13341,7 +13341,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 79
+    score: 80
   - id: claudable
     repo: anymorph-ai/claudable
     name: claudable
@@ -13394,7 +13394,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 23
+    score: 24
   - id: monid
     repo: monid-ai/monid
     name: monid
@@ -13576,7 +13576,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 56
+    score: 57
   - id: lean-ctx
     repo: yvgude/lean-ctx
     name: lean-ctx
@@ -13747,7 +13747,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 60
+    score: 61
   - id: aiac
     repo: gofireflyio/aiac
     name: aiac
@@ -13968,7 +13968,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 56
   - id: vibe-skills
     repo: foryourhealth111-pixel/vibe-skills
     name: vibe-skills
@@ -14053,7 +14053,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 54
+    score: 55
   - id: agent-memory
     repo: tigerless-labs/agent-memory
     name: agent-memory
@@ -14207,7 +14207,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 61
+    score: 62
   - id: nvidia-skills
     repo: nvidia/skills
     name: nvidia/skills
@@ -14641,7 +14641,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 72
+    score: 73
   - id: claude-code-local
     repo: nicedreamzapp/claude-code-local
     name: claude-code-local
@@ -14922,7 +14922,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 74
+    score: 75
   - id: agent-of-empires
     repo: agent-of-empires/agent-of-empires
     name: agent-of-empires
@@ -15176,7 +15176,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 89
+    score: 90
   - id: context-engineering-intro
     repo: coleam00/context-engineering-intro
     name: context-engineering-intro
@@ -15490,7 +15490,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 85
+    score: 86
   - id: hunk
     repo: modem-dev/hunk
     name: hunk
@@ -15753,7 +15753,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 79
+    score: 80
   - id: go-backend-clean-architecture
     repo: amitshekhariitbhu/go-backend-clean-architecture
     name: go-backend-clean-architecture
@@ -15888,7 +15888,7 @@ entries:
       has_compose: true
       is_template: false
       language: Java
-    score: 85
+    score: 86
   - id: potpie
     repo: potpie-ai/potpie
     name: potpie
@@ -15933,7 +15933,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 70
+    score: 71
   - id: wigolo
     repo: knockoutez/wigolo
     name: wigolo
@@ -15983,7 +15983,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 81
   - id: exa-mcp-server
     repo: exa-labs/exa-mcp-server
     name: exa-mcp-server
@@ -16026,7 +16026,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 67
+    score: 68
   - id: mattpocock-skills-zh-cn
     repo: vinvcn/mattpocock-skills-zh-cn
     name: mattpocock-skills-zh-cn
@@ -16070,7 +16070,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 86
+    score: 87
   - id: openagentscontrol
     repo: darrenhinde/openagentscontrol
     name: openagentscontrol
@@ -16119,7 +16119,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 52
+    score: 53
   - id: codex-keysmith
     repo: jia-ethan/codex-keysmith
     name: codex-keysmith
@@ -16161,7 +16161,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 77
+    score: 78
   - id: adhd
     repo: uditakhourii/adhd
     name: adhd
@@ -16203,7 +16203,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 56
+    score: 57
   - id: mcp-server-cloudflare
     repo: cloudflare/mcp-server-cloudflare
     name: mcp-server-cloudflare
@@ -16349,7 +16349,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 86
+    score: 87
   - id: apm
     repo: microsoft/apm
     name: apm
@@ -16391,7 +16391,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 77
+    score: 78
   - id: unlazy
     repo: leonxlnx/unlazy
     name: unlazy
@@ -16434,7 +16434,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 59
+    score: 60
   - id: golutra
     repo: golutra/golutra
     name: golutra
@@ -16672,7 +16672,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 81
+    score: 82
   - id: ctf-skills
     repo: ljagiello/ctf-skills
     name: ctf-skills
@@ -16715,7 +16715,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 66
+    score: 67
   - id: sem
     repo: ataraxy-labs/sem
     name: sem
@@ -16759,7 +16759,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 74
+    score: 75
   - id: atomic-agent
     repo: atomicbot-ai/atomic-agent
     name: atomic-agent
@@ -16988,7 +16988,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 73
+    score: 74
   - id: playwright-skill
     repo: lackeyjb/playwright-skill
     name: playwright-skill
@@ -17257,7 +17257,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: dashboard-icons
     repo: homarr-labs/dashboard-icons
     name: dashboard-icons
@@ -17299,7 +17299,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 71
+    score: 72
   - id: next-shadcn-dashboard-starter
     repo: kiranism/next-shadcn-dashboard-starter
     name: next-shadcn-dashboard-starter
@@ -17430,7 +17430,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 58
+    score: 59
   - id: basic
     repo: fantastic-admin/basic
     name: basic
@@ -17471,7 +17471,7 @@ entries:
       has_compose: false
       is_template: true
       language: Vue
-    score: 71
+    score: 72
   - id: ralph-orchestrator
     repo: mikeyobrien/ralph-orchestrator
     name: ralph-orchestrator
@@ -17527,7 +17527,7 @@ entries:
       has_compose: true
       is_template: false
       language: Rust
-    score: 75
+    score: 76
   - id: claude-code-harness
     repo: chachamaru127/claude-code-harness
     name: claude-code-harness
@@ -17622,7 +17622,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 72
+    score: 73
   - id: aiox-core
     repo: synkraai/aiox-core
     name: aiox-core
@@ -17894,7 +17894,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 60
+    score: 61
   - id: cindy
     repo: makecindy/cindy
     name: cindy
@@ -18176,7 +18176,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: best-skills
     repo: xstongxue/best-skills
     name: best-skills
@@ -18440,7 +18440,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: ext-apps
     repo: modelcontextprotocol/ext-apps
     name: ext-apps
@@ -18484,7 +18484,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: ruler
     repo: intellectronica/ruler
     name: ruler
@@ -18525,7 +18525,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: designer-skills
     repo: owl-listener/designer-skills
     name: designer-skills
@@ -18850,7 +18850,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 76
+    score: 77
   - id: supabase-agent-skills
     repo: supabase/agent-skills
     name: supabase/agent-skills
@@ -18892,7 +18892,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 61
+    score: 62
   - id: teaql-agent-kit
     repo: teaql/teaql-agent-kit
     name: teaql-agent-kit
@@ -18989,7 +18989,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 72
+    score: 73
   - id: claude-code-proxy
     repo: fuergaosi233/claude-code-proxy
     name: claude-code-proxy
@@ -19130,7 +19130,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 83
+    score: 84
   - id: myclaude
     repo: stellarlinkco/myclaude
     name: myclaude
@@ -19226,7 +19226,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 75
+    score: 76
   - id: jcodemunch-mcp
     repo: jgravelle/jcodemunch-mcp
     name: jcodemunch-mcp
@@ -19269,7 +19269,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 82
+    score: 83
   - id: pstack-claude
     repo: michael-denyer/pstack-claude
     name: pstack-claude
@@ -19368,7 +19368,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: typesafe-ai-skills
     repo: typesafe-ai/skills
     name: typesafe-ai/skills
@@ -19410,7 +19410,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 47
+    score: 48
   - id: web-quality-skills
     repo: addyosmani/web-quality-skills
     name: web-quality-skills
@@ -19458,7 +19458,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 56
+    score: 57
   - id: native-subtitle-quote-image
     repo: chengyi-ai/native-subtitle-quote-image
     name: native-subtitle-quote-image
@@ -19547,7 +19547,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: my-claude-code-setup
     repo: centminmod/my-claude-code-setup
     name: my-claude-code-setup
@@ -19695,7 +19695,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: nunu
     repo: go-nunu/nunu
     name: nunu
@@ -19960,7 +19960,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: agent-toolkit
     repo: softaworks/agent-toolkit
     name: agent-toolkit
@@ -20046,7 +20046,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 47
   - id: nitrostack
     repo: nitrocloudofficial/nitrostack
     name: nitrostack
@@ -20271,7 +20271,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 40
+    score: 41
   - id: nanocoder
     repo: nano-collective/nanocoder
     name: nanocoder
@@ -20360,7 +20360,7 @@ entries:
       has_compose: false
       is_template: false
       language: Zig
-    score: 73
+    score: 74
   - id: open-computer-use
     repo: ifuryst/open-computer-use
     name: open-computer-use
@@ -20592,7 +20592,7 @@ entries:
       has_compose: false
       is_template: false
       language: C++
-    score: 77
+    score: 78
   - id: obsidian-agent-client
     repo: rait-09/obsidian-agent-client
     name: obsidian-agent-client
@@ -20741,7 +20741,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 65
+    score: 66
   - id: fulling
     repo: fullagent/fulling
     name: fulling
@@ -20873,7 +20873,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 61
+    score: 62
   - id: claude-blog
     repo: agricidaniel/claude-blog
     name: claude-blog
@@ -20970,7 +20970,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 78
+    score: 79
   - id: better-harness
     repo: qoderai/better-harness
     name: better-harness
@@ -21247,7 +21247,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 52
+    score: 53
   - id: 1backend
     repo: 1backend/1backend
     name: 1backend
@@ -21288,7 +21288,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 25
+    score: 26
   - id: webcodex
     repo: yyjeqhc/webcodex
     name: webcodex
@@ -21511,7 +21511,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 37
+    score: 38
   - id: harmonist
     repo: gammalabtechnologies/harmonist
     name: harmonist
@@ -21885,7 +21885,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 41
+    score: 42
   - id: inferstep-atlas
     repo: inferstep/atlas
     name: inferstep/atlas
@@ -21931,7 +21931,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 68
+    score: 69
   - id: codexpro
     repo: rebel0789/codexpro
     name: codexpro
@@ -21976,7 +21976,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 64
+    score: 65
   - id: jshookmcp
     repo: vmoranv/jshookmcp
     name: jshookmcp
@@ -22023,7 +22023,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 72
+    score: 73
   - id: scaffold-eth-2
     repo: scaffold-eth/scaffold-eth-2
     name: scaffold-eth-2
@@ -22111,7 +22111,7 @@ entries:
       has_compose: false
       is_template: false
       language: Markdown
-    score: 64
+    score: 65
   - id: xum
     repo: coder/xum
     name: xum
@@ -22160,7 +22160,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 77
+    score: 78
   - id: gitlab-mcp
     repo: zereight/gitlab-mcp
     name: gitlab-mcp
@@ -22245,7 +22245,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 71
+    score: 72
   - id: minimax-code
     repo: minimax-ai/minimax-code
     name: minimax-code
@@ -22292,7 +22292,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 71
+    score: 72
   - id: typeui
     repo: bergside/typeui
     name: typeui
@@ -22386,7 +22386,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: mcp-memory-service
     repo: doobidoo/mcp-memory-service
     name: mcp-memory-service
@@ -22521,7 +22521,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 60
+    score: 61
   - id: ante
     repo: antigmalabs/ante
     name: ante
@@ -22570,7 +22570,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 70
+    score: 71
   - id: taches-cc-resources
     repo: glittercowboy/taches-cc-resources
     name: taches-cc-resources
@@ -22612,7 +22612,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 26
   - id: amazon-q-developer-cli
     repo: aws/amazon-q-developer-cli
     name: amazon-q-developer-cli
@@ -22699,7 +22699,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 52
+    score: 53
   - id: yomiyasu
     repo: nanaism/yomiyasu
     name: yomiyasu
@@ -22886,7 +22886,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 69
+    score: 70
   - id: mcollina-skills
     repo: mcollina/skills
     name: mcollina/skills
@@ -22971,7 +22971,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 47
+    score: 48
   - id: agent-shell
     repo: xenodium/agent-shell
     name: agent-shell
@@ -23218,7 +23218,7 @@ entries:
       has_compose: false
       is_template: false
       language: C#
-    score: 65
+    score: 66
   - id: nimbalyst
     repo: nimbalyst/nimbalyst
     name: nimbalyst
@@ -23265,7 +23265,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: nezha
     repo: hanshuaikang/nezha
     name: nezha
@@ -23407,7 +23407,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 73
+    score: 74
   - id: bullet-train
     repo: bullet-train-co/bullet_train
     name: bullet_train
@@ -23495,7 +23495,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 50
+    score: 51
   - id: opc-skills
     repo: resciencelab/opc-skills
     name: opc-skills
@@ -23679,7 +23679,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: edgeone-makers-tools
     repo: tencentedgeone/edgeone-makers-tools
     name: edgeone-makers-tools
@@ -23856,7 +23856,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 62
+    score: 63
   - id: transitions-dev
     repo: jakubantalik/transitions.dev
     name: transitions.dev
@@ -23898,7 +23898,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 64
+    score: 65
   - id: agentation
     repo: benjitaylor/agentation
     name: agentation
@@ -23941,7 +23941,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 81
   - id: costrict
     repo: zgsm-ai/costrict
     name: costrict
@@ -24084,7 +24084,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 84
+    score: 85
   - id: vuesion
     repo: vuesion/vuesion
     name: vuesion
@@ -24412,7 +24412,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 47
+    score: 48
   - id: claude-reflect
     repo: bayramannakov/claude-reflect
     name: claude-reflect
@@ -24498,7 +24498,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 16
+    score: 17
   - id: context-engineering-kit
     repo: neolabhq/context-engineering-kit
     name: context-engineering-kit
@@ -24541,7 +24541,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 47
   - id: ux-ui-agent-skills
     repo: plugin87/ux-ui-agent-skills
     name: ux-ui-agent-skills
@@ -25116,7 +25116,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 48
+    score: 49
   - id: startup-nextjs
     repo: nextjstemplates/startup-nextjs
     name: startup-nextjs
@@ -25209,7 +25209,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 75
+    score: 76
   - id: claude-code-settings
     repo: feiskyer/claude-code-settings
     name: claude-code-settings
@@ -25267,7 +25267,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 48
+    score: 49
   - id: cc-thinking-skills
     repo: tjboudreaux/cc-thinking-skills
     name: cc-thinking-skills
@@ -25353,7 +25353,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 70
+    score: 71
   - id: pixeltable
     repo: pixeltable/pixeltable
     name: pixeltable
@@ -25397,7 +25397,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: earshot
     repo: leonxlnx/earshot
     name: earshot
@@ -25496,7 +25496,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 61
+    score: 62
   - id: traycer
     repo: traycerai/traycer
     name: traycer
@@ -25811,7 +25811,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 76
+    score: 77
   - id: steedos-platform
     repo: steedos/steedos-platform
     name: steedos-platform
@@ -25895,7 +25895,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 81
   - id: pi-mcp-adapter
     repo: nicobailon/pi-mcp-adapter
     name: pi-mcp-adapter
@@ -25981,7 +25981,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 72
+    score: 73
   - id: waku
     repo: egoist/waku
     name: waku
@@ -26078,7 +26078,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 27
+    score: 28
   - id: conductor
     repo: gemini-cli-extensions/conductor
     name: gemini-cli-extensions/conductor
@@ -26503,7 +26503,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 66
+    score: 67
   - id: rulesync
     repo: dyoshikawa/rulesync
     name: rulesync
@@ -26544,7 +26544,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: brooks-lint
     repo: hyhmrright/brooks-lint
     name: brooks-lint
@@ -26590,7 +26590,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 78
+    score: 79
   - id: exo
     repo: exoharness/exo
     name: exoharness/exo
@@ -26635,7 +26635,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 57
+    score: 58
   - id: codegpt
     repo: appleboy/codegpt
     name: codegpt
@@ -26685,7 +26685,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 59
+    score: 60
   - id: kodus-ai
     repo: kodustech/kodus-ai
     name: kodus-ai
@@ -26733,7 +26733,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: evo
     repo: evo-hq/evo
     name: evo
@@ -26778,7 +26778,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 43
+    score: 44
   - id: git-lrc
     repo: hexmostech/git-lrc
     name: git-lrc
@@ -26920,7 +26920,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 48
+    score: 49
   - id: oil-ui
     repo: oil-oil/oil-ui
     name: oil-ui
@@ -27009,7 +27009,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 73
+    score: 74
   - id: aider-desk
     repo: hotovo/aider-desk
     name: aider-desk
@@ -27354,7 +27354,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 35
+    score: 36
   - id: fluent-korean
     repo: snflkd/fluent-korean
     name: fluent-korean
@@ -27675,7 +27675,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 53
+    score: 54
   - id: haft
     repo: m0n0x41d/haft
     name: haft
@@ -27719,7 +27719,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 55
+    score: 56
   - id: cove
     repo: mugnavo/cove
     name: cove
@@ -27810,7 +27810,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 70
+    score: 71
   - id: codedb
     repo: justrach/codedb
     name: codedb
@@ -27852,7 +27852,7 @@ entries:
       has_compose: false
       is_template: false
       language: Zig
-    score: 75
+    score: 76
   - id: nocturne-memory
     repo: dataojitori/nocturne_memory
     name: nocturne_memory
@@ -28116,7 +28116,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 19
+    score: 20
   - id: backpass
     repo: kunchenguid/backpass
     name: backpass
@@ -28274,7 +28274,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 58
+    score: 59
   - id: 10x
     repo: ntegrals/10x
     name: 10x
@@ -28365,7 +28365,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 11
+    score: 12
   - id: composio
     repo: composiohq/composio
     name: composio
@@ -28462,7 +28462,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 88
+    score: 89
   - id: browser-tools-mcp
     repo: agentdeskai/browser-tools-mcp
     name: browser-tools-mcp
@@ -28561,7 +28561,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 72
+    score: 73
   - id: formkit
     repo: formkit/formkit
     name: formkit
@@ -28780,7 +28780,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 55
+    score: 56
   - id: ultracite
     repo: haydenbleasel/ultracite
     name: ultracite
@@ -28923,7 +28923,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: pi-subagents
     repo: tintinweb/pi-subagents
     name: pi-subagents
@@ -29197,7 +29197,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 70
+    score: 71
   - id: lody
     repo: lodyai/lody
     name: lody
@@ -29246,7 +29246,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: empryo
     repo: proxysoul/empryo
     name: empryo
@@ -29602,7 +29602,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 71
+    score: 72
   - id: omnigraph
     repo: modernrelay/omnigraph
     name: omnigraph
@@ -29646,7 +29646,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 72
+    score: 73
   - id: autocontext
     repo: greyhaven-ai/autocontext
     name: autocontext
@@ -29698,7 +29698,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 56
   - id: helmor
     repo: dohooo/helmor
     name: helmor
@@ -29836,7 +29836,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 55
+    score: 56
   - id: openharness
     repo: autonomous-ai/openharness
     name: openharness
@@ -29978,7 +29978,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 55
+    score: 56
   - id: opencode-telegram-bot
     repo: grinev/opencode-telegram-bot
     name: opencode-telegram-bot
@@ -30120,7 +30120,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 70
+    score: 71
   - id: chatgpt-vscode
     repo: ai-genie/chatgpt-vscode
     name: chatgpt-vscode
@@ -30536,7 +30536,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 62
+    score: 63
   - id: ghostex
     repo: maddada/ghostex
     name: ghostex
@@ -30630,7 +30630,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 71
+    score: 72
   - id: swift-ios-skills
     repo: dpearson2699/swift-ios-skills
     name: swift-ios-skills
@@ -30719,7 +30719,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 40
+    score: 41
   - id: playwright-cli
     repo: microsoft/playwright-cli
     name: playwright-cli
@@ -30844,7 +30844,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 63
+    score: 64
   - id: shortest
     repo: antiwork/shortest
     name: shortest
@@ -31023,7 +31023,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 75
+    score: 76
   - id: opencode-nvim
     repo: nickjvandyke/opencode.nvim
     name: opencode.nvim
@@ -31065,7 +31065,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 73
+    score: 74
   - id: dembrandt
     repo: dembrandt/dembrandt
     name: dembrandt
@@ -31108,7 +31108,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 81
+    score: 82
   - id: mcp-grafana
     repo: grafana/mcp-grafana
     name: mcp-grafana
@@ -31199,7 +31199,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 82
+    score: 83
   - id: erupt
     repo: erupts/erupt
     name: erupt
@@ -31476,7 +31476,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 19
+    score: 20
   - id: autoswarm
     repo: hkuds/autoswarm
     name: autoswarm
@@ -31531,7 +31531,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 65
+    score: 66
   - id: reverse-api-engineer
     repo: kalil0321/reverse-api-engineer
     name: reverse-api-engineer
@@ -32519,7 +32519,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 85
+    score: 86
   - id: next-js
     repo: vercel/next.js
     name: next.js
@@ -33434,7 +33434,7 @@ entries:
       has_compose: true
       is_template: false
       language: Rust
-    score: 78
+    score: 79
   - id: k-skill
     repo: nomadamas/k-skill
     name: k-skill
@@ -33801,7 +33801,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 81
   - id: stagewise
     repo: stagewise-io/stagewise
     name: stagewise
@@ -34618,7 +34618,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 91
+    score: 92
   - id: turborepo
     repo: vercel/turborepo
     name: turborepo
@@ -35646,7 +35646,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 85
+    score: 86
   - id: copilotchat-nvim
     repo: copilotc-nvim/copilotchat.nvim
     name: copilotchat.nvim
@@ -35699,7 +35699,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 50
+    score: 51
   - id: coreui-free-vue-admin-template
     repo: coreui/coreui-free-vue-admin-template
     name: coreui-free-vue-admin-template
@@ -35832,7 +35832,7 @@ entries:
       has_compose: false
       is_template: false
       language: Kotlin
-    score: 60
+    score: 61
   - id: leanrea
     repo: aicodeking/leanrea
     name: leanrea
@@ -36065,7 +36065,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 78
+    score: 79
   - id: image-to-editable-ppt-skill
     repo: ningzimu/image-to-editable-ppt-skill
     name: image-to-editable-ppt-skill
@@ -36325,7 +36325,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 87
+    score: 88
   - id: chi
     repo: go-chi/chi
     name: chi
@@ -36797,7 +36797,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 64
+    score: 65
   - id: codex-claude-academic-skills
     repo: zlanqing/codex-claude-academic-skills
     name: codex-claude-academic-skills
@@ -36843,7 +36843,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 42
+    score: 43
   - id: gnhf
     repo: kunchenguid/gnhf
     name: gnhf
@@ -37042,7 +37042,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 57
+    score: 58
   - id: design-md-chrome
     repo: bergside/design-md-chrome
     name: design-md-chrome
@@ -37127,7 +37127,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 56
+    score: 57
   - id: lowdefy
     repo: lowdefy/lowdefy
     name: lowdefy
@@ -37169,7 +37169,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 76
+    score: 77
   - id: floorplan
     repo: haydenschmitty/floorplan
     name: floorplan
@@ -38116,7 +38116,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 89
+    score: 90
   - id: mitosis
     repo: builderio/mitosis
     name: mitosis
@@ -38244,7 +38244,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 83
+    score: 84
   - id: phpstan
     repo: phpstan/phpstan
     name: phpstan
@@ -38369,7 +38369,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 72
+    score: 73
   - id: open-seo
     repo: every-app/open-seo
     name: open-seo
@@ -38501,7 +38501,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 65
+    score: 66
   - id: responsively-app
     repo: responsively-org/responsively-app
     name: responsively-app
@@ -38582,7 +38582,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 86
+    score: 87
   - id: rxdb
     repo: pubkey/rxdb
     name: rxdb
@@ -38885,7 +38885,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 35
+    score: 36
   - id: golang-gin-realworld-example-app
     repo: realworld-apps/golang-gin-realworld-example-app
     name: golang-gin-realworld-example-app
@@ -39197,7 +39197,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 53
+    score: 54
   - id: magic-context
     repo: cortexkit/magic-context
     name: magic-context
@@ -39417,7 +39417,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 64
+    score: 65
   - id: danghuangshang
     repo: wanikua/danghuangshang
     name: danghuangshang
@@ -39601,7 +39601,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 21
+    score: 22
   - id: matrixone
     repo: matrixorigin/matrixone
     name: matrixone
@@ -39736,7 +39736,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 52
+    score: 53
   - id: antigravity-skills
     repo: rmyndharis/antigravity-skills
     name: antigravity-skills
@@ -40005,7 +40005,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 89
+    score: 90
   - id: ubicloud
     repo: ubicloud/ubicloud
     name: ubicloud
@@ -40049,7 +40049,7 @@ entries:
       has_compose: false
       is_template: false
       language: Ruby
-    score: 66
+    score: 67
   - id: kubeshark
     repo: kubeshark/kubeshark
     name: kubeshark
@@ -40133,7 +40133,7 @@ entries:
       has_compose: false
       is_template: false
       language: PHP
-    score: 81
+    score: 82
   - id: geo-seo-claude
     repo: zubair-trabzada/geo-seo-claude
     name: geo-seo-claude
@@ -40443,7 +40443,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 81
+    score: 82
   - id: cloudnative-pg
     repo: cloudnative-pg/cloudnative-pg
     name: cloudnative-pg
@@ -40485,7 +40485,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 75
+    score: 76
   - id: waveterm
     repo: wavetermdev/waveterm
     name: waveterm
@@ -40533,7 +40533,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 70
+    score: 71
   - id: dgraph
     repo: dgraph-io/dgraph
     name: dgraph
@@ -41050,7 +41050,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 56
+    score: 57
   - id: grepai
     repo: yoanbernabeu/grepai
     name: grepai
@@ -41236,7 +41236,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: dimensional-drawing
     repo: enesozturk/dimensional-drawing
     name: dimensional-drawing
@@ -41327,7 +41327,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 68
+    score: 69
   - id: opencode-mem
     repo: tickernelz/opencode-mem
     name: opencode-mem
@@ -41424,7 +41424,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 72
+    score: 73
   - id: matlab-mcp-server
     repo: matlab/matlab-mcp-server
     name: matlab-mcp-server
@@ -41465,7 +41465,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 68
+    score: 69
   - id: ai-animation
     repo: unclecheng-li/ai_animation
     name: ai_animation
@@ -41548,7 +41548,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 71
+    score: 72
   - id: reason-network
     repo: reason-machines/reason-network
     name: reason-network
@@ -41592,7 +41592,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 67
+    score: 68
   - id: codync
     repo: leepokai/codync
     name: codync
@@ -41874,7 +41874,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 72
+    score: 73
   - id: aideml
     repo: wecoai/aideml
     name: aideml
@@ -41921,7 +41921,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 50
+    score: 51
   - id: redis
     repo: redis/redis
     name: redis
@@ -42302,7 +42302,7 @@ entries:
       has_compose: false
       is_template: true
       language: PHP
-    score: 79
+    score: 80
   - id: ginkgo
     repo: onsi/ginkgo
     name: ginkgo
@@ -42427,7 +42427,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: cakephp
     repo: cakephp/cakephp
     name: cakephp
@@ -42509,7 +42509,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 79
+    score: 80
   - id: vendure
     repo: vendurehq/vendure
     name: vendure
@@ -42551,7 +42551,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 79
+    score: 80
   - id: graphql-yoga
     repo: graphql-hive/graphql-yoga
     name: graphql-yoga
@@ -43020,7 +43020,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: runtime
     repo: e2b-dev/runtime
     name: e2b-dev/runtime
@@ -43111,7 +43111,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 65
+    score: 66
   - id: agent-apprenticeship
     repo: ray-r-ren/agent-apprenticeship
     name: agent-apprenticeship
@@ -43204,7 +43204,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 43
+    score: 44
   - id: mcp-server-qdrant
     repo: qdrant/mcp-server-qdrant
     name: mcp-server-qdrant
@@ -43338,7 +43338,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: aktools
     repo: akfamily/aktools
     name: aktools
@@ -43383,7 +43383,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 73
+    score: 74
   - id: sim-use
     repo: lycorp-jp/sim-use
     name: sim-use
@@ -43430,7 +43430,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 72
+    score: 73
   - id: bama
     repo: daveebbelaar/bama
     name: bama
@@ -43474,7 +43474,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 74
+    score: 75
   - id: agensgraph
     repo: skaiworldwide-oss/agensgraph
     name: agensgraph
@@ -43796,7 +43796,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 63
+    score: 64
   - id: animate
     repo: cth9191/animate
     name: animate
@@ -43943,7 +43943,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 78
+    score: 79
   - id: deja-vu
     repo: vshulcz/deja-vu
     name: deja-vu
@@ -43984,7 +43984,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 70
+    score: 71
   - id: multi-agent-shogun
     repo: yohey-w/multi-agent-shogun
     name: multi-agent-shogun
@@ -44314,7 +44314,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 82
+    score: 83
   - id: boilerplates
     repo: christianlempa/boilerplates
     name: boilerplates
@@ -44830,7 +44830,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 86
+    score: 87
   - id: logto
     repo: logto-io/logto
     name: logto
@@ -45053,7 +45053,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 65
   - id: ccstatusline
     repo: sirmalloc/ccstatusline
     name: ccstatusline
@@ -45182,7 +45182,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 52
+    score: 53
   - id: getspecstory
     repo: specstoryai/getspecstory
     name: getspecstory
@@ -45403,7 +45403,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 60
+    score: 61
   - id: agent-purge
     repo: zichuanlan/agent-purge
     name: agent-purge
@@ -45445,7 +45445,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 72
+    score: 73
   - id: matlab-agentic-toolkit
     repo: matlab/matlab-agentic-toolkit
     name: matlab-agentic-toolkit
@@ -45828,7 +45828,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 28
+    score: 29
   - id: llm-nvim
     repo: huggingface/llm.nvim
     name: llm.nvim
@@ -46025,7 +46025,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 67
+    score: 68
   - id: xmcp
     repo: basementstudio/xmcp
     name: xmcp
@@ -46381,7 +46381,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 91
+    score: 92
   - id: actix-web
     repo: actix/actix-web
     name: actix-web
@@ -46551,7 +46551,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 34
+    score: 35
   - id: larastan
     repo: larastan/larastan
     name: larastan
@@ -46637,7 +46637,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 81
+    score: 82
   - id: wild-workouts-go-ddd-example
     repo: threedotslabs/wild-workouts-go-ddd-example
     name: wild-workouts-go-ddd-example
@@ -46850,7 +46850,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 68
+    score: 69
   - id: androguard
     repo: androguard/androguard
     name: androguard
@@ -46939,7 +46939,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 53
+    score: 54
   - id: solopi
     repo: alipay/solopi
     name: solopi
@@ -47156,7 +47156,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 80
+    score: 81
   - id: langgpt
     repo: langgptai/langgpt
     name: langgpt
@@ -47714,7 +47714,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 52
+    score: 53
   - id: ix
     repo: ix-infrastructure/ix
     name: ix
@@ -47846,7 +47846,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 43
+    score: 44
   - id: ai-prompts
     repo: instructa/ai-prompts
     name: ai-prompts
@@ -47937,7 +47937,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 32
+    score: 33
   - id: sidecar
     repo: marcus/sidecar
     name: sidecar
@@ -48071,7 +48071,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: echo-agent
     repo: fuyuxiang/echo-agent
     name: echo-agent
@@ -48350,7 +48350,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 64
+    score: 65
   - id: agent-deck
     repo: asheshgoplani/agent-deck
     name: agent-deck
@@ -48533,7 +48533,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 47
+    score: 48
   - id: pinot
     repo: apache/pinot
     name: pinot
@@ -48969,7 +48969,7 @@ entries:
       has_compose: true
       is_template: false
       language: C#
-    score: 75
+    score: 76
   - id: moderncppstarter
     repo: thelartians/moderncppstarter
     name: moderncppstarter
@@ -49015,7 +49015,7 @@ entries:
       has_compose: false
       is_template: true
       language: CMake
-    score: 40
+    score: 41
   - id: tabularis
     repo: tabularisdb/tabularis
     name: tabularis
@@ -49144,7 +49144,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 69
+    score: 70
   - id: mcp-ui
     repo: mcp-ui-org/mcp-ui
     name: mcp-ui
@@ -49589,7 +49589,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 38
+    score: 39
   - id: agenticx
     repo: demondamon/agenticx
     name: agenticx
@@ -49687,7 +49687,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 48
+    score: 49
   - id: glm-5-3-flash-j-space-capability-realization-report
     repo: tiger3807861189/glm-5.3-flash-j-space-capability-realization-report
     name: glm-5.3-flash-j-space-capability-realization-report
@@ -49733,7 +49733,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 56
+    score: 57
   - id: mcpm-sh
     repo: pathintegral-institute/mcpm.sh
     name: mcpm.sh
@@ -49829,7 +49829,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: macos-harness
     repo: browser-use/macos-harness
     name: macos-harness
@@ -50630,7 +50630,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: claude-codex-settings
     repo: fcakyon/claude-codex-settings
     name: claude-codex-settings
@@ -50906,7 +50906,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 69
+    score: 70
   - id: ministack
     repo: ministackorg/ministack
     name: ministack
@@ -50992,7 +50992,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 43
+    score: 44
   - id: loopback-next
     repo: loopbackio/loopback-next
     name: loopback-next
@@ -51161,7 +51161,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 66
+    score: 67
   - id: goravel
     repo: goravel/goravel
     name: goravel
@@ -51244,7 +51244,7 @@ entries:
       has_compose: false
       is_template: false
       language: PHP
-    score: 58
+    score: 59
   - id: integuru
     repo: integuru-ai/integuru
     name: integuru
@@ -51293,7 +51293,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 38
+    score: 39
   - id: graphql-php
     repo: webonyx/graphql-php
     name: graphql-php
@@ -51592,7 +51592,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 73
+    score: 74
   - id: ui-skills
     repo: ibelick/ui-skills
     name: ui-skills
@@ -51758,7 +51758,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 73
+    score: 74
   - id: dsh-web
     repo: zhu1090093659/dsh-web
     name: dsh-web
@@ -52209,7 +52209,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 64
+    score: 65
   - id: rome
     repo: rome-os/rome
     name: rome
@@ -52437,7 +52437,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 56
+    score: 57
   - id: vectorcode
     repo: davidyz/vectorcode
     name: vectorcode
@@ -52480,7 +52480,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 16
+    score: 17
   - id: obelisk
     repo: tommy0103/obelisk
     name: obelisk
@@ -52534,7 +52534,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 66
+    score: 67
   - id: swapper-toolkit
     repo: swapperfinance/swapper-toolkit
     name: swapper-toolkit
@@ -52714,7 +52714,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 42
+    score: 43
   - id: ctx
     repo: ctxrs/ctx
     name: ctx
@@ -52805,7 +52805,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: youtube-skills
     repo: zeropointrepo/youtube-skills
     name: youtube-skills
@@ -52946,7 +52946,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 40
+    score: 41
   - id: cal-diy
     repo: calcom/cal.diy
     name: cal.diy
@@ -53114,7 +53114,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 67
+    score: 68
   - id: dolt
     repo: dolthub/dolt
     name: dolt
@@ -53414,7 +53414,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 63
+    score: 64
   - id: adminator-admin-dashboard
     repo: puikinsh/adminator-admin-dashboard
     name: adminator-admin-dashboard
@@ -53500,7 +53500,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 51
+    score: 52
   - id: social-media-skills
     repo: charlie947/social-media-skills
     name: social-media-skills
@@ -53631,7 +53631,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 71
+    score: 72
   - id: huma
     repo: danielgtaylor/huma
     name: huma
@@ -53673,7 +53673,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 72
+    score: 73
   - id: browserskill
     repo: tencent/browserskill
     name: browserskill
@@ -53804,7 +53804,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 70
+    score: 71
   - id: xberg
     repo: xberg-io/xberg
     name: xberg
@@ -53898,7 +53898,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 78
+    score: 79
   - id: shadcn-svelte
     repo: huntabyte/shadcn-svelte
     name: shadcn-svelte
@@ -54109,7 +54109,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: deep-research-skills
     repo: weizhena/deep-research-skills
     name: deep-research-skills
@@ -54294,7 +54294,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 39
+    score: 40
   - id: ralph-loop-agent
     repo: vercel-labs/ralph-loop-agent
     name: ralph-loop-agent
@@ -54559,7 +54559,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 60
+    score: 61
   - id: agnosticui
     repo: agnosticui/agnosticui
     name: agnosticui
@@ -54601,7 +54601,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 54
+    score: 55
   - id: jadx-mcp-server
     repo: zinja-coder/jadx-mcp-server
     name: jadx-mcp-server
@@ -54648,7 +54648,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 49
+    score: 50
   - id: automem
     repo: verygoodplugins/automem
     name: automem
@@ -54824,7 +54824,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 49
+    score: 50
   - id: ai-agent-skills
     repo: moizibnyousaf/ai-agent-skills
     name: ai-agent-skills
@@ -55091,7 +55091,7 @@ entries:
       has_compose: false
       is_template: false
       language: C++
-    score: 86
+    score: 87
   - id: duckdb
     repo: duckdb/duckdb
     name: duckdb
@@ -55459,7 +55459,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 84
+    score: 85
   - id: timescaledb
     repo: timescale/timescaledb
     name: timescaledb
@@ -56250,7 +56250,7 @@ entries:
       has_compose: false
       is_template: false
       language: C#
-    score: 59
+    score: 60
   - id: fire-your-seo-agency
     repo: leopard627/fire-your-seo-agency
     name: fire-your-seo-agency
@@ -56292,7 +56292,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 53
+    score: 54
   - id: dsh-worktable
     repo: aisland-sjl/dsh-worktable
     name: dsh-worktable
@@ -56334,7 +56334,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 62
+    score: 63
   - id: photoshop-mcp
     repo: alisaitteke/photoshop-mcp
     name: photoshop-mcp
@@ -56721,7 +56721,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 38
+    score: 39
   - id: termio
     repo: termio-sh/termio
     name: termio
@@ -56893,7 +56893,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 46
+    score: 47
   - id: swe-af
     repo: agent-field/swe-af
     name: swe-af
@@ -56944,7 +56944,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 54
+    score: 55
   - id: app-store-connect-cli-skills
     repo: rorkai/app-store-connect-cli-skills
     name: app-store-connect-cli-skills
@@ -57495,7 +57495,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 86
+    score: 87
   - id: efcore
     repo: dotnet/efcore
     name: efcore
@@ -58053,7 +58053,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 79
+    score: 80
   - id: node-mongodb-native
     repo: mongodb/node-mongodb-native
     name: node-mongodb-native
@@ -58137,7 +58137,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 73
+    score: 74
   - id: sea-orm
     repo: seaql/sea-orm
     name: sea-orm
@@ -58264,7 +58264,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 78
+    score: 79
   - id: coolify
     repo: coollabsio/coolify
     name: coolify
@@ -58582,7 +58582,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 68
+    score: 69
   - id: nextjs-billing
     repo: lmsqueezy/nextjs-billing
     name: nextjs-billing
@@ -58671,7 +58671,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 55
+    score: 56
   - id: shadboard
     repo: qualiora/shadboard
     name: shadboard
@@ -58803,7 +58803,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 30
+    score: 31
   - id: helloagents
     repo: hellowind777/helloagents
     name: helloagents
@@ -58846,7 +58846,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 38
+    score: 39
   - id: ack-nestjs-boilerplate
     repo: andrechristikan/ack-nestjs-boilerplate
     name: ack-nestjs-boilerplate
@@ -59029,7 +59029,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 11
+    score: 12
   - id: copilot-api
     repo: caozhiyuan/copilot-api
     name: copilot-api
@@ -59412,7 +59412,7 @@ entries:
       has_compose: false
       is_template: false
       language: Dart
-    score: 72
+    score: 73
   - id: nuxt
     repo: nuxt/nuxt
     name: nuxt
@@ -59536,7 +59536,7 @@ entries:
       has_compose: false
       is_template: false
       language: Dockerfile
-    score: 64
+    score: 65
   - id: server
     repo: mariadb/server
     name: server
@@ -59746,7 +59746,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: pig
     repo: pig-mesh/pig
     name: pig-mesh/pig
@@ -59792,7 +59792,7 @@ entries:
       has_compose: true
       is_template: false
       language: Java
-    score: 73
+    score: 74
   - id: vike
     repo: vikejs/vike
     name: vike
@@ -59832,7 +59832,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 80
+    score: 81
   - id: aimeos
     repo: aimeos/aimeos
     name: aimeos
@@ -60055,7 +60055,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 78
+    score: 79
   - id: auto-ontology
     repo: nvidia/auto-ontology
     name: auto-ontology
@@ -60481,7 +60481,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 84
+    score: 85
   - id: aspnetboilerplate
     repo: aspnetboilerplate/aspnetboilerplate
     name: aspnetboilerplate
@@ -60569,7 +60569,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 76
+    score: 77
   - id: laf
     repo: labring/laf
     name: laf
@@ -60747,7 +60747,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 74
+    score: 75
   - id: wemake-python-styleguide
     repo: wemake-services/wemake-python-styleguide
     name: wemake-python-styleguide
@@ -60974,7 +60974,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 62
+    score: 63
   - id: rust-anything
     repo: erkamyaman/rust-anything
     name: rust-anything
@@ -61062,7 +61062,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 52
+    score: 53
   - id: lemonai
     repo: hexdocom/lemonai
     name: lemonai
@@ -61117,7 +61117,7 @@ entries:
       has_compose: true
       is_template: false
       language: JavaScript
-    score: 19
+    score: 20
   - id: pashov-skills
     repo: pashov/skills
     name: pashov/skills
@@ -61263,7 +61263,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 70
+    score: 71
   - id: fanbox
     repo: alchaincyf/fanbox
     name: fanbox
@@ -61318,7 +61318,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 64
+    score: 65
   - id: parallel-code
     repo: johannesjo/parallel-code
     name: parallel-code
@@ -61368,7 +61368,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: claude-code-chat
     repo: andrepimenta/claude-code-chat
     name: claude-code-chat
@@ -61503,7 +61503,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 44
+    score: 45
   - id: anymd
     repo: sylphxai/anymd
     name: anymd
@@ -61923,7 +61923,7 @@ entries:
       has_compose: false
       is_template: false
       language: Elixir
-    score: 82
+    score: 83
   - id: adonisjs-core
     repo: adonisjs/core
     name: adonisjs/core
@@ -62137,7 +62137,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 58
+    score: 59
   - id: router
     repo: tanstack/router
     name: tanstack/router
@@ -62741,7 +62741,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 27
+    score: 28
   - id: mcp-neo4j
     repo: neo4j-contrib/mcp-neo4j
     name: mcp-neo4j
@@ -62785,7 +62785,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 39
+    score: 40
   - id: sidebase
     repo: sidebase/sidebase
     name: sidebase
@@ -63243,7 +63243,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 65
+    score: 66
   - id: claude-token-optimizer
     repo: nadimtuhin/claude-token-optimizer
     name: claude-token-optimizer
@@ -63852,7 +63852,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 45
+    score: 46
   - id: hexclave
     repo: hexclave/hexclave
     name: hexclave
@@ -64119,7 +64119,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 56
+    score: 57
   - id: uptrace-bun
     repo: uptrace/bun
     name: uptrace/bun
@@ -64287,7 +64287,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: paopao-ce
     repo: rocboss/paopao-ce
     name: paopao-ce
@@ -64467,7 +64467,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 56
+    score: 57
   - id: sink
     repo: miantiao-me/sink
     name: sink
@@ -64705,7 +64705,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 75
+    score: 76
   - id: cult-ui
     repo: nolly-studio/cult-ui
     name: cult-ui
@@ -65252,7 +65252,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 44
+    score: 45
   - id: prd-taskmaster
     repo: anombyte93/prd-taskmaster
     name: prd-taskmaster
@@ -65477,7 +65477,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 19
+    score: 20
   - id: 49-ide
     repo: 49-agents/49-ide
     name: 49-ide
@@ -65748,7 +65748,7 @@ entries:
       has_compose: false
       is_template: false
       language: PHP
-    score: 53
+    score: 54
   - id: sno-station
     repo: sno-ai/sno-station
     name: sno-station
@@ -65797,7 +65797,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: agentsys
     repo: agent-sh/agentsys
     name: agentsys
@@ -65844,7 +65844,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 69
+    score: 70
   - id: styleseed
     repo: bitjaru/styleseed
     name: styleseed
@@ -65979,7 +65979,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 57
+    score: 58
   - id: spring-boot-starter
     repo: mybatis/spring-boot-starter
     name: spring-boot-starter
@@ -66110,7 +66110,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 73
+    score: 74
   - id: pg-boss
     repo: timgit/pg-boss
     name: pg-boss
@@ -66409,7 +66409,7 @@ entries:
       has_compose: false
       is_template: false
       language: HCL
-    score: 70
+    score: 71
   - id: kemal
     repo: kemalcr/kemal
     name: kemal
@@ -66450,7 +66450,7 @@ entries:
       has_compose: false
       is_template: false
       language: Crystal
-    score: 72
+    score: 73
   - id: middy
     repo: middyjs/middy
     name: middy
@@ -66578,7 +66578,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 79
+    score: 80
   - id: pony
     repo: ponyorm/pony
     name: pony
@@ -66661,7 +66661,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 72
+    score: 73
   - id: huashu-art-motion
     repo: alchaincyf/huashu-art-motion
     name: huashu-art-motion
@@ -66841,7 +66841,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: clawd-on-desk
     repo: rullerzhou-afk/clawd-on-desk
     name: clawd-on-desk
@@ -67383,7 +67383,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 27
+    score: 28
   - id: seo-promt-master
     repo: umutxyp/seo-promt-master
     name: seo-promt-master
@@ -67432,7 +67432,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 68
+    score: 69
   - id: bex
     repo: bex-co/bex
     name: bex
@@ -67721,7 +67721,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 39
+    score: 40
   - id: mcode-stack
     repo: minimax-ai/mcode-stack
     name: mcode-stack
@@ -67765,7 +67765,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 41
+    score: 42
   - id: mantic-sh
     repo: marcoaapfortes/mantic.sh
     name: mantic.sh
@@ -68369,7 +68369,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: zappa
     repo: zappa/zappa
     name: zappa
@@ -68415,7 +68415,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 57
+    score: 58
   - id: quart
     repo: pallets/quart
     name: quart
@@ -68455,7 +68455,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 66
+    score: 67
   - id: db
     repo: upper/db
     name: db
@@ -68496,7 +68496,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 38
+    score: 39
   - id: doracms
     repo: doramart/doracms
     name: doracms
@@ -68630,7 +68630,7 @@ entries:
       has_compose: false
       is_template: true
       language: Kotlin
-    score: 58
+    score: 59
   - id: wrkflw
     repo: bahdotsh/wrkflw
     name: wrkflw
@@ -68673,7 +68673,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 69
+    score: 70
   - id: powertools-lambda-python
     repo: aws-powertools/powertools-lambda-python
     name: powertools-lambda-python
@@ -68844,7 +68844,7 @@ entries:
       has_compose: true
       is_template: false
       language: C#
-    score: 77
+    score: 78
   - id: remult
     repo: remult/remult
     name: remult
@@ -68887,7 +68887,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 67
+    score: 68
   - id: analog
     repo: analogjs/analog
     name: analog
@@ -68972,7 +68972,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 77
+    score: 78
   - id: tablecn
     repo: sadmann7/tablecn
     name: tablecn
@@ -69099,7 +69099,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 77
+    score: 78
   - id: baserow
     repo: baserow/baserow
     name: baserow
@@ -69225,7 +69225,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 74
+    score: 75
   - id: modsearch
     repo: liustack/modsearch
     name: modsearch
@@ -69280,7 +69280,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: sandboxd
     repo: tastyeffectco/sandboxd
     name: sandboxd
@@ -69431,7 +69431,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 24
+    score: 25
   - id: app-store-compliance
     repo: mjmirza/app-store-compliance
     name: app-store-compliance
@@ -69561,7 +69561,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: claude-code-cybersecurity-skill
     repo: masriyan/claude-code-cybersecurity-skill
     name: claude-code-cybersecurity-skill
@@ -70159,7 +70159,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 40
+    score: 41
   - id: luvus
     repo: rizriyz/luvus
     name: luvus
@@ -70255,7 +70255,7 @@ entries:
       has_compose: false
       is_template: false
       language: R
-    score: 8
+    score: 9
   - id: cabloy
     repo: cabloy/cabloy
     name: cabloy
@@ -70572,7 +70572,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: epicenter
     repo: epicenterhq/epicenter
     name: epicenter
@@ -70659,7 +70659,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 64
+    score: 65
   - id: claude-animated-shorts
     repo: mromidev/claude-animated-shorts
     name: claude-animated-shorts
@@ -71012,7 +71012,7 @@ entries:
       has_compose: false
       is_template: false
       language: PHP
-    score: 24
+    score: 25
   - id: tiny-engine
     repo: opentiny/tiny-engine
     name: tiny-engine
@@ -71101,7 +71101,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 64
+    score: 65
   - id: raea
     repo: shinyobjectz/raea
     name: raea
@@ -71193,7 +71193,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 15
+    score: 16
   - id: angular-electron
     repo: belnadris/angular-electron
     name: angular-electron
@@ -71283,7 +71283,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 76
+    score: 77
   - id: ai-shell
     repo: builderio/ai-shell
     name: ai-shell
@@ -71590,7 +71590,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 74
+    score: 75
   - id: suspenders
     repo: thoughtbot/suspenders
     name: suspenders
@@ -71682,7 +71682,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 49
+    score: 50
   - id: simplify-codebase
     repo: tt-a1i/simplify-codebase
     name: simplify-codebase
@@ -71770,7 +71770,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: ok-skills
     repo: mxyhi/ok-skills
     name: ok-skills
@@ -72646,7 +72646,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 20
+    score: 21
   - id: devise-token-auth
     repo: lynndylanhurley/devise_token_auth
     name: devise_token_auth
@@ -72817,7 +72817,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 56
   - id: webman
     repo: walkor/webman
     name: webman
@@ -73123,7 +73123,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 44
+    score: 45
   - id: squidex
     repo: squidex/squidex
     name: squidex
@@ -73299,7 +73299,7 @@ entries:
       has_compose: false
       is_template: false
       language: C#
-    score: 48
+    score: 49
   - id: cool-admin-vue
     repo: cool-team-official/cool-admin-vue
     name: cool-admin-vue
@@ -73426,7 +73426,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 85
+    score: 86
   - id: go-whatsapp-web-multidevice
     repo: aldinokemal/go-whatsapp-web-multidevice
     name: go-whatsapp-web-multidevice
@@ -73618,7 +73618,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 74
+    score: 75
   - id: chinese-novelist-skill
     repo: penglonghuang/chinese-novelist-skill
     name: chinese-novelist-skill
@@ -73754,7 +73754,7 @@ entries:
       has_compose: false
       is_template: false
       language: HTML
-    score: 71
+    score: 72
   - id: claude-council
     repo: hex/claude-council
     name: claude-council
@@ -74124,7 +74124,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 39
+    score: 40
   - id: entroly
     repo: juyterman1000/entroly
     name: entroly
@@ -74213,7 +74213,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 67
+    score: 68
   - id: drissionpage-mcp-server
     repo: jumodada/drissionpage-mcp-server
     name: drissionpage-mcp-server
@@ -74440,7 +74440,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 70
+    score: 71
   - id: plinth
     repo: jabrena/plinth
     name: plinth
@@ -74573,7 +74573,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: mcp-framework
     repo: quantgeekdev/mcp-framework
     name: mcp-framework
@@ -74797,7 +74797,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 64
+    score: 65
   - id: laravel-boilerplate
     repo: labs64/laravel-boilerplate
     name: laravel-boilerplate
@@ -74888,7 +74888,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 71
+    score: 72
   - id: typescript-action
     repo: actions/typescript-action
     name: typescript-action
@@ -74973,7 +74973,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 71
+    score: 72
   - id: userbase
     repo: smallbets/userbase
     name: userbase
@@ -75146,7 +75146,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 57
+    score: 58
   - id: apl-core
     repo: linode/apl-core
     name: apl-core
@@ -75272,7 +75272,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 33
+    score: 34
   - id: apiauto
     repo: tommylemon/apiauto
     name: apiauto
@@ -75495,7 +75495,7 @@ entries:
       has_compose: false
       is_template: false
       language: HCL
-    score: 71
+    score: 72
   - id: rpa
     repo: a9t9/rpa
     name: rpa
@@ -75580,7 +75580,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 49
+    score: 50
   - id: circle
     repo: ln-dev7/circle
     name: circle
@@ -75785,7 +75785,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 82
+    score: 83
   - id: judge0
     repo: judge0/judge0
     name: judge0
@@ -75868,7 +75868,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 43
+    score: 44
   - id: conduit
     repo: conduitplatform/conduit
     name: conduit
@@ -75998,7 +75998,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 49
+    score: 50
   - id: karpathy-llm-wiki
     repo: astro-han/karpathy-llm-wiki
     name: karpathy-llm-wiki
@@ -76124,7 +76124,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 65
+    score: 66
   - id: frappe-ui
     repo: frappe/frappe-ui
     name: frappe-ui
@@ -76529,7 +76529,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 53
+    score: 54
   - id: ai-agent-team
     repo: peterfei/ai-agent-team
     name: ai-agent-team
@@ -76669,7 +76669,7 @@ entries:
       has_compose: true
       is_template: false
       language: JavaScript
-    score: 45
+    score: 46
   - id: avenoxbeyin
     repo: avenoxai/avenoxbeyin
     name: avenoxbeyin
@@ -76712,7 +76712,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 62
+    score: 63
   - id: skillforge
     repo: tripleyak/skillforge
     name: skillforge
@@ -76990,7 +76990,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 61
+    score: 62
   - id: busabase
     repo: busabase/busabase
     name: busabase
@@ -77211,7 +77211,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 77
+    score: 78
   - id: olric
     repo: olric-data/olric
     name: olric
@@ -77424,7 +77424,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 24
+    score: 25
   - id: itty-router
     repo: kwhitley/itty-router
     name: itty-router
@@ -77691,7 +77691,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 50
+    score: 51
   - id: tenancy
     repo: archtechx/tenancy
     name: tenancy
@@ -77733,7 +77733,7 @@ entries:
       has_compose: true
       is_template: false
       language: PHP
-    score: 62
+    score: 63
   - id: absinthe
     repo: absinthe-graphql/absinthe
     name: absinthe
@@ -78047,7 +78047,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 66
+    score: 67
   - id: figma-mcp-bridge
     repo: gethopp/figma-mcp-bridge
     name: figma-mcp-bridge
@@ -78178,7 +78178,7 @@ entries:
       has_compose: true
       is_template: false
       language: JavaScript
-    score: 29
+    score: 30
   - id: docker-flask-example
     repo: nickjj/docker-flask-example
     name: docker-flask-example
@@ -78361,7 +78361,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 54
+    score: 55
   - id: wrongstack
     repo: wrongstack/wrongstack
     name: wrongstack
@@ -79219,7 +79219,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 40
+    score: 41
   - id: supabase-py
     repo: supabase/supabase-py
     name: supabase-py
@@ -79305,7 +79305,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 33
   - id: andesine
     repo: vriteio/andesine
     name: andesine
@@ -79343,7 +79343,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 63
+    score: 64
   - id: yas
     repo: nashtech-garage/yas
     name: yas
@@ -79440,7 +79440,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 68
+    score: 69
   - id: whatsmars
     repo: javahongxi/whatsmars
     name: whatsmars
@@ -79615,7 +79615,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 52
+    score: 53
   - id: trader-skill
     repo: jakeschincariol/trader-skill
     name: trader-skill
@@ -79749,7 +79749,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 73
+    score: 74
   - id: drama-skills
     repo: zenstory-ai/drama-skills
     name: drama-skills
@@ -79947,7 +79947,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 60
+    score: 61
   - id: notfair-plugin
     repo: nowork-studio/notfair-plugin
     name: notfair-plugin
@@ -80227,7 +80227,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 64
+    score: 65
   - id: enroute
     repo: enroute-sh/enroute
     name: enroute
@@ -80939,7 +80939,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 70
+    score: 71
   - id: sno-station-skills
     repo: sno-ai/sno-station-skills
     name: sno-station-skills
@@ -81566,7 +81566,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 59
+    score: 60
   - id: robustmq
     repo: robustmq/robustmq
     name: robustmq
@@ -81607,7 +81607,7 @@ entries:
       has_compose: true
       is_template: false
       language: Rust
-    score: 54
+    score: 55
   - id: ant-design-x-vue
     repo: wzc520pyfm/ant-design-x-vue
     name: ant-design-x-vue
@@ -81821,7 +81821,7 @@ entries:
       has_compose: true
       is_template: false
       language: Java
-    score: 52
+    score: 53
   - id: sprite-gen
     repo: aldegad/sprite-gen
     name: sprite-gen
@@ -81873,7 +81873,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 75
+    score: 76
   - id: onetake
     repo: feitangyuan/onetake
     name: onetake
@@ -81970,7 +81970,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 29
+    score: 30
   - id: csghub
     repo: opencsgs/csghub
     name: csghub
@@ -82013,7 +82013,7 @@ entries:
       has_compose: false
       is_template: false
       language: Vue
-    score: 64
+    score: 65
   - id: antigravity-sdk-python
     repo: google-antigravity/antigravity-sdk-python
     name: antigravity-sdk-python
@@ -82156,7 +82156,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 56
   - id: inference-optimisation-skill
     repo: sybil-solutions/inference-optimisation-skill
     name: inference-optimisation-skill
@@ -82245,7 +82245,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 62
+    score: 63
   - id: diri
     repo: cristicretu/diri
     name: diri
@@ -82935,7 +82935,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 40
+    score: 41
   - id: azure-search-openai-demo-csharp
     repo: azure-samples/azure-search-openai-demo-csharp
     name: azure-search-openai-demo-csharp
@@ -83122,7 +83122,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 67
+    score: 68
   - id: happyclaw
     repo: riba2534/happyclaw
     name: happyclaw
@@ -83499,7 +83499,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 47
+    score: 48
   - id: ballcat
     repo: ballcat-projects/ballcat
     name: ballcat
@@ -83628,7 +83628,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 73
+    score: 74
   - id: claude-devtools
     repo: matt1398/claude-devtools
     name: claude-devtools
@@ -83727,7 +83727,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 49
+    score: 50
   - id: rewrite
     repo: openrewrite/rewrite
     name: rewrite
@@ -83809,7 +83809,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 31
+    score: 32
   - id: ccx
     repo: benedictking/ccx
     name: ccx
@@ -83856,7 +83856,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 67
+    score: 68
   - id: jarvis-registry
     repo: ascending-llc/jarvis-registry
     name: jarvis-registry
@@ -83900,7 +83900,7 @@ entries:
       has_compose: true
       is_template: false
       language: Python
-    score: 84
+    score: 85
   - id: nextbase-nextjs-supabase-starter
     repo: imbhargav5/nextbase-nextjs-supabase-starter
     name: nextbase-nextjs-supabase-starter
@@ -83990,7 +83990,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 37
+    score: 38
   - id: agent-notifications
     repo: 777genius/agent-notifications
     name: agent-notifications
@@ -84124,7 +84124,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 31
+    score: 32
   - id: registry-broker-skills
     repo: hashgraph-online/registry-broker-skills
     name: registry-broker-skills
@@ -84672,7 +84672,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 69
+    score: 70
   - id: foreman
     repo: thruwire/foreman
     name: foreman
@@ -84718,7 +84718,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 58
+    score: 59
   - id: pi-agent-desktop
     repo: abcwyc/pi-agent-desktop
     name: pi-agent-desktop
@@ -85081,7 +85081,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 76
+    score: 77
   - id: inngest
     repo: inngest/inngest
     name: inngest
@@ -85577,7 +85577,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 81
+    score: 82
   - id: sepia
     repo: nanako0129/sepia
     name: sepia
@@ -85715,7 +85715,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 3
+    score: 4
   - id: semantix
     repo: gnosil/semantix
     name: semantix
@@ -86564,7 +86564,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 44
+    score: 45
   - id: rea-prompts
     repo: joasasantos/rea-prompts
     name: rea-prompts
@@ -86651,7 +86651,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 55
+    score: 56
   - id: microsoftdocs-agent-skills
     repo: microsoftdocs/agent-skills
     name: microsoftdocs/agent-skills
@@ -86693,7 +86693,7 @@ entries:
       has_compose: false
       is_template: false
       language: null
-    score: 44
+    score: 45
   - id: claude-code-zh-cn
     repo: taekchef/claude-code-zh-cn
     name: claude-code-zh-cn
@@ -86737,7 +86737,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 66
+    score: 67
   - id: code-migration-kit-with-claude-code
     repo: anthropics/code-migration-kit-with-claude-code
     name: code-migration-kit-with-claude-code
@@ -86780,7 +86780,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 32
+    score: 33
   - id: web-design
     repo: xiaopu-ai/web-design
     name: web-design
@@ -86827,7 +86827,7 @@ entries:
     score: 28
   - id: aeon
     repo: aeonfun/aeon
-    name: aeon
+    name: aeonfun/aeon
     status: listed
     tagline: Scheduled agent that runs Markdown skills on GitHub Actions across nine agent CLIs
     summary: Aeon is a template repo where each skill is a SKILL.md file (frontmatter plus a prompt) scheduled by cron in aeon.yml and executed unattended on your own GitHub Actions. The same skill runs on any of nine agent CLIs (Claude, Grok, Codex, Pi, Vibe, Kimi, fx, Cursor, Hermes). It ships 93 skills, including PR-shipping, vulnerability scanning, Vercel deploys and skill repair, with memory stored as files in your repo.
@@ -87181,7 +87181,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 78
+    score: 79
   - id: perfect
     repo: perfectlysoft/perfect
     name: perfect
@@ -87604,7 +87604,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 64
+    score: 65
   - id: spicedb
     repo: authzed/spicedb
     name: spicedb
@@ -87770,7 +87770,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 61
+    score: 62
   - id: crate
     repo: crate/crate
     name: crate
@@ -87810,7 +87810,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 72
+    score: 73
   - id: open-compute
     repo: elliothux/open-compute
     name: open-compute
@@ -88181,7 +88181,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 31
+    score: 32
   - id: renderlint
     repo: ngocanhnckh/renderlint
     name: renderlint
@@ -88269,7 +88269,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 47
+    score: 48
   - id: timon
     repo: ai-timon/timon
     name: timon
@@ -88791,7 +88791,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 45
+    score: 46
   - id: electron-react-app
     repo: guasam/electron-react-app
     name: electron-react-app
@@ -88882,7 +88882,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 47
+    score: 48
   - id: parrot-nvim
     repo: frankroeder/parrot.nvim
     name: parrot.nvim
@@ -88933,7 +88933,7 @@ entries:
       has_compose: false
       is_template: false
       language: Lua
-    score: 47
+    score: 48
   - id: memorizz
     repo: richmondalake/memorizz
     name: memorizz
@@ -88983,7 +88983,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 50
+    score: 51
   - id: cloudflare-workers-nextjs-saas-template
     repo: lubomirgeorgiev/cloudflare-workers-nextjs-saas-template
     name: cloudflare-workers-nextjs-saas-template
@@ -89255,7 +89255,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 65
   - id: dsh-tauri-deepseek-harness-desktop
     repo: dsh-tauri/deepseek-harness-desktop
     name: dsh-tauri/deepseek-harness-desktop
@@ -89386,7 +89386,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 52
+    score: 53
   - id: ai-doc-gen
     repo: divar-ir/ai-doc-gen
     name: ai-doc-gen
@@ -89437,6 +89437,2184 @@ entries:
       is_template: false
       language: Python
     score: 51
+  - id: dashboard-design-skill
+    repo: abdiraimov-otabek/dashboard-design-skill
+    name: dashboard-design-skill
+    status: listed
+    tagline: Claude Code skill that designs, builds and screenshot-checks data dashboards
+    summary: "A Markdown skill and Claude Code plugin that guides a coding agent through dashboard work: pick the 3–6 numbers, propose two of eight named layouts, build components with React + Tailwind v4 or SwiftUI + Swift Charts, then check screenshots at three widths. It ships ten playbooks, a QA pass with a words audit, and three example HTML dashboards. It can also be used with Codex, Cursor or any agent that reads Markdown."
+    categories:
+      - skills-plugins
+    strengths:
+      - Ten playbooks give a question, numbers and problem rules per dashboard type
+      - Code patterns for both React + Tailwind v4 and SwiftUI + Swift Charts
+      - QA step requires screenshots at three widths plus known-total checks
+      - Runs locally as Markdown; no service behind it, MIT licensed
+    weaknesses:
+      - "Opinionated house style: wordless, quiet colour, tooltips instead of text"
+      - Installs as a plugin only for Claude Code; other agents need manual AGENTS.md setup
+      - Agent appends an author and product sign-off block unless you remove it
+      - No tagged release; output quality depends on the host agent and model
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Claude Code, Codex or Cursor
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://github.com/abdiraimov-otabek/dashboard-design-skill/blob/main/skills/dashboard-design/SKILL.md
+    audience: Developers using coding agents to build analytics, admin or ops dashboards
+    confidence: 0.85
+    facts:
+      stars: 1196
+      license: MIT
+      last_commit: 2026-11-25
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: null
+    score: 54
+  - id: antialgorithm
+    repo: mankidev/antialgorithm
+    name: antialgorithm
+    status: listed
+    tagline: Agent skill that steers models away from their most average creative output
+    summary: An agent skill for creative tasks such as names, stories, game ideas, posters and UI. It has the model name its first, most average pick, then move away from it for a reason drawn from the project. Python scripts supply random seeds, a log of past moves, SVG roughening and a text-layout checker for rendered SVGs.
+    categories:
+      - skills-plugins
+    strengths:
+      - Installs via `npx skills add` for Codex, Cursor, OpenCode, Claude Code and others
+      - Seed history is stored locally, so seeds don't repeat across sessions
+      - check.py flags off-edge, overlapped, low-contrast or tiny text in rendered SVGs
+      - Visual rules load only for visual work, keeping name or slogan prompts lighter
+    weaknesses:
+      - Showcase compares six unedited runs against a bottom row picked from about a dozen
+      - No quantitative evaluation of output quality; evidence is poster images
+      - check.py needs numpy, Pillow and rsvg-convert or cairosvg
+      - Visual tooling is built around SVG; check.py defaults suit posters, not app screens
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Python 3
+        - numpy
+        - Pillow
+        - rsvg-convert or cairosvg
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Users of coding agents who want less generic names, copy, posters and UI
+    confidence: 0.85
+    facts:
+      stars: 888
+      license: MIT
+      last_commit: 2026-11-20
+      last_release: 2026-11-20
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 50
+  - id: ai-memory-skillpack
+    repo: tudoumashu/ai-memory-skillpack
+    name: ai-memory-skillpack
+    status: listed
+    tagline: Size-capped project memory skills and installer for Codex CLI
+    summary: A set of Codex skills plus a constitution (SYSTEM.md), an agent-executable INSTALL.md and a VERIFY.md that give each repo a bounded docs/ai/ folder. It keeps a project card and a single replace-in-place handoff, read in HOT/WARM/COLD tiers instead of append-only notes. Claude Code is supported through symlinks to the same skill source; the agent runs the installer, not a GUI.
+    categories:
+      - skills-plugins
+    strengths:
+      - Handoff is one snapshot replaced under flock, so context size stays bounded
+      - SHA256SUMS integrity check and VERIFY.md assertions with exit codes
+      - Upgrades compare receipt hashes, so local edits are kept and old packs archived
+      - Same skill files serve Codex and Claude Code via symlinks
+    weaknesses:
+      - Linux or WSL only; macOS needs GNU sha256sum, flock, readlink -f and newer bash
+      - llm-wiki and project-mastery-coach need a local wiki root matching its contract
+      - Wiki lint and query scripts are not included in the repo
+      - Shipped skills contain example absolute paths and actor strings to adapt
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Codex CLI
+        - bash >= 4.4
+        - git
+        - ripgrep
+        - sha256sum
+        - flock
+        - Python >= 3.10 (project-mastery-coach only)
+      model_support:
+        - Codex CLI
+        - Claude Code
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Codex CLI users who want durable, size-limited per-repo memory
+    confidence: 0.85
+    facts:
+      stars: 493
+      license: MIT
+      last_commit: 2026-09-08
+      last_release: 2026-09-08
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 45
+  - id: graymatter
+    repo: angelnicolasc/graymatter
+    name: graymatter
+    status: listed
+    tagline: Local persistent memory for coding agents, served over MCP or as a Go library
+    summary: GrayMatter is a single Go binary that stores agent facts in a local database and recalls the top eight by hybrid vector, keyword and recency ranking. It exposes seven memory tools over MCP to Claude Code, Cursor, Codex, OpenCode and others, can inject recall through Claude Code hooks, and embeds as a Go library. It also builds an entity knowledge graph and includes a terminal workbench.
+    categories:
+      - skills-plugins
+      - dev-mcp
+    strengths:
+      - Single ~10 MB static binary; no Docker, Redis, config files or cloud accounts
+      - Explicit fact revisions kept retired values out of the top eight in its benchmark
+      - "`graymatter init` writes MCP configs for several clients; offline demo needs no API keys"
+      - "`recall --explain` shows ranking signals and provenance; TUI workbench for browsing memory"
+    weaknesses:
+      - Benchmark figures are published by the author, not independently verified
+      - Large CLI surface (init, doctor, review, hooks, kg) with many flags and edge cases
+      - Unpinned facts decay with a 30-day half-life by default; pruning can remove facts
+      - Review analysis needs a configured Anthropic or Ollama provider
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Anthropic or Ollama (optional, for review and embeddings)
+      model_support:
+        - Anthropic
+        - Ollama
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://graymatter.nickcerutti.workers.dev
+    audience: Developers adding persistent memory to Claude Code, Cursor or Codex sessions
+    confidence: 0.8
+    facts:
+      stars: 490
+      license: MIT
+      last_commit: 2026-11-19
+      last_release: 2026-11-19
+      has_docker: true
+      has_compose: false
+      is_template: false
+      language: Go
+    score: 55
+  - id: pro-long
+    repo: alexisfox7/pro-long
+    name: pro-long
+    status: listed
+    tagline: Local searchable session log memory for Codex, Claude Code, OpenCode and pi
+    summary: PRO-LONG records agent session events to a local .prolong/log.jsonl and installs a retrieval skill, so a coding agent can search earlier history with rg, jq or Python after compaction or across sessions. A Node.js CLI (prolong init) writes hooks or extensions for Codex, Claude Code, OpenCode and pi. The repo also holds the research harness behind the paper, evaluated on ARC-AGI-3 and NetHack.
+    categories:
+      - skills-plugins
+    strengths:
+      - "Supports four clients: Codex, Claude Code, OpenCode and pi, via per-project hooks or extensions"
+      - Log is plain JSONL on disk, searched with rg, jq or Python; no retrieval service
+      - prolong uninstall preserves the log; --purge deletes it
+      - MIT licensed, with a paper and reproducible ARC-AGI-3 harness
+    weaknesses:
+      - Log can contain prompts, tool outputs and secrets stored unencrypted on disk
+      - Install requires cloning, building with npm and npm link; no published package mentioned
+      - No tagged release; the repo has no release version
+      - Hooks run with user permissions and need manual trust approval per client
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js 20+
+      model_support:
+        - Codex
+        - Claude Code
+        - OpenCode
+        - pi
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://arxiv.org/abs/2607.20064
+    audience: Developers who want persistent, searchable history in coding agents
+    confidence: 0.8
+    facts:
+      stars: 465
+      license: MIT
+      last_commit: 2026-11-02
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 45
+  - id: novex-kit
+    repo: ais-one/novex-kit
+    name: novex-kit
+    status: listed
+    tagline: Monorepo template for Node.js APIs and Vue frontends with shared auth code
+    summary: novex-kit is a GitHub template repo for full-stack JavaScript and TypeScript apps on Node.js 24 or higher, with Express and Vue as the highlighted stack. It includes a sample API, two sample Vue frontends, PostgreSQL schemas with migrations and seeds, and shared ESM modules for SAML, OIDC, OAuth, OTP, FIDO2, zod and OpenAPI. The README does not mention any AI or model features.
+    categories:
+      - cloud-reference
+    strengths:
+      - Shared ESM modules with sample SAML, OIDC, OAuth, OTP and FIDO2 implementations
+      - Upstream sync workflow pulls template updates into downstream repos
+      - Includes a create:app CLI plus minimal and full Vue sample frontends
+      - Documents git hooks, rulesets, CI workflows and release management
+    weaknesses:
+      - No AI, model or agent features described in the README
+      - "Strict rules: only apps, db and local- files may be edited downstream"
+      - Root package.json is replaced on every template sync, so edits must be reapplied
+      - No Docker or compose files detected; setup is through npm and Node 24+
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js 24+
+        - PostgreSQL
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Teams starting a Node.js and Vue monorepo that tracks an upstream template
+    confidence: 0.6
+    facts:
+      stars: 461
+      license: MIT
+      last_commit: 2026-11-12
+      last_release: 2026-08-27
+      has_docker: false
+      has_compose: false
+      is_template: true
+      language: TypeScript
+    score: 45
+  - id: evolving-agents
+    repo: evolvingagentslabs/evolving-agents
+    name: evolving-agents
+    status: listed
+    tagline: Claude Code plugin that turns team conventions into linked rules for agents
+    summary: The director compiles CLAUDE.md, AGENTS.md and Claude Code memory into a store of linked rules kept as plain Markdown. Before an agent plans, it retrieves the applicable rules and cites them in the plan. Corrections become drafted lessons kept only if the user accepts, and tasks marked confidential go only to machines the user has cleared.
+    categories:
+      - skills-plugins
+    strengths:
+      - Memory is plain Markdown on your machine; each lesson is a change you can diff and undo
+      - Confidential-task routing to cleared machines is enforced in code, not left to the model
+      - Plans list rules followed and, separately, decisions the memory does not cover
+      - README links measurements for its claims, including results that came back flat
+    weaknesses:
+      - Runs only inside Claude Code today; other agent platforms are roadmap items
+      - "Compiling memory costs money: about US$5 for roughly 60 files"
+      - Repo also holds paused and legacy packages, which makes the layout harder to navigate
+      - No tagged release; improvement across sessions is still an open roadmap question
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps:
+        - Claude Code
+      model_support:
+        - Claude models via Claude Code
+        - local models for confidential tasks
+      web_port: null
+    links:
+      demo: null
+      website: https://evolvingagentslabs.github.io
+      docs: null
+    audience: Teams using Claude Code whose agents forget CLAUDE.md conventions
+    confidence: 0.8
+    facts:
+      stars: 458
+      license: Apache-2.0
+      last_commit: 2026-11-06
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 51
+  - id: tucano
+    repo: eduwxyz/tucano
+    name: tucano
+    status: listed
+    tagline: Desktop app where named AI agents work in chat channels with approvals
+    summary: Tucano is an Electron desktop app that runs a team of agents in chat channels, with each agent driving a coding-agent CLI you already have installed (Claude Code, Codex, Cursor CLI, Grok, Cline, Hermes, OpenCode, Pi). Agents get per-tool MCP access through a local gateway, and write actions wait for your approval. Data stays local in SQLite, with memory, scheduled routines and optional Docker sandboxes.
+    categories:
+      - agents
+      - coding-agents
+    strengths:
+      - Per-agent, per-tool access (none, read, read/write) enforced by a local MCP gateway
+      - Write actions become approvals tied to the exact call, also via Telegram
+      - Mixes harnesses per agent, using existing subscriptions or a company gateway
+      - Local SQLite storage with daily backups; macOS, Linux and Windows installers
+    weaknesses:
+      - Requires at least one separately installed and signed-in harness CLI
+      - Windows installer is not code-signed and needs Git for Windows
+      - Desktop app first; headless server mode runs in Docker, documented separately
+      - Cursor harness adds about 10k tokens of its own prompt per reply
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps:
+        - Claude Code, Codex, Cursor CLI, Grok, Cline, Hermes, OpenCode or Pi CLI
+        - Docker (optional, agent Linux computer)
+        - Chrome or Chromium (optional)
+        - Git for Windows (Windows)
+        - Telegram bot (optional, phone approvals)
+      model_support:
+        - Claude Code
+        - Codex
+        - Cursor CLI
+        - Grok
+        - Cline
+        - Hermes
+        - OpenCode
+        - Pi
+        - MCP servers
+      web_port: null
+    links:
+      demo: null
+      website: https://tucano.sh
+      docs: null
+    audience: Developers running several coding agents who want shared tools and approvals
+    confidence: 0.8
+    facts:
+      stars: 443
+      license: Apache-2.0
+      last_commit: 2026-11-22
+      last_release: 2026-11-21
+      has_docker: true
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 46
+  - id: pavedpath-code
+    repo: jia-ethan/pavedpath-code
+    name: pavedpath-code
+    status: listed
+    tagline: Agent skill that researches GitHub issues, PRs and repos to fix code problems
+    summary: PavedPath Code is a Skill (SKILL.md, agents/openai.yaml, references/) that tells a coding agent to search public GitHub with the gh CLI for issues, merged PRs, code, release notes and candidate repos. It ranks the evidence, then proposes a minimal local adaptation with a verification step. Answers follow a fixed contract covering search path, rejected options and confidence.
+    categories:
+      - skills-plugins
+    strengths:
+      - Built on gh search repos, issues, prs and code, with exact-error queries and JSON fields
+      - "Fixed output contract: search path, key evidence, rejected options, verification, confidence"
+      - "Agent-agnostic: install by cloning into a skills directory; only gh is needed"
+      - "Security rules: public repos by default, no tokens or sensitive logs passed to subagents"
+    weaknesses:
+      - Quality depends on the host agent following SKILL.md; no code enforces the workflow
+      - Scoped to code problems; non-code research is explicitly out of scope
+      - Needs GitHub CLI and network access; findings still need local verification
+      - README is mostly Chinese with an English section; no CI or releases
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - GitHub CLI (gh)
+        - git
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Developers using coding agents who want evidence-based fixes from GitHub
+    confidence: 0.85
+    facts:
+      stars: 439
+      license: MIT
+      last_commit: 2026-06-30
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: null
+    score: 35
+  - id: travel-plan-viz
+    repo: zexuanw958-svg/travel-plan-viz
+    name: travel-plan-viz
+    status: listed
+    tagline: Agent skill that turns a trip request into a single-file HTML itinerary
+    summary: A skill for Claude Code and Codex that researches a destination online and generates one mobile-first HTML page with a Leaflet map, daily timeline, booking reminders, flights and hotels. Map handling, reminder deadlines, GCJ-02 to WGS-84 conversion and validation are fixed JS modules, while page design is regenerated each run. Trip data is embedded as JSON, so the page can be handed back for edits.
+    categories:
+      - skills-plugins
+    strengths:
+      - Map uses Leaflet with OpenStreetMap tiles, so no map API key is needed
+      - validate.js checks missing fields and outlier coordinates; unit tests run with node --test
+      - Itinerary JSON is embedded in the HTML, so later edits re-render without losing fields
+      - Design and travel-data skills (Fliggy, Amap) are optional; it works standalone
+    weaknesses:
+      - Flight, hotel, price and hours data is AI-compiled and may be outdated, per its own disclaimer
+      - Map tiles and photos need a connection; only the text itinerary reads offline
+      - Needs an agent runtime (Claude Code or Codex); other agents require manual porting
+      - README and install guide are mainly in Chinese; the English section is shorter
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Claude Code or Codex
+        - Leaflet
+        - OpenStreetMap tiles
+        - Node.js (tests and validator)
+      model_support:
+        - Claude Code
+        - OpenAI Codex
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Claude Code or Codex users who want shareable trip itinerary pages
+    confidence: 0.85
+    facts:
+      stars: 415
+      license: MIT
+      last_commit: 2026-07-15
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: JavaScript
+    score: 43
+  - id: yobiru
+    repo: chekusu/yobiru
+    name: yobiru
+    status: listed
+    tagline: Plugin that lets Codex, Claude Code and Cursor agents message each other over Tailscale
+    summary: Yobiru is a plugin and Python CLI that lets agents on different machines send messages, structured data and files, track requests and request wake-ups over a Tailscale network. A receiver listens on tcp:7766 and checks peers with tailscale whois. Version 0.6 adds Friends, where other people's agents talk to one shared bot through a gateway, with optional end-to-end encryption from 0.7.
+    categories:
+      - skills-plugins
+      - agents
+    strengths:
+      - Private messaging needs no central server or account; files are fetched from the sender with SHA-256 checks
+      - Receiver sets which senders may wake which agent, with quiet hours and rate limits
+      - Runs on the Python standard library; plugin manifests for Codex, Cursor and Claude Code
+      - Claude Code gets a local stdio MCP server that opens no network port
+    weaknesses:
+      - Private messaging requires Tailscale on every participating machine, with policy allowing port 7766
+      - Does not wake an idle agent unless you configure a local wake program or webhook
+      - "Several hosts are unverified: Muse, Dots, marketplace install, and the three-agent scenario"
+      - Friends gateway stores messages; plaintext remains for bots without a key or direct MCP clients
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Tailscale
+        - Python 3.8+
+      model_support: []
+      web_port: 7766
+    links:
+      demo: null
+      website: https://yobiru.com
+      docs: https://github.com/chekusu/yobiru/blob/main/docs/PUBLIC_BOTS.md
+    audience: Developers running several coding or chat agents across machines on a tailnet
+    confidence: 0.8
+    facts:
+      stars: 410
+      license: MIT
+      last_commit: 2026-11-13
+      last_release: 2026-11-13
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 44
+  - id: memosync
+    repo: sleepybq/memosync
+    name: memosync
+    status: listed
+    tagline: Local workbench for reviewing and controlling coding-agent memory across sessions
+    summary: MemoSync is a local app that wraps Claude Code, Codex, Pi and OpenCode and shows the memory those agents use. Memory changes wait for review, you confirm the working memory before each turn, and a separate audit pass rates each item as violated, shaped, not applicable or no visible effect. An Automatic mode skips the per-turn review. Data is stored under ~/.memosync/data in SQLite plus a Markdown copy.
+    categories:
+      - skills-plugins
+      - coding-agents
+    strengths:
+      - Audit pass flags violated memories even when the agent never cited them
+      - "Works with four engines: Claude Code, Codex, Pi, OpenCode"
+      - Local-first storage; saved API keys go in the OS keychain
+      - Imports existing Claude Code and Codex memory and CLAUDE.md as reviewable candidates
+    weaknesses:
+      - Audit is a model judgment and can be wrong, per the README
+      - Does not bundle agents; Claude Code or Codex must be installed separately
+      - Desktop builds are unsigned on Windows and not notarized on macOS
+      - LAN pairing uses plain HTTP; the --share tunnel terminates TLS at Cloudflare
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Bun 1.3.5+ (1.4.4+ on Windows) for source install
+        - Claude Code, Codex, Pi or OpenCode
+        - cloudflared for --share
+      model_support:
+        - Anthropic API
+        - OpenAI Chat
+        - OpenAI Responses
+        - Custom endpoints
+      web_port: 3210
+    links:
+      demo: null
+      website: https://memosync.cc/
+      docs: null
+    audience: Developers using Claude Code, Codex or OpenCode who want auditable agent memory
+    confidence: 0.7
+    facts:
+      stars: 408
+      license: MIT
+      last_commit: 2026-11-15
+      last_release: 2026-11-14
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 48
+  - id: tim-agent
+    repo: tim-today/tim-agent
+    name: tim-agent
+    status: listed
+    tagline: Phone-browser access to Claude Code, Codex and Gemini CLI sessions on your PC
+    summary: Tim-Agent is a Go program that runs official coding-agent CLIs (Claude Code, Codex, Gemini, Opcode, Pi) in a local PTY and shares the terminal over a password-protected web page on port 20996. You scan a QR code from a phone to continue the same live session in a mobile browser. It also uploads phone photos and office documents to the PC for the agent, and stores per-project deploy settings in a local vault.
+    categories:
+      - coding-agents
+    strengths:
+      - Drives the unmodified official CLIs, so their updates apply without changes
+      - Runs locally; asks for no API keys and needs no cloud relay
+      - Same live session is shared between desktop and phone browser, with PWA install
+      - Deploy credentials kept in ~/.tim-agent/vault/ with 0600 permissions, not in the repo
+    weaknesses:
+      - Remote access depends on LAN, Tailscale or FRP set up separately
+      - Attachments limited to images and office documents; code files, zips and videos are excluded
+      - Does not implement an agent itself; requires the CLIs installed and authenticated
+      - Security of the web terminal rests on a single shared password
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Claude Code, Codex, Gemini, Opcode or Pi CLI
+        - Tailscale or FRP (optional, for remote access)
+      model_support:
+        - Claude Code
+        - OpenAI Codex
+        - Gemini CLI
+        - Opcode
+        - Pi
+      web_port: 20996
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Developers who want to monitor and steer CLI coding agents from a phone
+    confidence: 0.8
+    facts:
+      stars: 405
+      license: MIT
+      last_commit: 2026-11-16
+      last_release: 2026-11-16
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Go
+    score: 44
+  - id: dsh-meow-memory
+    repo: phant0meow/dsh-meow-memory
+    name: dsh-meow-memory
+    status: listed
+    tagline: Cross-session memory plugin for DeepSeek Harness, stored in SQLite
+    summary: "A plugin for DeepSeek Harness (dsh 0.1.5) that stores memory in seven SQLite-backed layers: soul, user, project, fact, lesson, topic and rules. It injects a long-term memory block on the first turn, then adds the top-2 keyword-matched entries per user message. It re-injects memory after context compression and consolidates entries when a window is idle or on /dream."
+    categories:
+      - skills-plugins
+    strengths:
+      - Memory goes in a separate snapshot message; the user prompt is not rewritten
+      - Static system-prompt guide section keeps the provider KV cache intact
+      - Uses node:sqlite and an esbuild bundle, with no native modules
+      - Trust gate pauses injection for .dsh-meow folders not created locally, such as cloned repos
+    weaknesses:
+      - Works only with DeepSeek Harness; tested on dsh 0.1.5-rc.1 and 0.1.1-rc.2
+      - Unrecognized promptLang values silently fall back to the Chinese prompt pack
+      - Retrieval matches entry keywords, not full text, so results depend on saved keywords
+      - Main README and docs are in Chinese; English README is a separate file
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - DeepSeek Harness (dsh 0.1.5)
+        - node:sqlite
+      model_support:
+        - Models configured in DeepSeek Harness
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: DeepSeek Harness users who want persistent memory across sessions
+    confidence: 0.85
+    facts:
+      stars: 403
+      license: MIT
+      last_commit: 2026-11-21
+      last_release: 2026-11-15
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 44
+  - id: auryn
+    repo: falkordb/auryn
+    name: auryn
+    status: listed
+    tagline: MCP server that indexes your repo into a FalkorDB code graph for agents
+    summary: Auryn parses a codebase in 16 languages plus live SQL and Oracle schemas into a graph of functions, types, tables and endpoints, stored in FalkorDB. Coding agents query it over MCP with tools like who_calls, impact_of, find_path and read-only Cypher, and cite file and line. Quickstart runs an embedded FalkorDB with a local viewer, and an installer registers the MCP server with detected agents.
+    categories:
+      - dev-mcp
+    strengths:
+      - Caller, impact and path queries return exact edges with file:line citations instead of grep matches
+      - Incremental resync re-parses only changed files; README claims about 150x faster than full re-ingest on Django
+      - "Cross-language links: HTTP call to endpoint, ORM model to table, gRPC, events"
+      - Embedded FalkorDB quickstart needs no daemon; read tools use only GRAPH.RO_QUERY and no telemetry
+    weaknesses:
+      - Deep semantic analysis only for Python (Jedi) and C# (Roslyn); other languages are tree-sitter structural
+      - Embedded database unsupported on native Windows and older-glibc Linux; needs a remote FalkorDB there
+      - Benchmark figures come from one Django test with Claude Code, published by the project itself
+      - Requires Python 3.12+; deep C# analysis needs the .NET SDK on PATH
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - FalkorDB (embedded or remote)
+        - Python 3.12+
+        - .NET SDK (optional, deep C#)
+      model_support: []
+      web_port: 8080
+    links:
+      demo: null
+      website: https://www.falkordb.com/products/codegraph-auryn
+      docs: null
+    audience: Developers giving Claude Code, Cursor or Codex structural answers on large repos
+    confidence: 0.85
+    facts:
+      stars: 396
+      license: MIT
+      last_commit: 2026-11-21
+      last_release: 2026-11-18
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 44
+  - id: agentrecall-x
+    repo: goldentrii/agentrecall-x
+    name: agentrecall-x
+    status: listed
+    tagline: Cross-agent memory and corrections ledger exposed as an MCP server
+    summary: AgentRecall is an MCP server that stores rules, corrections and project state as plain markdown, and loads them into any connected agent (Claude Code, Codex, Cursor, claude.ai) at session start. It exposes five tools (session_start, remember, recall, check, session_end) and logs whether each correction was heeded or recurred. It runs either as a free hosted server at agentrecallx.com or locally via npx, with optional Claude Code hooks, a JS/TS SDK and a CLI.
+    categories:
+      - skills-plugins
+      - dev-mcp
+    strengths:
+      - One memory shared across Claude Code, Codex, Cursor, claude.ai and other MCP clients
+      - Local mode stores plain markdown in ~/.agent-recall/; cloud mirror and embeddings are opt-in
+      - Only five default tools, which keeps tool-definition token cost low
+      - Corrections carry severity, applies_when and heeded/recurred outcomes; hosted corrections need owner approval
+    weaknesses:
+      - Hosted tier limits each user to 100 MB of memory and 120 requests per minute
+      - Slash commands and hooks are Claude Code specific; other agents rely on tool calls
+      - Hosted server requires a GitHub sign-in and stores memory in Frankfurt
+      - Author says the heeded/recurred measurements are young and the sample sizes are small
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js/npx
+        - GitHub account (hosted)
+        - Supabase (optional mirror)
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: https://agentrecallx.com
+      docs: https://agentrecallx.com/connect.md
+    audience: Users of Claude Code, Codex or Cursor who want persistent rules across agents
+    confidence: 0.8
+    facts:
+      stars: 376
+      license: MIT
+      last_commit: 2026-11-21
+      last_release: 2026-11-21
+      has_docker: true
+      has_compose: false
+      is_template: false
+      language: JavaScript
+    score: 48
+  - id: stylekit
+    repo: anxforever/stylekit
+    name: stylekit
+    status: listed
+    tagline: Visual style library for AI-generated web pages, with MCP server and agent skill
+    summary: StyleKit is a Next.js site and catalog of named visual styles, each with design tokens, component recipes, Tailwind constraints and copyable prompts. Styles install into shadcn projects as registry themes, load into coding agents through an Agent Skill, or are queried over an npm MCP server that includes a lint tool for checking generated UI code against a style's rules.
+    categories:
+      - skills-plugins
+      - dev-mcp
+    strengths:
+      - "Three entry points: shadcn registry JSON, Agent Skill, and stylekit-mcp via npx"
+      - stylekit_lint_code MCP tool checks generated code against a style's rules
+      - Exports Tailwind preset, CSS variables, Figma tokens, and Cursor, Claude and Windsurf rule files
+      - Also ships 60 animations and 37 page templates, with llms.txt endpoints
+    weaknesses:
+      - README states it does not guarantee production-ready UI; integration remains your work
+      - shadcn install needs a tsconfig.json in the target project or the CLI exits
+      - Skill and MCP live in separate repos or packages, and the MCP fetches live content
+      - Primary README is Chinese; English version is in a separate file
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js
+        - pnpm
+        - Supabase (optional)
+      model_support: []
+      web_port: 3000
+    links:
+      demo: https://stylekit.top
+      website: https://stylekit.top
+      docs: https://github.com/AnxForever/stylekit/blob/main/docs/README.md
+    audience: Frontend devs who want coding agents to produce consistent UI styles
+    confidence: 0.72
+    facts:
+      stars: 899
+      license: MIT
+      last_commit: 2026-11-16
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 55
+  - id: recall
+    repo: raiyanyahya/recall
+    name: recall
+    status: listed
+    tagline: Claude Code plugin that logs sessions and writes a local resume summary
+    summary: Recall is a Claude Code plugin that appends session activity (prompts, replies, files touched, commands run) to .recall/history.md via Stop and SessionEnd hooks. /recall:save condenses that log into .recall/context.md using a vendored TF-IDF and TextRank extractive summarizer plus git diff stats, with no LLM call. An opt-in installer adds the same flow to opencode.
+    categories:
+      - skills-plugins
+    strengths:
+      - No network calls or API key; summarizer is local stdlib Python, numpy optional
+      - Plain markdown in .recall/ that can be diffed, committed or git-ignored
+      - Redacts common secret patterns and fences context.md as untrusted data at session start
+      - Tested on Python 3.9-3.13 with and without numpy, with a CI benchmark gate
+    weaknesses:
+      - Extractive summary picks existing sentences, so it cannot rewrite or reason about the session
+      - Redaction covers common secret patterns only; review the files before committing them
+      - opencode support is opt-in, lacks untrusted-data fencing, and may break on CLI changes
+      - Codex and other harnesses are not supported yet
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Claude Code
+        - Python 3
+        - numpy (optional)
+        - git (optional)
+        - opencode (optional)
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Claude Code users who want persistent project memory without extra model calls
+    confidence: 0.9
+    facts:
+      stars: 768
+      license: MIT
+      last_commit: 2026-09-07
+      last_release: 2026-07-18
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 48
+  - id: codanna
+    repo: bartolli/codanna
+    name: codanna
+    status: listed
+    tagline: Local MCP server and CLI for code search, call graphs and impact analysis
+    summary: Codanna indexes a repository on disk under .codanna/ and serves symbol search, semantic search, call graphs, dependency tracking and impact analysis to MCP clients such as Claude Code, Cursor, Codex and Gemini. It runs as a stdio, HTTP or HTTPS server, or as a one-shot CLI (`codanna mcp ...`) for scripts and hooks. It is written in Rust, parses 15 languages, and also indexes markdown docs for RAG.
+    categories:
+      - dev-mcp
+    strengths:
+      - One semantic_search_with_context call returns matches with callers, callees and impact radius
+      - Runs locally; embeddings use a local model, remote embeddings are opt-in
+      - One-shot CLI works in hooks, scripts and CI without a daemon
+      - Reports warm-server lookups under 10 ms; benchmark reproduction commands are published
+    weaknesses:
+      - Prebuilt releases from 0.17.1 do not support Intel Macs
+      - Linux cargo install needs glibc 2.38+ and libstdc++ from GCC 13+
+      - Windows support is experimental
+      - Embedding generation during indexing is slower than parsing and scales with CPU cores
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps:
+        - ONNX Runtime (prebuilt)
+        - Rust 1.95+ and pkg-config (build from source only)
+      model_support:
+        - Local embedding model (~150MB, downloaded on first use)
+        - Remote OpenAI-compatible embeddings (opt-in)
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://docs.codanna.sh/
+    audience: Developers giving AI coding agents indexed code navigation on a local repo
+    confidence: 0.9
+    facts:
+      stars: 761
+      license: Apache-2.0
+      last_commit: 2026-10-11
+      last_release: 2026-10-11
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Rust
+    score: 47
+  - id: mcp-server-docker
+    repo: ckreiling/mcp-server-docker
+    name: mcp-server-docker
+    status: listed
+    tagline: MCP server that manages Docker containers, images, networks and volumes from an LLM
+    summary: A Python MCP server built on the Docker SDK that lets an MCP client such as Claude Desktop create, inspect and remove containers, images, networks and volumes. It includes a `docker_compose` prompt that runs a plan-and-apply loop, and exposes container logs and stats as resource templates. It connects to the local daemon, or to a remote one over SSH via DOCKER_HOST.
+    categories:
+      - dev-mcp
+    strengths:
+      - Covers containers, images, networks and volumes with named tools, plus logs and stats resources
+      - docker_compose prompt shows a plan for approval before applying changes
+      - Remote Docker engines supported through an ssh:// DOCKER_HOST
+      - Test suite runs without a Docker daemon; installs with uvx
+    weaknesses:
+      - README warns against passing secrets such as API keys or passwords to containers
+      - No support for --privileged or --cap-add/--cap-drop
+      - No tools for Compose files; the compose prompt drives individual container tools
+      - GPL-3.0 license may limit embedding in proprietary products
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Docker daemon
+        - uv
+        - MCP client (e.g. Claude Desktop)
+      model_support: []
+      web_port: null
+    links:
+      demo: https://github.com/user-attachments/assets/65e35e67-bce0-4449-af7e-9f4dd773b4b3
+      website: null
+      docs: null
+    audience: Developers and sysadmins managing local or remote Docker through an MCP client
+    confidence: 0.85
+    facts:
+      stars: 761
+      license: GPL-3.0
+      last_commit: 2026-08-07
+      last_release: 2026-08-07
+      has_docker: true
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 45
+  - id: old-coder
+    repo: amazingang/old-coder
+    name: old-coder
+    status: listed
+    tagline: Agent skill that requires a test plan up front and an evidence report after
+    summary: "A markdown skill for coding agents that has the agent write a SPEC of test examples for approval, then work through red/green/refactor. Before reporting, it runs a gauntlet: full tests, types and lint, changed-line coverage, mutation testing, property tests, real execution, and supply-chain and secret scans. The reader reviews the SPEC and the EVIDENCE report instead of the code. A companion skill, old-coder-api, covers HTTP/JSON API design and review."
+    categories:
+      - skills-plugins
+    strengths:
+      - Plain markdown, so it works with Claude Code, Codex CLI, Cursor, Aider or a custom loop
+      - Gauntlet includes mutation testing and changed-line coverage, not just a passing test suite
+      - Check effort scales with risk, so a typo fix does not run every layer
+      - "Demo rate limiter ships a rerunnable evidence report: 41 tests, 22/22 planted bugs caught"
+    weaknesses:
+      - The agent grades its own work; the gauntlet cannot prove the spec is complete
+      - Quality depends on the agent following instructions; nothing enforces the workflow outside the prompt
+      - Needs extra tooling installed (mutation, coverage, property testing), which the SPEC asks you to approve
+      - Demo and examples are Python; coverage for other language toolchains is unknown
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - npx skills CLI (optional installer)
+        - Python 3 (demo only)
+      model_support:
+        - Claude Code
+        - Codex CLI
+        - Cursor
+        - Aider
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Developers who want coding agents to prove their changes with tests and evidence
+    confidence: 0.85
+    facts:
+      stars: 760
+      license: MIT
+      last_commit: 2026-08-18
+      last_release: 2026-08-15
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 47
+  - id: codeseek
+    repo: codebendkit/codeseek
+    name: codeseek
+    status: listed
+    tagline: Call-graph and hybrid semantic code search CLI that registers as MCP tools
+    summary: CodeSeek is a Rust CLI that parses source with Tree-sitter (7 languages), builds a call graph, and indexes functions in LanceDB and Tantivy BM25. Search fuses dense and sparse results with RRF and optionally reranks them. `codeseek install` registers it as MCP tools in Claude Code and Codex; there is no daemon or HTTP server.
+    categories:
+      - dev-mcp
+    strengths:
+      - Call graph queries (callers, callees, bidirectional depth) work offline from a serialized graph
+      - "Hybrid pipeline: LanceDB vectors, Tantivy BM25, RRF fusion, Qwen3 reranker"
+      - Incremental MD5 re-indexing, plus git post-commit/post-merge hooks
+      - "Reports reproducible evals: MTEB(Code) nDCG@10 0.9182, RepoQA 84.0%"
+    weaknesses:
+      - Semantic search needs an external embedding API; the example config uses SiliconFlow
+      - Prebuilt binaries only for macOS (arm64, x64) and Linux x64; no Windows
+      - "Covers 7 languages only: Rust, Python, JS, TS, Go, C/C++, Java"
+      - Without embedding or reranker access it falls back to symbol-name matching
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - OpenAI-compatible embedding API
+        - Reranker API (optional)
+        - protoc (source build)
+        - Node.js/npm (wrapper install)
+      model_support:
+        - Qwen/Qwen3-Embedding-4B
+        - Qwen/Qwen3-Reranker-4B
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Developers giving Claude Code or Codex call-graph and semantic code search
+    confidence: 0.8
+    facts:
+      stars: 760
+      license: MIT
+      last_commit: 2026-11-11
+      last_release: 2026-11-11
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Rust
+    score: 53
+  - id: axiomcodegraph
+    repo: axiomcodeai/axiomcodegraph
+    name: axiomcodegraph
+    status: listed
+    tagline: Type-resolved call graph and MCP tools for impact analysis in coding agents
+    summary: Builds a call graph of a repository by resolving each call from the receiver's type, rather than matching names. It exposes impact, path, tests, context and link as a CLI and as five MCP tools, plus a skill and hooks for Claude Code, Codex CLI, Cursor, Gemini CLI and others. Java, TypeScript and Python are stable; JavaScript, C#, HTML and CSS are beta.
+    categories:
+      - skills-plugins
+      - dev-mcp
+    strengths:
+      - Resolves calls through interfaces and overrides; 96.5% exact-target match on Java against bytecode
+      - Each printed edge is re-checked, with source lines and confidence tags like resolved or one of a set
+      - Installs as a plugin for seven agents, or as one MCP config entry for any other client
+      - Prebuilt engine for macOS, Linux and Windows x64; no Soufflé or compiler needed
+    weaknesses:
+      - License is FSL-1.1-Apache-2.0, source-available rather than OSI open source at release
+      - Benchmarks are the project's own and cover only Java and TypeScript
+      - JavaScript, C#, HTML and CSS engines are beta
+      - Hooks run only in Claude Code, Codex, Cursor and Gemini CLI; other agents get tools and skill only
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node >= 22.13
+        - Python 3
+        - Git for Windows (Windows only)
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: https://axiomcode.ai/updates
+      docs: null
+    audience: Developers using coding agents on Java, TypeScript or Python repos
+    confidence: 0.82
+    facts:
+      stars: 751
+      license: NOASSERTION
+      last_commit: 2026-11-09
+      last_release: 2026-11-05
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 48
+  - id: mcp-proxy
+    repo: tbxark/mcp-proxy
+    name: mcp-proxy
+    status: listed
+    tagline: Go proxy that merges many MCP servers behind one HTTP endpoint
+    summary: MCP Proxy aggregates tools, prompts and resources from several MCP servers and serves them through a single endpoint over SSE or streamable HTTP. Downstream servers can be stdio, SSE or streamable-HTTP clients. The proxy can also hold and refresh OAuth tokens for servers that need interactive authorization, such as Notion.
+    categories:
+      - dev-mcp
+    strengths:
+      - Aggregates tools, prompts and resources from many MCP servers into one endpoint
+      - Accepts stdio, SSE and streamable-HTTP downstream servers
+      - Holds and refreshes OAuth tokens once for all callers
+      - Docker image includes npx and uvx; config can be loaded from a remote URL
+    weaknesses:
+      - Configuration, usage and auth details are in separate docs, not the README
+      - Does not accept examples for individual third-party MCP services
+      - No live demo; the only hosted tool is a Claude config converter
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - npx
+        - uvx
+      model_support: []
+      web_port: 9090
+    links:
+      demo: null
+      website: https://tbxark.github.io/mcp-proxy
+      docs: null
+    audience: Developers who want one HTTP endpoint for several MCP servers
+    confidence: 0.85
+    facts:
+      stars: 744
+      license: MIT
+      last_commit: 2026-09-15
+      last_release: 2026-09-15
+      has_docker: true
+      has_compose: true
+      is_template: false
+      language: Go
+    score: 53
+  - id: cnosdb
+    repo: cnosdb/cnosdb
+    name: cnosdb
+    status: listed
+    tagline: Distributed time-series database in Rust with SQL and line-protocol writes
+    summary: CnosDB is a distributed time-series database written in Rust, aimed at IoT, connected cars and IT operations data. It uses Apache Arrow as the memory model and DataFusion as the query engine. It accepts writes via SQL, InfluxDB line protocol and Telegraf, and serves queries via SQL or Prometheus remote read. It is not an AI starter; the README mentions a LangChain integration for natural-language queries only in passing.
+    categories:
+      - backends
+    strengths:
+      - Standard SQL plus InfluxDB line protocol, Telegraf and Prometheus remote read
+      - Separated storage and compute, sharding, quorum, multi-tenancy with role-based access
+      - Clients for C/C++, Go, Java, Rust, Python, JDBC, ODBC and Arrow Flight SQL
+      - Singleton mode for local use, cluster mode for production
+    weaknesses:
+      - AGPL-3.0 license restricts use in closed-source network services
+      - Not an AI or vibe-coding starter; fits this list only loosely
+      - Source build needs Rust, CMake, FlatBuffers and Protobuf installed
+      - Listed platforms are only Linux x86 and macOS arm
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Rust
+        - CMake
+        - FlatBuffers
+        - Protobuf
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: https://www.cnosdb.com/
+      docs: https://docs.cnosdb.com/
+    audience: Engineers storing IoT or metrics time-series data who want a SQL database
+    confidence: 0.6
+    facts:
+      stars: 1753
+      license: AGPL-3.0
+      last_commit: 2026-10-23
+      last_release: 2026-10-23
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Rust
+    score: 52
+  - id: mroffice
+    repo: xinatian/mroffice
+    name: mroffice
+    status: listed
+    tagline: Browser editors for documents, sheets, slides, PDF and code, with an AI copilot
+    summary: Source for the five editors behind MR Office, published as React packages on npm (mroffice-docs, -sheets, -slides, -pdf, -code, plus mroffice-core). A playground app and an Electron desktop shell are included, along with an MCP server (mroffice-mcp) that lets agents create, edit and export documents. Word, Excel and PowerPoint files, the full formula engine and the AI copilot depend on the hosted embed or the desktop component, not the AGPL code.
+    categories:
+      - editors-workflows
+    strengths:
+      - Five editors ship as separate React npm packages sharing one core package
+      - MCP server exposes create, update, get, render and export tools for docx, xlsx, pptx, pdf
+      - Hosted embed edits real .docx/.xlsx/.pptx; Free plan allows 1,000 localhost sessions a month
+      - "Local run is plain npm: install, build, preview on port 5178"
+    weaknesses:
+      - Open-source editors cannot open Word, Excel or PowerPoint files; that needs the hosted embed
+      - Full formula engine, charts and SmartArt editing are outside the AGPL code
+      - AGPL-3.0 with extra attribution terms; commercial license needed to avoid them
+      - Copilot AI is a hosted service with a daily free allowance, then paid
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js and npm
+        - MR Office hosted embed (for docx/xlsx/pptx)
+        - MR Office account (for AI and MCP)
+      model_support: []
+      web_port: 5178
+    links:
+      demo: https://mroffice.ai/en/developers/embed/demo
+      website: https://mroffice.ai
+      docs: https://mroffice.ai/en/developers
+    audience: Developers embedding office editors in a web app or giving agents document tools
+    confidence: 0.8
+    facts:
+      stars: 1740
+      license: AGPL-3.0
+      last_commit: 2026-11-22
+      last_release: 2026-11-22
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 61
+  - id: video-podcast-maker
+    repo: agents365-ai/video-podcast-maker
+    name: video-podcast-maker
+    status: listed
+    tagline: Agent skill that turns a topic into a rendered 4K video podcast
+    summary: A SKILL.md package for coding agents (Claude Code, OpenCode, Codex, OpenClaw, Pi) that runs research, script writing, TTS, Remotion composition and FFmpeg BGM mixing. TTS runs through Edge (free) or Azure Speech, and output is 3840x2160 with React-rendered subtitles plus optional 9:16 shorts. Per-platform publish info covers Bilibili, YouTube, Xiaohongshu, Douyin and WeChat Channels.
+    categories:
+      - skills-plugins
+    strengths:
+      - Edge TTS backend needs no API key; Azure is optional
+      - Works with any coding agent that supports SKILL.md; full, lite and nano variants
+      - Per-video folder keeps script, audio, SRT, timing.json and an asset manifest with licenses
+      - Pauses for explicit confirmation before the final 4K render and before paid asset generation
+    weaknesses:
+      - Fresh Remotion project downloads about 2.2 GB of npm packages plus a Chrome shell
+      - Only Edge and Azure TTS are built in; other providers need a separate skill
+      - README says the project is still under active development and may not be mature
+      - Script quality depends on manual editing of podcast.txt; the generated draft is only a starting point
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Python 3.8+
+        - Node.js 18+
+        - FFmpeg 4.0+
+        - Remotion
+        - Edge TTS or Azure Speech
+      model_support:
+        - Edge TTS
+        - Azure Speech
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Creators using a coding agent to produce multi-platform video podcasts
+    confidence: 0.9
+    facts:
+      stars: 1729
+      license: MIT
+      last_commit: 2026-09-14
+      last_release: 2026-08-01
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 63
+  - id: autokernel
+    repo: rightnow-ai/autokernel
+    name: autokernel
+    status: listed
+    tagline: Agent loop that profiles PyTorch models and optimizes Triton or CUDA kernels
+    summary: AutoKernel profiles a PyTorch model with torch.profiler, extracts the top bottleneck kernels as standalone Triton or CUDA C++ files, and has a coding agent edit, benchmark and keep or revert each one. A fixed bench.py runs 5-stage correctness checks and roofline analysis, and verify.py checks end-to-end results. It also includes KernelBench integration and decode-step and TTFT benchmark scripts for serving engines.
+    categories:
+      - coding-agents
+    strengths:
+      - Fixed benchmark with 5-stage correctness checks gates each agent edit before it is kept
+      - Orchestrator picks the next kernel using Amdahl's law across profiled bottlenecks
+      - Starter Triton and CUDA C++ kernels for 10 op types, plus GPT-2, LLaMA, BERT models
+      - Includes KernelBench bridge and decode-step and long-prompt TTFT benchmarks
+    weaknesses:
+      - Requires an NVIDIA GPU; tested only on H100, A100 and RTX 4090
+      - Needs an external coding agent such as Claude or Codex to drive program.md
+      - Each experiment takes about 90 seconds, so gains depend on long unattended runs
+      - No tagged release; used by cloning the repo and running scripts
+    specs:
+      ram_min_gb: null
+      gpu: required
+      external_deps:
+        - uv
+        - PyTorch
+        - Triton
+        - Coding agent (Claude, Codex or similar)
+      model_support:
+        - PyTorch models
+        - GPT-2
+        - LLaMA
+        - BERT
+        - HuggingFace transformers (optional extra)
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Engineers tuning GPU kernels for PyTorch models on NVIDIA hardware
+    confidence: 0.8
+    facts:
+      stars: 1638
+      license: MIT
+      last_commit: 2026-11-18
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 58
+  - id: localflare
+    repo: rohanprasadofficial/localflare
+    name: localflare
+    status: listed
+    tagline: Local dashboard for browsing D1, KV, R2, Queues and Durable Objects in Workers dev
+    summary: Localflare is a CLI that runs a sidecar API worker inside the same wrangler dev process as your Cloudflare Worker, so it reads and writes the real local bindings. A React dashboard hosted at studio.localflare.dev provides a D1 SQL editor and data browser, a KV editor, an R2 file manager, a queue message sender and a Durable Object inspector. It reads wrangler.toml and needs no changes to your code.
+    categories:
+      - backends
+    strengths:
+      - Sidecar shares real binding instances with your worker, not mocks; no SDK or code changes
+      - D1 studio has CodeMirror SQL editor, inline editing, filters, bulk delete and Faker.js row generation
+      - Attach mode supports OpenNext, Nuxt and custom wrangler setups
+      - Reads wrangler.toml automatically and starts with a single npx command
+    weaknesses:
+      - Dashboard is hosted at studio.localflare.dev, so UI depends on that external site
+      - Chrome, Safari and Brave may block localhost access; needs permission changes or mkcert
+      - Requires a working wrangler dev setup and a Cloudflare Workers project
+      - No tagged release; only usable for local development, not deployed Workers
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js 18+
+        - wrangler
+        - Cloudflare Workers project with wrangler.toml
+      model_support: []
+      web_port: 8787
+    links:
+      demo: null
+      website: null
+      docs: https://localflare.dev/docs
+    audience: Cloudflare Workers developers who want to inspect local D1, KV and R2 data
+    confidence: 0.8
+    facts:
+      stars: 1562
+      license: MIT
+      last_commit: 2026-03-14
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 25
+  - id: django-modern-rest
+    repo: wemake-services/django-modern-rest
+    name: django-modern-rest
+    status: listed
+    tagline: Typed REST API framework for Django with async views and OpenAPI generation
+    summary: django-modern-rest is a Python library for building REST APIs on top of Django. Controllers declare typed body, header and response models, which are validated at runtime and used to generate OpenAPI 3.1/3.2 schemas. It has no AI features, so it fits this list only as a backend API layer you could put in front of models or agents.
+    categories:
+      - cloud-reference
+    strengths:
+      - "Schema libraries are pluggable: pydantic2, msgspec, attrs, dataclasses or TypedDict"
+      - Async views without sync_to_async wrappers; tested on free-threading builds
+      - Validates both requests and responses; content negotiation covers json, msgpack, SSE, Json Lines
+      - "Testing tools: schemathesis, polyfactory, bundled pytest plugin; 4000+ tests"
+    weaknesses:
+      - Library, not a starter app; no AI, model or agent integration included
+      - Requires CPython or PyPy 3.11+ and Django 5.0 to 6.1
+      - Fastest JSON parsing needs the msgspec extra, which is optional to install
+      - Performance claims link to docs benchmarks; no figures in the README
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Django 5.0-6.1
+        - Python 3.11+
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://django-modern-rest.readthedocs.io/en/latest/
+    audience: Django developers building typed, async REST APIs
+    confidence: 0.6
+    facts:
+      stars: 1552
+      license: MIT
+      last_commit: 2026-11-12
+      last_release: 2026-11-01
+      has_docker: false
+      has_compose: true
+      is_template: false
+      language: Python
+    score: 54
+  - id: pop
+    repo: gobuffalo/pop
+    name: pop
+    status: listed
+    tagline: Go library for CRUD, migrations and queries on top of sqlx
+    summary: "Pop is a Go library that wraps sqlx to handle CRUD operations, schema migrations and query building. It follows ActiveRecord-style conventions: an id column, automatic created_at and updated_at timestamps, and pluralized snake_case table names. It also has a CLI toolbox for migrations. It has no AI features."
+    categories:
+      - backends
+    strengths:
+      - "Convention-based mapping: id, created_at, updated_at and table names need no configuration"
+      - Covers CRUD, migrations and query building in one Go package
+      - Built on sqlx, so it keeps familiar Go SQL semantics
+      - MIT license with a CLI toolbox and hosted documentation
+    weaknesses:
+      - Requires an id column and an ID struct field on every model
+      - No AI or LLM features, so it is off-topic for an AI project list
+      - Go only; it is a library, not a standalone backend or service
+      - README is brief; usage detail lives on the external Buffalo docs site
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - sqlx
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: https://gobuffalo.io
+      docs: https://gobuffalo.io/docs/db/getting-started
+    audience: Go developers who want an ActiveRecord-style database layer
+    confidence: 0.8
+    facts:
+      stars: 1528
+      license: MIT
+      last_commit: 2026-11-17
+      last_release: 2026-09-16
+      has_docker: false
+      has_compose: true
+      is_template: false
+      language: Go
+    score: 51
+  - id: livecodes
+    repo: live-codes/livecodes
+    name: livecodes
+    status: listed
+    tagline: Browser-based code playground supporting 90+ languages, embeddable via an SDK
+    summary: LiveCodes is a client-side code playground that compiles and runs React, Vue, Svelte, Solid, TypeScript, Python, Go, Ruby, PHP and other languages in the browser. It can be used at livecodes.io, embedded in a page with the npm/CDN SDK (wrappers for React, Vue, Svelte, Solid, Preact, web components), or self-hosted as static files. It has no AI features in the README, so it fits this list only loosely.
+    categories:
+      - editors-workflows
+    strengths:
+      - Runs entirely client-side; self-hosting is just static files, no server or database
+      - SDK with wrappers for React, Vue, Svelte, Solid, Preact and web components
+      - Imports modules from npm, deno.land/x, jsr and GitHub without a build step
+      - MIT license, with docs and llms.txt files published
+    weaknesses:
+      - No AI or LLM features described; weak match for an AI-focused list
+      - GitHub account needed for GitHub integration features
+      - Relies on third-party CDNs and services such as jsDelivr, esm.sh and unpkg
+      - Not a template; it is a full app to embed or host, not fork
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - static file server
+      model_support: []
+      web_port: null
+    links:
+      demo: https://livecodes.io
+      website: https://livecodes.io
+      docs: https://livecodes.io/docs
+    audience: Developers embedding or self-hosting an in-browser code playground
+    confidence: 0.4
+    facts:
+      stars: 1527
+      license: MIT
+      last_commit: 2026-11-18
+      last_release: 2026-05-08
+      has_docker: true
+      has_compose: true
+      is_template: false
+      language: TypeScript
+    score: 58
+  - id: wisp
+    repo: gleam-wisp/wisp
+    name: wisp
+    status: listed
+    tagline: Gleam web framework built on request handlers and middleware functions
+    summary: Wisp is a web framework library for Gleam, published on Hex. A handler is a function from an HTTP request (plus an app-defined context such as a database connection) to a response, and middleware is applied with Gleam's `use` syntax. Built-in middleware includes request logging and static file serving. It has no AI features.
+    categories:
+      - cloud-reference
+      - backends
+    strengths:
+      - Handlers and middleware are plain functions, composed with Gleam's `use` syntax
+      - Examples directory includes comments and tests
+      - Statically typed Gleam, with API docs on HexDocs
+      - "Reference app: packages.gleam.run with SQLite and LiteFS on Fly.io"
+    weaknesses:
+      - No AI, model or agent functionality; a general web framework only
+      - "Library, not a starter: no auth, billing or database wiring included"
+      - Requires Gleam, a niche language with a smaller ecosystem
+      - README shows only logging and static-file middleware, little else
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps: []
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://hexdocs.pm/wisp/
+    audience: Gleam developers building HTTP backends or web apps
+    confidence: 0.4
+    facts:
+      stars: 1500
+      license: Apache-2.0
+      last_commit: 2026-11-03
+      last_release: 2026-03-27
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Gleam
+    score: 51
+  - id: datalevin
+    repo: datalevin/datalevin
+    name: datalevin
+    status: listed
+    tagline: Embeddable Datalog database with KV, document, full-text and vector search
+    summary: Datalevin is a durable Datalog database built on a fork of LMDB, with a cost-based query optimizer and Datomic-style query syntax. It also works as an EDN key-value store, an indexed JSON/EDN/Markdown document store, and a full-text and vector search engine. It runs embedded (Java, Python, Node.js, Clojure), as a client/server with Raft HA and RBAC, or as a babashka pod. It also ships a local MCP server and llama.cpp for in-DB embedding and text generation.
+    categories:
+      - backends
+    strengths:
+      - Embedded like SQLite, or networked with Raft HA and role-based access control
+      - One engine covers Datalog, KV, document, full-text and vector workloads
+      - Benchmarks against PostgreSQL, SQLite, Neo4j and MongoDB, with raw timings in the repo
+      - Deletes are real deletes; ACID transactions with WAL and async write modes
+    weaknesses:
+      - Encryption at rest and in transit is still on the roadmap (1.3.0)
+      - Clojure-first API; Java, Python and Node.js users go through bindings
+      - Schema and time semantics differ from Datomic, so Datomic code needs changes
+      - Writes are serialized, and long read transactions make the database file grow
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps: []
+      model_support:
+        - llama.cpp
+      web_port: 8898
+    links:
+      demo: null
+      website: https://datalevin.org/
+      docs: https://datalevin.org/docs
+    audience: Developers needing an embedded or server database with Datalog queries
+    confidence: 0.75
+    facts:
+      stars: 1494
+      license: EPL-2.0
+      last_commit: 2026-11-16
+      last_release: 2026-10-28
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Clojure
+    score: 50
+  - id: filodb
+    repo: filodb/filodb
+    name: filodb
+    status: listed
+    tagline: Distributed in-memory time series database with PromQL, fed from Kafka
+    summary: FiloDB is a Scala time series database that ingests from Apache Kafka into sharded, off-heap in-memory storage, persists to Cassandra, and answers PromQL queries over an HTTP API. Nodes form a cluster via Akka Cluster. It supports Prometheus-style and custom multi-column schemas, plus an optimized histogram format. It is not an AI project and fits this list only loosely, as a database backend.
+    categories:
+      - backends
+    strengths:
+      - PromQL queries with tag-based indexing, plus a Grafana setup
+      - Sharded across processes, with off-heap columnar compression to limit GC
+      - Multiple schemas per cluster and a dedicated histogram format
+      - Ships a CLI, an Influx line protocol gateway for Telegraf, and a downsample mode
+    weaknesses:
+      - Needs Cassandra and Kafka running alongside it; no Docker or compose setup
+      - Last tagged release is 2022-11-18
+      - Building needs Java 11, SBT, Rust and a C compiler
+      - README lists transactional and OLAP workloads as anti-use-cases
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Apache Cassandra 2.x/3.x
+        - Apache Kafka 0.10+
+        - Java 11
+        - SBT
+        - Rust
+        - C compiler
+        - Apache Spark 2.0 (optional)
+      model_support: []
+      web_port: 8080
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Teams running Prometheus-style metrics at scale on Kafka and Cassandra
+    confidence: 0.6
+    facts:
+      stars: 1468
+      license: Apache-2.0
+      last_commit: 2026-11-19
+      last_release: 2022-11-18
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Scala
+    score: 37
+  - id: tamery
+    repo: wannabespace/tamery
+    name: tamery
+    status: listed
+    tagline: Desktop and web database client with an AI SQL assistant and MCP server
+    summary: Tamery is a database client with a table browser, a schema-aware query editor, a schema visualizer and an AI assistant that writes, explains and fixes SQL. It connects to PostgreSQL, MySQL, SQL Server, Oracle, ClickHouse, MongoDB, SQLite and DuckDB, among others. It also runs an MCP server so Claude Code, Cursor and similar agents can query your databases, with writes held for manual approval.
+    categories:
+      - dev-mcp
+    strengths:
+      - Supports PostgreSQL, MySQL, SQL Server, Oracle, ClickHouse, MongoDB, SQLite, DuckDB and variants
+      - MCP server lets coding agents query databases; every write waits for user approval
+      - Desktop app reaches localhost and private networks; SSH tunnels and SSL supported
+      - Metadata-only mode keeps connection strings on your machine
+    weaknesses:
+      - Full AI assistant is part of the paid Pro plan
+      - Pull requests are not accepted; contributions are limited to issues
+      - Self-hosting needs pnpm, Bun, Postgres and Redis; the README gives no production guide
+      - AGPL-3.0 license restricts closed-source network use
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps:
+        - PostgreSQL
+        - Redis
+        - pnpm
+        - Bun
+        - Docker (optional)
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: https://tamery.app
+      docs: null
+    audience: Developers who want a database GUI that also exposes databases to coding agents
+    confidence: 0.7
+    facts:
+      stars: 1468
+      license: AGPL-3.0
+      last_commit: 2026-11-15
+      last_release: 2026-11-12
+      has_docker: false
+      has_compose: true
+      is_template: false
+      language: TypeScript
+    score: 60
+  - id: writer-framework
+    repo: writer/writer-framework
+    name: writer-framework
+    status: listed
+    tagline: Python framework with a drag-and-drop visual editor for AI apps
+    summary: Writer Framework lets you build a web UI in a browser-based visual editor and write the backend logic in Python. The CLI covers scaffolding, editing and running (`writer create`, `writer edit`, `writer run`). It keeps UI and business logic separate and supports Python 3.9.2 through 3.12 on Linux, Mac and Windows.
+    categories:
+      - app-builders
+    strengths:
+      - Visual drag-and-drop editor opens in the browser with `writer edit`
+      - Backend is plain Python, with UI kept separate from business logic
+      - Installs with `pip install writer`; `writer hello` creates a demo app
+      - Apache-2.0 licensed
+    weaknesses:
+      - Python support stops at 3.12 per the README
+      - Last release is 2024-12-02, far behind the latest commit
+      - No Dockerfile or compose file provided
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps: []
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: https://www.writer.com
+      docs: https://dev.writer.com/framework/quickstart
+    audience: Python developers who want a visual UI builder for internal AI apps
+    confidence: 0.6
+    facts:
+      stars: 1448
+      license: Apache-2.0
+      last_commit: 2026-09-23
+      last_release: 2024-12-02
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 40
+  - id: agent-foundation
+    repo: converge-ai-labs/agent-foundation
+    name: agent-foundation
+    status: listed
+    tagline: Runtime and web console for running durable AI agents behind an API
+    summary: a13n Service runs agents behind an HTTP API, with Python, TypeScript, Go and Rust SDKs. Workers lease runs from PostgreSQL and save checkpoints to object storage, so interrupted runs can resume after a worker failure. Console, the web UI, configures agents, tests them in a conversation, debugs tool calls and tracks usage and cost.
+    categories:
+      - agents
+      - cloud-reference
+    strengths:
+      - Checkpointed runs resume after worker failure and continue when clients disconnect
+      - SDKs for Python, TypeScript, Go and Rust plus a plain HTTP API
+      - Console shows run details, tool calls, workspace usage and cost
+      - Harness library can be embedded in Python without deploying Service
+    weaknesses:
+      - Compose stack needs PostgreSQL and Redis; high availability needs Kubernetes and shared storage
+      - Compose setup runs agent environments on the host Docker Engine
+      - Requires Python 3.13+
+      - Supported model and sandbox providers are listed only in linked docs
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - PostgreSQL
+        - Redis
+        - Docker Engine
+        - object storage
+        - model provider API key
+      model_support:
+        - API-key model providers
+        - ChatGPT subscription provider
+      web_port: 8080
+    links:
+      demo: null
+      website: https://a13n.dev/docs/
+      docs: https://a13n.dev/docs/
+    audience: Teams self-hosting agent execution with an API, SDKs and a management UI
+    confidence: 0.8
+    facts:
+      stars: 1444
+      license: Apache-2.0
+      last_commit: 2026-11-21
+      last_release: 2026-11-21
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 69
+  - id: chinese-poetry-api
+    repo: palemoky/chinese-poetry-api
+    name: chinese-poetry-api
+    status: listed
+    tagline: Chinese classical poetry API with REST, GraphQL, MCP and optional semantic search
+    summary: Go service that serves about 400,000 Chinese poems (Tang poetry, Song ci, Yuan qu and more) from SQLite with FTS5 search. It exposes REST with an OpenAPI document, GraphQL and a read-only MCP endpoint, and stores simplified and traditional text together, switched by `?lang=`. Optional semantic search uses a bge-m3 vector file plus any OpenAI-compatible embeddings endpoint.
+    categories:
+      - rag-search
+    strengths:
+      - "Three interfaces on one port: REST with OpenAPI 3.2, GraphQL and MCP over Streamable HTTP"
+      - Simplified and traditional Chinese from one database via the lang parameter
+      - Semantic search is optional; the service runs normally without the vector file
+      - Built-in IP rate limiting and multi-arch Docker image (amd64/arm64)
+    weaknesses:
+      - Semantic search needs a roughly 200MB vector file and an external embeddings API
+      - Semantic search adds about 350MB resident memory and a 2-second startup load
+      - Building with plain `go` requires the `sqlite_fts5` tag, or search fails
+      - Documentation is in Chinese only; the dataset comes in via git submodules
+    specs:
+      ram_min_gb: null
+      gpu: unknown
+      external_deps:
+        - SQLite with FTS5
+        - Ollama or OpenAI-compatible embeddings API (optional, semantic search)
+        - Git submodules (dataset)
+      model_support:
+        - bge-m3
+      web_port: 1279
+    links:
+      demo: https://poetry.palemoky.com
+      website: null
+      docs: null
+    audience: Developers building poetry apps or LLM tools that need Chinese poems
+    confidence: 0.7
+    facts:
+      stars: 3623
+      license: GPL-3.0
+      last_commit: 2026-11-02
+      last_release: 2026-07-04
+      has_docker: true
+      has_compose: true
+      is_template: false
+      language: Go
+    score: 65
+  - id: responder
+    repo: kennethreitz/responder
+    name: responder
+    status: listed
+    tagline: Python ASGI web framework on Starlette with typed validation and OpenAPI
+    summary: Responder is a Python HTTP framework built on Starlette where each view receives mutable req and resp objects, in sync or async form. It adds Pydantic request and response validation, OpenAPI 3.0/3.1 with Swagger UI and generated clients, typed SSE and NDJSON streaming, auth helpers, rate limiting, and CSRF protection. It can also publish its routes as MCP tools over Streamable HTTP.
+    categories:
+      - cloud-reference
+    strengths:
+      - Generates OpenAPI 3.0/3.1 and Swagger UI from type hints and Pydantic models
+      - Built-in request IDs, health checks, Prometheus metrics, and Redis or in-memory rate limiting
+      - api.mcp('/mcp') exposes existing routes as MCP tools without an extra package
+      - Mounts Flask, Django, WSGI, or ASGI apps under one API
+    weaknesses:
+      - Describes itself as a passion project, aimed at small APIs and internal tools
+      - "Not an AI template: no model, agent, or LLM integration beyond MCP publishing"
+      - Requires Python 3.11 or newer
+      - v9 changed defaults, such as a 100 MiB request cap and Problem Details errors
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Starlette
+        - uvicorn
+        - Pydantic
+        - orjson (recommended)
+        - Redis (optional, rate limiting)
+        - Granian (optional)
+      model_support: []
+      web_port: 5042
+    links:
+      demo: null
+      website: https://responder.kennethreitz.org
+      docs: https://responder.kennethreitz.org
+    audience: Python developers building small typed HTTP APIs and internal services
+    confidence: 0.7
+    facts:
+      stars: 3618
+      license: Apache-2.0
+      last_commit: 2026-11-10
+      last_release: 2026-11-10
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Python
+    score: 73
+  - id: garden
+    repo: garden-io/garden
+    name: garden
+    status: listed
+    tagline: Kubernetes dev, test and CI automation driven by garden.yml action graphs
+    summary: Garden is a standalone TypeScript binary that builds, deploys and tests Kubernetes apps from garden.yml files, on a developer machine or in CI. It models a project as a dependency graph of Build, Deploy and Test actions and caches results to skip unchanged work. It has no AI features; it fits this list only as deployment tooling.
+    categories:
+      - backends
+    strengths:
+      - Action graph tracks dependencies and skips unchanged builds, deploys and tests
+      - Same config for dev, preview environments per pull request, and CI
+      - Sync mode live-reloads changes into running services (garden deploy --sync)
+      - Plugins for Kubernetes, Terraform and Pulumi; Helm charts and raw manifests supported
+    weaknesses:
+      - Not an AI project; no model, agent or LLM functionality
+      - Aimed at Kubernetes workflows, so it needs a cluster to be useful
+      - Some features, such as Garden Cloud, depend on a hosted service
+      - Needs YAML config written per action, with a learning curve for large stacks
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Kubernetes cluster
+        - Helm
+        - Terraform (optional)
+        - Pulumi (optional)
+      model_support: []
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: https://docs.garden.io
+    audience: Teams building Kubernetes apps who want shared dev, CI and preview config
+    confidence: 0.6
+    facts:
+      stars: 3617
+      license: MPL-2.0
+      last_commit: 2026-06-10
+      last_release: 2026-02-27
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 53
+  - id: echobird
+    repo: edison7009/echobird
+    name: echobird
+    status: listed
+    tagline: Desktop app that installs coding CLIs and switches their models
+    summary: EchoBird is a Tauri and Rust desktop app that installs coding tools such as Claude Code, Codex CLI, Aider and OpenCode, and rewrites each tool's native config file to switch models. It includes a Smart Router that puts up to 20 model APIs behind one local endpoint with priority-ordered failover, multi-account switching with quota display, and bundled vLLM, SGLang and llama.cpp runtimes. Desktop source is public only through v6.4.9.
+    categories:
+      - coding-agents
+    strengths:
+      - Writes native tool config files, so model switching needs no manual TOML or JSON editing
+      - Smart Router serves OpenAI Chat Completions and Anthropic Messages with ordered failover
+      - Saved ChatGPT, Codex CLI and Claude Code accounts with 5-hour and 7-day quota view
+      - Builds for Windows, macOS (Apple Silicon) and Linux x64/arm64
+    weaknesses:
+      - Desktop source after v6.4.9 is private; repo holds site, docs and releases
+      - Smart Router lacks the Responses API, so Codex CLI third-party models cannot use it
+      - Router follows fixed priority only and does not rotate saved login accounts
+      - README carries sponsor API reseller promotions; the install path pipes a script to shell
+    specs:
+      ram_min_gb: null
+      gpu: optional
+      external_deps: []
+      model_support:
+        - OpenAI
+        - Anthropic
+        - vLLM
+        - SGLang
+        - llama.cpp
+      web_port: null
+    links:
+      demo: null
+      website: https://echobird.ai
+      docs: null
+    audience: Developers juggling several AI coding CLIs, providers and accounts
+    confidence: 0.8
+    facts:
+      stars: 3578
+      license: MIT
+      last_commit: 2026-11-21
+      last_release: 2026-11-21
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Rust
+    score: 71
+  - id: eac-desktop
+    repo: ebony-vinyl/eac-desktop
+    name: eac-desktop
+    status: listed
+    tagline: Tauri desktop app that runs the DeepSeek Harness agent with a local Web UI
+    summary: EAC-Desktop packages DeepSeek Harness (dsh) as a native desktop app. A Rust/Tauri shell starts a Node sidecar over stdio JSON-RPC, which launches the dsh kernel and opens its Web UI in a window. It bundles Node, npm and pnpm runtimes, tracks per-session file changes with restore, and adds a plugin market and swappable skins.
+    categories:
+      - coding-agents
+      - agents
+    strengths:
+      - Bundles Node, npm and pnpm runtimes, so no separate Node install is needed
+      - Per-channel DPX environments keep profiles, sessions and workspace data separate
+      - Session file-change view with restore, plus snapshot and rollback for plugins
+      - Installers for Windows x64, Linux (AppImage, deb) and macOS arm64
+    weaknesses:
+      - README says DPX gives no filesystem sandbox; absolute paths follow OS permissions
+      - Linux (v5.3.6) and macOS (v5.1.0) builds trail Windows v6.0.0
+      - Skin sources include CC BY-NC-SA 4.0 content, which limits redistribution
+      - Source build needs submodules, Node 24, pnpm 11.7.0, Rust and network access
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - DeepSeek Harness (dsh) kernel
+        - dsh-dpx
+        - Tauri
+        - Node.js 24 and pnpm 11.7.0 (source builds)
+        - Rust stable (source builds)
+      model_support:
+        - Provider-configured models via DeepSeek Harness
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Users of DeepSeek Harness who want a packaged desktop client with plugins
+    confidence: 0.6
+    facts:
+      stars: 3562
+      license: MIT
+      last_commit: 2026-11-14
+      last_release: 2026-10-25
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: JavaScript
+    score: 66
+  - id: im-server
+    repo: juggleim/im-server
+    name: im-server
+    status: listed
+    tagline: Self-hosted instant messaging server in Go over Protobuf and WebSocket
+    summary: JuggleIM is a multi-tenant instant messaging backend written in Go. Clients connect over Protobuf on WebSocket, and business servers call a REST API and WebHooks. It stores messages in MySQL or MongoDB, includes an admin console, and has SDKs for Android, iOS, Web, Flutter and HarmonyOS.
+    categories:
+      - backends
+    strengths:
+      - "Multi-tenant: one deployment hosts isolated apps, each with its own appkey and secret"
+      - Docker Compose starts server, MySQL and admin console; a quickstart script sends a test message
+      - Client SDKs for Android, iOS, Web, Flutter and HarmonyOS, with demo apps
+      - Reproducible benchmark harness reports ACK and delivery latency at P50/P95/P99
+    weaknesses:
+      - Clustering and horizontal scaling are in the professional edition, not this repo
+      - Desktop SDK (imsdk-pc) is not open-sourced
+      - AI bot support relies on the separate bot-connector service
+      - Default admin login is admin/123456 and must be changed
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - MySQL
+        - MongoDB (optional)
+      model_support: []
+      web_port: 8090
+    links:
+      demo: null
+      website: https://www.juggle.im
+      docs: https://www.juggle.im/docs/guide/intro/
+    audience: Developers adding self-hosted chat or messaging to an app
+    confidence: 0.75
+    facts:
+      stars: 3535
+      license: Apache-2.0
+      last_commit: 2026-10-26
+      last_release: 2026-08-24
+      has_docker: true
+      has_compose: true
+      is_template: false
+      language: Go
+    score: 59
+  - id: arscontexta
+    repo: agenticnotetaking/arscontexta
+    name: arscontexta
+    status: listed
+    tagline: Claude Code plugin that generates a markdown knowledge vault with hooks and skills
+    summary: Ars Contexta is a Claude Code plugin that runs a 2-4 question conversation about your domain, then generates a markdown vault with context files, note templates, Maps of Content, processing skills and hooks. The generated skills (/reduce, /reflect, /reweave, /verify, /ralph) run each phase in a fresh subagent context. Design choices are tied to a bundled set of 249 research claims.
+    categories:
+      - skills-plugins
+    strengths:
+      - Output is plain markdown with wiki links; no database or cloud service required
+      - Four hooks validate schema on write, auto-commit, orient sessions and capture session state
+      - Each pipeline phase runs in a fresh subagent context via /ralph
+      - Optional qmd semantic search; works with ripgrep and MOC traversal alone
+    weaknesses:
+      - Claude Code only; no adapters for other agents are listed, multi-agent processing is in progress
+      - Setup takes about 20 minutes and is token-intensive
+      - Requires tree and ripgrep installed, plus two Claude Code restarts during setup
+      - No tagged release; version 0.8.0 is pre-1.0
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Claude Code v1.0.33+
+        - tree
+        - ripgrep
+        - qmd (optional)
+      model_support:
+        - Claude (via Claude Code)
+      web_port: null
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Claude Code users who want a persistent, agent-maintained notes vault
+    confidence: 0.85
+    facts:
+      stars: 3519
+      license: MIT
+      last_commit: 2026-02-19
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: Shell
+    score: 37
+  - id: probe
+    repo: probelabs/probe
+    name: probe
+    status: listed
+    tagline: AST-aware code search and extraction engine with MCP server and built-in agent
+    summary: Probe is a Rust CLI that searches codebases with Elasticsearch-style boolean queries ranked by BM25, TF-IDF or hybrid, and returns whole functions or classes parsed with tree-sitter. It needs no index or embedding model. It exposes search, query, extract and symbols as MCP tools, a Node.js SDK and Vercel AI SDK tools. It also ships an agent that works with Anthropic, OpenAI, Google or Bedrock models.
+    categories:
+      - dev-mcp
+      - coding-agents
+    strengths:
+      - "No indexing or embedding service: search runs immediately and works offline"
+      - Returns complete AST blocks, with --max-tokens budget and session dedup
+      - Same tools available via CLI, MCP, Node.js SDK and Vercel AI SDK
+      - Deterministic results; search runs locally without API calls
+    weaknesses:
+      - No vector search, so queries rely on the LLM to expand vocabulary
+      - Agent mode needs a provider API key or Claude Code/Codex auth
+      - Language support limited to the listed tree-sitter grammars
+      - Comparison claims against other tools come from the project's own README
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js (npx install path)
+        - LLM provider API key for agent mode (optional)
+      model_support:
+        - Anthropic
+        - OpenAI
+        - Google
+        - AWS Bedrock
+      web_port: null
+    links:
+      demo: null
+      website: https://probelabs.com/probe
+      docs: https://probelabs.com/probe
+    audience: Engineers giving coding agents structured code context on large repos
+    confidence: 0.8
+    facts:
+      stars: 739
+      license: Apache-2.0
+      last_commit: 2026-11-06
+      last_release: 2026-11-06
+      has_docker: true
+      has_compose: true
+      is_template: false
+      language: Rust
+    score: 53
+  - id: skillgrade
+    repo: mgechev/skillgrade
+    name: skillgrade
+    status: listed
+    tagline: Eval harness that scores AI coding agents on defined tasks
+    summary: Skillgrade runs coding agents (Gemini CLI, Claude Code, Codex CLI, OpenCode, ACP agents, or any command) against tasks defined in eval.yaml, with or without Agent Skills. Each trial is scored by deterministic scripts, LLM rubric graders, or human reviewers, and weighted into one reward. It supports multi-turn tasks, JSONL/CSV datasets, a CI mode with a pass-rate threshold, and JSON, JUnit, CSV and Markdown reports.
+    categories:
+      - code-review
+      - skills-plugins
+    strengths:
+      - Three grader types (script, LLM rubric, human) combine with per-grader weights
+      - Works with Gemini CLI, Claude Code, Codex CLI, OpenCode, ACP agents or arbitrary commands
+      - CI mode exits non-zero below a threshold; exports JUnit, JSON, CSV and Markdown
+      - Custom graders, agents, providers and reporters register by name in TypeScript
+    weaknesses:
+      - Default Docker provider requires Docker and Node.js 20+
+      - Needs a Gemini, Anthropic or OpenAI API key for agents and LLM grading
+      - Presets run 5 to 30 trials per task, which multiplies API cost
+      - No tagged release published
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Node.js 20+
+        - Docker
+        - Gemini, Anthropic or OpenAI API key
+      model_support:
+        - Gemini
+        - Claude
+        - OpenAI Codex
+        - OpenCode
+        - ACP-compatible agents
+      web_port: 3847
+    links:
+      demo: null
+      website: null
+      docs: null
+    audience: Engineers measuring coding agents and Agent Skills with repeatable evals
+    confidence: 0.85
+    facts:
+      stars: 737
+      license: MIT
+      last_commit: 2026-10-11
+      last_release: null
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 46
+  - id: agents-observe
+    repo: simple10/agents-observe
+    name: agents-observe
+    status: listed
+    tagline: Live dashboard for Claude Code hook events and subagent activity
+    summary: Agents Observe is a Claude Code plugin that sends hook events through a Node CLI to a Hono server backed by SQLite. A React dashboard streams them over WebSocket, showing agent hierarchy, tool calls, filtering, session replay and token usage and cost stats. Codex support is listed on the roadmap as unchecked.
+    categories:
+      - skills-plugins
+    strengths:
+      - Shows subagent parentage and merged PreToolUse/PostToolUse rows with full payloads
+      - Installs as a Claude Code plugin with /observe skills for status, logs and restart
+      - Stores events in local SQLite; the DB is preserved across plugin upgrades
+      - Session stats include token usage and cost breakdowns since 0.9.7
+    weaknesses:
+      - Requires Docker, Node.js and Bash on the host or the plugin fails to load
+      - Codex support is an unchecked roadmap item despite the intro mentioning it
+      - No authentication or multi-user setup described; dashboard is local-oriented
+      - Only sees what Claude Code hooks emit
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps:
+        - Docker
+        - Node.js
+        - Bash
+        - SQLite
+      model_support:
+        - Claude Code
+      web_port: 4981
+    links:
+      demo: https://raw.githubusercontent.com/simple10/agents-observe/videos/docs/assets/demo.mp4
+      website: null
+      docs: null
+    audience: Claude Code users running subagents who want a local event timeline
+    confidence: 0.85
+    facts:
+      stars: 737
+      license: MIT
+      last_commit: 2026-09-04
+      last_release: 2026-07-22
+      has_docker: true
+      has_compose: true
+      is_template: false
+      language: TypeScript
+    score: 58
+  - id: dinotty
+    repo: xichan96/dinotty
+    name: dinotty
+    status: listed
+    tagline: Self-hosted web terminal with persistent sessions for running coding agents across devices
+    summary: Dinotty is a Rust server with a Vue 3 frontend that runs a server-side virtual terminal (VTE parser plus PTY), so sessions survive disconnects and can be resumed from phone, tablet or desktop browser. It provides split panes, SSH with SFTP, a file browser, Git change indicators, web preview and hot-reloadable JS plugins, aimed at running Claude Code, opencode, Codex or OpenClaw. A built-in MCP server and an HTTP Open API allow external control.
+    categories:
+      - coding-agents
+      - dev-mcp
+    strengths:
+      - PTY and screen state live on the server; refresh or reconnect restores the session
+      - Text-only transport, about 1-10 KB/s typical, usable on 3G/4G
+      - Built-in SSH/SFTP, file browser, Git diff marks, web preview and split panes
+      - Hot-reload JS plugins, plus built-in MCP server and HTTP Open API
+    weaknesses:
+      - macOS app is unsigned; needs xattr -cr to open
+      - Windows has no installer; run the server .exe or build from source
+      - Plugin development guide is only available in Chinese
+      - Not a coding agent itself; only hosts agents you install separately
+    specs:
+      ram_min_gb: null
+      gpu: none
+      external_deps: []
+      model_support: []
+      web_port: 8999
+    links:
+      demo: null
+      website: null
+      docs: https://xichan96.github.io/dinotty/
+    audience: Developers running terminal coding agents across phone and desktop
+    confidence: 0.8
+    facts:
+      stars: 737
+      license: MIT
+      last_commit: 2026-11-06
+      last_release: 2026-11-06
+      has_docker: false
+      has_compose: false
+      is_template: false
+      language: TypeScript
+    score: 47
   - id: vercel-chatbot
     repo: vercel/chatbot
     name: chatbot
@@ -90177,7 +92355,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 35
+    score: 36
   - id: nextjs-openai-doc-search
     repo: supabase-community/nextjs-openai-doc-search
     name: nextjs-openai-doc-search
@@ -90588,7 +92766,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 76
+    score: 77
   - id: openai-cs-agents-demo
     repo: openai/openai-cs-agents-demo
     name: openai-cs-agents-demo
@@ -90678,7 +92856,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 53
+    score: 54
   - id: cloudflare-agents-starter
     repo: cloudflare/agents-starter
     name: agents-starter
@@ -90910,7 +93088,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 46
+    score: 47
   - id: personal-agent-template
     repo: vercel-labs/personal-agent-template
     name: personal-agent-template
@@ -91264,7 +93442,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 63
+    score: 64
   - id: stockbot-on-groq
     repo: bklieger-groq/stockbot-on-groq
     name: stockbot-on-groq
@@ -92247,7 +94425,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 31
+    score: 32
   - id: mcp-for-next-js
     repo: vercel-labs/mcp-for-next.js
     name: mcp-for-next.js
@@ -92565,7 +94743,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 46
   - id: vibesdk
     repo: cloudflare/vibesdk
     name: vibesdk
@@ -92611,7 +94789,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 63
+    score: 64
   - id: coding-agent-template
     repo: vercel-labs/coding-agent-template
     name: coding-agent-template
@@ -92663,7 +94841,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 19
+    score: 20
   - id: workflow-builder-template
     repo: vercel-labs/workflow-builder-template
     name: workflow-builder-template
@@ -92882,7 +95060,7 @@ entries:
       has_compose: false
       is_template: true
       language: Python
-    score: 68
+    score: 69
   - id: openai-chat-app-quickstart
     repo: azure-samples/openai-chat-app-quickstart
     name: openai-chat-app-quickstart
@@ -93080,7 +95258,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 73
+    score: 74
   - id: nodejs-api-boilerplate
     repo: vyancharuk/nodejs-api-boilerplate
     name: nodejs-api-boilerplate
