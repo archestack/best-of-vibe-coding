@@ -23,7 +23,7 @@ Monorepo of reference projects for building on the Claude API. It includes a cus
 <sub>Python, Claude · Needs Claude API key · [Repo](https://github.com/anthropics/claude-quickstarts) · [📖 Docs ↗](https://docs.claude.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-quickstarts/)</sub>
 
 <a name="chat-js"></a>
-### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
+### 🥈 [chat-js](https://github.com/franciscomoretti/chat-js) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: niche (29) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.2k · Apache-2.0 · Nov 2026</sub>
 
 **Next.js AI chat app scaffold with auth, branching and sharing.**
 
@@ -40,26 +40,8 @@ ChatJS is a Next.js chat application generated with `npx chat-js@alpha create`, 
 
 <sub>TypeScript, Claude, GPT, Gemini, Grok · Needs PostgreSQL, Vercel AI Gateway, Vercel Blob, EVE runtime, Node 24+, Bun · [Repo](https://github.com/franciscomoretti/chat-js) · [▶️ Demo ↗](https://demo.chatjs.dev) · [📖 Docs ↗](https://chatjs.dev/docs) · [🌐 Site ↗](https://chatjs.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-js/)</sub>
 
-<a name="ant-design-x-vue"></a>
-### 🥉 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
-
-**Vue component library for building AI chat interfaces, port of Ant Design X.**
-
-Vue 3 implementation of Ant Design X, a set of UI components for AI conversation pages such as Bubble, with an XProvider for configuration. It connects to OpenAI-compatible inference services and includes data stream management helpers. It is written in TypeScript and installed from npm alongside ant-design-vue.
-
-- **+** Typed TypeScript components with fine-grained style customization
-- **+** Targets OpenAI-standard inference services with built-in data stream management
-- **+** Follows the upstream React Ant Design X API, easing porting between the two
-- **+** MIT license with recent release and commits
-- **−** Requires ant-design-vue and Vue 3.3 or newer
-- **−** README is mainly in Chinese, and the English version is a separate file
-- **−** Frontend components only; no backend or model serving included
-- **−** Component list and templates are not detailed in the README
-
-<sub>TypeScript, OpenAI-compatible APIs · Needs vue >=3.3, ant-design-vue · [Repo](https://github.com/wzc520pyfm/ant-design-x-vue) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ant-design-x-vue/)</sub>
-
 <a name="chatgpt-telegram-workers"></a>
-### #&#8288;4 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [68](../README.md#-how-we-rank "Score 68/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
+### 🥉 [chatgpt-telegram-workers](https://github.com/tbxark/chatgpt-telegram-workers) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (64) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.8k · MIT · Nov 2026</sub>
 
 **Telegram bot that proxies chat to multiple LLM providers on Cloudflare Workers.**
 
@@ -75,6 +57,24 @@ A TypeScript Telegram bot that forwards messages to LLM providers such as OpenAI
 - **−** Migrating from v1 to v2 requires following a separate migration guide
 
 <sub>TypeScript, OpenAI, Cloudflare AI, Cohere, Anthropic · Needs Telegram bot token, Cloudflare Workers KV · Docker · [Repo](https://github.com/tbxark/chatgpt-telegram-workers) · [📖 Docs ↗](https://github.com/TBXark/ChatGPT-Telegram-Workers/blob/master/doc/en/DEPLOY.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chatgpt-telegram-workers/)</sub>
+
+<a name="ant-design-x-vue"></a>
+### #&#8288;4 [ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (49) · Freshness: active (100) · Maintenance: healthy (81) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Nov 2026</sub>
+
+**Vue component library for building AI chat interfaces, port of Ant Design X.**
+
+Vue 3 implementation of Ant Design X, a set of UI components for AI conversation pages such as Bubble, with an XProvider for configuration. It connects to OpenAI-compatible inference services and includes data stream management helpers. It is written in TypeScript and installed from npm alongside ant-design-vue.
+
+- **+** Typed TypeScript components with fine-grained style customization
+- **+** Targets OpenAI-standard inference services with built-in data stream management
+- **+** Follows the upstream React Ant Design X API, easing porting between the two
+- **+** MIT license with recent release and commits
+- **−** Requires ant-design-vue and Vue 3.3 or newer
+- **−** README is mainly in Chinese, and the English version is a separate file
+- **−** Frontend components only; no backend or model serving included
+- **−** Component list and templates are not detailed in the README
+
+<sub>TypeScript, OpenAI-compatible APIs · Needs vue >=3.3, ant-design-vue · [Repo](https://github.com/wzc520pyfm/ant-design-x-vue) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ant-design-x-vue/)</sub>
 
 <a name="vercel-chatbot"></a>
 ### #&#8288;5 [chatbot](https://github.com/vercel/chatbot) <sub>score [66](../README.md#-how-we-rank "Score 66/100. Adoption: widely used (90) · Freshness: active (100) · Maintenance: weak (29) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 21k · Apache-2.0 · Nov 2026</sub>
@@ -94,7 +94,7 @@ Clone it and you get a Next.js App Router chat app on the AI SDK with Auth.js lo
 <sub>TypeScript, ai-gateway, ai-sdk, openai, mistral · Needs postgres, vercel-blob, ai-gateway-api-key · GitHub template · env example file · sign-in: Auth.js · [Repo](https://github.com/vercel/chatbot) · [▶️ Demo ↗](https://chatbot.ai-sdk.dev/demo) · [📖 Docs ↗](https://chatbot.ai-sdk.dev/docs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vercel-chatbot/)</sub>
 
 <a name="boardui"></a>
-### #&#8288;6 [boardui](https://github.com/boardui/boardui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (32) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
+### #&#8288;6 [boardui](https://github.com/boardui/boardui) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (33) · Freshness: active (100) · Maintenance: fair (50) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.3k · MIT · Nov 2026</sub>
 
 **React component library for agent UIs, installed as source via CLI.**
 
@@ -130,7 +130,7 @@ Five Next.js API routes that each show one LangChain.js pattern: plain chat, Zod
 <sub>TypeScript, openai, langchain, langgraph, ai-sdk · Needs openai-api-key, supabase, tavily-api-key · GitHub template · env example file · [Repo](https://github.com/langchain-ai/langchain-nextjs-template) · [▶️ Demo ↗](https://langchain-nextjs-template.vercel.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchain-nextjs-template/)</sub>
 
 <a name="twitterbio"></a>
-### #&#8288;8 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: known (45) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
+### #&#8288;8 [twitterbio](https://github.com/nutlope/twitterbio) <sub>score [49](../README.md#-how-we-rank "Score 49/100. Adoption: known (46) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · MIT · Oct 2026</sub>
 
 **Single-form Next.js text generator streaming from Together AI.**
 
@@ -181,7 +181,7 @@ Nuxt application built on Nuxt UI components that streams chat responses through
 <sub>Vue, Claude Haiku 5.5, Gemini 3 Flash, GPT-5.6 Luna · Needs Vercel AI Gateway, SQLite / Turso, GitHub OAuth app, NuxtHub Blob · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/chat) · [▶️ Demo ↗](https://chat-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-chat/)</sub>
 
 <a name="bot-on-anything"></a>
-### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (71) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
+### #&#8288;11 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: popular (72) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · MIT · Jul 2026</sub>
 
 **Python framework connecting LLMs to chat channels like Telegram, Slack, Discord.**
 
@@ -300,7 +300,7 @@ A Python project where langgraph.json mounts both a ReAct agent graph and a Fast
 <sub>Python, langgraph, anthropic, openai · Needs anthropic-or-openai-api-key, tavily-api-key, uv · env example file · [Repo](https://github.com/langchain-ai/langgraph-fullstack-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langgraph-fullstack-python/)</sub>
 
 <a name="openai-responses-starter-app"></a>
-### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (18) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 885 · MIT · Dec 2025</sub>
+### #&#8288;18 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) <sub>score [8](../README.md#-how-we-rank "Score 8/100. Adoption: niche (19) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 885 · MIT · Dec 2025</sub>
 
 **Next.js chat on the OpenAI Responses API with hosted tools.**
 
