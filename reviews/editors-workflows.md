@@ -41,7 +41,7 @@ Penpot is a browser-based design and prototyping platform that stores designs in
 <sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
 
 <a name="plate"></a>
-### 🥉 [plate](https://github.com/udecode/plate) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (82) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
+### 🥉 [plate](https://github.com/udecode/plate) <sub>score [89](../README.md#-how-we-rank "Score 89/100. Adoption: widely used (83) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 17k · custom license · Nov 2026</sub>
 
 **Rich-text editor framework for React built on Slate, with plugins and AI.**
 
@@ -75,7 +75,7 @@ Next.js app that has an LLM generate draw.io XML on a real draw.io canvas, so di
 <sub>TypeScript, AWS Bedrock, OpenAI, Anthropic, Google AI · Needs LLM provider API key (or Ollama for local models), Node.js and npm · Docker · env example file · [Repo](https://github.com/dayuanjiang/next-ai-draw-io) · [▶️ Demo ↗](https://next-ai-drawio.jiang.jp/) · [📖 Docs ↗](https://next-ai-drawio.jiang.jp/en/docs) · [🌐 Site ↗](https://next-ai-drawio.jiang.jp/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/next-ai-draw-io/)</sub>
 
 <a name="fresh"></a>
-### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (74) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;5 [fresh](https://github.com/sinelaw/fresh) <sub>score [79](../README.md#-how-we-rank "Score 79/100. Adoption: popular (75) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 9.6k · GPL-3.0 · Nov 2026</sub>
 
 **Terminal text editor with VS Code-style keybindings, mouse support and LSP.**
 
@@ -110,8 +110,25 @@ Yank Note is a desktop Markdown editor built on the Monaco kernel, with local Ma
 
 <sub>TypeScript, OpenAI, Ollama, Gemini, Kimi · Needs pandoc (export) · [Repo](https://github.com/purocean/yn) · [▶️ Demo ↗](https://demo.yank-note.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/yn/)</sub>
 
+<a name="builder"></a>
+### #&#8288;7 [builder](https://github.com/builderio/builder) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (71) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
+
+**Visual editor and SDKs for drag-and-drop editing with your own components.**
+
+Builder.io is a visual development platform that connects to an existing site or app, so pages can be edited by drag and drop or generated from Figma designs using your own components. Changes are exported as code or published through SDKs. This repository holds the SDKs, usage examples, starter projects and plugins; the editor itself is used through a Builder account.
+
+- **+** Renders pages from your existing components via SDKs
+- **+** Imports Figma designs and exports them as code
+- **+** Repo bundles SDKs, examples, starters and plugins in one place
+- **+** MIT licensed, TypeScript codebase
+- **−** Editor is used through a Builder.io account sign-up
+- **−** README gives no self-hosting instructions
+- **−** Monorepo of SDKs and examples, not a standalone app
+
+<sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
+
 <a name="shaders"></a>
-### #&#8288;7 [shaders](https://github.com/shader-effects-inc/shaders) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
+### #&#8288;8 [shaders](https://github.com/shader-effects-inc/shaders) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (60) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · MIT · Nov 2026</sub>
 
 **WebGPU shader effects as components for React, Vue, Svelte, Solid and JS.**
 
@@ -128,25 +145,8 @@ An npm package of 200+ WebGPU effects (gradients, noise, glass, distortions, blu
 
 <sub>TypeScript · Needs WebGPU-capable browser, shaders.com account for design editor and CLI sync · [Repo](https://github.com/shader-effects-inc/shaders) · [📖 Docs ↗](https://shaders.com/docs/components) · [🌐 Site ↗](https://shaders.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/shaders/)</sub>
 
-<a name="builder"></a>
-### #&#8288;8 [builder](https://github.com/builderio/builder) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (70) · Freshness: active (100) · Maintenance: fair (78) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 8.9k · MIT · Nov 2026</sub>
-
-**Visual editor and SDKs for drag-and-drop editing with your own components.**
-
-Builder.io is a visual development platform that connects to an existing site or app, so pages can be edited by drag and drop or generated from Figma designs using your own components. Changes are exported as code or published through SDKs. This repository holds the SDKs, usage examples, starter projects and plugins; the editor itself is used through a Builder account.
-
-- **+** Renders pages from your existing components via SDKs
-- **+** Imports Figma designs and exports them as code
-- **+** Repo bundles SDKs, examples, starters and plugins in one place
-- **+** MIT licensed, TypeScript codebase
-- **−** Editor is used through a Builder.io account sign-up
-- **−** README gives no self-hosting instructions
-- **−** Monorepo of SDKs and examples, not a standalone app
-
-<sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
-
 <a name="mroffice"></a>
-### #&#8288;9 [mroffice](https://github.com/xinatian/mroffice) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (52) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;9 [mroffice](https://github.com/xinatian/mroffice) <sub>score [70](../README.md#-how-we-rank "Score 70/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.4k · AGPL-3.0 · Nov 2026</sub>
 
 **Browser editors for documents, sheets, slides, PDF and code, with an AI copilot.**
 
@@ -182,7 +182,7 @@ beUI is a library of Framer Motion components for React and Next.js, built with 
 <sub>TypeScript · Needs React, Next.js, Tailwind CSS, Framer Motion, shadcn/ui CLI, Bun (to run the repo locally) · env example file · [Repo](https://github.com/starc007/ui-components) · [📖 Docs ↗](https://beui.dev/docs/ai-agents) · [🌐 Site ↗](https://beui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-components/)</sub>
 
 <a name="andesine"></a>
-### #&#8288;11 [andesine](https://github.com/vriteio/andesine) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
+### #&#8288;11 [andesine](https://github.com/vriteio/andesine) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
 
 **Collaborative content workspace with structured collections, publishing and an MCP server.**
 
@@ -198,7 +198,7 @@ Andesine is a team content workspace with a real-time Markdown editor, structure
 <sub>TypeScript · env example file · [Repo](https://github.com/vriteio/andesine) · [📖 Docs ↗](https://andesine.app/docs) · [🌐 Site ↗](https://andesine.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/andesine/)</sub>
 
 <a name="livecodes"></a>
-### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (28) · Freshness: active (98) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (29) · Freshness: active (98) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Browser-based code playground supporting 90+ languages, embeddable via an SDK.**
 
@@ -269,7 +269,7 @@ A Nuxt and Nuxt UI starter that wraps TipTap in a Notion-style WYSIWYG editor wi
 <sub>TypeScript, Any model via Vercel AI Gateway · Needs Vercel AI Gateway (optional), NuxtHub Blob (optional), PartyKit (optional) · GitHub template · env example file · [Repo](https://github.com/nuxt-ui-templates/editor) · [▶️ Demo ↗](https://editor-template.nuxt.dev/) · [📖 Docs ↗](https://ui.nuxt.com/docs/getting-started/installation/nuxt) · [🌐 Site ↗](https://ui.nuxt.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nuxt-ui-editor/)</sub>
 
 <a name="tersa"></a>
-### #&#8288;16 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (17) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
+### #&#8288;16 [tersa](https://github.com/vercel-labs/tersa) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (18) · Freshness: slowing (44) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · Feb 2026</sub>
 
 **Node canvas for chaining text, image and video models via AI Gateway.**
 
