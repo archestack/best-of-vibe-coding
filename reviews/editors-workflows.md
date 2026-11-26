@@ -5,7 +5,7 @@ Rich-text editors with AI commands and node-based canvases for chaining model ca
 <sub>🌐 Also on the web: [AI editors and workflow canvases on archestack.com](https://archestack.com/best-of-vibe-coding/editors-workflows/), each project on its own page.</sub>
 
 <a name="windmill"></a>
-### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [91](../README.md#-how-we-rank "Score 91/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (90) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
+### 🥇 [windmill](https://github.com/windmill-labs/windmill) <sub>score [92](../README.md#-how-we-rank "Score 92/100. Adoption: widely used (86) · Freshness: active (100) · Maintenance: healthy (91) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 19k · custom license · Nov 2026</sub>
 
 **Workflow engine and app builder where scripts become UIs, APIs and cron jobs.**
 
@@ -93,7 +93,7 @@ Fresh is a Rust terminal text editor that uses standard keybindings, menus and a
 <sub>Rust, claude, codex, opencode, aider · [Repo](https://github.com/sinelaw/fresh) · [📖 Docs ↗](https://getfresh.dev/docs) · [🌐 Site ↗](https://sinelaw.github.io/fresh/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fresh/)</sub>
 
 <a name="yn"></a>
-### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (86) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
+### #&#8288;6 [yn](https://github.com/purocean/yn) <sub>score [76](../README.md#-how-we-rank "Score 76/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: healthy (88) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · AGPL-3.0 · Oct 2026</sub>
 
 **Electron Markdown editor with AI completion and a plugin API.**
 
@@ -145,8 +145,26 @@ Builder.io is a visual development platform that connects to an existing site or
 
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
+<a name="mroffice"></a>
+### #&#8288;9 [mroffice](https://github.com/xinatian/mroffice) <sub>score [71](../README.md#-how-we-rank "Score 71/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: fair (66) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.1k · AGPL-3.0 · Nov 2026</sub>
+
+**Browser editors for documents, sheets, slides, PDF and code, with an AI copilot.**
+
+Source for the five editors behind MR Office, published as React packages on npm (mroffice-docs, -sheets, -slides, -pdf, -code, plus mroffice-core). A playground app and an Electron desktop shell are included, along with an MCP server (mroffice-mcp) that lets agents create, edit and export documents. Word, Excel and PowerPoint files, the full formula engine and the AI copilot depend on the hosted embed or the desktop component, not the AGPL code.
+
+- **+** Five editors ship as separate React npm packages sharing one core package
+- **+** MCP server exposes create, update, get, render and export tools for docx, xlsx, pptx, pdf
+- **+** Hosted embed edits real .docx/.xlsx/.pptx; Free plan allows 1,000 localhost sessions a month
+- **+** Local run is plain npm: install, build, preview on port 5178
+- **−** Open-source editors cannot open Word, Excel or PowerPoint files; that needs the hosted embed
+- **−** Full formula engine, charts and SmartArt editing are outside the AGPL code
+- **−** AGPL-3.0 with extra attribution terms; commercial license needed to avoid them
+- **−** Copilot AI is a hosted service with a daily free allowance, then paid
+
+<sub>TypeScript · Needs Node.js and npm, MR Office hosted embed (for docx/xlsx/pptx), MR Office account (for AI and MCP) · [Repo](https://github.com/xinatian/mroffice) · [▶️ Demo ↗](https://mroffice.ai/en/developers/embed/demo) · [📖 Docs ↗](https://mroffice.ai/en/developers) · [🌐 Site ↗](https://mroffice.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mroffice/)</sub>
+
 <a name="ui-components"></a>
-### #&#8288;9 [ui-components](https://github.com/starc007/ui-components) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (42) · Freshness: active (100) · Maintenance: fair (65) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
+### #&#8288;10 [ui-components](https://github.com/starc007/ui-components) <sub>score [69](../README.md#-how-we-rank "Score 69/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Nov 2026</sub>
 
 **Animated React and Next.js components installed via the shadcn registry.**
 
@@ -164,7 +182,7 @@ beUI is a library of Framer Motion components for React and Next.js, built with 
 <sub>TypeScript · Needs React, Next.js, Tailwind CSS, Framer Motion, shadcn/ui CLI, Bun (to run the repo locally) · env example file · [Repo](https://github.com/starc007/ui-components) · [📖 Docs ↗](https://beui.dev/docs/ai-agents) · [🌐 Site ↗](https://beui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-components/)</sub>
 
 <a name="andesine"></a>
-### #&#8288;10 [andesine](https://github.com/vriteio/andesine) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: known (39) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
+### #&#8288;11 [andesine](https://github.com/vriteio/andesine) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (35) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
 
 **Collaborative content workspace with structured collections, publishing and an MCP server.**
 
@@ -179,26 +197,8 @@ Andesine is a team content workspace with a real-time Markdown editor, structure
 
 <sub>TypeScript · env example file · [Repo](https://github.com/vriteio/andesine) · [📖 Docs ↗](https://andesine.app/docs) · [🌐 Site ↗](https://andesine.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/andesine/)</sub>
 
-<a name="mroffice"></a>
-### #&#8288;11 [mroffice](https://github.com/xinatian/mroffice) <sub>score [61](../README.md#-how-we-rank "Score 61/100. Adoption: known (33) · Freshness: active (100) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · AGPL-3.0 · Nov 2026</sub>
-
-**Browser editors for documents, sheets, slides, PDF and code, with an AI copilot.**
-
-Source for the five editors behind MR Office, published as React packages on npm (mroffice-docs, -sheets, -slides, -pdf, -code, plus mroffice-core). A playground app and an Electron desktop shell are included, along with an MCP server (mroffice-mcp) that lets agents create, edit and export documents. Word, Excel and PowerPoint files, the full formula engine and the AI copilot depend on the hosted embed or the desktop component, not the AGPL code.
-
-- **+** Five editors ship as separate React npm packages sharing one core package
-- **+** MCP server exposes create, update, get, render and export tools for docx, xlsx, pptx, pdf
-- **+** Hosted embed edits real .docx/.xlsx/.pptx; Free plan allows 1,000 localhost sessions a month
-- **+** Local run is plain npm: install, build, preview on port 5178
-- **−** Open-source editors cannot open Word, Excel or PowerPoint files; that needs the hosted embed
-- **−** Full formula engine, charts and SmartArt editing are outside the AGPL code
-- **−** AGPL-3.0 with extra attribution terms; commercial license needed to avoid them
-- **−** Copilot AI is a hosted service with a daily free allowance, then paid
-
-<sub>TypeScript · Needs Node.js and npm, MR Office hosted embed (for docx/xlsx/pptx), MR Office account (for AI and MCP) · [Repo](https://github.com/xinatian/mroffice) · [▶️ Demo ↗](https://mroffice.ai/en/developers/embed/demo) · [📖 Docs ↗](https://mroffice.ai/en/developers) · [🌐 Site ↗](https://mroffice.ai) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mroffice/)</sub>
-
 <a name="livecodes"></a>
-### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (28) · Freshness: active (98) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: niche (28) · Freshness: active (98) · Maintenance: fair (58) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Browser-based code playground supporting 90+ languages, embeddable via an SDK.**
 

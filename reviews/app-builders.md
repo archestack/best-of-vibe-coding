@@ -165,7 +165,7 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
 
 <a name="raea"></a>
-### #&#8288;10 [raea](https://github.com/shinyobjectz/raea) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · custom license · Nov 2026</sub>
+### #&#8288;10 [raea](https://github.com/shinyobjectz/raea) <sub>score [75](../README.md#-how-we-rank "Score 75/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.2k · custom license · Nov 2026</sub>
 
 **Render video, 3D and games from React and TypeScript on a local GPU.**
 
@@ -183,7 +183,7 @@ raea is a Rust engine with a TypeScript SDK that renders videos, motion graphics
 <sub>TypeScript, Claude, ChatGPT, Kimi, local models · Needs Rust, bun, CMake, Vulkan or DirectX 12 GPU driver, ONNX Runtime · [Repo](https://github.com/shinyobjectz/raea) · [📖 Docs ↗](https://raea.io/learn/) · [🌐 Site ↗](https://raea.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/raea/)</sub>
 
 <a name="loopforge"></a>
-### #&#8288;11 [loopforge](https://github.com/tencent/loopforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · custom license · Nov 2026</sub>
+### #&#8288;11 [loopforge](https://github.com/tencent/loopforge) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (62) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · custom license · Nov 2026</sub>
 
 **Runs coding-agent CLIs in sandboxes with repeatable SOP workflows and approvals.**
 
@@ -466,25 +466,8 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
-<a name="writer-framework"></a>
-### #&#8288;27 [writer-framework](https://github.com/writer/writer-framework) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (22) · Freshness: recent (70) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Sep 2026</sub>
-
-**Python framework with a drag-and-drop visual editor for AI apps.**
-
-Writer Framework lets you build a web UI in a browser-based visual editor and write the backend logic in Python. The CLI covers scaffolding, editing and running (`writer create`, `writer edit`, `writer run`). It keeps UI and business logic separate and supports Python 3.9.2 through 3.12 on Linux, Mac and Windows.
-
-- **+** Visual drag-and-drop editor opens in the browser with `writer edit`
-- **+** Backend is plain Python, with UI kept separate from business logic
-- **+** Installs with `pip install writer`; `writer hello` creates a demo app
-- **+** Apache-2.0 licensed
-- **−** Python support stops at 3.12 per the README
-- **−** Last release is 2024-12-02, far behind the latest commit
-- **−** No Dockerfile or compose file provided
-
-<sub>Python · [Repo](https://github.com/writer/writer-framework) · [📖 Docs ↗](https://dev.writer.com/framework/quickstart) · [🌐 Site ↗](https://www.writer.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/writer-framework/)</sub>
-
 <a name="adorable"></a>
-### #&#8288;28 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (10) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 839 · MIT · Aug 2026</sub>
+### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (10) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 839 · MIT · Aug 2026</sub>
 
 **Prompt-to-app builder running agents in persistent Freestyle VMs.**
 
@@ -500,6 +483,23 @@ Adorable is a Next.js app where a chat agent writes and runs code inside a Frees
 - **−** Base snapshot must be rebuilt with npm run bootstrap when the template changes
 
 <sub>TypeScript, OpenAI, Anthropic · Needs Freestyle VMs (API key), OpenAI or Anthropic API key · [Repo](https://github.com/freestyle-sh/adorable) · [🌐 Site ↗](https://freestyle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adorable/)</sub>
+
+<a name="writer-framework"></a>
+### #&#8288;28 [writer-framework](https://github.com/writer/writer-framework) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: niche (22) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Sep 2026</sub>
+
+**Python framework with a drag-and-drop visual editor for AI apps.**
+
+Writer Framework lets you build a web UI in a browser-based visual editor and write the backend logic in Python. The CLI covers scaffolding, editing and running (`writer create`, `writer edit`, `writer run`). It keeps UI and business logic separate and supports Python 3.9.2 through 3.12 on Linux, Mac and Windows.
+
+- **+** Visual drag-and-drop editor opens in the browser with `writer edit`
+- **+** Backend is plain Python, with UI kept separate from business logic
+- **+** Installs with `pip install writer`; `writer hello` creates a demo app
+- **+** Apache-2.0 licensed
+- **−** Python support stops at 3.12 per the README
+- **−** Last release is 2024-12-02, far behind the latest commit
+- **−** No Dockerfile or compose file provided
+
+<sub>Python · [Repo](https://github.com/writer/writer-framework) · [📖 Docs ↗](https://dev.writer.com/framework/quickstart) · [🌐 Site ↗](https://www.writer.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/writer-framework/)</sub>
 
 <a name="chef"></a>
 ### #&#8288;29 [chef](https://github.com/convex/chef) <sub>score [26](../README.md#-how-we-rank "Score 26/100. Adoption: popular (50) · Freshness: slowing (35) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.6k · Apache-2.0 · Mar 2026</sub>
