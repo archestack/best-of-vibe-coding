@@ -255,7 +255,7 @@ Go backend behind E2B Cloud: a REST API, a per-node orchestrator that drives Fir
 <sub>Go · Needs Linux with KVM, Firecracker, PostgreSQL, Redis, ClickHouse, Object storage, Docker Compose (Embed) · [Repo](https://github.com/e2b-dev/runtime) · [📖 Docs ↗](https://docs.e2b.dev/) · [🌐 Site ↗](https://e2b.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/runtime/)</sub>
 
 <a name="vibesdk"></a>
-### #&#8288;15 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (58) · Freshness: active (91) · Maintenance: patchy (41) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
+### #&#8288;15 [vibesdk](https://github.com/cloudflare/vibesdk) <sub>score [64](../README.md#-how-we-rank "Score 64/100. Adoption: popular (58) · Freshness: active (90) · Maintenance: patchy (41) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.5k · MIT · Oct 2026</sub>
 
 **Self-hosted prompt-to-app platform on Cloudflare Workers and Durable Objects.**
 
@@ -362,7 +362,7 @@ Next.js 14 app that takes a chat prompt, has an LLM generate code, and runs it i
 <sub>TypeScript, OpenAI, Anthropic, Google AI, Google Vertex · Needs E2B API key, LLM provider API key, Supabase (optional, auth), Vercel/Upstash KV (optional), PostHog (optional), Morph API key (optional) · env example file · [Repo](https://github.com/e2b-dev/fragments) · [▶️ Demo ↗](https://fragments.e2b.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/fragments/)</sub>
 
 <a name="openui"></a>
-### #&#8288;21 [wandb/openui](https://github.com/wandb/openui) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (88) · Freshness: recent (79) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Jun 2026</sub>
+### #&#8288;21 [wandb/openui](https://github.com/wandb/openui) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (88) · Freshness: recent (78) · Maintenance: weak (11) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 23k · Apache-2.0 · Jun 2026</sub>
 
 **Describe a UI in text, preview it live, and convert it to React or Svelte.**
 

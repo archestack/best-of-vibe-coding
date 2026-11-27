@@ -2826,7 +2826,7 @@ MCPM is a Python CLI that keeps a single global list of MCP servers, installed f
 <sub>no GPU · Docker · Needs Python 3.10+ · port 6276 · [Repo](https://github.com/pathintegral-institute/mcpm.sh) · [🌐 Site ↗](https://mcpm.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcpm-sh/)</sub>
 
 <a name="claude-task-master"></a>
-### #&#8288;158 [claude-task-master](https://github.com/eyaltoledano/claude-task-master) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (91) · Freshness: recent (63) · Maintenance: weak (8) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · custom license · Apr 2026</sub>
+### #&#8288;158 [claude-task-master](https://github.com/eyaltoledano/claude-task-master) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: widely used (91) · Freshness: recent (62) · Maintenance: weak (8) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 29k · custom license · Apr 2026</sub>
 
 **Task manager that turns a PRD into tasks for AI coding agents.**
 
@@ -3276,7 +3276,7 @@ Python MCP server that gives agents read-only access to Apache Doris over stdio 
 <sub>no GPU · Docker + Compose · Needs Apache Doris 2.0.0+, Python 3.12+ · port 3000 · [Repo](https://github.com/apache/doris-mcp-server) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/doris-mcp-server/)</sub>
 
 <a name="mcp-server-docker"></a>
-### #&#8288;183 [mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (12) · Freshness: active (95) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 762 · GPL-3.0 · Aug 2026</sub>
+### #&#8288;183 [mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: niche (12) · Freshness: active (94) · Maintenance: weak (3) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 762 · GPL-3.0 · Aug 2026</sub>
 
 **MCP server that manages Docker containers, images, networks and volumes from an LLM.**
 
@@ -3312,7 +3312,7 @@ A Model Context Protocol server, written in TypeScript and run with wrangler, th
 <sub>no GPU · Needs oapis.org, Cloudflare Wrangler · [Repo](https://github.com/janwilmake/openapi-mcp-server) · [▶️ Demo ↗](https://x.com/janwilmake/status/1903497808134496583) · [🌐 Site ↗](https://openapi-mcp.openapisearch.com/mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openapi-mcp-server/)</sub>
 
 <a name="mcp-google-sheets"></a>
-### #&#8288;185 [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (22) · Freshness: recent (72) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · May 2026</sub>
+### #&#8288;185 [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) <sub>score [28](../README.md#-how-we-rank "Score 28/100. Adoption: niche (22) · Freshness: recent (71) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.0k · MIT · May 2026</sub>
 
 **MCP server exposing Google Sheets and Drive operations to MCP clients.**
 
@@ -3402,7 +3402,7 @@ A TypeScript MCP server, run with npx over stdio, that gives coding assistants 1
 <sub>no GPU · Needs Node.js, npx, Apple Developer Documentation public endpoints · [Repo](https://github.com/kimsungwhee/apple-docs-mcp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/apple-docs-mcp/)</sub>
 
 <a name="vectorcode"></a>
-### #&#8288;190 [vectorcode](https://github.com/davidyz/vectorcode) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (16) · Freshness: quiet (24) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 875 · MIT · Dec 2025</sub>
+### #&#8288;190 [vectorcode](https://github.com/davidyz/vectorcode) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (16) · Freshness: quiet (23) · Maintenance: weak (17) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 875 · MIT · Dec 2025</sub>
 
 **Code repository indexer that feeds relevant project context to coding LLMs.**
 

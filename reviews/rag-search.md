@@ -469,7 +469,7 @@ A Next.js app that takes a question, pulls results from Brave Search and Serper,
 <sub>TypeScript, groq, openai, ollama, portkey · Needs openai-api-key, groq-api-key, brave-search-api-key, serper-api-key · Docker · env example file · [Repo](https://github.com/developersdigest/llm-answer-engine) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-answer-engine/)</sub>
 
 <a name="ragbits"></a>
-### #&#8288;27 [ragbits](https://github.com/deepsense-ai/ragbits) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (38) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · May 2026</sub>
+### #&#8288;27 [ragbits](https://github.com/deepsense-ai/ragbits) <sub>score [33](../README.md#-how-we-rank "Score 33/100. Adoption: known (38) · Freshness: recent (67) · Maintenance: weak (0) · Agent-ready: none (15) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MIT · May 2026</sub>
 
 **Modular Python toolkit for LLM prompts, RAG ingestion, agents and chat APIs.**
 
@@ -505,7 +505,7 @@ nano-graphrag is a Python library that builds a knowledge graph from text, gener
 <sub>Python, OpenAI, Azure OpenAI, Amazon Bedrock, DeepSeek · Needs OpenAI API key (default), Neo4j (optional) · [Repo](https://github.com/gusye1234/nano-graphrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nano-graphrag/)</sub>
 
 <a name="nextjs-openai-doc-search"></a>
-### #&#8288;29 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (40) · Freshness: recent (61) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
+### #&#8288;29 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: known (40) · Freshness: recent (60) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · Apache-2.0 · May 2026</sub>
 
 **Build-time embeddings of your MDX docs into Supabase pgvector.**
 
@@ -540,7 +540,7 @@ A C# reference app that answers questions over your own documents using Azure Op
 <sub>C#, gpt-4o-mini, Azure OpenAI embedding model, GPT-4V (optional) · Needs Azure OpenAI Service, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Docker · [Repo](https://github.com/azure-samples/azure-search-openai-demo-csharp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo-csharp/)</sub>
 
 <a name="lightningrag"></a>
-### #&#8288;31 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (10) · Freshness: recent (63) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 456 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;31 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (10) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 456 · Apache-2.0 · Apr 2026</sub>
 
 **Go and Vue RAG platform with knowledge bases, agent canvas and admin UI.**
 
@@ -558,7 +558,7 @@ LightningRAG is a Gin (Go) and Vue full-stack app that parses, chunks and embeds
 <sub>Go, Pluggable LLM, embedding, rerank, speech, TTS, OCR providers (list in server/rag/README.md) · Needs MySQL > 5.7, Redis, PostgreSQL with pgvector or Elasticsearch, Node > 18.16, Go >= 1.22 · Docker · [Repo](https://github.com/lightningrag/lightningrag) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lightningrag/)</sub>
 
 <a name="natural-language-postgres"></a>
-### #&#8288;32 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (6) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;32 [natural-language-postgres](https://github.com/vercel-labs/natural-language-postgres) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (6) · Freshness: recent (54) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 333 · Apache-2.0 · Apr 2026</sub>
 
 **Next.js text-to-SQL over Postgres with auto-picked charts.**
 

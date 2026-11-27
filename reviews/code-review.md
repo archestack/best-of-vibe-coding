@@ -862,7 +862,7 @@ OpenQodex reviews unpushed commits and uncommitted changes on your machine. It r
 <sub>no GPU · Needs Node 22+, git, Claude Code or Codex (logged in), osv.dev (network) · Models: Claude Code, Codex · [Repo](https://github.com/openqodex/openqodex) · [📖 Docs ↗](https://github.com/openqodex/openqodex/blob/main/docs/index.md) · [🌐 Site ↗](https://openqodex.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/openqodex/)</sub>
 
 <a name="pre-commit-hooks"></a>
-### #&#8288;49 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (65) · Freshness: recent (76) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
+### #&#8288;49 [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: popular (65) · Freshness: recent (75) · Maintenance: fair (58) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Nov 2026</sub>
 
 **Collection of file-hygiene and syntax-check hooks for the pre-commit framework.**
 
