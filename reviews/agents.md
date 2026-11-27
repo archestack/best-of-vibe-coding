@@ -1025,7 +1025,7 @@ Tucano is an Electron desktop app that runs a team of agents in chat channels, w
 <sub>TypeScript, Claude Code, Codex, Cursor CLI, Grok · Needs Claude Code, Codex, Cursor CLI, Grok, Cline, Hermes, OpenCode or Pi CLI, Docker (optional, agent Linux computer), Chrome or Chromium (optional), Git for Windows (Windows), Telegram bot (optional, phone approvals) · Docker · [Repo](https://github.com/eduwxyz/tucano) · [🌐 Site ↗](https://tucano.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tucano/)</sub>
 
 <a name="hermes-workspace"></a>
-### #&#8288;58 [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (79) · Freshness: active (97) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Aug 2026</sub>
+### #&#8288;58 [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) <sub>score [56](../README.md#-how-we-rank "Score 56/100. Adoption: popular (79) · Freshness: active (96) · Maintenance: weak (2) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.8k · MIT · Aug 2026</sub>
 
 **Web UI for Hermes Agent with chat, memory, skills, files and terminal.**
 
@@ -1222,26 +1222,8 @@ Reference app where agents extract customer preferences, recommend destinations 
 
 <sub>TypeScript, Phi4 14B (Docker Model Runner), Azure OpenAI, Microsoft Foundry · Needs Docker, Docker Model Runner, Node.js 22+, Azure Container Apps, Azure OpenAI or Microsoft Foundry · [Repo](https://github.com/azure-samples/azure-ai-travel-agents) · [📖 Docs ↗](https://github.com/Azure-Samples/azure-ai-travel-agents/blob/main/docs/advanced-setup.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-ai-travel-agents/)</sub>
 
-<a name="danghuangshang"></a>
-### #&#8288;69 [danghuangshang](https://github.com/wanikua/danghuangshang) <sub>score [48](../README.md#-how-we-rank "Score 48/100. Adoption: popular (57) · Freshness: recent (68) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · May 2026</sub>
-
-**Multi-agent team on OpenClaw, modeled on Ming ministries, run from Discord.**
-
-Installer and config templates that set up 14 to 18 role-based agents (dispatcher, prompt refiner, six ministries, code reviewer) on the OpenClaw framework. You @mention an agent in Discord or Feishu and tasks route through the hierarchy. Three org presets (Ming, Tang, modern CEO) can be switched by script. A React dashboard on port 18795 and a Hermes Agent runtime option are included.
-
-- **+** Three org presets switchable with scripts/switch-regime.sh, each agent with its own memory
-- **+** Supports Anthropic, OpenAI, Gemini and DeepSeek; models can differ per agent
-- **+** Memory backup script uses sqlite3 .backup with daily, weekly and monthly retention
-- **+** Multi-arch Docker image (amd64, arm64) plus local, remote and lite install scripts
-- **−** Depends on the OpenClaw framework; not usable standalone
-- **−** Discord multi-bot setup needs allowBots set to mentions or bots loop
-- **−** Main README is Chinese; English and Japanese versions are separate files
-- **−** Install relies on curl-piped shell scripts; README advises a cloud server
-
-<sub>TypeScript, Anthropic, OpenAI, Gemini, DeepSeek · Needs OpenClaw, Discord bot token or Feishu app, LLM API key, Docker (optional), Notion (optional) · Docker · [Repo](https://github.com/wanikua/danghuangshang) · [📖 Docs ↗](https://github.com/wanikua/danghuangshang/blob/main/docs/README.md) · [🌐 Site ↗](https://danghuangshang.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/danghuangshang/)</sub>
-
 <a name="mcp-ui"></a>
-### #&#8288;70 [mcp-ui](https://github.com/mcp-ui-org/mcp-ui) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (73) · Freshness: active (85) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Jul 2026</sub>
+### #&#8288;69 [mcp-ui](https://github.com/mcp-ui-org/mcp-ui) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (73) · Freshness: active (85) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · Apache-2.0 · Jul 2026</sub>
 
 **SDK for returning interactive UI from MCP tools and rendering it in hosts.**
 
@@ -1257,6 +1239,24 @@ mcp-ui implements the MCP Apps standard for UI over MCP. Server packages (TypeSc
 - **−** ChatGPT needs the adapter rather than working natively
 
 <sub>TypeScript · Needs @modelcontextprotocol/ext-apps, @modelcontextprotocol/sdk · [Repo](https://github.com/mcp-ui-org/mcp-ui) · [▶️ Demo ↗](https://scira-mcp-chat-git-main-idosals-projects.vercel.app/) · [📖 Docs ↗](https://mcpui.dev/guide/server/typescript/walkthrough) · [🌐 Site ↗](https://mcpui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-ui/)</sub>
+
+<a name="danghuangshang"></a>
+### #&#8288;70 [danghuangshang](https://github.com/wanikua/danghuangshang) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: popular (57) · Freshness: recent (68) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · May 2026</sub>
+
+**Multi-agent team on OpenClaw, modeled on Ming ministries, run from Discord.**
+
+Installer and config templates that set up 14 to 18 role-based agents (dispatcher, prompt refiner, six ministries, code reviewer) on the OpenClaw framework. You @mention an agent in Discord or Feishu and tasks route through the hierarchy. Three org presets (Ming, Tang, modern CEO) can be switched by script. A React dashboard on port 18795 and a Hermes Agent runtime option are included.
+
+- **+** Three org presets switchable with scripts/switch-regime.sh, each agent with its own memory
+- **+** Supports Anthropic, OpenAI, Gemini and DeepSeek; models can differ per agent
+- **+** Memory backup script uses sqlite3 .backup with daily, weekly and monthly retention
+- **+** Multi-arch Docker image (amd64, arm64) plus local, remote and lite install scripts
+- **−** Depends on the OpenClaw framework; not usable standalone
+- **−** Discord multi-bot setup needs allowBots set to mentions or bots loop
+- **−** Main README is Chinese; English and Japanese versions are separate files
+- **−** Install relies on curl-piped shell scripts; README advises a cloud server
+
+<sub>TypeScript, Anthropic, OpenAI, Gemini, DeepSeek · Needs OpenClaw, Discord bot token or Feishu app, LLM API key, Docker (optional), Notion (optional) · Docker · [Repo](https://github.com/wanikua/danghuangshang) · [📖 Docs ↗](https://github.com/wanikua/danghuangshang/blob/main/docs/README.md) · [🌐 Site ↗](https://danghuangshang.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/danghuangshang/)</sub>
 
 <a name="knowledge-agent-template"></a>
 ### #&#8288;71 [knowledge-agent-template](https://github.com/vercel-labs/knowledge-agent-template) <sub>score [47](../README.md#-how-we-rank "Score 47/100. Adoption: known (31) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.1k · MIT · Nov 2026</sub>
@@ -1501,7 +1501,7 @@ deer-workflow is a Bun-based CLI and library where TypeScript modules define the
 <sub>TypeScript, Codex CLI, Claude Code, Pi · Needs Bun, Codex CLI, Claude Code (optional), Pi (optional) · [Repo](https://github.com/deerwork-ai/deer-workflow) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/deer-workflow/)</sub>
 
 <a name="code-mode"></a>
-### #&#8288;85 [code-mode](https://github.com/universal-tool-calling-protocol/code-mode) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (45) · Freshness: active (84) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MPL-2.0 · Aug 2026</sub>
+### #&#8288;85 [code-mode](https://github.com/universal-tool-calling-protocol/code-mode) <sub>score [38](../README.md#-how-we-rank "Score 38/100. Adoption: known (45) · Freshness: active (83) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.7k · MPL-2.0 · Aug 2026</sub>
 
 **TypeScript library that lets an LLM call many tools through one code-execution tool.**
 
@@ -1678,7 +1678,7 @@ A Cloudflare Workers control plane that receives Claude Managed Agents webhooks 
 <sub>TypeScript, Claude (Anthropic) · Needs Cloudflare Workers Paid plan, Cloudflare D1, Cloudflare KV, Cloudflare R2, Durable Objects, Anthropic API, Docker (terminal deploy) · Docker · [Repo](https://github.com/cloudflare/claude-managed-agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/claude-managed-agents/)</sub>
 
 <a name="nanoagent"></a>
-### #&#8288;95 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [18](../README.md#-how-we-rank "Score 18/100. Adoption: niche (20) · Freshness: slowing (39) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 789 · MIT · Mar 2026</sub>
+### #&#8288;95 [nanoagent](https://github.com/sanbuphy/nanoagent) <sub>score [17](../README.md#-how-we-rank "Score 17/100. Adoption: niche (20) · Freshness: slowing (39) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 789 · MIT · Mar 2026</sub>
 
 **Single-file Python agent loop with bash, read and write tools.**
 
@@ -1713,7 +1713,7 @@ Go 1.24+ template on mcp-go that runs as an HTTP or stdio MCP server from a YAML
 <sub>Go, mcp-go · Needs OIDC provider (e.g. Keycloak), Kubernetes for the Helm chart (optional) · GitHub template · Docker · [Repo](https://github.com/achetronic/mcp-forge) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/mcp-forge/)</sub>
 
 <a name="stockbot-on-groq"></a>
-### #&#8288;97 [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: known (40) · Freshness: quiet (9) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
+### #&#8288;97 [stockbot-on-groq](https://github.com/bklieger-groq/stockbot-on-groq) <sub>score [14](../README.md#-how-we-rank "Score 14/100. Adoption: known (40) · Freshness: quiet (8) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · Apache-2.0 · Dec 2025</sub>
 
 **Groq chatbot answering with TradingView widgets via AI SDK generative UI.**
 

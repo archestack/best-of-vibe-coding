@@ -1,5 +1,5 @@
 # Generated. CC BY 4.0 (see LICENSE-DATA). Do not edit by hand; use the issue forms.
-updated_at: 2026-11-26
+updated_at: 2026-11-27
 entries:
   - id: openai-fm
     repo: openai/openai-fm
@@ -2120,7 +2120,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 50
+    score: 49
   - id: jeecgboot
     repo: jeecgboot/jeecgboot
     name: jeecgboot
@@ -2804,7 +2804,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 64
+    score: 63
   - id: hackathon-starter
     repo: sahat/hackathon-starter
     name: hackathon-starter
@@ -6342,7 +6342,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 27
+    score: 26
   - id: figma-context-mcp
     repo: glips/figma-context-mcp
     name: figma-context-mcp
@@ -7285,7 +7285,7 @@ entries:
       has_compose: false
       is_template: false
       language: Vim Script
-    score: 30
+    score: 29
   - id: artemis
     repo: google/artemis
     name: artemis
@@ -19180,7 +19180,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 34
+    score: 33
   - id: memsearch
     repo: zilliztech/memsearch
     name: memsearch
@@ -20551,7 +20551,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 67
+    score: 66
   - id: ripwire
     repo: redhat-et/ripwire
     name: ripwire
@@ -22654,7 +22654,7 @@ entries:
       has_compose: false
       is_template: false
       language: Rust
-    score: 31
+    score: 30
   - id: design-dna
     repo: zanwei/design-dna
     name: design-dna
@@ -30355,7 +30355,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 37
+    score: 36
   - id: repository-harness
     repo: hoangnb24/repository-harness
     name: repository-harness
@@ -35784,7 +35784,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 45
+    score: 44
   - id: auto-dev
     repo: phodal/auto-dev
     name: auto-dev
@@ -37083,7 +37083,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 38
+    score: 37
   - id: js-reverse-mcp
     repo: zhizhuodemao/js-reverse-mcp
     name: js-reverse-mcp
@@ -39466,7 +39466,7 @@ entries:
       has_compose: true
       is_template: false
       language: TypeScript
-    score: 48
+    score: 47
   - id: api-anything
     repo: goodnight000/api-anything
     name: api-anything
@@ -46681,7 +46681,7 @@ entries:
       has_compose: true
       is_template: false
       language: Go
-    score: 44
+    score: 43
   - id: micronaut-core
     repo: micronaut-projects/micronaut-core
     name: micronaut-core
@@ -47613,7 +47613,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 17
+    score: 16
   - id: boardui
     repo: boardui/boardui
     name: boardui
@@ -49317,7 +49317,7 @@ entries:
       has_compose: false
       is_template: false
       language: C
-    score: 54
+    score: 53
   - id: codex-security
     repo: openai/codex-security
     name: codex-security
@@ -54468,7 +54468,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 18
+    score: 17
   - id: ant-design-pro-blazor
     repo: ant-design-blazor/ant-design-pro-blazor
     name: ant-design-pro-blazor
@@ -54866,7 +54866,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 41
+    score: 40
   - id: mysti
     repo: deepmyst/mysti
     name: mysti
@@ -56806,7 +56806,7 @@ entries:
       has_compose: false
       is_template: false
       language: Shell
-    score: 30
+    score: 29
   - id: threejs-skills
     repo: cloudai-x/threejs-skills
     name: threejs-skills
@@ -58443,7 +58443,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 18
+    score: 17
   - id: stash
     repo: alash3al/stash
     name: stash
@@ -60385,7 +60385,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 46
+    score: 45
   - id: godogen
     repo: htdt/godogen
     name: godogen
@@ -61631,7 +61631,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 74
+    score: 73
   - id: meteor
     repo: meteor/meteor
     name: meteor
@@ -63673,7 +63673,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 35
+    score: 34
   - id: graperoot
     repo: kunal12203/graperoot
     name: graperoot
@@ -63980,7 +63980,7 @@ entries:
       has_compose: false
       is_template: false
       language: Go
-    score: 40
+    score: 39
   - id: tortoise-orm
     repo: tortoise/tortoise-orm
     name: tortoise-orm
@@ -65161,7 +65161,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 42
+    score: 41
   - id: product-engineering
     repo: phuryn/product-engineering
     name: product-engineering
@@ -70885,7 +70885,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 26
+    score: 25
   - id: bootstrap-admin-template
     repo: puikinsh/bootstrap-admin-template
     name: bootstrap-admin-template
@@ -71326,7 +71326,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 25
+    score: 24
   - id: readyset
     repo: readysettech/readyset
     name: readyset
@@ -71410,7 +71410,7 @@ entries:
       has_compose: false
       is_template: false
       language: TypeScript
-    score: 48
+    score: 47
   - id: codegen
     repo: salesforce/codegen
     name: codegen
@@ -74302,7 +74302,7 @@ entries:
       has_compose: true
       is_template: false
       language: Shell
-    score: 36
+    score: 35
   - id: async
     repo: x-man-git/async
     name: async
@@ -76574,7 +76574,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 29
+    score: 28
   - id: agentbox
     repo: savannahfeder/agentbox
     name: agentbox
@@ -77550,7 +77550,7 @@ entries:
       has_compose: false
       is_template: false
       language: Swift
-    score: 38
+    score: 37
   - id: wrangler-action
     repo: cloudflare/wrangler-action
     name: wrangler-action
@@ -83541,7 +83541,7 @@ entries:
       has_compose: false
       is_template: false
       language: Java
-    score: 35
+    score: 34
   - id: spring-boot-jwt
     repo: murraco/spring-boot-jwt
     name: spring-boot-jwt
@@ -84895,7 +84895,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 20
+    score: 19
   - id: juggler
     repo: juggler-ai/juggler
     name: juggler
@@ -88703,7 +88703,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 36
+    score: 35
   - id: mern-authentication
     repo: flaviuse/mern-authentication
     name: mern-authentication
@@ -89436,7 +89436,7 @@ entries:
       has_compose: false
       is_template: false
       language: Python
-    score: 37
+    score: 36
   - id: dashboard-design-skill
     repo: abdiraimov-otabek/dashboard-design-skill
     name: dashboard-design-skill
@@ -89887,7 +89887,7 @@ entries:
       has_compose: false
       is_template: false
       language: JavaScript
-    score: 31
+    score: 30
   - id: yobiru
     repo: chekusu/yobiru
     name: yobiru
@@ -99954,7 +99954,7 @@ entries:
       has_compose: false
       is_template: true
       language: TypeScript
-    score: 33
+    score: 32
   - id: extro
     repo: turbostarter/extro
     name: extro
