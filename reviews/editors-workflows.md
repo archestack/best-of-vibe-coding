@@ -58,7 +58,7 @@ Penpot is a browser-based design and prototyping platform that stores designs in
 <sub>Clojure · Docker · env example file · [Repo](https://github.com/penpot/penpot) · [▶️ Demo ↗](https://design.penpot.app) · [📖 Docs ↗](https://help.penpot.app/technical-guide/) · [🌐 Site ↗](https://penpot.app/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/penpot/)</sub>
 
 <a name="next-ai-draw-io"></a>
-### #&#8288;4 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [87](../README.md#-how-we-rank "Score 87/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (97) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;4 [next-ai-draw-io](https://github.com/dayuanjiang/next-ai-draw-io) <sub>score [88](../README.md#-how-we-rank "Score 88/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 37k · Apache-2.0 · Nov 2026</sub>
 
 **Chat with an AI to create and edit draw.io diagrams.**
 
@@ -146,7 +146,7 @@ Builder.io is a visual development platform that connects to an existing site or
 <sub>TypeScript · Needs Builder.io account · [Repo](https://github.com/builderio/builder) · [📖 Docs ↗](https://www.builder.io/c/docs/developers) · [🌐 Site ↗](https://builder.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/builder/)</sub>
 
 <a name="mroffice"></a>
-### #&#8288;9 [mroffice](https://github.com/xinatian/mroffice) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · AGPL-3.0 · Nov 2026</sub>
+### #&#8288;9 [mroffice](https://github.com/xinatian/mroffice) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (58) · Freshness: active (100) · Maintenance: fair (67) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.3k · AGPL-3.0 · Nov 2026</sub>
 
 **Browser editors for documents, sheets, slides, PDF and code, with an AI copilot.**
 
@@ -181,26 +181,8 @@ beUI is a library of Framer Motion components for React and Next.js, built with 
 
 <sub>TypeScript · Needs React, Next.js, Tailwind CSS, Framer Motion, shadcn/ui CLI, Bun (to run the repo locally) · env example file · [Repo](https://github.com/starc007/ui-components) · [📖 Docs ↗](https://beui.dev/docs/ai-agents) · [🌐 Site ↗](https://beui.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ui-components/)</sub>
 
-<a name="form-builder"></a>
-### #&#8288;11 [form-builder](https://github.com/shadcn-labs/form-builder) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (46) · Freshness: active (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
-
-**Visual playground that generates shadcn form code with Zod validation.**
-
-Next.js app where you assemble a form from field types and get generated React Hook Form or TanStack Form code with Zod validation. It also publishes extra form components (phone input, multi select, credit card, signature pad) and templates as a shadcn registry, installable with `npx shadcn@latest add`. The README does not describe any AI features.
-
-- **+** Generates code for either React Hook Form or TanStack Form
-- **+** Components install through the shadcn CLI into Radix and Base UI projects
-- **+** Field types are one module each, so adding a new one is contained
-- **+** Registry dependencies are checked against imports by a test
-- **−** No AI functionality described, so it is a loose fit for this list
-- **−** Tied to React, Next.js, Tailwind and shadcn/ui
-- **−** No tagged releases
-- **−** Submission example posts to /api/form-submit, with no backend described
-
-<sub>TypeScript · Needs Node.js, pnpm, Next.js, Zod, Tailwind CSS, shadcn/ui · [Repo](https://github.com/shadcn-labs/form-builder) · [▶️ Demo ↗](https://www.shadcn-form.com/) · [📖 Docs ↗](https://www.shadcn-form.com/components) · [🌐 Site ↗](https://www.shadcn-form.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/form-builder/)</sub>
-
 <a name="andesine"></a>
-### #&#8288;12 [andesine](https://github.com/vriteio/andesine) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
+### #&#8288;11 [andesine](https://github.com/vriteio/andesine) <sub>score [63](../README.md#-how-we-rank "Score 63/100. Adoption: known (36) · Freshness: active (100) · Maintenance: fair (75) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · custom license · Nov 2026</sub>
 
 **Collaborative content workspace with structured collections, publishing and an MCP server.**
 
@@ -216,7 +198,7 @@ Andesine is a team content workspace with a real-time Markdown editor, structure
 <sub>TypeScript · env example file · [Repo](https://github.com/vriteio/andesine) · [📖 Docs ↗](https://andesine.app/docs) · [🌐 Site ↗](https://andesine.app) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/andesine/)</sub>
 
 <a name="livecodes"></a>
-### #&#8288;13 [livecodes](https://github.com/live-codes/livecodes) <sub>score [60](../README.md#-how-we-rank "Score 60/100. Adoption: niche (30) · Freshness: active (98) · Maintenance: fair (62) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
+### #&#8288;12 [livecodes](https://github.com/live-codes/livecodes) <sub>score [59](../README.md#-how-we-rank "Score 59/100. Adoption: niche (30) · Freshness: active (98) · Maintenance: fair (60) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.5k · MIT · Nov 2026</sub>
 
 **Browser-based code playground supporting 90+ languages, embeddable via an SDK.**
 
@@ -232,6 +214,24 @@ LiveCodes is a client-side code playground that compiles and runs React, Vue, Sv
 - **−** Not a template; it is a full app to embed or host, not fork
 
 <sub>TypeScript · Needs static file server · Docker · [Repo](https://github.com/live-codes/livecodes) · [▶️ Demo ↗](https://livecodes.io) · [📖 Docs ↗](https://livecodes.io/docs) · [🌐 Site ↗](https://livecodes.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/livecodes/)</sub>
+
+<a name="form-builder"></a>
+### #&#8288;13 [form-builder](https://github.com/shadcn-labs/form-builder) <sub>score [58](../README.md#-how-we-rank "Score 58/100. Adoption: known (46) · Freshness: active (100) · Maintenance: patchy (49) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.7k · MIT · Oct 2026</sub>
+
+**Visual playground that generates shadcn form code with Zod validation.**
+
+Next.js app where you assemble a form from field types and get generated React Hook Form or TanStack Form code with Zod validation. It also publishes extra form components (phone input, multi select, credit card, signature pad) and templates as a shadcn registry, installable with `npx shadcn@latest add`. The README does not describe any AI features.
+
+- **+** Generates code for either React Hook Form or TanStack Form
+- **+** Components install through the shadcn CLI into Radix and Base UI projects
+- **+** Field types are one module each, so adding a new one is contained
+- **+** Registry dependencies are checked against imports by a test
+- **−** No AI functionality described, so it is a loose fit for this list
+- **−** Tied to React, Next.js, Tailwind and shadcn/ui
+- **−** No tagged releases
+- **−** Submission example posts to /api/form-submit, with no backend described
+
+<sub>TypeScript · Needs Node.js, pnpm, Next.js, Zod, Tailwind CSS, shadcn/ui · [Repo](https://github.com/shadcn-labs/form-builder) · [▶️ Demo ↗](https://www.shadcn-form.com/) · [📖 Docs ↗](https://www.shadcn-form.com/components) · [🌐 Site ↗](https://www.shadcn-form.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/form-builder/)</sub>
 
 <a name="plate-playground-template"></a>
 ### #&#8288;14 [plate-playground-template](https://github.com/udecode/plate-playground-template) <sub>score [52](../README.md#-how-we-rank "Score 52/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: patchy (41) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 243 · MIT · Nov 2026</sub>
