@@ -95,7 +95,7 @@ Xberg is a Rust engine that detects and reads 107 document formats (PDF, Office,
 <sub>Rust, Whisper ONNX (tiny to large-v3), PaddleOCR, PP-DocLayout-V3, RT-DETR · Needs Tesseract (optional OCR backend), Ollama, LM Studio, vLLM or hosted LLM (structured extraction) · Docker · [Repo](https://github.com/xberg-io/xberg) · [▶️ Demo ↗](https://docs.xberg.io/demo.html) · [📖 Docs ↗](https://docs.xberg.io) · [🌐 Site ↗](https://xberg.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/xberg/)</sub>
 
 <a name="auto-ontology"></a>
-### #&#8288;6 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;6 [auto-ontology](https://github.com/nvidia/auto-ontology) <sub>score [81](../README.md#-how-we-rank "Score 81/100. Adoption: widely used (85) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 16k · Apache-2.0 · Nov 2026</sub>
 
 **Ontology layer that grounds text-to-SQL agents in certified business definitions.**
 
@@ -113,7 +113,7 @@ Generates an ontology of terms, SQL attributes and relationships from database m
 <sub>Python, NVIDIA NIM (Nemotron), OpenAI-compatible endpoints, self-hosted NIM · Needs PostgreSQL 17 with pgvector, NVIDIA NIM endpoint or OpenAI-compatible LLM, Docker Compose or Kubernetes (Helm), HashiCorp Vault (optional) · Docker · env example file · [Repo](https://github.com/nvidia/auto-ontology) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/auto-ontology/)</sub>
 
 <a name="azure-search-openai-demo"></a>
-### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (72) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
+### #&#8288;7 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) <sub>score [80](../README.md#-how-we-rank "Score 80/100. Adoption: popular (73) · Freshness: active (100) · Maintenance: healthy (83) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 7.8k · MIT · Nov 2026</sub>
 
 **RAG chat app over your documents using Azure OpenAI and Azure AI Search.**
 
@@ -149,7 +149,7 @@ ParadeDB is a Rust Postgres extension that adds a custom index for BM25 full-tex
 <sub>Rust · Needs PostgreSQL · Docker · [Repo](https://github.com/paradedb/paradedb) · [📖 Docs ↗](https://www.paradedb.com/docs/start/introduction) · [🌐 Site ↗](https://paradedb.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/paradedb/)</sub>
 
 <a name="qmd"></a>
-### #&#8288;9 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (93) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Nov 2026</sub>
+### #&#8288;9 [qmd](https://github.com/tobi/qmd) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: widely used (94) · Freshness: active (100) · Maintenance: fair (54) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 32k · MIT · Nov 2026</sub>
 
 **Local hybrid search over markdown notes and docs, with CLI and MCP server.**
 
@@ -202,7 +202,7 @@ zg indexes a project into a .zvec-grep/ directory and searches it with exact tex
 <sub>Rust, local/potion-retrieval-32m, Qwen3.7 Text Embedding · Needs Node.js/npm for install, zvec · [Repo](https://github.com/zvec-ai/zvec-grep) · [📖 Docs ↗](https://zvec.org/en/docs/zvec-grep/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/zvec-grep/)</sub>
 
 <a name="chinese-poetry-api"></a>
-### #&#8288;12 [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (53) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · GPL-3.0 · Nov 2026</sub>
+### #&#8288;12 [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (54) · Freshness: active (100) · Maintenance: healthy (89) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.7k · GPL-3.0 · Nov 2026</sub>
 
 **Chinese classical poetry API with REST, GraphQL, MCP and optional semantic search.**
 
@@ -220,7 +220,7 @@ Go service that serves about 400,000 Chinese poems (Tang poetry, Song ci, Yuan q
 <sub>Go, bge-m3 · Needs SQLite with FTS5, Ollama or OpenAI-compatible embeddings API (optional, semantic search), Git submodules (dataset) · Docker · env example file · [Repo](https://github.com/palemoky/chinese-poetry-api) · [▶️ Demo ↗](https://poetry.palemoky.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chinese-poetry-api/)</sub>
 
 <a name="spiceai"></a>
-### #&#8288;13 [spiceai](https://github.com/spiceai/spiceai) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: known (50) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;13 [spiceai](https://github.com/spiceai/spiceai) <sub>score [73](../README.md#-how-we-rank "Score 73/100. Adoption: popular (50) · Freshness: active (100) · Maintenance: fair (79) · Agent-ready: minimal (45) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.1k · Apache-2.0 · Nov 2026</sub>
 
 **Rust SQL engine that federates, accelerates and searches data for AI apps.**
 
@@ -238,7 +238,7 @@ Spice is a single Rust binary (spiced) built on DataFusion and Arrow that connec
 <sub>Rust, OpenAI, Anthropic, xAI, AWS Bedrock · Docker · [Repo](https://github.com/spiceai/spiceai) · [📖 Docs ↗](https://spiceai.org/docs) · [🌐 Site ↗](https://spiceai.org) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/spiceai/)</sub>
 
 <a name="redisearch"></a>
-### #&#8288;14 [redisearch](https://github.com/redisearch/redisearch) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (67) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · custom license · Nov 2026</sub>
+### #&#8288;14 [redisearch](https://github.com/redisearch/redisearch) <sub>score [72](../README.md#-how-we-rank "Score 72/100. Adoption: popular (68) · Freshness: active (100) · Maintenance: patchy (45) · Agent-ready: ready (85) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.2k · custom license · Nov 2026</sub>
 
 **Redis module for secondary indexing, full-text and vector search.**
 
@@ -274,7 +274,7 @@ Documentation assistant that answers questions about LangChain, LangGraph and La
 <sub>Python, Anthropic (or another provider) · Needs Managed Deep Agents (mda), Supabase, Pylon, LangSmith, Anthropic API key (or another provider) · env example file · [Repo](https://github.com/langchain-ai/chat-langchain) · [📖 Docs ↗](https://docs.langchain.com/oss/python/langchain/overview) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-langchain/)</sub>
 
 <a name="rag-api"></a>
-### #&#8288;16 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (27) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
+### #&#8288;16 [rag-api](https://github.com/librechat-ai/rag-api) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (28) · Freshness: active (100) · Maintenance: patchy (48) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 928 · MIT · Nov 2026</sub>
 
 **FastAPI service for per-file document embedding and retrieval on pgvector.**
 
@@ -292,7 +292,7 @@ Async FastAPI and Langchain service that ingests documents, embeds them under a 
 <sub>Python, OpenAI, Azure OpenAI, AWS Bedrock, Google GenAI · Needs PostgreSQL with pgvector (or Atlas MongoDB), Embedding provider API (OpenAI by default) · Docker · [Repo](https://github.com/librechat-ai/rag-api) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-api/)</sub>
 
 <a name="launchstack"></a>
-### #&#8288;17 [launchstack](https://github.com/deodat-lawson/launchstack) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (25) · Freshness: active (97) · Maintenance: patchy (40) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;17 [launchstack](https://github.com/deodat-lawson/launchstack) <sub>score [53](../README.md#-how-we-rank "Score 53/100. Adoption: niche (26) · Freshness: active (96) · Maintenance: patchy (40) · Agent-ready: minimal (40) (each out of 100, weighted). Click for how we rank.") · ⭐ 898 · Apache-2.0 · Nov 2026</sub>
 
 **TypeScript engine for document ingestion, OCR, hybrid RAG and knowledge graphs.**
 
@@ -328,7 +328,7 @@ Deploys a React frontend, a FastAPI backend and an Azure Functions ingestion wor
 <sub>Python, Azure AI Foundry chat and embedding models · Needs Azure AI Foundry, Azure AI Search, Azure Cosmos DB, Azure Database for PostgreSQL, Azure Document Intelligence, Azure Storage, Azure Container Apps, Azure Functions, Azure Content Safety, Azure AI Speech · Docker · env example file · [Repo](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) · [📖 Docs ↗](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/main/docs/DeploymentGuide.md) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chat-with-your-data-solution-accelerator/)</sub>
 
 <a name="langchainrb"></a>
-### #&#8288;19 [langchainrb](https://github.com/patterns-ai-core/langchainrb) <sub>score [50](../README.md#-how-we-rank "Score 50/100. Adoption: known (43) · Freshness: recent (70) · Maintenance: fair (55) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
+### #&#8288;19 [langchainrb](https://github.com/patterns-ai-core/langchainrb) <sub>score [51](../README.md#-how-we-rank "Score 51/100. Adoption: known (44) · Freshness: recent (70) · Maintenance: fair (55) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.0k · MIT · Oct 2026</sub>
 
 **Ruby library for LLM calls, RAG, vector search and tool-using assistants.**
 
@@ -346,7 +346,7 @@ Langchain.rb is a Ruby gem that wraps LLM providers behind one interface for emb
 <sub>Ruby, Anthropic, AWS Bedrock, Azure OpenAI, Cohere · Needs Ruby, LLM provider API key or Ollama, vector database client gem (optional) · env example file · [Repo](https://github.com/patterns-ai-core/langchainrb) · [📖 Docs ↗](http://rubydoc.info/gems/langchainrb) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/langchainrb/)</sub>
 
 <a name="supabaseauthwithssr"></a>
-### #&#8288;20 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (8) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
+### #&#8288;20 [SupabaseAuthWithSSR](https://github.com/electriccodeguy/supabaseauthwithssr) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: niche (9) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 397 · MIT · Oct 2026</sub>
 
 **Claude chat on Next.js 16 with Supabase auth, pgvector RAG, cost dashboards.**
 
@@ -381,26 +381,8 @@ Orama is a TypeScript search engine that runs in the browser, Node, Deno or Bun.
 
 <sub>TypeScript, OpenAI chat models via secure proxy (e.g. gpt-4o-mini), TensorFlow.js embeddings (512-dimension) · Needs OpenAI API (optional, for chat answers), TensorFlow.js (optional, for embeddings plugin) · [Repo](https://github.com/oramasearch/orama) · [📖 Docs ↗](https://docs.orama.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/orama/)</sub>
 
-<a name="serverless-chat-langchainjs"></a>
-### #&#8288;22 [serverless-chat-langchainjs](https://github.com/azure-samples/serverless-chat-langchainjs) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (22) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 869 · MIT · Oct 2026</sub>
-
-**RAG chatbot sample on Azure Functions, Cosmos DB and LangChain.js.**
-
-A TypeScript sample that answers questions over PDF documents using LangChain.js, with a Lit chat web component on Azure Static Web Apps and an Azure Functions API. Azure Cosmos DB for NoSQL stores vectors and per-user chat history, and Blob Storage holds the source files. It runs against Azure OpenAI or locally with Ollama (llama3.1 and nomic-embed-text).
-
-- **+** Full path wired: ingestion, vector store, retrieval, chat history and web UI
-- **+** Runs locally with Ollama, so no cloud cost for testing
-- **+** One-command Azure deploy with azd up, plus optional CI/CD via azd pipeline config
-- **+** Uses the HTTP protocol for AI chat apps between web app and API
-- **−** Tied to Azure services: Functions, Static Web Apps, Cosmos DB, Blob Storage
-- **−** Azure deploy needs Azure OpenAI access and role-assignment permissions
-- **−** Local Ollama models may not follow citation and follow-up question formatting
-- **−** Sample data is a fictitious company; ingestion is shown for PDFs in /data
-
-<sub>TypeScript, Azure OpenAI, Ollama llama3.1, Ollama nomic-embed-text · Needs Azure Static Web Apps, Azure Functions, Azure Cosmos DB for NoSQL, Azure Blob Storage, Azure OpenAI, Azure Developer CLI, Node.js 20+, Ollama (local mode) · [Repo](https://github.com/azure-samples/serverless-chat-langchainjs) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/javascript/ai/get-started-app-chat-template-langchainjs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-chat-langchainjs/)</sub>
-
 <a name="llm-apps-java-spring-ai"></a>
-### #&#8288;23 [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (18) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 790 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;22 [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) <sub>score [44](../README.md#-how-we-rank "Score 44/100. Adoption: niche (19) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 790 · Apache-2.0 · Nov 2026</sub>
 
 **Spring AI sample projects for chat, RAG, tool calling and observability in Java.**
 
@@ -416,6 +398,24 @@ A collection of small Java 25 sample applications built on Spring AI. Each folde
 - **−** Only PGVector is shown as a vector store
 
 <sub>Java, Ollama, OpenAI, Mistral AI, ONNX Transformers · Needs Java 25, Podman or Docker, Ollama, PGVector · [Repo](https://github.com/thomasvitale/llm-apps-java-spring-ai) · [📖 Docs ↗](https://docs.spring.io/spring-ai/reference/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/llm-apps-java-spring-ai/)</sub>
+
+<a name="serverless-chat-langchainjs"></a>
+### #&#8288;23 [serverless-chat-langchainjs](https://github.com/azure-samples/serverless-chat-langchainjs) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (23) · Freshness: active (100) · Maintenance: weak (10) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 869 · MIT · Oct 2026</sub>
+
+**RAG chatbot sample on Azure Functions, Cosmos DB and LangChain.js.**
+
+A TypeScript sample that answers questions over PDF documents using LangChain.js, with a Lit chat web component on Azure Static Web Apps and an Azure Functions API. Azure Cosmos DB for NoSQL stores vectors and per-user chat history, and Blob Storage holds the source files. It runs against Azure OpenAI or locally with Ollama (llama3.1 and nomic-embed-text).
+
+- **+** Full path wired: ingestion, vector store, retrieval, chat history and web UI
+- **+** Runs locally with Ollama, so no cloud cost for testing
+- **+** One-command Azure deploy with azd up, plus optional CI/CD via azd pipeline config
+- **+** Uses the HTTP protocol for AI chat apps between web app and API
+- **−** Tied to Azure services: Functions, Static Web Apps, Cosmos DB, Blob Storage
+- **−** Azure deploy needs Azure OpenAI access and role-assignment permissions
+- **−** Local Ollama models may not follow citation and follow-up question formatting
+- **−** Sample data is a fictitious company; ingestion is shown for PDFs in /data
+
+<sub>TypeScript, Azure OpenAI, Ollama llama3.1, Ollama nomic-embed-text · Needs Azure Static Web Apps, Azure Functions, Azure Cosmos DB for NoSQL, Azure Blob Storage, Azure OpenAI, Azure Developer CLI, Node.js 20+, Ollama (local mode) · [Repo](https://github.com/azure-samples/serverless-chat-langchainjs) · [📖 Docs ↗](https://learn.microsoft.com/azure/developer/javascript/ai/get-started-app-chat-template-langchainjs) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/serverless-chat-langchainjs/)</sub>
 
 <a name="rag-postgres-openai-python"></a>
 ### #&#8288;24 [rag-postgres-openai-python](https://github.com/azure-samples/rag-postgres-openai-python) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: niche (13) · Freshness: active (100) · Maintenance: weak (20) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 513 · MIT · Oct 2026</sub>
@@ -436,7 +436,7 @@ A FastAPI backend and React frontend that answer chat questions about rows in a 
 <sub>Python, azure-openai, openai, ollama · Needs postgres-pgvector, azure-openai-or-openai-or-ollama, azd · GitHub template · env example file · [Repo](https://github.com/azure-samples/rag-postgres-openai-python) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/rag-postgres-openai-python/)</sub>
 
 <a name="generativeaiexamples"></a>
-### #&#8288;25 [generativeaiexamples](https://github.com/nvidia/generativeaiexamples) <sub>score [41](../README.md#-how-we-rank "Score 41/100. Adoption: popular (58) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;25 [generativeaiexamples](https://github.com/nvidia/generativeaiexamples) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: popular (59) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.2k · Apache-2.0 · Sep 2026</sub>
 
 **NVIDIA notebooks and sample apps for RAG, agents and NeMo microservices.**
 
@@ -454,7 +454,7 @@ A collection of Jupyter notebooks and example apps showing how to use NVIDIA NIM
 <sub>Jupyter Notebook, NVIDIA NIM endpoints, Llama 3.1, Llama-3.2-1B-Instruct, NV-CLIP · Needs NVIDIA API Catalog key, Docker Compose, NVIDIA NIM, NVIDIA NeMo Microservices, Milvus · [Repo](https://github.com/nvidia/generativeaiexamples) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/generativeaiexamples/)</sub>
 
 <a name="ai-starter-kit"></a>
-### #&#8288;26 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (2) · Freshness: active (81) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
+### #&#8288;26 [ai-starter-kit](https://github.com/sambanova/ai-starter-kit) <sub>score [40](../README.md#-how-we-rank "Score 40/100. Adoption: niche (3) · Freshness: active (81) · Maintenance: patchy (50) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 251 · Apache-2.0 · Nov 2026</sub>
 
 **SambaNova Python kits for document RAG, search assistant, function calling.**
 
@@ -471,7 +471,7 @@ Nine Python kits, each with its own README: document text extraction, enterprise
 <sub>Jupyter Notebook, sambanova, langchain · Needs sambanova-api-key, tesseract, poppler · Docker · [Repo](https://github.com/sambanova/ai-starter-kit) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ai-starter-kit/)</sub>
 
 <a name="azure-search-openai-javascript"></a>
-### #&#8288;27 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (4) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · Oct 2026</sub>
+### #&#8288;27 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) <sub>score [39](../README.md#-how-we-rank "Score 39/100. Adoption: niche (5) · Freshness: active (100) · Maintenance: weak (16) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 327 · MIT · Oct 2026</sub>
 
 **TypeScript RAG on Azure AI Search with separate indexer and search services.**
 
@@ -488,7 +488,7 @@ The Node.js counterpart of the Azure RAG sample: a search API, an indexer servic
 <sub>TypeScript, azure-openai, langchain · Needs azure-subscription, azd, azure-ai-search, azure-openai, azure-blob-storage · GitHub template · [Repo](https://github.com/azure-samples/azure-search-openai-javascript) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-javascript/)</sub>
 
 <a name="llm-answer-engine"></a>
-### #&#8288;28 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (63) · Freshness: recent (56) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
+### #&#8288;28 [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) <sub>score [36](../README.md#-how-we-rank "Score 36/100. Adoption: popular (64) · Freshness: recent (55) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.0k · MIT · Apr 2026</sub>
 
 **Perplexity-style Next.js answer engine over Brave search results.**
 
@@ -523,7 +523,7 @@ Ragbits is a set of Python packages for building GenAI apps: typed prompts and L
 <sub>Python, 100+ LLMs via LiteLLM, local models, OpenAI · Needs LiteLLM, Qdrant, PgVector, Ray, Docling, Unstructured, OpenTelemetry, promptfoo · [Repo](https://github.com/deepsense-ai/ragbits) · [📖 Docs ↗](https://ragbits.deepsense.ai) · [🌐 Site ↗](https://deepsense.ai/rd-hub/ragbits/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/ragbits/)</sub>
 
 <a name="nano-graphrag"></a>
-### #&#8288;30 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (56) · Freshness: quiet (16) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
+### #&#8288;30 [nano-graphrag](https://github.com/gusye1234/nano-graphrag) <sub>score [31](../README.md#-how-we-rank "Score 31/100. Adoption: popular (56) · Freshness: quiet (15) · Maintenance: patchy (33) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.0k · MIT · Jan 2026</sub>
 
 **Compact Python GraphRAG library with swappable LLM, vector and graph storage.**
 
@@ -558,7 +558,7 @@ A Next.js starter that chunks the .mdx files in pages/ at build time, embeds eac
 <sub>TypeScript, openai · Needs supabase, postgres-pgvector, openai-api-key, docker-for-local-supabase · env example file · [Repo](https://github.com/supabase-community/nextjs-openai-doc-search) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/nextjs-openai-doc-search/)</sub>
 
 <a name="azure-search-openai-demo-csharp"></a>
-### #&#8288;32 [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (20) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 846 · MIT · Oct 2026</sub>
+### #&#8288;32 [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) <sub>score [30](../README.md#-how-we-rank "Score 30/100. Adoption: niche (21) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 846 · MIT · Oct 2026</sub>
 
 **.NET RAG chat sample over your documents with Azure OpenAI and AI Search.**
 
@@ -576,7 +576,7 @@ A C# reference app that answers questions over your own documents using Azure Op
 <sub>C#, gpt-4o-mini, Azure OpenAI embedding model, GPT-4V (optional) · Needs Azure OpenAI Service, Azure AI Search, Azure Blob Storage, Azure AI Document Intelligence, Azure Container Apps, Azure Developer CLI, Docker · [Repo](https://github.com/azure-samples/azure-search-openai-demo-csharp) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/azure-search-openai-demo-csharp/)</sub>
 
 <a name="lightningrag"></a>
-### #&#8288;33 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (10) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 456 · Apache-2.0 · Apr 2026</sub>
+### #&#8288;33 [lightningrag](https://github.com/lightningrag/lightningrag) <sub>score [22](../README.md#-how-we-rank "Score 22/100. Adoption: niche (11) · Freshness: recent (62) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 456 · Apache-2.0 · Apr 2026</sub>
 
 **Go and Vue RAG platform with knowledge bases, agent canvas and admin UI.**
 
@@ -629,7 +629,7 @@ Epsilla is a vector database written in C++ that stores vectors as a field type 
 <sub>C++ · [Repo](https://github.com/epsilla-cloud/vectordb) · [📖 Docs ↗](https://epsilla-inc.gitbook.io/epsilladb/) · [🌐 Site ↗](https://cloud.epsilla.com/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vectordb/)</sub>
 
 <a name="openai-support-agent-demo"></a>
-### #&#8288;36 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [2](../README.md#-how-we-rank "Score 2/100. Adoption: niche (0) · Freshness: quiet (7) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 209 · MIT · Dec 2025</sub>
+### #&#8288;36 [openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) <sub>score [2](../README.md#-how-we-rank "Score 2/100. Adoption: niche (1) · Freshness: quiet (6) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 209 · MIT · Dec 2025</sub>
 
 **Support console where the model drafts and a human approves.**
 

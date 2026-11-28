@@ -146,26 +146,8 @@ Vizro is a Python package (`pip install vizro`) that assembles multi-page data d
 
 <sub>Python · Needs Plotly, Dash, Pydantic · [Repo](https://github.com/mckinsey/vizro) · [▶️ Demo ↗](https://huggingface.co/spaces/vizro/demo-first-dashboard) · [📖 Docs ↗](https://vizro.readthedocs.io/en/stable/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/vizro/)</sub>
 
-<a name="raea"></a>
-### #&#8288;9 [raea](https://github.com/shinyobjectz/raea) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (56) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · custom license · Nov 2026</sub>
-
-**Render video, 3D and games from React and TypeScript on a local GPU.**
-
-raea is a Rust engine with a TypeScript SDK that renders videos, motion graphics, 3D scenes (Bevy) and games from React components, using the GPU and hardware encoders where available. A `raea` CLI and desktop app let an agent such as Claude write compositions, render frames, check output and iterate. It installs agent skills into ~/.claude/skills and ships a Claude plugin.
-
-- **+** One React/TS composition renders to mp4, a still frame, or live play as a game
-- **+** `raea check` flags clipped text, low contrast, freezes and loudness problems automatically
-- **+** No telemetry or update checks; `RAEA_OFFLINE=1` blocks all network access
-- **+** Installer adds agent skills; works with Claude, ChatGPT, Kimi or local models
-- **−** FSL-1.1-ALv2 license, not OSI open source; no competing products for two years
-- **−** Young project with near-daily releases; the README itself warns of rough edges
-- **−** Windows build is newest and least tested; needs a DirectX 12 or Vulkan driver
-- **−** Cloud storage, cross-computer search and publishing require paid Pro or Team plans
-
-<sub>TypeScript, Claude, ChatGPT, Kimi, local models · Needs Rust, bun, CMake, Vulkan or DirectX 12 GPU driver, ONNX Runtime · [Repo](https://github.com/shinyobjectz/raea) · [📖 Docs ↗](https://raea.io/learn/) · [🌐 Site ↗](https://raea.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/raea/)</sub>
-
 <a name="lowdefy"></a>
-### #&#8288;10 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: known (42) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
+### #&#8288;9 [lowdefy](https://github.com/lowdefy/lowdefy) <sub>score [78](../README.md#-how-we-rank "Score 78/100. Adoption: known (43) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (55) (each out of 100, weighted). Click for how we rank.") · ⭐ 3.0k · Apache-2.0 · Nov 2026</sub>
 
 **YAML-config framework for building internal web apps and admin tools.**
 
@@ -181,6 +163,24 @@ Lowdefy builds web apps from YAML config instead of hand-written React. Pages ar
 - **−** README promotes the maintainer's paid app-building service alongside the project
 
 <sub>JavaScript · Needs Node.js · [Repo](https://github.com/lowdefy/lowdefy) · [📖 Docs ↗](https://docs.lowdefy.com) · [🌐 Site ↗](https://lowdefy.com) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lowdefy/)</sub>
+
+<a name="raea"></a>
+### #&#8288;10 [raea](https://github.com/shinyobjectz/raea) <sub>score [77](../README.md#-how-we-rank "Score 77/100. Adoption: popular (57) · Freshness: active (100) · Maintenance: healthy (100) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.4k · custom license · Nov 2026</sub>
+
+**Render video, 3D and games from React and TypeScript on a local GPU.**
+
+raea is a Rust engine with a TypeScript SDK that renders videos, motion graphics, 3D scenes (Bevy) and games from React components, using the GPU and hardware encoders where available. A `raea` CLI and desktop app let an agent such as Claude write compositions, render frames, check output and iterate. It installs agent skills into ~/.claude/skills and ships a Claude plugin.
+
+- **+** One React/TS composition renders to mp4, a still frame, or live play as a game
+- **+** `raea check` flags clipped text, low contrast, freezes and loudness problems automatically
+- **+** No telemetry or update checks; `RAEA_OFFLINE=1` blocks all network access
+- **+** Installer adds agent skills; works with Claude, ChatGPT, Kimi or local models
+- **−** FSL-1.1-ALv2 license, not OSI open source; no competing products for two years
+- **−** Young project with near-daily releases; the README itself warns of rough edges
+- **−** Windows build is newest and least tested; needs a DirectX 12 or Vulkan driver
+- **−** Cloud storage, cross-computer search and publishing require paid Pro or Team plans
+
+<sub>TypeScript, Claude, ChatGPT, Kimi, local models · Needs Rust, bun, CMake, Vulkan or DirectX 12 GPU driver, ONNX Runtime · [Repo](https://github.com/shinyobjectz/raea) · [📖 Docs ↗](https://raea.io/learn/) · [🌐 Site ↗](https://raea.io) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/raea/)</sub>
 
 <a name="loopforge"></a>
 ### #&#8288;11 [loopforge](https://github.com/tencent/loopforge) <sub>score [74](../README.md#-how-we-rank "Score 74/100. Adoption: popular (64) · Freshness: active (100) · Maintenance: fair (72) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 6.1k · custom license · Nov 2026</sub>
@@ -433,7 +433,7 @@ Tkinter Designer is a Python CLI, installed with `pip install tkdesigner`, that 
 <sub>Python · Needs Python 3.9+, Figma API token, Figma · Docker · [Repo](https://github.com/parthjadhav/tkinter-designer) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/tkinter-designer/)</sub>
 
 <a name="open-agents"></a>
-### #&#8288;25 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (62) · Freshness: recent (69) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
+### #&#8288;25 [open-agents](https://github.com/vercel-labs/open-agents) <sub>score [46](../README.md#-how-we-rank "Score 46/100. Adoption: popular (62) · Freshness: recent (68) · Maintenance: weak (0) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 5.9k · MIT · Jun 2026</sub>
 
 **Reference app for background coding agents on Vercel sandboxes.**
 
@@ -450,7 +450,7 @@ pnpm monorepo (web app, agent, sandbox and shared packages) where a Next.js app 
 <sub>TypeScript · Needs PostgreSQL (Neon), Vercel Sandbox, Vercel OAuth app, GitHub App, Redis (optional), ElevenLabs (optional) · [Repo](https://github.com/vercel-labs/open-agents) · [▶️ Demo ↗](https://open-agents.dev/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/open-agents/)</sub>
 
 <a name="lealone"></a>
-### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (37) · Freshness: recent (70) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
+### #&#8288;26 [lealone](https://github.com/lealone/lealone) <sub>score [43](../README.md#-how-we-rank "Score 43/100. Adoption: known (38) · Freshness: recent (70) · Maintenance: patchy (37) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 2.6k · custom license · Oct 2026</sub>
 
 **Java database and service runtime with a built-in LLM agent for prompt-to-app.**
 
@@ -467,7 +467,7 @@ Lealone is a Java project that runs from a single jar and exposes an agent mode.
 <sub>Java, doubao, deepseek · Needs JDK 21+, Maven (to build), Doubao or DeepSeek API key · [Repo](https://github.com/lealone/lealone) · [🌐 Site ↗](https://lealone-plugins.github.io/lealone.github.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/lealone/)</sub>
 
 <a name="adorable"></a>
-### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (13) · Freshness: active (99) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 839 · MIT · Aug 2026</sub>
+### #&#8288;27 [adorable](https://github.com/freestyle-sh/adorable) <sub>score [34](../README.md#-how-we-rank "Score 34/100. Adoption: niche (14) · Freshness: active (98) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 839 · MIT · Aug 2026</sub>
 
 **Prompt-to-app builder running agents in persistent Freestyle VMs.**
 
@@ -485,7 +485,7 @@ Adorable is a Next.js app where a chat agent writes and runs code inside a Frees
 <sub>TypeScript, OpenAI, Anthropic · Needs Freestyle VMs (API key), OpenAI or Anthropic API key · [Repo](https://github.com/freestyle-sh/adorable) · [🌐 Site ↗](https://freestyle.sh) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/adorable/)</sub>
 
 <a name="writer-framework"></a>
-### #&#8288;28 [writer-framework](https://github.com/writer/writer-framework) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (25) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Sep 2026</sub>
+### #&#8288;28 [writer-framework](https://github.com/writer/writer-framework) <sub>score [32](../README.md#-how-we-rank "Score 32/100. Adoption: niche (26) · Freshness: recent (70) · Maintenance: weak (10) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.4k · Apache-2.0 · Sep 2026</sub>
 
 **Python framework with a drag-and-drop visual editor for AI apps.**
 
@@ -520,7 +520,7 @@ Chef is a fork of the bolt.diy stable branch that generates web apps backed by C
 <sub>TypeScript, Anthropic, Google, OpenAI, xAI · Needs Convex (hosted control plane), Convex OAuth application, WorkOS client ID, Node.js via nvm, pnpm · sign-in: WorkOS · [Repo](https://github.com/convex/chef) · [▶️ Demo ↗](https://chef.convex.dev) · [📖 Docs ↗](https://docs.convex.dev/chef) · [🌐 Site ↗](https://chef.convex.dev) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/chef/)</sub>
 
 <a name="claudable"></a>
-### #&#8288;30 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (49) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
+### #&#8288;30 [claudable](https://github.com/anymorph-ai/claudable) <sub>score [24](../README.md#-how-we-rank "Score 24/100. Adoption: known (50) · Freshness: slowing (32) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 4.1k · MIT · Mar 2026</sub>
 
 **Local Next.js app builder that drives Claude Code, Codex or Cursor CLI.**
 
@@ -555,7 +555,7 @@ FormCMS is a .NET content platform with a Node.js (Fastify) admin UI called Form
 <sub>C# · Needs PostgreSQL (optional), SQL Server (optional), MySQL (optional) · GitHub template · [Repo](https://github.com/formcms/formcms) · [▶️ Demo ↗](https://demo.formcms.com/mate) · [📖 Docs ↗](https://github.com/formcms/formcms/wiki) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/formcms/)</sub>
 
 <a name="coding-agent-template"></a>
-### #&#8288;32 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: niche (30) · Freshness: quiet (28) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
+### #&#8288;32 [coding-agent-template](https://github.com/vercel-labs/coding-agent-template) <sub>score [20](../README.md#-how-we-rank "Score 20/100. Adoption: known (30) · Freshness: quiet (28) · Maintenance: weak (0) · Agent-ready: minimal (30) (each out of 100, weighted). Click for how we rank.") · ⭐ 1.8k · Apache-2.0 · Feb 2026</sub>
 
 **Run Claude Code, Codex and other coding CLIs in Vercel Sandbox.**
 
@@ -573,7 +573,7 @@ Next.js 15 app with Drizzle on Postgres that lets signed-in users (GitHub or Ver
 <sub>TypeScript, Claude Code, OpenAI Codex CLI, GitHub Copilot CLI, Cursor CLI · Needs PostgreSQL (Neon), Vercel Sandbox credentials, GitHub or Vercel OAuth app, agent API keys (Anthropic, OpenAI, Cursor, Gemini, AI Gateway) · GitHub template · [Repo](https://github.com/vercel-labs/coding-agent-template) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/coding-agent-template/)</sub>
 
 <a name="claude-artifact-runner"></a>
-### #&#8288;33 [claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) <sub>score [2](../README.md#-how-we-rank "Score 2/100. Adoption: niche (8) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 590 · MIT · Nov 2025</sub>
+### #&#8288;33 [claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) <sub>score [3](../README.md#-how-we-rank "Score 3/100. Adoption: niche (9) · Freshness: quiet (0) · Maintenance: weak (0) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 590 · MIT · Nov 2025</sub>
 
 **CLI that runs, builds or scaffolds React projects from Claude Artifact files.**
 
