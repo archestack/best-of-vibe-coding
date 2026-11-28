@@ -75,7 +75,7 @@ Next.js app on LiveKit Agents UI components and the LiveKit JS SDK: welcome and 
 <sub>TypeScript · Needs LiveKit Cloud or self-hosted LiveKit server, a LiveKit agent · GitHub template · env example file · [Repo](https://github.com/livekit-examples/agent-starter-react) · [📖 Docs ↗](https://docs.livekit.io/agents) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-react/)</sub>
 
 <a name="pipecat-examples"></a>
-### #&#8288;5 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 438 · BSD-2-Clause · Nov 2026</sub>
+### #&#8288;5 [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) <sub>score [57](../README.md#-how-we-rank "Score 57/100. Adoption: known (30) · Freshness: active (100) · Maintenance: fair (60) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 439 · BSD-2-Clause · Nov 2026</sub>
 
 **Intermediate and advanced example bots built on the Pipecat voice framework.**
 
@@ -129,7 +129,7 @@ TypeScript starter for a voice AI assistant built on LiveKit Agents for Node.js.
 <sub>TypeScript, Gemma 4 31B, Fish Audio S2.1 Pro, OpenAI, Cartesia · Needs LiveKit Cloud, LiveKit CLI 2.18.8+, pnpm · GitHub template · Docker · env example file · [Repo](https://github.com/livekit-examples/agent-starter-node) · [📖 Docs ↗](https://docs.livekit.io/agents/start/voice-ai/) · [🌐 Site ↗](https://livekit.io/) · [📊 Score breakdown ↗](https://archestack.com/best-of-vibe-coding/projects/agent-starter-node/)</sub>
 
 <a name="agent-starter-android"></a>
-### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 107 · MIT · Nov 2026</sub>
+### #&#8288;8 [agent-starter-android](https://github.com/livekit-examples/agent-starter-android) <sub>score [42](../README.md#-how-we-rank "Score 42/100. Adoption: niche (12) · Freshness: active (100) · Maintenance: weak (27) · Agent-ready: none (0) (each out of 100, weighted). Click for how we rank.") · ⭐ 108 · MIT · Nov 2026</sub>
 
 **Kotlin and Jetpack Compose voice assistant client for LiveKit Agents.**
 
